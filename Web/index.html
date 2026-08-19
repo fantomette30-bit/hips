@@ -176,6 +176,25 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
 .pill svg{width:11px;height:11px;fill:currentColor}
 .pill.warn{color:var(--danger)}
 .pill.clock{color:var(--ink); margin-left:auto}
+.pill.score{color:var(--brass); position:relative}
+.pill.score b{font-variant-numeric:tabular-nums}
+#pointsFlash{
+position:absolute; left:50%; top:-2px; transform:translate(-50%,0);
+font-size:12px; font-weight:800; font-style:normal; color:var(--brass);
+opacity:0; pointer-events:none; white-space:nowrap;
+}
+#pointsFlash.up{animation:flyUp .9s ease-out}
+#pointsFlash.down{animation:flyUp .9s ease-out; color:var(--danger)}
+@keyframes flyUp{
+0%{opacity:0; transform:translate(-50%,2px)}
+15%{opacity:1}
+100%{opacity:0; transform:translate(-50%,-22px)}
+}
+.score-line{
+display:flex; justify-content:space-between; gap:10px; font-size:12.5px;
+color:var(--ink-2); padding:0 2px;
+}
+.score-line b{color:var(--brass); font-variant-numeric:tabular-nums}
 
 .banner{
   display:flex; gap:9px; align-items:flex-start; padding:11px 13px; border-radius:14px;
@@ -212,6 +231,13 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
 .cell.hint{background:var(--brass-soft)}
 .cell.err{background:var(--danger-soft); color:var(--danger)}
 .cell.pop{animation:pop .26s ease}
+.cell.unit-done{animation:unitDone .9s ease-out both}
+@keyframes unitDone{
+0%{background:transparent}
+12%{background:var(--brass-soft); box-shadow:inset 0 0 0 2px color-mix(in srgb, var(--brass) 50%, transparent)}
+45%{background:var(--brass-soft); box-shadow:inset 0 0 0 2px color-mix(in srgb, var(--brass) 30%, transparent)}
+100%{background:transparent; box-shadow:none}
+}
 @keyframes pop{0%{transform:scale(.6);opacity:.4}60%{transform:scale(1.1)}100%{transform:scale(1)}}
 .notes{
   position:absolute; inset:1px; display:grid; grid-template-columns:repeat(3,1fr); grid-template-rows:repeat(3,1fr);
@@ -339,6 +365,14 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
 .tile b{display:block; font-size:17px; font-weight:700; font-variant-numeric:tabular-nums}
 .tile span{font-size:10.5px; color:var(--ink-3); text-transform:uppercase; letter-spacing:.08em}
 #victory .actions{width:100%; max-width:340px; position:relative}
+.vic-score{position:relative; display:flex; flex-direction:column; align-items:center; gap:2px; margin:-8px 0 -4px}
+.vic-score b{
+font-size:44px; font-weight:800; line-height:1; color:var(--brass);
+font-variant-numeric:tabular-nums; letter-spacing:-.02em;
+}
+.vic-score span{font-size:11px; text-transform:uppercase; letter-spacing:.16em; color:var(--ink-2)}
+.vic-score em{font-style:normal; font-size:11.5px; color:var(--ink-2); margin-top:6px; text-align:center}
+.vic-score i{font-style:normal; font-size:11px; color:var(--ink-3)}
 
 .loading{
   position:fixed; inset:0; z-index:40; display:none; place-items:center;
@@ -381,6 +415,7 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
   <symbol id="i-chart" viewBox="0 0 24 24"><rect x="3" y="13" width="4.4" height="8" rx="1.3"/><rect x="9.8" y="8" width="4.4" height="13" rx="1.3"/><rect x="16.6" y="3" width="4.4" height="18" rx="1.3"/></symbol>
   <symbol id="i-sliders" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="8" x2="21" y2="8"/><line x1="3" y1="16" x2="21" y2="16"/><circle cx="9" cy="8" r="2.6" fill="currentColor" stroke="none"/><circle cx="16" cy="16" r="2.6" fill="currentColor" stroke="none"/></symbol>
   <symbol id="i-trophy" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M7 6H4v1a3 3 0 0 0 3 3M17 6h3v1a3 3 0 0 1-3 3"/><line x1="12" y1="14" x2="12" y2="18"/><line x1="8.5" y1="20" x2="15.5" y2="20"/></symbol>
+  <symbol id="i-gem" viewBox="0 0 24 24"><path d="M12 2.2 21 9l-9 12.8L3 9z"/></symbol>
   <symbol id="i-share" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="8,7 12,3 16,7"/><line x1="12" y1="3" x2="12" y2="15"/><path d="M5 12v8h14v-8"/></symbol>
 </svg>
 
@@ -444,6 +479,7 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
     <div class="status">
       <span class="pill" id="pillMistakes"><svg><use href="#i-x"></use></svg><span>0</span></span>
       <span class="pill" id="pillHints"><svg><use href="#i-bulb"></use></svg><span>0</span></span>
+      <span class="pill score" id="pillPoints"><svg><use href="#i-gem"></use></svg><span>0</span><i id="pointsFlash"></i></span>
       <button class="pill clock" id="pillClock"><svg><use href="#i-pause"></use></svg><span id="clockText">00:00</span></button>
     </div>
 
@@ -491,7 +527,7 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
     <div class="tiles" style="margin-bottom:14px">
       <div class="tile"><b id="stPlayed">0</b><span>Parties</span></div>
       <div class="tile"><b id="stWon">0</b><span>Victoires</span></div>
-      <div class="tile"><b id="stRate">—</b><span>Réussite</span></div>
+      <div class="tile"><b id="stRate">—</b><span>Points</span></div>
     </div>
     <div id="statsBody"></div>
     <button class="btn danger" id="resetStats">Réinitialiser les statistiques</button>
@@ -527,6 +563,12 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
   <div class="seal"><svg><use href="#i-seal"></use></svg></div>
   <h2 id="vicTitle">Grille résolue</h2>
   <p class="sub" id="vicSub">Niveau facile</p>
+  <div class="vic-score">
+    <b id="vicPoints">0</b>
+    <span>points</span>
+    <em id="vicPointsDetail"></em>
+    <i id="vicPointsBest"></i>
+  </div>
   <div class="tiles">
     <div class="tile"><b id="vicTime">00:00</b><span>Temps</span></div>
     <div class="tile"><b id="vicMistakes">0</b><span>Erreurs</span></div>
@@ -1140,7 +1182,21 @@ let G = null;
 let confettiStop = 0;
 let hintCells = [];
 
-const emptyStats = () => ({ played: 0, won: 0, best: null, total: 0, streak: 0, bestStreak: 0, flawless: 0 });
+const emptyStats = () => ({ played: 0, won: 0, best: null, total: 0, streak: 0,
+                            bestStreak: 0, flawless: 0, points: 0, bestPoints: 0 });
+/* Score : chaque bonne case rapporte 10 x le rang du niveau, multiplié par une
+   série de bonnes réponses (jusqu'à x2). Une erreur ou un indice coûte des
+   points et casse la série. La fin de partie ajoute un bonus de rapidité. */
+const POINTS = {
+  perCell: rank => 10 * rank,
+  mistake: rank => -20 * rank,
+  hint: rank => -30 * rank,
+  unit: rank => 50 * rank,
+  finish: rank => 200 * rank,
+  flawless: rank => 100 * rank,
+  par: rank => 240 + 120 * rank
+};
+const nf = n => Math.round(n).toLocaleString('fr-FR');
 const statOf = l => Object.assign(emptyStats(), stats[l] || {});
 const fmt = s => {
   s = Math.max(0, Math.floor(s));
@@ -1249,7 +1305,8 @@ function startGame(level) {
       bumpStat(level, s => { s.played++; });
       G = {
         puzzle: puzzle, values: puzzle.givens.slice(), notes: new Array(N).fill(0), history: [],
-        sel: null, noteMode: false, mistakes: 0, hints: 0, elapsed: 0, paused: false, complete: false
+        sel: null, noteMode: false, mistakes: 0, hints: 0, elapsed: 0, paused: false, complete: false,
+        points: 0, combo: 0, scored: new Array(N).fill(0), units: new Array(27).fill(0), bonus: null
       };
       LS.del('zen.game');
       $('#loading').classList.remove('on');
@@ -1272,7 +1329,11 @@ function resumeGame() {
   G = {
     puzzle: s.puzzle, values: s.values.slice(), notes: s.notes.slice(), history: [],
     sel: null, noteMode: false, mistakes: s.mistakes || 0, hints: s.hints || 0,
-    elapsed: s.elapsed || 0, paused: false, complete: false
+    elapsed: s.elapsed || 0, paused: false, complete: false,
+    points: s.points || 0, combo: 0,
+    scored: Array.isArray(s.scored) && s.scored.length === N ? s.scored.slice() : new Array(N).fill(0),
+    units: Array.isArray(s.units) && s.units.length === 27 ? s.units.slice() : new Array(27).fill(0),
+    bonus: null
   };
   clearHint();
   show('game');
@@ -1296,7 +1357,8 @@ function saveGame() {
   if (!G || G.complete) return;
   LS.set('zen.game', {
     puzzle: G.puzzle, values: G.values, notes: G.notes,
-    elapsed: G.elapsed, mistakes: G.mistakes, hints: G.hints
+    elapsed: G.elapsed, mistakes: G.mistakes, hints: G.hints,
+    points: G.points, scored: G.scored, units: G.units
   });
 }
 
@@ -1320,6 +1382,38 @@ const remainingOf = d => Math.max(0, 9 - G.values.filter(v => v === d).length);
 
 function record(m) { G.history.push(m); if (G.history.length > 400) G.history.shift(); }
 
+/* Les trois unités (ligne, colonne, bloc) auxquelles appartient une case. */
+const unitsOf = i => [INROW[i], 9 + INCOL[i], 18 + INBOX[i]];
+const unitCells = u => u < 9 ? ROWS[u] : u < 18 ? COLS[u - 9] : BOXES[u - 18];
+
+/* Vague lumineuse sur les unités qui viennent d'être complétées. */
+let flashCells = new Map();
+let flashTimer = 0;
+function flashUnits(units, from) {
+  for (const u of units) {
+    const cells = unitCells(u);
+    const origin = Math.max(0, cells.indexOf(from));
+    cells.forEach((c, k) => {
+      const delay = Math.abs(k - origin) * 45;
+      flashCells.set(c, Math.min(flashCells.has(c) ? flashCells.get(c) : 9999, delay));
+    });
+  }
+  clearTimeout(flashTimer);
+  flashTimer = setTimeout(() => { flashCells = new Map(); renderGame(); }, 950);
+}
+
+function award(delta) {
+  if (!delta) return;
+  G.points = Math.max(0, G.points + delta);
+  const flash = $('#pointsFlash');
+  if (flash) {
+    flash.textContent = (delta > 0 ? '+' : '') + nf(delta);
+    flash.className = '';
+    void flash.offsetWidth;                 // relance l'animation
+    flash.className = delta > 0 ? 'up' : 'down';
+  }
+}
+
 function place(digit, i) {
   const cleared = [], clearedNotes = [];
   if (settings.autoNotes) {
@@ -1329,7 +1423,33 @@ function place(digit, i) {
   G.values[i] = digit;
   G.notes[i] = 0;
   for (const p of cleared) G.notes[p] = G.notes[p] & ~(1 << digit);
-  if (digit !== G.puzzle.solution[i]) G.mistakes++;
+  const rank = LEVELS[G.puzzle.level].rank;
+  if (digit !== G.puzzle.solution[i]) {
+    G.mistakes++;
+    G.combo = 0;
+    award(POINTS.mistake(rank));
+  } else if (G.hintPlacing) {
+    G.scored[i] = 1;
+    G.combo = 0;
+    award(POINTS.hint(rank));
+  } else if (!G.scored[i]) {
+    G.scored[i] = 1;
+    G.combo = Math.min(10, G.combo + 1);
+    award(Math.round(POINTS.perCell(rank) * (1 + 0.1 * (G.combo - 1))));
+  }
+  if (digit === G.puzzle.solution[i]) {
+    const done = [];
+    for (const u of unitsOf(i)) {
+      if (G.units[u]) continue;
+      if (unitCells(u).every(c => G.values[c] === G.puzzle.solution[c])) { G.units[u] = 1; done.push(u); }
+    }
+    if (done.length) {
+      // une ligne fermée grâce à un indice ne rapporte pas de bonus
+      if (!G.hintPlacing) award(done.length * POINTS.unit(rank));
+      flashUnits(done, i);
+      if (navigator.vibrate) navigator.vibrate([8, 26, 8]);
+    }
+  }
   checkComplete();
 }
 
@@ -1387,6 +1507,8 @@ function restart() {
   G.notes = new Array(N).fill(0);
   G.history = []; G.sel = null; G.mistakes = 0; G.hints = 0; G.elapsed = 0;
   G.complete = false; G.paused = false;
+  G.points = 0; G.combo = 0; G.scored = new Array(N).fill(0);
+  G.units = new Array(27).fill(0); G.bonus = null;
   clearHint(); renderGame(); saveGame();
 }
 
@@ -1414,7 +1536,9 @@ function useHint() {
       applyNoteEliminations(pending);
       G.sel = s.pi;
       showHint(intro ? intro + ' Ensuite, ' + s.detail : s.title + ' — ' + s.detail, [s.pi]);
+      G.hintPlacing = true;
       place(s.pv, s.pi);
+      G.hintPlacing = false;
       renderGame(); saveGame();
       return;
     }
@@ -1426,7 +1550,9 @@ function useHint() {
   if (empty >= 0) {
     G.hints++; G.sel = empty;
     showHint('Case révélée.', [empty]);
+    G.hintPlacing = true;
     place(G.puzzle.solution[empty], empty);
+    G.hintPlacing = false;
     renderGame(); saveGame();
   }
 }
@@ -1453,13 +1579,25 @@ function checkComplete() {
   if (!G.values.every((v, i) => v === G.puzzle.solution[i])) return;
   G.complete = true; G.sel = null;
   const level = G.puzzle.level, st = statOf(level);
+  const rank = LEVELS[level].rank;
   // on ne fête un record que s'il a été obtenu sans indice
   const isRecord = (st.best === null || G.elapsed < st.best) && G.hints === 0;
+
+  // bonus de fin : arrivée, rapidité, partie sans faute ni indice
+  const finish = POINTS.finish(rank);
+  const speed = Math.max(0, Math.round((POINTS.par(rank) - G.elapsed) * rank * 0.5));
+  const flawless = (G.mistakes === 0 && G.hints === 0) ? POINTS.flawless(rank) : 0;
+  G.bonus = { finish: finish, speed: speed, flawless: flawless };
+  award(finish + speed + flawless);
+  const earned = G.points;
+
   bumpStat(level, s => {
     s.won++; s.total += G.elapsed;
     if (s.best === null || G.elapsed < s.best) s.best = G.elapsed;
     s.streak++; s.bestStreak = Math.max(s.bestStreak, s.streak);
     if (G.mistakes === 0 && G.hints === 0) s.flawless++;
+    s.points = (s.points || 0) + earned;
+    s.bestPoints = Math.max(s.bestPoints || 0, earned);
   });
   LS.del('zen.game');
   $('#vicTitle').textContent = isRecord ? 'Nouveau record !' : 'Grille résolue';
@@ -1467,6 +1605,13 @@ function checkComplete() {
   $('#vicTime').textContent = fmt(G.elapsed);
   $('#vicMistakes').textContent = G.mistakes;
   $('#vicHints').textContent = G.hints;
+  $('#vicPoints').textContent = nf(earned);
+  const parts = ['+' + nf(finish) + ' à l’arrivée'];
+  if (speed > 0) parts.push('+' + nf(speed) + ' de rapidité');
+  if (flawless > 0) parts.push('+' + nf(flawless) + ' sans faute ni indice');
+  $('#vicPointsDetail').textContent = parts.join(' · ');
+  const bestPoints = statOf(level).bestPoints;
+  $('#vicPointsBest').textContent = earned >= bestPoints ? 'Votre meilleur score à ce niveau' : 'Meilleur : ' + nf(bestPoints);
   setTimeout(() => { $('#victory').classList.add('on'); runConfetti(); }, 300);
   if (navigator.vibrate) navigator.vibrate([12, 40, 18]);
 }
@@ -1509,6 +1654,7 @@ function renderGame() {
   $('#pillMistakes').lastElementChild.textContent = G.mistakes;
   $('#pillMistakes').classList.toggle('warn', G.mistakes > 0);
   $('#pillHints').lastElementChild.textContent = G.hints;
+  $('#pillPoints').querySelector('span').textContent = nf(G.points);
   $('#clockText').textContent = fmt(G.elapsed);
   $('#pillClock').style.display = settings.timer ? '' : 'none';
   $('#pillClock').querySelector('use').setAttribute('href', G.paused ? '#i-play' : '#i-pause');
@@ -1532,6 +1678,12 @@ function renderGame() {
     else if (hintCells.indexOf(i) >= 0) cls += ' hint';
     else if (settings.same && v !== 0 && v === selValue) cls += ' same';
     else if (settings.peers && sel !== null && sel !== i && PEERS[sel].indexOf(i) >= 0) cls += ' peer';
+    if (flashCells.has(i)) {
+      cls += ' unit-done';
+      el.style.animationDelay = flashCells.get(i) + 'ms';
+    } else if (el.style.animationDelay) {
+      el.style.animationDelay = '';
+    }
     el.className = cls;
 
     if (v !== 0) {
@@ -1618,28 +1770,31 @@ function runConfetti() {
 function renderStats() {
   const total = LEVEL_KEYS.reduce((a, l) => {
     const s = statOf(l);
-    return { p: a.p + s.played, w: a.w + s.won };
-  }, { p: 0, w: 0 });
+    return { p: a.p + s.played, w: a.w + s.won, pts: a.pts + (s.points || 0) };
+  }, { p: 0, w: 0, pts: 0 });
   $('#stPlayed').textContent = total.p;
   $('#stWon').textContent = total.w;
-  $('#stRate').textContent = total.p ? Math.round(total.w / total.p * 100) + '%' : '—';
+  $('#stRate').textContent = total.pts ? nf(total.pts) : '—';
   const body = $('#statsBody');
   body.innerHTML = '';
   for (const l of LEVEL_KEYS) {
     const st = statOf(l), conf = LEVELS[l];
     const div = document.createElement('div');
     div.className = 'rows';
-    const best = st.best !== null ? '<b class="brass">' + fmt(st.best) + '</b>' : '<b class="muted">—</b>';
-    const avg = st.won ? '<b>' + fmt(st.total / st.won) + '</b>' : '<b class="muted">—</b>';
+    const best = st.best !== null ? '<b>' + fmt(st.best) + '</b>' : '<b class="muted">—</b>';
+    const avg = st.won ? fmt(st.total / st.won) : '—';
+    const bestPts = st.bestPoints ? '<b class="brass">' + nf(st.bestPoints) + '</b>' : '<b class="muted">—</b>';
     div.innerHTML =
       '<div class="stat-head"><span class="mark"><svg viewBox="0 0 22 22">' + pipsSvg(conf) + '</svg></span>' +
       conf.name + '<span class="val">' + st.played + (st.played > 1 ? ' parties' : ' partie') + '</span></div>' +
       '<div class="mini">' +
+        '<div>' + bestPts + '<span>Meilleur score</span></div>' +
         '<div>' + best + '<span>Record</span></div>' +
-        '<div>' + avg + '<span>Moyenne</span></div>' +
         '<div><b>' + st.won + '</b><span>Victoires</span></div>' +
       '</div>' +
       '<div class="stat-foot">' +
+        '<span>Temps moyen <b>' + avg + '</b></span>' +
+        '<span>Total <b>' + nf(st.points || 0) + ' pts</b></span>' +
         '<span>Série <b>' + st.streak + '</b></span>' +
         '<span>Meilleure série <b>' + st.bestStreak + '</b></span>' +
         '<span>Sans faute ni indice <b>' + st.flawless + '</b></span>' +

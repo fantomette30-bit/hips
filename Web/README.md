@@ -28,6 +28,21 @@ un bouton *Annuler* apparaît au bout d'une seconde et demie.
 Mesures (145 grilles enchaînées, aucune répétition) : 1 essai et 1 ms par
 grille facile, 3 essais et 24 ms en difficile, 37 essais et 725 ms en extrême.
 
+## Score
+
+Chaque bonne case rapporte `10 × rang du niveau` (Facile 10 … Extrême 60),
+multiplié par la série de bonnes réponses en cours (jusqu'à ×2). Fermer une
+ligne, une colonne ou un bloc rapporte `50 × rang` et déclenche une vague
+lumineuse sur les cases concernées. Une erreur coûte `20 × rang`, un indice
+`30 × rang`, et l'un comme l'autre remettent la série à zéro ; une ligne fermée
+grâce à un indice ne rapporte pas de bonus. À l'arrivée s'ajoutent `200 × rang`,
+un bonus de rapidité, et `100 × rang` si la partie s'est jouée sans faute ni
+indice. Une case déjà comptée ne rapporte pas deux fois, même effacée puis
+ressaisie.
+
+Le score court est affiché pendant la partie, le détail à la victoire, et les
+totaux par niveau dans les statistiques.
+
 ## Version hors ligne garantie (`docs/`)
 
 `Web/index.html` fonctionne déjà sans réseau une fois la page chargée, mais rien
@@ -57,6 +72,7 @@ node Tools/EngineCheck/webengine.test.js    # moteur : six niveaux, unicité, in
 node Tools/EngineCheck/webui.test.js        # interface réelle (Chromium, iPhone 13)
 node Tools/EngineCheck/webunlimited.test.js # 145 grilles enchaînées, aucune répétition
 node Tools/EngineCheck/webrobustness.test.js # cas limites : sauvegarde corrompue, annulation…
+node Tools/EngineCheck/webscore.test.js     # score : gains, malus, bonus, report
 node Tools/EngineCheck/weboffline.test.js   # PWA : serveur arrêté, réseau coupé
 ```
 
