@@ -79,6 +79,20 @@ indépendamment de l'interface. Les candidats d'une case sont encodés dans un
 masque de bits `UInt16`, ce qui rend le solveur assez rapide pour évaluer des
 dizaines de grilles par seconde sur l'appareil.
 
+## Vérification du moteur
+
+Le moteur est translittéré à l'identique en Python dans `Tools/EngineCheck/`
+pour être testé hors Xcode :
+
+```bash
+python3 Tools/EngineCheck/tests.py
+```
+
+45 grilles générées (15 par niveau) y sont contrôlées : solution unique,
+résolution possible sans deviner, indices qui ne placent jamais une valeur
+fausse, annulation exacte, notes, détection de victoire, sauvegarde. Voir
+`Tools/EngineCheck/README.md`.
+
 ## Vie privée
 
 Aucune donnée ne quitte l'appareil : pas de requête réseau dans le code, pas de

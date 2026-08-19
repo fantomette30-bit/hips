@@ -44,6 +44,9 @@ final class GameState: Identifiable {
     private(set) var hintMessage: String?
     private(set) var highlightedByHint: [Int] = []
     private(set) var lastFilledIndex: Int?
+    /// Incrémenté à chaque modification de la grille : sert de déclencheur
+    /// pour la sauvegarde automatique.
+    private(set) var revision: Int = 0
 
     @ObservationIgnored private var timer: Timer?
     @ObservationIgnored var autoRemoveNotes: Bool = true
@@ -222,12 +225,14 @@ final class GameState: Identifiable {
         for (offset, peer) in move.clearedIndices.enumerated() {
             notes[peer] = move.clearedNotes[offset]
         }
+        revision += 1
         selectedIndex = move.index
     }
 
     private func record(_ move: Move) {
         history.append(move)
         if history.count > 400 { history.removeFirst(history.count - 400) }
+        revision += 1
     }
 
     private func checkCompletion() {
@@ -249,6 +254,7 @@ final class GameState: Identifiable {
         isPaused = false
         selectedIndex = nil
         lastFilledIndex = nil
+        revision += 1
         clearHint()
         startClock()
     }

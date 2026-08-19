@@ -64,7 +64,7 @@ struct GameView: View {
             guard completed else { return }
             handleVictory()
         }
-        .onChange(of: game.values) { _, _ in
+        .onChange(of: game.revision) { _, _ in
             guard !game.isComplete else { return }
             GameStore.save(game.snapshot)
         }
@@ -110,6 +110,12 @@ struct GameView: View {
                     game.fillAllNotes()
                 } label: {
                     Label("Remplir les notes", systemImage: "square.grid.3x3.fill")
+                }
+                Button {
+                    Haptics.select()
+                    game.togglePause()
+                } label: {
+                    Label("Mettre en pause", systemImage: "pause.circle")
                 }
                 Button {
                     showRestartAlert = true

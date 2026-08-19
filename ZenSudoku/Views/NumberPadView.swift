@@ -53,10 +53,9 @@ struct NumberKey: View {
                 RoundedRectangle(cornerRadius: 12, style: .continuous)
                     .strokeBorder(Theme.separator.opacity(0.7), lineWidth: 1)
             )
-            .opacity(isExhausted ? 0.55 : 1)
+            .opacity(isExhausted && !isNoteMode ? 0.6 : 1)
         }
         .buttonStyle(PressableButtonStyle())
-        .disabled(isExhausted)
     }
 }
 

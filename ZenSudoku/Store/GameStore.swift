@@ -26,7 +26,11 @@ enum GameStore {
     static func load() -> SavedGame? {
         guard let data = try? Data(contentsOf: fileURL) else { return nil }
         guard let saved = try? JSONDecoder().decode(SavedGame.self, from: data) else { return nil }
-        guard saved.values.count == Sudoku.cellCount, saved.notes.count == Sudoku.cellCount else { return nil }
+        guard saved.values.count == Sudoku.cellCount,
+              saved.notes.count == Sudoku.cellCount,
+              saved.puzzle.givens.count == Sudoku.cellCount,
+              saved.puzzle.solution.count == Sudoku.cellCount,
+              saved.puzzle.solution.allSatisfy({ (1...9).contains($0) }) else { return nil }
         guard saved.values != saved.puzzle.solution else { return nil }
         return saved
     }

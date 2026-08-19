@@ -1,3 +1,4 @@
+import Foundation
 import SwiftUI
 
 struct HomeView: View {
@@ -143,8 +144,16 @@ struct ContinueCard: View {
     let saved: SavedGame
     let action: () -> Void
 
+    /// Progression sur les seules cases à remplir (les indices de départ ne comptent pas).
     private var progress: Double {
-        Double(saved.values.filter { $0 != 0 }.count) / Double(Sudoku.cellCount)
+        let fillable = saved.puzzle.givens.filter { $0 == 0 }.count
+        guard fillable > 0 else { return 1 }
+        var filled = 0
+        for index in 0..<min(saved.values.count, saved.puzzle.givens.count)
+        where saved.puzzle.givens[index] == 0 && saved.values[index] != 0 {
+            filled += 1
+        }
+        return Double(filled) / Double(fillable)
     }
 
     var body: some View {
