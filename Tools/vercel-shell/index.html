@@ -1,0 +1,62 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Sudoku Zen">
+<meta name="theme-color" content="#EDEFF3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0D1219" media="(prefers-color-scheme: dark)">
+<title>Sudoku Zen</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<style>
+:root{color-scheme:light dark}
+body{
+  margin:0; min-height:100dvh; display:grid; place-items:center; text-align:center;
+  background:#EDEFF3; color:#0F1620;
+  font-family:-apple-system,"SF Pro Text",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){ body{background:#0C1118; color:#E9EEF5} }
+.spin{
+  width:34px;height:34px;border-radius:50%;margin:0 auto 16px;
+  border:3px solid rgba(127,146,175,.35); border-top-color:#1B4B8F; animation:spin .8s linear infinite;
+}
+@media (prefers-color-scheme: dark){ .spin{border-top-color:#7FB0E8} }
+@keyframes spin{to{transform:rotate(360deg)}}
+b{display:block;font-size:16px}
+span{display:block;font-size:13px;opacity:.7;margin-top:6px;max-width:280px}
+</style>
+<div>
+  <div class="spin"></div>
+  <b id="t">Préparation du jeu…</b>
+  <span id="s">Première ouverture : le jeu s’installe sur votre appareil.</span>
+</div>
+<script>
+/* Cette page n'est qu'un sas. Le service worker garde le jeu complet en cache
+   et le sert directement aux ouvertures suivantes — y compris sans réseau. Il
+   va aussi chercher la dernière version quand une connexion est disponible :
+   les mises à jour arrivent sans rien réinstaller. */
+(async () => {
+  const fail = m => {
+    document.getElementById('t').textContent = 'Le jeu n’a pas pu se charger';
+    document.getElementById('s').textContent = m;
+    document.querySelector('.spin').style.display = 'none';
+  };
+  if (!('serviceWorker' in navigator)) {
+    location.replace('game.html');
+    return;
+  }
+  try {
+    await navigator.serviceWorker.register('sw.js');
+    await navigator.serviceWorker.ready;
+    if (!navigator.serviceWorker.controller) {
+      await new Promise(r => {
+        navigator.serviceWorker.addEventListener('controllerchange', r, { once: true });
+        setTimeout(r, 4000);
+      });
+    }
+    location.reload();
+  } catch (e) {
+    location.replace('game.html');
+  }
+})();
+</script>

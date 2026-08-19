@@ -54,10 +54,19 @@ manque pour une garantie réelle :
   cache à la première ouverture, puis sert toujours depuis ce cache ;
 * `icon-180.png`, `icon-1024.png` — l'icône de l'écran d'accueil.
 
-Une fois `docs/` publié (GitHub Pages : *Settings → Pages → Deploy from a
-branch → dossier `/docs`*), ouvrez l'adresse une fois sur l'iPhone, ajoutez-la à
+Une fois `docs/` publié, ouvrez l'adresse une fois sur l'iPhone et ajoutez-la à
 l'écran d'accueil : le jeu se lance ensuite sans aucun réseau, même après un
 redémarrage du téléphone.
+
+Deux façons de le publier :
+
+* **Vercel** (celle en service) — un sas décrit dans
+  [Tools/vercel-shell](../Tools/vercel-shell/README.md) sert le jeu depuis le
+  cache et va chercher tout seul la dernière version publiée dans `docs/`. Une
+  poussée sur la branche suffit donc à mettre à jour l'app installée.
+* **GitHub Pages** — *Settings → Pages → Deploy from a branch → dossier `/docs`*.
+  Le workflow `.github/workflows/pages.yml` s'en charge dès que les permissions
+  d'Actions sont en écriture.
 
 `docs/` est généré, ne l'éditez pas à la main :
 
