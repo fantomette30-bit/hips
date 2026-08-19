@@ -7,7 +7,7 @@ iPhone : manifeste, service worker qui met tout en cache, icônes séparées.
 
     python3 Tools/build-pwa.py
 """
-import base64, json, os, re, shutil, sys
+import base64, hashlib, json, os, re, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, 'Web', 'index.html')
@@ -45,7 +45,7 @@ if ('serviceWorker' in navigator) {
 SERVICE_WORKER = """/* Service worker : met tout le jeu en cache à la première visite, puis sert
    toujours depuis le cache. Le jeu s'ouvre alors sans réseau, y compris
    lancé depuis l'écran d'accueil, et même après un redémarrage du téléphone. */
-const CACHE = 'sudoku-zen-v%d';
+const CACHE = 'sudoku-zen-%s';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-1024.png'];
 
 self.addEventListener('install', event => {
@@ -105,7 +105,7 @@ MANIFEST = {
 }
 
 
-def build(version=1):
+def build(version=None):
     html = open(SRC, encoding='utf-8').read()
     os.makedirs(OUT, exist_ok=True)
 
@@ -126,7 +126,9 @@ def build(version=1):
         <span id="offlineState" style="display:block;margin-top:4px;color:var(--accent);font-weight:600"></span>""", 1)
 
     open(os.path.join(OUT, 'index.html'), 'w', encoding='utf-8').write(html + REGISTRATION)
-    open(os.path.join(OUT, 'sw.js'), 'w', encoding='utf-8').write(SERVICE_WORKER % version)
+    # le nom du cache dépend du contenu : une nouvelle version chasse l'ancienne
+    stamp = version or hashlib.sha256(html.encode('utf-8')).hexdigest()[:10]
+    open(os.path.join(OUT, 'sw.js'), 'w', encoding='utf-8').write(SERVICE_WORKER % stamp)
     open(os.path.join(OUT, 'manifest.webmanifest'), 'w', encoding='utf-8').write(
         json.dumps(MANIFEST, ensure_ascii=False, indent=2) + '\n')
 
@@ -136,8 +138,8 @@ def build(version=1):
     open(os.path.join(OUT, 'icon-180.png'), 'wb').write(base64.b64decode(icon.group(1)))
     shutil.copy(os.path.join(ROOT, 'ZenSudoku/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png'),
                 os.path.join(OUT, 'icon-1024.png'))
-    print('docs/ reconstruit depuis Web/index.html')
+    print('docs/ reconstruit depuis Web/index.html (cache %s)' % stamp)
 
 
 if __name__ == '__main__':
-    build(int(sys.argv[1]) if len(sys.argv) > 1 else 1)
+    build(sys.argv[1] if len(sys.argv) > 1 else None)

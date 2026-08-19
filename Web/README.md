@@ -56,6 +56,7 @@ python3 Tools/build-pwa.py
 node Tools/EngineCheck/webengine.test.js    # moteur : six niveaux, unicité, indices
 node Tools/EngineCheck/webui.test.js        # interface réelle (Chromium, iPhone 13)
 node Tools/EngineCheck/webunlimited.test.js # 145 grilles enchaînées, aucune répétition
+node Tools/EngineCheck/webrobustness.test.js # cas limites : sauvegarde corrompue, annulation…
 node Tools/EngineCheck/weboffline.test.js   # PWA : serveur arrêté, réseau coupé
 ```
 
@@ -65,3 +66,10 @@ indices jusqu'à la victoire, statistiques, reprise après rechargement, thème
 sombre, génération d'une grille extrême. Le test hors ligne va plus loin : il
 sert `docs/`, laisse le service worker s'installer, **tue le serveur**, coupe le
 réseau, puis rouvre le jeu et termine une partie de niveau Master.
+
+Le test de robustesse couvre les cas tordus : sauvegarde ou statistiques
+corrompues, annulation d'une génération, double appui sur deux niveaux,
+40 saisies puis annulation complète, cases fixes, notes sur case remplie,
+pause, victoire rejouée, reprise après rechargement, recommencer, tous les
+réglages désactivés, stockage indisponible, historique saturé au-delà de
+400 coups, clavier, changement de thème en pleine partie.

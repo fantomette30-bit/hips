@@ -25,7 +25,10 @@ const { spawn } = require('child_process');
   const stateText = await page.locator('#offlineState').textContent();
   console.log('  état affiché :', JSON.stringify(stateText));
   const cached = await page.evaluate(async () => {
-    const c = await caches.open('sudoku-zen-v1');
+    // le nom du cache dépend du contenu publié : on le retrouve dynamiquement
+    const names = (await caches.keys()).filter(n => n.startsWith('sudoku-zen'));
+    if (!names.length) return [];
+    const c = await caches.open(names[0]);
     const keys = await c.keys();
     return keys.map(r => new URL(r.url).pathname);
   });

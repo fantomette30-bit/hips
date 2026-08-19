@@ -1200,9 +1200,9 @@ function renderHome() {
     list.appendChild(b);
   }
 
-  const saved = LS.get('zen.game', null);
+  const saved = readSaved();
   const card = $('#resumeCard');
-  if (saved && saved.values && saved.values.some((v, i) => v !== saved.puzzle.solution[i])) {
+  if (saved) {
     const fillable = saved.puzzle.givens.filter(v => v === 0).length;
     const filled = saved.puzzle.givens.reduce((n, g, i) => n + (g === 0 && saved.values[i] !== 0 ? 1 : 0), 0);
     const p = fillable ? filled / fillable : 1;
@@ -1222,8 +1222,6 @@ function renderHome() {
 let generationToken = 0;
 
 function startGame(level) {
-  const saved = LS.get('zen.game', null);
-  if (saved) bumpStat(saved.puzzle.level, s => { s.streak = 0; });
   const token = ++generationToken;
   const conf = LEVELS[level];
   $('#loadingTitle').textContent = 'Création d’une grille ' + conf.name.toLowerCase();
@@ -1245,6 +1243,9 @@ function startGame(level) {
     onDone: puzzle => {
       if (token !== generationToken) return;
       clearTimeout(slowTimer);
+      // la partie abandonnée ne casse la série qu'une fois la nouvelle lancée
+      const abandoned = readSaved();
+      if (abandoned) bumpStat(abandoned.puzzle.level, s => { s.streak = 0; });
       bumpStat(level, s => { s.played++; });
       G = {
         puzzle: puzzle, values: puzzle.givens.slice(), notes: new Array(N).fill(0), history: [],
@@ -1266,8 +1267,8 @@ function cancelGeneration() {
 }
 
 function resumeGame() {
-  const s = LS.get('zen.game', null);
-  if (!s) return;
+  const s = readSaved();
+  if (!s) { LS.del('zen.game'); renderHome(); return; }
   G = {
     puzzle: s.puzzle, values: s.values.slice(), notes: s.notes.slice(), history: [],
     sel: null, noteMode: false, mistakes: s.mistakes || 0, hints: s.hints || 0,
@@ -1276,6 +1277,19 @@ function resumeGame() {
   clearHint();
   show('game');
   renderGame();
+}
+
+/* Lit la partie sauvegardée, en refusant tout ce qui est incomplet ou abîmé. */
+function readSaved() {
+  const g = LS.get('zen.game', null);
+  if (!g || !g.puzzle || !Array.isArray(g.values) || !Array.isArray(g.notes)) return null;
+  if (g.values.length !== N || g.notes.length !== N) return null;
+  const p = g.puzzle;
+  if (!Array.isArray(p.givens) || p.givens.length !== N) return null;
+  if (!Array.isArray(p.solution) || p.solution.length !== N) return null;
+  if (!LEVELS[p.level]) return null;
+  if (g.values.every((v, i) => v === p.solution[i])) return null;   // déjà gagnée
+  return g;
 }
 
 function saveGame() {
@@ -1435,6 +1449,7 @@ function showHint(text, cells) { hintCells = cells; $('#hintText').textContent =
 function clearHint() { hintCells = []; $('#hintBanner').hidden = true; }
 
 function checkComplete() {
+  if (G.complete) return;
   if (!G.values.every((v, i) => v === G.puzzle.solution[i])) return;
   G.complete = true; G.sel = null;
   const level = G.puzzle.level, st = statOf(level);
