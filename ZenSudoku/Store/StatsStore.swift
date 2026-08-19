@@ -31,27 +31,27 @@ final class StatsStore {
         stats = StatsStore.loadFromDisk() ?? [:]
     }
 
-    func stats(for difficulty: Difficulty) -> DifficultyStats {
+    func entry(for difficulty: Difficulty) -> DifficultyStats {
         stats[difficulty.rawValue] ?? DifficultyStats()
     }
 
     var totalWins: Int {
-        Difficulty.allCases.reduce(0) { $0 + stats(for: $1).won }
+        Difficulty.allCases.reduce(0) { $0 + entry(for: $1).won }
     }
 
     var totalPlayed: Int {
-        Difficulty.allCases.reduce(0) { $0 + stats(for: $1).played }
+        Difficulty.allCases.reduce(0) { $0 + entry(for: $1).played }
     }
 
     func recordStart(_ difficulty: Difficulty) {
-        var entry = stats(for: difficulty)
+        var entry = self.entry(for: difficulty)
         entry.played += 1
         stats[difficulty.rawValue] = entry
         persist()
     }
 
     func recordWin(_ difficulty: Difficulty, time: TimeInterval, flawless: Bool) {
-        var entry = stats(for: difficulty)
+        var entry = self.entry(for: difficulty)
         entry.won += 1
         entry.totalTime += time
         if let best = entry.bestTime {
@@ -67,14 +67,14 @@ final class StatsStore {
     }
 
     func recordAbandon(_ difficulty: Difficulty) {
-        var entry = stats(for: difficulty)
+        var entry = self.entry(for: difficulty)
         entry.currentStreak = 0
         stats[difficulty.rawValue] = entry
         persist()
     }
 
     func isNewRecord(_ difficulty: Difficulty, time: TimeInterval) -> Bool {
-        guard let best = stats(for: difficulty).bestTime else { return true }
+        guard let best = entry(for: difficulty).bestTime else { return true }
         return time < best
     }
 

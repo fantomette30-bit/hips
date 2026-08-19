@@ -56,8 +56,7 @@ struct HomeView: View {
             }
             ForEach(Difficulty.allCases) { difficulty in
                 DifficultyRow(difficulty: difficulty,
-                              bestTime: stats.stats(for: difficulty).bestTime,
-                              wins: stats.stats(for: difficulty).won) {
+                              bestTime: stats.entry(for: difficulty).bestTime) {
                     onStart(difficulty)
                 }
             }
@@ -95,7 +94,6 @@ struct DifficultyRow: View {
 
     let difficulty: Difficulty
     let bestTime: TimeInterval?
-    let wins: Int
     let action: () -> Void
 
     var body: some View {

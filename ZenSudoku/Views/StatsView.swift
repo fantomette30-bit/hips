@@ -14,7 +14,7 @@ struct StatsView: View {
                     VStack(spacing: 16) {
                         overview
                         ForEach(Difficulty.allCases) { difficulty in
-                            StatsCard(difficulty: difficulty, entry: stats.stats(for: difficulty))
+                            StatsCard(difficulty: difficulty, entry: stats.entry(for: difficulty))
                         }
                         Button(role: .destructive) {
                             showResetAlert = true

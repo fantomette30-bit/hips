@@ -70,7 +70,10 @@ struct GameView: View {
         }
         .alert("Recommencer la grille ?", isPresented: $showRestartAlert) {
             Button("Annuler", role: .cancel) { }
-            Button("Recommencer", role: .destructive) { game.restart() }
+            Button("Recommencer", role: .destructive) {
+                stats.recordStart(game.difficulty)
+                game.restart()
+            }
         } message: {
             Text("Les chiffres saisis et le chronomètre seront remis à zéro.")
         }
