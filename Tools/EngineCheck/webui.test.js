@@ -1,21 +1,23 @@
 const { chromium, devices } = require('playwright');
 
 (async () => {
-  const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome' });
+  const browser = await chromium.launch({ executablePath: process.env.CHROMIUM_PATH || '/opt/pw-browsers/chromium-1194/chrome-linux/chrome' });
   const ctx = await browser.newContext({ ...devices['iPhone 13'], offline: true });
   const page = await ctx.newPage();
   const errors = [];
   page.on('pageerror', e => errors.push('pageerror: ' + e.message));
   page.on('console', m => { const t = m.text(); if (m.type() === 'error' && !t.includes('ERR_INTERNET_DISCONNECTED')) errors.push('console: ' + t); });
 
-  await page.goto('file:///home/user/hips/Web/index.html');
+  await page.goto('file://' + require('path').join(__dirname, '../../Web/index.html'));
   await page.waitForTimeout(400);
 
   const check = (c, m) => { if (!c) errors.push('ECHEC: ' + m); };
 
   // --- accueil
   check(await page.locator('#home.on').isVisible(), 'accueil non affiché');
-  check((await page.locator('#levelList button').count()) === 3, '3 niveaux attendus');
+  check((await page.locator('#levelList button').count()) === 6, '6 niveaux attendus');
+  const names = await page.locator('#levelList button .txt b').allTextContents();
+  check(names.join(',') === 'Facile,Moyen,Difficile,Expert,Master,Extrême', 'niveaux inattendus: ' + names.join(','));
   check(await page.locator('#resumeCard').isHidden(), 'carte reprise visible sans partie');
   await page.screenshot({ path: 'shot-home.png' });
 
@@ -32,6 +34,20 @@ const { chromium, devices } = require('playwright');
   check(await page.locator('#board .cell').count() === 81, '81 cases attendues');
   const clues = await page.evaluate(() => G.puzzle.givens.filter(v => v).length);
   check(clues >= 24 && clues <= 32, 'nombre d’indices inattendu: ' + clues);
+
+  // le niveau le plus dur doit se générer dans un délai raisonnable
+  await page.locator('#btnBack').click();
+  const tX = Date.now();
+  await page.locator('#levelList button').nth(5).click();
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
+  const extremeMs = Date.now() - tX;
+  const xInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, clues: G.puzzle.givens.filter(v => v).length }));
+  check(xInfo.lvl === 'extreme' && xInfo.score >= 700, 'grille extrême non conforme: ' + JSON.stringify(xInfo));
+  console.log('  extrême généré en', extremeMs, 'ms —', JSON.stringify(xInfo));
+  await page.screenshot({ path: 'shot-extreme.png' });
+  await page.locator('#btnBack').click();
+  await page.locator('#levelList button').nth(2).click();
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
 
   // --- sélection, saisie, erreur, annulation
   const firstEmpty = await page.evaluate(() => G.values.findIndex(v => v === 0));
@@ -86,7 +102,7 @@ const { chromium, devices } = require('playwright');
 
   // --- statistiques enregistrées
   const st = await page.evaluate(() => JSON.parse(localStorage.getItem('zen.stats')));
-  check(st.hard && st.hard.won === 1 && st.hard.played === 1, 'statistiques incorrectes: ' + JSON.stringify(st));
+  check(st.hard && st.hard.won === 1 && st.hard.played >= 1, 'statistiques incorrectes: ' + JSON.stringify(st));
 
   // --- reprise après fermeture : partie en cours conservée
   await page.locator('#levelList button').nth(0).click();

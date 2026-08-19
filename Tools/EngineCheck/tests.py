@@ -13,39 +13,46 @@ def solved_board_valid(b):
         if sorted(b[i] for i in u) != list(range(1, 10)): return False
     return True
 
-print("== 1. Génération (15 grilles par niveau) ==")
+print("== 1. Génération (six niveaux) ==")
+COUNTS = {"easy": 8, "medium": 8, "hard": 6, "expert": 4, "master": 3, "extreme": 2}
+# Python tourne environ 50 fois moins vite que le moteur embarqué : on lui laisse
+# un budget généreux pour qu'il fasse autant d'essais que l'app sur l'appareil.
+BUDGETS = {"easy": 5, "medium": 5, "hard": 15, "expert": 45, "master": 90, "extreme": 120}
 puzzles = {}
-for d in ("easy", "medium", "hard"):
+for d in LEVEL_ORDER:
     rng = random.Random(2024)
+    conf = DIFFICULTIES[d]
     got, t0 = [], time.time()
-    for _ in range(15):
-        p = generate(d, rng)
+    for _ in range(COUNTS[d]):
+        p = generate(d, rng, budget=BUDGETS[d])
         got.append(p)
-        conf = DIFFICULTIES[d]
         check(solved_board_valid(p["solution"]), f"{d}: solution invalide")
         check(all(g == 0 or g == s for g, s in zip(p["givens"], p["solution"])),
               f"{d}: indice incompatible avec la solution")
         check(count_solutions(p["givens"]) == 1, f"{d}: solution non unique")
-        check(logical_solve(p["givens"], 4)[0], f"{d}: grille non résoluble logiquement")
+        check(rate(p["givens"]) is not None, f"{d}: grille non résoluble sans deviner")
         clues = CELL_COUNT - p["givens"].count(0)
         check(clues >= conf["clue_floor"], f"{d}: {clues} indices < plancher {conf['clue_floor']}")
         check(not p.get("fallback"), f"{d}: repli d'urgence déclenché")
     puzzles[d] = got
     scores = sorted(x["score"] for x in got)
     clues = [CELL_COUNT - x["givens"].count(0) for x in got]
-    inband = sum(1 for x in got if DIFFICULTIES[d]["accepted"][0] <= x["score"] <= DIFFICULTIES[d]["accepted"][1])
-    print(f"  {d:7} score {scores[0]:.0f}..{scores[-1]:.0f} (méd {statistics.median(scores):.0f}) | "
-          f"indices {min(clues)}-{max(clues)} | dans la fourchette {inband}/15 | "
-          f"essais moy {statistics.mean([x['attempts'] for x in got]):.1f} | {(time.time()-t0)/15:.2f}s/grille (python)")
+    lo, hi = conf["accepted"]
+    inband = sum(1 for x in got if lo <= x["score"] <= hi and x["tier"] >= conf["tier"])
+    tiers = sorted(x["tier"] for x in got)
+    print(f"  {d:8} score {scores[0]:.0f}..{scores[-1]:.0f} (visé {lo}-{hi if hi < 100000 else '∞'}) | "
+          f"indices {min(clues)}-{max(clues)} | dans la fourchette {inband}/{len(got)} | "
+          f"paliers {tiers} | {(time.time()-t0)/len(got):.1f}s/grille (python)")
 
-print("== 2. Niveaux bien ordonnés ==")
-med = {d: statistics.median([x["score"] for x in puzzles[d]]) for d in puzzles}
-check(med["easy"] < med["medium"] < med["hard"], f"ordre des difficultés incorrect: {med}")
+print("== 2. Niveaux strictement croissants ==")
+med = {d: statistics.median([x["score"] for x in puzzles[d]]) for d in LEVEL_ORDER}
+ordered = all(med[LEVEL_ORDER[i]] > med[LEVEL_ORDER[i-1]] for i in range(1, len(LEVEL_ORDER)))
+check(ordered, f"ordre des difficultés incorrect: {med}")
 print("  médianes:", {k: round(v) for k, v in med.items()})
 
 print("== 3. Les indices résolvent la grille, posent toujours un chiffre, sans erreur ==")
-for d in puzzles:
-    for p in puzzles[d][:8]:
+for d in LEVEL_ORDER:
+    for p in puzzles[d][:3]:
         g = GameState(p)
         steps = 0
         while not g.is_complete and steps < 200:
@@ -63,7 +70,7 @@ for d in puzzles:
 
 print("== 3 bis. Indices sur grilles exigeant des éliminations ==")
 tricky = 0
-for p in puzzles["hard"]:
+for p in puzzles["hard"] + puzzles["expert"] + puzzles["master"] + puzzles["extreme"]:
     b = list(p["givens"])
     cs = candidates(b)
     needs_elimination = False
@@ -83,7 +90,7 @@ for p in puzzles["hard"]:
         check(g.values != before, "difficile: indice bloqué sur une grille à éliminations")
         if g.values == before: break
     check(g.is_complete, "difficile: indices bloqués avant la fin")
-print(f"  grilles difficiles exigeant au moins une élimination : {tricky}/15")
+print(f"  grilles corsées exigeant au moins une élimination : {tricky}")
 
 print("== 4. Indices sur grille avec erreur du joueur ==")
 p = puzzles["medium"][0]
@@ -97,7 +104,7 @@ check(g.highlighted_by_hint == [empty], "l'indice ne pointe pas l'erreur")
 check(g.values[empty] == wrong, "l'indice a modifié la case fautive au lieu de la signaler")
 
 print("== 5. Annulation : retour exact à l'état initial ==")
-for d in puzzles:
+for d in LEVEL_ORDER[:4]:
     p = puzzles[d][1]
     g = GameState(p)
     rng = random.Random(7)
@@ -158,7 +165,7 @@ g.select(i); g.input(sol)
 check(g.remaining(sol) == 9 - p["givens"].count(sol) - 1, "compteur non décrémenté")
 
 print("== 9. Sauvegarde / reprise (round-trip JSON) ==")
-p = puzzles["hard"][0]
+p = puzzles["expert"][0]
 g = GameState(p)
 g.select([i for i in range(CELL_COUNT) if g.values[i] == 0][0])
 g.input(3); g.is_note_mode = True; g.input(7); g.is_note_mode = False
@@ -170,7 +177,7 @@ check(restored["values"] == g.values and restored["notes"] == g.notes, "round-tr
 check(all(0 <= n <= 1022 for n in g.notes), "masque de notes hors bornes UInt16")
 
 print("== 10. Robustesse : grille pleine, grille vide, valeurs limites ==")
-check(rate(puzzles["easy"][0]["solution"]) == 0, "score d'une grille déjà résolue != 0")
+check(rate(puzzles["easy"][0]["solution"])[0] == 0, "score d'une grille déjà résolue != 0")
 check(logical_solve(puzzles["easy"][0]["solution"], 4) == (True, 0), "résolution d'une grille pleine")
 check(count_solutions([0] * CELL_COUNT, 2) == 2, "grille vide devrait avoir plusieurs solutions")
 g = GameState(puzzles["easy"][0])

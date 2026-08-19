@@ -3,7 +3,7 @@ import Foundation
 /// Génère des grilles entièrement sur l'appareil, sans aucun accès réseau.
 enum SudokuGenerator {
 
-    private static let maximumAttempts = 24
+    private static let maximumAttempts = 200
 
     // MARK: - Grille complète
 
@@ -31,23 +31,33 @@ enum SudokuGenerator {
 
     /// Crée une grille pour le niveau demandé.
     ///
-    /// Le principe : on creuse une grille complète par paires symétriques, puis
-    /// on note la difficulté réelle du résultat (`DifficultyRater`). Tant que le
-    /// score ne tombe pas dans la fourchette du niveau, on recommence, en
-    /// gardant la meilleure grille rencontrée. Toutes les grilles renvoyées ont
-    /// une solution unique et sont résolubles sans deviner.
+    /// Le principe : on creuse une grille complète, puis on note la difficulté
+    /// réelle du résultat (`DifficultyRater`). Tant que le score ne tombe pas
+    /// dans la fourchette du niveau, on recommence — dans la limite du budget de
+    /// temps du niveau, la meilleure grille rencontrée servant de repli. Toutes
+    /// les grilles renvoyées ont une solution unique et sont résolubles sans
+    /// deviner.
     static func generate(difficulty: Difficulty) -> Puzzle {
         var generator = SystemRandomNumberGenerator()
+        let started = Date()
         var best: Puzzle?
         var bestGap = Double.greatestFiniteMagnitude
+        var attempts = 0
 
-        for _ in 0..<maximumAttempts {
+        while attempts < maximumAttempts {
+            attempts += 1
+            if attempts > 2 && Date().timeIntervalSince(started) > difficulty.generationBudget { break }
+
             let solution = completedGrid(using: &generator)
             let givens = dig(solution: solution, difficulty: difficulty, using: &generator)
-            guard let score = DifficultyRater.score(board: givens) else { continue }
+            guard let rating = DifficultyRater.rate(board: givens) else { continue }
             let puzzle = Puzzle(givens: givens, solution: solution, difficulty: difficulty)
-            if difficulty.acceptedScore.contains(score) { return puzzle }
-            let gap = abs(score - difficulty.targetScore)
+
+            if difficulty.acceptedScore.contains(rating.score) && rating.hardestTier >= difficulty.minimumTier {
+                return puzzle
+            }
+            var gap = abs(rating.score - difficulty.targetScore)
+            if rating.hardestTier < difficulty.minimumTier { gap += 250 }
             if gap < bestGap {
                 bestGap = gap
                 best = puzzle
@@ -72,7 +82,7 @@ enum SudokuGenerator {
             if clues <= difficulty.clueFloor { break }
             if puzzle[index] == 0 { continue }
             let mirror = Sudoku.cellCount - 1 - index
-            let removed = index == mirror ? [index] : [index, mirror]
+            let removed = (difficulty.symmetricDigging && index != mirror) ? [index, mirror] : [index]
             if clues - removed.count < difficulty.clueFloor { continue }
 
             let saved = removed.map { puzzle[$0] }

@@ -4,7 +4,8 @@ Application iOS native (SwiftUI) pour jouer au Sudoku n'importe où, y compris e
 mode avion : les grilles sont **créées sur l'iPhone**, il n'y a ni réseau, ni
 compte, ni publicité, ni suivi.
 
-Trois niveaux : **Facile**, **Moyen**, **Difficile**.
+Six niveaux, comme les grands sites de sudoku : **Facile**, **Moyen**,
+**Difficile**, **Expert**, **Master**, **Extrême**.
 
 ## Ouvrir et lancer (sur Mac)
 
@@ -54,14 +55,24 @@ liste explicitement ses fichiers pour rester compatible avec Xcode 15).
 La difficulté n'est pas déduite du seul nombre de cases vides : elle est **mesurée**.
 
 1. **Grille complète** : remplissage aléatoire par retour sur trace.
-2. **Creusement** par paires symétriques :
-   - *Facile* et *Moyen* : une case n'est retirée que si la grille reste résoluble avec les techniques simples (candidats uniques et cachés, puis groupes verrouillés / paires nues au niveau moyen).
-   - *Difficile* : une case est retirée tant que la **solution reste unique**, ce qui laisse apparaître des grilles exigeant des techniques avancées.
-3. **Notation** (`DifficultyRater`) : la grille est rejouée coup par coup comme le ferait un joueur. Chaque coup coûte d'autant plus cher qu'il est difficile à repérer (un candidat unique parmi quatre disponibles coûte 1, un candidat caché isolé coûte 22, une technique avancée 45 à 80).
-4. **Sélection** : si le score ne tombe pas dans la fourchette du niveau, la grille est régénérée (24 essais maximum, la meilleure candidate est conservée).
+2. **Creusement** :
+   - *Facile* et *Moyen* : une case n'est retirée que si la grille reste résoluble avec les techniques simples (candidats uniques et cachés, puis groupes verrouillés et paires nues).
+   - *Difficile* à *Extrême* : une case est retirée tant que la **solution reste unique**, ce qui laisse apparaître des grilles exigeant des techniques avancées. Les deux derniers niveaux creusent sans symétrie, ce qui permet de descendre plus bas en nombre d'indices.
+3. **Notation** (`DifficultyRater`) : la grille est rejouée coup par coup comme le ferait un joueur. Chaque coup coûte d'autant plus cher qu'il est difficile à repérer — un candidat unique parmi quatre disponibles coûte 1, un candidat caché isolé 22, une technique de palier 3 vaut 45, de palier 4 vaut 80, de palier 5 vaut 140.
+4. **Sélection** : si le score ne tombe pas dans la fourchette du niveau, la grille est régénérée, dans la limite d'un budget de temps (2,5 s, 4 s pour les niveaux corsés), la meilleure candidate servant de repli.
 
-Fourchettes de score retenues après calibration : *Facile* ≤ 85 (~40 indices),
-*Moyen* 95–210 (~30 indices), *Difficile* ≥ 215 (~24–28 indices).
+| Niveau | Score visé | Indices | Techniques typiques |
+|---|---|---|---|
+| Facile | ≤ 85 | ~40 | candidats uniques |
+| Moyen | 95–200 | ~30 | candidats cachés |
+| Difficile | 210–330 | 26–29 | les coups évidents se raréfient |
+| Expert | 345–480 | 24–30 | groupes verrouillés, paires nues |
+| Master | 495–680 | 22–28 | triplets, paires cachées, X-Wing |
+| Extrême | ≥ 700 | 22–27 | XY-Wing, Swordfish |
+
+Techniques implémentées : candidat unique, candidat caché, paire pointante,
+chiffre revendiqué, paire nue, paire cachée, triplet nu, triplet caché, X-Wing,
+XY-Wing, Swordfish.
 
 Deux garanties pour toutes les grilles produites : **solution unique** et
 **résolution possible sans deviner** — le système d'indices peut donc toujours
@@ -92,12 +103,21 @@ indépendamment de l'interface. Les candidats d'une case sont encodés dans un
 masque de bits `UInt16`, ce qui rend le solveur assez rapide pour évaluer des
 dizaines de grilles par seconde sur l'appareil.
 
-## Version web (sans Mac)
+## Version web (sans Mac) et version hors ligne garantie
 
 `Web/index.html` reprend le même jeu et le même moteur en un fichier HTML
-autonome, à ouvrir dans Safari puis à ajouter à l'écran d'accueil de l'iPhone :
-plein écran, icône dédiée, fonctionnement hors ligne. Voir
-[Web/README.md](Web/README.md).
+autonome, à ouvrir dans Safari puis à ajouter à l'écran d'accueil de l'iPhone.
+
+`docs/` en est la **version installable hors ligne** : même page, plus un
+manifeste et un service worker qui met tout en cache à la première ouverture.
+Une fois publiée via GitHub Pages et ajoutée à l'écran d'accueil, elle se lance
+sans aucun réseau. `docs/` se régénère depuis la source :
+
+```bash
+python3 Tools/build-pwa.py
+```
+
+Voir [Web/README.md](Web/README.md) pour la marche à suivre côté iPhone.
 
 ## Vérification du moteur
 

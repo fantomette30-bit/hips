@@ -185,6 +185,70 @@ def x_wing(b, cs):
                         return Step("xWing", 4, None, None, elim, [d], False, "X-Wing", "")
     return None
 
+
+def hidden_triple(b, cs):
+    for ui, unit in enumerate(UNITS):
+        empties = [i for i in unit if b[i] == 0]
+        if len(empties) < 4: continue
+        spots = {}
+        for d in range(1, 10):
+            places = [i for i in empties if has(cs[i], d)]
+            if 2 <= len(places) <= 3: spots[d] = places
+        ds = sorted(spots)
+        for a in range(len(ds) - 2):
+            for z in range(a + 1, len(ds) - 1):
+                for c in range(z + 1, len(ds)):
+                    trio = [ds[a], ds[z], ds[c]]
+                    cells = sorted(set(spots[trio[0]] + spots[trio[1]] + spots[trio[2]]))
+                    if len(cells) != 3: continue
+                    mask = make_mask(trio)
+                    if any((cs[i] & ~mask) != 0 for i in cells):
+                        return Step("hiddenTriple", 4, None, None, cells, trio, True, "Triplet caché", "")
+    return None
+
+def xy_wing(b, cs):
+    pairs = [i for i in range(CELL_COUNT) if b[i] == 0 and mcount(cs[i]) == 2]
+    for pivot in pairs:
+        x, y = digits_of(cs[pivot])
+        wings = [i for i in pairs if i != pivot and i in PEERS[pivot]]
+        for w1 in wings:
+            d1 = digits_of(cs[w1])
+            if x not in d1: continue
+            z = d1[1] if d1[0] == x else d1[0]
+            if z == y: continue
+            for w2 in wings:
+                if w2 == w1: continue
+                d2 = digits_of(cs[w2])
+                if y not in d2 or z not in d2: continue
+                elim = [i for i in range(CELL_COUNT)
+                        if b[i] == 0 and i not in (pivot, w1, w2) and has(cs[i], z)
+                        and i in PEERS[w1] and i in PEERS[w2]]
+                if elim:
+                    return Step("xyWing", 5, None, None, elim, [z], False, "XY-Wing", "")
+    return None
+
+def swordfish(b, cs):
+    for d in range(1, 10):
+        for orientation in range(2):
+            lines = ROWS if orientation == 0 else COLUMNS
+            cross = COLUMNS if orientation == 0 else ROWS
+            cand_lines = []
+            for line in lines:
+                spots = [i for i in line if b[i] == 0 and has(cs[i], d)]
+                if len(spots) in (2, 3): cand_lines.append(spots)
+            if len(cand_lines) < 3: continue
+            for a in range(len(cand_lines) - 2):
+                for z in range(a + 1, len(cand_lines) - 1):
+                    for c in range(z + 1, len(cand_lines)):
+                        corners = cand_lines[a] + cand_lines[z] + cand_lines[c]
+                        ks = {(col_of(i) if orientation == 0 else row_of(i)) for i in corners}
+                        if len(ks) != 3: continue
+                        elim = [i for k in sorted(ks) for i in cross[k]
+                                if b[i] == 0 and i not in corners and has(cs[i], d)]
+                        if elim:
+                            return Step("swordfish", 5, None, None, elim, [d], False, "Swordfish", "")
+    return None
+
 def next_step(b, cs, maximum_tier):
     s = naked_single(b, cs)
     if s: return s
@@ -200,7 +264,14 @@ def next_step(b, cs, maximum_tier):
     if s: return s
     s = naked_triple(b, cs)
     if s: return s
-    return x_wing(b, cs)
+    s = x_wing(b, cs)
+    if s: return s
+    s = hidden_triple(b, cs)
+    if s: return s
+    if maximum_tier < 5: return None
+    s = xy_wing(b, cs)
+    if s: return s
+    return swordfish(b, cs)
 
 def apply_step(step, b, cs):
     if step.is_placement:
@@ -274,13 +345,16 @@ def hidden_single_count(b, cs):
 
 # --- DifficultyRater -------------------------------------------------------
 def rate(board):
+    """Renvoie (score, palier le plus avancé) ou None si la grille exige de deviner."""
     work = board[:]
     cs = candidates(work)
     total = 0.0
+    hardest = 0
     remaining = work.count(0)
     while remaining > 0:
-        s = next_step(work, cs, 4)
+        s = next_step(work, cs, 5)
         if s is None: return None
+        hardest = max(hardest, s.tier)
         if s.kind == "nakedSingle":
             n = naked_single_count(work, cs)
             total += 1 if n >= 4 else (2 if n == 3 else (3 if n == 2 else 5))
@@ -288,20 +362,26 @@ def rate(board):
             n = hidden_single_count(work, cs)
             total += 9 if n >= 4 else (12 if n == 3 else (16 if n == 2 else 22))
         else:
-            total += 45 if s.tier == 3 else 80
+            total += 45 if s.tier == 3 else (80 if s.tier == 4 else 140)
         apply_step(s, work, cs)
         if s.is_placement: remaining -= 1
-    return total
+    return (total, hardest)
 
 # --- Difficulty ------------------------------------------------------------
+# floor = indices minimum, strategy = creusement, sym = symétrie,
+# accepted = fourchette de score, tier = technique minimale exigée.
 DIFFICULTIES = {
-    "easy":   dict(clue_floor=40, strategy=("logic", 2), accepted=(0, 85), target=55),
-    "medium": dict(clue_floor=30, strategy=("logic", 3), accepted=(95, 210), target=150),
-    "hard":   dict(clue_floor=24, strategy=("unique", 0), accepted=(215, 100000), target=290),
+    "easy":    dict(rank=1, clue_floor=40, strategy=("logic", 2), sym=True,  accepted=(0, 85),      tier=0, target=55,  budget=2.5),
+    "medium":  dict(rank=2, clue_floor=30, strategy=("logic", 3), sym=True,  accepted=(95, 200),    tier=0, target=150, budget=2.5),
+    "hard":    dict(rank=3, clue_floor=26, strategy=("unique", 0), sym=True, accepted=(210, 330),   tier=0, target=270, budget=2.5),
+    "expert":  dict(rank=4, clue_floor=24, strategy=("unique", 0), sym=True, accepted=(345, 480),   tier=0, target=410, budget=2.5),
+    "master":  dict(rank=5, clue_floor=22, strategy=("unique", 0), sym=False, accepted=(495, 680),  tier=3, target=580, budget=4.0),
+    "extreme": dict(rank=6, clue_floor=22, strategy=("unique", 0), sym=False, accepted=(700, 100000), tier=3, target=900, budget=4.0),
 }
+LEVEL_ORDER = ["easy", "medium", "hard", "expert", "master", "extreme"]
 
 # --- SudokuGenerator -------------------------------------------------------
-MAX_ATTEMPTS = 24
+MAX_ATTEMPTS = 200
 
 def completed_grid(rng):
     board = [0] * CELL_COUNT
@@ -335,7 +415,7 @@ def dig(solution, difficulty, rng):
         if clues <= conf["clue_floor"]: break
         if puzzle[index] == 0: continue
         mirror = CELL_COUNT - 1 - index
-        removed = [index] if index == mirror else [index, mirror]
+        removed = [index, mirror] if (conf["sym"] and index != mirror) else [index]
         if clues - len(removed) < conf["clue_floor"]: continue
         saved = [puzzle[c] for c in removed]
         for c in removed: puzzle[c] = 0
@@ -345,26 +425,31 @@ def dig(solution, difficulty, rng):
             for off, c in enumerate(removed): puzzle[c] = saved[off]
     return puzzle
 
-def generate(difficulty, rng):
+def generate(difficulty, rng, budget=None):
+    import time
     conf = DIFFICULTIES[difficulty]
+    started = time.time()
+    limit = conf["budget"] if budget is None else budget
     best, best_gap, attempts = None, float("inf"), 0
-    for _ in range(MAX_ATTEMPTS):
+    while attempts < MAX_ATTEMPTS:
         attempts += 1
+        if attempts > 2 and time.time() - started > limit: break
         solution = completed_grid(rng)
         givens = dig(solution, difficulty, rng)
-        score = rate(givens)
-        if score is None: continue
-        if conf["accepted"][0] <= score <= conf["accepted"][1]:
-            return dict(givens=givens, solution=solution, difficulty=difficulty, score=score, attempts=attempts)
-        gap = abs(score - conf["target"])
+        r = rate(givens)
+        if r is None: continue
+        score, tier = r
+        puzzle = dict(givens=givens, solution=solution, difficulty=difficulty,
+                      score=score, tier=tier, attempts=attempts)
+        if conf["accepted"][0] <= score <= conf["accepted"][1] and tier >= conf["tier"]:
+            return puzzle
+        gap = abs(score - conf["target"]) + (250 if tier < conf["tier"] else 0)
         if gap < best_gap:
-            best_gap, best = gap, dict(givens=givens, solution=solution, difficulty=difficulty, score=score)
-    if best:
-        best["attempts"] = attempts
-        return best
+            best_gap, best = gap, puzzle
+    if best: return best
     solution = completed_grid(rng)
-    givens = dig(solution, "easy", rng)
-    return dict(givens=givens, solution=solution, difficulty=difficulty, score=rate(givens), attempts=attempts, fallback=True)
+    return dict(givens=dig(solution, "easy", rng), solution=solution,
+                difficulty=difficulty, score=0, tier=1, attempts=attempts, fallback=True)
 
 # --- GameState -------------------------------------------------------------
 class Move:
@@ -511,7 +596,7 @@ class GameState:
         cs = candidates(work)
         pending, unlocked_by = [], None
         for _ in range(80):
-            s = next_step(work, cs, 4)
+            s = next_step(work, cs, 5)
             if s is None: break
             if s.is_placement:
                 self.hints_used += 1

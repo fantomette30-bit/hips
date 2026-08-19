@@ -48,14 +48,21 @@ struct HomeView: View {
     }
 
     private var difficultySection: some View {
+        VStack(spacing: 20) {
+            levelGroup(.calm)
+            levelGroup(.tough)
+        }
+    }
+
+    private func levelGroup(_ group: DifficultyGroup) -> some View {
         VStack(spacing: 12) {
             HStack {
-                Text("Nouvelle partie")
+                Text(group.title)
                     .font(Theme.display(18))
                     .foregroundStyle(Theme.ink)
                 Spacer()
             }
-            ForEach(Difficulty.allCases) { difficulty in
+            ForEach(Difficulty.allCases.filter { $0.group == group }) { difficulty in
                 DifficultyRow(difficulty: difficulty,
                               bestTime: stats.entry(for: difficulty).bestTime) {
                     onStart(difficulty)
@@ -104,9 +111,7 @@ struct DifficultyRow: View {
                     RoundedRectangle(cornerRadius: 14, style: .continuous)
                         .fill(Theme.accentSoft)
                         .frame(width: 46, height: 46)
-                    Image(systemName: difficulty.symbolName)
-                        .font(.system(size: 19, weight: .semibold))
-                        .foregroundStyle(Theme.accent)
+                    DifficultyMeter(rank: difficulty.rank)
                 }
                 VStack(alignment: .leading, spacing: 3) {
                     Text(difficulty.title)

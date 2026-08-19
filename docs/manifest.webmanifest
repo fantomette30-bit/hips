@@ -1,0 +1,25 @@
+{
+  "name": "Sudoku Zen",
+  "short_name": "Sudoku Zen",
+  "description": "Sudoku hors ligne à six niveaux, de facile à extrême.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDEFF3",
+  "theme_color": "#EDEFF3",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

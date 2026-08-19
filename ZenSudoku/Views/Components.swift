@@ -163,3 +163,20 @@ struct ConfettiView: View {
         .onAppear { start = Date() }
     }
 }
+
+/// Jauge de difficulté : six barres croissantes, remplies jusqu'au rang du niveau.
+struct DifficultyMeter: View {
+    let rank: Int
+    var tint: Color = Theme.accent
+
+    var body: some View {
+        HStack(alignment: .bottom, spacing: 2.5) {
+            ForEach(1...6, id: \.self) { index in
+                RoundedRectangle(cornerRadius: 1.2, style: .continuous)
+                    .fill(index <= rank ? tint : tint.opacity(0.25))
+                    .frame(width: 2.6, height: 6 + CGFloat(index - 1) * 2.4)
+            }
+        }
+        .accessibilityLabel("Difficulté \(rank) sur 6")
+    }
+}

@@ -1,11 +1,25 @@
 # Installer Sudoku Zen sur votre iPhone
 
-L'app n'est pas publiée sur l'App Store : il n'y a donc rien à télécharger depuis
-l'iPhone. Elle se **compile sur votre Mac**, puis s'installe sur le téléphone.
-Comptez 20 à 30 minutes la première fois (l'essentiel étant le téléchargement
-d'Xcode).
+Trois chemins, du plus simple au plus complet.
 
-Deux méthodes :
+## Le plus simple : la version web hors ligne (aucun Mac)
+
+Le dossier `docs/` contient le jeu prêt à être publié par **GitHub Pages**.
+Une fois publié, tout se fait depuis l'iPhone :
+
+1. Sur github.com/fantomette30-bit/hips : **Settings → Pages**.
+2. *Source* : **Deploy from a branch**. *Branch* : `claude/sudoku-premium-iphone-app-ji3x03`,
+   dossier **`/docs`**. **Save**.
+3. Après une minute, l'adresse **https://fantomette30-bit.github.io/hips/** répond.
+4. Ouvrez-la dans Safari sur l'iPhone → bouton **Partager** → **Sur l'écran d'accueil**.
+
+Le jeu s'installe alors comme une app : icône, plein écran, et surtout un
+*service worker* qui garde tout en mémoire sur l'appareil. Il se lance **sans
+aucun réseau**, y compris après un redémarrage du téléphone, et sans expiration.
+
+Les deux méthodes suivantes concernent l'app iOS native, qui demande un Mac.
+
+## L'app native : deux méthodes
 
 | | Compte Apple gratuit | Compte développeur payant (99 €/an) |
 |---|---|---|

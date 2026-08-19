@@ -1,0 +1,13 @@
+{
+  "name": "sudoku-zen-checks",
+  "private": true,
+  "description": "Vérifications du moteur et de l'interface web de Sudoku Zen",
+  "scripts": {
+    "engine": "node webengine.test.js",
+    "ui": "node webui.test.js",
+    "offline": "node weboffline.test.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.40.0"
+  }
+}

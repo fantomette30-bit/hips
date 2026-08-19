@@ -69,9 +69,7 @@ struct StatsCard: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 14) {
             HStack(spacing: 10) {
-                Image(systemName: difficulty.symbolName)
-                    .font(.system(size: 15, weight: .semibold))
-                    .foregroundStyle(Theme.accent)
+                DifficultyMeter(rank: difficulty.rank)
                 Text(difficulty.title)
                     .font(Theme.display(18))
                     .foregroundStyle(Theme.ink)

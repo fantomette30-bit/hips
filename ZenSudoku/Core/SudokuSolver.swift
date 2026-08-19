@@ -11,6 +11,9 @@ struct SolveStep: Equatable {
         case hiddenPair
         case nakedTriple
         case xWing
+        case hiddenTriple
+        case xyWing
+        case swordfish
     }
 
     var kind: Kind
@@ -65,6 +68,10 @@ enum SudokuSolver {
         if let step = hiddenPair(board: board, cands: cands) { return step }
         if let step = nakedTriple(board: board, cands: cands) { return step }
         if let step = xWing(board: board, cands: cands) { return step }
+        if let step = hiddenTriple(board: board, cands: cands) { return step }
+        guard maximumTier >= 5 else { return nil }
+        if let step = xyWing(board: board, cands: cands) { return step }
+        if let step = swordfish(board: board, cands: cands) { return step }
         return nil
     }
 
@@ -419,6 +426,129 @@ enum SudokuSolver {
                                              restrictsToDigits: false,
                                              title: "X-Wing",
                                              detail: "Le \(digit) forme un rectangle : il disparaît des autres cases des deux \(orientation == 0 ? "colonnes" : "lignes") concernées.")
+                        }
+                    }
+                }
+            }
+        }
+        return nil
+    }
+
+    /// Triplet caché : trois chiffres confinés à trois cases d'une unité.
+    private static func hiddenTriple(board: [Int], cands: [UInt16]) -> SolveStep? {
+        for (unitIndex, unit) in Sudoku.units.enumerated() {
+            let empties = unit.filter { board[$0] == 0 }
+            guard empties.count >= 4 else { continue }
+            var spots: [Int: [Int]] = [:]
+            for digit in 1...9 {
+                let places = empties.filter { DigitMask.contains(cands[$0], digit) }
+                if places.count >= 2 && places.count <= 3 { spots[digit] = places }
+            }
+            let digits = spots.keys.sorted()
+            guard digits.count >= 3 else { continue }
+            for a in 0..<(digits.count - 2) {
+                for b in (a + 1)..<(digits.count - 1) {
+                    for c in (b + 1)..<digits.count {
+                        let trio = [digits[a], digits[b], digits[c]]
+                        var cells = Set<Int>()
+                        for digit in trio { cells.formUnion(spots[digit] ?? []) }
+                        guard cells.count == 3 else { continue }
+                        let mask = DigitMask.make(trio)
+                        let targets = cells.sorted()
+                        if targets.contains(where: { (cands[$0] & ~mask) != 0 }) {
+                            return SolveStep(kind: .hiddenTriple,
+                                             tier: 4,
+                                             placementIndex: nil,
+                                             placementValue: nil,
+                                             targets: targets,
+                                             digits: trio,
+                                             restrictsToDigits: true,
+                                             title: "Triplet caché",
+                                             detail: "Dans \(Sudoku.unitName(forUnitIndex: unitIndex)), \(trio[0]), \(trio[1]) et \(trio[2]) n'ont que trois cases possibles : ces cases ne contiennent qu'eux.")
+                        }
+                    }
+                }
+            }
+        }
+        return nil
+    }
+
+    /// XY-Wing : un pivot à deux candidats et deux pinces qui éliminent un chiffre.
+    private static func xyWing(board: [Int], cands: [UInt16]) -> SolveStep? {
+        let pairCells = (0..<Sudoku.cellCount).filter { board[$0] == 0 && DigitMask.count(cands[$0]) == 2 }
+        guard pairCells.count >= 3 else { return nil }
+        for pivot in pairCells {
+            let pivotDigits = DigitMask.digits(cands[pivot])
+            let x = pivotDigits[0], y = pivotDigits[1]
+            let wings = pairCells.filter { $0 != pivot && Sudoku.peers[pivot].contains($0) }
+            for first in wings {
+                let firstDigits = DigitMask.digits(cands[first])
+                guard firstDigits.contains(x) else { continue }
+                let z = firstDigits[0] == x ? firstDigits[1] : firstDigits[0]
+                guard z != y else { continue }
+                for second in wings where second != first {
+                    let secondDigits = DigitMask.digits(cands[second])
+                    guard secondDigits.contains(y), secondDigits.contains(z) else { continue }
+                    var elim: [Int] = []
+                    for index in 0..<Sudoku.cellCount {
+                        guard board[index] == 0, index != pivot, index != first, index != second else { continue }
+                        guard DigitMask.contains(cands[index], z) else { continue }
+                        if Sudoku.peers[first].contains(index) && Sudoku.peers[second].contains(index) {
+                            elim.append(index)
+                        }
+                    }
+                    if !elim.isEmpty {
+                        return SolveStep(kind: .xyWing,
+                                         tier: 5,
+                                         placementIndex: nil,
+                                         placementValue: nil,
+                                         targets: elim,
+                                         digits: [z],
+                                         restrictsToDigits: false,
+                                         title: "XY-Wing",
+                                         detail: "Trois cases à deux candidats forment une fourche : le \(z) devient impossible dans les cases que voient les deux extrémités.")
+                    }
+                }
+            }
+        }
+        return nil
+    }
+
+    /// Swordfish : un chiffre confiné à trois lignes croisant trois colonnes.
+    private static func swordfish(board: [Int], cands: [UInt16]) -> SolveStep? {
+        for digit in 1...9 {
+            for orientation in 0..<2 {
+                let lines = orientation == 0 ? Sudoku.rows : Sudoku.columns
+                let crossLines = orientation == 0 ? Sudoku.columns : Sudoku.rows
+                var candidateLines: [[Int]] = []
+                for line in lines {
+                    let spots = line.filter { board[$0] == 0 && DigitMask.contains(cands[$0], digit) }
+                    if spots.count == 2 || spots.count == 3 { candidateLines.append(spots) }
+                }
+                guard candidateLines.count >= 3 else { continue }
+                for a in 0..<(candidateLines.count - 2) {
+                    for b in (a + 1)..<(candidateLines.count - 1) {
+                        for c in (b + 1)..<candidateLines.count {
+                            let corners = candidateLines[a] + candidateLines[b] + candidateLines[c]
+                            let crossIndices = Set(corners.map { orientation == 0 ? Sudoku.column(of: $0) : Sudoku.row(of: $0) })
+                            guard crossIndices.count == 3 else { continue }
+                            var elim: [Int] = []
+                            for cross in crossIndices.sorted() {
+                                for index in crossLines[cross] where board[index] == 0 && !corners.contains(index) {
+                                    if DigitMask.contains(cands[index], digit) { elim.append(index) }
+                                }
+                            }
+                            if !elim.isEmpty {
+                                return SolveStep(kind: .swordfish,
+                                                 tier: 5,
+                                                 placementIndex: nil,
+                                                 placementValue: nil,
+                                                 targets: elim,
+                                                 digits: [digit],
+                                                 restrictsToDigits: false,
+                                                 title: "Swordfish",
+                                                 detail: "Le \(digit) est confiné à trois \(orientation == 0 ? "lignes" : "colonnes") croisant trois \(orientation == 0 ? "colonnes" : "lignes") : il disparaît du reste de celles-ci.")
+                            }
                         }
                     }
                 }

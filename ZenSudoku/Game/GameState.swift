@@ -320,7 +320,7 @@ final class GameState: Identifiable {
         var unlockedBy: String?
 
         for _ in 0..<80 {
-            guard let step = SudokuSolver.nextStep(board: work, candidates: cands, maximumTier: 4) else { break }
+            guard let step = SudokuSolver.nextStep(board: work, candidates: cands, maximumTier: 5) else { break }
             if let index = step.placementIndex, let value = step.placementValue {
                 hintsUsed += 1
                 applyNoteEliminations(pending)

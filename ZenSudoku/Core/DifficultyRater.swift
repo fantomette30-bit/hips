@@ -1,23 +1,33 @@
 import Foundation
 
+/// Résultat de l'évaluation d'une grille.
+struct Rating: Equatable {
+    /// Plus le score est élevé, plus les coups évidents sont rares.
+    var score: Double
+    /// Technique la plus avancée nécessaire (1 candidat unique … 5 XY-Wing).
+    var hardestTier: Int
+}
+
 /// Évalue la difficulté réelle d'une grille en rejouant la résolution comme
 /// le ferait un joueur : plus les coups évidents sont rares, plus le score monte.
 enum DifficultyRater {
 
-    static let maximumTier = 4
+    static let maximumTier = 5
 
-    /// Score de difficulté, ou `nil` si la grille n'est pas résoluble
-    /// logiquement (elle exigerait des essais / erreurs).
-    static func score(board: [Int]) -> Double? {
+    /// Note la grille, ou `nil` si elle n'est pas résoluble logiquement
+    /// (elle exigerait des essais / erreurs).
+    static func rate(board: [Int]) -> Rating? {
         var work = board
         var cands = SudokuSolver.candidates(for: work)
         var total: Double = 0
+        var hardest = 0
         var remaining = work.filter { $0 == 0 }.count
 
         while remaining > 0 {
             guard let step = SudokuSolver.nextStep(board: work, candidates: cands, maximumTier: maximumTier) else {
                 return nil
             }
+            hardest = max(hardest, step.tier)
             switch step.kind {
             case .nakedSingle:
                 let available = SudokuSolver.nakedSingleCount(board: work, cands: cands)
@@ -32,11 +42,13 @@ enum DifficultyRater {
                 else if available == 2 { total += 16 }
                 else { total += 22 }
             default:
-                total += step.tier == 3 ? 45 : 80
+                if step.tier == 3 { total += 45 }
+                else if step.tier == 4 { total += 80 }
+                else { total += 140 }
             }
             SudokuSolver.apply(step, board: &work, cands: &cands)
             if step.isPlacement { remaining -= 1 }
         }
-        return total
+        return Rating(score: total, hardestTier: hardest)
     }
 }
