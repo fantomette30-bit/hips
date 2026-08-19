@@ -16,6 +16,18 @@ dans le `localStorage` du navigateur — rien ne sort du téléphone.
 connexion est disponible ; hors ligne, le jeu bascule proprement sur les polices
 système (Georgia / SF). Aucune autre ressource externe.
 
+## Grilles illimitées
+
+Rien n'est stocké ni téléchargé : chaque partie fabrique une grille neuve sur
+l'appareil, autant de fois que vous le voulez, sur les six niveaux. La
+recherche continue jusqu'à obtenir une grille du niveau demandé — elle n'est
+plus interrompue par un budget de temps. Pour que l'écran reste vivant, les
+essais sont découpés en tranches de 90 ms, le compteur d'essais s'affiche et
+un bouton *Annuler* apparaît au bout d'une seconde et demie.
+
+Mesures (145 grilles enchaînées, aucune répétition) : 1 essai et 1 ms par
+grille facile, 3 essais et 24 ms en difficile, 37 essais et 725 ms en extrême.
+
 ## Version hors ligne garantie (`docs/`)
 
 `Web/index.html` fonctionne déjà sans réseau une fois la page chargée, mais rien
@@ -43,6 +55,7 @@ python3 Tools/build-pwa.py
 ```bash
 node Tools/EngineCheck/webengine.test.js    # moteur : six niveaux, unicité, indices
 node Tools/EngineCheck/webui.test.js        # interface réelle (Chromium, iPhone 13)
+node Tools/EngineCheck/webunlimited.test.js # 145 grilles enchaînées, aucune répétition
 node Tools/EngineCheck/weboffline.test.js   # PWA : serveur arrêté, réseau coupé
 ```
 

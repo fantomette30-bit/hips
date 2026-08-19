@@ -47,7 +47,7 @@ const { spawn } = require('child_process');
 
   // 4. on joue vraiment, hors ligne
   await page.locator('#levelList button').nth(4).click();   // Master, hors ligne
-  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 60000 });
   check(await page.locator('#board .cell').count() === 81, 'grille non générée hors ligne');
   const solved = await page.evaluate(() => {
     let guard = 0;

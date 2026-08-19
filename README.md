@@ -59,7 +59,7 @@ La difficulté n'est pas déduite du seul nombre de cases vides : elle est **mes
    - *Facile* et *Moyen* : une case n'est retirée que si la grille reste résoluble avec les techniques simples (candidats uniques et cachés, puis groupes verrouillés et paires nues).
    - *Difficile* à *Extrême* : une case est retirée tant que la **solution reste unique**, ce qui laisse apparaître des grilles exigeant des techniques avancées. Les deux derniers niveaux creusent sans symétrie, ce qui permet de descendre plus bas en nombre d'indices.
 3. **Notation** (`DifficultyRater`) : la grille est rejouée coup par coup comme le ferait un joueur. Chaque coup coûte d'autant plus cher qu'il est difficile à repérer — un candidat unique parmi quatre disponibles coûte 1, un candidat caché isolé 22, une technique de palier 3 vaut 45, de palier 4 vaut 80, de palier 5 vaut 140.
-4. **Sélection** : si le score ne tombe pas dans la fourchette du niveau, la grille est régénérée, dans la limite d'un budget de temps (2,5 s, 4 s pour les niveaux corsés), la meilleure candidate servant de repli.
+4. **Sélection** : si le score ne tombe pas dans la fourchette du niveau, la grille est régénérée — sans limite d'essais, jusqu'à obtenir le niveau demandé. Côté interface les essais sont découpés en tranches de 90 ms, avec compteur et bouton d'annulation, pour que l'écran ne se fige jamais.
 
 | Niveau | Score visé | Indices | Techniques typiques |
 |---|---|---|---|

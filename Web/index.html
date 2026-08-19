@@ -351,7 +351,12 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
 }
 @keyframes spin{to{transform:rotate(360deg)}}
 .loading b{display:block; font-size:15px; font-weight:700}
-.loading span{font-size:12.5px; color:var(--ink-2)}
+.loading span{display:block; font-size:12.5px; color:var(--ink-2)}
+#loadingCount{margin-top:6px; font-size:11.5px; color:var(--ink-3); font-variant-numeric:tabular-nums; min-height:14px}
+#loadingCancel{
+  margin:14px auto 0; display:block; padding:9px 22px; min-height:44px; border-radius:12px;
+  background:var(--surface); border:1px solid var(--line); font-size:14px; font-weight:600; color:var(--ink-2);
+}
 @media (prefers-reduced-motion: reduce){
   *{animation-duration:.01ms !important; transition-duration:.01ms !important}
 }
@@ -538,6 +543,8 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
     <div class="spin"></div>
     <b id="loadingTitle">Création d'une grille</b>
     <span id="loadingSub">Génération sur votre téléphone, sans réseau</span>
+    <span id="loadingCount"></span>
+    <button id="loadingCancel" hidden>Annuler</button>
   </div>
 </div>
 
@@ -1005,34 +1012,82 @@ function digGrid(solution, conf) {
   return puz;
 }
 
-/* On creuse, on note, on recommence tant que le score ne tombe pas dans la
-   fourchette du niveau — dans la limite d'un budget de temps, la meilleure
-   grille rencontrée servant de repli. */
-function generate(level, budgetMs) {
+/* Un essai : une grille complète, creusée, puis notée. */
+function attemptOnce(level) {
   const conf = LEVELS[level];
-  const started = Date.now();
-  const budget = budgetMs || 3000;
-  let best = null, bestGap = Infinity, attempts = 0;
-  while (attempts < 200 && (attempts < 2 || Date.now() - started < budget)) {
-    attempts++;
-    const solution = completedGrid();
-    const givens = digGrid(solution, conf);
-    const r = rate(givens);
-    if (!r) continue;
-    const puzzle = { givens, solution, level, score: r.score, tier: r.tier };
-    if (r.score >= conf.lo && r.score <= conf.hi && r.tier >= conf.tier) return puzzle;
-    const gap = Math.abs(r.score - conf.target) + (r.tier < conf.tier ? 250 : 0);
-    if (gap < bestGap) { bestGap = gap; best = puzzle; }
-  }
-  if (best) return best;
   const solution = completedGrid();
-  const givens = digGrid(solution, LEVELS.easy);
-  return { givens, solution, level, score: 0, tier: 1 };
+  const givens = digGrid(solution, conf);
+  const r = rate(givens);
+  if (!r) return null;
+  return {
+    givens, solution, level, score: r.score, tier: r.tier,
+    inBand: r.score >= conf.lo && r.score <= conf.hi && r.tier >= conf.tier
+  };
+}
+
+/* Filet de sécurité : au-delà de ce nombre d'essais (jamais atteint en
+   pratique — le niveau le plus dur en demande une trentaine), on accepte la
+   grille la plus proche de la cible plutôt que de chercher indéfiniment. */
+const SAFETY_ATTEMPTS = 3000;
+
+function closeness(puzzle, conf) {
+  return Math.abs(puzzle.score - conf.target) + (puzzle.tier < conf.tier ? 250 : 0);
+}
+
+/* Version synchrone : on recommence jusqu'à obtenir une grille du niveau
+   demandé. Le nombre de grilles est illimité — rien n'est stocké, chaque
+   partie en crée une nouvelle. */
+function generate(level, maxAttempts) {
+  const conf = LEVELS[level];
+  const cap = maxAttempts || SAFETY_ATTEMPTS;
+  let best = null, bestGap = Infinity, attempts = 0;
+  while (attempts < cap) {
+    attempts++;
+    const p = attemptOnce(level);
+    if (!p) continue;
+    if (p.inBand) { p.attempts = attempts; return p; }
+    const gap = closeness(p, conf);
+    if (gap < bestGap) { bestGap = gap; best = p; }
+  }
+  if (best) { best.attempts = attempts; return best; }
+  const solution = completedGrid();
+  return { givens: digGrid(solution, LEVELS.easy), solution, level, score: 0, tier: 1, attempts };
+}
+
+/* Version pour l'interface : mêmes essais, mais découpés en tranches courtes
+   pour que l'écran reste vivant et que la recherche soit annulable. */
+function generateChunked(level, options) {
+  const conf = LEVELS[level];
+  const onProgress = options.onProgress || function () {};
+  const onDone = options.onDone;
+  const isCancelled = options.isCancelled || function () { return false; };
+  const sliceMs = options.sliceMs || 90;
+  let attempts = 0, best = null, bestGap = Infinity;
+
+  function tick() {
+    if (isCancelled()) return;
+    const started = Date.now();
+    do {
+      attempts++;
+      const p = attemptOnce(level);
+      if (p) {
+        if (p.inBand) { p.attempts = attempts; onDone(p); return; }
+        const gap = closeness(p, conf);
+        if (gap < bestGap) { bestGap = gap; best = p; }
+      }
+      if (attempts >= SAFETY_ATTEMPTS) {
+        if (best) { best.attempts = attempts; onDone(best); return; }
+      }
+    } while (Date.now() - started < sliceMs);
+    onProgress(attempts);
+    setTimeout(tick, 0);
+  }
+  setTimeout(tick, 0);
 }
 
 if (typeof module !== 'undefined') {
   module.exports = { N, UNITS, PEERS, candidates, nextStep, applyStep, logicalSolve,
-                     countSolutions, rate, generate, LEVELS, LEVEL_KEYS, digitsOf, has, maskOf, cnt };
+                     countSolutions, rate, generate, generateChunked, attemptOnce, LEVELS, LEVEL_KEYS, digitsOf, has, maskOf, cnt };
 }
 </script>
 
@@ -1164,28 +1219,50 @@ function renderHome() {
   $('#installNote').hidden = standalone || !isIOS || LS.get('zen.installHidden', false);
 }
 
+let generationToken = 0;
+
 function startGame(level) {
   const saved = LS.get('zen.game', null);
   if (saved) bumpStat(saved.puzzle.level, s => { s.streak = 0; });
-  $('#loadingTitle').textContent = 'Création d’une grille ' + LEVELS[level].name.toLowerCase();
-  $('#loadingSub').textContent = LEVELS[level].rank >= 5
+  const token = ++generationToken;
+  const conf = LEVELS[level];
+  $('#loadingTitle').textContent = 'Création d’une grille ' + conf.name.toLowerCase();
+  $('#loadingSub').textContent = conf.rank >= 5
     ? 'Les grilles corsées demandent quelques essais…'
     : 'Génération sur votre téléphone, sans réseau';
+  $('#loadingCount').textContent = '';
+  $('#loadingCancel').hidden = true;
   $('#loading').classList.add('on');
-  setTimeout(() => {
-    const puzzle = generate(level, LEVELS[level].rank >= 5 ? 4000 : 2500);
-    bumpStat(level, s => { s.played++; });
-    G = {
-      puzzle: puzzle, values: puzzle.givens.slice(), notes: new Array(N).fill(0), history: [],
-      sel: null, noteMode: false, mistakes: 0, hints: 0, elapsed: 0, paused: false, complete: false
-    };
-    LS.del('zen.game');
-    $('#loading').classList.remove('on');
-    clearHint();
-    show('game');
-    renderGame();
-    saveGame();
-  }, 40);
+
+  const slowTimer = setTimeout(() => { $('#loadingCancel').hidden = false; }, 1500);
+
+  generateChunked(level, {
+    isCancelled: () => token !== generationToken,
+    onProgress: attempts => {
+      if (token !== generationToken) return;
+      $('#loadingCount').textContent = attempts > 3 ? 'essai ' + attempts : '';
+    },
+    onDone: puzzle => {
+      if (token !== generationToken) return;
+      clearTimeout(slowTimer);
+      bumpStat(level, s => { s.played++; });
+      G = {
+        puzzle: puzzle, values: puzzle.givens.slice(), notes: new Array(N).fill(0), history: [],
+        sel: null, noteMode: false, mistakes: 0, hints: 0, elapsed: 0, paused: false, complete: false
+      };
+      LS.del('zen.game');
+      $('#loading').classList.remove('on');
+      clearHint();
+      show('game');
+      renderGame();
+      saveGame();
+    }
+  });
+}
+
+function cancelGeneration() {
+  generationToken++;
+  $('#loading').classList.remove('on');
 }
 
 function resumeGame() {
@@ -1593,6 +1670,7 @@ function renderSettings() {
 }
 
 $('#resumeCard').addEventListener('click', resumeGame);
+$('#loadingCancel').addEventListener('click', cancelGeneration);
 $('#openStats').addEventListener('click', () => { renderStats(); openSheet('#sheetStats'); });
 $('#openSettings').addEventListener('click', () => { renderSettings(); openSheet('#sheetSettings'); });
 $('#closeInstall').addEventListener('click', () => { LS.set('zen.installHidden', true); $('#installNote').hidden = true; });

@@ -39,15 +39,18 @@ const { chromium, devices } = require('playwright');
   await page.locator('#btnBack').click();
   const tX = Date.now();
   await page.locator('#levelList button').nth(5).click();
-  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 60000 });
   const extremeMs = Date.now() - tX;
   const xInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, clues: G.puzzle.givens.filter(v => v).length }));
   check(xInfo.lvl === 'extreme' && xInfo.score >= 700, 'grille extrême non conforme: ' + JSON.stringify(xInfo));
+  // la génération illimitée ne doit jamais figer l'écran : le bouton Annuler apparaît
+  const cancelExists = await page.locator('#loadingCancel').count();
+  check(cancelExists === 1, 'bouton d’annulation absent de l’écran de génération');
   console.log('  extrême généré en', extremeMs, 'ms —', JSON.stringify(xInfo));
   await page.screenshot({ path: 'shot-extreme.png' });
   await page.locator('#btnBack').click();
   await page.locator('#levelList button').nth(2).click();
-  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 60000 });
 
   // --- sélection, saisie, erreur, annulation
   const firstEmpty = await page.evaluate(() => G.values.findIndex(v => v === 0));

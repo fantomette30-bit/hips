@@ -2,7 +2,7 @@ const fs = require('fs'), path = require('path');
 const html = fs.readFileSync(path.join(__dirname, '../../Web/index.html'), 'utf8');
 const src = html.match(/<script id="engine">([\s\S]*?)<\/script>/)[1];
 const E = {};
-new Function('module', src + '\nmodule.exports = { N, UNITS, PEERS, candidates, nextStep, applyStep, logicalSolve, countSolutions, rate, generate, LEVELS, LEVEL_KEYS };')({ set exports(v) { Object.assign(E, v); }, get exports() { return E; } });
+new Function('module', src + '\nmodule.exports = { N, UNITS, PEERS, candidates, nextStep, applyStep, logicalSolve, countSolutions, rate, generate, generateChunked, LEVELS, LEVEL_KEYS };')({ set exports(v) { Object.assign(E, v); }, get exports() { return E; } });
 let fails = 0;
 const check = (c, m) => { if (!c) { fails++; console.log('  ECHEC:', m); } };
 
@@ -13,13 +13,14 @@ for (const lvl of E.LEVEL_KEYS) {
   const n = 8;
   for (let k = 0; k < n; k++) {
     const t = Date.now();
-    const p = E.generate(lvl, 4000);
+    const p = E.generate(lvl);
     times.push(Date.now() - t);
     const r = E.rate(p.givens);
     check(r !== null, lvl + ': grille non résoluble sans deviner');
     scores.push(p.score); clues.push(p.givens.filter(v => v).length);
     tiers[p.tier] = (tiers[p.tier] || 0) + 1;
     if (p.score >= c.lo && p.score <= c.hi && p.tier >= c.tier) inBand++;
+    else check(false, lvl + ': grille hors fourchette alors que la génération est illimitée');
     check(E.countSolutions(p.givens, 2) === 1, lvl + ': solution non unique');
     check(p.givens.every((g, i) => g === 0 || g === p.solution[i]), lvl + ': indice incompatible');
     check(p.givens.filter(v => v).length >= c.floor, lvl + ': sous le plancher d’indices');
@@ -51,7 +52,7 @@ for (const lvl of E.LEVEL_KEYS) {
 const meds = {};
 for (const lvl of E.LEVEL_KEYS) {
   const sc = [];
-  for (let k = 0; k < 5; k++) sc.push(E.generate(lvl, 4000).score);
+  for (let k = 0; k < 5; k++) sc.push(E.generate(lvl).score);
   sc.sort((a, b) => a - b);
   meds[lvl] = sc[2];
 }
