@@ -24,7 +24,9 @@ open ZenSudoku.xcodeproj
 * Aucune dépendance externe : ni CocoaPods, ni SPM, ni ressource distante.
 
 Construire une app iOS demande un Mac : depuis un iPhone seul, on peut lire le code
-sur GitHub mais pas le compiler.
+sur GitHub mais pas le compiler. Le guide pas à pas pour installer l'app sur votre
+iPhone (signature, mode développeur, TestFlight, pannes courantes) est dans
+[INSTALLATION.md](INSTALLATION.md).
 
 Si vous ajoutez un fichier Swift, pensez à l'ajouter à la cible dans Xcode (le projet
 liste explicitement ses fichiers pour rester compatible avec Xcode 15).
