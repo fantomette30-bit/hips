@@ -25,12 +25,13 @@ const { spawn } = require('child_process');
   const stateText = await page.locator('#offlineState').textContent();
   console.log('  état affiché :', JSON.stringify(stateText));
   const cached = await page.evaluate(async () => {
-    // le nom du cache dépend du contenu publié : on le retrouve dynamiquement
-    const names = (await caches.keys()).filter(n => n.startsWith('sudoku-zen'));
-    if (!names.length) return [];
-    const c = await caches.open(names[0]);
-    const keys = await c.keys();
-    return keys.map(r => new URL(r.url).pathname);
+    const names = await caches.keys();
+    const out = [];
+    for (const n of names) {
+      const c = await caches.open(n);
+      for (const r of await c.keys()) out.push(new URL(r.url).pathname);
+    }
+    return out;
   });
   console.log('  fichiers en cache :', cached.join(', '));
   check(cached.some(p => p.endsWith('index.html')), 'index.html absent du cache');
@@ -50,7 +51,7 @@ const { spawn } = require('child_process');
 
   // 4. on joue vraiment, hors ligne
   await page.locator('#levelList button').nth(4).click();   // Master, hors ligne
-  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 60000 });
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
   check(await page.locator('#board .cell').count() === 81, 'grille non générée hors ligne');
   const solved = await page.evaluate(() => {
     let guard = 0;
