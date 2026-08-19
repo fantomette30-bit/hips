@@ -109,7 +109,7 @@ struct GameView: View {
                 Button {
                     game.fillAllNotes()
                 } label: {
-                    Label("Remplir les notes", systemImage: "square.grid.3x3.topleft.filled")
+                    Label("Remplir les notes", systemImage: "square.grid.3x3.fill")
                 }
                 Button {
                     showRestartAlert = true
