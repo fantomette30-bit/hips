@@ -6,17 +6,28 @@ compte, ni publicité, ni suivi.
 
 Trois niveaux : **Facile**, **Moyen**, **Difficile**.
 
-## Ouvrir le projet
+## Ouvrir et lancer (sur Mac)
 
 ```bash
+git clone -b claude/sudoku-premium-iphone-app-ji3x03 https://github.com/fantomette30-bit/hips.git
+cd hips
 open ZenSudoku.xcodeproj
 ```
 
-* Xcode 16 ou plus récent (le projet utilise les groupes synchronisés du système de fichiers).
-* Cible : iOS 17.0 et plus, iPhone, portrait.
-* Sélectionnez votre équipe de signature dans *Signing & Capabilities*, puis lancez sur simulateur ou appareil.
+1. Dans Xcode, sélectionnez la cible **ZenSudoku** puis l'onglet *Signing & Capabilities*.
+2. Choisissez votre équipe (*Team*) — un identifiant Apple gratuit suffit pour installer
+   sur votre propre iPhone ; l'app doit alors être réinstallée tous les 7 jours.
+3. Choisissez un simulateur d'iPhone ou votre iPhone branché, puis ⌘R.
 
-Aucune dépendance externe : ni CocoaPods, ni SPM, ni ressource distante.
+* Xcode 15 ou plus récent (format de projet classique, compatible Xcode 15 et 16).
+* Cible : iOS 17.0 et plus, iPhone, portrait.
+* Aucune dépendance externe : ni CocoaPods, ni SPM, ni ressource distante.
+
+Construire une app iOS demande un Mac : depuis un iPhone seul, on peut lire le code
+sur GitHub mais pas le compiler.
+
+Si vous ajoutez un fichier Swift, pensez à l'ajouter à la cible dans Xcode (le projet
+liste explicitement ses fichiers pour rester compatible avec Xcode 15).
 
 ## Fonctionnalités
 
