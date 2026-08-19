@@ -266,8 +266,43 @@ final class GameState: Identifiable {
         highlightedByHint = []
     }
 
-    /// Donne un coup de pouce : correction d'une erreur, placement logique ou
-    /// nettoyage de notes, avec l'explication de la technique employée.
+    /// Une élimination de candidats à répercuter sur les notes du joueur.
+    private struct NoteElimination {
+        var indices: [Int]
+        var mask: UInt16
+        var restrictsToDigits: Bool
+    }
+
+    /// Répercute les éliminations sur les notes du joueur, en un seul coup annulable.
+    private func applyNoteEliminations(_ eliminations: [NoteElimination]) {
+        var updated: [Int: UInt16] = [:]
+        for elimination in eliminations {
+            for target in elimination.indices where notes[target] != 0 {
+                let current = updated[target] ?? notes[target]
+                let next = elimination.restrictsToDigits
+                    ? (current & elimination.mask)
+                    : (current & ~elimination.mask)
+                if next != current { updated[target] = next }
+            }
+        }
+        guard !updated.isEmpty else { return }
+        let indices = updated.keys.sorted()
+        let previous = indices.map { notes[$0] }
+        record(Move(index: indices[0],
+                    previousValue: values[indices[0]],
+                    newValue: values[indices[0]],
+                    previousNotes: notes[indices[0]],
+                    newNotes: updated[indices[0]] ?? notes[indices[0]],
+                    clearedIndices: indices,
+                    clearedNotes: previous))
+        for index in indices {
+            if let value = updated[index] { notes[index] = value }
+        }
+    }
+
+    /// Donne un coup de pouce : correction d'une erreur, ou placement logique
+    /// expliqué. Les techniques d'élimination nécessaires sont enchaînées en
+    /// interne, de sorte qu'un indice aboutit toujours à un chiffre posé.
     func useHint() {
         guard !isPaused, !isComplete else { return }
 
@@ -279,34 +314,36 @@ final class GameState: Identifiable {
             return
         }
 
-        if let step = SudokuSolver.nextStep(board: values, maximumTier: 4) {
-            hintsUsed += 1
+        var work = values
+        var cands = SudokuSolver.candidates(for: work)
+        var pending: [NoteElimination] = []
+        var unlockedBy: String?
+
+        for _ in 0..<80 {
+            guard let step = SudokuSolver.nextStep(board: work, candidates: cands, maximumTier: 4) else { break }
             if let index = step.placementIndex, let value = step.placementValue {
+                hintsUsed += 1
+                applyNoteEliminations(pending)
                 selectedIndex = index
                 highlightedByHint = [index]
-                hintMessage = "\(step.title) — \(step.detail)"
+                if let intro = unlockedBy {
+                    hintMessage = "\(intro) Ensuite, \(step.detail)"
+                } else {
+                    hintMessage = "\(step.title) — \(step.detail)"
+                }
                 place(value, at: index)
-            } else {
-                let mask = DigitMask.make(step.digits)
-                var touched: [Int] = []
-                for target in step.targets where notes[target] != 0 {
-                    let updated = step.restrictsToDigits ? (notes[target] & mask) : (notes[target] & ~mask)
-                    if updated != notes[target] {
-                        notes[target] = updated
-                        touched.append(target)
-                    }
-                }
-                highlightedByHint = step.targets
-                selectedIndex = step.targets.first
-                hintMessage = "\(step.title) — \(step.detail)"
-                if !touched.isEmpty {
-                    hintMessage = "\(step.title) — \(step.detail) Tes notes ont été mises à jour."
-                }
+                return
             }
-            return
+            if unlockedBy == nil {
+                unlockedBy = "\(step.title) — \(step.detail)"
+            }
+            pending.append(NoteElimination(indices: step.targets,
+                                           mask: DigitMask.make(step.digits),
+                                           restrictsToDigits: step.restrictsToDigits))
+            SudokuSolver.apply(step, board: &work, cands: &cands)
         }
 
-        // Repli : révèle une case vide.
+        // Repli : révèle une case (ne devrait jamais servir sur nos grilles).
         if let empty = (0..<Sudoku.cellCount).first(where: { values[$0] == 0 }) {
             hintsUsed += 1
             selectedIndex = empty

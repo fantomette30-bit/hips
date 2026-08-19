@@ -481,7 +481,24 @@ class GameState:
                          self.notes[changed[0]], cs[changed[0]], changed, prev))
         for i in changed: self.notes[i] = cs[i]
 
+    def apply_note_eliminations(self, eliminations):
+        updated = {}
+        for indices, mask, restricts in eliminations:
+            for t in indices:
+                if self.notes[t] == 0: continue
+                cur = updated.get(t, self.notes[t])
+                nxt = (cur & mask) if restricts else (cur & ~mask)
+                if nxt != cur: updated[t] = nxt
+        if not updated: return
+        idx = sorted(updated)
+        prev = [self.notes[i] for i in idx]
+        self.record(Move(idx[0], self.values[idx[0]], self.values[idx[0]],
+                         self.notes[idx[0]], updated[idx[0]], idx, prev))
+        for i in idx: self.notes[i] = updated[i]
+
     def use_hint(self):
+        """Enchaîne en interne les éliminations nécessaires : un indice aboutit
+        toujours à un chiffre posé (miroir de GameState.useHint en Swift)."""
         if self.is_paused or self.is_complete: return
         for i in range(CELL_COUNT):
             if self.is_wrong(i):
@@ -490,23 +507,23 @@ class GameState:
                 self.highlighted_by_hint = [i]
                 self.hint_message = "erreur"
                 return
-        s = next_step(self.values, candidates(self.values), 4)
-        if s is not None:
-            self.hints_used += 1
+        work = list(self.values)
+        cs = candidates(work)
+        pending, unlocked_by = [], None
+        for _ in range(80):
+            s = next_step(work, cs, 4)
+            if s is None: break
             if s.is_placement:
+                self.hints_used += 1
+                self.apply_note_eliminations(pending)
                 self.selected_index = s.placement_index
                 self.highlighted_by_hint = [s.placement_index]
-                self.hint_message = s.title
+                self.hint_message = (unlocked_by + " ensuite " + s.title) if unlocked_by else s.title
                 self.place(s.placement_value, s.placement_index)
-            else:
-                mask = make_mask(s.digits)
-                for t in s.targets:
-                    if self.notes[t] != 0:
-                        self.notes[t] = (self.notes[t] & mask) if s.restricts else (self.notes[t] & ~mask)
-                self.highlighted_by_hint = list(s.targets)
-                self.selected_index = s.targets[0] if s.targets else None
-                self.hint_message = s.title
-            return
+                return
+            if unlocked_by is None: unlocked_by = s.title
+            pending.append((list(s.targets), make_mask(s.digits), s.restricts))
+            apply_step(s, work, cs)
         for i in range(CELL_COUNT):
             if self.values[i] == 0:
                 self.hints_used += 1

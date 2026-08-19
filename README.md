@@ -92,6 +92,13 @@ indépendamment de l'interface. Les candidats d'une case sont encodés dans un
 masque de bits `UInt16`, ce qui rend le solveur assez rapide pour évaluer des
 dizaines de grilles par seconde sur l'appareil.
 
+## Version web (sans Mac)
+
+`Web/index.html` reprend le même jeu et le même moteur en un fichier HTML
+autonome, à ouvrir dans Safari puis à ajouter à l'écran d'accueil de l'iPhone :
+plein écran, icône dédiée, fonctionnement hors ligne. Voir
+[Web/README.md](Web/README.md).
+
 ## Vérification du moteur
 
 Le moteur est translittéré à l'identique en Python dans `Tools/EngineCheck/`

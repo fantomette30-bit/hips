@@ -43,23 +43,47 @@ med = {d: statistics.median([x["score"] for x in puzzles[d]]) for d in puzzles}
 check(med["easy"] < med["medium"] < med["hard"], f"ordre des difficultés incorrect: {med}")
 print("  médianes:", {k: round(v) for k, v in med.items()})
 
-print("== 3. Les indices résolvent la grille et ne se trompent jamais ==")
+print("== 3. Les indices résolvent la grille, posent toujours un chiffre, sans erreur ==")
 for d in puzzles:
     for p in puzzles[d][:8]:
         g = GameState(p)
         steps = 0
-        while not g.is_complete and steps < 400:
+        while not g.is_complete and steps < 200:
             before = list(g.values)
             g.use_hint()
             steps += 1
-            for i in range(CELL_COUNT):
-                if g.values[i] != before[i]:
-                    check(g.values[i] == p["solution"][i], f"{d}: un indice a placé une valeur fausse")
-            if g.values == before and g.hint_message is None:
-                check(False, f"{d}: indice sans effet")
-                break
+            changed = [i for i in range(CELL_COUNT) if g.values[i] != before[i]]
+            # régression : un indice qui n'avance pas boucle indéfiniment
+            check(len(changed) == 1, f"{d}: un indice n'a posé aucun chiffre (blocage possible)")
+            for i in changed:
+                check(g.values[i] == p["solution"][i], f"{d}: un indice a placé une valeur fausse")
+            if not changed: break
         check(g.is_complete, f"{d}: les indices n'ont pas terminé la grille ({steps} étapes)")
         check(g.mistakes == 0, f"{d}: les indices ont créé des erreurs")
+
+print("== 3 bis. Indices sur grilles exigeant des éliminations ==")
+tricky = 0
+for p in puzzles["hard"]:
+    b = list(p["givens"])
+    cs = candidates(b)
+    needs_elimination = False
+    while 0 in b:
+        s = next_step(b, cs, 4)
+        if s is None: break
+        if not s.is_placement: needs_elimination = True
+        apply_step(s, b, cs)
+    if not needs_elimination: continue
+    tricky += 1
+    g = GameState(p)
+    steps = 0
+    while not g.is_complete and steps < 200:
+        before = list(g.values)
+        g.use_hint()
+        steps += 1
+        check(g.values != before, "difficile: indice bloqué sur une grille à éliminations")
+        if g.values == before: break
+    check(g.is_complete, "difficile: indices bloqués avant la fin")
+print(f"  grilles difficiles exigeant au moins une élimination : {tricky}/15")
 
 print("== 4. Indices sur grille avec erreur du joueur ==")
 p = puzzles["medium"][0]
