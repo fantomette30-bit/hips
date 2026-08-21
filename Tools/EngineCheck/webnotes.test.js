@@ -58,23 +58,26 @@ const { chromium, devices } = require('playwright');
       empty,
       shaking: cell.classList.contains('shake'),
       err: cell.classList.contains('err'),
-      deco: st.textDecorationLine + ' ' + st.textDecorationStyle
+      ring: (() => {
+        const a = getComputedStyle(cell, '::after');
+        return { content: a.content, radius: a.borderTopLeftRadius, border: a.borderTopWidth };
+      })()
     };
   });
   check(err.shaking, 'pas de secousse à la saisie d’un chiffre faux');
   check(err.err, 'classe d’erreur absente');
-  check(err.deco.includes('underline') && err.deco.includes('wavy'),
-        'soulignement ondulé absent : ' + err.deco);
+  check(err.ring.content !== 'none' && err.ring.radius === '50%' && err.ring.border === '2px',
+        'cercle d’erreur absent : ' + JSON.stringify(err.ring));
 
   // la secousse s'arrête, le soulignement reste
   await page.waitForTimeout(800);
   const later = await page.evaluate(i => {
     const cell = document.querySelectorAll('#board .cell')[i];
-    const st = getComputedStyle(cell);
-    return { shaking: cell.classList.contains('shake'), deco: st.textDecorationStyle };
+    const a = getComputedStyle(cell, '::after');
+    return { shaking: cell.classList.contains('shake'), ring: a.content !== 'none' && a.borderTopLeftRadius === '50%' };
   }, err.empty);
   check(!later.shaking, 'la secousse ne s’arrête pas');
-  check(later.deco === 'wavy', 'le soulignement disparaît après la secousse');
+  check(later.ring, 'le cercle disparaît après la secousse');
 
   // une deuxième erreur au même endroit secoue à nouveau
   const again = await page.evaluate(i => {

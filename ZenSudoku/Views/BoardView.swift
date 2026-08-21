@@ -125,9 +125,15 @@ struct CellView: View {
             Rectangle()
                 .fill(appearance.background)
             if value != 0 {
+                if appearance.isError {
+                    // le chiffre faux est entouré, comme une correction au stylo
+                    Circle()
+                        .stroke(appearance.foreground.opacity(0.6), lineWidth: 2)
+                        .frame(width: size * 0.74, height: size * 0.74)
+                        .transition(.scale.combined(with: .opacity))
+                }
                 Text("\(value)")
                     .font(Theme.numeral(size * 0.52, weight: isGiven ? .semibold : .medium))
-                    .underline(appearance.isError, pattern: .dot)
                     .foregroundStyle(appearance.foreground)
                     .minimumScaleFactor(0.6)
                     .transition(.scale.combined(with: .opacity))

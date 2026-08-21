@@ -232,9 +232,19 @@ color:var(--ink-2); padding:0 2px;
 .cell.hint{background:var(--brass-soft)}
 .cell.err{background:var(--danger-soft); color:var(--danger)}
 /* Le chiffre faux reste rouge, mais il est aussi signalé par la forme :
-   soulignement ondulé permanent, et secousse au moment de la saisie —
-   visibles même avec des lunettes qui filtrent la lumière bleue. */
-.cell.err{text-decoration:underline wavy; text-decoration-thickness:2px; text-underline-offset:4px}
+   un cercle l'entoure — comme une correction au stylo — et la case est
+   secouée à la saisie. Visibles quelle que soit la perception des couleurs. */
+.cell.err::after{
+content:""; position:absolute; left:50%; top:50%;
+width:1.42em; height:1.42em; transform:translate(-50%,-50%);
+border:2px solid currentColor; border-radius:50%;
+opacity:.6; pointer-events:none;
+animation:ringIn .28s ease-out;
+}
+@keyframes ringIn{
+from{transform:translate(-50%,-50%) scale(.55); opacity:0}
+to{transform:translate(-50%,-50%) scale(1); opacity:.6}
+}
 .cell.pop{animation:pop .26s ease}
 .cell.unit-done{animation:unitDone .9s ease-out both}
 @keyframes unitDone{

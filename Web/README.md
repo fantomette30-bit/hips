@@ -51,9 +51,10 @@ deux notes sont côte à côte, neuf notes remplissent la case. L'ordre de saisi
 ne change rien à l'affichage.
 
 Un chiffre faux reste en rouge, mais il est aussi signalé **par la forme et le
-mouvement** : la case est secouée au moment de la saisie et le chiffre garde un
-soulignement ondulé tant qu'il n'est pas corrigé — repérable même avec des
-lunettes filtrant la lumière bleue ou une perception altérée des couleurs.
+mouvement** : la case est secouée au moment de la saisie et le chiffre est
+entouré d'un cercle — comme une correction au stylo — tant qu'il n'est pas
+corrigé. Repérable même avec des lunettes filtrant la lumière bleue ou une
+perception altérée des couleurs.
 
 ## Version hors ligne garantie (`docs/`)
 
