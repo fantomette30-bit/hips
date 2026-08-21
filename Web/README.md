@@ -43,6 +43,18 @@ ressaisie.
 Le score court est affiché pendant la partie, le détail à la victoire, et les
 totaux par niveau dans les statistiques.
 
+## Notes et signal d'erreur
+
+Les notes s'affichent toujours **en ordre croissant, de gauche à droite puis
+ligne suivante, sans position réservée ni trou** : une note seule est centrée,
+deux notes sont côte à côte, neuf notes remplissent la case. L'ordre de saisie
+ne change rien à l'affichage.
+
+Un chiffre faux reste en rouge, mais il est aussi signalé **par la forme et le
+mouvement** : la case est secouée au moment de la saisie et le chiffre garde un
+soulignement ondulé tant qu'il n'est pas corrigé — repérable même avec des
+lunettes filtrant la lumière bleue ou une perception altérée des couleurs.
+
 ## Version hors ligne garantie (`docs/`)
 
 `Web/index.html` fonctionne déjà sans réseau une fois la page chargée, mais rien
@@ -82,6 +94,7 @@ node Tools/EngineCheck/webui.test.js        # interface réelle (Chromium, iPhon
 node Tools/EngineCheck/webunlimited.test.js # 145 grilles enchaînées, aucune répétition
 node Tools/EngineCheck/webrobustness.test.js # cas limites : sauvegarde corrompue, annulation…
 node Tools/EngineCheck/webscore.test.js     # score : gains, malus, bonus, report
+node Tools/EngineCheck/webnotes.test.js     # notes triées, secousse et soulignement d'erreur
 node Tools/EngineCheck/weboffline.test.js   # PWA : serveur arrêté, réseau coupé
 ```
 

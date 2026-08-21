@@ -230,6 +230,17 @@ color:var(--ink-2); padding:0 2px;
 .cell.same{background:var(--cell-same)}
 .cell.hint{background:var(--brass-soft)}
 .cell.err{background:var(--danger-soft); color:var(--danger)}
+/* Le chiffre faux reste rouge, mais il est aussi signalé par la forme :
+   soulignement ondulé permanent, et secousse au moment de la saisie —
+   visibles même avec des lunettes qui filtrent la lumière bleue. */
+.cell.err{text-decoration:underline wavy; text-decoration-thickness:2px; text-underline-offset:4px}
+.cell.shake{animation:cellShake .5s cubic-bezier(.36,.07,.19,.97)}
+@keyframes cellShake{
+10%,90%{transform:translateX(-1px)}
+20%,80%{transform:translateX(2px)}
+30%,50%,70%{transform:translateX(-4px)}
+40%,60%{transform:translateX(4px)}
+}
 .cell.pop{animation:pop .26s ease}
 .cell.unit-done{animation:unitDone .9s ease-out both}
 @keyframes unitDone{
@@ -239,12 +250,16 @@ color:var(--ink-2); padding:0 2px;
 100%{background:transparent; box-shadow:none}
 }
 @keyframes pop{0%{transform:scale(.6);opacity:.4}60%{transform:scale(1.1)}100%{transform:scale(1)}}
+/* Règle d'affichage des notes : toujours en ordre croissant, de gauche à
+   droite puis ligne suivante, sans position réservée ni trou. Une note seule
+   est donc centrée, deux notes sont côte à côte, etc. */
 .notes{
-  position:absolute; inset:1px; display:grid; grid-template-columns:repeat(3,1fr); grid-template-rows:repeat(3,1fr);
-  font-size:clamp(9px,2.7vw,12px); font-weight:600; color:var(--ink-2); line-height:1;
+  position:absolute; inset:1px; display:flex; flex-wrap:wrap;
+  align-content:center; justify-content:center;
+  font-size:clamp(9px,2.7vw,12px); font-weight:600; color:var(--ink-2); line-height:1.15;
   font-variant-numeric:tabular-nums;
 }
-.notes i{display:grid; place-items:center; font-style:normal}
+.notes i{flex:0 0 33.3%; text-align:center; font-style:normal}
 .board.paused .cell{color:transparent}
 .board.paused .notes{opacity:0}
 .paused-veil{
@@ -1427,6 +1442,8 @@ function place(digit, i) {
   if (digit !== G.puzzle.solution[i]) {
     G.mistakes++;
     G.combo = 0;
+    G.errFlash = { i: i, seq: (G.errFlash ? G.errFlash.seq : 0) + 1 };
+    if (navigator.vibrate) navigator.vibrate([30, 40, 30]);
     award(POINTS.mistake(rank));
   } else if (G.hintPlacing) {
     G.scored[i] = 1;
@@ -1685,6 +1702,11 @@ function renderGame() {
       el.style.animationDelay = '';
     }
     el.className = cls;
+    if (G.errFlash && G.errFlash.i === i && el.dataset.shake !== String(G.errFlash.seq)) {
+      el.dataset.shake = String(G.errFlash.seq);
+      el.classList.add('shake');
+      setTimeout(() => el.classList.remove('shake'), 600);
+    }
 
     if (v !== 0) {
       if (el.textContent !== String(v)) {
@@ -1696,8 +1718,8 @@ function renderGame() {
       const wanted = 'n' + G.notes[i];
       if (el.dataset.n !== wanted) {
         el.dataset.n = wanted;
-        el.innerHTML = '<div class="notes">' + Array.from({ length: 9 }, (_, k) =>
-          '<i>' + (has(G.notes[i], k + 1) ? (k + 1) : '') + '</i>').join('') + '</div>';
+        el.innerHTML = '<div class="notes">' +
+          digitsOf(G.notes[i]).map(d => '<i>' + d + '</i>').join('') + '</div>';
       }
     } else if (el.textContent !== '' || el.dataset.n) {
       el.textContent = '';
