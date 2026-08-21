@@ -24,6 +24,12 @@ if ('serviceWorker' in navigator) {
       if (el) el.textContent = navigator.serviceWorker.controller
         ? 'Jeu enregistré sur l’appareil : il fonctionne sans réseau.'
         : 'Enregistrement du jeu sur l’appareil…';
+      // première visite : l'installation aboutit sans rechargement de page
+      navigator.serviceWorker.ready.then(() => {
+        if (el && !navigator.serviceWorker.controller) {
+          el.textContent = 'Jeu enregistré sur l’appareil : il fonctionne sans réseau.';
+        }
+      });
       reg.addEventListener('updatefound', () => {
         const sw = reg.installing;
         if (!sw) return;
@@ -49,7 +55,11 @@ const CACHE = 'sudoku-zen-%s';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-1024.png'];
 
 self.addEventListener('install', event => {
-  event.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
+  event.waitUntil(
+    caches.open(CACHE)
+      .then(c => c.addAll(FILES.map(f => new Request(f, { cache: 'reload' }))))
+      .then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener('activate', event => {
@@ -66,7 +76,7 @@ self.addEventListener('fetch', event => {
   event.respondWith(
     caches.match(request, { ignoreSearch: true }).then(hit => {
       if (hit) {
-        fetch(request).then(res => {
+        fetch(request, { cache: 'no-cache' }).then(res => {
           if (res && res.ok && new URL(request.url).origin === location.origin) {
             caches.open(CACHE).then(c => c.put(request, res.clone()));
           }
@@ -109,14 +119,14 @@ def build(version=None):
     html = open(SRC, encoding='utf-8').read()
     os.makedirs(OUT, exist_ok=True)
 
-    html = html.replace('<link rel="preconnect" href="https://fonts.googleapis.com">',
-                        '<link rel="manifest" href="manifest.webmanifest">\n'
-                        '<link rel="preconnect" href="https://fonts.googleapis.com">', 1)
-
-    # les polices distantes ne doivent jamais retarder l'affichage
-    html = html.replace(
-        '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700&display=swap">',
-        '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700&display=swap" media="print" onload="this.media=\'all\'">')
+    # point d'ancrage stable : la balise <title>, toujours présente
+    title_tag = '<title>Sudoku Zen</title>'
+    if title_tag not in html:
+        sys.exit("build-pwa : balise <title> introuvable, adapter le script")
+    html = html.replace(title_tag,
+                        title_tag + '\n<link rel="manifest" href="manifest.webmanifest">', 1)
+    if '<link rel="manifest"' not in html:
+        sys.exit("build-pwa : l'injection du manifeste a échoué")
 
     marker = """        <b>Prêt pour le mode avion</b>
         Les grilles sont créées sur votre téléphone. Aucun compte, aucune publicité, aucune donnée envoyée."""

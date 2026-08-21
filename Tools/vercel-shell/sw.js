@@ -6,7 +6,11 @@ const CORE = ['./game.html', './manifest.webmanifest', './icon-180.png'];
 const LATEST = 'https://raw.githubusercontent.com/fantomette30-bit/hips/claude/sudoku-premium-iphone-app-ji3x03/docs/index.html';
 
 self.addEventListener('install', event => {
-  event.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
+  event.waitUntil(
+    caches.open(CACHE)
+      .then(c => c.addAll(CORE.map(f => new Request(f, { cache: 'reload' }))))
+      .then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener('activate', event => {

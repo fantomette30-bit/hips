@@ -1,11 +1,15 @@
 /* Service worker : met tout le jeu en cache à la première visite, puis sert
    toujours depuis le cache. Le jeu s'ouvre alors sans réseau, y compris
    lancé depuis l'écran d'accueil, et même après un redémarrage du téléphone. */
-const CACHE = 'sudoku-zen-2e665c1743';
+const CACHE = 'sudoku-zen-e0092f0e88';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-1024.png'];
 
 self.addEventListener('install', event => {
-  event.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
+  event.waitUntil(
+    caches.open(CACHE)
+      .then(c => c.addAll(FILES.map(f => new Request(f, { cache: 'reload' }))))
+      .then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener('activate', event => {
@@ -22,7 +26,7 @@ self.addEventListener('fetch', event => {
   event.respondWith(
     caches.match(request, { ignoreSearch: true }).then(hit => {
       if (hit) {
-        fetch(request).then(res => {
+        fetch(request, { cache: 'no-cache' }).then(res => {
           if (res && res.ok && new URL(request.url).origin === location.origin) {
             caches.open(CACHE).then(c => c.put(request, res.clone()));
           }

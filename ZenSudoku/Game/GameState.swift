@@ -44,9 +44,9 @@ final class GameState: Identifiable {
     private(set) var hintMessage: String?
     private(set) var highlightedByHint: [Int] = []
     private(set) var lastFilledIndex: Int?
-    /// Case et compteur de la dernière erreur saisie, pour déclencher la secousse.
-    private(set) var errorFlashIndex: Int?
-    private(set) var errorFlashCount: Int = 0
+    /// Compteur de secousses par case : chaque erreur saisie incrémente celui de
+    /// sa case, ce qui anime exactement une secousse, sans rejouer les autres.
+    private(set) var errorShakes = [Int](repeating: 0, count: Sudoku.cellCount)
     /// Incrémenté à chaque modification de la grille : sert de déclencheur
     /// pour la sauvegarde automatique.
     private(set) var revision: Int = 0
@@ -201,8 +201,7 @@ final class GameState: Identifiable {
         lastFilledIndex = index
         if digit != puzzle.solution[index] {
             mistakes += 1
-            errorFlashIndex = index
-            errorFlashCount += 1
+            errorShakes[index] += 1
         }
         checkCompletion()
     }
@@ -259,7 +258,7 @@ final class GameState: Identifiable {
         isPaused = false
         selectedIndex = nil
         lastFilledIndex = nil
-        errorFlashIndex = nil
+        errorShakes = [Int](repeating: 0, count: Sudoku.cellCount)
         revision += 1
         clearHint()
         startClock()

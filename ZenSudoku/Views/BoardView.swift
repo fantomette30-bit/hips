@@ -53,8 +53,8 @@ struct BoardView: View {
                                  isGiven: game.isGiven(index),
                                  appearance: appearance(for: index),
                                  size: cellSize)
-                            .modifier(ShakeEffect(animatableData: game.errorFlashIndex == index ? CGFloat(game.errorFlashCount) : 0))
-                            .animation(.linear(duration: 0.45), value: game.errorFlashCount)
+                            .modifier(ShakeEffect(animatableData: CGFloat(game.errorShakes[index])))
+                            .animation(.linear(duration: 0.45), value: game.errorShakes[index])
                             .contentShape(Rectangle())
                             .onTapGesture { onTap(index) }
                     }
@@ -127,7 +127,7 @@ struct CellView: View {
             if value != 0 {
                 Text("\(value)")
                     .font(Theme.numeral(size * 0.52, weight: isGiven ? .semibold : .medium))
-                    .underline(appearance.isError, pattern: .wavy)
+                    .underline(appearance.isError, pattern: .dot)
                     .foregroundStyle(appearance.foreground)
                     .minimumScaleFactor(0.6)
                     .transition(.scale.combined(with: .opacity))

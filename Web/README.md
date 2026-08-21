@@ -31,7 +31,7 @@ grille facile, 3 essais et 24 ms en difficile, 37 essais et 725 ms en extrême.
 ## Score
 
 Chaque bonne case rapporte `10 × rang du niveau` (Facile 10 … Extrême 60),
-multiplié par la série de bonnes réponses en cours (jusqu'à ×2). Fermer une
+multiplié par la série de bonnes réponses en cours (×1,1 par bonne case d'affilée, jusqu'à ×2). Fermer une
 ligne, une colonne ou un bloc rapporte `50 × rang` et déclenche une vague
 lumineuse sur les cases concernées. Une erreur coûte `20 × rang`, un indice
 `30 × rang`, et l'un comme l'autre remettent la série à zéro ; une ligne fermée
@@ -95,6 +95,8 @@ node Tools/EngineCheck/webunlimited.test.js # 145 grilles enchaînées, aucune r
 node Tools/EngineCheck/webrobustness.test.js # cas limites : sauvegarde corrompue, annulation…
 node Tools/EngineCheck/webscore.test.js     # score : gains, malus, bonus, report
 node Tools/EngineCheck/webnotes.test.js     # notes triées, secousse et soulignement d'erreur
+node Tools/EngineCheck/webmigration.test.js # reprise d'anciennes sauvegardes, transitions de rendu
+node Tools/EngineCheck/webregress.test.js   # non-régression de la revue adversariale
 node Tools/EngineCheck/weboffline.test.js   # PWA : serveur arrêté, réseau coupé
 ```
 
