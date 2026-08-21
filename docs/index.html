@@ -262,16 +262,16 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
 40%,60%{transform:translateX(4px)}
 }
 @keyframes pop{0%{transform:scale(.6);opacity:.4}60%{transform:scale(1.1)}100%{transform:scale(1)}}
-/* Règle d'affichage des notes : toujours en ordre croissant, de gauche à
-   droite puis ligne suivante, sans position réservée ni trou. Une note seule
-   est donc centrée, deux notes sont côte à côte, etc. */
+/* Notes : chaque chiffre a sa position fixe dans la case — 1 en haut à
+   gauche, 2 en haut au milieu … 9 en bas à droite — comme sur une grille
+   papier. Une note absente laisse sa place vide. */
 .notes{
-  position:absolute; inset:1px; display:flex; flex-wrap:wrap;
-  align-content:center; justify-content:center;
-  font-size:clamp(9px,2.7vw,12px); font-weight:600; color:var(--ink-2); line-height:1.15;
+  position:absolute; inset:1px; display:grid;
+  grid-template-columns:repeat(3,1fr); grid-template-rows:repeat(3,1fr);
+  font-size:clamp(9px,2.7vw,12px); font-weight:600; color:var(--ink-2); line-height:1;
   font-variant-numeric:tabular-nums;
 }
-.notes i{flex:0 0 33.3%; text-align:center; font-style:normal}
+.notes i{display:grid; place-items:center; font-style:normal}
 .board.paused .cell{color:transparent}
 .board.paused .notes{opacity:0}
 .paused-veil{
@@ -579,7 +579,7 @@ font-variant-numeric:tabular-nums; letter-spacing:-.02em;
     <div class="section-label" style="margin:0 0 7px 4px">Confort de jeu</div>
     <div class="rows" id="comfortToggles"></div>
     <div class="rows">
-      <div class="row">Version <span class="val">1.0 web</span></div>
+      <div class="row">Version <span class="val" id="appVersion">—</span></div>
       <div class="row">Connexion requise <span class="val">Aucune</span></div>
     </div>
     <button class="btn ghost" data-close>Fermer</button>
@@ -1202,6 +1202,11 @@ const LS = {
   del(k) { try { localStorage.removeItem(k); } catch (e) {} }
 };
 
+/* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
+   s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
+   bien arrivée sur l'appareil. */
+const APP_VERSION = '1.6.0';
+
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };
 let settings = Object.assign({}, DEFAULTS, LS.get('zen.settings', {}));
@@ -1783,8 +1788,8 @@ function renderGame() {
       const wanted = 'n' + G.notes[i];
       if (el.dataset.n !== wanted) {
         el.dataset.n = wanted;
-        el.innerHTML = '<div class="notes">' +
-          digitsOf(G.notes[i]).map(d => '<i>' + d + '</i>').join('') + '</div>';
+        el.innerHTML = '<div class="notes">' + Array.from({ length: 9 }, (_, k) =>
+          '<i>' + (has(G.notes[i], k + 1) ? (k + 1) : '') + '</i>').join('') + '</div>';
       }
     } else if (el.textContent !== '' || el.dataset.n) {
       el.textContent = '';
@@ -1967,6 +1972,7 @@ window.addEventListener('pagehide', saveGame);
 document.addEventListener('visibilitychange', () => { if (document.hidden) saveGame(); });
 
 applyTheme();
+$('#appVersion').textContent = APP_VERSION;
 renderHome();
 show('home');
 </script>

@@ -147,31 +147,28 @@ struct CellView: View {
     }
 }
 
-/// Règle d'affichage des notes : toujours en ordre croissant, de gauche à
-/// droite puis ligne suivante, sans position réservée ni trou. Une note seule
-/// est donc centrée, deux notes sont côte à côte, etc.
+/// Notes : chaque chiffre a sa position fixe dans la case — 1 en haut à
+/// gauche, 2 en haut au milieu … 9 en bas à droite — comme sur une grille
+/// papier. Une note absente laisse sa place vide.
 struct NotesGrid: View {
     let notes: UInt16
     let size: CGFloat
 
     var body: some View {
-        let digits = DigitMask.digits(notes)
-        let rows = stride(from: 0, to: digits.count, by: 3).map { start in
-            Array(digits[start..<min(start + 3, digits.count)])
-        }
-        VStack(spacing: size * 0.04) {
-            ForEach(0..<rows.count, id: \.self) { row in
-                HStack(spacing: size * 0.10) {
-                    ForEach(rows[row], id: \.self) { digit in
-                        Text("\(digit)")
+        VStack(spacing: 0) {
+            ForEach(0..<3, id: \.self) { row in
+                HStack(spacing: 0) {
+                    ForEach(0..<3, id: \.self) { column in
+                        let digit = row * 3 + column + 1
+                        Text(DigitMask.contains(notes, digit) ? "\(digit)" : " ")
                             .font(.system(size: size * 0.24, weight: .medium, design: .rounded))
                             .foregroundStyle(Theme.inkSecondary)
                             .monospacedDigit()
+                            .frame(maxWidth: .infinity, maxHeight: .infinity)
                     }
                 }
             }
         }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
         .padding(1)
     }
 }

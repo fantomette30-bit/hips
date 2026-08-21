@@ -19,21 +19,28 @@ const { chromium, devices } = require('playwright');
     inputDigit(8); inputDigit(3); inputDigit(5);          // saisies dans le désordre
     G.noteMode = false;
     const cell = document.querySelectorAll('#board .cell')[empty];
-    const shown = [...cell.querySelectorAll('.notes i')].map(e => e.textContent);
+    const cells9 = [...cell.querySelectorAll('.notes i')].map(e => e.textContent);
+    const shown = cells9.filter(t => t.trim() !== '');
     const st = getComputedStyle(cell.querySelector('.notes'));
-    return { empty, shown, display: st.display, count: shown.length };
+    // position fixe : le chiffre d occupe l'emplacement d-1, les autres sont vides
+    const byIndex = [3, 5, 8].every(d => cells9[d - 1] === String(d)) &&
+      cells9.every((t, k) => t.trim() === '' || t === String(k + 1));
+    return { empty, shown, display: st.display, count: cells9.length, byIndex };
   });
-  check(notes.shown.join('') === '358', 'notes non triées : ' + notes.shown.join(','));
-  check(notes.count === 3, notes.count + ' éléments affichés pour 3 notes (pas de cases vides attendues)');
-  check(notes.display === 'flex', 'disposition des notes inattendue : ' + notes.display);
+  check(notes.shown.join('') === '358', 'chiffres notés inattendus : ' + notes.shown.join(','));
+  check(notes.count === 9, notes.count + ' emplacements affichés (9 positions fixes attendues)');
+  check(notes.display === 'grid', 'disposition des notes inattendue : ' + notes.display);
+  check(notes.byIndex, 'chaque chiffre doit occuper sa position fixe (case d-1)');
 
   // retirer une note conserve l'ordre
   const after = await page.evaluate(i => {
     G.sel = i; G.noteMode = true; inputDigit(3); G.noteMode = false;
     const cell = document.querySelectorAll('#board .cell')[i];
-    return [...cell.querySelectorAll('.notes i')].map(e => e.textContent).join('');
+    const c9 = [...cell.querySelectorAll('.notes i')].map(e => e.textContent);
+    return { left: c9.filter(t => t.trim() !== '').join(''), pos5: c9[4], pos8: c9[7], pos3: c9[2].trim() };
   }, notes.empty);
-  check(after === '58', 'ordre perdu après retrait : ' + after);
+  check(after.left === '58' && after.pos5 === '5' && after.pos8 === '8' && after.pos3 === '',
+        'positions incorrectes après retrait : ' + JSON.stringify(after));
 
   // neuf notes tiennent dans la case sans déborder
   const nine = await page.evaluate(i => {
@@ -42,9 +49,11 @@ const { chromium, devices } = require('playwright');
     G.noteMode = false;
     const cell = document.querySelectorAll('#board .cell')[i];
     const n = cell.querySelector('.notes');
-    return { count: n.children.length, fits: n.scrollHeight <= cell.clientHeight + 1 };
+    const ordered = [...n.children].every((e, k) => e.textContent === String(k + 1));
+    return { count: n.children.length, fits: n.scrollHeight <= cell.clientHeight + 1, ordered };
   }, notes.empty);
-  check(nine.count === 9 && nine.fits, 'neuf notes ne tiennent pas dans la case');
+  check(nine.count === 9 && nine.fits && nine.ordered,
+        'neuf notes : chaque chiffre à sa place, sans débordement (' + JSON.stringify(nine) + ')');
   await page.evaluate(i => { G.sel = i; erase(); }, notes.empty);
 
   // --- erreur : secousse immédiate + soulignement ondulé permanent

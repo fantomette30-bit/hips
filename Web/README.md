@@ -45,10 +45,14 @@ totaux par niveau dans les statistiques.
 
 ## Notes et signal d'erreur
 
-Les notes s'affichent toujours **en ordre croissant, de gauche à droite puis
-ligne suivante, sans position réservée ni trou** : une note seule est centrée,
-deux notes sont côte à côte, neuf notes remplissent la case. L'ordre de saisie
-ne change rien à l'affichage.
+Chaque note occupe **une position fixe dans la case, comme sur une grille
+papier** : 1 en haut à gauche, 2 en haut au milieu … 9 en bas à droite. Une
+note absente laisse sa place vide, et l'ordre de saisie ne change rien à
+l'affichage.
+
+Le numéro de version affiché dans **Réglages → Version** vient de la constante
+`APP_VERSION` (en tête du script applicatif) : l'incrémenter à chaque mise à
+jour publiée, et consigner le changement dans [CHANGELOG.md](../CHANGELOG.md).
 
 Un chiffre faux reste en rouge, mais il est aussi signalé **par la forme et le
 mouvement** : la case est secouée au moment de la saisie et le chiffre est
