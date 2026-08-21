@@ -97,6 +97,7 @@ node Tools/EngineCheck/webscore.test.js     # score : gains, malus, bonus, repor
 node Tools/EngineCheck/webnotes.test.js     # notes triées, secousse et soulignement d'erreur
 node Tools/EngineCheck/webmigration.test.js # reprise d'anciennes sauvegardes, transitions de rendu
 node Tools/EngineCheck/webregress.test.js   # non-régression de la revue adversariale
+node Tools/EngineCheck/webtheme.test.js     # mode Auto : suit le téléphone, en direct
 node Tools/EngineCheck/weboffline.test.js   # PWA : serveur arrêté, réseau coupé
 ```
 

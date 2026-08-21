@@ -1190,7 +1190,7 @@ const LS = {
   del(k) { try { localStorage.removeItem(k); } catch (e) {} }
 };
 
-const HOST_THEME = document.documentElement.getAttribute('data-theme');
+const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };
 let settings = Object.assign({}, DEFAULTS, LS.get('zen.settings', {}));
 let stats = LS.get('zen.stats', {});
@@ -1220,14 +1220,31 @@ const fmt = s => {
   return h ? h + ':' + p(m) + ':' + p(x) : p(m) + ':' + p(x);
 };
 
+/* Le thème est toujours posé explicitement : en Auto, il suit le réglage
+   clair/sombre du téléphone, même si la page est ouverte dans une enveloppe
+   qui impose son propre thème (lien claude.ai) ou si le système a changé
+   pendant que l'app était en veille. */
 function applyTheme() {
-  const root = document.documentElement;
-  if (settings.theme === 'auto') {
-    if (HOST_THEME) root.setAttribute('data-theme', HOST_THEME); else root.removeAttribute('data-theme');
-  } else {
-    root.setAttribute('data-theme', settings.theme);
+  const mode = settings.theme === 'auto'
+    ? (systemDark.matches ? 'dark' : 'light')
+    : settings.theme;
+  document.documentElement.setAttribute('data-theme', mode);
+  let meta = document.querySelector('meta[name="theme-color"]:not([media])');
+  if (!meta) {
+    meta = document.createElement('meta');
+    meta.name = 'theme-color';
+    document.head.appendChild(meta);
   }
+  meta.content = mode === 'dark' ? '#0C1118' : '#EDEFF3';
 }
+try {
+  systemDark.addEventListener('change', applyTheme);
+} catch (e) {
+  systemDark.addListener(applyTheme);         // anciens WebKit
+}
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) applyTheme();         // retour de veille : on ré-évalue
+});
 
 function show(screen) {
   $('#home').classList.toggle('on', screen === 'home');
