@@ -1,11 +1,13 @@
 {
   "name": "sudoku-zen-checks",
   "private": true,
-  "description": "Vérifications du moteur et de l'interface web de Sudoku Zen",
+  "description": "Batterie de vérifications du jeu web Sudoku Zen",
   "scripts": {
+    "test": "for f in web*.test.js; do echo \"=== $f\"; node \"$f\" || exit 1; done",
     "engine": "node webengine.test.js",
     "ui": "node webui.test.js",
-    "offline": "node weboffline.test.js"
+    "offline": "node weboffline.test.js",
+    "ultimate": "node webultimate.test.js"
   },
   "devDependencies": {
     "playwright": "^1.40.0"

@@ -620,9 +620,11 @@ font-variant-numeric:tabular-nums; letter-spacing:-.02em;
 
 <script id="engine">
 /* ============================================================
-   Moteur — port fidèle du moteur Swift de l'app iOS
-   (mêmes techniques, mêmes constantes de difficulté, mêmes
-   garanties : solution unique et résolution sans deviner).
+   Moteur — géométrie de la grille, techniques de résolution,
+   notation de la difficulté et générateur. Aucune dépendance au
+   DOM : la batterie de tests le charge tel quel. Deux garanties
+   sur toute grille produite : solution unique et résolution
+   possible sans jamais deviner.
    ============================================================ */
 const N = 81;
 const ROWS = [], COLS = [], BOXES = [];

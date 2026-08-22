@@ -1,132 +1,53 @@
 # Installer Sudoku Zen sur votre iPhone
 
-Trois chemins, du plus simple au plus complet.
+Aucun Mac, aucun compte, aucune application à télécharger sur l'App Store : le
+jeu s'ajoute à l'écran d'accueil depuis Safari et fonctionne ensuite sans réseau.
 
-## Le plus simple : la version web hors ligne (aucun Mac)
+## Installation (deux minutes)
 
-Le dossier `docs/` contient le jeu prêt à être publié par **GitHub Pages**.
-Une fois publié, tout se fait depuis l'iPhone :
+1. Ouvrez l'adresse du jeu dans **Safari** sur l'iPhone (Chrome ne sait pas
+   installer une app web sur iOS) :
+   **https://sudoku-zen-app-fantomette30-8687s-projects.vercel.app**
+2. Appuyez sur le bouton **Partager** (le carré avec la flèche, en bas de
+   l'écran).
+3. Faites défiler et choisissez **« Sur l'écran d'accueil »**, puis **Ajouter**.
+4. Fermez Safari et lancez le jeu depuis sa nouvelle icône.
 
-1. Sur github.com/fantomette30-bit/hips : **Settings → Pages**.
-2. *Source* : **Deploy from a branch**. *Branch* : `claude/sudoku-premium-iphone-app-ji3x03`,
-   dossier **`/docs`**. **Save**.
-3. Après une minute, l'adresse **https://fantomette30-bit.github.io/hips/** répond.
-4. Ouvrez-la dans Safari sur l'iPhone → bouton **Partager** → **Sur l'écran d'accueil**.
+À la première ouverture, le jeu se copie entièrement sur le téléphone. Ensuite
+il démarre **sans aucun réseau** — en avion, dans le métro, à l'étranger — et
+même après un redémarrage de l'iPhone. Rien n'expire.
 
-Le jeu s'installe alors comme une app : icône, plein écran, et surtout un
-*service worker* qui garde tout en mémoire sur l'appareil. Il se lance **sans
-aucun réseau**, y compris après un redémarrage du téléphone, et sans expiration.
+## Les mises à jour
 
-Les deux méthodes suivantes concernent l'app iOS native, qui demande un Mac.
-
-## L'app native : deux méthodes
-
-| | Compte Apple gratuit | Compte développeur payant (99 €/an) |
-|---|---|---|
-| Installation | Câble + Mac | Câble + Mac, **ou TestFlight sans câble** |
-| Durée de validité | 7 jours, puis réinstaller | 1 an |
-| Apps simultanées | 3 | illimité |
-| Pour qui | vous seul | vous, vos proches, l'App Store |
-
-La méthode A suffit pour jouer. Commencez par elle.
-
----
-
-## Méthode A — compte Apple gratuit (recommandé pour commencer)
-
-### 1. Installer Xcode sur le Mac
-Ouvrez le **Mac App Store**, cherchez **Xcode**, installez-le (gratuit, ~10 à 15 Go).
-Prenez la dernière version disponible : Xcode doit être au moins aussi récent que
-l'iOS de votre iPhone, sinon il ne saura pas installer sur l'appareil.
-Lancez Xcode une fois et acceptez l'installation des composants additionnels.
-
-### 2. Récupérer le projet
-Dans le Terminal du Mac :
-
-```bash
-git clone -b claude/sudoku-premium-iphone-app-ji3x03 https://github.com/fantomette30-bit/hips.git
-cd hips
-open ZenSudoku.xcodeproj
-```
-
-Sans Git : sur github.com, ouvrez le dépôt, sélectionnez la branche
-`claude/sudoku-premium-iphone-app-ji3x03`, bouton vert **Code → Download ZIP**,
-décompressez, puis double-cliquez sur `ZenSudoku.xcodeproj`.
-
-### 3. Ajouter votre identifiant Apple dans Xcode
-Menu **Xcode → Settings → Accounts → +** → *Apple ID* → connectez-vous avec
-l'identifiant Apple que vous utilisez déjà sur l'iPhone. Aucun paiement,
-aucune inscription développeur nécessaire.
-
-### 4. Régler la signature
-Dans la colonne de gauche, cliquez sur le projet **ZenSudoku** (icône bleue),
-puis sur la cible **ZenSudoku**, onglet **Signing & Capabilities** :
-
-1. Cochez **Automatically manage signing**.
-2. **Team** : choisissez votre nom, suivi de *(Personal Team)*.
-3. **Bundle Identifier** : remplacez `com.zensudoku.app` par un identifiant qui
-   n'appartient qu'à vous, par exemple `com.votrenom.sudokuzen`.
-   *C'est l'étape qu'on oublie le plus souvent* : un identifiant déjà utilisé par
-   quelqu'un d'autre fait échouer la signature.
-
-Le message d'erreur rouge doit disparaître.
-
-### 5. Préparer l'iPhone
-1. Branchez l'iPhone au Mac avec son câble.
-2. Sur l'iPhone : **Se fier à cet ordinateur** → code de déverrouillage.
-3. Activez le mode développeur : **Réglages → Confidentialité et sécurité →
-   Mode développeur → activer**, puis redémarrez l'iPhone et confirmez.
-   (Ce menu n'apparaît qu'après avoir branché l'iPhone à un Mac avec Xcode.)
-
-### 6. Lancer
-En haut de la fenêtre Xcode, à côté du nom du projet, ouvrez le menu des
-destinations et choisissez **votre iPhone** (et non un simulateur).
-Appuyez sur **⌘R** (ou le bouton ▶). La compilation prend une à deux minutes.
-
-### 7. Faire confiance au développeur
-Au premier lancement, l'iPhone affiche *« Développeur non fiable »*. Sur l'iPhone :
-**Réglages → Général → VPN et gestion de l'appareil → votre identifiant Apple →
-Se fier**. Relancez l'app depuis l'écran d'accueil.
-
-C'est fini : l'icône est sur votre écran d'accueil et l'app fonctionne en mode
-avion, sans réseau ni compte.
-
-### Au bout de 7 jours
-Avec un compte gratuit, la signature expire et l'app refuse de s'ouvrir. Il suffit
-de rebrancher l'iPhone au Mac, d'ouvrir le projet et de refaire **⌘R** : vos parties
-et statistiques sont conservées. Après le premier branchement, vous pouvez faire
-ça sans câble en cochant *Connect via network* dans **Window → Devices and
-Simulators**.
-
----
-
-## Méthode B — TestFlight (installation depuis l'iPhone, sans câble)
-
-Nécessite l'**Apple Developer Program** (99 €/an) :
-
-1. Inscription sur <https://developer.apple.com/programs/>.
-2. Dans Xcode : **Product → Destination → Any iOS Device**, puis
-   **Product → Archive**.
-3. Dans l'Organizer qui s'ouvre : **Distribute App → TestFlight & App Store**.
-4. Sur <https://appstoreconnect.apple.com>, créez la fiche de l'app, puis ajoutez-vous
-   comme testeur interne.
-5. Sur l'iPhone, installez l'app **TestFlight** depuis l'App Store : la build y
-   apparaît et s'installe d'un bouton, sans câble. Chaque build reste valable 90 jours.
-
-C'est aussi le chemin à suivre pour faire tester l'app à quelqu'un d'autre, ou pour
-la publier ensuite sur l'App Store.
-
----
+Elles s'installent toutes seules : ouvrez le jeu une fois avec du réseau, la
+nouvelle version est active au lancement suivant. Le numéro installé s'affiche
+dans **Réglages → Version** ; ce qui a changé est listé dans
+[CHANGELOG.md](CHANGELOG.md).
 
 ## Si ça coince
 
-| Symptôme | Cause et remède |
+| Symptôme | Remède |
 |---|---|
-| *Failed to register bundle identifier* | Le Bundle Identifier est déjà pris : changez-le (étape 4.3). |
-| *Unable to install… device not supported* | Xcode trop ancien pour l'iOS de l'iPhone : mettez Xcode à jour. |
-| L'iPhone n'apparaît pas dans la liste | Câble de charge seule, iPhone verrouillé, ordinateur non approuvé, ou mode développeur non activé (étape 5). |
-| *Untrusted Developer* | Étape 7. |
-| *Maximum number of apps for free development profiles* | Un compte gratuit gère 3 apps : supprimez-en une de l'iPhone. |
-| L'app se ferme aussitôt après 7 jours | Signature gratuite expirée : rebranchez et refaites ⌘R. |
+| Pas de « Sur l'écran d'accueil » dans le menu Partager | Vous n'êtes pas dans Safari, ou la page est ouverte dans un onglet privé. Rouvrez l'adresse dans un onglet Safari normal. |
+| L'icône ouvre une page blanche | Relancez avec du réseau une fois : le jeu se recopie et repart. |
+| Le jeu ne se met pas à jour | Ouvrez-le avec du réseau, puis fermez-le complètement (glissez-le hors du sélecteur d'apps) et rouvrez-le. |
+| La partie en cours a disparu | Elle est stockée par Safari sur le téléphone : vider les données de navigation ou supprimer l'icône l'efface aussi. |
 
-L'iPhone doit tourner sous **iOS 17 ou plus récent**.
+## Publier soi-même une autre copie
+
+Le dossier `docs/` est la version installable complète (page du jeu, manifeste,
+service worker, icônes). Il se régénère avec :
+
+```bash
+python3 Tools/build-pwa.py
+```
+
+Deux façons de le mettre en ligne :
+
+* **Vercel** — celle en service : le sas décrit dans
+  [Tools/vercel-shell/README.md](Tools/vercel-shell/README.md) sert le jeu depuis
+  le cache du téléphone et va chercher tout seul la dernière version publiée dans
+  `docs/`. Une poussée sur la branche suffit donc à mettre à jour l'app installée.
+* **GitHub Pages** — *Settings → Pages → Deploy from a branch → dossier `/docs`*.
+  Le workflow `.github/workflows/pages.yml` s'en charge dès que les permissions
+  d'Actions sont en écriture.

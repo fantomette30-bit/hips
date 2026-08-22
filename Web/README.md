@@ -1,13 +1,12 @@
-# Version web — jouable sans Mac
+# Le jeu — un seul fichier autonome
 
-`index.html` est le même jeu que l'app iOS, en un seul fichier autonome :
-même moteur (techniques de résolution, notation de difficulté, garanties
-d'unicité), mêmes six niveaux, mêmes réglages.
+`index.html` contient tout : la charte graphique, le moteur (techniques de
+résolution, notation de difficulté, garanties d'unicité), l'interface et les
+neuf niveaux. Aucune dépendance, aucun réglage à faire.
 
-**À quoi ça sert :** installer l'app iOS demande un Mac et Xcode. Cette page,
-elle, s'ouvre dans Safari sur l'iPhone et s'ajoute à l'écran d'accueil en deux
-gestes (Partager → « Sur l'écran d'accueil »). Elle s'affiche alors en plein
-écran, avec sa propre icône, et fonctionne sans réseau.
+**À quoi ça sert :** la page s'ouvre dans Safari sur l'iPhone et s'ajoute à
+l'écran d'accueil en deux gestes (Partager → « Sur l'écran d'accueil »). Elle
+s'affiche alors en plein écran, avec sa propre icône, et fonctionne sans réseau.
 
 **Ce qui est stocké** : la partie en cours, les statistiques et les réglages,
 dans le `localStorage` du navigateur — rien ne sort du téléphone.
@@ -19,18 +18,22 @@ système (Georgia / SF). Aucune autre ressource externe.
 ## Grilles illimitées
 
 Rien n'est stocké ni téléchargé : chaque partie fabrique une grille neuve sur
-l'appareil, autant de fois que vous le voulez, sur les six niveaux. La
+l'appareil, autant de fois que vous le voulez, sur les neuf niveaux. La
 recherche continue jusqu'à obtenir une grille du niveau demandé — elle n'est
-plus interrompue par un budget de temps. Pour que l'écran reste vivant, les
-essais sont découpés en tranches de 90 ms, le compteur d'essais s'affiche et
-un bouton *Annuler* apparaît au bout d'une seconde et demie.
+pas interrompue par un budget de temps. Pour que l'écran reste vivant, les
+essais sont découpés en tranches de 90 ms, le compteur d'essais s'affiche, un
+bouton *Annuler* apparaît au bout d'une seconde et demie, et un message
+explicite prend le relais si la recherche dépasse huit secondes.
 
-Mesures (145 grilles enchaînées, aucune répétition) : 1 essai et 1 ms par
-grille facile, 3 essais et 24 ms en difficile, 37 essais et 725 ms en extrême.
+Mesures (169 grilles enchaînées, aucune répétition) : 1 essai et 1 ms par
+grille facile, 3 essais et 24 ms en difficile, 17 essais et 256 ms en extrême,
+53 essais et 757 ms en titan. Si aucune grille notable ne sortait — cas jamais
+observé — la recherche se termine malgré tout par une grille jouable plutôt que
+de tourner sans fin.
 
 ## Score
 
-Chaque bonne case rapporte `10 × rang du niveau` (Facile 10 … Extrême 60),
+Chaque bonne case rapporte `10 × rang du niveau` (Facile 10 … Légende 90),
 multiplié par la série de bonnes réponses en cours (×1,1 par bonne case d'affilée, jusqu'à ×2). Fermer une
 ligne, une colonne ou un bloc rapporte `50 × rang` et déclenche une vague
 lumineuse sur les cases concernées. Une erreur coûte `20 × rang`, un indice
@@ -50,15 +53,17 @@ papier** : 1 en haut à gauche, 2 en haut au milieu … 9 en bas à droite. Une
 note absente laisse sa place vide, et l'ordre de saisie ne change rien à
 l'affichage.
 
-Le numéro de version affiché dans **Réglages → Version** vient de la constante
-`APP_VERSION` (en tête du script applicatif) : l'incrémenter à chaque mise à
-jour publiée, et consigner le changement dans [CHANGELOG.md](../CHANGELOG.md).
-
 Un chiffre faux reste en rouge, mais il est aussi signalé **par la forme et le
 mouvement** : la case est secouée au moment de la saisie et le chiffre est
 entouré d'un cercle — comme une correction au stylo — tant qu'il n'est pas
 corrigé. Repérable même avec des lunettes filtrant la lumière bleue ou une
 perception altérée des couleurs.
+
+## Numéro de version
+
+Le numéro de version affiché dans **Réglages → Version** vient de la constante
+`APP_VERSION` (en tête du script applicatif) : l'incrémenter à chaque mise à
+jour publiée, et consigner le changement dans [CHANGELOG.md](../CHANGELOG.md).
 
 ## Version hors ligne garantie (`docs/`)
 
@@ -94,28 +99,28 @@ python3 Tools/build-pwa.py
 ## Tests
 
 ```bash
-node Tools/EngineCheck/webengine.test.js    # moteur : six niveaux, unicité, indices
-node Tools/EngineCheck/webui.test.js        # interface réelle (Chromium, iPhone 13)
-node Tools/EngineCheck/webunlimited.test.js # 145 grilles enchaînées, aucune répétition
-node Tools/EngineCheck/webrobustness.test.js # cas limites : sauvegarde corrompue, annulation…
-node Tools/EngineCheck/webscore.test.js     # score : gains, malus, bonus, report
-node Tools/EngineCheck/webnotes.test.js     # notes triées, secousse et soulignement d'erreur
-node Tools/EngineCheck/webmigration.test.js # reprise d'anciennes sauvegardes, transitions de rendu
-node Tools/EngineCheck/webregress.test.js   # non-régression de la revue adversariale
-node Tools/EngineCheck/webtheme.test.js     # mode Auto : suit le téléphone, en direct
-node Tools/EngineCheck/weboffline.test.js   # PWA : serveur arrêté, réseau coupé
+npm i playwright        # une fois
+node Tools/EngineCheck/<suite>.test.js
 ```
 
-Les tests navigateur nécessitent `npm i playwright`. Le test d'interface pilote
-une vraie partie : sélection, saisie, erreur signalée, annulation, notes, pause,
-indices jusqu'à la victoire, statistiques, reprise après rechargement, thème
-sombre, génération d'une grille extrême. Le test hors ligne va plus loin : il
-sert `docs/`, laisse le service worker s'installer, **tue le serveur**, coupe le
-réseau, puis rouvre le jeu et termine une partie de niveau Master.
+Treize suites, chacune autonome et silencieuse quand tout va bien. La liste
+complète et ce que couvre chaque suite : [Tools/EngineCheck/README.md](../Tools/EngineCheck/README.md).
 
-Le test de robustesse couvre les cas tordus : sauvegarde ou statistiques
-corrompues, annulation d'une génération, double appui sur deux niveaux,
-40 saisies puis annulation complète, cases fixes, notes sur case remplie,
-pause, victoire rejouée, reprise après rechargement, recommencer, tous les
-réglages désactivés, stockage indisponible, historique saturé au-delà de
-400 coups, clavier, changement de thème en pleine partie.
+Les plus parlantes :
+
+* `webengine` — génère les neuf niveaux et vérifie fourchette de score, solution
+  unique, résolution sans deviner, médianes strictement croissantes.
+* `webui` — pilote une vraie partie sur iPhone 13 : sélection, saisie, erreur
+  signalée, annulation, notes, pause, indices jusqu'à la victoire, statistiques,
+  reprise après rechargement, thème sombre.
+* `weboffline` — sert `docs/`, laisse le service worker s'installer, **tue le
+  serveur**, coupe le réseau, puis rouvre le jeu et termine une partie.
+* `webshell` — monte le sas Vercel à neuf et vérifie la mise à jour automatique.
+* `webrobustness` — les cas tordus : sauvegarde ou statistiques corrompues,
+  annulation d'une génération, double appui sur deux niveaux, 40 saisies puis
+  annulation complète, cases fixes, notes sur case remplie, pause, victoire
+  rejouée, reprise, recommencer, réglages désactivés, stockage indisponible,
+  historique saturé au-delà de 400 coups, clavier, changement de thème en
+  pleine partie.
+* `webultimate` — Démoniaque, Titan et Légende : recherche annulable, fourchette,
+  partie entière, statistiques, version affichée.

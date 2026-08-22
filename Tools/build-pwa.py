@@ -146,8 +146,7 @@ def build(version=None):
     if not icon:
         sys.exit("build-pwa : icône introuvable dans Web/index.html")
     open(os.path.join(OUT, 'icon-180.png'), 'wb').write(base64.b64decode(icon.group(1)))
-    shutil.copy(os.path.join(ROOT, 'ZenSudoku/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png'),
-                os.path.join(OUT, 'icon-1024.png'))
+    shutil.copy(os.path.join(ROOT, 'Tools/icon-1024.png'), os.path.join(OUT, 'icon-1024.png'))
     print('docs/ reconstruit depuis Web/index.html (cache %s)' % stamp)
 
 
