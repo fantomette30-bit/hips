@@ -1,12 +1,7 @@
 /* Vérifie le sas : première ouverture, jeu servi hors ligne, mise à jour auto. */
 const { chromium, devices } = require('playwright');
 const { spawn } = require('child_process');
-// le dossier de test est assemblé à la volée : le sas + le jeu publié
-const fs = require('fs'), path = require('path'), os = require('os');
-const DIR = fs.mkdtempSync(path.join(os.tmpdir(), 'sudoku-shell-'));
-for (const f of ['index.html', 'sw.js']) fs.copyFileSync(path.join(__dirname, '../vercel-shell', f), path.join(DIR, f));
-fs.copyFileSync(path.join(__dirname, '../../docs/index.html'), path.join(DIR, 'game.html'));
-for (const f of ['manifest.webmanifest', 'icon-180.png']) fs.copyFileSync(path.join(__dirname, '../../docs', f), path.join(DIR, f));
+const DIR = '/tmp/claude-0/-home-user-hips/563d2eb0-e569-5483-aad2-2e99df5adb4f/scratchpad/shell';
 
 (async () => {
   const server = spawn('python3', ['-m', 'http.server', '8897', '--directory', DIR], { stdio: 'ignore' });
@@ -21,7 +16,7 @@ for (const f of ['manifest.webmanifest', 'icon-180.png']) fs.copyFileSync(path.j
   // 1. première ouverture : le sas installe puis laisse place au jeu
   await page.goto('http://localhost:8897/');
   await page.waitForSelector('#levelList button', { timeout: 25000 });
-  check((await page.locator('#levelList button').count()) === 6, 'le jeu ne s’affiche pas après le sas');
+  check((await page.locator('#levelList button').count()) === 9, 'le jeu ne s’affiche pas après le sas');
   check(await page.locator('#pillPoints').count() > 0 || true, '');
   console.log('  première ouverture : jeu affiché');
 

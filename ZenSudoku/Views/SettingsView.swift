@@ -35,7 +35,7 @@ struct SettingsView: View {
                 }
 
                 Section("À propos") {
-                    LabeledContent("Version", value: "1.1")
+                    LabeledContent("Version", value: "1.2")
                     LabeledContent("Connexion requise", value: "Aucune")
                     Text("Les grilles sont créées directement sur votre iPhone. L'application fonctionne intégralement en mode avion : aucune donnée n'est envoyée, aucun compte n'est nécessaire.")
                         .font(.footnote)

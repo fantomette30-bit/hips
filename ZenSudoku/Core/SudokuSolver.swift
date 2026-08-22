@@ -14,6 +14,9 @@ struct SolveStep: Equatable {
         case hiddenTriple
         case xyWing
         case swordfish
+        case xyzWing
+        case wWing
+        case skyscraper
     }
 
     var kind: Kind
@@ -72,6 +75,10 @@ enum SudokuSolver {
         guard maximumTier >= 5 else { return nil }
         if let step = xyWing(board: board, cands: cands) { return step }
         if let step = swordfish(board: board, cands: cands) { return step }
+        guard maximumTier >= 6 else { return nil }
+        if let step = xyzWing(board: board, cands: cands) { return step }
+        if let step = wWing(board: board, cands: cands) { return step }
+        if let step = skyscraper(board: board, cands: cands) { return step }
         return nil
     }
 
@@ -548,6 +555,143 @@ enum SudokuSolver {
                                                  restrictsToDigits: false,
                                                  title: "Swordfish",
                                                  detail: "Le \(digit) est confiné à trois \(orientation == 0 ? "lignes" : "colonnes") croisant trois \(orientation == 0 ? "colonnes" : "lignes") : il disparaît du reste de celles-ci.")
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        return nil
+    }
+
+    /// XYZ-Wing : un pivot à trois candidats et deux ailes qui éliminent
+    /// leur chiffre commun des cases vues par les trois.
+    private static func xyzWing(board: [Int], cands: [UInt16]) -> SolveStep? {
+        for pivot in 0..<Sudoku.cellCount {
+            guard board[pivot] == 0, DigitMask.count(cands[pivot]) == 3 else { continue }
+            let wings = Sudoku.peers[pivot].filter {
+                board[$0] == 0 && DigitMask.count(cands[$0]) == 2 && (cands[$0] & ~cands[pivot]) == 0
+            }
+            guard wings.count >= 2 else { continue }
+            for a in 0..<(wings.count - 1) {
+                for b in (a + 1)..<wings.count {
+                    let w1 = wings[a], w2 = wings[b]
+                    guard cands[w1] != cands[w2] else { continue }
+                    let common = cands[w1] & cands[w2]
+                    guard DigitMask.count(common) == 1 else { continue }
+                    let digit = DigitMask.firstDigit(common)
+                    var elim: [Int] = []
+                    for index in Sudoku.peers[pivot] {
+                        guard board[index] == 0, index != w1, index != w2 else { continue }
+                        guard DigitMask.contains(cands[index], digit) else { continue }
+                        if Sudoku.peers[w1].contains(index) && Sudoku.peers[w2].contains(index) {
+                            elim.append(index)
+                        }
+                    }
+                    if !elim.isEmpty {
+                        return SolveStep(kind: .xyzWing,
+                                         tier: 6,
+                                         placementIndex: nil,
+                                         placementValue: nil,
+                                         targets: elim,
+                                         digits: [digit],
+                                         restrictsToDigits: false,
+                                         title: "XYZ-Wing",
+                                         detail: "Un pivot à trois candidats et ses deux ailes forment une fourche : le \(digit) disparaît des cases qu'ils voient tous les trois.")
+                    }
+                }
+            }
+        }
+        return nil
+    }
+
+    /// W-Wing : deux cases jumelles reliées par un lien fort sur l'un de
+    /// leurs deux chiffres ; l'autre chiffre disparaît de leurs cases communes.
+    private static func wWing(board: [Int], cands: [UInt16]) -> SolveStep? {
+        let pairCells = (0..<Sudoku.cellCount).filter { board[$0] == 0 && DigitMask.count(cands[$0]) == 2 }
+        guard pairCells.count >= 2 else { return nil }
+        for a in 0..<(pairCells.count - 1) {
+            for b in (a + 1)..<pairCells.count {
+                let first = pairCells[a], second = pairCells[b]
+                guard cands[first] == cands[second], !Sudoku.peers[first].contains(second) else { continue }
+                let digits = DigitMask.digits(cands[first])
+                for (strong, other) in [(digits[0], digits[1]), (digits[1], digits[0])] {
+                    for unit in Sudoku.units {
+                        let spots = unit.filter { board[$0] == 0 && DigitMask.contains(cands[$0], strong) }
+                        guard spots.count == 2 else { continue }
+                        let s1 = spots[0], s2 = spots[1]
+                        guard s1 != first, s1 != second, s2 != first, s2 != second else { continue }
+                        let linked = (Sudoku.peers[first].contains(s1) && Sudoku.peers[second].contains(s2))
+                            || (Sudoku.peers[first].contains(s2) && Sudoku.peers[second].contains(s1))
+                        guard linked else { continue }
+                        var elim: [Int] = []
+                        for index in 0..<Sudoku.cellCount {
+                            guard board[index] == 0, index != first, index != second else { continue }
+                            guard DigitMask.contains(cands[index], other) else { continue }
+                            if Sudoku.peers[first].contains(index) && Sudoku.peers[second].contains(index) {
+                                elim.append(index)
+                            }
+                        }
+                        if !elim.isEmpty {
+                            return SolveStep(kind: .wWing,
+                                             tier: 6,
+                                             placementIndex: nil,
+                                             placementValue: nil,
+                                             targets: elim,
+                                             digits: [other],
+                                             restrictsToDigits: false,
+                                             title: "W-Wing",
+                                             detail: "Deux cases jumelles \(digits[0])-\(digits[1]) reliées par un lien fort sur le \(strong) : le \(other) disparaît des cases qu'elles voient toutes les deux.")
+                        }
+                    }
+                }
+            }
+        }
+        return nil
+    }
+
+    /// Gratte-ciel : deux lignes n'offrent que deux places à un chiffre,
+    /// appuyées sur la même base ; les deux « toits » l'éliminent de leurs
+    /// cases communes.
+    private static func skyscraper(board: [Int], cands: [UInt16]) -> SolveStep? {
+        for digit in 1...9 {
+            for orientation in 0..<2 {
+                let lines = orientation == 0 ? Sudoku.rows : Sudoku.columns
+                var pairs: [[Int]] = []
+                for line in lines {
+                    let spots = line.filter { board[$0] == 0 && DigitMask.contains(cands[$0], digit) }
+                    if spots.count == 2 { pairs.append(spots) }
+                }
+                guard pairs.count >= 2 else { continue }
+                func cross(_ index: Int) -> Int {
+                    orientation == 0 ? Sudoku.column(of: index) : Sudoku.row(of: index)
+                }
+                for a in 0..<(pairs.count - 1) {
+                    for b in (a + 1)..<pairs.count {
+                        for firstOrder in [(pairs[a][0], pairs[a][1]), (pairs[a][1], pairs[a][0])] {
+                            for secondOrder in [(pairs[b][0], pairs[b][1]), (pairs[b][1], pairs[b][0])] {
+                                let (base1, roof1) = firstOrder
+                                let (base2, roof2) = secondOrder
+                                guard cross(base1) == cross(base2), cross(roof1) != cross(roof2) else { continue }
+                                var elim: [Int] = []
+                                for index in 0..<Sudoku.cellCount {
+                                    guard board[index] == 0, DigitMask.contains(cands[index], digit) else { continue }
+                                    guard index != base1, index != base2, index != roof1, index != roof2 else { continue }
+                                    if Sudoku.peers[roof1].contains(index) && Sudoku.peers[roof2].contains(index) {
+                                        elim.append(index)
+                                    }
+                                }
+                                if !elim.isEmpty {
+                                    return SolveStep(kind: .skyscraper,
+                                                     tier: 6,
+                                                     placementIndex: nil,
+                                                     placementValue: nil,
+                                                     targets: elim,
+                                                     digits: [digit],
+                                                     restrictsToDigits: false,
+                                                     title: "Gratte-ciel",
+                                                     detail: "Deux \(orientation == 0 ? "lignes" : "colonnes") n'offrent que deux places au \(digit), appuyées sur la même base : ses deux « toits » l'éliminent de leurs cases communes.")
+                                }
                             }
                         }
                     }

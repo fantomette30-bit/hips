@@ -14,10 +14,10 @@ def solved_board_valid(b):
     return True
 
 print("== 1. Génération (six niveaux) ==")
-COUNTS = {"easy": 8, "medium": 8, "hard": 6, "expert": 4, "master": 3, "extreme": 2}
+COUNTS = {"easy": 8, "medium": 8, "hard": 6, "expert": 4, "master": 3, "extreme": 2, "demonic": 2, "titan": 1, "legend": 1}
 # Python tourne environ 50 fois moins vite que le moteur embarqué : on lui laisse
 # un budget généreux pour qu'il fasse autant d'essais que l'app sur l'appareil.
-BUDGETS = {"easy": 5, "medium": 5, "hard": 15, "expert": 45, "master": 90, "extreme": 120}
+BUDGETS = {"easy": 5, "medium": 5, "hard": 15, "expert": 45, "master": 90, "extreme": 120, "demonic": 120, "titan": 240, "legend": 300}
 puzzles = {}
 for d in LEVEL_ORDER:
     rng = random.Random(2024)

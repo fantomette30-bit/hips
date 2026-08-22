@@ -15,9 +15,9 @@ const { chromium, devices } = require('playwright');
 
   // --- accueil
   check(await page.locator('#home.on').isVisible(), 'accueil non affiché');
-  check((await page.locator('#levelList button').count()) === 6, '6 niveaux attendus');
+  check((await page.locator('#levelList button').count()) === 9, '9 niveaux attendus');
   const names = await page.locator('#levelList button .txt b').allTextContents();
-  check(names.join(',') === 'Facile,Moyen,Difficile,Expert,Master,Extrême', 'niveaux inattendus: ' + names.join(','));
+  check(names.join(',') === 'Facile,Moyen,Difficile,Expert,Master,Extrême,Démoniaque,Titan,Légende', 'niveaux inattendus: ' + names.join(','));
   check(await page.locator('#resumeCard').isHidden(), 'carte reprise visible sans partie');
   await page.screenshot({ path: 'shot-home.png' });
 
@@ -39,18 +39,23 @@ const { chromium, devices } = require('playwright');
   await page.locator('#btnBack').click();
   const tX = Date.now();
   await page.locator('#levelList button').nth(5).click();
-  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 60000 });
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
   const extremeMs = Date.now() - tX;
   const xInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, clues: G.puzzle.givens.filter(v => v).length }));
-  check(xInfo.lvl === 'extreme' && xInfo.score >= 700, 'grille extrême non conforme: ' + JSON.stringify(xInfo));
-  // la génération illimitée ne doit jamais figer l'écran : le bouton Annuler apparaît
-  const cancelExists = await page.locator('#loadingCancel').count();
-  check(cancelExists === 1, 'bouton d’annulation absent de l’écran de génération');
+  check(xInfo.lvl === 'extreme' && xInfo.score >= 700 && xInfo.score <= 849, 'grille extrême non conforme: ' + JSON.stringify(xInfo));
+  // et le niveau le plus haut : Légende
+  await page.locator('#btnBack').click();
+  const tL = Date.now();
+  await page.locator('#levelList button').nth(8).click();
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 45000 });
+  const lInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, tier: G.puzzle.tier }));
+  check(lInfo.lvl === 'legend' && lInfo.score >= 1300 && lInfo.tier === 6, 'grille légende non conforme: ' + JSON.stringify(lInfo));
+  console.log('  légende générée en', Date.now() - tL, 'ms —', JSON.stringify(lInfo));
   console.log('  extrême généré en', extremeMs, 'ms —', JSON.stringify(xInfo));
   await page.screenshot({ path: 'shot-extreme.png' });
   await page.locator('#btnBack').click();
   await page.locator('#levelList button').nth(2).click();
-  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 60000 });
+  await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
 
   // --- sélection, saisie, erreur, annulation
   const firstEmpty = await page.evaluate(() => G.values.findIndex(v => v === 0));

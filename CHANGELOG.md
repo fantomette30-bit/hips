@@ -4,6 +4,17 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.7.0 — 21 août 2026
+- Trois paliers au-dessus d'Extrême : **Démoniaque**, **Titan** et **Légende**,
+  regroupés dans une section « Défis ultimes ». Pour les rendre possibles sans
+  jamais devoir deviner, le solveur apprend trois techniques de plus :
+  XYZ-Wing, W-Wing et Gratte-ciel — les indices savent donc les expliquer.
+- Extrême est recentré (700–849) pour laisser la place aux nouveaux paliers ;
+  la jauge de difficulté passe à neuf barres.
+- Calibration mesurée : les scores médians des neuf niveaux s'étagent de 48 à
+  plus de 1 600, sans recouvrement. Solution unique et résolution sans deviner
+  garanties à tous les niveaux.
+
 ## 1.6.0 — 21 août 2026
 - Les notes retrouvent leur position fixe, comme sur une grille papier :
   1 en haut à gauche, 2 en haut au milieu … 9 en bas à droite. Une note

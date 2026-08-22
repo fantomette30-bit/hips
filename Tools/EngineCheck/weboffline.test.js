@@ -47,7 +47,7 @@ const { spawn } = require('child_process');
   await page.goto('http://localhost:8899/index.html');
   await page.waitForTimeout(700);
   check(await page.locator('#home.on').isVisible(), 'accueil non affiché hors ligne');
-  check((await page.locator('#levelList button').count()) === 6, 'niveaux absents hors ligne');
+  check((await page.locator('#levelList button').count()) === 9, 'niveaux absents hors ligne');
 
   // 4. on joue vraiment, hors ligne
   await page.locator('#levelList button').nth(4).click();   // Master, hors ligne

@@ -4,7 +4,7 @@ import Foundation
 struct Rating: Equatable {
     /// Plus le score est élevé, plus les coups évidents sont rares.
     var score: Double
-    /// Technique la plus avancée nécessaire (1 candidat unique … 5 XY-Wing).
+    /// Technique la plus avancée nécessaire (1 candidat unique … 6 XYZ-Wing).
     var hardestTier: Int
 }
 
@@ -12,7 +12,7 @@ struct Rating: Equatable {
 /// le ferait un joueur : plus les coups évidents sont rares, plus le score monte.
 enum DifficultyRater {
 
-    static let maximumTier = 5
+    static let maximumTier = 6
 
     /// Note la grille, ou `nil` si elle n'est pas résoluble logiquement
     /// (elle exigerait des essais / erreurs).
@@ -44,7 +44,8 @@ enum DifficultyRater {
             default:
                 if step.tier == 3 { total += 45 }
                 else if step.tier == 4 { total += 80 }
-                else { total += 140 }
+                else if step.tier == 5 { total += 140 }
+                else { total += 220 }
             }
             SudokuSolver.apply(step, board: &work, cands: &cands)
             if step.isPlacement { remaining -= 1 }

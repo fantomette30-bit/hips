@@ -51,6 +51,7 @@ struct HomeView: View {
         VStack(spacing: 20) {
             levelGroup(.calm)
             levelGroup(.tough)
+            levelGroup(.ultimate)
         }
     }
 

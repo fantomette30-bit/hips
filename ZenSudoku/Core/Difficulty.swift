@@ -14,11 +14,13 @@ enum DigStrategy {
 enum DifficultyGroup {
     case calm
     case tough
+    case ultimate
 
     var title: String {
         switch self {
         case .calm: return "Nouvelle partie"
         case .tough: return "Niveaux corsés"
+        case .ultimate: return "Défis ultimes"
         }
     }
 }
@@ -31,6 +33,9 @@ enum Difficulty: String, Codable, CaseIterable, Identifiable, Sendable {
     case expert
     case master
     case extreme
+    case demonic
+    case titan
+    case legend
 
     var id: String { rawValue }
 
@@ -42,6 +47,9 @@ enum Difficulty: String, Codable, CaseIterable, Identifiable, Sendable {
         case .expert: return "Expert"
         case .master: return "Master"
         case .extreme: return "Extrême"
+        case .demonic: return "Démoniaque"
+        case .titan: return "Titan"
+        case .legend: return "Légende"
         }
     }
 
@@ -53,6 +61,9 @@ enum Difficulty: String, Codable, CaseIterable, Identifiable, Sendable {
         case .expert: return "Groupes verrouillés et paires nues"
         case .master: return "Triplets, paires cachées, X-Wing"
         case .extreme: return "XY-Wing, Swordfish : rien n'est offert"
+        case .demonic: return "XYZ-Wing et W-Wing au menu"
+        case .titan: return "Chaque case se mérite"
+        case .legend: return "Le sommet — rare et impitoyable"
         }
     }
 
@@ -65,11 +76,14 @@ enum Difficulty: String, Codable, CaseIterable, Identifiable, Sendable {
         case .expert: return 4
         case .master: return 5
         case .extreme: return 6
+        case .demonic: return 7
+        case .titan: return 8
+        case .legend: return 9
         }
     }
 
     var group: DifficultyGroup {
-        rank <= 3 ? .calm : .tough
+        rank <= 3 ? .calm : (rank <= 6 ? .tough : .ultimate)
     }
 
     /// Nombre d'indices conservés au minimum dans la grille finale.
@@ -79,7 +93,7 @@ enum Difficulty: String, Codable, CaseIterable, Identifiable, Sendable {
         case .medium: return 30
         case .hard: return 26
         case .expert: return 24
-        case .master, .extreme: return 22
+        case .master, .extreme, .demonic, .titan, .legend: return 22
         }
     }
 
@@ -105,7 +119,10 @@ enum Difficulty: String, Codable, CaseIterable, Identifiable, Sendable {
         case .hard: return 210...330
         case .expert: return 345...480
         case .master: return 495...680
-        case .extreme: return 700...100_000
+        case .extreme: return 700...849
+        case .demonic: return 850...1_049
+        case .titan: return 1_050...1_299
+        case .legend: return 1_300...100_000
         }
     }
 
@@ -113,6 +130,8 @@ enum Difficulty: String, Codable, CaseIterable, Identifiable, Sendable {
     var minimumTier: Int {
         switch self {
         case .master, .extreme: return 3
+        case .demonic: return 5
+        case .titan, .legend: return 6
         default: return 0
         }
     }
@@ -125,12 +144,15 @@ enum Difficulty: String, Codable, CaseIterable, Identifiable, Sendable {
         case .hard: return 270
         case .expert: return 410
         case .master: return 580
-        case .extreme: return 900
+        case .extreme: return 770
+        case .demonic: return 940
+        case .titan: return 1_160
+        case .legend: return 1_500
         }
     }
 
     /// Temps maximal accordé à la génération avant de garder la meilleure grille.
     var generationBudget: TimeInterval {
-        rank >= 5 ? 4 : 2.5
+        rank >= 8 ? 9 : (rank == 7 ? 6 : (rank >= 5 ? 4 : 2.5))
     }
 }

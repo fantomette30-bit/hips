@@ -4,8 +4,8 @@ Application iOS native (SwiftUI) pour jouer au Sudoku n'importe où, y compris e
 mode avion : les grilles sont **créées sur l'iPhone**, il n'y a ni réseau, ni
 compte, ni publicité, ni suivi.
 
-Six niveaux, comme les grands sites de sudoku : **Facile**, **Moyen**,
-**Difficile**, **Expert**, **Master**, **Extrême**.
+Neuf niveaux : **Facile**, **Moyen**, **Difficile**, **Expert**, **Master**,
+**Extrême**, **Démoniaque**, **Titan**, **Légende**.
 
 ## Ouvrir et lancer (sur Mac)
 
@@ -68,11 +68,14 @@ La difficulté n'est pas déduite du seul nombre de cases vides : elle est **mes
 | Difficile | 210–330 | 26–29 | les coups évidents se raréfient |
 | Expert | 345–480 | 24–30 | groupes verrouillés, paires nues |
 | Master | 495–680 | 22–28 | triplets, paires cachées, X-Wing |
-| Extrême | ≥ 700 | 22–27 | XY-Wing, Swordfish |
+| Extrême | 700–849 | 22–27 | XY-Wing, Swordfish |
+| Démoniaque | 850–1049 | 22–26 | XYZ-Wing, W-Wing |
+| Titan | 1050–1299 | 22–26 | palier 6 exigé |
+| Légende | ≥ 1300 | 22–27 | le sommet, palier 6 exigé |
 
 Techniques implémentées : candidat unique, candidat caché, paire pointante,
 chiffre revendiqué, paire nue, paire cachée, triplet nu, triplet caché, X-Wing,
-XY-Wing, Swordfish.
+XY-Wing, Swordfish, XYZ-Wing, W-Wing, Gratte-ciel.
 
 Deux garanties pour toutes les grilles produites : **solution unique** et
 **résolution possible sans deviner** — le système d'indices peut donc toujours

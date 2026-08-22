@@ -249,6 +249,71 @@ def swordfish(b, cs):
                             return Step("swordfish", 5, None, None, elim, [d], False, "Swordfish", "")
     return None
 
+
+def xyz_wing(b, cs):
+    for pivot in range(CELL_COUNT):
+        if b[pivot] != 0 or mcount(cs[pivot]) != 3: continue
+        wings = [i for i in PEERS[pivot]
+                 if b[i] == 0 and mcount(cs[i]) == 2 and (cs[i] & ~cs[pivot]) == 0]
+        for a in range(len(wings)):
+            for z in range(a + 1, len(wings)):
+                w1, w2 = wings[a], wings[z]
+                if cs[w1] == cs[w2]: continue
+                common = cs[w1] & cs[w2]
+                if mcount(common) != 1: continue
+                zd = first_digit(common)
+                elim = [i for i in PEERS[pivot]
+                        if b[i] == 0 and i not in (w1, w2) and has(cs[i], zd)
+                        and i in PEERS[w1] and i in PEERS[w2]]
+                if elim:
+                    return Step("xyzWing", 6, None, None, elim, [zd], False, "XYZ-Wing", "")
+    return None
+
+def w_wing(b, cs):
+    pair_cells = [i for i in range(CELL_COUNT) if b[i] == 0 and mcount(cs[i]) == 2]
+    for a in range(len(pair_cells)):
+        for z in range(a + 1, len(pair_cells)):
+            A, B = pair_cells[a], pair_cells[z]
+            if cs[A] != cs[B] or B in PEERS[A]: continue
+            ds = digits_of(cs[A])
+            for w, other in ((ds[0], ds[1]), (ds[1], ds[0])):
+                for unit in UNITS:
+                    spots = [i for i in unit if b[i] == 0 and has(cs[i], w)]
+                    if len(spots) != 2: continue
+                    s1, s2 = spots
+                    if s1 in (A, B) or s2 in (A, B): continue
+                    link = (s1 in PEERS[A] and s2 in PEERS[B]) or (s2 in PEERS[A] and s1 in PEERS[B])
+                    if not link: continue
+                    elim = [i for i in range(CELL_COUNT)
+                            if b[i] == 0 and i not in (A, B) and has(cs[i], other)
+                            and i in PEERS[A] and i in PEERS[B]]
+                    if elim:
+                        return Step("wWing", 6, None, None, elim, [other], False, "W-Wing", "")
+    return None
+
+def skyscraper(b, cs):
+    for d in range(1, 10):
+        for orientation in range(2):
+            lines = ROWS if orientation == 0 else COLUMNS
+            cross_of = (lambda i: col_of(i)) if orientation == 0 else (lambda i: row_of(i))
+            pairs = []
+            for line in lines:
+                spots = [i for i in line if b[i] == 0 and has(cs[i], d)]
+                if len(spots) == 2: pairs.append(spots)
+            for a in range(len(pairs)):
+                for z in range(a + 1, len(pairs)):
+                    for base1, roof1 in ((pairs[a][0], pairs[a][1]), (pairs[a][1], pairs[a][0])):
+                        for base2, roof2 in ((pairs[z][0], pairs[z][1]), (pairs[z][1], pairs[z][0])):
+                            if cross_of(base1) != cross_of(base2): continue
+                            if cross_of(roof1) == cross_of(roof2): continue
+                            elim = [i for i in range(CELL_COUNT)
+                                    if b[i] == 0 and has(cs[i], d)
+                                    and i not in (base1, base2, roof1, roof2)
+                                    and i in PEERS[roof1] and i in PEERS[roof2]]
+                            if elim:
+                                return Step("skyscraper", 6, None, None, elim, [d], False, "Gratte-ciel", "")
+    return None
+
 def next_step(b, cs, maximum_tier):
     s = naked_single(b, cs)
     if s: return s
@@ -271,7 +336,14 @@ def next_step(b, cs, maximum_tier):
     if maximum_tier < 5: return None
     s = xy_wing(b, cs)
     if s: return s
-    return swordfish(b, cs)
+    s = swordfish(b, cs)
+    if s: return s
+    if maximum_tier < 6: return None
+    s = xyz_wing(b, cs)
+    if s: return s
+    s = w_wing(b, cs)
+    if s: return s
+    return skyscraper(b, cs)
 
 def apply_step(step, b, cs):
     if step.is_placement:
@@ -352,7 +424,7 @@ def rate(board):
     hardest = 0
     remaining = work.count(0)
     while remaining > 0:
-        s = next_step(work, cs, 5)
+        s = next_step(work, cs, 6)
         if s is None: return None
         hardest = max(hardest, s.tier)
         if s.kind == "nakedSingle":
@@ -362,7 +434,7 @@ def rate(board):
             n = hidden_single_count(work, cs)
             total += 9 if n >= 4 else (12 if n == 3 else (16 if n == 2 else 22))
         else:
-            total += 45 if s.tier == 3 else (80 if s.tier == 4 else 140)
+            total += 45 if s.tier == 3 else (80 if s.tier == 4 else (140 if s.tier == 5 else 220))
         apply_step(s, work, cs)
         if s.is_placement: remaining -= 1
     return (total, hardest)
@@ -376,9 +448,12 @@ DIFFICULTIES = {
     "hard":    dict(rank=3, clue_floor=26, strategy=("unique", 0), sym=True, accepted=(210, 330),   tier=0, target=270, budget=2.5),
     "expert":  dict(rank=4, clue_floor=24, strategy=("unique", 0), sym=True, accepted=(345, 480),   tier=0, target=410, budget=2.5),
     "master":  dict(rank=5, clue_floor=22, strategy=("unique", 0), sym=False, accepted=(495, 680),  tier=3, target=580, budget=4.0),
-    "extreme": dict(rank=6, clue_floor=22, strategy=("unique", 0), sym=False, accepted=(700, 100000), tier=3, target=900, budget=4.0),
+    "extreme": dict(rank=6, clue_floor=22, strategy=("unique", 0), sym=False, accepted=(700, 849), tier=3, target=770, budget=8.0),
+    "demonic": dict(rank=7, clue_floor=22, strategy=("unique", 0), sym=False, accepted=(850, 1049), tier=5, target=940, budget=60.0),
+    "titan":   dict(rank=8, clue_floor=22, strategy=("unique", 0), sym=False, accepted=(1050, 1299), tier=6, target=1160, budget=120.0),
+    "legend":  dict(rank=9, clue_floor=22, strategy=("unique", 0), sym=False, accepted=(1300, 100000), tier=6, target=1500, budget=180.0),
 }
-LEVEL_ORDER = ["easy", "medium", "hard", "expert", "master", "extreme"]
+LEVEL_ORDER = ["easy", "medium", "hard", "expert", "master", "extreme", "demonic", "titan", "legend"]
 
 # --- SudokuGenerator -------------------------------------------------------
 MAX_ATTEMPTS = 200
@@ -443,7 +518,7 @@ def generate(difficulty, rng, budget=None):
                       score=score, tier=tier, attempts=attempts)
         if conf["accepted"][0] <= score <= conf["accepted"][1] and tier >= conf["tier"]:
             return puzzle
-        gap = abs(score - conf["target"]) + (250 if tier < conf["tier"] else 0)
+        gap = abs(score - conf["target"]) + (400 if tier < conf["tier"] else 0)
         if gap < best_gap:
             best_gap, best = gap, puzzle
     if best: return best
@@ -596,7 +671,7 @@ class GameState:
         cs = candidates(work)
         pending, unlocked_by = [], None
         for _ in range(80):
-            s = next_step(work, cs, 5)
+            s = next_step(work, cs, 6)
             if s is None: break
             if s.is_placement:
                 self.hints_used += 1
