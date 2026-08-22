@@ -17,3 +17,7 @@ xcuserdata/
 
 # macOS
 .DS_Store
+
+# artefacts Python des outils de test
+__pycache__/
+*.pyc

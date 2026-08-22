@@ -80,7 +80,7 @@ struct StatsCard: View {
                     .monospacedDigit()
             }
             VStack(spacing: 8) {
-                StatLine(label: "Meilleur temps",
+                StatLine(label: "Meilleur temps (sans indice)",
                          value: entry.bestTime.map { TimeFormat.string(from: $0) } ?? "—",
                          highlight: true)
                 StatLine(label: "Temps moyen",

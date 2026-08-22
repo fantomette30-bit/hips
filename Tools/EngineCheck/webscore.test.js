@@ -20,24 +20,34 @@ const URL = 'file://' + path.join(__dirname, '../../Web/index.html');
 
   const r = await page.evaluate(() => {
     const out = {};
+    /* On ne remplit que des cases qui ne referment aucune ligne, colonne ni
+       bloc : sinon le bonus de ligne (bien réel) s'ajouterait aux gains
+       attendus et le test dépendrait du tirage de la grille. */
+    const safeCell = () => G.values.reduce((found, v, i) => {
+      if (found !== null || v !== 0) return found;
+      const closes = unitsOf(i).some(u => unitCells(u).filter(c => G.values[c] === 0).length < 2);
+      return closes ? found : i;
+    }, null);
     const empties = G.values.map((v, i) => v === 0 ? i : -1).filter(i => i >= 0);
     out.start = G.points;
     // une bonne case : 10 x rang 1 x combo 1
-    G.sel = empties[0]; inputDigit(G.puzzle.solution[empties[0]]);
+    const first = safeCell();
+    G.sel = first; inputDigit(G.puzzle.solution[first]);
     out.afterOne = G.points;
     // deuxième bonne case : combo x1.1
-    G.sel = empties[1]; inputDigit(G.puzzle.solution[empties[1]]);
+    const second = safeCell();
+    G.sel = second; inputDigit(G.puzzle.solution[second]);
     out.afterTwo = G.points;
     out.combo = G.combo;
     // une erreur : malus et combo remis à zéro
-    const wrong = empties[2];
+    const wrong = empties.find(i => i !== first && i !== second);
     G.sel = wrong; inputDigit(G.puzzle.solution[wrong] === 9 ? 1 : 9);
     out.afterMistake = G.points;
     out.comboAfterMistake = G.combo;
     // effacer puis reposer la même bonne case ne doit pas rapporter deux fois
-    G.sel = empties[0]; erase();
+    G.sel = first; erase();
     const before = G.points;
-    G.sel = empties[0]; inputDigit(G.puzzle.solution[empties[0]]);
+    G.sel = first; inputDigit(G.puzzle.solution[first]);
     out.replayGain = G.points - before;
     // on efface l'erreur avant la suite (sinon la grille ne peut pas se terminer)
     G.sel = wrong; erase();

@@ -412,6 +412,7 @@ font-variant-numeric:tabular-nums; letter-spacing:-.02em;
 @keyframes spin{to{transform:rotate(360deg)}}
 .loading b{display:block; font-size:15px; font-weight:700}
 .loading span{display:block; font-size:12.5px; color:var(--ink-2)}
+#statsNote{margin:-6px 4px 12px; font-size:12px; color:var(--ink-3)}
 #loadingCount{margin-top:6px; font-size:11.5px; color:var(--ink-3); font-variant-numeric:tabular-nums; min-height:14px}
 #loadingCancel{
   margin:14px auto 0; display:block; padding:9px 22px; min-height:44px; border-radius:12px;
@@ -555,6 +556,7 @@ font-variant-numeric:tabular-nums; letter-spacing:-.02em;
       <div class="tile"><b id="stWon">0</b><span>Victoires</span></div>
       <div class="tile"><b id="stRate">—</b><span>Points</span></div>
     </div>
+    <p id="statsNote">Le record ne retient que les grilles résolues sans indice.</p>
     <div id="statsBody"></div>
     <button class="btn danger" id="resetStats">Réinitialiser les statistiques</button>
     <button class="btn ghost" data-close>Fermer</button>
@@ -926,7 +928,7 @@ function xyzWing(b, cs) {
         if (PEERS[w1].indexOf(i) >= 0 && PEERS[w2].indexOf(i) >= 0) el.push(i);
       }
       if (el.length) return step('xyzWing', 6, null, null, el, [zd], false, 'XYZ-Wing',
-        'Un pivot à trois candidats et ses deux ailes forment une fourche : le ' + zd + ' disparaît des cases quʼils voient tous les trois.');
+        'Un pivot à trois candidats et ses deux ailes forment une fourche : le ' + zd + ' disparaît des cases qu’ils voient tous les trois.');
     }
   }
   return null;
@@ -956,7 +958,7 @@ function wWing(b, cs) {
         }
         if (el.length) return step('wWing', 6, null, null, el, [other], false, 'W-Wing',
           'Deux cases jumelles ' + ds[0] + '-' + ds[1] + ' reliées par un lien fort sur le ' + w +
-          ' : le ' + other + ' disparaît des cases quʼelles voient toutes les deux.');
+          ' : le ' + other + ' disparaît des cases qu’elles voient toutes les deux.');
       }
     }
   }
@@ -986,8 +988,8 @@ function skyscraper(b, cs) {
               if (PEERS[roof1].indexOf(i) >= 0 && PEERS[roof2].indexOf(i) >= 0) el.push(i);
             }
             if (el.length) return step('skyscraper', 6, null, null, el, [d], false, 'Gratte-ciel',
-              'Deux ' + (o === 0 ? 'lignes' : 'colonnes') + ' nʼoffrent que deux places au ' + d +
-              ', appuyées sur la même base : ses deux « toits » lʼéliminent de leurs cases communes.');
+              'Deux ' + (o === 0 ? 'lignes' : 'colonnes') + ' n’offrent que deux places au ' + d +
+              ', appuyées sur la même base : ses deux « toits » l’éliminent de leurs cases communes.');
           }
         }
       }
@@ -1198,6 +1200,17 @@ function closeness(puzzle, conf) {
   return Math.abs(puzzle.score - conf.target) + (puzzle.tier < conf.tier ? 400 : 0);
 }
 
+/* Dernier recours, jamais atteint en pratique : si aucune grille notable
+   n'est sortie du chapeau, on en creuse une garantie résoluble par pure
+   logique plutôt que de chercher sans fin. */
+function fallbackPuzzle(level, attempts) {
+  const conf = LEVELS[level];
+  const solution = completedGrid();
+  const givens = digGrid(solution, { floor: conf.floor, dig: ['logic', 3], sym: false });
+  const r = rate(givens) || { score: 0, tier: 1 };
+  return { givens, solution, level, score: r.score, tier: r.tier, inBand: false, attempts };
+}
+
 /* Version synchrone : on recommence jusqu'à obtenir une grille du niveau
    demandé. Le nombre de grilles est illimité — rien n'est stocké, chaque
    partie en crée une nouvelle. */
@@ -1214,8 +1227,7 @@ function generate(level, maxAttempts) {
     if (gap < bestGap) { bestGap = gap; best = p; }
   }
   if (best) { best.attempts = attempts; return best; }
-  const solution = completedGrid();
-  return { givens: digGrid(solution, LEVELS.easy), solution, level, score: 0, tier: 1, attempts };
+  return fallbackPuzzle(level, attempts);
 }
 
 /* Version pour l'interface : mêmes essais, mais découpés en tranches courtes
@@ -1240,7 +1252,10 @@ function generateChunked(level, options) {
         if (gap < bestGap) { bestGap = gap; best = p; }
       }
       if (attempts >= SAFETY_ATTEMPTS) {
-        if (best) { best.attempts = attempts; onDone(best); return; }
+        const out = best || fallbackPuzzle(level, attempts);
+        out.attempts = attempts;
+        onDone(out);
+        return;
       }
     } while (Date.now() - started < sliceMs);
     onProgress(attempts);
@@ -1299,7 +1314,7 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.7.0';
+const APP_VERSION = '1.7.1';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };
@@ -1436,6 +1451,13 @@ function startGame(level) {
   $('#loading').classList.add('on');
 
   const slowTimer = setTimeout(() => { $('#loadingCancel').hidden = false; }, 1500);
+  /* Une grille des paliers ultimes demande parfois plusieurs centaines
+     d'essais : au bout de quelques secondes on le dit franchement plutôt
+     que de laisser tourner une roue muette. */
+  const patienceTimer = setTimeout(() => {
+    if (token !== generationToken) return;
+    $('#loadingSub').textContent = 'Recherche toujours en cours : ces grilles-là se font désirer. Patientez ou annulez.';
+  }, 8000);
 
   generateChunked(level, {
     isCancelled: () => token !== generationToken,
@@ -1446,6 +1468,7 @@ function startGame(level) {
     onDone: puzzle => {
       if (token !== generationToken) return;
       clearTimeout(slowTimer);
+      clearTimeout(patienceTimer);
       // la partie abandonnée ne casse la série qu'une fois la nouvelle lancée
       const abandoned = readSaved();
       if (abandoned) bumpStat(abandoned.puzzle.level, s => { s.streak = 0; });
@@ -1768,7 +1791,8 @@ function checkComplete() {
 
   bumpStat(level, s => {
     s.won++; s.total += G.elapsed;
-    if (s.best === null || G.elapsed < s.best) s.best = G.elapsed;
+    // un record se gagne sans indice — c'est déjà la règle de la fête de fin
+    if (G.hints === 0 && (s.best === null || G.elapsed < s.best)) s.best = G.elapsed;
     s.streak++; s.bestStreak = Math.max(s.bestStreak, s.streak);
     if (G.mistakes === 0 && G.hints === 0) s.flawless++;
     s.points = (s.points || 0) + earned;

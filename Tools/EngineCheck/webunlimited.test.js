@@ -10,13 +10,16 @@ new Function('module', src + '\nmodule.exports = { generate, rate, countSolution
 let fails = 0;
 const check = (c, m) => { if (!c) { fails++; console.log('  ECHEC:', m); } };
 const seen = new Set();
-const COUNT = { easy: 40, medium: 30, hard: 25, expert: 20, master: 15, extreme: 15 };
+const COUNT = { easy: 40, medium: 30, hard: 25, expert: 20, master: 15, extreme: 15,
+                demonic: 10, titan: 8, legend: 6 };
 
 for (const lvl of E.LEVEL_KEYS) {
   const c = E.LEVELS[lvl];
+  // un niveau oublié ici passerait inaperçu : on le signale au lieu de l'ignorer
+  check(COUNT[lvl] > 0, lvl + ' : niveau absent du plan de test');
   const t0 = Date.now();
   let attempts = 0;
-  for (let k = 0; k < COUNT[lvl]; k++) {
+  for (let k = 0; k < (COUNT[lvl] || 0); k++) {
     const p = E.generate(lvl);
     attempts += p.attempts;
     const key = p.givens.join('');

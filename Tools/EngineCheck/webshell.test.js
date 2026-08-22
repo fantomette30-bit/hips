@@ -1,7 +1,22 @@
 /* Vérifie le sas : première ouverture, jeu servi hors ligne, mise à jour auto. */
 const { chromium, devices } = require('playwright');
 const { spawn } = require('child_process');
-const DIR = '/tmp/claude-0/-home-user-hips/563d2eb0-e569-5483-aad2-2e99df5adb4f/scratchpad/shell';
+const fs = require('fs'), os = require('os'), path = require('path');
+
+/* Le sas est monté à neuf à chaque exécution à partir des sources du dépôt :
+   sans cela, un dossier laissé sur le disque servirait une vieille version du
+   jeu et le test passerait (ou échouerait) pour de mauvaises raisons. */
+const ROOT = path.join(__dirname, '../..');
+const DIR = fs.mkdtempSync(path.join(os.tmpdir(), 'sudoku-sas-'));
+for (const [from, to] of [
+  ['Tools/vercel-shell/index.html', 'index.html'],
+  ['Tools/vercel-shell/sw.js', 'sw.js'],
+  ['docs/index.html', 'game.html'],
+  ['docs/manifest.webmanifest', 'manifest.webmanifest'],
+  ['docs/icon-180.png', 'icon-180.png']
+]) {
+  fs.copyFileSync(path.join(ROOT, from), path.join(DIR, to));
+}
 
 (async () => {
   const server = spawn('python3', ['-m', 'http.server', '8897', '--directory', DIR], { stdio: 'ignore' });
@@ -55,6 +70,7 @@ const DIR = '/tmp/claude-0/-home-user-hips/563d2eb0-e569-5483-aad2-2e99df5adb4f/
   check(await page2.locator('#pillPoints').count() >= 0, '');
 
   await browser.close();
+  fs.rmSync(DIR, { recursive: true, force: true });
   console.log(fails.length ? '\n' + fails.length + ' PROBLEME(S)' : '\nSAS : jeu servi hors ligne et mise à jour automatique en place');
   process.exit(fails.length ? 1 : 0);
 })().catch(e => { console.error(e); process.exit(1); });

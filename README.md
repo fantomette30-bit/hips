@@ -39,11 +39,11 @@ liste explicitement ses fichiers pour rester compatible avec Xcode 15).
 - Mode notes (petits crayons), effacement automatique des notes des cases voisines, remplissage automatique des notes.
 - Annulation illimitée, gomme, chronomètre avec pause, compteur d'erreurs.
 - Pavé numérique avec compteur de chiffres restants (un chiffre placé neuf fois se grise).
-- **Indices explicatifs** : l'app ne se contente pas de révéler une case, elle nomme la technique utilisée (candidat unique, candidat caché, paire pointante, paire nue, paire cachée, triplet nu, X-Wing) et met les notes à jour.
+- **Indices explicatifs** : l'app ne se contente pas de révéler une case, elle nomme la technique utilisée (candidat unique, candidat caché, paire pointante, paire nue, paire cachée, triplet nu, X-Wing, XY-Wing, Swordfish, XYZ-Wing, W-Wing, Gratte-ciel) et met les notes à jour.
 - Reprise automatique de la partie en cours, même après avoir quitté l'app.
 
 **Suivi**
-- Statistiques par niveau : parties, victoires, taux de réussite, meilleur temps, temps moyen, série en cours, meilleure série, victoires sans faute ni indice.
+- Statistiques par niveau : parties, victoires, taux de réussite, meilleur temps **sans indice** (c'est ce qui compte comme record), temps moyen, série en cours, meilleure série, victoires sans faute ni indice.
 - Écran de victoire avec confettis, récapitulatif et signalement des nouveaux records.
 
 **Confort**

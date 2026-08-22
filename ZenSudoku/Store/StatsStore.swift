@@ -50,14 +50,18 @@ final class StatsStore {
         persist()
     }
 
-    func recordWin(_ difficulty: Difficulty, time: TimeInterval, flawless: Bool) {
+    /// `withoutHints` : un record ne se gagne qu'à la seule déduction — c'est
+    /// déjà la règle de l'écran de victoire, la statistique la suit.
+    func recordWin(_ difficulty: Difficulty, time: TimeInterval, flawless: Bool, withoutHints: Bool) {
         var entry = self.entry(for: difficulty)
         entry.won += 1
         entry.totalTime += time
-        if let best = entry.bestTime {
-            entry.bestTime = min(best, time)
-        } else {
-            entry.bestTime = time
+        if withoutHints {
+            if let best = entry.bestTime {
+                entry.bestTime = min(best, time)
+            } else {
+                entry.bestTime = time
+            }
         }
         entry.currentStreak += 1
         entry.bestStreak = max(entry.bestStreak, entry.currentStreak)

@@ -224,8 +224,9 @@ struct GameView: View {
     }
 
     private func handleVictory() {
-        isNewRecord = stats.isNewRecord(game.difficulty, time: game.elapsed)
-        stats.recordWin(game.difficulty, time: game.elapsed, flawless: game.isPerfect)
+        let clean = game.hintsUsed == 0
+        isNewRecord = clean && stats.isNewRecord(game.difficulty, time: game.elapsed)
+        stats.recordWin(game.difficulty, time: game.elapsed, flawless: game.isPerfect, withoutHints: clean)
         GameStore.clear()
         Haptics.success()
         showVictory = true

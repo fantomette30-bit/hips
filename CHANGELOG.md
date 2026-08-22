@@ -4,6 +4,23 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.7.1 — 22 août 2026
+- Un record ne se gagne plus avec des indices : le meilleur temps enregistré
+  correspond enfin à ce que l'écran de victoire appelle un record. La feuille
+  de statistiques le précise.
+- Recherche d'une grille des paliers ultimes : au bout de huit secondes,
+  l'écran d'attente le dit clairement au lieu de laisser tourner une roue
+  muette. La recherche reste annulable à tout moment.
+- Filet de sécurité de la génération : dans le cas extrême où aucune grille
+  ne conviendrait, la recherche se termine désormais toujours par une grille
+  jouable au lieu de tourner indéfiniment.
+- iOS : même règle de record, et même pondération que le web lors du choix
+  d'une grille de repli.
+- Vérifications : trois trous dans la batterie de tests comblés (niveaux
+  ultimes ignorés par deux suites, sas testé sur une copie périmée) et une
+  vérification de plus — 850 000 déductions du moteur contrôlées une à une
+  contre la solution, aucune fausse.
+
 ## 1.7.0 — 21 août 2026
 - Trois paliers au-dessus d'Extrême : **Démoniaque**, **Titan** et **Légende**,
   regroupés dans une section « Défis ultimes ». Pour les rendre possibles sans

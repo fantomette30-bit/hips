@@ -33,7 +33,7 @@ const URL = 'file://' + path.join(__dirname, '../../Web/index.html');
     const homeVisible = await page.locator('#home.on').isVisible().catch(() => false);
     check(homeVisible, `sauvegarde corrompue (${label}) : l'accueil ne s'affiche pas`);
     const levels = await page.locator('#levelList button').count();
-    check(levels === 6, `sauvegarde corrompue (${label}) : niveaux absents`);
+    check(levels === 9, `sauvegarde corrompue (${label}) : niveaux absents`);
     await ctx.close();
   }
 
@@ -63,9 +63,9 @@ const URL = 'file://' + path.join(__dirname, '../../Web/index.html');
       let n = 0;
       window.attemptOnce = lvl => {
         const t = Date.now();
-        while (Date.now() - t < 600) {}
+        while (Date.now() - t < 200) {}
         const p = orig(lvl);
-        if (p && ++n <= 3) p.inBand = false;   // garantit une recherche assez longue
+        if (p && ++n <= 60) p.inBand = false;  // la recherche dure largement plus que le clic
         return p;
       };
     });

@@ -13,7 +13,7 @@ def solved_board_valid(b):
         if sorted(b[i] for i in u) != list(range(1, 10)): return False
     return True
 
-print("== 1. Génération (six niveaux) ==")
+print("== 1. Génération (neuf niveaux) ==")
 COUNTS = {"easy": 8, "medium": 8, "hard": 6, "expert": 4, "master": 3, "extreme": 2, "demonic": 2, "titan": 1, "legend": 1}
 # Python tourne environ 50 fois moins vite que le moteur embarqué : on lui laisse
 # un budget généreux pour qu'il fasse autant d'essais que l'app sur l'appareil.

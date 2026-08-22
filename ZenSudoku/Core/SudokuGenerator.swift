@@ -57,7 +57,7 @@ enum SudokuGenerator {
                 return puzzle
             }
             var gap = abs(rating.score - difficulty.targetScore)
-            if rating.hardestTier < difficulty.minimumTier { gap += 250 }
+            if rating.hardestTier < difficulty.minimumTier { gap += 400 }
             if gap < bestGap {
                 bestGap = gap
                 best = puzzle
