@@ -121,6 +121,24 @@ const { chromium, devices } = require('playwright');
   });
   check(rSeq, 'pas de secousse dans une nouvelle partie sur une case déjà secouée');
 
+  // — compteurs du pavé : agrandis, mais la touche garde sa taille
+  const pad = await p.evaluate(() => {
+    const key = () => document.querySelector('.key');
+    const span = () => key().querySelector('span');
+    const h = () => Math.round(key().getBoundingClientRect().height * 10) / 10;
+    const affiche = { h: h(), t: span().textContent, px: getComputedStyle(span()).fontSize };
+    settings.counts = false; renderGame();
+    const masque = { h: h(), t: span().textContent };
+    settings.counts = true; renderGame();
+    const retabli = { h: h(), t: span().textContent };
+    return { affiche, masque, retabli };
+  });
+  check(parseFloat(pad.affiche.px) >= 12, 'compteurs du pavé rapetissés (' + pad.affiche.px + ')');
+  check(pad.affiche.h === 56.8, 'la touche du pavé a changé de taille (' + pad.affiche.h + ')');
+  check(pad.masque.t === '', 'le compteur reste affiché alors qu’il est désactivé');
+  check(pad.retabli.t === pad.affiche.t && pad.retabli.h === pad.affiche.h,
+        'le pavé ne revient pas à l’identique après avoir masqué les compteurs');
+
   await b.close();
   console.log(fails.length ? '\n' + fails.length + ' PROBLEME(S)' : '\nNON-REGRESSION REVUE : AUCUN PROBLEME');
   process.exit(fails.length ? 1 : 0);

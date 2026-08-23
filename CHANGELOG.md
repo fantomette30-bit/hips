@@ -4,6 +4,11 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.7.2 — 23 août 2026
+- Les petits chiffres sous le pavé numérique — combien de fois chaque chiffre
+  reste à placer — sont agrandis (9,5 → 12 px), plus lisibles le soir sans rien
+  changer à la taille des touches ni à la mise en page.
+
 ## 1.7.1 — 22 août 2026
 - Un record ne se gagne plus avec des indices : le meilleur temps enregistré
   correspond enfin à ce que l'écran de victoire appelle un record. La feuille

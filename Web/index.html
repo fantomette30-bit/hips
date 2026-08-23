@@ -303,7 +303,7 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
   align-items:center; justify-content:center; gap:1px;
 }
 .key b{font-size:23px; font-weight:600; line-height:1; font-variant-numeric:tabular-nums}
-.key span{font-size:9.5px; color:var(--ink-3); font-variant-numeric:tabular-nums}
+.key span{font-size:12px; line-height:1.15; color:var(--ink-3); font-variant-numeric:tabular-nums}
 .key:active{transform:scale(.94)}
 .key.done b{color:var(--ink-3)}
 .key.done span{color:var(--brass)}
@@ -1316,7 +1316,7 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.7.1';
+const APP_VERSION = '1.7.2';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };
