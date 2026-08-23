@@ -4,6 +4,16 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.8.1 — 23 août 2026
+- Deux descriptions de niveaux (Extrême et Légende) débordaient sur deux
+  lignes : leurs cartes étaient plus hautes que les autres sur l'accueil.
+  Textes raccourcis, les neuf cartes ont de nouveau la même hauteur.
+- L'attente est désormais **bornée** sur les deux niveaux les plus rares : au
+  bout de quelques centaines d'essais, le jeu retient la meilleure grille
+  rencontrée plutôt que de continuer à chercher. Titan et Légende sortent en
+  1,3 s et 3 s en moyenne, sans dépasser une dizaine de secondes dans le pire
+  des cas.
+
 ## 1.8.0 — 23 août 2026
 - **La difficulté monte vraiment d'un niveau à l'autre.** Jusqu'ici seul le
   score était calibré : une grille Difficile pouvait exiger un XY-Wing, une
@@ -16,8 +26,8 @@ la nouvelle version est active au lancement suivant.
   pour Démoniaque, quatre pour Titan, cinq ou plus pour Légende.
 - Mesures sur les neuf niveaux : palier le plus dur 1, 2, 3, 4, 5, 6, 6, 6, 6
   (aucun recouvrement, contre des chevauchements systématiques auparavant) ;
-  murs 0, 0, 0, 0, 1, 2, 3, 4, 5+ ; scores médians 48, 165, 420, 678, 811,
-  1096, 1481, 1588, 1679.
+  murs 0, 0, 0, 0, 1, 2, 3, 4, 5+ ; scores médians 48, 129, 290, 562, 799,
+  1014, 1245, 1372, 1859.
 - Les descriptions des niveaux sur l'accueil annoncent maintenant la technique
   réellement exigée.
 

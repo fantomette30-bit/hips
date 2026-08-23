@@ -683,6 +683,12 @@ for (let i = 0; i < N; i++) {
   for (const u of UNITS) if (u.indexOf(i) >= 0) for (const j of u) if (j !== i) s.add(j);
   PEERS.push([...s]);
 }
+/* SEES[a * N + b] : b est-elle une voisine de a ? Consultée en boucle serrée
+   par les techniques avancées — une table plate y est bien plus rapide qu'une
+   recherche dans un tableau. */
+const SEES = new Uint8Array(N * N);
+for (let i = 0; i < N; i++) for (const j of PEERS[i]) SEES[i * N + j] = 1;
+const sees = (a, b) => SEES[a * N + b] === 1;
 const INBOX = new Array(N), INROW = new Array(N), INCOL = new Array(N);
 for (let i = 0; i < N; i++) { INROW[i] = (i / 9) | 0; INCOL[i] = i % 9; INBOX[i] = ((i / 27) | 0) * 3 + (((i % 9) / 3) | 0); }
 
@@ -904,7 +910,7 @@ function xyWing(b, cs) {
   for (let i = 0; i < N; i++) if (b[i] === 0 && cnt(cs[i]) === 2) pairs.push(i);
   for (const pivot of pairs) {
     const pd = digitsOf(cs[pivot]), x = pd[0], y = pd[1];
-    const wings = pairs.filter(i => i !== pivot && PEERS[pivot].indexOf(i) >= 0);
+    const wings = pairs.filter(i => i !== pivot && sees(pivot, i));
     for (const w1 of wings) {
       const d1 = digitsOf(cs[w1]);
       if (d1.indexOf(x) < 0) continue;
@@ -917,7 +923,7 @@ function xyWing(b, cs) {
         const el = [];
         for (let i = 0; i < N; i++) {
           if (b[i] !== 0 || i === pivot || i === w1 || i === w2 || !has(cs[i], z)) continue;
-          if (PEERS[w1].indexOf(i) >= 0 && PEERS[w2].indexOf(i) >= 0) el.push(i);
+          if (sees(w1, i) && sees(w2, i)) el.push(i);
         }
         if (el.length) return step('xyWing', 5, null, null, el, [z], false, 'XY-Wing',
           'Trois cases à deux candidats forment une fourche : le ' + z + ' devient impossible dans les cases que voient les deux extrémités.');
@@ -968,7 +974,7 @@ function xyzWing(b, cs) {
       const el = [];
       for (const i of PEERS[pivot]) {
         if (b[i] !== 0 || i === w1 || i === w2 || !has(cs[i], zd)) continue;
-        if (PEERS[w1].indexOf(i) >= 0 && PEERS[w2].indexOf(i) >= 0) el.push(i);
+        if (sees(w1, i) && sees(w2, i)) el.push(i);
       }
       if (el.length) return step('xyzWing', 6, null, null, el, [zd], false, 'XYZ-Wing',
         'Un pivot à trois candidats et ses deux ailes forment une fourche : le ' + zd + ' disparaît des cases qu’ils voient tous les trois.');
@@ -982,7 +988,7 @@ function wWing(b, cs) {
   for (let i = 0; i < N; i++) if (b[i] === 0 && cnt(cs[i]) === 2) pairsCells.push(i);
   for (let a = 0; a < pairsCells.length; a++) for (let z = a + 1; z < pairsCells.length; z++) {
     const A = pairsCells[a], B = pairsCells[z];
-    if (cs[A] !== cs[B] || PEERS[A].indexOf(B) >= 0) continue;
+    if (cs[A] !== cs[B] || sees(A, B)) continue;
     const ds = digitsOf(cs[A]);
     for (const pairTry of [[ds[0], ds[1]], [ds[1], ds[0]]]) {
       const w = pairTry[0], other = pairTry[1];
@@ -991,13 +997,12 @@ function wWing(b, cs) {
         if (spots.length !== 2) continue;
         const s1 = spots[0], s2 = spots[1];
         if (s1 === A || s1 === B || s2 === A || s2 === B) continue;
-        const link = (PEERS[A].indexOf(s1) >= 0 && PEERS[B].indexOf(s2) >= 0) ||
-                     (PEERS[A].indexOf(s2) >= 0 && PEERS[B].indexOf(s1) >= 0);
+        const link = (sees(A, s1) && sees(B, s2)) || (sees(A, s2) && sees(B, s1));
         if (!link) continue;
         const el = [];
         for (let i = 0; i < N; i++) {
           if (b[i] !== 0 || i === A || i === B || !has(cs[i], other)) continue;
-          if (PEERS[A].indexOf(i) >= 0 && PEERS[B].indexOf(i) >= 0) el.push(i);
+          if (sees(A, i) && sees(B, i)) el.push(i);
         }
         if (el.length) return step('wWing', 6, null, null, el, [other], false, 'W-Wing',
           'Deux cases jumelles ' + ds[0] + '-' + ds[1] + ' reliées par un lien fort sur le ' + w +
@@ -1028,7 +1033,7 @@ function skyscraper(b, cs) {
             for (let i = 0; i < N; i++) {
               if (b[i] !== 0 || !has(cs[i], d)) continue;
               if (i === roof1 || i === roof2 || i === base1 || i === base2) continue;
-              if (PEERS[roof1].indexOf(i) >= 0 && PEERS[roof2].indexOf(i) >= 0) el.push(i);
+              if (sees(roof1, i) && sees(roof2, i)) el.push(i);
             }
             if (el.length) return step('skyscraper', 6, null, null, el, [d], false, 'Gratte-ciel',
               'Deux ' + (o === 0 ? 'lignes' : 'colonnes') + ' n’offrent que deux places au ' + d +
@@ -1173,15 +1178,15 @@ const LEVELS = {
   expert:  { name: 'Expert',    blurb: 'Paires cachées, triplets, X-Wing',     rank: 4, group: 'corsé',
              floor: 22, dig: ['logic', 4], sym: false, lo: 500,  hi: 780,  tier: 4, tierMax: 4, minHard: 0, maxHard: 0, target: 610 },
   master:  { name: 'Master',    blurb: 'Un mur : XY-Wing ou Swordfish',        rank: 5, group: 'corsé',
-             floor: 22, dig: ['logic', 5], sym: false, lo: 700,  hi: 1100, tier: 5, tierMax: 5, minHard: 1, maxHard: 1, target: 830 },
-  extreme: { name: 'Extrême',   blurb: 'Deux murs : XYZ-Wing, W-Wing, Gratte-ciel', rank: 6, group: 'corsé',
-             floor: 22, dig: ['logic', 6], sym: false, lo: 850,  hi: 1499, tier: 6, tierMax: 6, minHard: 2, maxHard: 2, target: 1050 },
+             floor: 22, dig: ['logic', 5], sym: false, lo: 700,  hi: 899,  tier: 5, tierMax: 5, minHard: 1, maxHard: 1, target: 800 },
+  extreme: { name: 'Extrême',   blurb: 'Deux murs : XYZ-Wing, Gratte-ciel', rank: 6, group: 'corsé',
+             floor: 22, dig: ['logic', 6], sym: false, lo: 850,  hi: 1499, tier: 6, tierMax: 6, minHard: 2, maxHard: 2, target: 1050, patience: 900 },
   demonic: { name: 'Démoniaque', blurb: 'Trois murs à franchir',               rank: 7, group: 'ultime',
-             floor: 22, dig: ['logic', 6], sym: false, lo: 1100, hi: 1699, tier: 6, tierMax: 6, minHard: 3, maxHard: 3, target: 1300 },
+             floor: 22, dig: ['logic', 6], sym: false, lo: 1100, hi: 1699, tier: 6, tierMax: 6, minHard: 3, maxHard: 3, target: 1300, patience: 900 },
   titan:   { name: 'Titan',     blurb: 'Quatre murs, chaque case se mérite',   rank: 8, group: 'ultime',
-             floor: 22, dig: ['logic', 6], sym: false, lo: 1250, hi: 1899, tier: 6, tierMax: 6, minHard: 4, maxHard: 4, target: 1500 },
-  legend:  { name: 'Légende',   blurb: 'Cinq murs ou plus — rare et impitoyable', rank: 9, group: 'ultime',
-             floor: 22, dig: ['logic', 6], sym: false, lo: 1400, hi: 1e9, tier: 6, tierMax: 6, minHard: 5, maxHard: 99, target: 1800 }
+             floor: 22, dig: ['logic', 6], sym: false, lo: 1250, hi: 1899, tier: 6, tierMax: 6, minHard: 4, maxHard: 4, target: 1500, patience: 600 },
+  legend:  { name: 'Légende',   blurb: 'Cinq murs ou plus — le sommet', rank: 9, group: 'ultime',
+             floor: 22, dig: ['logic', 6], sym: false, lo: 1400, hi: 1e9, tier: 6, tierMax: 6, minHard: 5, maxHard: 99, target: 1800, patience: 700 }
 };
 const LEVEL_KEYS = ['easy', 'medium', 'hard', 'expert', 'master', 'extreme', 'demonic', 'titan', 'legend'];
 
@@ -1244,10 +1249,13 @@ function attemptOnce(level) {
   };
 }
 
-/* Filet de sécurité : au-delà de ce nombre d'essais (jamais atteint en
-   pratique — le niveau le plus dur en demande une trentaine), on accepte la
-   grille la plus proche de la cible plutôt que de chercher indéfiniment. */
+/* Filet de sécurité : au-delà de ce nombre d'essais on accepte la grille la
+   plus proche de la cible plutôt que de chercher indéfiniment. Les niveaux
+   rares ont leur propre patience (`patience`), pour que l'attente reste
+   bornée à quelques secondes : une grille très légèrement en deçà de la cible
+   vaut mieux qu'une roue qui tourne. */
 const SAFETY_ATTEMPTS = 3000;
+const patienceOf = conf => conf.patience || SAFETY_ATTEMPTS;
 
 function closeness(puzzle, conf) {
   let gap = Math.abs(puzzle.score - conf.target);
@@ -1274,7 +1282,7 @@ function fallbackPuzzle(level, attempts) {
    partie en crée une nouvelle. */
 function generate(level, maxAttempts) {
   const conf = LEVELS[level];
-  const cap = maxAttempts || SAFETY_ATTEMPTS;
+  const cap = maxAttempts || patienceOf(conf);
   let best = null, bestGap = Infinity, attempts = 0;
   while (attempts < cap) {
     attempts++;
@@ -1309,7 +1317,7 @@ function generateChunked(level, options) {
         const gap = closeness(p, conf);
         if (gap < bestGap) { bestGap = gap; best = p; }
       }
-      if (attempts >= SAFETY_ATTEMPTS) {
+      if (attempts >= patienceOf(conf)) {
         const out = best || fallbackPuzzle(level, attempts);
         out.attempts = attempts;
         onDone(out);
@@ -1372,7 +1380,7 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.8.0';
+const APP_VERSION = '1.8.1';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };

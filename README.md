@@ -83,7 +83,7 @@ grille Difficile ne peut pas réclamer un XY-Wing, ni une Expert un Swordfish �
 et le creusement s'arrête au palier du niveau, si bien que la difficulté monte
 d'une marche à chaque niveau.
 
-Scores mesurés (médianes) : 48, 165, 420, 678, 811, 1096, 1481, 1588, 1679.
+Scores mesurés (médianes) : 48, 129, 290, 562, 799, 1014, 1245, 1372, 1859.
 
 Techniques implémentées : candidat unique, candidat caché, paire pointante,
 chiffre revendiqué, paire nue, paire cachée, triplet nu, triplet caché, X-Wing,
