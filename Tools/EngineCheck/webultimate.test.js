@@ -21,14 +21,16 @@ const URL = 'file://' + path.join(__dirname, '../../Web/index.html');
 
   // 1. Légende : la recherche est annulable et ne laisse aucune trace.
   //    On ralentit volontairement la recherche pour voir le bouton Annuler.
+  //    (la recherche est bridée tant que window.__brider vaut true, ce qui
+  //     rend chaque scénario d'annulation reproductible)
   await page.evaluate(() => {
     const orig = attemptOnce;
-    let n = 0;
+    window.__brider = true;
     window.attemptOnce = lvl => {
       const t = Date.now();
       while (Date.now() - t < 200) {}
       const p = orig(lvl);
-      if (p && ++n <= 60) p.inBand = false;
+      if (p && window.__brider) p.inBand = false;
       return p;
     };
   });
@@ -61,16 +63,17 @@ const URL = 'file://' + path.join(__dirname, '../../Web/index.html');
   console.log('  message d’attente prolongée : affiché puis remis à neuf');
 
   // 2. Démoniaque : rien n'est bloqué après une annulation
-  await page.evaluate(() => { delete window.attemptOnce; });
+  await page.evaluate(() => { window.__brider = false; delete window.attemptOnce; });
   await page.reload();
   await page.waitForSelector('#levelList button');
   await page.locator('#levelList button').nth(6).click();
   await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 180000 });
-  const info = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, tier: G.puzzle.tier,
+  const info = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, tier: G.puzzle.tier, murs: G.puzzle.hard,
                                             givens: G.puzzle.givens.filter(v => v).length }));
   check(info.lvl === 'demonic', 'le niveau lancé n’est pas Démoniaque');
-  check(info.score >= 850 && info.score <= 1049, 'Démoniaque hors fourchette : ' + info.score);
-  check(info.tier >= 5, 'Démoniaque : palier trop bas (' + info.tier + ')');
+  check(info.score >= 1150 && info.score <= 1699, 'Démoniaque hors fourchette : ' + info.score);
+  check(info.tier === 6, 'Démoniaque : palier inattendu (' + info.tier + ')');
+  check(info.murs === 3, 'Démoniaque : ' + info.murs + ' murs au lieu de trois');
   console.log('  Démoniaque :', JSON.stringify(info));
 
   // 3. la grille se termine entièrement aux indices (aucune impasse)

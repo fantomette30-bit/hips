@@ -4,6 +4,23 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.8.0 — 23 août 2026
+- **La difficulté monte vraiment d'un niveau à l'autre.** Jusqu'ici seul le
+  score était calibré : une grille Difficile pouvait exiger un XY-Wing, une
+  Expert un Swordfish, tandis qu'une Master se contentait parfois de paires
+  nues — d'où l'impression que les niveaux se ressemblaient. Désormais chaque
+  niveau exige **exactement** sa famille de techniques : candidats évidents,
+  candidats cachés, groupes verrouillés, X-Wing, XY-Wing, XYZ-Wing…
+- Les quatre derniers niveaux se distinguent par le nombre de **« murs »** —
+  les coups avancés sur lesquels on bute vraiment : deux pour Extrême, trois
+  pour Démoniaque, quatre pour Titan, cinq ou plus pour Légende.
+- Mesures sur les neuf niveaux : palier le plus dur 1, 2, 3, 4, 5, 6, 6, 6, 6
+  (aucun recouvrement, contre des chevauchements systématiques auparavant) ;
+  murs 0, 0, 0, 0, 1, 2, 3, 4, 5+ ; scores médians 48, 165, 420, 678, 811,
+  1096, 1481, 1588, 1679.
+- Les descriptions des niveaux sur l'accueil annoncent maintenant la technique
+  réellement exigée.
+
 ## 1.7.5 — 23 août 2026
 - **Ligne fine dans la grille** : une ligne entièrement vide (ni chiffre ni
   note) se tassait à moins de la moitié de la hauteur normale, et les autres

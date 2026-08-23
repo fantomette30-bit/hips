@@ -41,15 +41,18 @@ const { chromium, devices } = require('playwright');
   await page.locator('#levelList button').nth(5).click();
   await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 20000 });
   const extremeMs = Date.now() - tX;
-  const xInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, clues: G.puzzle.givens.filter(v => v).length }));
-  check(xInfo.lvl === 'extreme' && xInfo.score >= 700 && xInfo.score <= 849, 'grille extrême non conforme: ' + JSON.stringify(xInfo));
+  const xInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, tier: G.puzzle.tier,
+                                            murs: G.puzzle.hard, clues: G.puzzle.givens.filter(v => v).length }));
+  const LEVELS_EXTREME = await page.evaluate(() => ({ lo: LEVELS.extreme.lo, hi: LEVELS.extreme.hi }));
+  check(xInfo.lvl === 'extreme' && xInfo.score >= LEVELS_EXTREME.lo && xInfo.score <= LEVELS_EXTREME.hi &&
+        xInfo.tier === 6 && xInfo.murs === 2, 'grille extrême non conforme: ' + JSON.stringify(xInfo));
   // et le niveau le plus haut : Légende
   await page.locator('#btnBack').click();
   const tL = Date.now();
   await page.locator('#levelList button').nth(8).click();
   await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 45000 });
-  const lInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, tier: G.puzzle.tier }));
-  check(lInfo.lvl === 'legend' && lInfo.score >= 1300 && lInfo.tier === 6, 'grille légende non conforme: ' + JSON.stringify(lInfo));
+  const lInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, tier: G.puzzle.tier, murs: G.puzzle.hard }));
+  check(lInfo.lvl === 'legend' && lInfo.score >= 1500 && lInfo.tier === 6 && lInfo.murs >= 5, 'grille légende non conforme: ' + JSON.stringify(lInfo));
   console.log('  légende générée en', Date.now() - tL, 'ms —', JSON.stringify(lInfo));
   console.log('  extrême généré en', extremeMs, 'ms —', JSON.stringify(xInfo));
   await page.screenshot({ path: 'shot-extreme.png' });

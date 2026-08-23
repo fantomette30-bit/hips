@@ -23,6 +23,7 @@ ajoutée est prise en compte sans rien déclarer.
 | `webfuzz.test.js` | 3 000 gestes aléatoires sur trois niveaux : aucune exception, invariants tenus, grille toujours finissable |
 | `webprivacy.test.js` | aucune requête réseau, même page ouverte en ligne ; sauvegarde nettoyée après la victoire |
 | `webreset.test.js` | remise à zéro des statistiques : confirmation en deux temps, rien d'effacé par accident |
+| `webladder.test.js` | échelle de difficulté : palier exigé et nombre de murs croissants, profil mesuré niveau par niveau |
 | `webgrid.test.js` | hauteur des neuf lignes de la grille, y compris une ligne vide ou seulement annotée |
 | `weblandscape.test.js` | téléphone couché : accueil, feuille de statistiques et écran de victoire utilisables |
 | `webui.test.js` | parcours complet sur iPhone : accueil, partie, notes, indices, victoire |

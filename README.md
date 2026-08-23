@@ -60,22 +60,30 @@ La difficulté n'est pas déduite du seul nombre de cases vides : elle est **mes
 
 1. **Grille complète** : remplissage aléatoire par retour sur trace.
 2. **Creusement** :
-   - *Facile* et *Moyen* : une case n'est retirée que si la grille reste résoluble avec les techniques simples (candidats uniques et cachés, puis groupes verrouillés et paires nues).
-   - *Difficile* à *Légende* : une case est retirée tant que la **solution reste unique**, ce qui laisse apparaître des grilles exigeant des techniques avancées. À partir de Master le creusement est asymétrique, ce qui permet de descendre plus bas en nombre d'indices.
-3. **Notation** : la grille est rejouée coup par coup comme le ferait un joueur. Chaque coup coûte d'autant plus cher qu'il est difficile à repérer — un candidat unique parmi quatre disponibles coûte 1, un candidat caché isolé 22, une technique de palier 3 vaut 45, de palier 4 vaut 80, de palier 5 vaut 140, de palier 6 vaut 220.
-4. **Sélection** : si le score ne tombe pas dans la fourchette du niveau, la grille est régénérée — sans limite d'essais, jusqu'à obtenir le niveau demandé. Les essais sont découpés en tranches de 90 ms, avec compteur et bouton d'annulation, pour que l'écran ne se fige jamais.
+   - chaque niveau creuse **jusqu'à son propre palier** : une case n'est retirée que si la grille reste résoluble avec les techniques autorisées à ce niveau. Une grille Facile reste donc résoluble aux seuls candidats évidents, une Difficile aux groupes verrouillés, etc.
+   - à partir d'Expert le creusement est asymétrique, ce qui permet de descendre plus bas en nombre d'indices.
+3. **Notation** : la grille est rejouée coup par coup comme le ferait un joueur. Chaque coup coûte d'autant plus cher qu'il est difficile à repérer — un candidat unique parmi quatre disponibles coûte 1, un candidat caché isolé 22, une technique de palier 3 vaut 45, de palier 4 vaut 80, de palier 5 vaut 140, de palier 6 vaut 220. On compte aussi les « murs » : les coups de palier 5 ou 6.
+4. **Sélection** : la grille n'est retenue que si elle exige exactement le palier du niveau et le bon nombre de murs, dans la fourchette de score prévue ; sinon on régénère — sans limite d'essais. Les essais sont découpés en tranches de 90 ms, avec compteur et bouton d'annulation, pour que l'écran ne se fige jamais.
 
-| Niveau | Score visé | Indices | Techniques typiques |
-|---|---|---|---|
-| Facile | ≤ 85 | ~40 | candidats uniques |
-| Moyen | 95–200 | ~30 | candidats cachés |
-| Difficile | 210–330 | 26–29 | les coups évidents se raréfient |
-| Expert | 345–480 | 24–30 | groupes verrouillés, paires nues |
-| Master | 495–680 | 22–28 | triplets, paires cachées, X-Wing |
-| Extrême | 700–849 | 22–27 | XY-Wing, Swordfish |
-| Démoniaque | 850–1049 | 22–26 | XYZ-Wing, W-Wing |
-| Titan | 1050–1299 | 22–26 | palier 6 exigé |
-| Légende | ≥ 1300 | 22–27 | le sommet, palier 6 exigé |
+| Niveau | Palier exigé | « Murs » | Indices | Ce qu'il faut savoir faire |
+|---|---|---|---|---|
+| Facile | 1 | 0 | ~40 | candidats évidents |
+| Moyen | 2 | 0 | ~30 | candidats cachés |
+| Difficile | 3 | 0 | 26–31 | groupes verrouillés, paires nues |
+| Expert | 4 | 0 | 23–26 | paires cachées, triplets, X-Wing |
+| Master | 5 | 1 | 22–26 | XY-Wing, Swordfish |
+| Extrême | 6 | 2 | 23–26 | XYZ-Wing, W-Wing, Gratte-ciel |
+| Démoniaque | 6 | 3 | 23–26 | trois murs à franchir |
+| Titan | 6 | 4 | 22–27 | quatre murs |
+| Légende | 6 | 5 et + | 22–27 | cinq murs ou davantage |
+
+Un « mur » est un coup avancé (palier 5 ou 6) sur lequel on bute vraiment :
+c'est ce qui se ressent le plus en jouant. Le palier exigé est **exact** — une
+grille Difficile ne peut pas réclamer un XY-Wing, ni une Expert un Swordfish —
+et le creusement s'arrête au palier du niveau, si bien que la difficulté monte
+d'une marche à chaque niveau.
+
+Scores mesurés (médianes) : 48, 165, 420, 678, 811, 1096, 1481, 1588, 1679.
 
 Techniques implémentées : candidat unique, candidat caché, paire pointante,
 chiffre revendiqué, paire nue, paire cachée, triplet nu, triplet caché, X-Wing,

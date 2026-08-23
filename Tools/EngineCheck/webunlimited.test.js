@@ -25,7 +25,9 @@ for (const lvl of E.LEVEL_KEYS) {
     const key = p.givens.join('');
     check(!seen.has(key), lvl + ': grille répétée');
     seen.add(key);
-    check(p.score >= c.lo && p.score <= c.hi && p.tier >= c.tier, lvl + ': hors fourchette (' + p.score + ')');
+    check(p.score >= c.lo && p.score <= c.hi && p.tier >= c.tier && p.tier <= c.tierMax &&
+          p.hard >= c.minHard && p.hard <= c.maxHard,
+          lvl + ': hors cible (score ' + p.score + ', palier ' + p.tier + ', murs ' + p.hard + ')');
     check(E.countSolutions(p.givens, 2) === 1, lvl + ': solution non unique');
   }
   const ms = Date.now() - t0;

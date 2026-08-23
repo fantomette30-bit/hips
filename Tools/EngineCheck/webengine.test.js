@@ -19,7 +19,8 @@ for (const lvl of E.LEVEL_KEYS) {
     check(r !== null, lvl + ': grille non résoluble sans deviner');
     scores.push(p.score); clues.push(p.givens.filter(v => v).length);
     tiers[p.tier] = (tiers[p.tier] || 0) + 1;
-    if (p.score >= c.lo && p.score <= c.hi && p.tier >= c.tier) inBand++;
+    if (p.score >= c.lo && p.score <= c.hi && p.tier >= c.tier && p.tier <= c.tierMax &&
+        p.hard >= c.minHard && p.hard <= c.maxHard) inBand++;
     check(E.countSolutions(p.givens, 2) === 1, lvl + ': solution non unique');
     check(p.givens.every((g, i) => g === 0 || g === p.solution[i]), lvl + ': indice incompatible');
     check(p.givens.filter(v => v).length >= c.floor, lvl + ': sous le plancher d’indices');
@@ -44,7 +45,7 @@ for (const lvl of E.LEVEL_KEYS) {
   times.sort((a, b) => a - b);
   console.log(`${lvl.padEnd(8)} score ${Math.min(...scores)}-${Math.max(...scores)} (fourchette ${c.lo}-${c.hi === 1e9 ? '∞' : c.hi}) | ` +
     `indices ${Math.min(...clues)}-${Math.max(...clues)} | dans la fourchette ${inBand}/${n} | ` +
-    `temps med ${times[n>>1]} ms max ${times[n-1]} ms | paliers ${JSON.stringify(tiers)}`);
+    `temps med ${times[n>>1]} ms max ${times[n-1]} ms | paliers ${JSON.stringify(tiers)} | murs ${c.minHard}-${c.maxHard === 99 ? '+' : c.maxHard}`);
 }
 
 // les niveaux doivent rester ordonnés

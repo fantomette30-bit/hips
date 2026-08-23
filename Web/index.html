@@ -1130,12 +1130,13 @@ function hiddenSingleCount(b, cs) {
    avancée nécessaire (palier 1 à 6), ou null si la grille exigerait de deviner. */
 function rate(board) {
   const b = board.slice(), cs = candidates(b);
-  let total = 0, remaining = 0, hardest = 0;
+  let total = 0, remaining = 0, hardest = 0, hard = 0;
   for (const v of b) if (v === 0) remaining++;
   while (remaining > 0) {
     const s = nextStep(b, cs, 6);
     if (!s) return null;
     hardest = Math.max(hardest, s.tier);
+    if (s.tier >= 5) hard++;          // coups où la joueuse bute vraiment
     if (s.kind === 'nakedSingle') {
       const n = nakedSingleCount(b, cs);
       total += n >= 4 ? 1 : n === 3 ? 2 : n === 2 ? 3 : 5;
@@ -1148,30 +1149,37 @@ function rate(board) {
     applyStep(s, b, cs);
     if (s.placement) remaining--;
   }
-  return { score: total, tier: hardest };
+  return { score: total, tier: hardest, hard: hard };
 }
 
-/* Six niveaux, calibrés sur le score ci-dessus. `floor` = nombre d'indices
-   minimum, `sym` = creusement symétrique, `tier` = technique minimale exigée. */
+/* Neuf niveaux, une marche par niveau. Deux exigences rendent la montée
+   réellement perceptible :
+     - le palier de technique est *exact* (`tier` .. `tierMax`) : une grille
+       Facile ne peut pas réclamer un X-Wing, ni une Difficile un XY-Wing ;
+     - le nombre de « murs » — les coups avancés (palier 5 ou 6) sur lesquels
+       on bute vraiment — est imposé (`minHard` .. `maxHard`).
+   La fourchette de score reste un garde-fou sur la longueur de la grille.
+   `floor` = nombre d'indices minimum, `sym` = creusement symétrique ; le
+   creusement s'arrête au palier du niveau. */
 const LEVELS = {
-  easy:    { name: 'Facile',    blurb: 'Une grille douce, sans détour',        rank: 1, group: 'calme',
-             floor: 40, dig: ['logic', 2], sym: true,  lo: 0,   hi: 85,   tier: 0, target: 55 },
-  medium:  { name: 'Moyen',     blurb: 'Déduction et patience',                rank: 2, group: 'calme',
-             floor: 30, dig: ['logic', 3], sym: true,  lo: 95,  hi: 200,  tier: 0, target: 150 },
-  hard:    { name: 'Difficile', blurb: 'Les coups évidents se font rares',     rank: 3, group: 'calme',
-             floor: 26, dig: ['unique', 0], sym: true, lo: 210, hi: 330,  tier: 0, target: 270 },
-  expert:  { name: 'Expert',    blurb: 'Groupes verrouillés et paires nues',   rank: 4, group: 'corsé',
-             floor: 24, dig: ['unique', 0], sym: true, lo: 345, hi: 480,  tier: 0, target: 410 },
-  master:  { name: 'Master',    blurb: 'Triplets, paires cachées, X-Wing',     rank: 5, group: 'corsé',
-             floor: 22, dig: ['unique', 0], sym: false, lo: 495, hi: 680, tier: 3, target: 580 },
-  extreme: { name: 'Extrême',   blurb: 'XY-Wing, Swordfish : rien n’est offert', rank: 6, group: 'corsé',
-             floor: 22, dig: ['unique', 0], sym: false, lo: 700, hi: 849, tier: 3, target: 770 },
-  demonic: { name: 'Démoniaque', blurb: 'XYZ-Wing et W-Wing au menu', rank: 7, group: 'ultime',
-             floor: 22, dig: ['unique', 0], sym: false, lo: 850, hi: 1049, tier: 5, target: 940 },
-  titan:   { name: 'Titan', blurb: 'Chaque case se mérite', rank: 8, group: 'ultime',
-             floor: 22, dig: ['unique', 0], sym: false, lo: 1050, hi: 1299, tier: 6, target: 1160 },
-  legend:  { name: 'Légende', blurb: 'Le sommet — rare et impitoyable', rank: 9, group: 'ultime',
-             floor: 22, dig: ['unique', 0], sym: false, lo: 1300, hi: 1e9, tier: 6, target: 1500 }
+  easy:    { name: 'Facile',    blurb: 'Candidats évidents, sans détour',      rank: 1, group: 'calme',
+             floor: 40, dig: ['logic', 2], sym: true,  lo: 0,    hi: 85,   tier: 1, tierMax: 2, minHard: 0, maxHard: 0, target: 55 },
+  medium:  { name: 'Moyen',     blurb: 'Les candidats cachés entrent en jeu',  rank: 2, group: 'calme',
+             floor: 30, dig: ['logic', 2], sym: true,  lo: 95,   hi: 200,  tier: 2, tierMax: 2, minHard: 0, maxHard: 0, target: 150 },
+  hard:    { name: 'Difficile', blurb: 'Groupes verrouillés et paires nues',   rank: 3, group: 'calme',
+             floor: 26, dig: ['logic', 3], sym: true,  lo: 240,  hi: 480,  tier: 3, tierMax: 3, minHard: 0, maxHard: 0, target: 380 },
+  expert:  { name: 'Expert',    blurb: 'Paires cachées, triplets, X-Wing',     rank: 4, group: 'corsé',
+             floor: 22, dig: ['logic', 4], sym: false, lo: 500,  hi: 780,  tier: 4, tierMax: 4, minHard: 0, maxHard: 0, target: 610 },
+  master:  { name: 'Master',    blurb: 'Un mur : XY-Wing ou Swordfish',        rank: 5, group: 'corsé',
+             floor: 22, dig: ['logic', 5], sym: false, lo: 700,  hi: 1100, tier: 5, tierMax: 5, minHard: 1, maxHard: 1, target: 830 },
+  extreme: { name: 'Extrême',   blurb: 'Deux murs : XYZ-Wing, W-Wing, Gratte-ciel', rank: 6, group: 'corsé',
+             floor: 22, dig: ['logic', 6], sym: false, lo: 850,  hi: 1499, tier: 6, tierMax: 6, minHard: 2, maxHard: 2, target: 1050 },
+  demonic: { name: 'Démoniaque', blurb: 'Trois murs à franchir',               rank: 7, group: 'ultime',
+             floor: 22, dig: ['logic', 6], sym: false, lo: 1100, hi: 1699, tier: 6, tierMax: 6, minHard: 3, maxHard: 3, target: 1300 },
+  titan:   { name: 'Titan',     blurb: 'Quatre murs, chaque case se mérite',   rank: 8, group: 'ultime',
+             floor: 22, dig: ['logic', 6], sym: false, lo: 1250, hi: 1899, tier: 6, tierMax: 6, minHard: 4, maxHard: 4, target: 1500 },
+  legend:  { name: 'Légende',   blurb: 'Cinq murs ou plus — rare et impitoyable', rank: 9, group: 'ultime',
+             floor: 22, dig: ['logic', 6], sym: false, lo: 1400, hi: 1e9, tier: 6, tierMax: 6, minHard: 5, maxHard: 99, target: 1800 }
 };
 const LEVEL_KEYS = ['easy', 'medium', 'hard', 'expert', 'master', 'extreme', 'demonic', 'titan', 'legend'];
 
@@ -1227,8 +1235,10 @@ function attemptOnce(level) {
   const r = rate(givens);
   if (!r) return null;
   return {
-    givens, solution, level, score: r.score, tier: r.tier,
-    inBand: r.score >= conf.lo && r.score <= conf.hi && r.tier >= conf.tier
+    givens, solution, level, score: r.score, tier: r.tier, hard: r.hard,
+    inBand: r.score >= conf.lo && r.score <= conf.hi &&
+            r.tier >= conf.tier && r.tier <= conf.tierMax &&
+            r.hard >= conf.minHard && r.hard <= conf.maxHard
   };
 }
 
@@ -1238,7 +1248,12 @@ function attemptOnce(level) {
 const SAFETY_ATTEMPTS = 3000;
 
 function closeness(puzzle, conf) {
-  return Math.abs(puzzle.score - conf.target) + (puzzle.tier < conf.tier ? 400 : 0);
+  let gap = Math.abs(puzzle.score - conf.target);
+  if (puzzle.tier < conf.tier) gap += 400;             // technique trop simple
+  if (puzzle.tier > conf.tierMax) gap += 400;          // technique trop savante
+  if (puzzle.hard < conf.minHard) gap += 200 * (conf.minHard - puzzle.hard);
+  if (puzzle.hard > conf.maxHard) gap += 200 * (puzzle.hard - conf.maxHard);
+  return gap;
 }
 
 /* Dernier recours, jamais atteint en pratique : si aucune grille notable
@@ -1248,8 +1263,8 @@ function fallbackPuzzle(level, attempts) {
   const conf = LEVELS[level];
   const solution = completedGrid();
   const givens = digGrid(solution, { floor: conf.floor, dig: ['logic', 3], sym: false });
-  const r = rate(givens) || { score: 0, tier: 1 };
-  return { givens, solution, level, score: r.score, tier: r.tier, inBand: false, attempts };
+  const r = rate(givens) || { score: 0, tier: 1, hard: 0 };
+  return { givens, solution, level, score: r.score, tier: r.tier, hard: r.hard, inBand: false, attempts };
 }
 
 /* Version synchrone : on recommence jusqu'à obtenir une grille du niveau
@@ -1355,7 +1370,7 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.7.5';
+const APP_VERSION = '1.8.0';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };
