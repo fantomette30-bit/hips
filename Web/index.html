@@ -175,7 +175,9 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
 }
 .pill svg{width:12.5px;height:12.5px;fill:currentColor}
 .pill.warn{color:var(--danger)}
-.pill.clock{color:var(--ink); margin-left:auto; font-size:16px; padding:4px 11px}
+.pill.clock{color:var(--ink); margin-left:auto; font-size:16px; padding:4px 11px; position:relative}
+/* la pastille reste fine, mais la zone tactile de la pause fait 45 px de haut */
+.pill.clock::after{content:''; position:absolute; inset:-6px -4px}
 /* Écrans très étroits (320 px) : on rend un peu de place à la barre d'état */
 @media (max-width:340px){
   .pill{font-size:13px; gap:4px; padding:5px 8px}
@@ -287,6 +289,21 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
   flex:1 1 auto; min-height:0; display:flex; flex-direction:column; justify-content:center;
   gap:11px; padding-bottom:4px;
 }
+/* iPhone couché : la hauteur disponible ne suffit plus à empiler plateau,
+   outils et pavé — on les met côte à côte. Sans cela la grille se réduisait
+   à quelques pixels. */
+@media (orientation:landscape) and (max-height:520px){
+  #app{max-width:none}
+  .playfield{
+    display:grid; align-content:center; column-gap:14px; row-gap:10px;
+    grid-template-columns:auto minmax(240px,1fr);
+    grid-template-areas:"plateau outils" "plateau clavier";
+  }
+  .board-wrap{grid-area:plateau}
+  .tools{grid-area:outils}
+  .pad{grid-area:clavier}
+  .board{width:min(calc(100dvh - 118px), 460px)}
+}
 .tools{display:grid; grid-template-columns:repeat(4,1fr); gap:8px}
 .tool{
   padding:9px 4px 7px; border-radius:14px; background:var(--surface); border:1px solid var(--line);
@@ -373,6 +390,7 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
 .btn:active{transform:scale(.985)}
 .btn.ghost{background:transparent; color:var(--ink-2); font-weight:600; font-size:14.5px; padding:11px}
 .btn.danger{background:transparent; color:var(--danger); font-weight:600; font-size:14.5px}
+.btn.danger.armed{background:color-mix(in srgb, var(--danger) 12%, transparent); font-weight:700}
 
 #victory{
   position:fixed; inset:0; z-index:30; display:none; flex-direction:column;
@@ -380,6 +398,16 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
   background:var(--paper); text-align:center;
 }
 #victory.on{display:flex}
+/* Téléphone couché : l'écran de victoire ne tient pas en hauteur — on le
+   compacte et on autorise le défilement pour que les boutons restent
+   atteignables. */
+@media (orientation:landscape) and (max-height:520px){
+  #victory{justify-content:flex-start; overflow-y:auto; gap:10px; padding:16px}
+  .seal{width:54px; height:54px}
+  .seal svg{width:26px; height:26px}
+  #victory h2{font-size:23px}
+  #victory .tile{padding:9px 6px}
+}
 #confetti{position:absolute; inset:0; width:100%; height:100%; pointer-events:none}
 .seal{
   width:88px;height:88px;border-radius:50%; background:var(--brass-soft); color:var(--brass);
@@ -1321,7 +1349,7 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.7.3';
+const APP_VERSION = '1.7.4';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };
@@ -1986,7 +2014,17 @@ function runConfetti() {
   requestAnimationFrame(frame);
 }
 
+/* Effacer les statistiques est irréversible : le premier appui arme le bouton,
+   le second seulement efface. L'armement retombe tout seul au bout de 4 s. */
+let resetArmed = 0;
+function disarmReset() {
+  if (resetArmed) clearTimeout(resetArmed);
+  resetArmed = 0;
+  const b = $('#resetStats');
+  if (b) { b.textContent = 'Réinitialiser les statistiques'; b.classList.remove('armed'); }
+}
 function renderStats() {
+  disarmReset();
   const total = LEVEL_KEYS.reduce((a, l) => {
     const s = statOf(l);
     return { p: a.p + s.played, w: a.w + s.won, pts: a.pts + (s.points || 0) };
@@ -2080,7 +2118,19 @@ $('#menuRestart').addEventListener('click', () => { closeSheets(); restart(); })
 $('#menuQuit').addEventListener('click', () => { closeSheets(); quitGame(); });
 $('#vicHome').addEventListener('click', () => { $('#victory').classList.remove('on'); quitGame(); });
 $('#vicReview').addEventListener('click', () => { $('#victory').classList.remove('on'); });
-$('#resetStats').addEventListener('click', () => { stats = {}; LS.set('zen.stats', stats); renderStats(); renderHome(); });
+$('#resetStats').addEventListener('click', () => {
+  const b = $('#resetStats');
+  if (!resetArmed) {
+    b.textContent = 'Confirmer : tout effacer ?';
+    b.classList.add('armed');
+    resetArmed = setTimeout(disarmReset, 4000);
+    return;
+  }
+  disarmReset();
+  stats = {};
+  LS.set('zen.stats', stats);
+  renderStats(); renderHome();
+});
 document.querySelectorAll('#segTheme button').forEach(b => b.addEventListener('click', () => {
   settings.theme = b.dataset.theme;
   LS.set('zen.settings', settings);

@@ -100,7 +100,7 @@ self.addEventListener('fetch', event => {
 MANIFEST = {
     "name": "Sudoku Zen",
     "short_name": "Sudoku Zen",
-    "description": "Sudoku hors ligne à six niveaux, de facile à extrême.",
+    "description": "Sudoku hors ligne à neuf niveaux, de facile à légende.",
     "start_url": "./index.html",
     "scope": "./",
     "display": "standalone",

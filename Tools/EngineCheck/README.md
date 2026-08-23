@@ -20,9 +20,13 @@ ajoutée est prise en compte sans rien déclarer.
 | --- | --- |
 | `webengine.test.js` | génération des neuf niveaux : fourchette de score, unicité, résolution sans deviner, médianes croissantes |
 | `webfallback.test.js` | filet de sécurité : la recherche se termine toujours, même si aucune grille notable ne sort |
+| `webfuzz.test.js` | 3 000 gestes aléatoires sur trois niveaux : aucune exception, invariants tenus, grille toujours finissable |
+| `webprivacy.test.js` | aucune requête réseau, même page ouverte en ligne ; sauvegarde nettoyée après la victoire |
+| `webreset.test.js` | remise à zéro des statistiques : confirmation en deux temps, rien d'effacé par accident |
+| `weblandscape.test.js` | téléphone couché : accueil, feuille de statistiques et écran de victoire utilisables |
 | `webui.test.js` | parcours complet sur iPhone : accueil, partie, notes, indices, victoire |
 | `webultimate.test.js` | Démoniaque, Titan, Légende : annulation, fourchette, partie entière, statistiques, version |
-| `webregress.test.js` | revue de non-régression des corrections passées |
+| `webregress.test.js` | revue de non-régression des corrections passées, tailles de la barre et du pavé, disposition en paysage |
 | `webscore.test.js` | points, combos, bonus de fin, meilleur score |
 | `webnotes.test.js` | notes à position fixe et signalement des chiffres faux |
 | `webtheme.test.js` | thème Auto qui suit le téléphone, y compris sous un hôte imposant son thème |

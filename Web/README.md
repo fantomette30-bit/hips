@@ -11,9 +11,9 @@ s'affiche alors en plein écran, avec sa propre icône, et fonctionne sans rése
 **Ce qui est stocké** : la partie en cours, les statistiques et les réglages,
 dans le `localStorage` du navigateur — rien ne sort du téléphone.
 
-**Polices** : Fraunces et Manrope sont chargées depuis Google Fonts quand une
-connexion est disponible ; hors ligne, le jeu bascule proprement sur les polices
-système (Georgia / SF). Aucune autre ressource externe.
+**Polices** : uniquement celles du système (SF Pro pour le texte, New York /
+Georgia pour les titres). La page ne fait **aucune requête réseau** — pas même
+pour une police.
 
 ## Grilles illimitées
 

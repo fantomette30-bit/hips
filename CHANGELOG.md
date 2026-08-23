@@ -4,6 +4,22 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.7.4 — 23 août 2026
+- **Téléphone couché** : la grille se réduisait à quelques pixels quand
+  l'iPhone passait en mode paysage. Le plateau et les commandes se placent
+  désormais côte à côte, grille entière et pavé numérique bien visibles ;
+  l'écran de victoire, lui aussi trop haut, se compacte et défile pour que
+  ses boutons restent atteignables.
+- La zone tactile du chronomètre (bouton pause) est élargie à 45 px de haut
+  sans changer son apparence.
+- **Statistiques** : le bouton rouge « Réinitialiser les statistiques »
+  effaçait tout au premier appui. Il demande maintenant confirmation, et
+  revient de lui-même au repos si on n'y touche plus.
+- Le texte d'installation de l'app annonçait encore « six niveaux ».
+- Documentation : la page n'utilise que les polices du système, elle ne fait
+  aucune requête réseau — la description qui parlait de polices distantes
+  était fausse.
+
 ## 1.7.3 — 23 août 2026
 - Lisibilité de la barre de jeu : erreurs, indices et points passent de 12,5 à
   14,5 px, le chronomètre à 16 px, et les petits chiffres du pavé numérique de

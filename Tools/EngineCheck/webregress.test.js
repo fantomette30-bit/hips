@@ -158,6 +158,29 @@ const { chromium, devices } = require('playwright');
   check(pad.retabli.t === pad.affiche.t && pad.retabli.h === pad.affiche.h,
         'le pavé ne revient pas à l’identique après avoir masqué les compteurs');
 
+  // — iPhone couché : le plateau doit rester entier et jouable
+  const paysage = await ctx.newPage();
+  await paysage.setViewportSize({ width: 750, height: 342 });
+  await paysage.goto('file://' + require('path').join(__dirname, '../../Web/index.html'));
+  await paysage.waitForSelector('#levelList button');
+  await paysage.locator('#levelList button').nth(0).click();
+  await paysage.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 30000 });
+  const couche = await paysage.evaluate(() => {
+    const bd = document.getElementById('board').getBoundingClientRect();
+    const pad = document.getElementById('pad').getBoundingClientRect();
+    const marge = parseFloat(getComputedStyle(document.getElementById('app')).paddingBottom);
+    return {
+      plateau: Math.round(bd.width),
+      entier: bd.top >= 0 && bd.bottom <= window.innerHeight - marge + 1,
+      paveVisible: pad.right <= window.innerWidth && pad.bottom <= window.innerHeight,
+      defileH: Math.max(0, document.documentElement.scrollWidth - window.innerWidth)
+    };
+  });
+  check(couche.plateau >= 180, 'plateau écrasé en paysage (' + couche.plateau + ' px)');
+  check(couche.entier, 'le plateau dépasse de l’écran en paysage');
+  check(couche.paveVisible, 'le pavé numérique sort de l’écran en paysage');
+  check(couche.defileH === 0, 'défilement horizontal en paysage');
+
   await b.close();
   console.log(fails.length ? '\n' + fails.length + ' PROBLEME(S)' : '\nNON-REGRESSION REVUE : AUCUN PROBLEME');
   process.exit(fails.length ? 1 : 0);
