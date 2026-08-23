@@ -4,6 +4,17 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.7.5 — 23 août 2026
+- **Ligne fine dans la grille** : une ligne entièrement vide (ni chiffre ni
+  note) se tassait à moins de la moitié de la hauteur normale, et les autres
+  s'élargissaient d'autant ; tout rentrait dans l'ordre dès qu'un chiffre y
+  était posé. Les cases sont désormais carrées et les neuf lignes de hauteur
+  imposée : elles restent identiques quel que soit leur contenu.
+- Les chiffres et les notes se mesurent maintenant sur la largeur du plateau
+  et non sur celle de l'écran : taille inchangée en usage normal, mais plus de
+  chiffres trop grands pour leur case quand le plateau rétrécit (téléphone
+  couché, petit écran).
+
 ## 1.7.4 — 23 août 2026
 - **Téléphone couché** : la grille se réduisait à quelques pixels quand
   l'iPhone passait en mode paysage. Le plateau et les commandes se placent

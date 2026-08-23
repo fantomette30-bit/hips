@@ -1,7 +1,7 @@
 /* Service worker : met tout le jeu en cache à la première visite, puis sert
    toujours depuis le cache. Le jeu s'ouvre alors sans réseau, y compris
    lancé depuis l'écran d'accueil, et même après un redémarrage du téléphone. */
-const CACHE = 'sudoku-zen-833e82590a';
+const CACHE = 'sudoku-zen-d2ef507371';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-1024.png'];
 
 self.addEventListener('install', event => {

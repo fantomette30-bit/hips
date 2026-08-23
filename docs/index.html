@@ -217,13 +217,18 @@ color:var(--ink-2); padding:0 2px;
 .board{
   width:min(100%, calc(100dvh - 336px), 460px);
   aspect-ratio:1; display:grid; grid-template-columns:repeat(9,1fr);
+  /* hauteurs imposées : sans cela une ligne sans chiffre ni note se
+     tassait, et la grille paraissait déformée jusqu'à la saisie suivante */
+  grid-template-rows:repeat(9,1fr);
   background:var(--surface); border:2px solid var(--grid-strong); border-radius:14px;
-  overflow:hidden; box-shadow:var(--shadow); position:relative;
+  overflow:hidden; box-shadow:var(--shadow); position:relative; container-type:inline-size;
 }
 .cell{
-  position:relative; display:grid; place-items:center;
+  position:relative; display:grid; place-items:center; aspect-ratio:1;
   border-right:1px solid var(--grid-soft); border-bottom:1px solid var(--grid-soft);
-  font-size:clamp(18px,5.4vw,27px); font-weight:600; line-height:1;
+  /* repli pour un très vieux Safari qui ignorerait les unités « cqw » */
+  font-size:clamp(18px,5.4vw,27px);
+  font-size:clamp(18px,6.4cqw,27px); font-weight:600; line-height:1;
   font-variant-numeric:tabular-nums; letter-spacing:-.02em;
   color:var(--accent); background:transparent;
   transition:background-color .14s ease;
@@ -275,7 +280,8 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
 .notes{
   position:absolute; inset:1px; display:grid;
   grid-template-columns:repeat(3,1fr); grid-template-rows:repeat(3,1fr);
-  font-size:clamp(9px,2.7vw,12px); font-weight:600; color:var(--ink-2); line-height:1;
+  font-size:clamp(9px,2.7vw,12px);
+  font-size:clamp(8px,3.2cqw,12px); font-weight:600; color:var(--ink-2); line-height:1;
   font-variant-numeric:tabular-nums;
 }
 .notes i{display:grid; place-items:center; font-style:normal}
@@ -1351,7 +1357,7 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.7.4';
+const APP_VERSION = '1.7.5';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };
