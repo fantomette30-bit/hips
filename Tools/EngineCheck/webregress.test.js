@@ -121,6 +121,25 @@ const { chromium, devices } = require('playwright');
   });
   check(rSeq, 'pas de secousse dans une nouvelle partie sur une case déjà secouée');
 
+  // — barre d'état : compteurs et chronomètre lisibles, tenant sur une ligne
+  const hud = await p.evaluate(() => {
+    const px = sel => parseFloat(getComputedStyle(document.querySelector(sel)).fontSize);
+    document.querySelector('#pillPoints span').textContent = '12 345';
+    document.getElementById('clockText').textContent = '59:59';
+    const st = document.querySelector('.status');
+    const horloge = document.getElementById('pillClock').getBoundingClientRect();
+    return {
+      pastille: px('#pillMistakes'),
+      chrono: px('#pillClock'),
+      depasse: Math.round(horloge.right - st.getBoundingClientRect().right),
+      lignes: new Set([...st.children].map(e => Math.round(e.getBoundingClientRect().top))).size
+    };
+  });
+  check(hud.pastille >= 14, 'compteurs de la barre rapetissés (' + hud.pastille + ')');
+  check(hud.chrono >= 15.5, 'chronomètre rapetissé (' + hud.chrono + ')');
+  check(hud.depasse <= 0, 'la barre d’état déborde de ' + hud.depasse + ' px');
+  check(hud.lignes === 1, 'la barre d’état passe sur ' + hud.lignes + ' lignes');
+
   // — compteurs du pavé : agrandis, mais la touche garde sa taille
   const pad = await p.evaluate(() => {
     const key = () => document.querySelector('.key');
@@ -133,7 +152,7 @@ const { chromium, devices } = require('playwright');
     const retabli = { h: h(), t: span().textContent };
     return { affiche, masque, retabli };
   });
-  check(parseFloat(pad.affiche.px) >= 12, 'compteurs du pavé rapetissés (' + pad.affiche.px + ')');
+  check(parseFloat(pad.affiche.px) >= 13.5, 'compteurs du pavé rapetissés (' + pad.affiche.px + ')');
   check(pad.affiche.h === 56.8, 'la touche du pavé a changé de taille (' + pad.affiche.h + ')');
   check(pad.masque.t === '', 'le compteur reste affiché alors qu’il est désactivé');
   check(pad.retabli.t === pad.affiche.t && pad.retabli.h === pad.affiche.h,

@@ -170,18 +170,23 @@ button{font:inherit;color:inherit;border:0;background:none;padding:0;cursor:poin
 
 .status{display:flex; align-items:center; gap:7px}
 .pill{
-  display:inline-flex; align-items:center; gap:5px;
+  display:inline-flex; align-items:center; gap:5px; flex:0 0 auto; white-space:nowrap;
   padding:5px 10px; border-radius:999px; background:var(--surface); border:1px solid var(--line);
-  font-size:12.5px; font-weight:600; color:var(--ink-2); font-variant-numeric:tabular-nums;
+  font-size:14.5px; font-weight:600; color:var(--ink-2); font-variant-numeric:tabular-nums;
 }
-.pill svg{width:11px;height:11px;fill:currentColor}
+.pill svg{width:12.5px;height:12.5px;fill:currentColor}
 .pill.warn{color:var(--danger)}
-.pill.clock{color:var(--ink); margin-left:auto}
+.pill.clock{color:var(--ink); margin-left:auto; font-size:16px; padding:4px 11px}
+/* Écrans très étroits (320 px) : on rend un peu de place à la barre d'état */
+@media (max-width:340px){
+  .pill{font-size:13px; gap:4px; padding:5px 8px}
+  .pill.clock{font-size:14px; padding:4px 9px}
+}
 .pill.score{color:var(--brass); position:relative}
 .pill.score b{font-variant-numeric:tabular-nums}
 #pointsFlash{
 position:absolute; left:50%; top:-2px; transform:translate(-50%,0);
-font-size:12px; font-weight:800; font-style:normal; color:var(--brass);
+font-size:13.5px; font-weight:800; font-style:normal; color:var(--brass);
 opacity:0; pointer-events:none; white-space:nowrap;
 }
 #pointsFlash.up{animation:flyUp .9s ease-out}
@@ -304,7 +309,7 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
   align-items:center; justify-content:center; gap:1px;
 }
 .key b{font-size:23px; font-weight:600; line-height:1; font-variant-numeric:tabular-nums}
-.key span{font-size:12px; line-height:1.15; color:var(--ink-3); font-variant-numeric:tabular-nums}
+.key span{font-size:13.5px; line-height:13.8px; color:var(--ink-3); font-variant-numeric:tabular-nums}
 .key:active{transform:scale(.94)}
 .key.done b{color:var(--ink-3)}
 .key.done span{color:var(--brass)}
@@ -1318,7 +1323,7 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.7.2';
+const APP_VERSION = '1.7.3';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };

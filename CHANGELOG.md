@@ -4,6 +4,16 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.7.3 — 23 août 2026
+- Lisibilité de la barre de jeu : erreurs, indices et points passent de 12,5 à
+  14,5 px, le chronomètre à 16 px, et les petits chiffres du pavé numérique de
+  12 à 13,5 px. Le gain de points affiché à chaque bonne case suit la même
+  échelle.
+- La grille, elle, garde exactement la même taille : mesuré sur iPhone 13,
+  13 Mini, 12 Pro Max et sur un écran étroit de 320 px, sans défilement ni
+  débordement. Les écrans très étroits reçoivent une taille légèrement réduite
+  pour que la barre tienne toujours sur une ligne.
+
 ## 1.7.2 — 23 août 2026
 - Les petits chiffres sous le pavé numérique — combien de fois chaque chiffre
   reste à placer — sont agrandis (9,5 → 12 px), plus lisibles le soir sans rien
