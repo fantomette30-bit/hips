@@ -7,7 +7,7 @@ const fs = require('fs'), path = require('path');
 const html = fs.readFileSync(path.join(__dirname, '../../Web/index.html'), 'utf8');
 const src = html.match(/<script id="engine">([\s\S]*?)<\/script>/)[1];
 const E = {};
-new Function('module', src + '\nmodule.exports = { candidates, nextStep, applyStep, generate, LEVELS, LEVEL_KEYS };')(
+new Function('module', src + '\nmodule.exports = { candidates, nextStep, applyStep, logicalSolve, generate, LEVELS, LEVEL_KEYS };')(
   { set exports(v) { Object.assign(E, v); }, get exports() { return E; } });
 
 const N = Number(process.argv[2] || 6);
@@ -58,6 +58,24 @@ for (const lvl of E.LEVEL_KEYS) {
     '   ' + Math.min(...ind) + '-' + Math.max(...ind));
 }
 
+/* L'escalier, mesuré : chaque niveau doit être hors de portée du palier
+   inférieur et résoluble au sien. */
+console.log('\n  niveau       hors de portée du palier inférieur ?  résoluble au sien ?');
+let escalier = 0;
+for (const lvl of E.LEVEL_KEYS) {
+  const c = E.LEVELS[lvl];
+  const g = E.generate(lvl, 3000).givens;
+  // les paliers 1 et 2 partagent le même solveur (candidats évidents et
+  // cachés) : la comparaison n'a de sens qu'à partir de Difficile
+  const comparable = c.tier > 2;
+  const dessous = comparable ? E.logicalSolve(g.slice(), c.tier - 1) : false;
+  const sien = E.logicalSolve(g.slice(), c.tierMax);
+  const ok = (!comparable || !dessous) && sien;
+  if (!ok) escalier++;
+  console.log('  ' + c.name.padEnd(14) + (comparable ? (dessous ? 'NON — trop facile' : 'oui') : '—').padEnd(38) +
+              (sien ? 'oui' : 'NON'));
+}
+
 /* Verdict : la difficulté doit monter, pas stagner. */
 const durs = [], murs = [], scores = [];
 for (const lvl of E.LEVEL_KEYS) {
@@ -72,5 +90,6 @@ for (let i = 1; i < durs.length; i++) {
   check(scores[i] > scores[i - 1], 'plancher de score en recul entre ' + E.LEVEL_KEYS[i - 1] + ' et ' + E.LEVEL_KEYS[i]);
   check(durs[i] > durs[i - 1] || murs[i] > murs[i - 1], 'aucune marche entre ' + E.LEVEL_KEYS[i - 1] + ' et ' + E.LEVEL_KEYS[i]);
 }
-console.log(fails ? '\n' + fails + ' PROBLEME(S)' : '\nECHELLE : chaque niveau ajoute une marche (technique ou mur)');
+check(escalier === 0, escalier + ' niveau(x) ne collent pas à leur palier');
+console.log(fails ? '\n' + fails + ' PROBLEME(S)' : '\nECHELLE : chaque niveau ajoute une marche (technique ou mur) et colle à son palier');
 process.exit(fails ? 1 : 0);
