@@ -4,6 +4,15 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.9.0 — 23 août 2026
+- **Verrou de note** : en mode Notes, appuyez une fois sur un chiffre — il
+  reste « en main », mis en avant sur le pavé. Touchez ensuite les cases : la
+  note s'y pose (ou s'en retire) sans repasser par le pavé. Un nouvel appui
+  sur le même chiffre relâche le verrou, tout comme la sortie du mode Notes.
+  Les cases qui portent déjà cette note sont discrètement cerclées.
+- **Touches du pavé plus hautes** : 57 → 72 px, plus faciles à viser. La
+  grille garde exactement la même taille.
+
 ## 1.8.1 — 23 août 2026
 - Deux descriptions de niveaux (Extrême et Légende) débordaient sur deux
   lignes : leurs cartes étaient plus hautes que les autres sur l'accueil.

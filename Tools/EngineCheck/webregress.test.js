@@ -153,7 +153,9 @@ const { chromium, devices } = require('playwright');
     return { affiche, masque, retabli };
   });
   check(parseFloat(pad.affiche.px) >= 13.5, 'compteurs du pavé rapetissés (' + pad.affiche.px + ')');
-  check(pad.affiche.h === 56.8, 'la touche du pavé a changé de taille (' + pad.affiche.h + ')');
+  check(pad.affiche.h >= 66, 'les touches du pavé ont rapetissé (' + pad.affiche.h + ')');
+  check(pad.masque.h === pad.affiche.h,
+        'la touche change de taille quand les compteurs sont masqués (' + pad.masque.h + ')');
   check(pad.masque.t === '', 'le compteur reste affiché alors qu’il est désactivé');
   check(pad.retabli.t === pad.affiche.t && pad.retabli.h === pad.affiche.h,
         'le pavé ne revient pas à l’identique après avoir masqué les compteurs');

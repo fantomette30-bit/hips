@@ -30,6 +30,7 @@ ajoutée est prise en compte sans rien déclarer.
 | `webultimate.test.js` | Démoniaque, Titan, Légende : annulation, fourchette, partie entière, statistiques, version |
 | `webregress.test.js` | revue de non-régression des corrections passées, tailles de la barre et du pavé, disposition en paysage |
 | `webscore.test.js` | points, combos, bonus de fin, meilleur score |
+| `webnotelock.test.js` | verrou de note : chiffre gardé en main, pose d'un appui, bascule, relâche, cases fixes épargnées |
 | `webnotes.test.js` | notes à position fixe et signalement des chiffres faux |
 | `webtheme.test.js` | thème Auto qui suit le téléphone, y compris sous un hôte imposant son thème |
 | `webmigration.test.js` | anciennes sauvegardes et transitions de version |

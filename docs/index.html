@@ -328,8 +328,8 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
 .pad{display:grid; grid-template-columns:repeat(9,1fr); gap:5px}
 .key{
   border-radius:12px; background:var(--surface); border:1px solid var(--line);
-  padding:10px 0 7px; min-height:52px; display:flex; flex-direction:column;
-  align-items:center; justify-content:center; gap:1px;
+  padding:15px 0 12px; min-height:72px; display:flex; flex-direction:column;
+  align-items:center; justify-content:center; gap:2px;
 }
 .key b{font-size:23px; font-weight:600; line-height:1; font-variant-numeric:tabular-nums}
 .key span{font-size:13.5px; line-height:13.8px; color:var(--ink-3); font-variant-numeric:tabular-nums}
@@ -338,6 +338,10 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
 .key.done span{color:var(--brass)}
 .pad.notes-on .key{background:var(--accent-soft); border-color:color-mix(in srgb, var(--accent) 28%, transparent)}
 .pad.notes-on .key b{color:var(--accent)}
+/* chiffre verrouillé : on le pose ensuite d'un simple appui sur les cases */
+.pad.notes-on .key.locked{background:var(--accent); border-color:var(--accent)}
+.pad.notes-on .key.locked b, .pad.notes-on .key.locked span{color:var(--accent-ink)}
+.cell.noted:not(.sel){box-shadow:inset 0 0 0 2px color-mix(in srgb, var(--accent) 40%, transparent)}
 
 /* ---------- Feuilles et surcouches ---------- */
 .sheet{
@@ -1380,13 +1384,18 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.8.1';
+const APP_VERSION = '1.9.0';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true };
 let settings = Object.assign({}, DEFAULTS, LS.get('zen.settings', {}));
 let stats = LS.get('zen.stats', {});
 let G = null;
+/* Verrou de note : en mode Notes, un appui sur un chiffre le « garde en main ».
+   Il suffit ensuite de toucher les cases pour y poser (ou retirer) cette note,
+   sans revenir au pavé. Un nouvel appui sur le même chiffre relâche le verrou. */
+let noteLock = 0;
+function setNoteLock(d) { noteLock = d; renderGame(); }
 let confettiStop = 0;
 let hintCells = [];
 
@@ -1539,6 +1548,7 @@ function startGame(level) {
       const abandoned = readSaved();
       if (abandoned) bumpStat(abandoned.puzzle.level, s => { s.streak = 0; });
       bumpStat(level, s => { s.played++; });
+      noteLock = 0;
       G = {
         puzzle: puzzle, values: puzzle.givens.slice(), notes: new Array(N).fill(0), history: [],
         sel: null, noteMode: false, mistakes: 0, hints: 0, elapsed: 0, paused: false, complete: false,
@@ -1562,6 +1572,7 @@ function cancelGeneration() {
 function resumeGame() {
   const s = readSaved();
   if (!s) { LS.del('zen.game'); renderHome(); return; }
+  noteLock = 0;
   G = {
     puzzle: s.puzzle, values: s.values.slice(), notes: s.notes.slice(), history: [],
     sel: null, noteMode: false, mistakes: s.mistakes || 0, hints: s.hints || 0,
@@ -1899,8 +1910,14 @@ board.addEventListener('click', e => {
   const cell = e.target.closest('.cell');
   if (!cell) return;
   const i = +cell.dataset.i;
-  G.sel = (G.sel === i) ? null : i;
   clearHint();
+  if (G.noteMode && noteLock && !isGiven(i) && G.values[i] === 0) {
+    G.sel = i;                       // chiffre gardé en main : on le pose ici
+    inputDigit(noteLock);
+    if (navigator.vibrate) navigator.vibrate(5);
+    return;
+  }
+  G.sel = (G.sel === i) ? null : i;
   renderGame();
 });
 
@@ -1909,7 +1926,16 @@ for (let d = 1; d <= 9; d++) {
   const k = document.createElement('button');
   k.className = 'key';
   k.innerHTML = '<b>' + d + '</b><span></span>';
-  k.addEventListener('click', () => { inputDigit(d); if (navigator.vibrate) navigator.vibrate(6); });
+  k.addEventListener('click', () => {
+    if (navigator.vibrate) navigator.vibrate(6);
+    if (G && !G.paused && !G.complete && G.noteMode) {
+      if (noteLock === d) { setNoteLock(0); return; }   // second appui : on relâche
+      setNoteLock(d);
+      if (G.sel !== null && !isGiven(G.sel) && G.values[G.sel] === 0) inputDigit(d);
+      return;
+    }
+    inputDigit(d);
+  });
   pad.appendChild(k);
 }
 
@@ -1943,6 +1969,7 @@ function renderGame() {
     else if (hintCells.indexOf(i) >= 0) cls += ' hint';
     else if (settings.same && v !== 0 && v === selValue) cls += ' same';
     else if (settings.peers && sel !== null && sel !== i && PEERS[sel].indexOf(i) >= 0) cls += ' peer';
+    if (G.noteMode && noteLock && has(G.notes[i], noteLock)) cls += ' noted';
     if (flashCells.has(i)) {
       cls += ' unit-done';
       el.style.animationDelay = flashCells.get(i) + 'ms';
@@ -2002,6 +2029,8 @@ function renderGame() {
   for (let d = 1; d <= 9; d++) {
     const key = pad.children[d - 1], left = remainingOf(d);
     key.classList.toggle('done', left === 0);
+    key.classList.toggle('locked', G.noteMode && noteLock === d);
+    key.setAttribute('aria-pressed', G.noteMode && noteLock === d ? 'true' : 'false');
     key.lastElementChild.textContent = settings.counts ? (left === 0 ? '✓' : String(left)) : '';
   }
 }
@@ -2141,7 +2170,7 @@ $('#pillClock').addEventListener('click', () => { if (G && !G.complete) { G.paus
 $('#closeHint').addEventListener('click', () => { clearHint(); renderGame(); });
 $('#toolUndo').addEventListener('click', undo);
 $('#toolErase').addEventListener('click', erase);
-$('#toolNotes').addEventListener('click', () => { if (!G) return; G.noteMode = !G.noteMode; renderGame(); });
+$('#toolNotes').addEventListener('click', () => { if (!G) return; G.noteMode = !G.noteMode; noteLock = 0; renderGame(); });
 $('#toolHint').addEventListener('click', useHint);
 $('#menuPause').addEventListener('click', () => { closeSheets(); if (G && !G.complete) { G.paused = true; renderGame(); } });
 $('#menuNotes').addEventListener('click', () => { closeSheets(); fillNotes(); });
@@ -2173,7 +2202,7 @@ document.addEventListener('keydown', e => {
   const k = e.key.toLowerCase();
   if (e.key >= '1' && e.key <= '9') inputDigit(+e.key);
   else if (e.key === 'Backspace' || e.key === 'Delete') erase();
-  else if (k === 'n') { G.noteMode = !G.noteMode; renderGame(); }
+  else if (k === 'n') { G.noteMode = !G.noteMode; noteLock = 0; renderGame(); }
   else if (k === 'h') useHint();
   else if (k === 'z') undo();
 });

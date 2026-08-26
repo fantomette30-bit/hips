@@ -34,6 +34,7 @@ le sas récupère la nouvelle version à la première ouverture avec du réseau.
 **Jeu**
 - Grille 9×9 dessinée sur mesure, surlignage de la ligne, de la colonne, du bloc et des chiffres identiques.
 - Mode notes à position fixe (1 en haut à gauche … 9 en bas à droite), effacement automatique des notes des cases voisines, remplissage automatique des notes.
+- **Verrou de note** : en mode Notes, un appui sur un chiffre le garde en main ; il suffit ensuite de toucher les cases pour y poser cette note. Les cases qui la portent déjà sont cerclées.
 - Annulation illimitée, gomme, chronomètre avec pause, compteur d'erreurs.
 - Pavé numérique avec compteur de chiffres restants (un chiffre placé neuf fois se grise).
 - Chiffre faux signalé par la couleur **et** par la forme : secousse à la saisie, cercle autour du chiffre tant qu'il n'est pas corrigé.
