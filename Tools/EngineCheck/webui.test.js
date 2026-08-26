@@ -52,7 +52,9 @@ const { chromium, devices } = require('playwright');
   await page.locator('#levelList button').nth(8).click();
   await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 45000 });
   const lInfo = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, tier: G.puzzle.tier, murs: G.puzzle.hard }));
-  check(lInfo.lvl === 'legend' && lInfo.score >= 1500 && lInfo.tier === 6 && lInfo.murs >= 5, 'grille légende non conforme: ' + JSON.stringify(lInfo));
+  const cibleL = await page.evaluate(() => ({ lo: LEVELS.legend.lo, tier: LEVELS.legend.tier, min: LEVELS.legend.minHard }));
+  check(lInfo.lvl === 'legend' && lInfo.score >= cibleL.lo && lInfo.tier === cibleL.tier && lInfo.murs >= cibleL.min,
+        'grille légende non conforme: ' + JSON.stringify(lInfo) + ' (attendu ≥' + cibleL.lo + ', palier ' + cibleL.tier + ', ' + cibleL.min + ' murs)');
   console.log('  légende générée en', Date.now() - tL, 'ms —', JSON.stringify(lInfo));
   console.log('  extrême généré en', extremeMs, 'ms —', JSON.stringify(xInfo));
   await page.screenshot({ path: 'shot-extreme.png' });

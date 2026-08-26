@@ -71,9 +71,15 @@ const URL = 'file://' + path.join(__dirname, '../../Web/index.html');
   const info = await page.evaluate(() => ({ lvl: G.puzzle.level, score: G.puzzle.score, tier: G.puzzle.tier, murs: G.puzzle.hard,
                                             givens: G.puzzle.givens.filter(v => v).length }));
   check(info.lvl === 'demonic', 'le niveau lancé n’est pas Démoniaque');
-  check(info.score >= 1150 && info.score <= 1699, 'Démoniaque hors fourchette : ' + info.score);
-  check(info.tier === 6, 'Démoniaque : palier inattendu (' + info.tier + ')');
-  check(info.murs === 3, 'Démoniaque : ' + info.murs + ' murs au lieu de trois');
+  // la fourchette est lue dans le jeu : elle ne peut plus se désynchroniser
+  const cible = await page.evaluate(() => ({ lo: LEVELS.demonic.lo, hi: LEVELS.demonic.hi,
+                                             min: LEVELS.demonic.minHard, max: LEVELS.demonic.maxHard,
+                                             tier: LEVELS.demonic.tier }));
+  check(info.score >= cible.lo && info.score <= cible.hi,
+        'Démoniaque hors fourchette : ' + info.score + ' (attendu ' + cible.lo + '-' + cible.hi + ')');
+  check(info.tier === cible.tier, 'Démoniaque : palier inattendu (' + info.tier + ')');
+  check(info.murs >= cible.min && info.murs <= cible.max,
+        'Démoniaque : ' + info.murs + ' murs au lieu de ' + cible.min);
   console.log('  Démoniaque :', JSON.stringify(info));
 
   // 3. la grille se termine entièrement aux indices (aucune impasse)

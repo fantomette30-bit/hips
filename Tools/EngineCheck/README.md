@@ -31,6 +31,7 @@ ajoutée est prise en compte sans rien déclarer.
 | `webregress.test.js` | revue de non-régression des corrections passées, tailles de la barre et du pavé, disposition en paysage |
 | `webscore.test.js` | points, combos, bonus de fin, meilleur score |
 | `webnotelock.test.js` | verrou de note : chiffre gardé en main, pose d'un appui, bascule, relâche, cases fixes épargnées |
+| `webnotelock2.test.js` | le verrou face aux autres commandes : pause, gomme, indice, remplissage des notes, recommencer, reprise, victoire |
 | `webnotes.test.js` | notes à position fixe et signalement des chiffres faux |
 | `webtheme.test.js` | thème Auto qui suit le téléphone, y compris sous un hôte imposant son thème |
 | `webmigration.test.js` | anciennes sauvegardes et transitions de version |

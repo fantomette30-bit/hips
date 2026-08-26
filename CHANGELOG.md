@@ -4,6 +4,14 @@ Le numéro de la version installée est visible dans **Réglages → Version**.
 Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
 la nouvelle version est active au lancement suivant.
 
+## 1.9.1 — 23 août 2026
+- Le verrou de note se relâche aussi quand on recommence la partie depuis le
+  menu (il survivait au « Recommencer »).
+- Contrôles : deux suites de tests comparaient encore les grilles à des seuils
+  écrits en dur, désormais périmés depuis le remaniement des niveaux ; elles
+  lisent maintenant les fourchettes directement dans le jeu, si bien qu'elles
+  ne peuvent plus se désynchroniser.
+
 ## 1.9.0 — 23 août 2026
 - **Verrou de note** : en mode Notes, appuyez une fois sur un chiffre — il
   reste « en main », mis en avant sur le pavé. Touchez ensuite les cases : la
