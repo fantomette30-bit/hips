@@ -26,6 +26,7 @@ ajoutée est prise en compte sans rien déclarer.
 | `webladder.test.js` | échelle de difficulté : palier exigé et nombre de murs croissants, profil mesuré niveau par niveau |
 | `webgrid.test.js` | hauteur des neuf lignes de la grille, y compris une ligne vide ou seulement annotée |
 | `weblandscape.test.js` | téléphone couché : accueil, feuille de statistiques et écran de victoire utilisables |
+| `webpartie.test.js` | une partie de bout en bout comme au doigt : saisie, notes au verrou, erreur, gomme, annulation, indice, reprise, victoire |
 | `webui.test.js` | parcours complet sur iPhone : accueil, partie, notes, indices, victoire |
 | `webultimate.test.js` | Démoniaque, Titan, Légende : annulation, fourchette, partie entière, statistiques, version |
 | `webregress.test.js` | revue de non-régression des corrections passées, tailles de la barre et du pavé, disposition en paysage |
