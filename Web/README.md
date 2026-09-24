@@ -119,12 +119,14 @@ Deux façons de le publier :
 
 * **Vercel** (celle en service) — un sas décrit dans
   [Tools/vercel-shell](../Tools/vercel-shell/README.md) sert le jeu depuis le
-  cache et va chercher tout seul la dernière version publiée dans `docs/`. Une
-  poussée sur la branche suffit donc à mettre à jour l'app installée.
-* **GitHub Pages** (copie de secours) — *Settings → Pages → Source : GitHub
-  Actions* : le workflow `.github/workflows/pages.yml` publie alors `docs/` à
-  chaque envoi sur la branche publiée. Tant que Pages n'est pas activé, il
-  s'arrête avec une simple note au lieu d'échouer.
+  cache et va chercher tout seul la dernière version publiée sur le site
+  lui-même, sans passer par GitHub. Une version envoyée à Vercel met donc à
+  jour l'app installée.
+* **GitHub Pages** (copie de secours, sans lien avec le site Vercel) —
+  *Settings → Pages → Source : GitHub Actions* : le workflow
+  `.github/workflows/pages.yml` publie alors `docs/` à chaque envoi sur la
+  branche publiée. Tant que Pages n'est pas activé, il s'arrête avec une simple
+  note au lieu d'échouer.
 
 `docs/` est généré, ne l'éditez pas à la main :
 
@@ -139,7 +141,7 @@ npm i playwright        # une fois
 node Tools/EngineCheck/<suite>.test.js
 ```
 
-Vingt-six suites, chacune autonome et silencieuse quand tout va bien. La liste
+Vingt-sept suites, chacune autonome et silencieuse quand tout va bien. La liste
 complète et ce que couvre chaque suite : [Tools/EngineCheck/README.md](../Tools/EngineCheck/README.md).
 
 Les plus parlantes :
@@ -151,7 +153,8 @@ Les plus parlantes :
   reprise après rechargement, thème sombre.
 * `weboffline` — sert `docs/`, laisse le service worker s'installer, **tue le
   serveur**, coupe le réseau, puis rouvre le jeu et termine une partie.
-* `webshell` — monte le sas Vercel à neuf et vérifie la mise à jour automatique.
+* `webshell` — construit le site comme Vercel, puis vérifie le jeu servi hors
+  ligne et l'absence de toute requête vers un autre site.
 * `webrobustness` — les cas tordus : sauvegarde ou statistiques corrompues,
   annulation d'une génération, double appui sur deux niveaux, 40 saisies puis
   annulation complète, cases fixes, notes sur case remplie, pause, victoire
@@ -165,3 +168,5 @@ Les plus parlantes :
 * `webwakelock` — écran allumé : pris en partie, rendu en pause, à l'accueil,
   à la victoire, en arrière-plan et après cinq minutes sans geste.
 * `webupdate` — mise à jour en un geste, à travers le vrai sas.
+* `webmigrationsas` — bascule d'un iPhone déjà installé de l'ancien sas
+  (mises à jour lues sur GitHub) vers le sas autonome.

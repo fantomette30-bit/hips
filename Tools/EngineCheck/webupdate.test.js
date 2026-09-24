@@ -1,38 +1,24 @@
 /* Mise à jour en un geste : le sas (Tools/vercel-shell) range en silence la
-   dernière version publiée dans le cache ; l'accueil doit alors proposer de
-   l'installer tout de suite, sans perdre la partie en cours — et ne rien
-   proposer quand le cache contient la même version ou une plus ancienne.
+   dernière version publiée sur son propre site ; l'accueil doit alors
+   proposer de l'installer tout de suite, sans perdre la partie en cours — et
+   ne rien proposer quand le site publie la même version ou une plus ancienne.
 
-   Le sas est monté à neuf depuis les sources du dépôt, mais sa source de
-   mise à jour (normalement GitHub) est redirigée vers un fichier local dont
-   le test choisit la version : l'essai ne dépend ni du réseau ni de ce qui
-   est publié. */
+   Le site est reconstruit avec la construction même de Vercel, puis servi en
+   local ; « publier » une version revient à remplacer son game.html. */
 const { chromium, devices } = require('playwright');
-const { spawn } = require('child_process');
+const { spawn, execFileSync } = require('child_process');
 const fs = require('fs'), os = require('os'), path = require('path');
 
 const ROOT = path.join(__dirname, '../..');
 const PORT = 8899;
-const DIR = fs.mkdtempSync(path.join(os.tmpdir(), 'sudoku-maj-'));
-const GAME = fs.readFileSync(path.join(ROOT, 'docs/index.html'), 'utf8');
+const SRC = fs.mkdtempSync(path.join(os.tmpdir(), 'sudoku-maj-'));
+require('../vercel-shell/deploiement.js').assemble(SRC);    // les fichiers envoyés à Vercel
+execFileSync('node', ['build.js'], { cwd: SRC, stdio: 'ignore' });
+const DIR = path.join(SRC, 'public');
+const GAME = fs.readFileSync(path.join(DIR, 'game.html'), 'utf8');
 const CURRENT = GAME.match(/const APP_VERSION = '([\d.]+)'/)[1];
 const withVersion = v => GAME.replace(/const APP_VERSION = '[\d.]+'/, "const APP_VERSION = '" + v + "'");
-
-const sw = fs.readFileSync(path.join(ROOT, 'Tools/vercel-shell/sw.js'), 'utf8');
-if (!/const LATEST = 'https:\/\/raw\.githubusercontent\.com\/[^']+'/.test(sw)) {
-  console.error('webupdate : adresse LATEST introuvable dans sw.js, adapter le test');
-  process.exit(1);
-}
-fs.writeFileSync(path.join(DIR, 'sw.js'),
-  sw.replace(/const LATEST = '[^']+'/, "const LATEST = 'http://localhost:" + PORT + "/latest.html'"));
-for (const [from, to] of [
-  ['Tools/vercel-shell/index.html', 'index.html'],
-  ['docs/index.html', 'game.html'],
-  ['docs/manifest.webmanifest', 'manifest.webmanifest'],
-  ['docs/icon-180.png', 'icon-180.png']
-]) {
-  fs.copyFileSync(path.join(ROOT, from), path.join(DIR, to));
-}
+const publish = v => fs.writeFileSync(path.join(DIR, 'game.html'), withVersion(v));
 
 (async () => {
   const server = spawn('python3', ['-m', 'http.server', String(PORT), '--directory', DIR], { stdio: 'ignore' });
@@ -41,24 +27,30 @@ for (const [from, to] of [
   const fails = [];
   const check = (c, m) => { if (!c) { fails.push(m); console.log('  ECHEC:', m); } };
 
-  /* Ouvre le sas dans un contexte neuf (cache et service worker vierges),
-     la version « publiée » valant `published`. */
+  /* Installe le jeu (version du dépôt) dans un contexte neuf, publie ensuite
+     la version `published` sur le site, puis rouvre l'app : le service worker
+     va chercher la version publiée pendant cette ouverture. */
   const open = async published => {
-    fs.writeFileSync(path.join(DIR, 'latest.html'), withVersion(published));
+    publish(CURRENT);
     const ctx = await browser.newContext({ ...devices['iPhone 13'] });
     const page = await ctx.newPage();
     page.on('pageerror', e => fails.push('exception JS (' + published + '): ' + e.message));
     await page.goto('http://localhost:' + PORT + '/');
     await page.waitForSelector('#levelList button', { timeout: 25000 });
+    publish(published);
+    await page.reload();
+    await page.waitForSelector('#levelList button', { timeout: 25000 });
     return { ctx, page };
   };
 
   try {
-    // 1. une version plus récente attend dans le cache : elle est proposée
+    // 1. une version plus récente est publiée : elle est proposée
     {
       const { ctx, page } = await open('99.0.0');
+      const running = await page.locator('#appVersion').textContent();
+      check(running === CURRENT, 'la nouvelle version tourne avant même d’être proposée (' + running + ')');
       await page.waitForSelector('#updateCard:not([hidden])', { timeout: 20000 })
-        .catch(() => check(false, 'version plus récente en cache : aucune proposition sur l’accueil'));
+        .catch(() => check(false, 'version plus récente publiée : aucune proposition sur l’accueil'));
       const title = await page.locator('#updateTitle').textContent();
       check(/99\.0\.0/.test(title), 'la carte n’annonce pas le bon numéro : ' + title);
       console.log('  carte affichée :', JSON.stringify(title));
@@ -101,14 +93,14 @@ for (const [from, to] of [
       await page.evaluate(() => lookForUpdate());
       await page.waitForTimeout(400);
       const shown = await page.locator('#updateCard').isVisible();
-      check(!shown, 'version ' + published + ' en cache : une mise à jour est proposée à tort');
-      console.log('  version ' + published + ' en cache : carte ' + (shown ? 'affichée' : 'absente'));
+      check(!shown, 'version ' + published + ' publiée : une mise à jour est proposée à tort');
+      console.log('  version ' + published + ' publiée : carte ' + (shown ? 'affichée' : 'absente'));
       await ctx.close();
     }
   } finally {
     await browser.close();
     server.kill('SIGKILL');
-    fs.rmSync(DIR, { recursive: true, force: true });
+    fs.rmSync(SRC, { recursive: true, force: true });
   }
   console.log(fails.length ? '\n' + fails.length + ' PROBLEME(S)' : '\nMISE A JOUR EN UN GESTE : AUCUN PROBLEME');
   process.exit(fails.length ? 1 : 0);

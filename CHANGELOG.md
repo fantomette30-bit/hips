@@ -6,9 +6,14 @@ l'accueil annonce la nouvelle version quelques secondes plus tard et l'installe
 d'un appui (sinon, elle s'applique au lancement suivant).
 
 ## 1.10.0 — 24 septembre 2026
-Publiée le jour même sur la branche de l'app et sur Vercel (projet
-`sudoku-zen-app` redéployé : le site embarque directement cette version).
+Publiée le jour même sur Vercel (projet `sudoku-zen-app`).
 
+- **Plus aucune dépendance à GitHub** : le site Vercel embarque tous les
+  fichiers du jeu, et l'app installée va chercher ses mises à jour sur ce même
+  site. La bascule se fait seule, à la prochaine ouverture avec du réseau ; la
+  partie en cours, les statistiques et les réglages sont conservés.
+- **Installation sans compte** : le site est public, il n'est plus nécessaire de
+  se connecter à Vercel pour installer le jeu.
 - **L'écran reste allumé pendant la partie** : l'iPhone ne se met plus en
   veille au milieu d'une longue réflexion (app installée, iOS 18.4 ou plus
   récent). L'écran est rendu dès qu'on met en pause, qu'on gagne, qu'on revient
@@ -40,10 +45,11 @@ Publiée le jour même sur la branche de l'app et sur Vercel (projet
   Pages est actif avant de publier et s'arrête sinon avec une note ; ses
   composants passent aux versions qui tournent sous Node 24, GitHub ayant
   retiré Node 20 le 23 septembre 2026.
-- Contrôles : quatre nouvelles suites (écran allumé, mise à jour, réserve de
-  grilles, conforts de la 1.10). Le test du sas ne dépend plus de la version
-  publiée en ligne, et celui de la vie privée ne compte que les vraies sorties
-  réseau. Le contrôle de l'ordre des niveaux calcule ses médianes sur douze
+- Contrôles : cinq nouvelles suites (écran allumé, mise à jour, réserve de
+  grilles, conforts de la 1.10, bascule vers le sas autonome). Le test du sas
+  reconstruit le site exactement comme Vercel et vérifie qu'aucune requête ne
+  part vers un autre site ; celui de la vie privée ne compte que les vraies
+  sorties réseau. Le contrôle de l'ordre des niveaux calcule ses médianes sur douze
   grilles au lieu de quatre : il échouait par pur hasard d'échantillon dans
   environ 3 % des exécutions (0,1 % désormais, pour la même durée).
 

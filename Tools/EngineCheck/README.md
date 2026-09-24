@@ -38,9 +38,10 @@ ajoutée est prise en compte sans rien déclarer.
 | `webmigration.test.js` | anciennes sauvegardes et transitions de version |
 | `webrobustness.test.js` | sauvegardes corrompues, annulations, double appui, stockage indisponible, clavier |
 | `weboffline.test.js` | service worker : serveur arrêté, réseau coupé, partie jouable |
-| `webshell.test.js` | sas Vercel : première ouverture, jeu servi hors ligne, mise à jour automatique (source de mise à jour redirigée vers une copie locale : l'essai porte sur le dépôt, pas sur la version en ligne) |
+| `webshell.test.js` | sas Vercel reconstruit par la construction même de Vercel : découpage de l'envoi (morceaux déjà en ligne repris, fichier modifié recoupé), première ouverture, jeu servi hors ligne, aucune requête vers un autre site |
 | `webunlimited.test.js` | grilles en nombre illimité, jamais deux fois la même |
 | `webstock.test.js` | réserve de grilles : préparée pendant la partie, servie sans attente et une seule fois, six réserves défectueuses écartées, Titan instantané, relais de l'écran d'attente, relance depuis la victoire, navigateur sans Worker |
 | `webwakelock.test.js` | écran allumé : verrou pris en partie, rendu en pause, à l'accueil, en arrière-plan, après cinq minutes sans geste et à la victoire ; réglage, refus du navigateur, navigateur sans API, API réelle de Chromium |
-| `webupdate.test.js` | mise à jour en un geste à travers le vrai sas : version plus récente proposée puis installée sans perdre la partie, rien de proposé pour une version égale ou plus ancienne |
+| `webupdate.test.js` | mise à jour en un geste à travers le vrai sas : version plus récente publiée sur le site, proposée puis installée sans perdre la partie ; rien de proposé pour une version égale ou plus ancienne |
+| `webmigrationsas.test.js` | bascule d'un iPhone déjà installé de l'ancien sas (mises à jour lues sur GitHub) vers le sas autonome : site protégé sans effet, nouveau service worker installé à l'ouverture, mises à jour venues du site seul, protection remise sans dommage, partie hors ligne |
 | `webconfort.test.js` | notes du chiffre suivi, couleur de la barre du navigateur sous thème imposé, stockage protégé dans l'app installée seulement, écran de victoire complet du SE au Pro Max |

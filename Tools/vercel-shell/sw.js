@@ -1,14 +1,16 @@
 /* Sert le jeu depuis le cache de l'appareil, et va chercher discrètement la
-   dernière version publiée quand le réseau est disponible. */
+   dernière version publiée quand le réseau est disponible — sur ce même site :
+   le jeu ne dépend d'aucun autre hébergeur. */
 const CACHE = 'sudoku-zen-1';
 const GAME = './game.html';
 const CORE = ['./game.html', './manifest.webmanifest', './icon-180.png'];
-const LATEST = 'https://raw.githubusercontent.com/fantomette30-bit/hips/claude/sudoku-premium-iphone-app-ji3x03/docs/index.html';
 
+/* redirect: 'error' — une page de connexion ou d'erreur servie par
+   redirection n'est jamais prise pour le jeu. */
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE)
-      .then(c => c.addAll(CORE.map(f => new Request(f, { cache: 'reload' }))))
+      .then(c => c.addAll(CORE.map(f => new Request(f, { cache: 'reload', redirect: 'error' }))))
       .then(() => self.skipWaiting())
   );
 });
@@ -21,11 +23,11 @@ self.addEventListener('activate', event => {
   );
 });
 
-/* Récupère la dernière version publiée, en refusant tout ce qui ne ressemble
-   pas au jeu (page d'erreur, réponse tronquée). */
+/* Récupère la dernière version publiée sur ce site, en refusant tout ce qui ne
+   ressemble pas au jeu (page d'erreur, réponse tronquée). */
 async function refresh() {
   try {
-    const res = await fetch(LATEST, { cache: 'no-store' });
+    const res = await fetch(GAME, { cache: 'no-store', redirect: 'error' });
     if (!res.ok) return;
     const html = await res.text();
     if (html.length < 40000 || !html.includes('id="board"')) return;

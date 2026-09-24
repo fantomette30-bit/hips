@@ -14,7 +14,7 @@ Neuf niveaux : **Facile**, **Moyen**, **Difficile**, **Expert**, **Master**,
 | `Web/index.html` | le jeu entier — un seul fichier HTML autonome (moteur + interface) |
 | `docs/` | la version installable hors ligne : la même page, plus un manifeste et un service worker. **Générée**, ne pas éditer à la main |
 | `Tools/build-pwa.py` | régénère `docs/` depuis `Web/index.html` |
-| `Tools/vercel-shell/` | le sas déployé sur Vercel (et la construction du projet Vercel) : il sert le jeu depuis le cache et va chercher tout seul la dernière version publiée dans `docs/` |
+| `Tools/vercel-shell/` | le sas publié sur Vercel, la construction du projet Vercel et l'outil d'envoi : le sas sert le jeu depuis le cache et va chercher tout seul la dernière version publiée sur le site |
 | `Tools/EngineCheck/` | la batterie de tests (Node + Playwright) |
 
 Installation sur l'iPhone : [INSTALLATION.md](INSTALLATION.md).
@@ -26,12 +26,11 @@ Après toute modification du jeu :
 python3 Tools/build-pwa.py     # régénère docs/
 ```
 
-Une poussée sur la branche publiée (`claude/sudoku-premium-iphone-app-ji3x03`)
-suffit ensuite à mettre à jour l'app déjà installée : le sas récupère la
-nouvelle version à la première ouverture avec du réseau, et l'accueil propose
-de l'installer d'un appui. Pour que le site Vercel lui-même porte la nouvelle
-version (nouvelles installations), redéployer le projet `sudoku-zen-app` — la
-marche à suivre est dans [Tools/vercel-shell/README.md](Tools/vercel-shell/README.md).
+Pour publier, on envoie ensuite la nouvelle version à Vercel (projet
+`sudoku-zen-app`) — la marche à suivre est dans
+[Tools/vercel-shell/README.md](Tools/vercel-shell/README.md). L'app déjà
+installée la récupère à la première ouverture avec du réseau, et l'accueil
+propose de l'installer d'un appui. Ni le site ni l'app ne dépendent de GitHub.
 
 ## Fonctionnalités
 
@@ -140,4 +139,5 @@ navigateur, sur le téléphone. Le Worker qui prépare les grilles est créé en
 mémoire à partir du moteur de la page, et la recherche d'une mise à jour se
 contente de relire le cache de l'appareil : ni l'un ni l'autre ne touche au
 réseau. Seul le service worker du sas va chercher, à l'ouverture, la dernière
-version publiée du jeu — sans rien envoyer.
+version publiée du jeu, sur le site même d'où il a été installé — sans rien
+envoyer.

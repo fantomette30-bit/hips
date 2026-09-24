@@ -1,0 +1,122 @@
+[
+  {
+    "file": "package.json",
+    "sha": "ea75cfe3b04caf0b4ae0bb25b2820d89dc2c3838",
+    "size": 93
+  },
+  {
+    "file": "build.js",
+    "sha": "b47741287152ea1f06254830118846e39827c898",
+    "size": 2808
+  },
+  {
+    "file": "shell/index.html",
+    "sha": "414616822ae56f6ca29abe9c14617dd57553bf29",
+    "size": 2512
+  },
+  {
+    "file": "shell/sw.js",
+    "sha": "15cb6bdfbf2e11371ecb42bc0e7da267e6af9a8f",
+    "size": 2389
+  },
+  {
+    "file": "jeu/game.html.br.0",
+    "sha": "3b03fa4e3b87dd74555f063763a311d47242417a",
+    "size": 16000
+  },
+  {
+    "file": "jeu/game.html.br.1",
+    "sha": "78991489d92d856cfc33b677f9852ee4da3d240c",
+    "size": 16000
+  },
+  {
+    "file": "jeu/game.html.br.2",
+    "sha": "4741507ca2c42e28e75f3e087fd1b841c3f16e9c",
+    "size": 3609
+  },
+  {
+    "file": "jeu/icon-1024.png.0",
+    "sha": "dade9bf10d755a44739d0c13bd53d20fd60a54d6",
+    "size": 16000
+  },
+  {
+    "file": "jeu/icon-1024.png.1",
+    "sha": "6d5d53e356dca4e9ae80a426d8ce28e3799ce1b4",
+    "size": 16000
+  },
+  {
+    "file": "jeu/icon-1024.png.2",
+    "sha": "592fa60d4f5e24d58851ea0435df6f76c226215c",
+    "size": 4000
+  },
+  {
+    "file": "jeu/icon-1024.png.3",
+    "sha": "074dc917137cd65b5e4c505fa50cbb3b517f2e2b",
+    "size": 4000
+  },
+  {
+    "file": "jeu/icon-1024.png.4",
+    "sha": "0266f03943220fada37bfd06ff863a07ee5817d5",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.5",
+    "sha": "17a965e26db050ae825957796f457dd6d997c0f7",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.6",
+    "sha": "ea7f7c92b717f8a1e3abf653bc128b9ee7d01224",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.7",
+    "sha": "bfe042130242c115a7bad235cf301c0de82dd44b",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.8",
+    "sha": "ea71877e6b10ba46d370f8e20ecc2bc785e107bc",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.9",
+    "sha": "dba1b79134c8aab27eba2cefd05abfd9eab1b4a5",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.10",
+    "sha": "5f9ad3fbefc75a80842b0a8eb373d111ef082f7d",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.11",
+    "sha": "afe0a9c25b37c05871053d770328e1e51d1f0da3",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.12",
+    "sha": "dbf577976004bebc194bd71a6853fc0107772a23",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.13",
+    "sha": "d7cf8ce8dcb3c263911180e6253e8ad114525105",
+    "size": 2000
+  },
+  {
+    "file": "jeu/icon-1024.png.14",
+    "sha": "5c52a0c7be4a594e6834b90ea8bb9bd3ef69dc3c",
+    "size": 1887
+  },
+  {
+    "file": "jeu/manifest.webmanifest",
+    "sha": "7e069ae936600e5d7755eb1c230bd3f804040ee0",
+    "size": 548
+  },
+  {
+    "file": "jeu/empreintes.json",
+    "sha": "5aa5a01fa3a58c0bc4d809128a57dc4b71c53a5f",
+    "size": 372
+  }
+]
