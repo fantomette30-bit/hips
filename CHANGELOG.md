@@ -6,6 +6,9 @@ l'accueil annonce la nouvelle version quelques secondes plus tard et l'installe
 d'un appui (sinon, elle s'applique au lancement suivant).
 
 ## 1.10.0 — 24 septembre 2026
+Publiée le jour même sur la branche de l'app et sur Vercel (projet
+`sudoku-zen-app` redéployé : le site embarque directement cette version).
+
 - **L'écran reste allumé pendant la partie** : l'iPhone ne se met plus en
   veille au milieu d'une longue réflexion (app installée, iOS 18.4 ou plus
   récent). L'écran est rendu dès qu'on met en pause, qu'on gagne, qu'on revient

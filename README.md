@@ -14,7 +14,7 @@ Neuf niveaux : **Facile**, **Moyen**, **Difficile**, **Expert**, **Master**,
 | `Web/index.html` | le jeu entier — un seul fichier HTML autonome (moteur + interface) |
 | `docs/` | la version installable hors ligne : la même page, plus un manifeste et un service worker. **Générée**, ne pas éditer à la main |
 | `Tools/build-pwa.py` | régénère `docs/` depuis `Web/index.html` |
-| `Tools/vercel-shell/` | le sas déployé sur Vercel : il sert le jeu depuis le cache et va chercher tout seul la dernière version publiée dans `docs/` |
+| `Tools/vercel-shell/` | le sas déployé sur Vercel (et la construction du projet Vercel) : il sert le jeu depuis le cache et va chercher tout seul la dernière version publiée dans `docs/` |
 | `Tools/EngineCheck/` | la batterie de tests (Node + Playwright) |
 
 Installation sur l'iPhone : [INSTALLATION.md](INSTALLATION.md).
@@ -29,7 +29,9 @@ python3 Tools/build-pwa.py     # régénère docs/
 Une poussée sur la branche publiée (`claude/sudoku-premium-iphone-app-ji3x03`)
 suffit ensuite à mettre à jour l'app déjà installée : le sas récupère la
 nouvelle version à la première ouverture avec du réseau, et l'accueil propose
-de l'installer d'un appui.
+de l'installer d'un appui. Pour que le site Vercel lui-même porte la nouvelle
+version (nouvelles installations), redéployer le projet `sudoku-zen-app` — la
+marche à suivre est dans [Tools/vercel-shell/README.md](Tools/vercel-shell/README.md).
 
 ## Fonctionnalités
 

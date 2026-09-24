@@ -8,6 +8,8 @@ jeu s'ajoute à l'écran d'accueil depuis Safari et fonctionne ensuite sans rés
 1. Ouvrez l'adresse du jeu dans **Safari** sur l'iPhone (Chrome ne sait pas
    installer une app web sur iOS) :
    **https://sudoku-zen-app-fantomette30-8687s-projects.vercel.app**
+   L'adresse est protégée par l'authentification Vercel : connectez-vous avec
+   le compte Vercel du projet si la page le demande.
 2. Appuyez sur le bouton **Partager** (le carré avec la flèche, en bas de
    l'écran).
 3. Faites défiler et choisissez **« Sur l'écran d'accueil »**, puis **Ajouter**.
@@ -58,7 +60,9 @@ Deux façons de le mettre en ligne :
 * **Vercel** — celle en service : le sas décrit dans
   [Tools/vercel-shell/README.md](Tools/vercel-shell/README.md) sert le jeu depuis
   le cache du téléphone et va chercher tout seul la dernière version publiée dans
-  `docs/`. Une poussée sur la branche suffit donc à mettre à jour l'app installée.
+  `docs/`. Une poussée sur la branche publiée met donc à jour les apps déjà
+  installées ; on redéploie ensuite le projet Vercel `sudoku-zen-app` pour que
+  le site lui-même porte la nouvelle version (nouvelles installations).
 * **GitHub Pages** (copie de secours) — *Settings → Pages → Source : GitHub
   Actions* : le workflow `.github/workflows/pages.yml` publie alors `docs/` à
   chaque envoi sur la branche publiée. Tant que Pages n'est pas activé, il

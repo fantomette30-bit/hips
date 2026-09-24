@@ -1,0 +1,5 @@
+{
+  "name": "sudoku-zen-app",
+  "private": true,
+  "scripts": { "build": "node build.js" }
+}
