@@ -18,10 +18,10 @@ ajoutée est prise en compte sans rien déclarer.
 
 | Fichier | Ce qu'il couvre |
 | --- | --- |
-| `webengine.test.js` | génération des neuf niveaux : fourchette de score, unicité, résolution sans deviner, médianes croissantes |
+| `webengine.test.js` | génération des neuf niveaux : fourchette de score, unicité, résolution sans deviner, médianes croissantes (douze grilles par niveau) |
 | `webfallback.test.js` | filet de sécurité : la recherche se termine toujours, même si aucune grille notable ne sort |
 | `webfuzz.test.js` | 3 000 gestes aléatoires sur trois niveaux : aucune exception, invariants tenus, grille toujours finissable |
-| `webprivacy.test.js` | aucune requête réseau, même page ouverte en ligne ; sauvegarde nettoyée après la victoire |
+| `webprivacy.test.js` | aucune requête réseau, même page ouverte en ligne (le Worker, créé en mémoire via `blob:`, n'en est pas une) ; sauvegarde nettoyée après la victoire |
 | `webreset.test.js` | remise à zéro des statistiques : confirmation en deux temps, rien d'effacé par accident |
 | `webladder.test.js` | échelle de difficulté : palier exigé et nombre de murs croissants, profil mesuré niveau par niveau |
 | `webgrid.test.js` | hauteur des neuf lignes de la grille, y compris une ligne vide ou seulement annotée |
@@ -38,5 +38,9 @@ ajoutée est prise en compte sans rien déclarer.
 | `webmigration.test.js` | anciennes sauvegardes et transitions de version |
 | `webrobustness.test.js` | sauvegardes corrompues, annulations, double appui, stockage indisponible, clavier |
 | `weboffline.test.js` | service worker : serveur arrêté, réseau coupé, partie jouable |
-| `webshell.test.js` | sas Vercel : première ouverture, jeu servi hors ligne, mise à jour automatique |
+| `webshell.test.js` | sas Vercel : première ouverture, jeu servi hors ligne, mise à jour automatique (source de mise à jour redirigée vers une copie locale : l'essai porte sur le dépôt, pas sur la version en ligne) |
 | `webunlimited.test.js` | grilles en nombre illimité, jamais deux fois la même |
+| `webstock.test.js` | réserve de grilles : préparée pendant la partie, servie sans attente et une seule fois, six réserves défectueuses écartées, Titan instantané, relais de l'écran d'attente, relance depuis la victoire, navigateur sans Worker |
+| `webwakelock.test.js` | écran allumé : verrou pris en partie, rendu en pause, à l'accueil, en arrière-plan, après cinq minutes sans geste et à la victoire ; réglage, refus du navigateur, navigateur sans API, API réelle de Chromium |
+| `webupdate.test.js` | mise à jour en un geste à travers le vrai sas : version plus récente proposée puis installée sans perdre la partie, rien de proposé pour une version égale ou plus ancienne |
+| `webconfort.test.js` | notes du chiffre suivi, couleur de la barre du navigateur sous thème imposé, stockage protégé dans l'app installée seulement, écran de victoire complet du SE au Pro Max |

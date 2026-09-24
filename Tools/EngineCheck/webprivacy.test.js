@@ -5,7 +5,14 @@ const { chromium, devices } = require('playwright');
   const ctx = await b.newContext({ ...devices['iPhone 13'] });   // en ligne exprès
   const page = await ctx.newPage();
   const requetes = [];
-  page.on('request', r => { if (!r.url().startsWith('file://')) requetes.push(r.method() + ' ' + r.url()); });
+  /* file: (la page), blob: et data: (le Worker de la réserve, créé en mémoire)
+     ne quittent pas l'appareil ; tout le reste compte comme sortie réseau. */
+  const locales = [];
+  page.on('request', r => {
+    const u = r.url();
+    if (/^(file|blob|data):/.test(u)) locales.push(u.split(':')[0]);
+    else requetes.push(r.method() + ' ' + u);
+  });
   let fails = 0;
   const check = (c, m) => { if (!c) { fails++; console.log('  ECHEC:', m); } };
   page.on('pageerror', e => { fails++; console.log('  EXCEPTION:', e.message); });
@@ -15,7 +22,8 @@ const { chromium, devices } = require('playwright');
   await page.waitForFunction(() => !document.querySelector('#loading').classList.contains('on'), null, { timeout: 30000 });
   await page.evaluate(() => { let g = 0; while (!G.complete && g++ < 300) useHint(); });
   await page.waitForTimeout(600);
-  console.log('  requêtes réseau sortantes :', requetes.length ? requetes : 'aucune');
+  console.log('  requêtes réseau sortantes :', requetes.length ? requetes : 'aucune',
+              '| ressources locales :', [...new Set(locales)].join(', '));
   check(requetes.length === 0, 'la page a émis ' + requetes.length + ' requête(s) réseau');
 
   // remise à zéro des statistiques

@@ -31,6 +31,41 @@ grille facile, 3 essais et 24 ms en difficile, 17 essais et 256 ms en extrême,
 observé — la recherche se termine malgré tout par une grille jouable plutôt que
 de tourner sans fin.
 
+## Réserve de grilles
+
+Dès qu'une partie commence (ou reprend), un **Worker** — un second fil
+d'exécution, créé en mémoire à partir du moteur de la page — fabrique la
+grille suivante du même niveau, avec exactement les mêmes règles. Elle est
+rangée dans le `localStorage` (clé `zen.stock`, une grille par niveau au plus)
+et servie au lancement suivant **sans écran d'attente**. Si l'écran d'attente
+cherche justement le niveau que le Worker prépare, la première grille prête
+l'emporte.
+
+Garde-fous : la grille est retirée de la réserve avant d'être servie (jamais
+deux fois la même) ; elle est vérifiée à la lecture — grille complète valide,
+indices conformes à la solution, résolution sans deviner — et ignorée si une
+autre version du jeu l'a produite. Sans Worker (navigateur ancien, cadre
+isolé), le jeu fonctionne exactement comme avant.
+
+## Écran allumé
+
+Pendant le jeu effectif, la page tient un verrou d'écran (API Screen Wake
+Lock, opérationnelle dans l'app installée depuis iOS 18.4) : l'iPhone ne se
+met plus en veille pendant qu'on réfléchit. Le verrou est rendu en pause, à la
+victoire, hors de l'écran de partie, quand l'app passe en arrière-plan, et
+après cinq minutes sans aucun geste ; le geste suivant le reprend. Un refus du
+navigateur n'entraîne pas de redemandes en boucle. Le réglage **Garder l'écran
+allumé** (Confort de jeu) n'apparaît que si le navigateur connaît l'API.
+
+## Mise à jour en un geste
+
+Le service worker range la dernière version publiée dans le cache de
+l'appareil. La page relit ce cache — à l'ouverture, 3, 10 et 30 secondes plus
+tard, au retour sur l'accueil et au retour de veille — et compare son numéro
+de version au sien. S'il est plus récent, l'accueil affiche « Version … prête » ;
+un appui sauvegarde la partie en cours et recharge la page. Aucune requête
+réseau n'est faite par la page pour cela.
+
 ## Score
 
 Chaque bonne case rapporte `10 × rang du niveau` (Facile 10 … Légende 90),
@@ -86,9 +121,10 @@ Deux façons de le publier :
   [Tools/vercel-shell](../Tools/vercel-shell/README.md) sert le jeu depuis le
   cache et va chercher tout seul la dernière version publiée dans `docs/`. Une
   poussée sur la branche suffit donc à mettre à jour l'app installée.
-* **GitHub Pages** — *Settings → Pages → Deploy from a branch → dossier `/docs`*.
-  Le workflow `.github/workflows/pages.yml` s'en charge dès que les permissions
-  d'Actions sont en écriture.
+* **GitHub Pages** (copie de secours) — *Settings → Pages → Source : GitHub
+  Actions* : le workflow `.github/workflows/pages.yml` publie alors `docs/` à
+  chaque envoi sur la branche publiée. Tant que Pages n'est pas activé, il
+  s'arrête avec une simple note au lieu d'échouer.
 
 `docs/` est généré, ne l'éditez pas à la main :
 
@@ -103,7 +139,7 @@ npm i playwright        # une fois
 node Tools/EngineCheck/<suite>.test.js
 ```
 
-Treize suites, chacune autonome et silencieuse quand tout va bien. La liste
+Vingt-six suites, chacune autonome et silencieuse quand tout va bien. La liste
 complète et ce que couvre chaque suite : [Tools/EngineCheck/README.md](../Tools/EngineCheck/README.md).
 
 Les plus parlantes :
@@ -124,3 +160,8 @@ Les plus parlantes :
   pleine partie.
 * `webultimate` — Démoniaque, Titan et Légende : recherche annulable, fourchette,
   partie entière, statistiques, version affichée.
+* `webstock` — réserve de grilles : servie sans attente, une seule fois,
+  réserves défectueuses écartées, relance depuis la victoire, sans Worker.
+* `webwakelock` — écran allumé : pris en partie, rendu en pause, à l'accueil,
+  à la victoire, en arrière-plan et après cinq minutes sans geste.
+* `webupdate` — mise à jour en un geste, à travers le vrai sas.

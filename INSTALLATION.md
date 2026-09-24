@@ -19,10 +19,20 @@ même après un redémarrage de l'iPhone. Rien n'expire.
 
 ## Les mises à jour
 
-Elles s'installent toutes seules : ouvrez le jeu une fois avec du réseau, la
-nouvelle version est active au lancement suivant. Le numéro installé s'affiche
-dans **Réglages → Version** ; ce qui a changé est listé dans
+Elles se téléchargent toutes seules : ouvrez le jeu avec du réseau, et quelques
+secondes plus tard l'accueil affiche **« Version … prête »**. Touchez la carte :
+la nouvelle version s'installe aussitôt, la partie en cours est conservée. Si
+vous ne touchez à rien, elle s'appliquera au lancement suivant. Le numéro
+installé s'affiche dans **Réglages → Version** ; ce qui a changé est listé dans
 [CHANGELOG.md](CHANGELOG.md).
+
+## Écran allumé pendant la partie
+
+Depuis la version 1.10, l'iPhone ne se met plus en veille pendant que vous
+réfléchissez sur une grille (iOS 18.4 ou plus récent, jeu lancé depuis son
+icône). L'écran redevient normal en pause, à la victoire, sur l'accueil et
+après cinq minutes sans toucher l'écran. Pour s'en passer : **Réglages →
+Garder l'écran allumé**.
 
 ## Si ça coince
 
@@ -30,7 +40,8 @@ dans **Réglages → Version** ; ce qui a changé est listé dans
 |---|---|
 | Pas de « Sur l'écran d'accueil » dans le menu Partager | Vous n'êtes pas dans Safari, ou la page est ouverte dans un onglet privé. Rouvrez l'adresse dans un onglet Safari normal. |
 | L'icône ouvre une page blanche | Relancez avec du réseau une fois : le jeu se recopie et repart. |
-| Le jeu ne se met pas à jour | Ouvrez-le avec du réseau, puis fermez-le complètement (glissez-le hors du sélecteur d'apps) et rouvrez-le. |
+| Le jeu ne se met pas à jour | Ouvrez-le avec du réseau et attendez une dizaine de secondes sur l'accueil : la carte « Version … prête » apparaît, touchez-la. Si elle ne vient pas, fermez complètement le jeu (glissez-le hors du sélecteur d'apps) et rouvrez-le avec du réseau. |
+| L'écran se met quand même en veille | Vérifiez **Réglages → Garder l'écran allumé** et la version d'iOS (18.4 ou plus récente). Le mode Économie d'énergie peut aussi l'en empêcher. |
 | La partie en cours a disparu | Elle est stockée par Safari sur le téléphone : vider les données de navigation ou supprimer l'icône l'efface aussi. |
 
 ## Publier soi-même une autre copie
@@ -48,6 +59,7 @@ Deux façons de le mettre en ligne :
   [Tools/vercel-shell/README.md](Tools/vercel-shell/README.md) sert le jeu depuis
   le cache du téléphone et va chercher tout seul la dernière version publiée dans
   `docs/`. Une poussée sur la branche suffit donc à mettre à jour l'app installée.
-* **GitHub Pages** — *Settings → Pages → Deploy from a branch → dossier `/docs`*.
-  Le workflow `.github/workflows/pages.yml` s'en charge dès que les permissions
-  d'Actions sont en écriture.
+* **GitHub Pages** (copie de secours) — *Settings → Pages → Source : GitHub
+  Actions* : le workflow `.github/workflows/pages.yml` publie alors `docs/` à
+  chaque envoi sur la branche publiée. Tant que Pages n'est pas activé, il
+  s'arrête avec une simple note au lieu d'échouer.

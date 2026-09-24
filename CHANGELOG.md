@@ -1,8 +1,48 @@
 # Journal des versions
 
 Le numéro de la version installée est visible dans **Réglages → Version**.
-Les mises à jour s'installent toutes seules : ouvrez le jeu avec du réseau,
-la nouvelle version est active au lancement suivant.
+Les mises à jour se téléchargent toutes seules : ouvrez le jeu avec du réseau,
+l'accueil annonce la nouvelle version quelques secondes plus tard et l'installe
+d'un appui (sinon, elle s'applique au lancement suivant).
+
+## 1.10.0 — 24 septembre 2026
+- **L'écran reste allumé pendant la partie** : l'iPhone ne se met plus en
+  veille au milieu d'une longue réflexion (app installée, iOS 18.4 ou plus
+  récent). L'écran est rendu dès qu'on met en pause, qu'on gagne, qu'on revient
+  à l'accueil, ou après cinq minutes sans toucher l'écran, pour ménager la
+  batterie. Réglage **Garder l'écran allumé** dans Réglages → Confort de jeu.
+- **La grille suivante est prête d'avance** : pendant qu'on joue, la prochaine
+  grille du même niveau se prépare en arrière-plan, sans ralentir l'écran. La
+  partie suivante démarre sans attente — y compris en Titan et en Légende, dont
+  la recherche prenait en moyenne une à trois secondes, et jusqu'à une dizaine
+  dans le pire des cas. Une grille en réserve démarre en moins d'un dixième de
+  seconde (mesure de la batterie de tests).
+- **« Nouvelle grille » sur l'écran de victoire** : on relance le même niveau
+  d'un seul geste.
+- **Mise à jour en un geste** : quand une nouvelle version a été téléchargée,
+  l'accueil l'annonce (« Version … prête ») ; un appui l'installe aussitôt, la
+  partie en cours est conservée. Plus besoin de fermer complètement l'app.
+- **Notes du chiffre suivi mises en évidence** : quand la case choisie porte un
+  chiffre — ou qu'un chiffre est gardé en main par le verrou de note — ce
+  chiffre ressort en couleur, en gras et sur une pastille dans les notes des
+  autres cases. Idéal pour repérer paires, X-Wing et autres motifs. Suit le
+  réglage « Surligner les chiffres identiques ».
+- **Données mieux protégées** : dans l'app installée, le jeu demande au système
+  de ne pas effacer la partie en cours, les statistiques ni la copie hors ligne
+  quand le téléphone manque de place.
+- Thème Clair ou Sombre imposé à l'encontre du réglage du téléphone : la couleur
+  de la barre du navigateur suit désormais le thème choisi.
+- Publication de secours sur GitHub Pages : le workflow échouait à chaque envoi
+  depuis août, Pages n'étant pas activé sur le dépôt. Il vérifie maintenant que
+  Pages est actif avant de publier et s'arrête sinon avec une note ; ses
+  composants passent aux versions qui tournent sous Node 24, GitHub ayant
+  retiré Node 20 le 23 septembre 2026.
+- Contrôles : quatre nouvelles suites (écran allumé, mise à jour, réserve de
+  grilles, conforts de la 1.10). Le test du sas ne dépend plus de la version
+  publiée en ligne, et celui de la vie privée ne compte que les vraies sorties
+  réseau. Le contrôle de l'ordre des niveaux calcule ses médianes sur douze
+  grilles au lieu de quatre : il échouait par pur hasard d'échantillon dans
+  environ 3 % des exécutions (0,1 % désormais, pour la même durée).
 
 ## 1.9.1 — 23 août 2026
 - Le verrou de note se relâche aussi quand on recommence la partie depuis le

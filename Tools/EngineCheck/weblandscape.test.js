@@ -44,7 +44,7 @@ const { chromium, devices } = require('playwright');
   });
   console.log('  victoire couché :', JSON.stringify(vic));
   check(vic.visible, 'écran de victoire absent en paysage');
-  check(vic.boutonVisible, 'le bouton « Retour à l’accueil » reste hors d’atteinte en paysage');
+  check(vic.boutonVisible, 'le bouton « Accueil » reste hors d’atteinte en paysage');
   await b.close();
   console.log(fails ? '\n' + fails + ' PROBLEME(S)' : '\nPAYSAGE : accueil, statistiques et victoire corrects');
   process.exit(fails ? 1 : 0);

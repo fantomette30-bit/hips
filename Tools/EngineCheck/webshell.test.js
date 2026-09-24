@@ -10,13 +10,24 @@ const ROOT = path.join(__dirname, '../..');
 const DIR = fs.mkdtempSync(path.join(os.tmpdir(), 'sudoku-sas-'));
 for (const [from, to] of [
   ['Tools/vercel-shell/index.html', 'index.html'],
-  ['Tools/vercel-shell/sw.js', 'sw.js'],
   ['docs/index.html', 'game.html'],
+  ['docs/index.html', 'latest.html'],
   ['docs/manifest.webmanifest', 'manifest.webmanifest'],
   ['docs/icon-180.png', 'icon-180.png']
 ]) {
   fs.copyFileSync(path.join(ROOT, from), path.join(DIR, to));
 }
+/* La source de mise à jour du sas (la branche publiée sur GitHub) est
+   redirigée vers une copie locale du jeu : sans cela, sur une machine
+   connectée, le cache recevait la version en ligne et la suite de l'essai
+   portait sur elle, pas sur le dépôt. */
+const sw = fs.readFileSync(path.join(ROOT, 'Tools/vercel-shell/sw.js'), 'utf8');
+if (!/const LATEST = 'https:\/\/raw\.githubusercontent\.com\/[^']+'/.test(sw)) {
+  console.error('webshell : adresse LATEST introuvable dans sw.js, adapter le test');
+  process.exit(1);
+}
+fs.writeFileSync(path.join(DIR, 'sw.js'), sw.replace(/const LATEST = '[^']+'/, "const LATEST = 'http://localhost:8897/latest.html'"));
+const VERSION = fs.readFileSync(path.join(ROOT, 'docs/index.html'), 'utf8').match(/const APP_VERSION = '([\d.]+)'/)[1];
 
 (async () => {
   const server = spawn('python3', ['-m', 'http.server', '8897', '--directory', DIR], { stdio: 'ignore' });
@@ -40,10 +51,12 @@ for (const [from, to] of [
     const c = await caches.open('sudoku-zen-1');
     const r = await c.match('./game.html');
     const t = r ? await r.text() : '';
-    return { present: !!r, score: t.includes('pillPoints'), size: t.length };
+    return { present: !!r, score: t.includes('pillPoints'), size: t.length,
+             version: (t.match(/const APP_VERSION = '([\d.]+)'/) || [])[1] };
   });
   check(cached.present, 'jeu absent du cache');
   check(cached.score, 'la version en cache ne contient pas le score');
+  check(cached.version === VERSION, 'la version en cache (' + cached.version + ') n’est pas celle du dépôt (' + VERSION + ')');
   console.log('  version en cache :', cached.size, 'octets, score inclus :', cached.score);
 
   // 3. serveur arrêté + réseau coupé : le jeu doit toujours s'ouvrir et se jouer
@@ -67,7 +80,7 @@ for (const [from, to] of [
   await page2.goto('http://localhost:8897/');
   await page2.waitForTimeout(800);
   check(await page2.locator('#home.on').isVisible(), 'relance hors ligne impossible');
-  check(await page2.locator('#pillPoints').count() >= 0, '');
+  check(await page2.locator('#appVersion').textContent() === VERSION, 'relance hors ligne : ce n’est pas la version du dépôt qui tourne');
 
   await browser.close();
   fs.rmSync(DIR, { recursive: true, force: true });

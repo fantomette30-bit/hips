@@ -15,10 +15,16 @@ service worker qui
 Résultat : l'adresse et l'icône ne changent plus jamais, et une simple poussée
 sur la branche suffit à mettre le jeu à jour sur le téléphone.
 
+Depuis la version 1.10, le jeu relit lui-même ce cache (sans requête réseau) :
+dès que le service worker y a rangé une version plus récente que celle qui
+tourne, l'accueil affiche « Version … prête » et l'installe d'un appui. Le sas
+n'a pas eu à changer pour cela — il n'est donc pas à redéployer.
+
 * `index.html` — le sas (écran de préparation, enregistrement du service worker)
 * `sw.js` — cache hors ligne et mise à jour silencieuse
 * le `build.js` du projet Vercel assemble ces deux fichiers avec le jeu et les
   icônes récupérés depuis le dépôt.
 
 Vérification : `node Tools/EngineCheck/webshell.test.js` (sert le sas en local,
-coupe le serveur et le réseau, puis termine une partie hors ligne).
+coupe le serveur et le réseau, puis termine une partie hors ligne) et
+`node Tools/EngineCheck/webupdate.test.js` (mise à jour en un geste).

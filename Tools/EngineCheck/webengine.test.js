@@ -5,10 +5,11 @@ const E = {};
 new Function('module', src + '\nmodule.exports = { N, UNITS, PEERS, candidates, nextStep, applyStep, logicalSolve, countSolutions, rate, generate, LEVELS, LEVEL_KEYS };')({ set exports(v) { Object.assign(E, v); }, get exports() { return E; } });
 let fails = 0;
 const check = (c, m) => { if (!c) { fails++; console.log('  ECHEC:', m); } };
+const allScores = {};
 
 for (const lvl of E.LEVEL_KEYS) {
   const c = E.LEVELS[lvl];
-  const scores = [], clues = [], times = [], tiers = {};
+  const scores = allScores[lvl] = [], clues = [], times = [], tiers = {};
   let inBand = 0;
   const n = 8;
   for (let k = 0; k < n; k++) {
@@ -48,13 +49,19 @@ for (const lvl of E.LEVEL_KEYS) {
     `temps med ${times[n>>1]} ms max ${times[n-1]} ms | paliers ${JSON.stringify(tiers)} | murs ${c.minHard}-${c.maxHard === 99 ? '+' : c.maxHard}`);
 }
 
-// les niveaux doivent rester ordonnés
+// les niveaux doivent rester ordonnés. Les médianes portent sur douze grilles
+// par niveau : les huit déjà contrôlées ci-dessus et quatre de plus. Avec
+// quatre grilles seulement, deux niveaux voisins aux fourchettes proches
+// (Extrême/Démoniaque, Démoniaque/Titan) s'inversaient par simple hasard
+// d'échantillon — 2,9 % des exécutions, moteur inchangé ; 0,1 % à douze
+// (estimation par rééchantillonnage de 48 grilles par niveau).
 const meds = {};
 for (const lvl of E.LEVEL_KEYS) {
-  const sc = [];
+  const sc = allScores[lvl].slice();
   for (let k = 0; k < 4; k++) sc.push(E.generate(lvl, 3000).score);
   sc.sort((a, b) => a - b);
-  meds[lvl] = (sc[1] + sc[2]) / 2;
+  const n = sc.length;
+  meds[lvl] = n % 2 ? sc[n >> 1] : (sc[n / 2 - 1] + sc[n / 2]) / 2;
 }
 const ordered = E.LEVEL_KEYS.every((l, i) => i === 0 || meds[l] >= meds[E.LEVEL_KEYS[i - 1]] * 0.95);
 check(ordered, 'la difficulté mesurée ne progresse pas: ' + JSON.stringify(meds));
