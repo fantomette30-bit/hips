@@ -1,0 +1,1571 @@
+{
+ "reading": [
+  {
+   "id": "rd-sg-1",
+   "title": "People Strategy 2027-2029: context and priorities",
+   "kind": "report extract",
+   "level": 3,
+   "paragraphs": [
+    "Corvane Logistics France - People Strategy 2027-2029 (extract)",
+    "1. Strategic context",
+    "The Group's business plan assumes a 30% increase in volumes in France over three years, driven largely by two new automated warehouses. Delivering this plan will depend less on capital expenditure than on our ability to attract, retain and develop the right people. At present, our HR priorities have grown up organically, site by site, and are not always aligned with the business strategy.",
+    "Three indicators illustrate the challenge. Regretted attrition among maintenance technicians reached 14% over the last twelve months. The absence rate in our warehouses remains well above the industry average. And almost half of our frontline managers have been in post for less than two years, with little formal preparation for the role.",
+    "2. Strategic priorities",
+    "We therefore propose to concentrate effort and investment on three strategic priorities: (i) securing critical skills, particularly in maintenance and automation; (ii) building manager capability, so that every team leader can set expectations, hold difficult conversations and lead a team through change; and (iii) simplifying our HR operating model, with clearer roles for HR business partners and a single service centre for administrative requests.",
+    "Each priority will be underpinned by a small number of measurable targets, reported quarterly in the HR dashboard alongside leading indicators such as engagement and short-term absence. Initiatives that do not contribute to these priorities will be deprioritised or stopped, subject to any legal or contractual commitments already in place.",
+    "3. Governance",
+    "The HR Director will own the roadmap and report progress to the Management Committee each quarter. Any proposal affecting the organisation of work will be subject to prior information and consultation of the works council, in accordance with applicable law."
+   ],
+   "glossary": [
+    {
+     "term": "aligned with the business strategy",
+     "plain": "designed to support what the business is trying to achieve",
+     "fr": "aligné sur la stratégie de l'entreprise"
+    },
+    {
+     "term": "regretted attrition",
+     "plain": "departures of employees the company wanted to keep",
+     "fr": "départs regrettés"
+    },
+    {
+     "term": "absence rate",
+     "plain": "the share of working time lost because people are absent",
+     "fr": "taux d'absentéisme"
+    },
+    {
+     "term": "frontline managers",
+     "plain": "managers who directly supervise operational staff",
+     "fr": "managers de proximité"
+    },
+    {
+     "term": "HR operating model",
+     "plain": "the way the HR function is organised to deliver its services",
+     "fr": "modèle opérationnel RH"
+    },
+    {
+     "term": "leading indicators",
+     "plain": "measures that warn of what is likely to happen next",
+     "fr": "indicateurs avancés"
+    },
+    {
+     "term": "deprioritised",
+     "plain": "given less importance and fewer resources than before",
+     "fr": "relégué au second plan"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "subject to any legal or contractual commitments already in place",
+     "plain": "unless the law or an existing agreement already obliges us to continue"
+    },
+    {
+     "phrase": "subject to prior information and consultation of the works council",
+     "plain": "the works council must be informed and consulted first"
+    },
+    {
+     "phrase": "in accordance with applicable law",
+     "plain": "as the law requires"
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to the paper, what will the business plan mainly depend on?",
+     "options": [
+      "New automated warehouses",
+      "Capital expenditure",
+      "The company's people",
+      "Lower absence rates"
+     ],
+     "answer": 2,
+     "explain_fr": "Le texte dit que le plan dépendra « less on capital expenditure than on our ability to attract, retain and develop the right people »."
+    },
+    {
+     "q": "What is the problem with current HR priorities?",
+     "options": [
+      "They have developed site by site without overall alignment",
+      "They are too expensive",
+      "They were imposed by the Group",
+      "They ignore the works council"
+     ],
+     "answer": 0,
+     "explain_fr": "« Grown up organically, site by site » : elles se sont constituées au fil de l'eau, sans cohérence d'ensemble."
+    },
+    {
+     "q": "What will happen to initiatives that do not support the three priorities?",
+     "options": [
+      "They will be transferred to the Group",
+      "They will be reviewed by the works council",
+      "They will continue unchanged",
+      "They will be scaled back or stopped, unless a commitment prevents it"
+     ],
+     "answer": 3,
+     "explain_fr": "« Deprioritised or stopped, subject to any legal or contractual commitments » : sauf engagement juridique ou contractuel existant."
+    },
+    {
+     "q": "Who is accountable for the roadmap?",
+     "options": [
+      "The works council",
+      "The HR Director",
+      "The Management Committee",
+      "The HR business partners"
+     ],
+     "answer": 1,
+     "explain_fr": "« The HR Director will own the roadmap » : « to own » = en être responsable. Le comité de direction reçoit le reporting."
+    }
+   ]
+  },
+  {
+   "id": "rd-sg-2",
+   "title": "Narrative for the board's HR slide",
+   "kind": "report extract",
+   "level": 2,
+   "paragraphs": [
+    "Board meeting, 14 November - Item 6: People update (speaker notes for slide 3)",
+    "This slide summarises our headline HR metrics for the third quarter. Overall, the picture is mixed: retention is improving, but absence and time to hire are moving in the wrong direction.",
+    "Voluntary turnover fell to 11.2% on a rolling twelve-month basis, down from 13.5% year on year. Exit interviews suggest that the new career paths for technicians are beginning to have an effect, although it is too early to draw firm conclusions.",
+    "The absence rate, on the other hand, rose to 6.1%, against a target of 5%. The increase is concentrated in two warehouses and consists mostly of short, repeated absences. We read this as an early warning sign rather than a medical issue, and the site managers have been asked to hold return-to-work conversations systematically from December.",
+    "Time to hire has lengthened to 58 days on average, largely because of the hiring freeze on non-critical roles introduced in July. This was a deliberate trade-off to protect the payroll-to-revenue ratio, which remains within budget at 38%.",
+    "The bottom line: we are on track on cost and retention, but we need to keep a close eye on absence. We are not asking the Board for a decision today; this item is for information. A deep dive on absence will be presented at the March meeting, together with a proposal for manager training."
+   ],
+   "glossary": [
+    {
+     "term": "headline HR metrics",
+     "plain": "the main HR figures that senior leaders look at first",
+     "fr": "principaux indicateurs RH"
+    },
+    {
+     "term": "rolling twelve-month basis",
+     "plain": "calculated over the last twelve months, updated each month",
+     "fr": "en cumul glissant sur douze mois"
+    },
+    {
+     "term": "year on year",
+     "plain": "compared with the same period last year",
+     "fr": "sur un an, en glissement annuel"
+    },
+    {
+     "term": "early warning sign",
+     "plain": "a signal that a bigger problem may be developing",
+     "fr": "signal d'alerte précoce"
+    },
+    {
+     "term": "hiring freeze",
+     "plain": "a decision to stop most recruitment for a period",
+     "fr": "gel des recrutements"
+    },
+    {
+     "term": "on track",
+     "plain": "progressing as planned",
+     "fr": "dans les clous, conforme aux prévisions"
+    },
+    {
+     "term": "deep dive",
+     "plain": "a detailed analysis of one subject",
+     "fr": "analyse approfondie"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "How does the speaker describe the overall HR situation?",
+     "options": [
+      "Very positive",
+      "Mixed",
+      "Critical",
+      "Unchanged"
+     ],
+     "answer": 1,
+     "explain_fr": "« Overall, the picture is mixed » : contrasté, avec du positif (rétention) et du négatif (absence, délais)."
+    },
+    {
+     "q": "Why has time to hire increased?",
+     "options": [
+      "Candidates are refusing offers",
+      "The HR team is understaffed",
+      "The labour market is tighter",
+      "Most non-critical recruitment was frozen in July"
+     ],
+     "answer": 3,
+     "explain_fr": "Le texte attribue la hausse au gel des recrutements (« largely because of the hiring freeze »), un arbitrage délibéré."
+    },
+    {
+     "q": "What does the speaker expect the Board to do today?",
+     "options": [
+      "Simply take note of the information",
+      "Approve a training budget",
+      "Lift the hiring freeze",
+      "Change the absence target"
+     ],
+     "answer": 0,
+     "explain_fr": "« This item is for information » : aucune décision n'est demandée, par opposition à « for decision »."
+    },
+    {
+     "q": "How does the speaker interpret the rise in absence?",
+     "options": [
+      "As a sign of a serious medical problem",
+      "As a result of the hiring freeze",
+      "As a possible signal of a wider issue to watch",
+      "As a temporary seasonal effect"
+     ],
+     "answer": 2,
+     "explain_fr": "« We read this as an early warning sign rather than a medical issue » : un signal précoce à surveiller."
+    }
+   ]
+  },
+  {
+   "id": "rd-sg-3",
+   "title": "A manager escalates a team conflict",
+   "kind": "long email",
+   "level": 1,
+   "paragraphs": [
+    "Subject: Need your help - situation in the customer service team",
+    "Hi Sophie,",
+    "I'm sorry to land this on you on a Friday, but I think I need to loop you in on something before it gets worse.",
+    "As you know, Léa and Marc have both been on my team for about three years. Since the reorganisation in September, when Léa took over the key accounts that Marc used to handle, there has been a real falling-out between them. They barely speak in meetings, they copy me into every email exchange, and on Tuesday they had a heated argument in the open-plan office in front of the whole team.",
+    "I've tried to deal with it informally. I had a quiet word with each of them separately last month, and they both promised to make an effort, but nothing has really changed. Team morale is clearly suffering - two people have told me they dread coming in on the days both are in the office.",
+    "To be honest, I'm not sure what my role is here. Part of me thinks they're adults and should sort it out themselves; part of me thinks I should have stepped in much earlier. I also don't want to take sides, because I think they're both partly at fault.",
+    "Could we find half an hour early next week? I'd like your advice on what to do next, and whether this is something HR should handle or something I need to deal with myself. I've kept a short paper trail of the incidents, which I can send you beforehand.",
+    "Thanks in advance,",
+    "Thomas"
+   ],
+   "glossary": [
+    {
+     "term": "loop you in",
+     "plain": "inform you and include you in the discussion",
+     "fr": "vous mettre dans la boucle"
+    },
+    {
+     "term": "falling-out",
+     "plain": "a serious disagreement that damages a relationship",
+     "fr": "brouille, conflit"
+    },
+    {
+     "term": "had a quiet word",
+     "plain": "spoke privately and informally to someone",
+     "fr": "ai glissé un mot discrètement"
+    },
+    {
+     "term": "team morale",
+     "plain": "how confident and motivated the team feels",
+     "fr": "moral de l'équipe"
+    },
+    {
+     "term": "stepped in",
+     "plain": "become involved to deal with a problem",
+     "fr": "intervenu"
+    },
+    {
+     "term": "take sides",
+     "plain": "support one person against the other",
+     "fr": "prendre parti"
+    },
+    {
+     "term": "paper trail",
+     "plain": "written records of what has happened",
+     "fr": "trace écrite"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "What triggered the conflict between Léa and Marc?",
+     "options": [
+      "A disciplinary warning",
+      "A change of responsibilities after the reorganisation",
+      "A pay rise for Léa",
+      "A move to remote working"
+     ],
+     "answer": 1,
+     "explain_fr": "Léa a repris les grands comptes de Marc lors de la réorganisation : « took over the key accounts that Marc used to handle »."
+    },
+    {
+     "q": "What has Thomas already done?",
+     "options": [
+      "Spoken to each of them privately",
+      "Started a formal procedure",
+      "Moved one of them to another team",
+      "Organised a joint meeting"
+     ],
+     "answer": 0,
+     "explain_fr": "« I had a quiet word with each of them separately » : entretiens informels individuels."
+    },
+    {
+     "q": "What is Thomas unsure about?",
+     "options": [
+      "Whether the conflict is real",
+      "Who is to blame",
+      "Whether to resign",
+      "What his own role is and whether HR should take over"
+     ],
+     "answer": 3,
+     "explain_fr": "Il s'interroge sur son rôle et sur la répartition manager/RH : « whether this is something HR should handle »."
+    },
+    {
+     "q": "Which detail shows the conflict affects others?",
+     "options": [
+      "They copy him into emails",
+      "They barely speak in meetings",
+      "Colleagues dread the days both are in the office",
+      "Léa now handles key accounts"
+     ],
+     "answer": 2,
+     "explain_fr": "L'impact sur le collectif (« team morale is clearly suffering ») est illustré par les collègues qui redoutent de venir au bureau."
+    }
+   ]
+  },
+  {
+   "id": "rd-sg-4",
+   "title": "Policy: addressing performance concerns informally",
+   "kind": "policy extract",
+   "level": 2,
+   "paragraphs": [
+    "Halden Systems France SAS - Manager Guidance No. 4: Addressing Performance Concerns Informally",
+    "1. Purpose and scope",
+    "1.1 This guidance applies to all people managers of the French entities. It sets out the steps to be taken where an employee's performance falls below the expected standard, before any formal procedure is considered.",
+    "1.2 It is intended to support, not to replace, the manager's judgement, and shall be read in conjunction with the internal rules and the applicable collective agreement.",
+    "2. Principles",
+    "2.1 Managers are expected to address performance issues promptly. Concerns that are left unaddressed for long periods are harder to resolve and may undermine the credibility of any subsequent action.",
+    "2.2 The first step shall be an informal discussion in which the manager sets clear expectations, explains the gap between the expected and actual standard, and listens to the employee's explanation. Possible causes outside the employee's control, such as workload, lack of training or health issues, must be explored.",
+    "2.3 Following the discussion, the manager should send the employee a short written summary of what was agreed, including any support offered and a date for review. Such a summary does not constitute a disciplinary sanction.",
+    "3. Escalation to HR",
+    "3.1 Managers shall contact their HR business partner where (a) no improvement is observed by the review date, (b) the employee raises a health, harassment or discrimination concern, or (c) the manager is considering any formal measure.",
+    "3.2 Under no circumstances should a manager announce or imply a sanction or dismissal without prior consultation with HR."
+   ],
+   "glossary": [
+    {
+     "term": "people managers",
+     "plain": "managers who have staff reporting to them",
+     "fr": "managers d'équipe, encadrants"
+    },
+    {
+     "term": "address performance issues",
+     "plain": "deal directly with problems in how someone is doing their job",
+     "fr": "traiter les problèmes de performance"
+    },
+    {
+     "term": "sets clear expectations",
+     "plain": "explains exactly what is expected and to what standard",
+     "fr": "fixe des attentes claires"
+    },
+    {
+     "term": "written summary",
+     "plain": "a short document recording what was said and agreed",
+     "fr": "compte rendu écrit"
+    },
+    {
+     "term": "HR business partner",
+     "plain": "the HR adviser dedicated to a business area",
+     "fr": "HRBP, RRH de proximité"
+    },
+    {
+     "term": "undermine the credibility",
+     "plain": "make something less believable or convincing",
+     "fr": "nuire à la crédibilité"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "shall be read in conjunction with",
+     "plain": "must be read together with"
+    },
+    {
+     "phrase": "does not constitute a disciplinary sanction",
+     "plain": "is not a disciplinary penalty"
+    },
+    {
+     "phrase": "Under no circumstances",
+     "plain": "never, in any situation"
+    }
+   ],
+   "questions": [
+    {
+     "q": "When does this guidance apply?",
+     "options": [
+      "After a disciplinary hearing",
+      "Before any formal procedure is considered",
+      "Only during the probationary period",
+      "Only for employees with cadre status"
+     ],
+     "answer": 1,
+     "explain_fr": "Le texte vise l'étape informelle : « before any formal procedure is considered »."
+    },
+    {
+     "q": "Why should managers act promptly, according to section 2.1?",
+     "options": [
+      "Because the law sets a strict deadline",
+      "Because HR requires monthly reports",
+      "Because old, unaddressed issues are harder to resolve and weaken later action",
+      "Because employees prefer it"
+     ],
+     "answer": 2,
+     "explain_fr": "Le texte invoque une raison pratique (« harder to resolve ») et de crédibilité (« undermine the credibility of any subsequent action »)."
+    },
+    {
+     "q": "What is the status of the written summary sent after the discussion?",
+     "options": [
+      "It is not a disciplinary sanction",
+      "It is a formal warning",
+      "It must be signed by HR",
+      "It replaces the annual review"
+     ],
+     "answer": 0,
+     "explain_fr": "« Such a summary does not constitute a disciplinary sanction » : c'est une trace, pas une sanction."
+    },
+    {
+     "q": "In which situation must the manager contact HR?",
+     "options": [
+      "Whenever they hold an informal discussion",
+      "Before sending the written summary",
+      "When the employee improves",
+      "When the employee raises a harassment concern"
+     ],
+     "answer": 3,
+     "explain_fr": "Point 3.1 (b) : un signalement de santé, de harcèlement ou de discrimination impose de solliciter le HRBP."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-sg-1",
+   "title": "Advising a manager by email on an underperformer",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Julien, a sales manager, has asked whether he can 'just put Nadia on a warning' because her results have dropped over the last three months. Reply by email: advise him to start with an informal conversation, tell him what to cover, and offer your help.",
+   "brief_fr": "Julien, manager commercial, demande s'il peut « simplement donner un avertissement » à Nadia, dont les résultats baissent depuis trois mois. Répondez-lui par e-mail : conseillez-lui de commencer par un échange informel, indiquez-lui quoi aborder et proposez votre aide.",
+   "gaps": [
+    {
+     "text": "Thanks for ___ this with me before taking any action - that's exactly the right instinct.",
+     "answer": "raising",
+     "accept": [
+      "flagging",
+      "discussing"
+     ],
+     "explain_fr": "'To raise something with someone' = soulever un sujet auprès de quelqu'un. On ne dit pas 'to rise this'."
+    },
+    {
+     "text": "At this stage, I would ___ against a formal warning.",
+     "answer": "advise",
+     "accept": [
+      "recommend"
+     ],
+     "explain_fr": "'To advise against' = déconseiller. Verbe avec 's' (/z/) ; le nom 'advice' s'écrit avec 'c'."
+    },
+    {
+     "text": "Nobody has yet told Nadia clearly what is expected of her, so the first step is to ___ expectations.",
+     "answer": "set",
+     "accept": [
+      "clarify"
+     ],
+     "explain_fr": "'To set expectations' = fixer des attentes claires. Collocation figée, très fréquente en management."
+    },
+    {
+     "text": "It is also worth finding out whether something is going on ___ the scenes, such as a workload or health issue.",
+     "answer": "behind",
+     "accept": [],
+     "explain_fr": "'Behind the scenes' = en coulisses. Toujours avec 'behind', jamais 'behind the scene' au singulier dans ce sens."
+    },
+    {
+     "text": "After your conversation, please send her a short email summarising what you agreed, so that we have a ___ trail.",
+     "answer": "paper",
+     "accept": [],
+     "explain_fr": "'Paper trail' = trace écrite, même quand les échanges sont électroniques."
+    },
+    {
+     "text": "I'd be happy to ___ you through how to structure the conversation before you see her.",
+     "answer": "walk",
+     "accept": [
+      "talk",
+      "take"
+     ],
+     "explain_fr": "'To walk someone through' = expliquer pas à pas. 'Talk someone through' et 'take someone through' sont aussi naturels."
+    }
+   ],
+   "outline": [],
+   "model": "Hi Julien,\n\nThanks for raising this with me before taking any action - that's exactly the right instinct.\n\nAt this stage, I would advise against a formal warning. Nobody has yet told Nadia clearly what is expected of her, so the first step is to set expectations. I'd suggest an informal one-to-one this week: share the figures, explain the gap between where she is and where she needs to be, and above all listen to her explanation. It is also worth finding out whether something is going on behind the scenes, such as a workload or health issue.\n\nAfter your conversation, please send her a short email summarising what you agreed, so that we have a paper trail. Agree a review date in four to six weeks.\n\nI'd be happy to walk you through how to structure the conversation before you see her. Would Wednesday afternoon work?\n\nBest,\nSophie",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "that's exactly the right instinct",
+     "note_fr": "On valorise la démarche du manager avant de le contredire : il reviendra vers les RH la prochaine fois."
+    },
+    {
+     "quote": "I would advise against a formal warning",
+     "note_fr": "Le conditionnel 'would' adoucit le conseil sans l'affaiblir. Plus naturel que 'you must not'."
+    },
+    {
+     "quote": "and above all listen to her explanation",
+     "note_fr": "'Above all' met en relief le point clé ; préférable à 'moreover' ou 'indeed'."
+    },
+    {
+     "quote": "so that we have a paper trail",
+     "note_fr": "'So that' introduit le but de la consigne : on explique pourquoi, le manager adhère mieux."
+    },
+    {
+     "quote": "Would Wednesday afternoon work?",
+     "note_fr": "Proposer un créneau précis transforme l'offre d'aide en action concrète."
+    }
+   ],
+   "checklist": [
+    "Did I acknowledge the manager's request before redirecting it?",
+    "Is my recommendation clear in the first lines?",
+    "Did I explain why an informal step comes first?",
+    "Did I mention possible causes outside the employee's control?",
+    "Did I ask for a written record and a review date?",
+    "Did I offer concrete help with a date?"
+   ],
+   "phrasebank": [
+    "Thanks for raising this with me before taking any action.",
+    "At this stage, I would advise against...",
+    "The first step is to set clear expectations.",
+    "It is also worth finding out whether...",
+    "Please send her a short email summarising what you agreed.",
+    "I'd be happy to walk you through...",
+    "Would Wednesday afternoon work?"
+   ]
+  },
+  {
+   "id": "wr-sg-2",
+   "title": "Minutes: executive committee discussion on HR KPIs",
+   "stage": 1,
+   "kind": "meeting minutes",
+   "brief": "Write the HR item of the minutes of the executive committee of Varuna Technologies France. The committee reviewed the quarterly HR dashboard, discussed the rise in absence, rejected a proposal to lift the hiring freeze and asked HR for a deep dive.",
+   "brief_fr": "Rédigez le point RH du compte rendu du comité exécutif de Varuna Technologies France. Le comité a examiné le tableau de bord RH trimestriel, discuté de la hausse de l'absentéisme, refusé de lever le gel des recrutements et demandé une analyse approfondie aux RH.",
+   "gaps": [
+    {
+     "text": "The HR Director ___ the Committee through the HR dashboard for the third quarter.",
+     "answer": "took",
+     "accept": [
+      "walked",
+      "talked"
+     ],
+     "explain_fr": "'To take someone through' = présenter en détail. Au passé dans un compte rendu : 'took'."
+    },
+    {
+     "text": "Voluntary turnover had fallen by 2.3 points year ___ year.",
+     "answer": "on",
+     "accept": [
+      "over"
+     ],
+     "explain_fr": "'Year on year' (UK) / 'year over year' (US) = en glissement annuel."
+    },
+    {
+     "text": "Members expressed concern at the rise in the absence ___, which now stands at 6.1%.",
+     "answer": "rate",
+     "accept": [],
+     "explain_fr": "'Absence rate' = taux d'absentéisme. 'Stands at' = s'établit à, tournure standard pour un indicateur."
+    },
+    {
+     "text": "The proposal to lift the hiring ___ was not approved.",
+     "answer": "freeze",
+     "accept": [],
+     "explain_fr": "'To lift a hiring freeze' = lever un gel des recrutements."
+    },
+    {
+     "text": "The Committee asked HR to carry out a deep ___ on absence at the two sites concerned.",
+     "answer": "dive",
+     "accept": [],
+     "explain_fr": "'A deep dive' = une analyse approfondie. 'To carry out' est le verbe neutre des comptes rendus."
+    },
+    {
+     "text": "Action: HR to present its findings, ___ with recommendations, at the January meeting.",
+     "answer": "together",
+     "accept": [
+      "along"
+     ],
+     "explain_fr": "'Together with' = accompagné de. Style télégraphique 'HR to present' typique des actions dans les minutes."
+    }
+   ],
+   "outline": [],
+   "model": "Item 4: HR dashboard - Q3\n\nThe HR Director took the Committee through the HR dashboard for the third quarter. Voluntary turnover had fallen by 2.3 points year on year, which she attributed in part to the new career paths for technicians.\n\nMembers expressed concern at the rise in the absence rate, which now stands at 6.1%, against a target of 5%. It was noted that the increase was concentrated at the Lyon support centre and the Marseille site.\n\nThe proposal to lift the hiring freeze was not approved. The CFO stressed that the payroll-to-revenue ratio should remain within budget until the end of the financial year.\n\nThe Committee asked HR to carry out a deep dive on absence at the two sites concerned.\n\nAction: HR to present its findings, together with recommendations, at the January meeting.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "which she attributed in part to",
+     "note_fr": "'To attribute something to' = imputer à. 'In part' nuance l'analyse : on reste prudent sur les causes."
+    },
+    {
+     "quote": "Members expressed concern at",
+     "note_fr": "Formule classique des comptes rendus britanniques ; on rapporte une position collective sans nommer chacun."
+    },
+    {
+     "quote": "It was noted that",
+     "note_fr": "Le passif impersonnel est normal dans des minutes : il consigne un constat sans l'attribuer."
+    },
+    {
+     "quote": "was not approved",
+     "note_fr": "Formulation neutre pour une décision négative ; évitez 'was refused', plus sec."
+    },
+    {
+     "quote": "Action: HR to present its findings",
+     "note_fr": "Infinitif sans auxiliaire pour les actions : bref, clair, avec un responsable et une échéance."
+    }
+   ],
+   "checklist": [
+    "Is the item clearly numbered and titled?",
+    "Did I use the past tense consistently for what was said?",
+    "Is each figure given with its comparison or target?",
+    "Is the decision stated neutrally and unambiguously?",
+    "Does every action have an owner and a deadline?"
+   ],
+   "phrasebank": [
+    "X took the Committee through...",
+    "Members expressed concern at...",
+    "It was noted that...",
+    "The proposal was not approved.",
+    "The Committee asked HR to...",
+    "Action: HR to present its findings at the next meeting.",
+    "which now stands at..."
+   ]
+  },
+  {
+   "id": "wr-sg-3",
+   "title": "Talking points for a difficult conversation",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "Camille, a newly promoted team leader, must tell a former peer, Hugo, that his repeated lateness to client calls is no longer acceptable. Write one paragraph of talking points (120-160 words) she can use to open and structure the conversation.",
+   "brief_fr": "Camille, récemment promue cheffe d'équipe, doit dire à un ancien collègue, Hugo, que ses retards répétés aux appels clients ne sont plus acceptables. Rédigez un paragraphe de points clés (120 à 160 mots) pour ouvrir et structurer l'échange.",
+   "gaps": [],
+   "outline": [
+    "Open by naming the purpose of the meeting directly, without small talk",
+    "State the facts precisely (dates, calls), not judgements",
+    "Explain the impact on clients and the team",
+    "Acknowledge the change in your relationship",
+    "Ask for his view and listen",
+    "Agree what happens next and when you will review it"
+   ],
+   "model": "Hugo, I wanted to talk to you about something specific, and I'd rather get straight to the point. You joined the client calls late on three occasions this month: on the 4th, the 11th and the 18th. On the last one, the client asked me whether we were still interested in the account. That puts the relationship at risk, and it means the rest of the team ends up covering for you. I know this is a bit awkward - a few months ago we were working side by side, and now I'm the one raising it. But it's precisely because I value working with you that I'd rather be upfront. Is there something going on that I should know about? I'd like to hear your side. What I need from now on is for you to be on every call on time. Let's check in again in two weeks and see where we are.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I'd rather get straight to the point",
+     "note_fr": "Annoncer qu'on va droit au but évite de 'beat around the bush' et rassure sur la transparence."
+    },
+    {
+     "quote": "on the 4th, the 11th and the 18th",
+     "note_fr": "Des faits datés plutôt qu'un jugement ('you're always late') : l'échange reste factuel et incontestable."
+    },
+    {
+     "quote": "I know this is a bit awkward",
+     "note_fr": "Nommer la gêne liée au changement de statut désamorce la tension. 'A bit' : understatement britannique."
+    },
+    {
+     "quote": "Is there something going on that I should know about?",
+     "note_fr": "Question ouverte qui laisse place à une cause cachée (santé, situation personnelle)."
+    },
+    {
+     "quote": "What I need from now on is",
+     "note_fr": "Structure clivée ('What I need is...') : met en relief l'attente sans agressivité."
+    }
+   ],
+   "checklist": [
+    "Do I state the purpose within the first two sentences?",
+    "Are the facts specific and dated?",
+    "Did I explain the impact, not just the behaviour?",
+    "Did I leave room for his explanation?",
+    "Is the expectation clear and measurable?",
+    "Is there a follow-up date?"
+   ],
+   "phrasebank": [
+    "I wanted to talk to you about something specific.",
+    "I'd rather get straight to the point.",
+    "That puts ... at risk.",
+    "I know this is a bit awkward.",
+    "I'd like to hear your side.",
+    "What I need from now on is...",
+    "Let's check in again in two weeks."
+   ]
+  },
+  {
+   "id": "wr-sg-4",
+   "title": "Commentary on the quarterly HR dashboard",
+   "stage": 2,
+   "kind": "report",
+   "brief": "Write the commentary paragraph (120-160 words) that accompanies the quarterly HR dashboard sent to the US parent company. Turnover is down, absence is up, time to hire is longer because of the hiring freeze. Use American spelling.",
+   "brief_fr": "Rédigez le paragraphe de commentaire (120 à 160 mots) qui accompagne le tableau de bord RH trimestriel envoyé à la maison mère américaine. Le turnover baisse, l'absentéisme augmente, le délai de recrutement s'allonge à cause du gel des embauches. Orthographe américaine.",
+   "gaps": [],
+   "outline": [
+    "One-sentence overall message",
+    "Turnover: figure, trend, likely reason",
+    "Absence: figure versus target, where it is concentrated, what is being done",
+    "Time to hire: figure and reason (deliberate trade-off)",
+    "What to watch next quarter"
+   ],
+   "model": "Overall, Q3 shows progress on retention but a deterioration in absence. Voluntary turnover fell to 11.2% on a rolling 12-month basis, down from 13.5% year over year; exit data suggests that the new technician career paths are starting to pay off. Absence, by contrast, rose to 6.1% against a target of 5%. The increase is concentrated at two sites and consists mainly of short, repeated absences, which we see as an early warning sign of disengagement rather than a medical trend. Site managers will hold systematic return-to-work conversations from December. Time to hire lengthened to 58 days, as expected, because of the hiring freeze on non-critical roles - a deliberate trade-off to keep the payroll ratio within budget. Next quarter, the key metric to watch is short-term absence; we will share a deep dive with the leadership team in January.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "Overall, Q3 shows progress on retention but a deterioration in absence.",
+     "note_fr": "Le message principal d'abord ('bottom line up front'), comme l'attend un lecteur américain."
+    },
+    {
+     "quote": "year over year",
+     "note_fr": "Forme américaine, puisque le destinataire est la maison mère aux États-Unis ; en UK : 'year on year'."
+    },
+    {
+     "quote": "are starting to pay off",
+     "note_fr": "'To pay off' = porter ses fruits. Le verbe 'suggests' qui précède garde la prudence nécessaire."
+    },
+    {
+     "quote": "by contrast",
+     "note_fr": "Connecteur de contraste net et élégant, préférable à 'on the contrary' (qui contredit une affirmation)."
+    },
+    {
+     "quote": "a deliberate trade-off",
+     "note_fr": "Présenter un indicateur dégradé comme un arbitrage assumé montre la maîtrise de la situation."
+    }
+   ],
+   "checklist": [
+    "Does the first sentence give the overall message?",
+    "Is every figure compared with a target or a previous period?",
+    "Did I explain causes cautiously ('suggests', 'we see this as')?",
+    "Did I say what action is being taken?",
+    "Did I use American spelling and conventions consistently?"
+   ],
+   "phrasebank": [
+    "Overall, the quarter shows...",
+    "X fell to ... on a rolling 12-month basis.",
+    "Y, by contrast, rose to ... against a target of ...",
+    "The increase is concentrated at...",
+    "as expected, because of...",
+    "a deliberate trade-off to...",
+    "The key metric to watch next quarter is..."
+   ]
+  },
+  {
+   "id": "wr-sg-5",
+   "title": "Pushing back on a CEO's decision",
+   "stage": 3,
+   "kind": "email",
+   "brief": "Martin Hale, the British CEO of the French subsidiary, has decided to announce at next Monday's town hall that the Lyon customer service team will move to Lisbon. No one has informed the works council. Write him an email (200-260 words) supporting the business objective but pushing back firmly on the timing, explaining the risks and proposing an alternative.",
+   "brief_fr": "Martin Hale, CEO britannique de la filiale française, a décidé d'annoncer lundi prochain en réunion plénière le transfert à Lisbonne de l'équipe service client de Lyon. Le CSE n'a pas été informé. Écrivez-lui un e-mail (200 à 260 mots) qui soutient l'objectif mais conteste fermement le calendrier, expose les risques et propose une alternative.",
+   "gaps": [],
+   "outline": [
+    "Acknowledge the business rationale and show you support the objective",
+    "State your concern clearly: announcing before consulting the works council",
+    "Explain the legal and practical risks without legal jargon",
+    "Propose an alternative timetable and what can be said on Monday",
+    "Offer to discuss and make clear the decision is his, with your advice on record"
+   ],
+   "model": "Dear Martin,\n\nThank you for sharing your plans for the customer service team ahead of Monday's town hall. I understand the business case for consolidating the activity in Lisbon, and I'm keen to help you deliver it.\n\nI do, however, have a serious concern about the timing. Under French law, a project of this kind must be put to the works council for information and consultation before any decision is final. If the move is announced on Monday as a done deal, the works council could argue that it has been presented with a fait accompli. That would expose the company to a claim for obstruction, could delay the project by several months and would almost certainly damage trust with the team and its representatives.\n\nI would therefore suggest a slightly different sequence. On Monday, you could explain that the company is reviewing the organisation of customer service and that a proposal will be submitted to the works council shortly. We would then table the project at an extraordinary works council meeting within the next two to three weeks, with a clear timetable and the support measures we intend to offer.\n\nThis would cost us a few weeks at the start, but it would protect the project as a whole.\n\nI'd welcome the chance to talk this through with you before Monday - perhaps tomorrow morning? Ultimately the decision is yours, but I wanted to set out my advice clearly.\n\nKind regards,\n\nSophie",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I'm keen to help you deliver it",
+     "note_fr": "On se place du côté de l'objectif avant de contester la méthode : la critique porte sur le 'comment', pas sur le 'quoi'."
+    },
+    {
+     "quote": "I do, however, have a serious concern about the timing.",
+     "note_fr": "Le 'do' d'insistance et 'however' en incise marquent le désaccord avec fermeté mais sans agressivité."
+    },
+    {
+     "quote": "as a done deal",
+     "note_fr": "'A done deal' = une affaire conclue. L'expression française 'fait accompli' est aussi employée en anglais."
+    },
+    {
+     "quote": "That would expose the company to a claim for obstruction",
+     "note_fr": "Le délit d'entrave rendu par 'obstruction', avec les conséquences concrètes qui parlent à un dirigeant : délai, confiance."
+    },
+    {
+     "quote": "I would therefore suggest a slightly different sequence.",
+     "note_fr": "'Slightly' minimise l'écart proposé : understatement britannique qui facilite l'acceptation."
+    },
+    {
+     "quote": "Ultimately the decision is yours, but I wanted to set out my advice clearly.",
+     "note_fr": "On respecte l'autorité du CEO tout en laissant une trace claire du conseil donné."
+    }
+   ],
+   "checklist": [
+    "Did I show support for the business objective before raising my concern?",
+    "Is the concern stated clearly in one sentence?",
+    "Did I explain the risks in business terms (cost, delay, trust)?",
+    "Did I offer a workable alternative, including what can be said now?",
+    "Did I respect his authority while putting my advice on record?",
+    "Is the tone firm but courteous throughout?"
+   ],
+   "phrasebank": [
+    "I understand the business case for...",
+    "I do, however, have a serious concern about...",
+    "Under French law, a project of this kind must...",
+    "That would expose the company to...",
+    "I would therefore suggest a slightly different sequence.",
+    "This would cost us a few weeks, but it would protect...",
+    "Ultimately the decision is yours, but I wanted to set out my advice clearly."
+   ]
+  },
+  {
+   "id": "wr-sg-6",
+   "title": "Executive summary of HR priorities",
+   "stage": 3,
+   "kind": "report",
+   "brief": "Write the executive summary (200-260 words) of the HR roadmap for 2027 that you will present to the board of Corvane Logistics France. Give the context, three priorities with one target each, the budget requested and the decision expected from the board.",
+   "brief_fr": "Rédigez la synthèse (200 à 260 mots) de la feuille de route RH 2027 que vous présenterez au conseil de Corvane Logistics France : contexte, trois priorités avec un objectif chacune, budget demandé et décision attendue du conseil.",
+   "gaps": [],
+   "outline": [
+    "The decision requested from the board, up front",
+    "Business context and why HR matters to it",
+    "Three priorities, each with one measurable target",
+    "Budget and how it is funded",
+    "Main risk and how it will be managed"
+   ],
+   "model": "Executive summary\n\nThe Board is invited to approve the 2027 HR roadmap and an associated budget of EUR 620,000.\n\nOur business plan relies on opening two automated warehouses and growing volumes by 30% over three years. The main constraint is no longer equipment but people: we are losing skilled technicians, absence is above the industry average and many of our frontline managers have had little preparation for the role. The roadmap therefore focuses on three priorities.\n\nFirst, securing critical skills: we aim to bring regretted attrition among maintenance technicians down from 14% to below 9% by the end of 2027. Second, building manager capability: every team leader will complete a six-module programme covering difficult conversations, change and the basics of French labour law. Third, simplifying the HR operating model, so that HR business partners spend at least half their time advising managers rather than processing requests.\n\nThe budget will be largely funded by savings on agency fees and recruitment costs. Progress will be reported quarterly in the HR dashboard.\n\nThe main risk lies in implementation: the programme will only succeed if site directors free up their managers' time. We will mitigate this by agreeing training slots with each site in advance and by including manager capability in directors' objectives.",
+   "model_us": "Executive summary\n\nThe Board is asked to approve the 2027 HR roadmap and an associated budget of EUR 620,000.\n\nOur business plan relies on opening two automated warehouses and growing volumes by 30% over three years. The main constraint is no longer equipment but people: we are losing skilled technicians, absenteeism is above the industry average, and many of our frontline managers have had little preparation for the role. The roadmap therefore focuses on three priorities.\n\nFirst, securing critical skills: we aim to bring regretted attrition among maintenance technicians down from 14% to below 9% by year-end 2027. Second, building manager capability: every team leader will complete a six-module program covering difficult conversations, change, and the basics of French labor law. Third, simplifying the HR operating model, so that HR business partners spend at least half their time advising managers rather than processing requests.\n\nThe budget will be funded largely by savings on agency fees and recruiting costs. We will report progress quarterly in the HR dashboard.\n\nThe main risk is execution: the program will only succeed if site directors free up their managers' time. We will mitigate this by locking in training slots with each site in advance and by building manager capability into directors' goals.",
+   "commentary": [
+    {
+     "quote": "The Board is invited to approve",
+     "note_fr": "Formule britannique standard des documents de conseil : la décision attendue figure dès la première ligne. En US : 'is asked to approve'."
+    },
+    {
+     "quote": "The main constraint is no longer equipment but people",
+     "note_fr": "Structure 'no longer X but Y' : elle relie l'enjeu RH à la stratégie de l'entreprise en une phrase."
+    },
+    {
+     "quote": "First, securing critical skills",
+     "note_fr": "'First, Second, Third' structurent la synthèse ; évitez 'Firstly... Secondly', plus lourds."
+    },
+    {
+     "quote": "from 14% to below 9% by the end of 2027",
+     "note_fr": "Chaque priorité est assortie d'un objectif chiffré et daté : c'est ce que le conseil retiendra."
+    },
+    {
+     "quote": "We will mitigate this by",
+     "note_fr": "'To mitigate' = atténuer. Un risque n'est crédible que s'il est accompagné de sa parade."
+    }
+   ],
+   "checklist": [
+    "Is the decision requested stated in the first sentence?",
+    "Is the link between HR and the business strategy explicit?",
+    "Does each priority have a measurable target?",
+    "Did I say how the budget is funded?",
+    "Did I name the main risk and how it will be managed?",
+    "Is it under 260 words?"
+   ],
+   "phrasebank": [
+    "The Board is invited to approve...",
+    "Our business plan relies on...",
+    "The roadmap therefore focuses on three priorities.",
+    "We aim to bring X down from ... to ... by ...",
+    "The budget will be largely funded by...",
+    "Progress will be reported quarterly in...",
+    "The main risk lies in... We will mitigate this by..."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-sg-1",
+   "title": "Coaching a newly promoted manager",
+   "context": "Sophie, HR Director of the French subsidiary of a British group, meets Oliver, who was promoted a month ago to lead the team he used to work in. He is struggling to delegate and to manage his former peers.",
+   "context_fr": "Sophie, DRH de la filiale française d'un groupe britannique, rencontre Oliver, promu il y a un mois à la tête de l'équipe dont il faisait partie. Il a du mal à déléguer et à manager ses anciens collègues.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Sophie",
+     "text": "So, a month in. How are you finding it, honestly?",
+     "note_fr": "'How are you finding it?' = comment ça se passe pour vous ? Tournure britannique très naturelle pour demander un ressenti."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Honestly? Exhausting. I'm doing my old job and the new one, and I'm working until nine most nights.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "That's quite common in the first few months. Can I ask what you're still doing yourself that someone in the team could pick up?",
+     "note_fr": "Question ouverte de coaching : on aide le manager à trouver lui-même la réponse. 'To pick up' = reprendre une tâche."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Well, the monthly reporting, for a start. But it's quicker if I do it. If I hand it over to Priya, I'll only end up checking every line.",
+     "note_fr": "'For a start' = pour commencer. 'To hand over' = confier, transmettre."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Quicker this month, perhaps. But in six months you'll still be doing it, and Priya won't have learnt anything. Delegating takes longer at first - that's the investment.",
+     "note_fr": "'Learnt' (UK) / 'learned' (US). L'argument met en balance court terme et long terme."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Fair enough. The harder bit, to be honest, is Hugo. We used to go for drinks every Friday, and now I'm meant to tell him his work isn't up to scratch.",
+     "note_fr": "'Up to scratch' = au niveau attendu. 'I'm meant to' = je suis censé (UK) ; en US, plutôt 'I'm supposed to'."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "That's probably the hardest part of the transition. What do you think he expects from you now?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I suspect he expects me to let things slide. And I have, a bit.",
+     "note_fr": "'To let things slide' = laisser couler, ne pas réagir."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Then I'd suggest you have a quiet word with him this week. Acknowledge that it's a bit odd for both of you, then be very clear about what you need from him. You don't have to stop being friendly - you just can't stop being his manager.",
+     "note_fr": "'A quiet word' : entretien discret et informel, expression typiquement britannique."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "And if he takes it badly?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Then he takes it badly, and you deal with that. But in my experience, people respect a manager who's straight with them far more than one who beats around the bush.",
+     "note_fr": "'Straight with someone' = franc, honnête. 'To beat around the bush' = tourner autour du pot."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Right. Could we go through how I'd open the conversation? I'd rather not wing it.",
+     "note_fr": "'To wing it' = improviser sans préparation (familier)."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Of course. Let's do that now, and we'll check in again in a fortnight to see how the reporting's going with Priya.",
+     "note_fr": "'A fortnight' = quinze jours, très britannique ; les Américains disent 'two weeks'."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does Oliver resist delegating the monthly reporting?",
+     "options": [
+      "Priya is too busy",
+      "He thinks it is faster to do it himself",
+      "His boss has asked him to keep it",
+      "It is confidential"
+     ],
+     "answer": 1,
+     "explain_fr": "« It's quicker if I do it » : l'argument classique du manager qui ne délègue pas."
+    },
+    {
+     "q": "What does Sophie advise about Hugo?",
+     "options": [
+      "To move Hugo to another team",
+      "To stop socialising with him",
+      "To talk to him privately and be clear about expectations",
+      "To wait for the annual review"
+     ],
+     "answer": 2,
+     "explain_fr": "Elle conseille « a quiet word » et d'être « very clear about what you need from him »."
+    },
+    {
+     "q": "What will happen in two weeks?",
+     "options": [
+      "They will meet again to review progress",
+      "Oliver will start a formal procedure",
+      "Priya will be promoted",
+      "Hugo will be given a warning"
+     ],
+     "answer": 0,
+     "explain_fr": "« We'll check in again in a fortnight » : un point de suivi dans quinze jours."
+    }
+   ]
+  },
+  {
+   "id": "dl-sg-2",
+   "title": "Executive committee: what the HR numbers really say",
+   "context": "Executive committee of Corvane Logistics France. Martin, the CEO, Fiona, the CFO, and Sophie, HR Director, discuss the quarterly HR dashboard.",
+   "context_fr": "Comité exécutif de Corvane Logistics France. Martin (CEO), Fiona (directrice financière) et Sophie (DRH) commentent le tableau de bord RH trimestriel.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Martin",
+     "text": "Right, item four. Sophie, the people numbers. Keep it brief if you can - we're running late.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Of course. Three things to take away. Turnover is down two points on last year, absence is up, and time to hire has gone out to almost sixty days.",
+     "note_fr": "'Three things to take away' : on annonce le plan d'emblée. 'Down two points on last year' = en baisse de deux points sur un an."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "The time to hire doesn't worry me. That's the freeze doing what it's supposed to do.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Agreed, that one's a deliberate trade-off. Absence is what I'd like us to focus on. It's six point one per cent against a target of five, and it's almost entirely in two warehouses.",
+     "note_fr": "'Six point one per cent' : on lit la décimale avec 'point'. 'Against a target of' = pour un objectif de."
+    },
+    {
+     "speaker": "Martin",
+     "text": "Isn't that just the winter flu season?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "That was my first thought too, but it doesn't quite fit. It's short absences, mostly Mondays, and it started in September - well before flu season. It tends to be a leading indicator of disengagement rather than illness.",
+     "note_fr": "'It doesn't quite fit' = ça ne colle pas tout à fait : désaccord adouci. 'Leading indicator' = indicateur avancé."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "What's it costing us?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Roughly the equivalent of twelve full-time posts in temporary cover. So it's not trivial.",
+     "note_fr": "'Not trivial' : understatement britannique pour dire que c'est significatif."
+    },
+    {
+     "speaker": "Martin",
+     "text": "And what's driving it? Do we know?",
+     "note_fr": "'What's driving it?' = qu'est-ce qui l'explique ? Question fréquente en comité."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Not yet with any certainty. Both sites changed their shift patterns over the summer, and both have relatively new site managers. I'd rather not jump to conclusions, so I'm proposing a deep dive for the January meeting.",
+     "note_fr": "'To jump to conclusions' = tirer des conclusions hâtives."
+    },
+    {
+     "speaker": "Martin",
+     "text": "Fine. But I'd like more than a diagnosis - come back with options and what they'd cost.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Absolutely. I'll bring a costed set of options, and I'll talk to both site managers before then so there are no surprises.",
+     "note_fr": "'Costed options' = options chiffrées. 'No surprises' : règle d'or du 'managing upwards'."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is Fiona not worried about time to hire?",
+     "options": [
+      "It has improved since last year",
+      "It is the expected result of the hiring freeze",
+      "Recruitment is not a priority",
+      "It is below the industry average"
+     ],
+     "answer": 1,
+     "explain_fr": "« That's the freeze doing what it's supposed to do » : c'est la conséquence voulue du gel."
+    },
+    {
+     "q": "Why does Sophie reject the flu-season explanation?",
+     "options": [
+      "The pattern of absences does not match it",
+      "Medical certificates show other causes",
+      "The CFO disagrees",
+      "Absence fell in winter"
+     ],
+     "answer": 0,
+     "explain_fr": "Absences courtes, surtout le lundi, commencées en septembre : « it doesn't quite fit »."
+    },
+    {
+     "q": "What does Martin ask Sophie to bring in January?",
+     "options": [
+      "A new absence target",
+      "A list of employees with high absence",
+      "Costed options, not only an analysis",
+      "A proposal to lift the hiring freeze"
+     ],
+     "answer": 2,
+     "explain_fr": "« Come back with options and what they'd cost » : il veut des solutions chiffrées, pas seulement un diagnostic."
+    }
+   ]
+  },
+  {
+   "id": "dl-sg-3",
+   "title": "'I want him out today'",
+   "context": "Greg, an American operations director at the Paris office of Halden Systems, calls Sophie, the HR Director, minutes after an employee, Karim, swore at him in front of the team.",
+   "context_fr": "Greg, directeur des opérations américain du bureau parisien de Halden Systems, appelle Sophie, la DRH, quelques minutes après qu'un salarié, Karim, l'a insulté devant l'équipe.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Greg",
+     "text": "Sophie, I need you to fire Karim. Today. He just cursed me out in front of the whole team, and I'm done.",
+     "note_fr": "'To curse someone out' (US) = insulter quelqu'un copieusement. 'I'm done' = j'en ai assez."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Okay, Greg, I hear you. That sounds completely unacceptable. Before we talk about next steps, can you tell me exactly what happened and who was there?",
+     "note_fr": "'I hear you' : on accueille l'émotion sans valider la demande. On recentre immédiatement sur les faits."
+    },
+    {
+     "speaker": "Greg",
+     "text": "I told him his release notes were late again, and he stood up and called me an incompetent idiot - and worse. Four or five people saw it.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Got it. So, here's the thing: in France you can't fire someone on the spot, even for something like this. There's a procedure, and if we skip it, the dismissal is challengeable no matter how bad the behavior was.",
+     "note_fr": "'Here's the thing' : annonce directe, très américaine. 'On the spot' = sur-le-champ. 'Behavior' : orthographe US."
+    },
+    {
+     "speaker": "Greg",
+     "text": "You're kidding me. So he just comes back in tomorrow like nothing happened?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Not necessarily. If we think this could amount to serious misconduct, we can suspend him on full pay pending the outcome - that's a precautionary measure, not a sanction. It keeps him out of the office while we look into it.",
+     "note_fr": "La mise à pied conservatoire est expliquée simplement. 'Pending' = dans l'attente de."
+    },
+    {
+     "speaker": "Greg",
+     "text": "Okay, that's something. Then what?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "We get written accounts from the people who were there, today or tomorrow while it's fresh. Then we send him a letter inviting him to a meeting, he gets to give his side, and only after that do we decide. Realistically, we're looking at two to three weeks.",
+     "note_fr": "Rappel de la procédure en termes simples : convocation, entretien préalable, décision. 'While it's fresh' = tant que c'est frais dans les mémoires."
+    },
+    {
+     "speaker": "Greg",
+     "text": "Three weeks. Back home this would've been a ten-minute conversation.",
+     "note_fr": "Allusion à l'emploi 'at-will' américain."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "I know it's frustrating. But a knee-jerk firing could cost us far more than three weeks if he takes it to the labor court. And one more thing - is there any background here? Has anything like this happened before, or has he raised any concerns himself?",
+     "note_fr": "'Knee-jerk' = réflexe, irréfléchi. Question clé : vérifier qu'il n'y a pas un contexte (plainte, harcèlement) qui changerait l'analyse."
+    },
+    {
+     "speaker": "Greg",
+     "text": "Not that I know of. He's been touchy since the reorg, but nothing like this.",
+     "note_fr": "'Touchy' = susceptible, à cran. 'Reorg' = abréviation familière de 'reorganization'."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Okay. Don't say anything more to him for now. I'll call our employment lawyer and get back to you within the hour with the suspension letter.",
+     "note_fr": "Consigne claire au manager et délai précis : on reprend la main sans le désavouer."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What can the company do immediately, according to Sophie?",
+     "options": [
+      "Dismiss Karim with immediate effect",
+      "Cut his pay for the day",
+      "Transfer him to another office",
+      "Suspend him on full pay while the facts are examined"
+     ],
+     "answer": 3,
+     "explain_fr": "La mise à pied conservatoire (« suspend him on full pay pending the outcome ») permet de l'écarter sans préjuger de la sanction."
+    },
+    {
+     "q": "Why does Sophie want written accounts quickly?",
+     "options": [
+      "The law requires them within 24 hours",
+      "Greg's version is not reliable",
+      "Witnesses remember events better soon afterwards",
+      "Karim has asked for them"
+     ],
+     "answer": 2,
+     "explain_fr": "« While it's fresh » : les témoignages sont plus précis à chaud."
+    },
+    {
+     "q": "Why does Sophie ask about the background?",
+     "options": [
+      "To check for context that could change the analysis",
+      "To delay the procedure",
+      "To blame Greg",
+      "To calculate severance pay"
+     ],
+     "answer": 0,
+     "explain_fr": "Un antécédent ou une alerte du salarié (harcèlement, conflit) pourrait modifier le risque juridique : il faut le savoir avant d'agir."
+    }
+   ]
+  },
+  {
+   "id": "dl-sg-4",
+   "title": "A call with a US VP about culture",
+   "context": "Karen, VP People at Halden Systems in Chicago, wants to roll out the group's 'Speak Up, Move Fast' culture program to the French subsidiary. She is on a video call with Sophie.",
+   "context_fr": "Karen, VP People de Halden Systems à Chicago, veut déployer dans la filiale française le programme culturel du groupe « Speak Up, Move Fast ». Elle est en visioconférence avec Sophie.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Karen",
+     "text": "So, Sophie, the big ask from leadership is that every site lives the values by Q2. How do you think 'Speak Up, Move Fast' will land in Paris?",
+     "note_fr": "'The big ask' = la grande demande. 'How will it land?' = comment sera-t-il reçu ?"
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Honestly? 'Move fast' will land well with the engineers. 'Speak up' is where I'd be careful - not because people don't have opinions, believe me, but because of how they share them.",
+     "note_fr": "On commence par le positif, puis on nuance. 'Believe me' ajoute une touche d'humour."
+    },
+    {
+     "speaker": "Karen",
+     "text": "Say more.",
+     "note_fr": "'Say more' : formule américaine très directe pour inviter à développer."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "In a lot of French teams, people will challenge an idea openly in a meeting, sometimes quite bluntly. But they're much less comfortable giving a manager personal feedback, especially in writing. It can feel like a breach of the hierarchy.",
+     "note_fr": "Explication interculturelle factuelle, sans caricature."
+    },
+    {
+     "speaker": "Karen",
+     "text": "Interesting. Our playbook includes a monthly upward feedback survey, with names attached. Is that a problem?",
+     "note_fr": "'Playbook' = guide de méthodes (image du football américain). 'Upward feedback' = feedback du collaborateur vers le manager."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Potentially, yes, on two levels. Culturally, named feedback on your boss will get very cautious answers. And legally, a new tool that collects data about employees and their managers would need to go to the works council first, and we'd have to look at the data protection side.",
+     "note_fr": "Deux niveaux distincts, culturel et juridique. La consultation du CSE et le RGPD sont évoqués sans jargon."
+    },
+    {
+     "speaker": "Karen",
+     "text": "Okay, that's helpful to know before we hit send. What would you suggest?",
+     "note_fr": "'Before we hit send' = avant de lancer (image de l'e-mail)."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "I'd pilot it with two volunteer teams, make the survey anonymous, and have the managers themselves present the values - not HR. If the leaders here don't own it, it'll look like another program from head office.",
+     "note_fr": "'To pilot' = tester en phase pilote. 'Own it' = se l'approprier. 'Program' : orthographe US."
+    },
+    {
+     "speaker": "Karen",
+     "text": "I like that. My only concern is timing - leadership wants consistency across all sites.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "I understand. I'd frame it as the same values, adapted delivery. We'd still report on the same metrics as everyone else, so you'd have the consistency where it matters.",
+     "note_fr": "Formule synthétique qui concilie cohérence groupe et adaptation locale."
+    },
+    {
+     "speaker": "Karen",
+     "text": "Same values, adapted delivery - I can sell that. Can you put a one-pager together for me by Friday?",
+     "note_fr": "'I can sell that' = je peux le défendre en interne. 'One-pager' = note d'une page."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Sure. I'll include the works council timeline so nobody's caught off guard.",
+     "note_fr": "'Caught off guard' = pris au dépourvu."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What part of the program does Sophie think needs care?",
+     "options": [
+      "Moving fast",
+      "Reporting metrics",
+      "The Q2 deadline",
+      "Speaking up, especially giving managers personal feedback"
+     ],
+     "answer": 3,
+     "explain_fr": "Elle anticipe une réticence à donner un feedback nominatif à son manager, surtout par écrit."
+    },
+    {
+     "q": "Which legal point does Sophie raise?",
+     "options": [
+      "Surveys are forbidden in France",
+      "Employees must be paid to answer",
+      "A new tool collecting employee data needs works council involvement and a data protection review",
+      "Values must be written in French"
+     ],
+     "answer": 2,
+     "explain_fr": "Un nouvel outil de collecte de données sur les salariés implique en principe l'information-consultation du CSE et une analyse RGPD."
+    },
+    {
+     "q": "How does Sophie reconcile group consistency and local adaptation?",
+     "options": [
+      "Same values and metrics, but adapted delivery",
+      "Different values for France",
+      "Delaying the program by a year",
+      "Letting HR present the values"
+     ],
+     "answer": 0,
+     "explain_fr": "« Same values, adapted delivery » : mêmes valeurs et indicateurs, déploiement adapté."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-sg-1",
+   "title": "Advising a manager who has lost trust in a remote employee",
+   "situation": "Nathalie, a finance manager, wants to stop one of her analysts, Élodie, from working from home because she 'never knows what she's doing'. Élodie's work is delivered on time. Advise Nathalie.",
+   "situation_fr": "Nathalie, responsable financière, veut retirer le télétravail à une analyste, Élodie, car elle « ne sait jamais ce qu'elle fait ». Le travail d'Élodie est rendu dans les délais. Conseillez Nathalie.",
+   "turns": [
+    {
+     "say": "I want Élodie back in the office five days a week. When she's at home, I have no idea what she's doing.",
+     "seconds": 35,
+     "model": "I can see why that's frustrating. Can I ask what prompted this now? Has something gone wrong with her work, or is it more a feeling that you've lost visibility?",
+     "tips_fr": "Accueillez la frustration, puis posez une question ouverte pour distinguer un problème réel d'une impression."
+    },
+    {
+     "say": "Her work's fine, actually. It's just that she doesn't always answer straight away on Teams.",
+     "seconds": 35,
+     "model": "So the output is fine, and the issue is really about availability. That's a fair thing to want, but it's a different problem, and it's one you can fix by setting clear expectations - for example, agreeing core hours when she needs to be reachable.",
+     "tips_fr": "Reformulez pour recadrer : 'So the output is fine'. Distinguez résultat et disponibilité."
+    },
+    {
+     "say": "Can't I just tell her remote working's over for her?",
+     "seconds": 40,
+     "model": "I'd advise against that. If remote working is provided for in our agreement or charter, withdrawing it from one person without an objective reason could look like a sanction in disguise, and it would expose us. More importantly, you'd risk losing a good analyst over something a conversation could solve.",
+     "tips_fr": "'I'd advise against that' : conseil ferme mais poli. Donnez le risque juridique en termes généraux, puis l'argument managérial."
+    },
+    {
+     "say": "Fine. So what do I actually say to her?",
+     "seconds": 40,
+     "model": "I'd keep it simple and positive. Start by saying her work is good. Then explain that you need to be able to reach her during certain hours and ask what would work for her. Agree it together, and follow up with a short email so you're both clear.",
+     "tips_fr": "Donnez une trame concrète en trois étapes. Terminez par la trace écrite."
+    },
+    {
+     "say": "And if it doesn't improve?",
+     "seconds": 30,
+     "model": "Then come back to me and we'll look at the next step together. But in my experience, once expectations are clear, most of these issues sort themselves out.",
+     "tips_fr": "Rassurez sur le soutien RH ('we'll look at it together') et terminez sur une note optimiste mais réaliste."
+    }
+   ]
+  },
+  {
+   "id": "rp-sg-2",
+   "title": "Presenting the HR roadmap to the executive committee",
+   "situation": "You are presenting the 2027 HR roadmap to the executive committee of Corvane Logistics France. Fiona, the CFO, is sceptical about the cost and challenges you.",
+   "situation_fr": "Vous présentez la feuille de route RH 2027 au comité exécutif de Corvane Logistics France. Fiona, directrice financière, est sceptique sur le coût et vous challenge.",
+   "turns": [
+    {
+     "say": "Before you start, Sophie - we have ten minutes. What do you need from us today?",
+     "seconds": 30,
+     "model": "Thank you, I'll be brief. I'm asking the committee to approve the 2027 HR roadmap and a budget of six hundred and twenty thousand euros. Let me walk you through the three priorities and why they matter to the business plan.",
+     "tips_fr": "Commencez par la décision attendue (BLUF). Annoncez le plan en une phrase."
+    },
+    {
+     "say": "Six hundred thousand is a lot of money for training. What's the return?",
+     "seconds": 40,
+     "model": "It's a fair question. Most of the budget is funded by savings on agency fees: absence and turnover are costing us the equivalent of around twelve full-time posts in temporary cover. If we bring regretted attrition down to below nine per cent, the programme largely pays for itself within two years.",
+     "tips_fr": "Validez la question ('It's a fair question'), puis répondez en chiffres et en langage financier : coût évité, retour sur investissement."
+    },
+    {
+     "say": "Can't the managers just learn on the job, like we all did?",
+     "seconds": 35,
+     "model": "Some do, but the data suggests many don't. Half of our frontline managers have been in post for less than two years, and the sites with the newest managers are exactly where absence is rising. I'd rather invest now than keep paying for it in cover costs.",
+     "tips_fr": "Ne contestez pas l'expérience de votre interlocutrice ; opposez des données factuelles. 'I'd rather... than...' exprime une préférence argumentée."
+    },
+    {
+     "say": "What's the biggest risk?",
+     "seconds": 35,
+     "model": "Honestly, implementation. If site directors don't free up their managers' time, attendance will drop. That's why I'm asking for manager capability to be included in the directors' objectives - so it's owned by the business, not just by HR.",
+     "tips_fr": "Reconnaître un risque renforce la crédibilité. Proposez immédiatement la parade."
+    },
+    {
+     "say": "All right. If we approve it, how will we know it's working?",
+     "seconds": 30,
+     "model": "You'll see it in the quarterly dashboard: regretted attrition, short-term absence and the share of managers trained, each against a target. I'll flag early if we're off track rather than wait for the year-end review.",
+     "tips_fr": "Concluez avec des indicateurs précis et un engagement de transparence ('I'll flag early')."
+    }
+   ]
+  },
+  {
+   "id": "rp-sg-3",
+   "title": "Challenging a CEO tactfully",
+   "situation": "Rajiv Menon, CEO of the French subsidiary of an Indian group, wants to cancel the manager training programme mid-year to save costs. You believe this is a mistake. Challenge him tactfully and propose an alternative.",
+   "situation_fr": "Rajiv Menon, CEO de la filiale française d'un groupe indien, veut annuler en cours d'année le programme de formation des managers pour faire des économies. Vous pensez que c'est une erreur. Contestez la décision avec tact et proposez une alternative.",
+   "turns": [
+    {
+     "say": "Sophie, we're behind on margin. I've decided to stop the manager programme for the rest of the year. I assume that's not a problem.",
+     "seconds": 35,
+     "model": "I understand the pressure on margin, and I'm happy to look at savings in HR. Before we stop the programme, though, could I take five minutes to share what we'd be giving up? I think it affects the cost picture.",
+     "tips_fr": "Ne dites pas non d'emblée. Montrez que vous partagez l'objectif, puis demandez un temps d'écoute précis."
+    },
+    {
+     "say": "Go on, but the decision is more or less made.",
+     "seconds": 40,
+     "model": "Of course. Two-thirds of the budget has already been committed, so stopping now saves relatively little. And the first cohort is the sites with the highest absence. If we pull the programme there, we risk losing the improvement we're starting to see.",
+     "tips_fr": "Avancez des faits qui changent l'équation financière. Restez sur le terrain du dirigeant : coûts, résultats."
+    },
+    {
+     "say": "You HR people always defend training. Give me something concrete.",
+     "seconds": 40,
+     "model": "Fair challenge. At the Lyon site, short-term absence has dropped by a point since the managers there were trained. At current cover rates, that's worth more than the remaining budget for the whole programme. I can send you the figures this afternoon.",
+     "tips_fr": "Ne vous justifiez pas sur le reproche ; répondez avec un chiffre et proposez de l'étayer par écrit."
+    },
+    {
+     "say": "Hmm. So what do you suggest?",
+     "seconds": 35,
+     "model": "A middle way: we keep the programme at the two priority sites, postpone the other sites to next year, and switch part of the content to online modules. That would save around forty per cent of the remaining spend without losing the momentum where it matters most.",
+     "tips_fr": "Proposez un compromis chiffré : le dirigeant garde sa décision d'économie, vous protégez l'essentiel."
+    },
+    {
+     "say": "And if I still say no?",
+     "seconds": 30,
+     "model": "Then it's your call, and I'll make it work. I'd just ask that we note the risk on absence, so we can look at it again in the next quarterly review.",
+     "tips_fr": "Respectez l'autorité du CEO ('it's your call') tout en laissant une trace de votre conseil. C'est la marque du 'trusted adviser'."
+    }
+   ]
+  },
+  {
+   "id": "rp-sg-4",
+   "title": "Handling a manager's complaint about HR",
+   "situation": "Paul, a site director, storms into your office: HR is 'slow and blocks everything', he has been waiting three weeks for approval to replace a departing technician. Handle his complaint.",
+   "situation_fr": "Paul, directeur de site, débarque dans votre bureau : les RH sont « lentes et bloquent tout » ; il attend depuis trois semaines l'accord pour remplacer un technicien démissionnaire. Gérez sa plainte.",
+   "turns": [
+    {
+     "say": "Honestly, HR is a brick wall. Three weeks to replace one technician! Do you have any idea what that's doing to my site?",
+     "seconds": 35,
+     "model": "Three weeks is too long, and I'm sorry it's put your site under pressure. Let me find out exactly where it's stuck. Can you tell me when you submitted the request and who you've been dealing with?",
+     "tips_fr": "Reconnaissez le problème sans vous défendre. Passez vite aux faits ('where it's stuck')."
+    },
+    {
+     "say": "I sent it to your team on the 2nd. Nobody's come back to me.",
+     "seconds": 35,
+     "model": "That's not acceptable - you should at least have had an answer. From what I can see, the request is waiting for the CFO's sign-off because of the hiring freeze. That's not an excuse, but it explains part of the delay.",
+     "tips_fr": "Distinguez la faute RH (pas de réponse) de la contrainte de gouvernance (gel des embauches). Assumez la première."
+    },
+    {
+     "say": "So it's finance blocking it, not you?",
+     "seconds": 35,
+     "model": "It's a process we all agreed to, so I don't want to pass the buck. What I can do is put the business case to the CFO today myself. As this is a maintenance role, it should qualify as business-critical.",
+     "tips_fr": "'I don't want to pass the buck' : évitez de rejeter la faute. Proposez une action concrète et immédiate."
+    },
+    {
+     "say": "Fine. But this keeps happening. Why does everything take so long?",
+     "seconds": 40,
+     "model": "You're right that it's a pattern, and that's something we need to fix. Part of the problem is that every request goes through the same queue, whatever its urgency. I'd like to agree a fast track for critical roles at your site - would you be willing to give me your list of critical roles this week?",
+     "tips_fr": "Transformez la plainte en amélioration du processus et impliquez le manager dans la solution."
+    },
+    {
+     "say": "All right. I'll send it tomorrow.",
+     "seconds": 25,
+     "model": "Thank you. I'll come back to you by tomorrow evening on the technician, either way. And thanks for raising it directly - I'd much rather hear it from you than through the grapevine.",
+     "tips_fr": "Engagement daté, quelle que soit la réponse. 'Through the grapevine' = par la rumeur : on valorise la franchise."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Recommending a course of action to a manager",
+   "function_fr": "Recommander une conduite à tenir à un manager",
+   "phrases": [
+    {
+     "text": "My recommendation would be to start with an informal conversation.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "In your shoes, I'd have a quiet word with him first.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "If I were you, I'd pull her aside this week.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "I'd strongly advise against doing anything in the heat of the moment.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "It might be worth checking whether there's something else going on.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The safest course of action would be to put your expectations in writing.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Have you thought about letting her take the lead on that?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Honestly, I'd sleep on it before you do anything.",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Commenting on HR figures and trends",
+   "function_fr": "Commenter des indicateurs et des tendances RH",
+   "phrases": [
+    {
+     "text": "Turnover has fallen by two points year on year.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Turnover is down two points year over year.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "Absence stands at 6.1%, against a target of 5%.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "The increase is largely concentrated in two sites.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "We're broadly on track, with one exception.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "It's too early to draw firm conclusions, but the trend is encouraging.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "That figure needs to be read with some caution.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "The numbers are heading the wrong way.",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Flagging a risk to a senior decision-maker",
+   "function_fr": "Alerter un dirigeant sur un risque",
+   "phrases": [
+    {
+     "text": "I'd like to flag a risk before we go any further.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I should point out that this would require prior consultation of the works council.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "If we go ahead as planned, we could be exposed to a claim.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "My concern is less the decision itself than the timing.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I wouldn't want you to be caught off guard on this.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Just so you're aware, this could come back to bite us.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "It's your call, of course, but I'd like my advice on record.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "For the record, HR has advised against proceeding on this basis.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  }
+ ]
+}
