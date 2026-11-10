@@ -1,0 +1,4828 @@
+{
+ "connectors": [
+  {
+   "id": "cn-add",
+   "function": "Adding a point",
+   "function_fr": "Ajouter",
+   "items": [
+    {
+     "text": "furthermore",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "en tête de phrase, suivi d'une virgule ; réservé à l'écrit",
+     "ex": "[[Furthermore]], the employee was never told that his performance was a concern."
+    },
+    {
+     "text": "moreover",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "en tête de phrase, suivi d'une virgule ; trop lourd à l'oral",
+     "ex": "[[Moreover]], the clause is unlikely to be enforceable."
+    },
+    {
+     "text": "in addition",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; 'in addition to' + nom ou -ing, sans virgule",
+     "ex": "[[In addition]], the company will cover your relocation costs."
+    },
+    {
+     "text": "also",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "pas de virgule ; après 'be' ou l'auxiliaire, avant le verbe principal",
+     "ex": "We [[also]] need to update the staff handbook."
+    },
+    {
+     "text": "as well",
+     "register": "everyday",
+     "variety": "both",
+     "position": "end",
+     "punct_fr": "en fin de phrase, sans virgule",
+     "ex": "Could you copy in the payroll team [[as well]]?"
+    },
+    {
+     "text": "what's more",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; forme pleine 'what is more' à l'écrit soigné",
+     "ex": "[[What's more]], she had already been warned twice."
+    },
+    {
+     "text": "besides",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; introduit un argument qui clôt la discussion",
+     "ex": "[[Besides]], the deadline for appealing has already passed."
+    },
+    {
+     "text": "plus",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "à l'oral, après une virgule ou en tête de phrase ; à éviter dans un document",
+     "ex": "He's the only one who knows the system, [[plus]] he gets on with everybody."
+    },
+    {
+     "text": "on top of that",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; souvent pour une accumulation de problèmes",
+     "ex": "[[On top of that]], nobody had told her about the meeting."
+    }
+   ],
+   "pitfalls_fr": [
+    "'Moreover' et 'furthermore' ne sont pas l'équivalent courant de 'de plus' : un anglophone les réserve aux écrits formels. À l'oral et dans un e-mail, 'also', 'and' ou 'as well' suffisent le plus souvent.",
+    "'Also' se place au milieu de la phrase ('We also need...'), rarement en tête. 'In addition' (adverbe, + virgule) ne se construit pas comme 'in addition to' (+ nom ou -ing).",
+    "'Besides' n'est pas neutre : il ajoute un argument décisif, parfois un peu sec. 'As well as' est suivi d'un nom ou d'un -ing ('as well as drafting the letter'), jamais d'une base verbale."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(formal report) The role was never advertised internally. ___, no selection criteria were recorded.",
+     "options": [
+      "Plus",
+      "Furthermore",
+      "As well",
+      "Too"
+     ],
+     "answer": 1,
+     "explain_fr": "Dans un rapport, 'furthermore' convient. 'Plus' est familier ; 'as well' et 'too' se placent en fin de phrase."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) We'd have to retrain the whole team, and ___ we'd lose two months.",
+     "options": [
+      "furthermore",
+      "moreover",
+      "on top of that",
+      "in addition to"
+     ],
+     "answer": 2,
+     "explain_fr": "À l'oral, 'on top of that' est naturel. 'Furthermore' et 'moreover' sonnent comme un texte lu ; 'in addition to' exige un nom."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(email to a colleague) I've attached the contract. I've ___ copied in Payroll.",
+     "options": [
+      "also",
+      "as well",
+      "too",
+      "plus"
+     ],
+     "answer": 0,
+     "explain_fr": "'Also' se place entre l'auxiliaire et le participe. 'As well' et 'too' iraient en fin de phrase."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written advice) ___ her basic salary, she receives a car allowance.",
+     "options": [
+      "In addition",
+      "Moreover",
+      "Besides that",
+      "In addition to"
+     ],
+     "answer": 3,
+     "explain_fr": "Devant un nom, il faut la préposition 'in addition to'. 'In addition' et 'moreover' sont des adverbes de phrase suivis d'une virgule."
+    },
+    {
+     "type": "join",
+     "prompt": "The policy is out of date. It contradicts the collective agreement. (formal, written)",
+     "answer": "The policy is out of date; moreover, it contradicts the collective agreement.",
+     "accept": [
+      "The policy is out of date. Moreover, it contradicts the collective agreement.",
+      "The policy is out of date; furthermore, it contradicts the collective agreement.",
+      "The policy is out of date. Furthermore, it contradicts the collective agreement.",
+      "The policy is out of date and, moreover, contradicts the collective agreement.",
+      "The policy is out of date. In addition, it contradicts the collective agreement.",
+      "The policy is out of date and it also contradicts the collective agreement."
+     ],
+     "explain_fr": "À l'écrit formel : point-virgule + 'moreover' ou 'furthermore' + virgule. Jamais une simple virgule avant ces adverbes."
+    },
+    {
+     "type": "join",
+     "prompt": "He's always late. He never answers his emails. (informal, spoken)",
+     "answer": "He's always late, and on top of that he never answers his emails.",
+     "accept": [
+      "He's always late. On top of that, he never answers his emails.",
+      "He's always late, plus he never answers his emails.",
+      "He's always late and he never answers his emails either.",
+      "He's always late, and he never answers his emails either.",
+      "He's always late. Plus, he never answers his emails."
+     ],
+     "explain_fr": "À l'oral : 'on top of that' ou 'plus'. Après une négation, 'either' remplace 'too' / 'as well'."
+    }
+   ]
+  },
+  {
+   "id": "cn-contrast",
+   "function": "Contrasting",
+   "function_fr": "Opposer",
+   "items": [
+    {
+     "text": "however",
+     "register": "everyday",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "en tête : suivi d'une virgule ; au milieu : entre deux virgules ; jamais après une simple virgule pour relier deux phrases",
+     "ex": "The offer was generous. [[However]], she turned it down."
+    },
+    {
+     "text": "whereas",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "précédé d'une virgule ; relie deux propositions dans la même phrase",
+     "ex": "Managers are paid monthly, [[whereas]] agency staff are paid weekly."
+    },
+    {
+     "text": "by contrast",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; compare deux situations différentes",
+     "ex": "[[By contrast]], the Lyon site has had no resignations this year."
+    },
+    {
+     "text": "conversely",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; situation inverse ; écrit uniquement",
+     "ex": "[[Conversely]], an employee who resigns is not entitled to severance pay."
+    },
+    {
+     "text": "whilst",
+     "register": "formal",
+     "variety": "uk",
+     "position": "mid",
+     "punct_fr": "variante britannique soutenue de 'while' ; inusitée aux États-Unis",
+     "ex": "The employer must give reasons, [[whilst]] the employee may resign without explanation."
+    },
+    {
+     "text": "on the other hand",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; l'autre aspect d'une même question",
+     "ex": "[[On the other hand]], a longer notice period would give us time to recruit."
+    },
+    {
+     "text": "while",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "virgule avant 'while' quand il exprime l'opposition",
+     "ex": "Some teams are back in the office full time, [[while]] others are still fully remote."
+    },
+    {
+     "text": "but",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "virgule avant 'but' entre deux propositions ; en tête de phrase à l'oral seulement",
+     "ex": "He accepted the warning, [[but]] he refused to sign it."
+    },
+    {
+     "text": "though",
+     "register": "informal",
+     "variety": "both",
+     "position": "end",
+     "punct_fr": "en fin de phrase, après une virgule ; typique de l'oral",
+     "ex": "It's a good package. The notice period is long, [[though]]."
+    },
+    {
+     "text": "then again",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; on se ravise à voix haute",
+     "ex": "[[Then again]], she might prefer to stay part-time."
+    }
+   ],
+   "pitfalls_fr": [
+    "'On the other hand' présente l'autre face d'une question (les deux sont vraies). 'On the contrary' contredit ce qui vient d'être dit ('au contraire'). Ne pas les confondre.",
+    "'However' n'est pas une conjonction : 'The offer was good, however she refused' est fautif. Il faut un point ou un point-virgule avant, une virgule après.",
+    "Calques à éviter : 'in contrary', 'at the opposite', 'in the contrary'. Dites 'by contrast', 'conversely' ou, à l'oral, simplement 'but'."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(formal report) Managers receive a bonus based on team results, ___ other employees are assessed individually.",
+     "options": [
+      "however",
+      "whereas",
+      "on the contrary",
+      "though"
+     ],
+     "answer": 1,
+     "explain_fr": "'Whereas' relie deux propositions opposées dans la même phrase. 'However' exigerait un point ou un point-virgule."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) The offer is generous. I'm not sure she'll accept it, ___.",
+     "options": [
+      "whereas",
+      "by contrast",
+      "though",
+      "conversely"
+     ],
+     "answer": 2,
+     "explain_fr": "'Though' en fin de phrase est la façon orale de dire 'cela dit'. Les trois autres ne se placent pas en fin de phrase."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written advice) A resignation takes effect once notice is given. ___, a dismissal must follow a set procedure.",
+     "options": [
+      "By contrast",
+      "On the contrary",
+      "Then again",
+      "Whereas"
+     ],
+     "answer": 0,
+     "explain_fr": "'By contrast' compare deux situations. 'On the contrary' contredirait la phrase précédente ; 'whereas' ne commence pas une phrase indépendante."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in conversation) 'So you think the claim will fail?' - '___, I think she has a strong case.'",
+     "options": [
+      "On the other hand",
+      "By contrast",
+      "On the contrary",
+      "Whereas"
+     ],
+     "answer": 2,
+     "explain_fr": "On réfute ce que l'autre vient de dire : 'on the contrary' ('au contraire')."
+    },
+    {
+     "type": "join",
+     "prompt": "UK employees accrue paid leave from their first day. US employees have no statutory right to paid leave. (formal, written)",
+     "answer": "UK employees accrue paid leave from their first day, whereas US employees have no statutory right to paid leave.",
+     "accept": [
+      "UK employees accrue paid leave from their first day, while US employees have no statutory right to paid leave.",
+      "UK employees accrue paid leave from their first day, whilst US employees have no statutory right to paid leave.",
+      "UK employees accrue paid leave from their first day; by contrast, US employees have no statutory right to paid leave.",
+      "UK employees accrue paid leave from their first day. By contrast, US employees have no statutory right to paid leave.",
+      "UK employees accrue paid leave from their first day; however, US employees have no statutory right to paid leave."
+     ],
+     "explain_fr": "'Whereas' / 'while' (UK aussi 'whilst') dans une seule phrase, ou 'by contrast' après un point ou un point-virgule."
+    },
+    {
+     "type": "join",
+     "prompt": "The salary is lower. The benefits are much better. (spoken)",
+     "answer": "The salary is lower, but the benefits are much better.",
+     "accept": [
+      "The salary is lower. The benefits are much better, though.",
+      "The salary is lower, though the benefits are much better.",
+      "The salary is lower. On the other hand, the benefits are much better.",
+      "The salary is lower; however, the benefits are much better.",
+      "The salary is lower. However, the benefits are much better.",
+      "The salary is lower but the benefits are much better."
+     ],
+     "explain_fr": "À l'oral, 'but' ou 'though' en fin de phrase suffisent ; inutile de sortir 'however'."
+    }
+   ]
+  },
+  {
+   "id": "cn-concede",
+   "function": "Conceding",
+   "function_fr": "Concéder",
+   "items": [
+    {
+     "text": "nevertheless",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; après un point ou un point-virgule",
+     "ex": "The delay was short. [[Nevertheless]], it amounted to a breach of the procedure."
+    },
+    {
+     "text": "nonetheless",
+     "register": "formal",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "en tête avec virgule, ou en fin de phrase",
+     "ex": "The evidence is thin; the allegation must [[nonetheless]] be investigated."
+    },
+    {
+     "text": "notwithstanding",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom, sans virgule entre les deux ; langue des contrats",
+     "ex": "[[Notwithstanding]] clause 4, the Company may vary the place of work."
+    },
+    {
+     "text": "albeit",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ adjectif, adverbe ou groupe nominal, jamais une proposition complète",
+     "ex": "The parties reached an agreement, [[albeit]] a fragile one."
+    },
+    {
+     "text": "although",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; virgule à la fin de la subordonnée placée en tête",
+     "ex": "[[Although]] he apologised, the warning stays on his file."
+    },
+    {
+     "text": "even so",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; reprend la phrase précédente",
+     "ex": "She has only been here a month. [[Even so]], she is entitled to a week's notice."
+    },
+    {
+     "text": "despite",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom ou -ing ; jamais 'despite of'",
+     "ex": "[[Despite]] several reminders, the form was never returned."
+    },
+    {
+     "text": "that said",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; idéal en réunion comme à l'écrit courant",
+     "ex": "[[That said]], I think we should still take legal advice."
+    },
+    {
+     "text": "still",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "en tête, suivi d'une virgule ; oral",
+     "ex": "[[Still]], it's better than nothing."
+    },
+    {
+     "text": "all the same",
+     "register": "informal",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "en tête avec virgule ou en fin de phrase",
+     "ex": "I know he's busy. I'd like a quick word with him [[all the same]]."
+    }
+   ],
+   "pitfalls_fr": [
+    "Pas de double marquage : 'Although he apologised, but...' est fautif. Choisissez 'although' OU 'but'.",
+    "'Despite' se construit directement ('despite the delay', 'despite being late'). 'Despite of' n'existe pas ; 'in spite of' prend 'of'.",
+    "'Even if' = hypothèse ('même si, à supposer que') ; 'even though' = fait réel ('bien que'). 'Even though she was warned' : elle a bien été avertie."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(formal letter) You apologised promptly. ___, the misconduct was serious enough to justify a final written warning.",
+     "options": [
+      "Still",
+      "Nevertheless",
+      "Despite",
+      "Although"
+     ],
+     "answer": 1,
+     "explain_fr": "'Nevertheless' : registre soutenu, en tête de phrase. 'Still' est oral ; 'despite' veut un nom ; 'although' une subordonnée."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written) ___ repeated reminders, he failed to return the equipment.",
+     "options": [
+      "Although",
+      "Even so",
+      "Despite",
+      "Nevertheless"
+     ],
+     "answer": 2,
+     "explain_fr": "Devant un groupe nominal, seul 'despite' convient."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) I know it's expensive. ___, I think we should get proper legal advice.",
+     "options": [
+      "Notwithstanding",
+      "Albeit",
+      "Despite",
+      "Still"
+     ],
+     "answer": 3,
+     "explain_fr": "À l'oral : 'still'. 'Notwithstanding' et 'albeit' appartiennent à l'écrit juridique."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(contract clause) ___ clause 4, the Company may require the Employee to work at other sites.",
+     "options": [
+      "Notwithstanding",
+      "Although",
+      "Even so",
+      "All the same"
+     ],
+     "answer": 0,
+     "explain_fr": "'Notwithstanding' + nom : 'nonobstant'. C'est le connecteur de dérogation des contrats."
+    },
+    {
+     "type": "join",
+     "prompt": "She had only been there two months. She was entitled to notice. (everyday)",
+     "answer": "Although she had only been there two months, she was entitled to notice.",
+     "accept": [
+      "Even though she had only been there two months, she was entitled to notice.",
+      "She was entitled to notice although she had only been there two months.",
+      "She was entitled to notice even though she had only been there two months.",
+      "She had only been there two months. Even so, she was entitled to notice.",
+      "She had only been there two months; nevertheless, she was entitled to notice.",
+      "She had only been there two months, but she was still entitled to notice."
+     ],
+     "explain_fr": "'Although' / 'even though' + proposition, ou 'even so' après un point. Jamais 'although... but'."
+    },
+    {
+     "type": "join",
+     "prompt": "The procedure was followed. It was followed slowly. (formal - use 'albeit')",
+     "answer": "The procedure was followed, albeit slowly.",
+     "accept": [
+      "The procedure was followed, albeit slowly",
+      "The procedure was followed, albeit rather slowly."
+     ],
+     "explain_fr": "'Albeit' + adverbe ou adjectif : concession très concise, réservée à l'écrit."
+    }
+   ]
+  },
+  {
+   "id": "cn-nuance",
+   "function": "Nuancing",
+   "function_fr": "Nuancer",
+   "items": [
+    {
+     "text": "to some extent",
+     "register": "formal",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "en tête avec virgule, ou en fin de proposition",
+     "ex": "[[To some extent]], the dispute could have been avoided."
+    },
+    {
+     "text": "arguably",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "souvent entre virgules ; 'on peut soutenir que'",
+     "ex": "The restriction is, [[arguably]], wider than the business needs."
+    },
+    {
+     "text": "strictly speaking",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule",
+     "ex": "[[Strictly speaking]], a freelancer is not covered by the staff handbook."
+    },
+    {
+     "text": "in practice",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; s'oppose à 'in principle' / 'in theory'",
+     "ex": "[[In practice]], nobody takes the full lunch break."
+    },
+    {
+     "text": "on the whole",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; 'dans l'ensemble'",
+     "ex": "[[On the whole]], the consultation went smoothly."
+    },
+    {
+     "text": "up to a point",
+     "register": "everyday",
+     "variety": "both",
+     "position": "end",
+     "punct_fr": "souvent après 'I agree' ; sous-entend un désaccord poli",
+     "ex": "I agree with you [[up to a point]]."
+    },
+    {
+     "text": "as a rule",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; 'en règle générale'",
+     "ex": "[[As a rule]], we don't give references over the phone."
+    },
+    {
+     "text": "more or less",
+     "register": "informal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "avant l'adjectif ou le participe, ou seul en réponse",
+     "ex": "The handbook is [[more or less]] ready."
+    },
+    {
+     "text": "pretty much",
+     "register": "informal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "avant le verbe ou l'adjectif ; familier",
+     "ex": "We've [[pretty much]] agreed on the figures."
+    },
+    {
+     "text": "kind of",
+     "register": "informal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "avant l'adjectif ou le verbe ; UK aussi 'sort of' ; jamais à l'écrit",
+     "ex": "It's [[kind of]] awkward to raise it now."
+    }
+   ],
+   "pitfalls_fr": [
+    "'In fact' et 'indeed' ne sont pas des tics de liaison. 'In fact' corrige ou renforce ('en réalité') ; 'indeed' confirme ou insiste. Pour 'en effet' explicatif, on ne met souvent rien, ou 'because'.",
+    "'Normally' au sens de 'normalement, il devrait...' se dit plutôt 'in principle' ou 'should' : 'She should be back on Monday'.",
+    "'Globally' signifie 'dans le monde entier'. Pour 'globalement', dites 'on the whole', 'overall' ou 'broadly'."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(written advice) The restriction is, ___, wider than is necessary to protect the business.",
+     "options": [
+      "pretty much",
+      "arguably",
+      "kind of",
+      "globally"
+     ],
+     "answer": 1,
+     "explain_fr": "'Arguably' : nuance d'expert à l'écrit. 'Globally' = 'mondialement' ; les deux autres sont familiers."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) ___, yes, she can work from home, but in practice her manager wants her in on Mondays.",
+     "options": [
+      "In principle",
+      "In fact",
+      "Indeed",
+      "Normally speaking"
+     ],
+     "answer": 0,
+     "explain_fr": "'In principle... but in practice' : le couple naturel. 'Normally speaking' n'existe pas."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(chatting with a colleague) The handbook is ___ finished - I just need to check the leave section.",
+     "options": [
+      "to some extent",
+      "arguably",
+      "strictly speaking",
+      "pretty much"
+     ],
+     "answer": 3,
+     "explain_fr": "'Pretty much' = 'quasiment', registre familier."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(formal email) ___, a consultant is not an employee, although the two are often treated alike day to day.",
+     "options": [
+      "Kind of",
+      "More or less",
+      "Strictly speaking",
+      "Up to a point"
+     ],
+     "answer": 2,
+     "explain_fr": "'Strictly speaking' : 'à strictement parler', pour rappeler la règle avant de nuancer."
+    },
+    {
+     "type": "join",
+     "prompt": "The new policy has worked. Absence is still high in one team. (use 'on the whole')",
+     "answer": "On the whole, the new policy has worked, although absence is still high in one team.",
+     "accept": [
+      "On the whole, the new policy has worked, but absence is still high in one team.",
+      "On the whole the new policy has worked, although absence is still high in one team.",
+      "The new policy has worked on the whole, although absence is still high in one team.",
+      "The new policy has worked on the whole, but absence is still high in one team.",
+      "On the whole, the new policy has worked, though absence is still high in one team."
+     ],
+     "explain_fr": "'On the whole' annonce un bilan globalement positif avant la réserve."
+    },
+    {
+     "type": "join",
+     "prompt": "I agree with you. I don't think we should dismiss him. (use 'up to a point')",
+     "answer": "I agree with you up to a point, but I don't think we should dismiss him.",
+     "accept": [
+      "I agree with you up to a point but I don't think we should dismiss him.",
+      "Up to a point I agree with you, but I don't think we should dismiss him.",
+      "I agree with you up to a point. I don't think we should dismiss him, though."
+     ],
+     "explain_fr": "'I agree up to a point' : formule de désaccord poli, très utilisée en réunion."
+    }
+   ]
+  },
+  {
+   "id": "cn-cause",
+   "function": "Giving a cause",
+   "function_fr": "Exprimer la cause",
+   "items": [
+    {
+     "text": "owing to",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom ; virgule après le groupe placé en tête",
+     "ex": "[[Owing to]] a restructuring, the role will move to Dublin."
+    },
+    {
+     "text": "on account of",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ nom ; écrit soutenu",
+     "ex": "He was excused from night shifts [[on account of]] his health."
+    },
+    {
+     "text": "in view of",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom ; 'compte tenu de'",
+     "ex": "[[In view of]] her length of service, a longer notice period is appropriate."
+    },
+    {
+     "text": "given that",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; 'given' + nom",
+     "ex": "[[Given that]] the deadline has passed, the appeal cannot be heard."
+    },
+    {
+     "text": "because",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ proposition ; pas de virgule avant en général",
+     "ex": "We can't sign today [[because]] the client hasn't approved the figures."
+    },
+    {
+     "text": "because of",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ nom",
+     "ex": "The hearing was postponed [[because of]] the rail strike."
+    },
+    {
+     "text": "since",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; cause déjà connue de l'interlocuteur",
+     "ex": "[[Since]] you were not informed, we will extend the deadline."
+    },
+    {
+     "text": "due to",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ nom ; très courant dans les avis et les e-mails",
+     "ex": "The office is closed today [[due to]] maintenance work."
+    },
+    {
+     "text": "seeing as",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; oral, plus fréquent au Royaume-Uni",
+     "ex": "[[Seeing as]] you're here, could you look at this letter?"
+    },
+    {
+     "text": "what with",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom(s) ; énumère des causes, oral",
+     "ex": "[[What with]] the audit and the pay review, we haven't had a minute."
+    }
+   ],
+   "pitfalls_fr": [
+    "'Because' + proposition, 'because of' + nom. 'Because of he was late' est fautif.",
+    "'Due to the fact that' est un tic administratif : dites 'because'. De même, 'thanks to' ne s'emploie que pour une cause favorable.",
+    "'As' causal est ambigu (cause ou temps) ; préférez 'because' ou 'since' quand la cause est l'information importante."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(formal letter) The hearing has been postponed ___ the unavailability of your representative.",
+     "options": [
+      "because",
+      "owing to",
+      "seeing as",
+      "since"
+     ],
+     "answer": 1,
+     "explain_fr": "Devant un nom, registre soutenu : 'owing to'. 'Because', 'since' et 'seeing as' exigent une proposition."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) We can't sign today ___ the client hasn't approved the figures.",
+     "options": [
+      "because of",
+      "due to",
+      "owing to",
+      "because"
+     ],
+     "answer": 3,
+     "explain_fr": "Devant une proposition (sujet + verbe), seul 'because' convient."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(chatting) ___ you're already here, could you have a quick look at this letter?",
+     "options": [
+      "Owing to",
+      "On account of",
+      "Seeing as",
+      "Due to"
+     ],
+     "answer": 2,
+     "explain_fr": "'Seeing as' + proposition : 'vu que', familier."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written advice) ___ the employee's length of service, a longer notice period would be appropriate.",
+     "options": [
+      "In view of",
+      "Given that",
+      "Because",
+      "Seeing as"
+     ],
+     "answer": 0,
+     "explain_fr": "'In view of' + nom : 'compte tenu de'. 'Given that' serait suivi d'une proposition."
+    },
+    {
+     "type": "join",
+     "prompt": "The meeting was cancelled. There was a rail strike. (everyday)",
+     "answer": "The meeting was cancelled because of a rail strike.",
+     "accept": [
+      "The meeting was cancelled because there was a rail strike.",
+      "The meeting was cancelled due to a rail strike.",
+      "The meeting was cancelled owing to a rail strike.",
+      "The meeting was cancelled as there was a rail strike.",
+      "The meeting was cancelled since there was a rail strike.",
+      "The meeting was canceled because of a rail strike.",
+      "The meeting was cancelled because of the rail strike."
+     ],
+     "explain_fr": "'Because of' + nom est la solution la plus légère."
+    },
+    {
+     "type": "join",
+     "prompt": "He has a long disciplinary record. A final warning is justified. (formal, written)",
+     "answer": "Given his long disciplinary record, a final warning is justified.",
+     "accept": [
+      "In view of his long disciplinary record, a final warning is justified.",
+      "Given that he has a long disciplinary record, a final warning is justified.",
+      "A final warning is justified given his long disciplinary record.",
+      "A final warning is justified in view of his long disciplinary record.",
+      "Since he has a long disciplinary record, a final warning is justified."
+     ],
+     "explain_fr": "'Given' / 'in view of' + nom condensent la cause en tête de phrase."
+    }
+   ]
+  },
+  {
+   "id": "cn-consequence",
+   "function": "Giving a consequence",
+   "function_fr": "Exprimer la conséquence",
+   "items": [
+    {
+     "text": "therefore",
+     "register": "formal",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "en tête avec virgule, ou entre le sujet et le verbe sans virgule",
+     "ex": "The notice was sent to the wrong address and was [[therefore]] invalid."
+    },
+    {
+     "text": "accordingly",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; fréquent dans les lettres et décisions",
+     "ex": "[[Accordingly]], your appeal has been dismissed."
+    },
+    {
+     "text": "hence",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ nom, sans verbe ; écrit uniquement",
+     "ex": "The role has disappeared; [[hence]] the need for a consultation."
+    },
+    {
+     "text": "consequently",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; lourd à l'oral",
+     "ex": "[[Consequently]], the bonus will not be paid this year."
+    },
+    {
+     "text": "as a result",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; 'as a result of' + nom",
+     "ex": "[[As a result]], two members of the team have resigned."
+    },
+    {
+     "text": "which means",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "précédé d'une virgule ; reprend toute la proposition",
+     "ex": "She's on leave until the 15th, [[which means]] we can't meet before then."
+    },
+    {
+     "text": "for that reason",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule",
+     "ex": "[[For that reason]], we recommend putting the change in writing."
+    },
+    {
+     "text": "so",
+     "register": "informal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "virgule avant 'so' ; en tête de phrase à l'oral seulement",
+     "ex": "He didn't reply, [[so]] I called him."
+    },
+    {
+     "text": "that's why",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; oral et e-mails courants",
+     "ex": "[[That's why]] we need her signature before Friday."
+    }
+   ],
+   "pitfalls_fr": [
+    "'Thus' ne traduit pas le 'ainsi' de liaison français : il est rare et très soutenu. À l'écrit préférez 'therefore', à l'oral 'so'.",
+    "'Hence' se construit avec un nom ('hence the delay'), pas avec une proposition complète dans l'usage courant.",
+    "Commencer une phrase par 'So,' est normal en réunion mais déplacé dans un avis écrit ; 'consequently' ou 'accordingly' prononcés en réunion font l'effet inverse."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(formal letter) You failed to attend two hearings without explanation. ___, the decision was taken in your absence.",
+     "options": [
+      "So that",
+      "Accordingly",
+      "That's why",
+      "Which means"
+     ],
+     "answer": 1,
+     "explain_fr": "'Accordingly' : 'en conséquence', ton d'une lettre officielle. 'So that' exprime le but."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) She's on leave until the 15th, ___ we can't hold the interview before then.",
+     "options": [
+      "hence",
+      "thus",
+      "so",
+      "consequently"
+     ],
+     "answer": 2,
+     "explain_fr": "À l'oral, après une virgule : 'so'. Les autres sont des adverbes écrits et ne relient pas deux propositions après une virgule."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written) The role no longer exists; ___ the need for a redundancy consultation.",
+     "options": [
+      "hence",
+      "so",
+      "therefore",
+      "as a result"
+     ],
+     "answer": 0,
+     "explain_fr": "'Hence' + groupe nominal, sans verbe : 'd'où'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(chatting) Nobody told him about the deadline. ___ he's annoyed.",
+     "options": [
+      "Accordingly,",
+      "Hence",
+      "Thus",
+      "That's why"
+     ],
+     "answer": 3,
+     "explain_fr": "'That's why' + proposition : 'c'est pour ça que'."
+    },
+    {
+     "type": "join",
+     "prompt": "The notice was sent to the wrong address. It was not validly served. (formal, written)",
+     "answer": "The notice was sent to the wrong address and was therefore not validly served.",
+     "accept": [
+      "The notice was sent to the wrong address; therefore, it was not validly served.",
+      "The notice was sent to the wrong address. Therefore, it was not validly served.",
+      "The notice was sent to the wrong address; consequently, it was not validly served.",
+      "The notice was sent to the wrong address. Consequently, it was not validly served.",
+      "The notice was sent to the wrong address. As a result, it was not validly served.",
+      "The notice was sent to the wrong address; accordingly, it was not validly served.",
+      "The notice was sent to the wrong address and therefore was not validly served."
+     ],
+     "explain_fr": "'And was therefore...' : 'therefore' au milieu, sans virgules, est la tournure la plus élégante."
+    },
+    {
+     "type": "join",
+     "prompt": "The budget was cut. We had to freeze recruitment. (spoken)",
+     "answer": "The budget was cut, so we had to freeze recruitment.",
+     "accept": [
+      "The budget was cut. That's why we had to freeze recruitment.",
+      "The budget was cut, which is why we had to freeze recruitment.",
+      "The budget was cut, which meant we had to freeze recruitment.",
+      "The budget was cut. As a result, we had to freeze recruitment.",
+      "The budget was cut so we had to freeze recruitment."
+     ],
+     "explain_fr": "À l'oral : 'so' ou 'that's why'."
+    }
+   ]
+  },
+  {
+   "id": "cn-purpose",
+   "function": "Expressing purpose",
+   "function_fr": "Exprimer le but",
+   "items": [
+    {
+     "text": "in order to",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ base verbale ; négatif : 'in order not to'",
+     "ex": "The policy was amended [[in order to]] reflect the new legislation."
+    },
+    {
+     "text": "so as to",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ base verbale ; surtout au négatif : 'so as not to'",
+     "ex": "The rota was redrawn [[so as to]] give every team one free weekend in two."
+    },
+    {
+     "text": "with a view to",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ -ing (ici 'to' est une préposition)",
+     "ex": "We are consulting staff [[with a view to]] introducing flexible hours."
+    },
+    {
+     "text": "for the purposes of",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom ; formule de définition dans les contrats",
+     "ex": "[[For the purposes of]] this clause, 'Group' includes all subsidiaries."
+    },
+    {
+     "text": "to",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ base verbale ; la solution par défaut",
+     "ex": "I'm writing [[to]] confirm the arrangements for your first day."
+    },
+    {
+     "text": "so that",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ sujet + can / will / could ; pas de virgule avant",
+     "ex": "I'll send the draft tonight [[so that]] you can read it before the call."
+    },
+    {
+     "text": "the aim is to",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ base verbale ; présente un objectif",
+     "ex": "[[The aim is to]] reduce turnover by the end of the year."
+    },
+    {
+     "text": "so",
+     "register": "informal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "'so that' sans 'that' ; oral",
+     "ex": "Send it to me today [[so]] I can check it before the meeting."
+    },
+    {
+     "text": "the idea is to",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ base verbale ; oral, présente un projet sans solennité",
+     "ex": "[[The idea is to]] get everybody in the same room for once."
+    }
+   ],
+   "pitfalls_fr": [
+    "Jamais 'for' + infinitif : 'I'm writing for to confirm' et 'for confirm' sont fautifs. Le but d'une action se dit 'to' + verbe. ('For' + -ing décrit l'usage d'un objet : 'a form for claiming expenses'.)",
+    "'In order to' alourdit la phrase quand 'to' suffit. Gardez-le pour lever une ambiguïté ou dans un texte formel.",
+    "Au négatif : 'so as not to' / 'in order not to', et non 'to not' ou 'for not'. 'With a view to' est suivi de -ing."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(written) The company has introduced exit interviews ___ identifying the causes of staff turnover.",
+     "options": [
+      "in order to",
+      "so that",
+      "with a view to",
+      "so as to"
+     ],
+     "answer": 2,
+     "explain_fr": "Devant un -ing, seul 'with a view to' est possible : 'to' y est une préposition."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) I'll send you the draft tonight ___ you can read it before the call.",
+     "options": [
+      "so that",
+      "in order to",
+      "for",
+      "with a view to"
+     ],
+     "answer": 0,
+     "explain_fr": "Sujet différent + 'can' : 'so that'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(email) I'm writing ___ confirm the arrangements for your first day.",
+     "options": [
+      "for",
+      "for to",
+      "so that",
+      "to"
+     ],
+     "answer": 3,
+     "explain_fr": "But = 'to' + base verbale. 'For to' est un calque de 'pour'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(formal) The names have been removed ___ breach confidentiality.",
+     "options": [
+      "to not",
+      "so as not to",
+      "for not",
+      "in order not"
+     ],
+     "answer": 1,
+     "explain_fr": "But négatif : 'so as not to' (ou 'in order not to', avec 'to')."
+    },
+    {
+     "type": "join",
+     "prompt": "We are reviewing the pay structure. We want to close the gender pay gap. (everyday)",
+     "answer": "We are reviewing the pay structure to close the gender pay gap.",
+     "accept": [
+      "We are reviewing the pay structure in order to close the gender pay gap.",
+      "We are reviewing the pay structure so as to close the gender pay gap.",
+      "We are reviewing the pay structure with a view to closing the gender pay gap.",
+      "We are reviewing the pay structure so that we can close the gender pay gap.",
+      "We're reviewing the pay structure to close the gender pay gap."
+     ],
+     "explain_fr": "Même sujet dans les deux phrases : 'to' + verbe suffit."
+    },
+    {
+     "type": "join",
+     "prompt": "She recorded the meeting. Nobody could dispute what was said. (everyday)",
+     "answer": "She recorded the meeting so that nobody could dispute what was said.",
+     "accept": [
+      "She recorded the meeting so nobody could dispute what was said.",
+      "She recorded the meeting so that no one could dispute what was said.",
+      "She recorded the meeting so no one could dispute what was said."
+     ],
+     "explain_fr": "Sujets différents : 'so that' + sujet + 'could' (au passé)."
+    }
+   ]
+  },
+  {
+   "id": "cn-condition",
+   "function": "Setting a condition",
+   "function_fr": "Poser une condition",
+   "items": [
+    {
+     "text": "provided that",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ présent ; 'that' peut tomber ; pas de 'will'",
+     "ex": "Leave may be carried over [[provided that]] the line manager agrees in writing."
+    },
+    {
+     "text": "in the event that",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; 'in the event of' + nom",
+     "ex": "[[In the event that]] the parties fail to agree, the matter will go to mediation."
+    },
+    {
+     "text": "should",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "inversion : 'should' + sujet + base verbale ; remplace 'if'",
+     "ex": "[[Should]] you need any adjustments for the interview, please let us know."
+    },
+    {
+     "text": "subject to",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom ; 'sous réserve de'",
+     "ex": "[[Subject to]] satisfactory references, we would like to offer you the post."
+    },
+    {
+     "text": "if",
+     "register": "everyday",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "virgule après la subordonnée placée en tête ; jamais 'will' après 'if'",
+     "ex": "[[If]] she accepts, we can start on the first of the month."
+    },
+    {
+     "text": "unless",
+     "register": "everyday",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "= 'if... not' ; verbe à la forme affirmative",
+     "ex": "We'll go ahead on Thursday [[unless]] we hear otherwise."
+    },
+    {
+     "text": "as long as",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ présent ; condition suffisante, ton courant",
+     "ex": "You can swap shifts [[as long as]] your manager knows."
+    },
+    {
+     "text": "otherwise",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "après un point ou un point-virgule, suivi d'une virgule ; 'sinon'",
+     "ex": "Please reply by Friday. [[Otherwise]], we will assume you are not interested."
+    },
+    {
+     "text": "or else",
+     "register": "informal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "précédé d'une virgule ; oral ; peut sonner comme une menace",
+     "ex": "We need to answer today, [[or else]] we'll lose her to a competitor."
+    },
+    {
+     "text": "supposing",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; ouvre une hypothèse à l'oral",
+     "ex": "[[Supposing]] he says no, what do we do then?"
+    }
+   ],
+   "pitfalls_fr": [
+    "Pas de 'will' ni de 'would' après 'if', 'unless', 'provided that', 'as long as' : 'if he accepts', jamais 'if he will accept'.",
+    "'In case' ne veut pas dire 'si' : il exprime une précaution ('Take a copy in case they ask for it'). 'Au cas où vous seriez malade' = 'If you are ill'.",
+    "'Unless' contient déjà la négation : 'unless you don't object' dit le contraire de ce que vous voulez. Calque à éviter : 'at the condition that' (dites 'on condition that' ou 'provided that')."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(contract) The Employee may work remotely ___ the Line Manager has given prior written approval.",
+     "options": [
+      "unless",
+      "provided that",
+      "in case",
+      "or else"
+     ],
+     "answer": 1,
+     "explain_fr": "'Provided that' : 'à condition que', registre contractuel."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) You can carry the days over ___ you take them before March.",
+     "options": [
+      "as long as",
+      "unless",
+      "in the event that",
+      "should"
+     ],
+     "answer": 0,
+     "explain_fr": "'As long as' : la version courante de 'provided that'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(policy) ___ the Employee be unable to attend, the hearing will be rescheduled once.",
+     "options": [
+      "If",
+      "Provided",
+      "Unless",
+      "Should"
+     ],
+     "answer": 3,
+     "explain_fr": "La base verbale 'be' révèle l'inversion formelle : 'Should the Employee be unable...'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(email) We'll go ahead on Thursday ___ we hear otherwise from the union.",
+     "options": [
+      "if",
+      "provided that",
+      "unless",
+      "as long as"
+     ],
+     "answer": 2,
+     "explain_fr": "'Unless' = 'sauf si'. Avec 'otherwise', 'if' donnerait le sens inverse."
+    },
+    {
+     "type": "join",
+     "prompt": "You don't give a month's notice. You will lose the bonus. (use 'unless')",
+     "answer": "Unless you give a month's notice, you will lose the bonus.",
+     "accept": [
+      "You will lose the bonus unless you give a month's notice.",
+      "Unless you give a month's notice, you'll lose the bonus.",
+      "You'll lose the bonus unless you give a month's notice."
+     ],
+     "explain_fr": "'Unless' + verbe affirmatif au présent ; 'will' seulement dans la principale."
+    },
+    {
+     "type": "join",
+     "prompt": "The parties fail to agree. The matter will be referred to mediation. (formal, written)",
+     "answer": "In the event that the parties fail to agree, the matter will be referred to mediation.",
+     "accept": [
+      "Should the parties fail to agree, the matter will be referred to mediation.",
+      "If the parties fail to agree, the matter will be referred to mediation.",
+      "The matter will be referred to mediation in the event that the parties fail to agree.",
+      "The matter will be referred to mediation if the parties fail to agree.",
+      "The matter will be referred to mediation should the parties fail to agree."
+     ],
+     "explain_fr": "'In the event that' ou l'inversion 'Should the parties fail...' : deux marques de l'écrit juridique."
+    }
+   ]
+  },
+  {
+   "id": "cn-illustrate",
+   "function": "Giving an example",
+   "function_fr": "Illustrer",
+   "items": [
+    {
+     "text": "by way of example",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; écrit",
+     "ex": "[[By way of example]], a manager may not ask a candidate about her family plans."
+    },
+    {
+     "text": "notably",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "précédé d'une virgule ; moins fréquent que 'notamment' en français",
+     "ex": "Several benefits are taxable, [[notably]] the company car."
+    },
+    {
+     "text": "namely",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "précédé d'une virgule ; introduit la liste complète, pas un exemple",
+     "ex": "Two documents are missing, [[namely]] the signed contract and the job description."
+    },
+    {
+     "text": "in particular",
+     "register": "formal",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "en tête avec virgule, ou après une virgule",
+     "ex": "The audit raised several concerns, [[in particular]] the lack of written contracts."
+    },
+    {
+     "text": "for example",
+     "register": "everyday",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "entre virgules ; en tête, suivi d'une virgule",
+     "ex": "You could, [[for example]], offer her a phased return to work."
+    },
+    {
+     "text": "for instance",
+     "register": "everyday",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "même ponctuation que 'for example'",
+     "ex": "[[For instance]], we could move the weekly meeting to the afternoon."
+    },
+    {
+     "text": "such as",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ nom(s) ; virgule avant si l'exemple est accessoire",
+     "ex": "Serious offences [[such as]] theft or fraud may lead to summary dismissal."
+    },
+    {
+     "text": "especially",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "précédé d'une virgule ; jamais en tête de phrase comme connecteur",
+     "ex": "Morale is low, [[especially]] in the night-shift team."
+    },
+    {
+     "text": "like",
+     "register": "informal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ nom ; à l'écrit soigné, préférer 'such as'",
+     "ex": "We should offer perks [[like]] gym membership or extra leave."
+    },
+    {
+     "text": "say",
+     "register": "informal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "entre virgules ; propose un exemple chiffré ou une hypothèse",
+     "ex": "Could we meet next week - [[say]], Tuesday morning?"
+    }
+   ],
+   "pitfalls_fr": [
+    "'Comme' introduisant un exemple se dit 'such as' ou 'like', pas 'as' : 'benefits such as a company car'. Et 'like for example' est redondant.",
+    "'e.g.' = 'for example' ; 'i.e.' = 'that is' (c'est-à-dire). Ils ne sont pas interchangeables et ne se prononcent pas en réunion.",
+    "'Namely' annonce tous les éléments ('à savoir'), pas un échantillon. 'Notamment' se rend plus naturellement par 'in particular' ou 'including' que par 'notably'."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(formal policy) Gross misconduct includes serious offences, ___ theft, violence and fraud.",
+     "options": [
+      "like for example",
+      "as",
+      "such as",
+      "say"
+     ],
+     "answer": 2,
+     "explain_fr": "'Such as' + noms. 'As' seul ne signifie pas 'comme par exemple' ; 'like for example' est redondant."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) We could offer something extra - ___, two more days' leave.",
+     "options": [
+      "namely",
+      "say",
+      "notably",
+      "by way of example"
+     ],
+     "answer": 1,
+     "explain_fr": "'Say' : façon orale d'avancer un exemple ou un chiffre."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written) Only one member of the panel dissented, ___ the HR Director.",
+     "options": [
+      "namely",
+      "for instance",
+      "like",
+      "such as"
+     ],
+     "answer": 0,
+     "explain_fr": "On nomme précisément la personne : 'namely' ('à savoir'), pas un exemple parmi d'autres."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written advice) Several benefits are taxable, ___ the company car.",
+     "options": [
+      "as",
+      "say",
+      "like for instance",
+      "in particular"
+     ],
+     "answer": 3,
+     "explain_fr": "'In particular' : 'notamment'. 'Say' est oral ; 'as' ne convient pas."
+    },
+    {
+     "type": "join",
+     "prompt": "Some costs can be reclaimed. Travel and accommodation can be reclaimed. (everyday)",
+     "answer": "Some costs, such as travel and accommodation, can be reclaimed.",
+     "accept": [
+      "Some costs can be reclaimed, such as travel and accommodation.",
+      "Some costs, for example travel and accommodation, can be reclaimed.",
+      "Some costs can be reclaimed, for example travel and accommodation.",
+      "Some costs, for instance travel and accommodation, can be reclaimed.",
+      "Some costs can be reclaimed, for instance travel and accommodation.",
+      "Some costs, like travel and accommodation, can be reclaimed."
+     ],
+     "explain_fr": "'Such as' + exemples, entre virgules parce que l'information est accessoire."
+    },
+    {
+     "type": "join",
+     "prompt": "Two documents are missing. They are the signed contract and the job description. (use 'namely')",
+     "answer": "Two documents are missing, namely the signed contract and the job description.",
+     "accept": [
+      "Two documents are missing: namely, the signed contract and the job description.",
+      "Two documents are missing, namely the signed contract and the job description"
+     ],
+     "explain_fr": "'Namely' énumère la totalité de ce qui vient d'être annoncé."
+    }
+   ]
+  },
+  {
+   "id": "cn-rephrase",
+   "function": "Rephrasing",
+   "function_fr": "Reformuler",
+   "items": [
+    {
+     "text": "that is to say",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "entre virgules ; écrit ; lourd à l'oral",
+     "ex": "The contract is open-ended, [[that is to say]], it has no fixed end date."
+    },
+    {
+     "text": "to put it another way",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule",
+     "ex": "[[To put it another way]], the burden of proof lies with the employer."
+    },
+    {
+     "text": "i.e.",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "écrit uniquement ; précédé d'une virgule ou entre parenthèses",
+     "ex": "Fixed-term employees, [[i.e.]] those whose contracts have an end date, are also covered."
+    },
+    {
+     "text": "more precisely",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; affine ce qui précède",
+     "ex": "He left in March or, [[more precisely]], on the last working day of March."
+    },
+    {
+     "text": "in other words",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; valable à l'écrit comme à l'oral",
+     "ex": "[[In other words]], the clause cannot be enforced."
+    },
+    {
+     "text": "put simply",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; annonce une version sans jargon",
+     "ex": "[[Put simply]], we are paying two people to do the same job."
+    },
+    {
+     "text": "or rather",
+     "register": "everyday",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "précédé d'une virgule ou d'un tiret ; on se corrige",
+     "ex": "We need to talk to her manager, [[or rather]] her former manager."
+    },
+    {
+     "text": "what I mean is",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; pour clarifier en réunion",
+     "ex": "[[What I mean is]] we shouldn't promise anything in writing yet."
+    },
+    {
+     "text": "basically",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; résume sans détour ; à ne pas répéter à chaque phrase",
+     "ex": "[[Basically]], he wants more money and fewer hours."
+    },
+    {
+     "text": "I mean",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; reformulation spontanée",
+     "ex": "It's not ideal. [[I mean]], it works, but nobody likes it."
+    }
+   ],
+   "pitfalls_fr": [
+    "'C'est-à-dire' ne se traduit pas mécaniquement par 'that is to say' : à l'oral dites 'I mean', 'in other words' ou 'which means'.",
+    "'Concretely' est un calque de 'concrètement' : dites 'in practice', 'in practical terms' ou 'specifically'. De même, 'en clair' = 'put simply', pas 'clearly'.",
+    "'i.e.' reformule, 'e.g.' donne un exemple. Si la liste n'est pas complète, c'est 'e.g.'."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) The role is being 'restructured' - ___, it's being made redundant.",
+     "options": [
+      "i.e.",
+      "in other words",
+      "that is to say that",
+      "namely"
+     ],
+     "answer": 1,
+     "explain_fr": "'In other words' passe aussi bien à l'oral qu'à l'écrit. 'i.e.' ne se dit pas ; 'that is to say that' est un calque."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written) Employees on fixed-term contracts, ___ those whose contracts have a set end date, are also covered.",
+     "options": [
+      "e.g.",
+      "basically",
+      "i.e.",
+      "I mean"
+     ],
+     "answer": 2,
+     "explain_fr": "On définit le terme, on ne donne pas un exemple : 'i.e.'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(chatting) ___, he wants more money and fewer hours.",
+     "options": [
+      "Basically",
+      "That is to say",
+      "More precisely",
+      "I.e."
+     ],
+     "answer": 0,
+     "explain_fr": "'Basically' : résumé direct, registre familier."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) We'll need to speak to her manager - ___, her former manager.",
+     "options": [
+      "i.e.",
+      "that is to say that",
+      "concretely",
+      "or rather"
+     ],
+     "answer": 3,
+     "explain_fr": "'Or rather' : on se corrige ('ou plutôt')."
+    },
+    {
+     "type": "join",
+     "prompt": "The clause is void. It has no legal effect. (use 'in other words')",
+     "answer": "The clause is void; in other words, it has no legal effect.",
+     "accept": [
+      "The clause is void. In other words, it has no legal effect.",
+      "The clause is void - in other words, it has no legal effect.",
+      "The clause is void, in other words it has no legal effect.",
+      "The clause is void: in other words, it has no legal effect."
+     ],
+     "explain_fr": "'In other words' après un point ou un point-virgule, suivi d'une virgule."
+    },
+    {
+     "type": "join",
+     "prompt": "He was not dismissed. He resigned before the hearing. (formal - use 'more precisely' or 'rather')",
+     "answer": "He was not dismissed; more precisely, he resigned before the hearing.",
+     "accept": [
+      "He was not dismissed. More precisely, he resigned before the hearing.",
+      "He was not dismissed; rather, he resigned before the hearing.",
+      "He was not dismissed. Rather, he resigned before the hearing.",
+      "He was not dismissed - rather, he resigned before the hearing."
+     ],
+     "explain_fr": "'Rather' ou 'more precisely' rectifient une première formulation inexacte."
+    }
+   ]
+  },
+  {
+   "id": "cn-sequence",
+   "function": "Sequencing",
+   "function_fr": "Ordonner dans le temps",
+   "items": [
+    {
+     "text": "in the first instance",
+     "register": "formal",
+     "variety": "uk",
+     "position": "any",
+     "punct_fr": "en tête avec virgule ou en fin de phrase ; surtout britannique",
+     "ex": "Concerns should be raised with your line manager [[in the first instance]]."
+    },
+    {
+     "text": "subsequently",
+     "register": "formal",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "en tête avec virgule, ou avant le verbe",
+     "ex": "She was suspended and [[subsequently]] dismissed."
+    },
+    {
+     "text": "thereafter",
+     "register": "formal",
+     "variety": "both",
+     "position": "end",
+     "punct_fr": "souvent en fin de proposition ; langue des contrats",
+     "ex": "Salary is reviewed after six months and annually [[thereafter]]."
+    },
+    {
+     "text": "prior to",
+     "register": "formal",
+     "variety": "both",
+     "position": "mid",
+     "punct_fr": "+ nom ou -ing ; 'before' suffit presque toujours",
+     "ex": "References will be taken up [[prior to]] any offer of employment."
+    },
+    {
+     "text": "first",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; 'firstly' possible à l'écrit, jamais 'at first'",
+     "ex": "[[First]], we need to establish the facts."
+    },
+    {
+     "text": "after that",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; 'after' seul n'est pas un adverbe",
+     "ex": "[[After that]], HR will write to confirm the outcome."
+    },
+    {
+     "text": "once",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition au présent ou au present perfect ; pas de 'will'",
+     "ex": "[[Once]] the investigation is complete, you will be invited to a hearing."
+    },
+    {
+     "text": "finally",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; dernier point d'une liste",
+     "ex": "[[Finally]], please remember to return your security pass."
+    },
+    {
+     "text": "first off",
+     "register": "informal",
+     "variety": "us",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; oral, d'origine américaine mais compris partout",
+     "ex": "[[First off]], thanks for coming at such short notice."
+    },
+    {
+     "text": "to start with",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; oral",
+     "ex": "[[To start with]], let's go through last month's figures."
+    }
+   ],
+   "pitfalls_fr": [
+    "'At first' = 'au début' (et la suite a changé). Pour énumérer, dites 'first' ou 'first of all'. 'In a first time' n'existe pas.",
+    "'Eventually' = 'finalement, au bout du compte', jamais 'éventuellement' (= 'possibly'). 'At last' exprime le soulagement ('enfin !'), pas le dernier point d'une liste ('finally', 'lastly').",
+    "'After' seul ne peut pas commencer une phrase comme adverbe : dites 'after that', 'afterwards' ou 'then'."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(formal procedure) The complaint is investigated by HR. ___, a written report is sent to both parties.",
+     "options": [
+      "After",
+      "Subsequently",
+      "At last",
+      "Eventually"
+     ],
+     "answer": 1,
+     "explain_fr": "'Subsequently' : 'par la suite', écrit formel. 'After' seul est impossible ; 'eventually' = 'au bout du compte'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) ___, thanks for coming at such short notice.",
+     "options": [
+      "At first",
+      "In a first time",
+      "First off",
+      "Firstly of all"
+     ],
+     "answer": 2,
+     "explain_fr": "'First off' ouvre une réunion sur un ton détendu. 'At first' = 'au début'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written) ___ the investigation is complete, you will be invited to a hearing.",
+     "options": [
+      "Once",
+      "After that",
+      "Thereafter",
+      "Then"
+     ],
+     "answer": 0,
+     "explain_fr": "'Once' + présent : 'une fois que'. Les autres sont des adverbes, pas des conjonctions."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(contract) The first review will take place after six months and annually ___.",
+     "options": [
+      "after",
+      "then",
+      "next",
+      "thereafter"
+     ],
+     "answer": 3,
+     "explain_fr": "'Annually thereafter' : collocation contractuelle ('puis chaque année')."
+    },
+    {
+     "type": "join",
+     "prompt": "You must inform your manager. Then you may book the leave. (use 'before' or 'prior to' + -ing)",
+     "answer": "You must inform your manager before booking the leave.",
+     "accept": [
+      "You must inform your manager prior to booking the leave.",
+      "You must inform your manager before you book the leave.",
+      "Before booking the leave, you must inform your manager.",
+      "Prior to booking the leave, you must inform your manager.",
+      "Before you book the leave, you must inform your manager."
+     ],
+     "explain_fr": "'Before' / 'prior to' + -ing quand le sujet est le même."
+    },
+    {
+     "type": "join",
+     "prompt": "She completed her probation. She was given a permanent contract. (use 'once')",
+     "answer": "Once she had completed her probation, she was given a permanent contract.",
+     "accept": [
+      "Once she completed her probation, she was given a permanent contract.",
+      "She was given a permanent contract once she had completed her probation.",
+      "She was given a permanent contract once she completed her probation."
+     ],
+     "explain_fr": "'Once' + past perfect (ou prétérit) pour l'action achevée en premier."
+    }
+   ]
+  },
+  {
+   "id": "cn-transition",
+   "function": "Changing topic",
+   "function_fr": "Changer de sujet",
+   "items": [
+    {
+     "text": "with regard to",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom, puis virgule ; 'regard' sans s",
+     "ex": "[[With regard to]] your request for flexible working, I can confirm that it has been approved."
+    },
+    {
+     "text": "as regards",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom, puis virgule ; sans 'to' ; un peu plus britannique",
+     "ex": "[[As regards]] the bonus, no decision has yet been taken."
+    },
+    {
+     "text": "turning to",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom, puis virgule ; dans un rapport ou un exposé",
+     "ex": "[[Turning to]] the question of notice, the contract is silent."
+    },
+    {
+     "text": "in respect of",
+     "register": "formal",
+     "variety": "uk",
+     "position": "mid",
+     "punct_fr": "+ nom ; écrit juridique britannique ; US : 'with respect to'",
+     "ex": "No payment is due [[in respect of]] untaken leave from previous years."
+    },
+    {
+     "text": "as for",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom, puis virgule ; introduit un second sujet, parfois avec une pointe de réserve",
+     "ex": "[[As for]] the Lyon office, I'm less optimistic."
+    },
+    {
+     "text": "when it comes to",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom ou -ing, puis virgule",
+     "ex": "[[When it comes to]] pay, the two sites are not comparable."
+    },
+    {
+     "text": "moving on to",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ nom ; pour passer au point suivant de l'ordre du jour",
+     "ex": "[[Moving on to]] the pay review - where are we?"
+    },
+    {
+     "text": "on a separate note",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; e-mails et réunions",
+     "ex": "[[On a separate note]], could you send me the latest headcount figures?"
+    },
+    {
+     "text": "by the way",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; parenthèse sans lien direct",
+     "ex": "[[By the way]], did the new starter get her laptop?"
+    },
+    {
+     "text": "speaking of which",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; rebondit sur ce qui vient d'être dit",
+     "ex": "[[Speaking of which]], have we heard back from the training provider?"
+    }
+   ],
+   "pitfalls_fr": [
+    "Ne commencez pas chaque phrase par 'Concerning...' ou 'Regarding...' (calque de 'concernant'). Souvent, il suffit de faire du thème le sujet : 'The bonus has not been decided yet.'",
+    "'About the contract, I think...' en tête de phrase n'est pas idiomatique. Dites 'As for the contract,' ou 'On the contract,'.",
+    "'With regard to' et 'in regard to' sans s ; 'as regards' avec s et sans 'to'. 'With regards to' est une faute fréquente ('regards' = salutations)."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(formal letter) ___ your request for flexible working, I can confirm that it has been approved.",
+     "options": [
+      "About",
+      "With regard to",
+      "With regards of",
+      "Speaking of"
+     ],
+     "answer": 1,
+     "explain_fr": "'With regard to' + nom : formule d'ouverture d'une lettre. 'About' en tête est un calque."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) OK, that's recruitment covered. ___ the pay review - where are we?",
+     "options": [
+      "In respect of",
+      "As regards to",
+      "Moving on to",
+      "By the way"
+     ],
+     "answer": 2,
+     "explain_fr": "'Moving on to' fait avancer l'ordre du jour. 'As regards to' est fautif (pas de 'to')."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(chatting) '...and the training budget is gone.' - '___, did you ever hear back from the provider?'",
+     "options": [
+      "Speaking of which",
+      "With regard to which",
+      "Turning to",
+      "As regards"
+     ],
+     "answer": 0,
+     "explain_fr": "'Speaking of which' : on rebondit sur le sujet évoqué ('à ce propos')."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) The Paris team is fine. ___ the Lyon office, I'm less sure.",
+     "options": [
+      "About",
+      "Concerning to",
+      "In respect",
+      "As for"
+     ],
+     "answer": 3,
+     "explain_fr": "'As for' + nom introduit le second terme de la comparaison ('quant à')."
+    },
+    {
+     "type": "join",
+     "prompt": "Bonuses are discretionary. Overtime is governed by the collective agreement. (use 'as for')",
+     "answer": "Bonuses are discretionary. As for overtime, it is governed by the collective agreement.",
+     "accept": [
+      "Bonuses are discretionary; as for overtime, it is governed by the collective agreement.",
+      "Bonuses are discretionary. As for overtime, it's governed by the collective agreement.",
+      "Bonuses are discretionary. As for overtime, that is governed by the collective agreement.",
+      "Bonuses are discretionary. As regards overtime, it is governed by the collective agreement."
+     ],
+     "explain_fr": "'As for' + nom, virgule, puis reprise par un pronom."
+    },
+    {
+     "type": "join",
+     "prompt": "I am writing about your email of 3 May. I confirm the meeting. (formal - use 'with regard to')",
+     "answer": "With regard to your email of 3 May, I confirm the meeting.",
+     "accept": [
+      "With regard to your email of 3 May, I can confirm the meeting.",
+      "With regard to your email of 3 May, I am writing to confirm the meeting.",
+      "With regard to your email of May 3, I confirm the meeting.",
+      "With regard to your email of May 3, I can confirm the meeting."
+     ],
+     "explain_fr": "'With regard to' + nom ouvre la phrase et remplace 'I am writing about'."
+    }
+   ]
+  },
+  {
+   "id": "cn-conclude",
+   "function": "Concluding",
+   "function_fr": "Conclure",
+   "items": [
+    {
+     "text": "in conclusion",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; rapports et exposés, pas en réunion informelle",
+     "ex": "[[In conclusion]], the evidence does not support the allegation."
+    },
+    {
+     "text": "in summary",
+     "register": "formal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule",
+     "ex": "[[In summary]], the proposed change requires the employee's consent."
+    },
+    {
+     "text": "on balance",
+     "register": "formal",
+     "variety": "both",
+     "position": "any",
+     "punct_fr": "en tête ou entre virgules ; 'tout bien pesé'",
+     "ex": "[[On balance]], we would recommend settling the claim."
+    },
+    {
+     "text": "to sum up",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ou de deux-points",
+     "ex": "[[To sum up]]: we extend the probation and review in three months."
+    },
+    {
+     "text": "in short",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; 'bref'",
+     "ex": "[[In short]], the policy is clear and has been applied consistently."
+    },
+    {
+     "text": "overall",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; 'globalement'",
+     "ex": "[[Overall]], the feedback from managers has been positive."
+    },
+    {
+     "text": "all in all",
+     "register": "everyday",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; bilan plutôt oral",
+     "ex": "[[All in all]], it was a useful meeting."
+    },
+    {
+     "text": "the bottom line is",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "+ proposition ; va droit à l'essentiel ; très courant aux États-Unis",
+     "ex": "[[The bottom line is]] we can't afford to lose her."
+    },
+    {
+     "text": "long story short",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; UK aussi 'to cut a long story short'",
+     "ex": "[[Long story short]], she's staying."
+    },
+    {
+     "text": "at the end of the day",
+     "register": "informal",
+     "variety": "both",
+     "position": "start",
+     "punct_fr": "suivi d'une virgule ; oral ; cliché si on en abuse",
+     "ex": "[[At the end of the day]], it's the client's decision."
+    }
+   ],
+   "pitfalls_fr": [
+    "'As a conclusion' est un calque : dites 'in conclusion' ou 'to conclude'. Et 'to resume' signifie 'reprendre', pas 'résumer' ('to sum up', 'to summarise').",
+    "'At the end' = à la fin (de quelque chose : 'at the end of the meeting'). 'In the end' = finalement, après bien des péripéties.",
+    "'In conclusion' en fin de réunion sonne comme un discours. Dites plutôt 'So, to sum up...' ou 'So where does that leave us?'. 'Finally' annonce le dernier point, pas la conclusion."
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(written report) ___, the evidence does not support the allegation of harassment.",
+     "options": [
+      "As a conclusion",
+      "At the end",
+      "In conclusion",
+      "Long story short"
+     ],
+     "answer": 2,
+     "explain_fr": "'In conclusion' dans un rapport. 'As a conclusion' est un calque ; 'at the end' appelle 'of...'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(in a meeting) So, ___: we extend the probation, and we review in three months.",
+     "options": [
+      "in conclusion",
+      "to sum up",
+      "to resume",
+      "as a conclusion"
+     ],
+     "answer": 1,
+     "explain_fr": "En réunion : 'to sum up'. 'To resume' = 'reprendre'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(written advice) There are risks on both sides but, ___, we would recommend settling the claim.",
+     "options": [
+      "on balance",
+      "at the end",
+      "at last",
+      "finally"
+     ],
+     "answer": 0,
+     "explain_fr": "'On balance' : après avoir pesé le pour et le contre."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(chatting) There were three meetings and a lot of emails but, ___, she's staying.",
+     "options": [
+      "in summary",
+      "on balance",
+      "to conclude",
+      "long story short"
+     ],
+     "answer": 3,
+     "explain_fr": "'Long story short' : 'bref', pour sauter les détails à l'oral."
+    },
+    {
+     "type": "join",
+     "prompt": "The process was long. We reached an agreement. (use 'in the end')",
+     "answer": "The process was long, but in the end we reached an agreement.",
+     "accept": [
+      "The process was long, but we reached an agreement in the end.",
+      "The process was long but we reached an agreement in the end.",
+      "The process was long but in the end we reached an agreement.",
+      "The process was long. In the end, we reached an agreement.",
+      "The process was long, but in the end, we reached an agreement."
+     ],
+     "explain_fr": "'In the end' = 'finalement', à ne pas confondre avec 'at the end'."
+    },
+    {
+     "type": "join",
+     "prompt": "The policy is clear and has been applied consistently. We see no ground for a grievance. (use 'in short')",
+     "answer": "The policy is clear and has been applied consistently. In short, we see no ground for a grievance.",
+     "accept": [
+      "The policy is clear and has been applied consistently; in short, we see no ground for a grievance.",
+      "The policy is clear and has been applied consistently. In short, we see no grounds for a grievance."
+     ],
+     "explain_fr": "'In short' + virgule ramasse l'argument en une phrase."
+    }
+   ]
+  }
+ ],
+ "softeners": [
+  {
+   "function": "Giving bad news",
+   "function_fr": "Annoncer une mauvaise nouvelle",
+   "phrases": [
+    {
+     "text": "I'm afraid ...",
+     "variety": "both",
+     "note_fr": "L'amortisseur universel : 'I'm afraid we can't extend the deadline.' Aucune idée de peur ; plus fréquent encore au Royaume-Uni."
+    },
+    {
+     "text": "Unfortunately, ...",
+     "variety": "both",
+     "note_fr": "Neutre, à l'oral comme à l'écrit. Suivi d'une virgule."
+    },
+    {
+     "text": "I'm sorry to say that ...",
+     "variety": "both",
+     "note_fr": "Plus personnel ; convient en entretien individuel."
+    },
+    {
+     "text": "I regret to inform you that ...",
+     "variety": "both",
+     "note_fr": "Écrit très formel (lettre de refus, notification). Déplacé à l'oral."
+    },
+    {
+     "text": "It's not quite what we were hoping for.",
+     "variety": "uk",
+     "note_fr": "Litote britannique : comprendre 'c'est insuffisant'. 'Not quite' signifie souvent 'pas du tout'."
+    },
+    {
+     "text": "That's not going to work for us.",
+     "variety": "us",
+     "note_fr": "Formulation américaine plus directe, sans être impolie. Un Britannique dirait 'I'm not sure that would work for us'."
+    },
+    {
+     "text": "We've decided to go in a different direction.",
+     "variety": "us",
+     "note_fr": "Euphémisme d'entreprise, surtout américain, pour annoncer un refus (candidature, prestataire)."
+    }
+   ]
+  },
+  {
+   "function": "Making a request",
+   "function_fr": "Formuler une demande",
+   "phrases": [
+    {
+     "text": "Could you possibly ...?",
+     "variety": "uk",
+     "note_fr": "Très britannique : 'possibly' adoucit encore 'could'. Peut sembler excessif à un Américain."
+    },
+    {
+     "text": "Would you mind + -ing ...?",
+     "variety": "both",
+     "note_fr": "'Would you mind sending me the file?' Attention : pour accepter, on répond 'Not at all', pas 'Yes'."
+    },
+    {
+     "text": "I was wondering if you could ...",
+     "variety": "both",
+     "note_fr": "Le passé ('was wondering') crée la distance polie ; très courant au Royaume-Uni, y compris entre collègues."
+    },
+    {
+     "text": "I'd be grateful if you could ...",
+     "variety": "uk",
+     "note_fr": "Formule écrite britannique standard. Évitez 'I would be thankful' et 'Thanks in advance' sec."
+    },
+    {
+     "text": "I'd appreciate it if you could ...",
+     "variety": "us",
+     "note_fr": "Équivalent américain de 'I'd be grateful if'. Ne pas oublier 'it'."
+    },
+    {
+     "text": "When you get a moment, could you ...?",
+     "variety": "both",
+     "note_fr": "Demande sans urgence, entre collègues."
+    },
+    {
+     "text": "Can you get this to me by Friday?",
+     "variety": "us",
+     "note_fr": "Demande directe, normale dans un contexte américain. Au Royaume-Uni, on ajouterait 'Would you be able to...' ou 'if at all possible'."
+    }
+   ]
+  },
+  {
+   "function": "Disagreeing",
+   "function_fr": "Exprimer un désaccord",
+   "phrases": [
+    {
+     "text": "I'm not sure I agree.",
+     "variety": "both",
+     "note_fr": "Comprendre : 'je ne suis pas d'accord'. 'I don't agree' ou 'I disagree' tout court sonnent brutal."
+    },
+    {
+     "text": "I see your point, but ...",
+     "variety": "both",
+     "note_fr": "On reconnaît l'argument avant de le contester : structure attendue en réunion."
+    },
+    {
+     "text": "With respect, ...",
+     "variety": "uk",
+     "note_fr": "Attention : au Royaume-Uni, annonce un désaccord net. 'With the greatest respect' est encore plus sévère."
+    },
+    {
+     "text": "I take a slightly different view.",
+     "variety": "uk",
+     "note_fr": "Litote britannique : 'slightly' peut recouvrir un désaccord complet."
+    },
+    {
+     "text": "I'm not convinced that ...",
+     "variety": "both",
+     "note_fr": "Désaccord argumenté, courtois, utilisable à l'écrit."
+    },
+    {
+     "text": "I see it differently.",
+     "variety": "us",
+     "note_fr": "Plus direct, courant aux États-Unis ; reste poli parce qu'il parle de soi et non de l'autre."
+    },
+    {
+     "text": "I hear what you're saying, but ...",
+     "variety": "both",
+     "note_fr": "Signale souvent que l'on n'a pas été convaincu. Ne pas prendre le début pour une approbation."
+    }
+   ]
+  },
+  {
+   "function": "Suggesting",
+   "function_fr": "Suggérer",
+   "phrases": [
+    {
+     "text": "Have you thought about + -ing ...?",
+     "variety": "both",
+     "note_fr": "Suggestion sous forme de question : 'Have you thought about offering mediation?'"
+    },
+    {
+     "text": "It might be worth + -ing ...",
+     "variety": "uk",
+     "note_fr": "Très britannique. 'It might be worth checking the contract' = 'vérifiez le contrat'."
+    },
+    {
+     "text": "Why don't we ...?",
+     "variety": "both",
+     "note_fr": "Proposition directe et cordiale, suivie de la base verbale."
+    },
+    {
+     "text": "What if we ...?",
+     "variety": "both",
+     "note_fr": "Ouvre une piste sans l'imposer : 'What if we extended the probation instead?' (prétérit fréquent)."
+    },
+    {
+     "text": "Perhaps we could ...",
+     "variety": "uk",
+     "note_fr": "'Perhaps' est plus britannique ; un Américain dira plutôt 'Maybe we could ...'."
+    },
+    {
+     "text": "You might want to ...",
+     "variety": "both",
+     "note_fr": "Conseil appuyé, parfois une instruction déguisée : 'You might want to check with Legal first.'"
+    },
+    {
+     "text": "My suggestion would be to ...",
+     "variety": "both",
+     "note_fr": "Le conditionnel 'would be' adoucit ; plus naturel que 'I propose to'."
+    }
+   ]
+  },
+  {
+   "function": "Hedging",
+   "function_fr": "Nuancer une affirmation",
+   "phrases": [
+    {
+     "text": "It seems to me that ...",
+     "variety": "both",
+     "note_fr": "Présente un avis comme une impression. Évitez 'According to me', qui n'existe pas : dites 'In my view' ou 'I think'."
+    },
+    {
+     "text": "As far as I know, ...",
+     "variety": "both",
+     "note_fr": "Réserve sur l'exhaustivité de vos informations ; à l'écrit, 'To my knowledge'."
+    },
+    {
+     "text": "I may be wrong, but ...",
+     "variety": "both",
+     "note_fr": "Précède souvent une affirmation dont le locuteur est assez sûr, surtout au Royaume-Uni."
+    },
+    {
+     "text": "It would appear that ...",
+     "variety": "both",
+     "note_fr": "Écrit formel : permet de rapporter un fait sans s'engager ('Il semblerait que')."
+    },
+    {
+     "text": "I'd say ...",
+     "variety": "both",
+     "note_fr": "Estimation prudente à l'oral : 'I'd say three months at most.'"
+    },
+    {
+     "text": "I tend to think ...",
+     "variety": "both",
+     "note_fr": "Avis nuancé, plus doux que 'I think'."
+    },
+    {
+     "text": "That's a bit of a problem.",
+     "variety": "uk",
+     "note_fr": "Litote britannique : 'a bit of a problem' désigne souvent un problème sérieux. Un Américain dirait plus volontiers 'That's a real problem'."
+    }
+   ]
+  }
+ ],
+ "spoken_markers": [
+  {
+   "text": "actually",
+   "meaning_fr": "en fait, à vrai dire",
+   "ex": "[[Actually]], we signed it last week.",
+   "note_fr": "Faux ami : ne signifie jamais 'actuellement' (= 'currently', 'at the moment'). Sert à corriger poliment ou à annoncer une surprise."
+  },
+  {
+   "text": "by the way",
+   "meaning_fr": "au fait, à propos",
+   "ex": "[[By the way]], has the union replied yet?",
+   "note_fr": "Introduit une parenthèse. Dans un e-mail professionnel, préférez 'On a separate note'."
+  },
+  {
+   "text": "anyway",
+   "meaning_fr": "bref, de toute façon ; pour revenir au sujet",
+   "ex": "[[Anyway]], let's get back to the agenda.",
+   "note_fr": "Sert à clore une digression ou à conclure. 'Anyways' est familier et américain."
+  },
+  {
+   "text": "to be fair",
+   "meaning_fr": "il faut reconnaître que, à sa décharge",
+   "ex": "[[To be fair]], nobody had explained the procedure to him.",
+   "note_fr": "Introduit un élément à décharge ou une nuance honnête ; très fréquent au Royaume-Uni."
+  },
+  {
+   "text": "as it happens",
+   "meaning_fr": "il se trouve que, justement",
+   "ex": "[[As it happens]], I spoke to her manager this morning.",
+   "note_fr": "Signale une coïncidence utile. Plutôt britannique."
+  },
+  {
+   "text": "having said that",
+   "meaning_fr": "cela dit",
+   "ex": "It's a strong application. [[Having said that]], she has no management experience.",
+   "note_fr": "Concession orale et écrite courante ; 'that said' en est la forme courte."
+  },
+  {
+   "text": "going forward",
+   "meaning_fr": "à l'avenir, désormais",
+   "ex": "[[Going forward]], all requests will go through the HR portal.",
+   "note_fr": "Jargon d'entreprise très répandu, surtout américain ; certains le jugent creux. 'From now on' ou 'in future' sont plus simples."
+  },
+  {
+   "text": "I mean",
+   "meaning_fr": "enfin, je veux dire",
+   "ex": "It's a risk. [[I mean]], she could simply refuse to sign.",
+   "note_fr": "Sert à préciser ou à justifier ce qu'on vient de dire. Ne pas en faire un tic."
+  },
+  {
+   "text": "you know",
+   "meaning_fr": "tu sais, vous voyez",
+   "ex": "It's hard to say no when, [[you know]], the request comes from the CEO.",
+   "note_fr": "Cherche l'assentiment ou comble une hésitation. Naturel à petite dose, jamais à l'écrit."
+  },
+  {
+   "text": "right",
+   "meaning_fr": "bien, bon ; n'est-ce pas ?",
+   "ex": "[[Right]], shall we make a start?",
+   "note_fr": "En tête : marque le début ou un changement de sujet (très britannique). En fin de phrase : demande de confirmation ('You've seen the draft, right?')."
+  },
+  {
+   "text": "so",
+   "meaning_fr": "bon, alors, donc",
+   "ex": "[[So]], where are we with the Leeds dismissal?",
+   "note_fr": "Ouvre un sujet ou relance la discussion ; pas toujours une conséquence. À éviter en tête de phrase dans un document."
+  },
+  {
+   "text": "well",
+   "meaning_fr": "eh bien, disons",
+   "ex": "[[Well]], it depends on what the contract says.",
+   "note_fr": "Annonce une réponse nuancée, une hésitation ou un désaccord poli. Ne se traduit pas par 'bien'."
+  },
+  {
+   "text": "mind you",
+   "meaning_fr": "remarquez, cela dit",
+   "ex": "The process took six months. [[Mind you]], it was a complicated case.",
+   "note_fr": "Britannique. Ajoute une réserve ou relativise ce qui précède ; rare aux États-Unis ('then again')."
+  },
+  {
+   "text": "for what it's worth",
+   "meaning_fr": "pour ce que ça vaut, si mon avis compte",
+   "ex": "[[For what it's worth]], I think you handled the meeting very well.",
+   "note_fr": "Présente un avis avec modestie ; souvent abrégé 'FWIW' dans les messages informels."
+  },
+  {
+   "text": "at the end of the day",
+   "meaning_fr": "au bout du compte, en définitive",
+   "ex": "[[At the end of the day]], it's her decision.",
+   "note_fr": "N'a rien à voir avec la fin de la journée. Cliché oral : à utiliser avec modération."
+  },
+  {
+   "text": "fair enough",
+   "meaning_fr": "d'accord, ça se tient",
+   "ex": "'I'd rather wait for the medical report.' - '[[Fair enough]].'",
+   "note_fr": "Accepte l'argument de l'autre, parfois sans enthousiasme. Surtout britannique ; s'emploie seul, en réponse."
+  }
+ ],
+ "rhythm": [
+  {
+   "title": "One idea per sentence",
+   "title_fr": "Une idée par phrase",
+   "explain_fr": "La phrase française enchaîne volontiers les subordonnées ; la phrase anglaise professionnelle est courte. Coupez dès qu'une nouvelle idée commence, puis alternez phrases brèves et phrases un peu plus longues.",
+   "heavy": "Following the meeting which took place on Monday with the employee representatives, during which the question of the reorganisation of the working time was raised, we would like to inform you that the management, which has taken note of the concerns expressed, will come back to you with a proposal which will take them into account.",
+   "natural": "We met the employee representatives on Monday. They raised concerns about the changes to working time. Management has taken these on board and will come back to you with a revised proposal."
+  },
+  {
+   "title": "Use verbs, not abstract nouns",
+   "title_fr": "Le verbe plutôt que le nom abstrait",
+   "explain_fr": "Le français aime les noms ('procéder à la vérification de') ; l'anglais préfère le verbe ('check'). Cherchez le verbe caché dans les noms en -tion, -ment, -ance.",
+   "heavy": "The implementation of the new policy will require the organisation of an information session for the managers.",
+   "natural": "Before we introduce the new policy, we need to brief the managers."
+  },
+  {
+   "title": "Active voice when you speak",
+   "title_fr": "La voix active à l'oral",
+   "explain_fr": "Le passif convient à un document formel ; à l'oral, il crée de la distance et allonge la phrase. Dites qui fait quoi, avec 'we', 'I' ou 'they'.",
+   "heavy": "It has been decided by the management that the proposal which was submitted by the union will not be accepted.",
+   "natural": "Management has decided not to accept the union's proposal."
+  },
+  {
+   "title": "Drop the connectors you don't need",
+   "title_fr": "Supprimer les connecteurs inutiles",
+   "explain_fr": "L'anglais s'appuie sur l'ordre des phrases plus que sur les mots de liaison. 'Indeed', 'in fact', 'moreover', 'thus' en rafale trahissent le francophone. N'en gardez un que s'il ajoute du sens.",
+   "heavy": "Indeed, the employee was absent for three weeks. Moreover, he did not provide any certificate. Thus, the employer sent him a letter. In fact, he never answered.",
+   "natural": "The employee was absent for three weeks and provided no medical certificate. The employer wrote to him, but he never replied."
+  },
+  {
+   "title": "Put the point first",
+   "title_fr": "Commencer par l'essentiel",
+   "explain_fr": "En français, on expose le contexte puis on conclut. En anglais professionnel, on donne d'abord la conclusion ou la demande, ensuite les raisons.",
+   "heavy": "Given the fact that the budget has been reduced, that two people are on long-term leave and that the recruitment freeze is still in force, I am afraid that it will not be possible for us to approve your request.",
+   "natural": "I'm afraid we can't approve your request. The budget has been cut, two people are on long-term leave, and the recruitment freeze is still in place."
+  },
+  {
+   "title": "Break up 'of' chains",
+   "title_fr": "Éviter les enfilades de 'of'",
+   "explain_fr": "Les chaînes 'the X of the Y of the Z' calquent les compléments du nom français. Utilisez le possessif ('s), un nom en position d'adjectif, ou un verbe.",
+   "heavy": "The analysis of the results of the survey of the satisfaction of the employees of the group shows a deterioration of the level of confidence.",
+   "natural": "The group's employee satisfaction survey shows that confidence has fallen."
+  },
+  {
+   "title": "Subject and verb early",
+   "title_fr": "Le sujet et le verbe d'abord",
+   "explain_fr": "L'auditeur anglophone attend le sujet et le verbe dès le début. Les longues introductions avant le sujet, et les incises entre sujet et verbe, font perdre le fil.",
+   "heavy": "The employee, who had been working for the company for more than fifteen years and who had never received the slightest warning, after the meeting of 3 June, resigned.",
+   "natural": "The employee resigned after the meeting on 3 June. He had been with the company for more than fifteen years and had a clean disciplinary record."
+  },
+  {
+   "title": "Plain words and contractions",
+   "title_fr": "Mots simples et contractions",
+   "explain_fr": "Les mots d'origine latine paraissent naturels à un francophone mais pompeux en anglais courant. À l'oral, préférez les mots courts et les contractions ; gardez le registre soutenu pour les documents.",
+   "heavy": "I will endeavour to obtain the information that you requested and I will not fail to revert to you in the event that I encounter any difficulty.",
+   "natural": "I'll try to get the information you asked for, and I'll let you know if there's a problem."
+  }
+ ],
+ "grammar": [
+  {
+   "id": "gr-shall",
+   "track": "legal",
+   "title": "Shall, must, may and will in contracts and policies",
+   "title_fr": "Shall, must, may et will dans les contrats et les politiques internes",
+   "points": [
+    {
+     "rule": "In a contract, 'shall' imposes an obligation on a party. It is not a future tense.",
+     "rule_fr": "Dans un contrat, 'shall' impose une obligation à une partie ; ce n'est pas un futur. On ne l'emploie pas pour un simple constat.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "The Employee [[shall]] devote the whole of his or her working time to the Company.",
+       "note_fr": "Obligation à la charge du salarié : 'shall' = 'est tenu de'. En français, le présent de l'indicatif joue ce rôle ('Le salarié consacre...')."
+      },
+      {
+       "wrong": "This Agreement shall be governed by French law.",
+       "right": "This Agreement [[is governed]] by French law.",
+       "note_fr": "Un constat, pas une obligation : la rédaction moderne emploie le présent. La version avec 'shall' reste très répandue dans les contrats traditionnels."
+      },
+      {
+       "wrong": "The Employee shall be entitled to 25 days' holiday.",
+       "right": "The Employee [[is entitled]] to 25 days' holiday.",
+       "note_fr": "Un droit n'est pas une obligation : 'is entitled to'. Réservez 'shall' à ce qu'une partie doit faire."
+      }
+     ]
+    },
+    {
+     "rule": "Plain-English drafting prefers 'must' for obligations, especially in policies and handbooks.",
+     "rule_fr": "La rédaction en langage clair préfère 'must' pour l'obligation, surtout dans les politiques internes et les règlements. Les rédacteurs de textes officiels britanniques et américains évitent désormais 'shall' ; les contrats commerciaux le conservent davantage.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "Employees [[must]] report any absence before 9 a.m.",
+       "note_fr": "'Must' est sans ambiguïté et compris de tous. Un 'handbook' américain ou une 'policy' britannique n'emploie pratiquement plus 'shall'."
+      },
+      {
+       "wrong": "Employees have to report any accident immediately.",
+       "right": "Employees [[must]] report any accident immediately.",
+       "note_fr": "'Have to' est oral ; dans un document, l'obligation se dit 'must'."
+      }
+     ]
+    },
+    {
+     "rule": "'May' gives permission or discretion; 'must not' or 'may not' prohibits.",
+     "rule_fr": "'May' accorde une faculté ou un pouvoir discrétionnaire ; 'must not' ou 'may not' interdit. 'Can' exprime la capacité et n'a pas sa place dans une clause.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "The Company [[may]] require the Employee to work additional hours.",
+       "note_fr": "Faculté de l'employeur : 'peut', à sa discrétion."
+      },
+      {
+       "wrong": "The Employee can not disclose confidential information.",
+       "right": "The Employee [[must not]] disclose confidential information.",
+       "note_fr": "Interdiction : 'must not' (ou 'shall not' en style traditionnel). 'Cannot' décrirait une impossibilité."
+      }
+     ]
+    },
+    {
+     "rule": "'Will' states what a party undertakes to do or what is going to happen; it is common in UK employment contracts and offer letters addressed to 'you'.",
+     "rule_fr": "'Will' énonce un engagement ou ce qui va se passer ; il est courant dans les contrats de travail britanniques et les lettres d'embauche rédigés à la deuxième personne ('you'). Aux États-Unis, les 'offer letters' et 'handbooks' emploient aussi 'will' et 'must' plutôt que 'shall'.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "You [[will]] be paid monthly in arrears by bank transfer.",
+       "note_fr": "Style britannique courant : contrat adressé à 'you', engagement exprimé par 'will'."
+      },
+      {
+       "wrong": null,
+       "right": "The Company [[will]] reimburse reasonable travel expenses.",
+       "note_fr": "Engagement de l'employeur. Dans un même document, gardez un seul modal par fonction : ne mélangez pas 'shall' et 'will' pour l'obligation."
+      }
+     ]
+    },
+    {
+     "rule": "'Must not' prohibits; 'need not' and 'do not have to' simply remove an obligation.",
+     "rule_fr": "'Must not' interdit ; 'need not' et 'do not have to' lèvent seulement l'obligation. Piège classique pour un francophone ('ne doit pas' est ambigu).",
+     "examples": [
+      {
+       "wrong": "Part-time staff must not attend the Friday briefing.",
+       "right": "Part-time staff [[do not have to]] attend the Friday briefing.",
+       "note_fr": "Si la présence est facultative : 'do not have to' ou 'need not'. 'Must not attend' leur interdirait de venir."
+      },
+      {
+       "wrong": null,
+       "right": "Visitors [[must not]] be left unaccompanied in the building.",
+       "note_fr": "Interdiction ferme."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "(contract clause) The Employee ___ during the employment work for any competitor of the Company.",
+     "options": [
+      "shall not",
+      "doesn't have to",
+      "need not",
+      "would not"
+     ],
+     "answer": 0,
+     "explain_fr": "Interdiction contractuelle : 'shall not' (ou 'must not'). 'Need not' et 'doesn't have to' signifient l'absence d'obligation."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(staff handbook, plain English) You ___ tell your manager as soon as possible if you are unwell.",
+     "options": [
+      "shall to",
+      "must",
+      "may",
+      "would"
+     ],
+     "answer": 1,
+     "explain_fr": "Obligation en langage clair : 'must'. 'May' serait une simple faculté."
+    },
+    {
+     "type": "mcq",
+     "prompt": "The Company ___, at its absolute discretion, pay a bonus.",
+     "options": [
+      "must",
+      "shall",
+      "may",
+      "has to"
+     ],
+     "answer": 2,
+     "explain_fr": "'At its discretion' appelle 'may' : faculté, pas obligation."
+    },
+    {
+     "type": "mcq",
+     "prompt": "Which sentence means that there is NO obligation?",
+     "options": [
+      "Staff must not attend.",
+      "Staff may not attend.",
+      "Staff shall not attend.",
+      "Staff need not attend."
+     ],
+     "answer": 3,
+     "explain_fr": "'Need not' = 'ne sont pas tenus de'. Les trois autres interdisent."
+    },
+    {
+     "type": "gap",
+     "prompt": "The Company ___ (reimburse) reasonable expenses on production of receipts. [undertaking, UK contract style]",
+     "answer": "will reimburse",
+     "accept": [
+      "shall reimburse"
+     ],
+     "explain_fr": "Engagement de l'employeur : 'will' (style britannique actuel) ou 'shall' (style traditionnel)."
+    },
+    {
+     "type": "gap",
+     "prompt": "Employees ___ (not / use) company equipment for personal business. [prohibition in a policy]",
+     "answer": "must not use",
+     "accept": [
+      "may not use",
+      "shall not use"
+     ],
+     "explain_fr": "Interdiction : 'must not' en langage clair."
+    },
+    {
+     "type": "gap",
+     "prompt": "This Agreement ___ governed by the laws of France. [statement of fact, modern drafting]",
+     "answer": "is",
+     "accept": [
+      "shall be"
+     ],
+     "explain_fr": "Constat : présent simple. 'Shall be' reste courant mais n'exprime aucune obligation réelle."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite in plain English for a staff handbook: 'Employees shall notify HR of any change of address.'",
+     "answer": "Employees must notify HR of any change of address.",
+     "accept": [
+      "You must notify HR of any change of address.",
+      "Employees must tell HR about any change of address.",
+      "You must tell HR about any change of address.",
+      "You must tell HR if you change address.",
+      "You must tell HR if your address changes.",
+      "Employees must tell HR if their address changes."
+     ],
+     "explain_fr": "'Shall' devient 'must' ; on peut aussi s'adresser directement au lecteur avec 'you'."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite as a permission with 'may': 'The Employee is allowed to take up to five days' unpaid leave per year.'",
+     "answer": "The Employee may take up to five days' unpaid leave per year.",
+     "accept": [
+      "The Employee may take up to five days of unpaid leave per year.",
+      "The Employee may take up to five days' unpaid leave a year.",
+      "The Employee may take up to five days' unpaid leave each year."
+     ],
+     "explain_fr": "'Is allowed to' = 'may' dans une clause."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite to show that there is no obligation: 'It is not necessary for you to provide a medical certificate for the first three days.'",
+     "answer": "You do not have to provide a medical certificate for the first three days.",
+     "accept": [
+      "You don't have to provide a medical certificate for the first three days.",
+      "You need not provide a medical certificate for the first three days.",
+      "You do not need to provide a medical certificate for the first three days.",
+      "You don't need to provide a medical certificate for the first three days."
+     ],
+     "explain_fr": "Absence d'obligation : 'do not have to', 'do not need to' ou 'need not' - jamais 'must not'."
+    }
+   ]
+  },
+  {
+   "id": "gr-passive",
+   "track": "legal",
+   "title": "The passive in formal documents - and when to prefer the active",
+   "title_fr": "Le passif dans les documents formels - et quand préférer l'actif",
+   "points": [
+    {
+     "rule": "Use the passive when the actor is unknown, obvious or unimportant: it is standard in formal letters and procedures.",
+     "rule_fr": "Le passif s'impose quand l'auteur de l'action est inconnu, évident ou sans importance : c'est la norme dans les lettres officielles et les procédures.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "Your application [[has been received]] and will be reviewed shortly.",
+       "note_fr": "Peu importe qui a reçu le dossier."
+      },
+      {
+       "wrong": null,
+       "right": "The employee [[was dismissed]] for gross misconduct.",
+       "note_fr": "L'auteur (l'employeur) est évident."
+      }
+     ]
+    },
+    {
+     "rule": "Prefer the active when it matters who must act, especially for obligations in contracts and policies.",
+     "rule_fr": "Préférez l'actif quand il faut savoir qui doit agir : une obligation au passif laisse le débiteur dans l'ombre.",
+     "examples": [
+      {
+       "wrong": "A medical certificate must be provided within 48 hours.",
+       "right": "The employee [[must provide]] a medical certificate within 48 hours.",
+       "note_fr": "Qui doit fournir le certificat ? L'actif le dit."
+      },
+      {
+       "wrong": "It has been decided by the committee to reject the appeal.",
+       "right": "The committee [[has decided]] to reject the appeal.",
+       "note_fr": "'It has been decided by...' est lourd : si l'on nomme l'auteur, autant en faire le sujet."
+      }
+     ]
+    },
+    {
+     "rule": "French 'on' and many reflexive verbs become an English passive, and the person can be the subject.",
+     "rule_fr": "'On' et de nombreux verbes pronominaux se rendent par un passif anglais. La personne concernée peut devenir sujet ('I was told', 'She was given'), ce que le français ne permet pas.",
+     "examples": [
+      {
+       "wrong": "One has informed me that the meeting is cancelled.",
+       "right": "I [[have been told]] that the meeting is cancelled.",
+       "note_fr": "'On m'a dit' = 'I have been told' / 'I was told'. 'One' est guindé et rare."
+      },
+      {
+       "wrong": "It was given to me a copy of the report.",
+       "right": "I [[was given]] a copy of the report.",
+       "note_fr": "Le complément d'objet indirect devient sujet du passif."
+      },
+      {
+       "wrong": "It was explained to me the procedure.",
+       "right": "The procedure [[was explained]] to me.",
+       "note_fr": "Avec 'explain', c'est la chose expliquée qui devient sujet ; 'I was explained' est fautif."
+      }
+     ]
+    },
+    {
+     "rule": "In speech, prefer the active with 'we', 'I' or 'they'; a passive with 'by me' or 'by us' sounds stiff.",
+     "rule_fr": "À l'oral, préférez l'actif avec 'we', 'I' ou 'they' : un passif suivi de 'by me' ou 'by us' sonne raide.",
+     "examples": [
+      {
+       "wrong": "A decision will be taken by us next week.",
+       "right": "We [[will decide]] next week.",
+       "note_fr": "Le verbe simple remplace 'a decision will be taken'."
+      },
+      {
+       "wrong": "Your email was read by me with interest.",
+       "right": "I [[read]] your email with interest.",
+       "note_fr": "Si l'agent est 'me', commencez par 'I'."
+      }
+     ]
+    },
+    {
+     "rule": "Reporting passives ('is alleged to', 'is deemed to', 'is said to') report a claim or a legal fiction without endorsing it.",
+     "rule_fr": "Les passifs de report ('is alleged to', 'is deemed to', 'is said to') rapportent une affirmation ou une fiction juridique sans la reprendre à son compte.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "The manager [[is alleged to have]] made discriminatory remarks.",
+       "note_fr": "'Is alleged to have' + participe passé : 'aurait tenu' (conditionnel journalistique français)."
+      },
+      {
+       "wrong": null,
+       "right": "Notice [[is deemed to]] be received two days after posting.",
+       "note_fr": "'Is deemed to' : 'est réputé'."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "The contract ___ by both parties last Friday.",
+     "options": [
+      "signed",
+      "was signed",
+      "has been signed",
+      "is signed"
+     ],
+     "answer": 1,
+     "explain_fr": "Passif au prétérit : 'last Friday' exclut le present perfect."
+    },
+    {
+     "type": "mcq",
+     "prompt": "I ___ a copy of the investigation report yesterday.",
+     "options": [
+      "was given",
+      "have given",
+      "was gave",
+      "am given"
+     ],
+     "answer": 0,
+     "explain_fr": "'On m'a remis' : la personne devient sujet du passif."
+    },
+    {
+     "type": "mcq",
+     "prompt": "(policy) Which drafting makes it clearest who must act?",
+     "options": [
+      "Leave requests must be approved.",
+      "It is required that leave requests are approved.",
+      "Approval of leave requests is required.",
+      "The line manager must approve leave requests."
+     ],
+     "answer": 3,
+     "explain_fr": "Seule la phrase active désigne le responsable."
+    },
+    {
+     "type": "mcq",
+     "prompt": "He ___ to have falsified his timesheets.",
+     "options": [
+      "alleges",
+      "is alleging",
+      "is alleged",
+      "has alleged"
+     ],
+     "answer": 2,
+     "explain_fr": "'Is alleged to have' + participe passé : 'il aurait falsifié'."
+    },
+    {
+     "type": "gap",
+     "prompt": "The hearing ___ (postpone) until further notice.",
+     "answer": "has been postponed",
+     "accept": [
+      "was postponed",
+      "is postponed"
+     ],
+     "explain_fr": "Passif ; le present perfect annonce une nouvelle dont l'effet est actuel."
+    },
+    {
+     "type": "gap",
+     "prompt": "All new starters ___ (give) a copy of the handbook on their first day.",
+     "answer": "are given",
+     "accept": [
+      "will be given",
+      "must be given"
+     ],
+     "explain_fr": "Pratique habituelle : passif au présent, la personne en sujet."
+    },
+    {
+     "type": "gap",
+     "prompt": "I ___ (tell) that the position had already been filled.",
+     "answer": "was told",
+     "accept": [
+      "had been told"
+     ],
+     "explain_fr": "'On m'a dit que' = 'I was told that'."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite in the active (more natural in speech): 'A decision will be made by the board next week.'",
+     "answer": "The board will make a decision next week.",
+     "accept": [
+      "The board will decide next week.",
+      "The board will take a decision next week.",
+      "The board is going to decide next week."
+     ],
+     "explain_fr": "L'agent devient sujet ; 'decide' seul est encore plus léger."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite in the passive (the actor is irrelevant): 'Someone has sent the letter to the wrong address.'",
+     "answer": "The letter has been sent to the wrong address.",
+     "accept": [
+      "The letter was sent to the wrong address."
+     ],
+     "explain_fr": "'Someone' disparaît : le passif sert justement à cela."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite starting with 'She': 'They offered her a settlement of three months' pay.'",
+     "answer": "She was offered a settlement of three months' pay.",
+     "accept": [
+      "She has been offered a settlement of three months' pay."
+     ],
+     "explain_fr": "Le complément indirect ('her') devient sujet : 'She was offered'."
+    }
+   ]
+  },
+  {
+   "id": "gr-conditions",
+   "track": "legal",
+   "title": "Conditionals and 'provided that', 'subject to', 'unless', 'in the event that'",
+   "title_fr": "Le conditionnel et 'provided that', 'subject to', 'unless', 'in the event that'",
+   "points": [
+    {
+     "rule": "No 'will' or 'would' in the if-clause: use the present for a future condition and the past perfect for an unreal past.",
+     "rule_fr": "Jamais 'will' ni 'would' dans la subordonnée en 'if' : présent pour une condition future, past perfect pour l'irréel du passé.",
+     "examples": [
+      {
+       "wrong": "If the Employee will breach this clause, the Company may terminate the contract.",
+       "right": "If the Employee [[breaches]] this clause, the Company may terminate the contract.",
+       "note_fr": "Présent simple après 'if', même pour un fait futur."
+      },
+      {
+       "wrong": "If I would have known, I would have told you.",
+       "right": "If I [[had known]], I would have told you.",
+       "note_fr": "Irréel du passé : 'if' + past perfect, 'would have' dans la principale seulement."
+      }
+     ]
+    },
+    {
+     "rule": "'Provided that' (formal) and 'as long as' (everyday) mean 'only if' and take a present tense.",
+     "rule_fr": "'Provided that' (soutenu) et 'as long as' (courant) signifient 'à condition que' et sont suivis du présent, pas du subjonctif ni de 'will'.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "The bonus is payable [[provided that]] the Employee is still employed on the payment date.",
+       "note_fr": "Condition suspensive typique d'une clause de bonus."
+      },
+      {
+       "wrong": null,
+       "right": "You can work from home [[as long as]] your manager agrees.",
+       "note_fr": "Même idée, registre de la conversation."
+      }
+     ]
+    },
+    {
+     "rule": "'Subject to' + noun makes something conditional on, or limited by, something else.",
+     "rule_fr": "'Subject to' + nom : 'sous réserve de'. En tête de clause, il subordonne la clause à une autre.",
+     "examples": [
+      {
+       "wrong": "The offer is submitted to satisfactory references.",
+       "right": "The offer is [[subject to]] satisfactory references.",
+       "note_fr": "'Soumis à' = 'subject to'. 'Submitted to' signifie 'remis à'."
+      },
+      {
+       "wrong": null,
+       "right": "[[Subject to]] clause 8, either party may terminate this agreement on one month's notice.",
+       "note_fr": "La clause 8 prévaut en cas de conflit."
+      }
+     ]
+    },
+    {
+     "rule": "'Unless' means 'except if' and is followed by an affirmative verb.",
+     "rule_fr": "'Unless' = 'sauf si', 'à moins que' ; le verbe qui suit est à la forme affirmative (pas de 'ne' explétif à traduire).",
+     "examples": [
+      {
+       "wrong": "Unless you don't object, we will proceed on Monday.",
+       "right": "[[Unless]] you object, we will proceed on Monday.",
+       "note_fr": "'Unless' porte déjà la négation."
+      },
+      {
+       "wrong": null,
+       "right": "No deduction may be made [[unless]] the Employee has agreed in writing.",
+       "note_fr": "Tournure fréquente : interdiction + exception."
+      }
+     ]
+    },
+    {
+     "rule": "'In the event that' + clause, 'in the event of' + noun and 'Should' + inversion are formal alternatives to 'if'. 'In case' expresses a precaution, not a condition.",
+     "rule_fr": "'In the event that' + proposition, 'in the event of' + nom et 'Should' + inversion remplacent 'if' dans un texte formel. 'In case' exprime une précaution, pas une condition.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "[[In the event of]] a dispute, the parties will first attempt mediation.",
+       "note_fr": "'En cas de litige' : 'in the event of' + nom."
+      },
+      {
+       "wrong": null,
+       "right": "[[Should]] you require any adjustments, please let us know.",
+       "note_fr": "Inversion formelle = 'If you require'. Très courante dans les lettres."
+      },
+      {
+       "wrong": "In case you are ill, call HR before 9 a.m.",
+       "right": "[[If]] you are ill, call HR before 9 a.m.",
+       "note_fr": "'In case' = 'au cas où, par précaution' : 'Take my number in case you need it.'"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "If the candidate ___ the offer, we will readvertise the post.",
+     "options": [
+      "will refuse",
+      "refuses",
+      "would refuse",
+      "refused"
+     ],
+     "answer": 1,
+     "explain_fr": "Condition future : présent simple après 'if'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "The offer of employment is ___ satisfactory references and proof of the right to work.",
+     "options": [
+      "submitted to",
+      "provided that",
+      "subject to",
+      "unless"
+     ],
+     "answer": 2,
+     "explain_fr": "'Subject to' + nom : 'sous réserve de'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "___ you hear from us by Friday, please assume the meeting is going ahead.",
+     "options": [
+      "Unless",
+      "Provided that",
+      "In case",
+      "Subject to"
+     ],
+     "answer": 0,
+     "explain_fr": "'Sauf avis contraire de notre part' : 'unless'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "If she ___ the warning seriously, she would not have been dismissed.",
+     "options": [
+      "took",
+      "would take",
+      "would have taken",
+      "had taken"
+     ],
+     "answer": 3,
+     "explain_fr": "Irréel du passé : 'if' + past perfect."
+    },
+    {
+     "type": "gap",
+     "prompt": "The bonus will be paid provided that the targets ___ (meet).",
+     "answer": "are met",
+     "accept": [
+      "have been met"
+     ],
+     "explain_fr": "Présent (passif) après 'provided that', jamais 'will be met'."
+    },
+    {
+     "type": "gap",
+     "prompt": "___ you have any questions, please do not hesitate to contact me. [formal inversion, one word]",
+     "answer": "Should",
+     "accept": [],
+     "explain_fr": "'Should you have' = 'If you have', formule de fin de lettre."
+    },
+    {
+     "type": "gap",
+     "prompt": "In the event ___ a serious breach, the Company may dismiss without notice. [one word]",
+     "answer": "of",
+     "accept": [],
+     "explain_fr": "'In the event of' + nom ; 'in the event that' + proposition."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite with 'unless': 'If you do not return the form by 30 June, your claim will lapse.'",
+     "answer": "Unless you return the form by 30 June, your claim will lapse.",
+     "accept": [
+      "Your claim will lapse unless you return the form by 30 June."
+     ],
+     "explain_fr": "'If... not' devient 'unless' + verbe affirmatif."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite with 'subject to': 'You will receive the payment only if you sign the settlement agreement.'",
+     "answer": "The payment is subject to your signing the settlement agreement.",
+     "accept": [
+      "The payment is subject to you signing the settlement agreement.",
+      "Payment is subject to your signing the settlement agreement.",
+      "Payment is subject to you signing the settlement agreement.",
+      "The payment is subject to signature of the settlement agreement.",
+      "Payment is subject to signature of the settlement agreement.",
+      "The payment is subject to your signature of the settlement agreement."
+     ],
+     "explain_fr": "'Subject to' + nom ou + possessif + -ing."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite as one sentence with 'provided that': 'You may carry over five days. The condition is that your manager agrees.'",
+     "answer": "You may carry over five days provided that your manager agrees.",
+     "accept": [
+      "You may carry over five days, provided that your manager agrees.",
+      "You may carry over five days provided your manager agrees.",
+      "You may carry over five days, provided your manager agrees.",
+      "Provided that your manager agrees, you may carry over five days.",
+      "Provided your manager agrees, you may carry over five days."
+     ],
+     "explain_fr": "'Provided (that)' + présent."
+    }
+   ]
+  },
+  {
+   "id": "gr-perfect",
+   "track": "intermediate",
+   "title": "Present perfect or past simple?",
+   "title_fr": "Present perfect ou prétérit ?",
+   "points": [
+    {
+     "rule": "A finished time (yesterday, last week, in 2019, two days ago) requires the past simple.",
+     "rule_fr": "Un repère de temps révolu (yesterday, last week, in 2019, two days ago) impose le prétérit. Le passé composé français induit en erreur.",
+     "examples": [
+      {
+       "wrong": "I have sent the contract yesterday.",
+       "right": "I [[sent]] the contract yesterday.",
+       "note_fr": "'Yesterday' = moment révolu, donc prétérit."
+      },
+      {
+       "wrong": "She has joined the company in 2019.",
+       "right": "She [[joined]] the company in 2019.",
+       "note_fr": "Date passée précise : prétérit."
+      }
+     ]
+    },
+    {
+     "rule": "A situation that started in the past and is still true takes the present perfect with 'for' or 'since'.",
+     "rule_fr": "Une situation commencée dans le passé et toujours vraie se dit au present perfect, avec 'for' (durée) ou 'since' (point de départ) - jamais au présent.",
+     "examples": [
+      {
+       "wrong": "I work here since 2019.",
+       "right": "I [[have worked]] here since 2019.",
+       "note_fr": "'Depuis' + présent français = present perfect anglais."
+      },
+      {
+       "wrong": "She is on sick leave since three weeks.",
+       "right": "She [[has been]] on sick leave for three weeks.",
+       "note_fr": "Durée : 'for three weeks'. 'Since' exige un point de départ ('since 3 May')."
+      }
+     ]
+    },
+    {
+     "rule": "For recent news with 'just', 'already' and 'yet', British English uses the present perfect; American English often uses the past simple.",
+     "rule_fr": "Pour une nouvelle récente avec 'just', 'already', 'yet', l'anglais britannique emploie le present perfect ; l'anglais américain utilise souvent le prétérit. Les deux sont corrects : soyez cohérent avec votre interlocuteur.",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "I [[have just spoken]] to her manager.",
+       "note_fr": "Version américaine courante : 'I just spoke to her manager.'"
+      },
+      {
+       "wrong": null,
+       "right": "[[Have you sent]] the offer letter yet?",
+       "note_fr": "Version américaine courante : 'Did you send the offer letter yet?'"
+      }
+     ]
+    },
+    {
+     "rule": "Experience up to now ('ever', 'never', 'so far') and 'It's the first time...' take the present perfect.",
+     "rule_fr": "Le bilan jusqu'à maintenant ('ever', 'never', 'so far') et 'It's the first time...' demandent le present perfect.",
+     "examples": [
+      {
+       "wrong": "It's the first time I see this clause.",
+       "right": "It's the first time I [[have seen]] this clause.",
+       "note_fr": "'C'est la première fois que je vois' : present perfect obligatoire."
+      },
+      {
+       "wrong": null,
+       "right": "We [[have never had]] a tribunal claim.",
+       "note_fr": "Jusqu'à aujourd'hui : la période n'est pas terminée."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "She ___ her notice last Monday.",
+     "options": [
+      "has handed in",
+      "handed in",
+      "has been handing in",
+      "hands in"
+     ],
+     "answer": 1,
+     "explain_fr": "'Last Monday' : prétérit."
+    },
+    {
+     "type": "mcq",
+     "prompt": "He ___ for us since January.",
+     "options": [
+      "works",
+      "is working",
+      "has worked",
+      "worked"
+     ],
+     "answer": 2,
+     "explain_fr": "'Since January' et toujours vrai : present perfect."
+    },
+    {
+     "type": "mcq",
+     "prompt": "Which sentence is typically American rather than British?",
+     "options": [
+      "Did you already send the offer letter?",
+      "Have you already sent the offer letter?",
+      "I've just sent it.",
+      "I haven't sent it yet."
+     ],
+     "answer": 0,
+     "explain_fr": "Prétérit avec 'already' : usage américain courant. Un Britannique dirait 'Have you already sent...?'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "It's the first time we ___ someone during probation.",
+     "options": [
+      "dismiss",
+      "are dismissing",
+      "dismissed",
+      "have dismissed"
+     ],
+     "answer": 3,
+     "explain_fr": "'It's the first time' + present perfect."
+    },
+    {
+     "type": "gap",
+     "prompt": "We ___ (receive) three grievances so far this year.",
+     "answer": "have received",
+     "accept": [
+      "'ve received",
+      "we've received"
+     ],
+     "explain_fr": "'So far this year' : période en cours, present perfect."
+    },
+    {
+     "type": "gap",
+     "prompt": "The union ___ (call) a strike two weeks ago.",
+     "answer": "called",
+     "accept": [],
+     "explain_fr": "'Ago' impose le prétérit."
+    },
+    {
+     "type": "gap",
+     "prompt": "How long ___ (she / be) on maternity leave?",
+     "answer": "has she been",
+     "accept": [],
+     "explain_fr": "'Depuis combien de temps est-elle...' : present perfect, pas présent."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Correct the sentence: 'I am working in HR since ten years.'",
+     "answer": "I have been working in HR for ten years.",
+     "accept": [
+      "I have worked in HR for ten years.",
+      "I've been working in HR for ten years.",
+      "I've worked in HR for ten years."
+     ],
+     "explain_fr": "Present perfect (simple ou continu) + 'for' + durée."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite in British English: 'I already spoke to the union rep.'",
+     "answer": "I have already spoken to the union rep.",
+     "accept": [
+      "I've already spoken to the union rep."
+     ],
+     "explain_fr": "Avec 'already', l'anglais britannique préfère le present perfect."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Rewrite starting with 'She joined' and using 'ago': 'She has been with the company for five years.'",
+     "answer": "She joined the company five years ago.",
+     "accept": [],
+     "explain_fr": "Durée jusqu'à maintenant = present perfect ; événement daté = prétérit + 'ago'."
+    }
+   ]
+  },
+  {
+   "id": "gr-articles",
+   "track": "intermediate",
+   "title": "Articles: a, the or nothing - and uncountable nouns",
+   "title_fr": "Les articles : a, the ou rien - et les noms indénombrables",
+   "points": [
+    {
+     "rule": "Advice, information, training, feedback, evidence, equipment, research and legislation are uncountable: no 'a', no plural.",
+     "rule_fr": "Advice, information, training, feedback, evidence, equipment, research, legislation sont indénombrables : ni 'a', ni pluriel, verbe au singulier. Pour compter : 'a piece of advice', 'a training session', 'an item of evidence'.",
+     "examples": [
+      {
+       "wrong": "Thank you for these informations.",
+       "right": "Thank you for [[this information]].",
+       "note_fr": "'Information' ne prend jamais de s ; démonstratif au singulier."
+      },
+      {
+       "wrong": "She gave me a good advice.",
+       "right": "She gave me [[some good advice]].",
+       "note_fr": "'Un conseil' = 'some advice' ou 'a piece of advice'."
+      },
+      {
+       "wrong": "I have a training tomorrow.",
+       "right": "I have [[a training session]] tomorrow.",
+       "note_fr": "'Une formation' = 'a training session', 'a training course' ou 'training' tout court."
+      }
+     ]
+    },
+    {
+     "rule": "'Staff' is a collective noun: it means the whole workforce and has no plural for individuals.",
+     "rule_fr": "'Staff' est un nom collectif : il désigne l'ensemble du personnel. Pour des individus : 'members of staff', 'employees'. Verbe pluriel au Royaume-Uni ('the staff are'), singulier aux États-Unis ('the staff is').",
+     "examples": [
+      {
+       "wrong": "We have 200 staffs.",
+       "right": "We have 200 [[members of staff]].",
+       "note_fr": "On dit aussi 'a staff of 200' ou '200 employees'."
+      },
+      {
+       "wrong": null,
+       "right": "The staff [[are]] unhappy about the new rota.",
+       "note_fr": "Accord pluriel britannique ; un Américain écrirait 'The staff is unhappy about the new schedule'."
+      }
+     ]
+    },
+    {
+     "rule": "No article for general statements with plural or uncountable nouns.",
+     "rule_fr": "Pas d'article pour une généralité avec un pluriel ou un indénombrable, là où le français met 'le', 'la', 'les'.",
+     "examples": [
+      {
+       "wrong": "The discrimination is prohibited by the law.",
+       "right": "[[Discrimination]] is prohibited by law.",
+       "note_fr": "Notion générale : article zéro. 'By law' est une expression figée."
+      },
+      {
+       "wrong": "The French employment law is very protective.",
+       "right": "[[French employment law]] is very protective.",
+       "note_fr": "'Law' au sens du droit en général : pas d'article. 'The law' = la loi, le texte précis."
+      }
+     ]
+    },
+    {
+     "rule": "Use 'the' when both speakers know exactly which thing is meant.",
+     "rule_fr": "'The' quand l'élément est identifié par le contexte ou par ce qui suit (complément, relative).",
+     "examples": [
+      {
+       "wrong": null,
+       "right": "[[The evidence]] presented at the hearing was weak.",
+       "note_fr": "Des preuves précises : celles présentées à l'audience."
+      },
+      {
+       "wrong": null,
+       "right": "Could you send me [[the feedback]] from Tuesday's interviews?",
+       "note_fr": "Défini par 'from Tuesday's interviews'."
+      }
+     ]
+    },
+    {
+     "rule": "Jobs take 'a' or 'an'; a unique post after 'appoint', 'elect' or 'as' usually takes no article.",
+     "rule_fr": "Les noms de métier prennent 'a' / 'an' ; un poste unique après 'appoint', 'elect' ou 'as' se passe souvent d'article.",
+     "examples": [
+      {
+       "wrong": "She is lawyer.",
+       "right": "She is [[a lawyer]].",
+       "note_fr": "Article obligatoire devant un métier."
+      },
+      {
+       "wrong": "He works as consultant.",
+       "right": "He works as [[a consultant]].",
+       "note_fr": "Même règle après 'as'."
+      },
+      {
+       "wrong": null,
+       "right": "She was appointed [[Head of HR]] in March.",
+       "note_fr": "Fonction unique dans l'organisation : pas d'article."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "Could you give me ___ on this clause?",
+     "options": [
+      "an advice",
+      "some advice",
+      "some advices",
+      "the advices"
+     ],
+     "answer": 1,
+     "explain_fr": "'Advice' est indénombrable : 'some advice'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "___ is essential for new managers.",
+     "options": [
+      "A training",
+      "The trainings",
+      "Training",
+      "Trainings"
+     ],
+     "answer": 2,
+     "explain_fr": "Généralité + indénombrable : article zéro."
+    },
+    {
+     "type": "mcq",
+     "prompt": "She has worked as ___ for ten years.",
+     "options": [
+      "an employment lawyer",
+      "employment lawyer",
+      "the employment lawyer",
+      "one employment lawyer"
+     ],
+     "answer": 0,
+     "explain_fr": "Métier : article indéfini obligatoire."
+    },
+    {
+     "type": "mcq",
+     "prompt": "There ___ to support the allegation.",
+     "options": [
+      "are no evidences",
+      "is no an evidence",
+      "are not evidences",
+      "is no evidence"
+     ],
+     "answer": 3,
+     "explain_fr": "'Evidence' : indénombrable, verbe au singulier."
+    },
+    {
+     "type": "gap",
+     "prompt": "We received very positive ___ from the candidates. [feedback / feedbacks / a feedback]",
+     "answer": "feedback",
+     "accept": [],
+     "explain_fr": "'Feedback' est indénombrable."
+    },
+    {
+     "type": "gap",
+     "prompt": "Two members of ___ have complained about the new rota. [one word]",
+     "answer": "staff",
+     "accept": [
+      "the staff"
+     ],
+     "explain_fr": "'Members of staff' pour compter des personnes."
+    },
+    {
+     "type": "gap",
+     "prompt": "She is ___ employment lawyer at a Paris firm. [a / an / the]",
+     "answer": "an",
+     "accept": [],
+     "explain_fr": "'An' devant un son vocalique."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Correct the sentence: 'Thank you for all the informations and the advices.'",
+     "answer": "Thank you for all the information and advice.",
+     "accept": [
+      "Thank you for all the information and the advice.",
+      "Thank you for all your information and advice.",
+      "Thank you for all the information and all the advice."
+     ],
+     "explain_fr": "Deux indénombrables : pas de s."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Correct the sentence: 'The harassment at work is forbidden by the law.'",
+     "answer": "Harassment at work is forbidden by law.",
+     "accept": [
+      "Harassment at work is prohibited by law.",
+      "Workplace harassment is prohibited by law.",
+      "Workplace harassment is forbidden by law."
+     ],
+     "explain_fr": "Généralité : article zéro ; 'by law' sans article."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Correct the sentence: 'We are organising a training for all the staffs.'",
+     "answer": "We are organising a training session for all staff.",
+     "accept": [
+      "We are organising a training session for all the staff.",
+      "We are organising training for all staff.",
+      "We are organising training for all the staff.",
+      "We are organising a training course for all staff.",
+      "We are organising a training course for all the staff.",
+      "We are organizing a training session for all staff.",
+      "We are organizing training for all staff.",
+      "We are organising a training session for all members of staff."
+     ],
+     "explain_fr": "'A training session' (ou 'training') ; 'staff' sans s."
+    }
+   ]
+  },
+  {
+   "id": "gr-gerund",
+   "track": "intermediate",
+   "title": "Gerund, infinitive and prepositions after common HR verbs",
+   "title_fr": "Gérondif, infinitif et prépositions après les verbes courants des RH",
+   "points": [
+    {
+     "rule": "When 'to' is a preposition, it is followed by -ing: look forward to, object to, be used to, be committed to.",
+     "rule_fr": "Quand 'to' est une préposition, il est suivi de -ing : look forward to, object to, be used to, be committed to, with a view to.",
+     "examples": [
+      {
+       "wrong": "I look forward to hear from you.",
+       "right": "I look forward to [[hearing]] from you.",
+       "note_fr": "Test : on peut dire 'I look forward to it', donc 'to' est une préposition."
+      },
+      {
+       "wrong": "She objected to work on Sundays.",
+       "right": "She objected to [[working]] on Sundays.",
+       "note_fr": "'To object to' + -ing ou nom."
+      },
+      {
+       "wrong": null,
+       "right": "We are committed to [[promoting]] equal opportunities.",
+       "note_fr": "'Committed to' + -ing."
+      }
+     ]
+    },
+    {
+     "rule": "Suggest, recommend, consider, avoid, risk, deny, postpone and involve take -ing, never 'to' + verb.",
+     "rule_fr": "Suggest, recommend, consider, avoid, risk, deny, postpone, involve sont suivis de -ing, jamais de 'to' + verbe. 'Suggest' n'accepte pas la construction 'suggest someone to do'.",
+     "examples": [
+      {
+       "wrong": "I suggest you to contact the union.",
+       "right": "I suggest [[contacting]] the union.",
+       "note_fr": "Ou : 'I suggest (that) you contact the union.'"
+      },
+      {
+       "wrong": "He denied to have seen the email.",
+       "right": "He denied [[having seen]] the email.",
+       "note_fr": "'Deny' + -ing ; à ne pas confondre avec 'refuse' + to."
+      },
+      {
+       "wrong": null,
+       "right": "We should avoid [[setting]] a precedent.",
+       "note_fr": "'Avoid' + -ing."
+      }
+     ]
+    },
+    {
+     "rule": "Agree, refuse, fail, undertake and intend take 'to' + verb; allow, require and ask take an object + 'to' + verb; 'be entitled to' takes a noun or a verb.",
+     "rule_fr": "Agree, refuse, fail, undertake, intend + 'to' + verbe ; allow, require, ask + complément + 'to' + verbe ; 'be entitled to' + nom ou + verbe.",
+     "examples": [
+      {
+       "wrong": "He refused signing the warning.",
+       "right": "He refused [[to sign]] the warning.",
+       "note_fr": "'Refuse' + to."
+      },
+      {
+       "wrong": null,
+       "right": "She is entitled [[to take]] 25 days' leave a year.",
+       "note_fr": "Aussi : 'entitled to 25 days' leave' (+ nom)."
+      },
+      {
+       "wrong": null,
+       "right": "The policy requires managers [[to record]] all absences.",
+       "note_fr": "'Require' + personne + to."
+      }
+     ]
+    },
+    {
+     "rule": "Learn the fixed prepositions: comply with, consist of, depend on, be responsible for, apply for, succeed in, participate in - and 'discuss' takes none.",
+     "rule_fr": "Prépositions figées : comply with, consist of, depend on, be responsible for, apply for, succeed in, participate in. 'Discuss' est transitif direct.",
+     "examples": [
+      {
+       "wrong": "All staff must comply to the policy.",
+       "right": "All staff must [[comply with]] the policy.",
+       "note_fr": "'Se conformer à' = 'comply with'."
+      },
+      {
+       "wrong": "The panel consists in three managers.",
+       "right": "The panel [[consists of]] three managers.",
+       "note_fr": "'Consist of' = 'se compose de'. 'Is composed by' est également fautif ('is composed of')."
+      },
+      {
+       "wrong": "We discussed about the bonus.",
+       "right": "We [[discussed]] the bonus.",
+       "note_fr": "Pas de préposition après 'discuss' ; mais 'a discussion about'."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "prompt": "I look forward to ___ you at the hearing.",
+     "options": [
+      "see",
+      "seeing",
+      "be seeing",
+      "have seen"
+     ],
+     "answer": 1,
+     "explain_fr": "'Look forward to' + -ing."
+    },
+    {
+     "type": "mcq",
+     "prompt": "The works council objected to ___ consulted so late.",
+     "options": [
+      "be",
+      "have been",
+      "being",
+      "been"
+     ],
+     "answer": 2,
+     "explain_fr": "'Object to' + -ing, ici au passif : 'being consulted'."
+    },
+    {
+     "type": "mcq",
+     "prompt": "She is entitled ___ a company car.",
+     "options": [
+      "to",
+      "for",
+      "at",
+      "of"
+     ],
+     "answer": 0,
+     "explain_fr": "'Entitled to' + nom."
+    },
+    {
+     "type": "mcq",
+     "prompt": "The package consists ___ a basic salary and a bonus.",
+     "options": [
+      "in",
+      "on",
+      "with",
+      "of"
+     ],
+     "answer": 3,
+     "explain_fr": "'Consist of'."
+    },
+    {
+     "type": "gap",
+     "prompt": "I suggest ___ (postpone) the hearing until she returns.",
+     "answer": "postponing",
+     "accept": [
+      "that we postpone",
+      "we postpone"
+     ],
+     "explain_fr": "'Suggest' + -ing (ou 'suggest that we postpone')."
+    },
+    {
+     "type": "gap",
+     "prompt": "The employee failed ___ (comply) with a reasonable instruction.",
+     "answer": "to comply",
+     "accept": [],
+     "explain_fr": "'Fail' + to."
+    },
+    {
+     "type": "gap",
+     "prompt": "It depends ___ the wording of the contract. [one word]",
+     "answer": "on",
+     "accept": [
+      "upon"
+     ],
+     "explain_fr": "'Depend on', jamais 'depend of'."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Correct the sentence: 'I suggest you to send a written warning.'",
+     "answer": "I suggest sending a written warning.",
+     "accept": [
+      "I suggest you send a written warning.",
+      "I suggest that you send a written warning.",
+      "I would suggest sending a written warning.",
+      "I'd suggest sending a written warning."
+     ],
+     "explain_fr": "'Suggest' + -ing ou 'suggest (that) you' + base verbale."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Correct the sentence: 'We are used to work with American clients.'",
+     "answer": "We are used to working with American clients.",
+     "accept": [
+      "We're used to working with American clients."
+     ],
+     "explain_fr": "'Be used to' + -ing (habitude acquise). 'Used to work' = 'travaillions autrefois'."
+    },
+    {
+     "type": "rewrite",
+     "prompt": "Correct the sentence: 'He succeeded to negotiate a better package.'",
+     "answer": "He succeeded in negotiating a better package.",
+     "accept": [
+      "He managed to negotiate a better package."
+     ],
+     "explain_fr": "'Succeed in' + -ing ; ou 'manage to' + verbe."
+    }
+   ]
+  }
+ ],
+ "pronunciation": [
+  {
+   "id": "pr-stress",
+   "title": "Word stress in HR and legal vocabulary",
+   "title_fr": "L'accent de mot dans le vocabulaire RH et juridique",
+   "explain_fr": "En anglais, une syllabe par mot est nettement plus forte, plus longue et plus haute ; les autres sont réduites, souvent en /ə/. Un accent mal placé gêne davantage la compréhension qu'une voyelle approximative. Le français accentue la dernière syllabe : méfiez-vous des mots transparents. Plusieurs paires nom / verbe ne se distinguent que par l'accent : nom sur la première syllabe, verbe sur la seconde.",
+   "items": [
+    {
+     "text": "employee",
+     "ipa_uk": "/ɪmˈplɔɪiː/",
+     "ipa_us": "/ɪmˈplɔɪiː/",
+     "note_fr": "Accent sur 'ploy' (on entend aussi /ˌemplɔɪˈiː/). Ne pas confondre à l'oreille avec 'employer'."
+    },
+    {
+     "text": "employer",
+     "ipa_uk": "/ɪmˈplɔɪə/",
+     "ipa_us": "/ɪmˈplɔɪər/",
+     "note_fr": "Finale réduite en /ə/ ; le r n'est prononcé qu'en anglais américain."
+    },
+    {
+     "text": "redundancy",
+     "ipa_uk": "/rɪˈdʌndənsi/",
+     "ipa_us": "/rɪˈdʌndənsi/",
+     "note_fr": "Accent sur 'dun'. Terme britannique ; aux États-Unis on parle de 'layoff'."
+    },
+    {
+     "text": "dismissal",
+     "ipa_uk": "/dɪsˈmɪs(ə)l/",
+     "ipa_us": "/dɪsˈmɪs(ə)l/",
+     "note_fr": "Accent sur 'miss'."
+    },
+    {
+     "text": "grievance",
+     "ipa_uk": "/ˈɡriːv(ə)ns/",
+     "ipa_us": "/ˈɡriːv(ə)ns/",
+     "note_fr": "Deux syllabes seulement, accent sur la première."
+    },
+    {
+     "text": "disciplinary",
+     "ipa_uk": "/ˈdɪsəplɪnəri/",
+     "ipa_us": "/ˈdɪsəpləneri/",
+     "note_fr": "Accent sur la première syllabe ; au Royaume-Uni on entend aussi /ˌdɪsəˈplɪnəri/."
+    },
+    {
+     "text": "negotiate",
+     "ipa_uk": "/nɪˈɡəʊʃieɪt/",
+     "ipa_us": "/nɪˈɡoʊʃieɪt/",
+     "note_fr": "Accent sur 'go' ; le t se prononce /ʃ/."
+    },
+    {
+     "text": "determine",
+     "ipa_uk": "/dɪˈtɜːmɪn/",
+     "ipa_us": "/dɪˈtɜːrmɪn/",
+     "note_fr": "Accent sur 'ter' ; la fin se dit /mɪn/, pas comme 'mine'."
+    },
+    {
+     "text": "colleague",
+     "ipa_uk": "/ˈkɒliːɡ/",
+     "ipa_us": "/ˈkɑːliːɡ/",
+     "note_fr": "Accent sur la première syllabe, contrairement au français."
+    },
+    {
+     "text": "develop",
+     "ipa_uk": "/dɪˈveləp/",
+     "ipa_us": "/dɪˈveləp/",
+     "note_fr": "Accent sur 'vel', jamais sur la dernière syllabe."
+    },
+    {
+     "text": "severance",
+     "ipa_uk": "/ˈsev(ə)rəns/",
+     "ipa_us": "/ˈsev(ə)rəns/",
+     "note_fr": "Accent initial ; souvent deux syllabes seulement."
+    },
+    {
+     "text": "comparable",
+     "ipa_uk": "/ˈkɒmp(ə)rəb(ə)l/",
+     "ipa_us": "/ˈkɑːmp(ə)rəb(ə)l/",
+     "note_fr": "Accent sur la première syllabe, pas sur 'par'."
+    },
+    {
+     "text": "a permanent contract",
+     "ipa_uk": "/ə ˌpɜːmənənt ˈkɒntrækt/",
+     "ipa_us": "/ə ˌpɜːrmənənt ˈkɑːntrækt/",
+     "note_fr": "Deux accents initiaux : PERmanent CONtract."
+    }
+   ],
+   "pairs": [
+    {
+     "a": "a contract",
+     "b": "to contract",
+     "ipa_a": "/ˈkɒntrækt/",
+     "ipa_b": "/kənˈtrækt/"
+    },
+    {
+     "a": "a record",
+     "b": "to record",
+     "ipa_a": "/ˈrekɔːd/",
+     "ipa_b": "/rɪˈkɔːd/"
+    },
+    {
+     "a": "an increase",
+     "b": "to increase",
+     "ipa_a": "/ˈɪŋkriːs/",
+     "ipa_b": "/ɪnˈkriːs/"
+    },
+    {
+     "a": "an object",
+     "b": "to object",
+     "ipa_a": "/ˈɒbdʒɪkt/",
+     "ipa_b": "/əbˈdʒekt/"
+    }
+   ]
+  },
+  {
+   "id": "pr-th",
+   "title": "The two 'th' sounds",
+   "title_fr": "Les deux sons 'th'",
+   "explain_fr": "Le 'th' sourd /θ/ (think, month) et le 'th' sonore /ð/ (the, this, although) se prononcent la pointe de la langue entre les dents ou juste derrière les dents du haut. Les francophones les remplacent par /s/ et /z/, ou /t/ et /d/, ce qui crée d'autres mots ('think' devient 'sink'). /ð/ se trouve surtout dans les mots grammaticaux (the, this, that, they, with) ; /θ/ dans les noms, les adjectifs et les nombres.",
+   "items": [
+    {
+     "text": "the",
+     "ipa_uk": "/ðə/",
+     "ipa_us": "/ðə/",
+     "note_fr": "Sonore. Devant une voyelle : /ði/ ('the employer')."
+    },
+    {
+     "text": "this",
+     "ipa_uk": "/ðɪs/",
+     "ipa_us": "/ðɪs/",
+     "note_fr": "Sonore, voyelle brève."
+    },
+    {
+     "text": "although",
+     "ipa_uk": "/ɔːlˈðəʊ/",
+     "ipa_us": "/ɔːlˈðoʊ/",
+     "note_fr": "Sonore ; accent sur la seconde syllabe."
+    },
+    {
+     "text": "whether",
+     "ipa_uk": "/ˈweðə/",
+     "ipa_us": "/ˈweðər/",
+     "note_fr": "Sonore ; même prononciation que 'weather'."
+    },
+    {
+     "text": "thereafter",
+     "ipa_uk": "/ˌðeərˈɑːftə/",
+     "ipa_us": "/ˌðerˈæftər/",
+     "note_fr": "Sonore ; mot de contrat."
+    },
+    {
+     "text": "with",
+     "ipa_uk": "/wɪð/",
+     "ipa_us": "/wɪθ/",
+     "note_fr": "Sonore au Royaume-Uni ; souvent sourd aux États-Unis."
+    },
+    {
+     "text": "think",
+     "ipa_uk": "/θɪŋk/",
+     "ipa_us": "/θɪŋk/",
+     "note_fr": "Sourd. Avec /s/, on entend 'sink'."
+    },
+    {
+     "text": "thirty",
+     "ipa_uk": "/ˈθɜːti/",
+     "ipa_us": "/ˈθɜːrti/",
+     "note_fr": "Sourd ; accent sur la première syllabe (à distinguer de 'thirteen')."
+    },
+    {
+     "text": "month",
+     "ipa_uk": "/mʌnθ/",
+     "ipa_us": "/mʌnθ/",
+     "note_fr": "Sourd ; voyelle de 'cup', pas un 'o'."
+    },
+    {
+     "text": "three months",
+     "ipa_uk": "/ˌθriː ˈmʌnθs/",
+     "ipa_us": "/ˌθriː ˈmʌnθs/",
+     "note_fr": "Enchaînement /nθs/ : à l'oral rapide, on entend souvent /mʌns/."
+    },
+    {
+     "text": "both",
+     "ipa_uk": "/bəʊθ/",
+     "ipa_us": "/boʊθ/",
+     "note_fr": "Sourd."
+    },
+    {
+     "text": "authority",
+     "ipa_uk": "/ɔːˈθɒrəti/",
+     "ipa_us": "/əˈθɔːrəti/",
+     "note_fr": "Sourd ; accent sur 'thor'."
+    },
+    {
+     "text": "health and safety",
+     "ipa_uk": "/ˌhelθ ən ˈseɪfti/",
+     "ipa_us": "/ˌhelθ ən ˈseɪfti/",
+     "note_fr": "Sourd, juste après un l : gardez la langue en avant."
+    }
+   ],
+   "pairs": [
+    {
+     "a": "think",
+     "b": "sink",
+     "ipa_a": "/θɪŋk/",
+     "ipa_b": "/sɪŋk/"
+    },
+    {
+     "a": "three",
+     "b": "tree",
+     "ipa_a": "/θriː/",
+     "ipa_b": "/triː/"
+    },
+    {
+     "a": "then",
+     "b": "den",
+     "ipa_a": "/ðen/",
+     "ipa_b": "/den/"
+    },
+    {
+     "a": "worth",
+     "b": "worse",
+     "ipa_a": "/wɜːθ/",
+     "ipa_b": "/wɜːs/"
+    },
+    {
+     "a": "breathe",
+     "b": "breeze",
+     "ipa_a": "/briːð/",
+     "ipa_b": "/briːz/"
+    },
+    {
+     "a": "thought",
+     "b": "taught",
+     "ipa_a": "/θɔːt/",
+     "ipa_b": "/tɔːt/"
+    }
+   ]
+  },
+  {
+   "id": "pr-h",
+   "title": "Pronouncing h - and the silent h",
+   "title_fr": "Le h prononcé - et le h muet",
+   "explain_fr": "Le h anglais est un souffle audible : l'oublier ('ire' pour 'hire') ou l'ajouter devant une voyelle ('h-employee') sont deux erreurs typiques des francophones. Quelques mots seulement ont un h muet : hour, honest, honour, heir et leurs dérivés ; ils prennent 'an'. Aux États-Unis, 'herb' se dit aussi sans h. Le h de 'vehicle' et celui de 'exhausted' ne se prononcent pas.",
+   "items": [
+    {
+     "text": "hire",
+     "ipa_uk": "/ˈhaɪə/",
+     "ipa_us": "/ˈhaɪər/",
+     "note_fr": "H soufflé. Sans h, on entend 'ire' (la colère)."
+    },
+    {
+     "text": "holiday",
+     "ipa_uk": "/ˈhɒlədeɪ/",
+     "ipa_us": "/ˈhɑːlədeɪ/",
+     "note_fr": "H soufflé. Aux États-Unis, 'holiday' = jour férié ; les congés se disent 'vacation'."
+    },
+    {
+     "text": "harassment",
+     "ipa_uk": "/ˈhærəsmənt/",
+     "ipa_us": "/həˈræsmənt/",
+     "note_fr": "Accent sur la première syllabe au Royaume-Uni, plutôt sur la deuxième aux États-Unis ; les deux s'entendent."
+    },
+    {
+     "text": "human resources",
+     "ipa_uk": "/ˌhjuːmən rɪˈzɔːsɪz/",
+     "ipa_us": "/ˌhjuːmən ˈriːsɔːrsɪz/",
+     "note_fr": "/hj/ : souffle puis 'you'. Accent de 'resources' différent au Royaume-Uni et aux États-Unis."
+    },
+    {
+     "text": "hearing",
+     "ipa_uk": "/ˈhɪərɪŋ/",
+     "ipa_us": "/ˈhɪrɪŋ/",
+     "note_fr": "Sans h, on entend 'earring'."
+    },
+    {
+     "text": "handbook",
+     "ipa_uk": "/ˈhændbʊk/",
+     "ipa_us": "/ˈhændbʊk/",
+     "note_fr": "H soufflé ; le d est souvent à peine audible."
+    },
+    {
+     "text": "behalf",
+     "ipa_uk": "/bɪˈhɑːf/",
+     "ipa_us": "/bɪˈhæf/",
+     "note_fr": "H au milieu du mot : il se prononce ; le l est muet."
+    },
+    {
+     "text": "on behalf of the employer",
+     "ipa_uk": "/ɒn bɪˌhɑːf əv ði ɪmˈplɔɪə/",
+     "ipa_us": "/ɑːn bɪˌhæf əv ði ɪmˈplɔɪər/",
+     "note_fr": "Un h dans 'behalf', aucun devant 'employer'."
+    },
+    {
+     "text": "hour",
+     "ipa_uk": "/ˈaʊə/",
+     "ipa_us": "/ˈaʊər/",
+     "note_fr": "H muet : se prononce comme 'our'."
+    },
+    {
+     "text": "an hourly rate",
+     "ipa_uk": "/ən ˌaʊəli ˈreɪt/",
+     "ipa_us": "/ən ˌaʊərli ˈreɪt/",
+     "note_fr": "H muet, donc 'an'."
+    },
+    {
+     "text": "honest",
+     "ipa_uk": "/ˈɒnɪst/",
+     "ipa_us": "/ˈɑːnɪst/",
+     "note_fr": "H muet : 'an honest mistake'."
+    },
+    {
+     "text": "heir",
+     "ipa_uk": "/eə/",
+     "ipa_us": "/er/",
+     "note_fr": "H muet : se prononce comme 'air'."
+    },
+    {
+     "text": "vehicle",
+     "ipa_uk": "/ˈviːək(ə)l/",
+     "ipa_us": "/ˈviːək(ə)l/",
+     "note_fr": "Le h ne se prononce pas dans l'usage courant."
+    },
+    {
+     "text": "exhausted",
+     "ipa_uk": "/ɪɡˈzɔːstɪd/",
+     "ipa_us": "/ɪɡˈzɔːstɪd/",
+     "note_fr": "H muet ; 'x' se prononce /ɡz/."
+    }
+   ],
+   "pairs": [
+    {
+     "a": "hear",
+     "b": "ear",
+     "ipa_a": "/hɪə/",
+     "ipa_b": "/ɪə/"
+    },
+    {
+     "a": "hold",
+     "b": "old",
+     "ipa_a": "/həʊld/",
+     "ipa_b": "/əʊld/"
+    },
+    {
+     "a": "hair",
+     "b": "air",
+     "ipa_a": "/heə/",
+     "ipa_b": "/eə/"
+    },
+    {
+     "a": "heat",
+     "b": "eat",
+     "ipa_a": "/hiːt/",
+     "ipa_b": "/iːt/"
+    },
+    {
+     "a": "high",
+     "b": "eye",
+     "ipa_a": "/haɪ/",
+     "ipa_b": "/aɪ/"
+    },
+    {
+     "a": "harm",
+     "b": "arm",
+     "ipa_a": "/hɑːm/",
+     "ipa_b": "/ɑːm/"
+    }
+   ]
+  },
+  {
+   "id": "pr-vowels",
+   "title": "Long and short vowels",
+   "title_fr": "Voyelles longues et voyelles brèves",
+   "explain_fr": "Le français n'a qu'un seul 'i' ; l'anglais oppose /iː/ long et tendu (leave, sheet) et /ɪ/ bref et relâché (live, bit). Confondre les deux change le mot, parfois de façon embarrassante : 'sheet' et 'beach' prononcés avec un i bref deviennent des mots grossiers. Étirez franchement les voyelles longues et souriez pour /iː/. Même vigilance pour /ɜː/ (work) et /ɔː/ (walk), et pour la diphtongue de 'focus' /əʊ/, qui n'est pas un 'o' bref.",
+   "items": [
+    {
+     "text": "leave",
+     "ipa_uk": "/liːv/",
+     "ipa_us": "/liːv/",
+     "note_fr": "Voyelle longue. Avec un i bref, on entend 'live'."
+    },
+    {
+     "text": "live",
+     "ipa_uk": "/lɪv/",
+     "ipa_us": "/lɪv/",
+     "note_fr": "Verbe : voyelle brève. L'adjectif 'live' (en direct) se dit /laɪv/."
+    },
+    {
+     "text": "sheet",
+     "ipa_uk": "/ʃiːt/",
+     "ipa_us": "/ʃiːt/",
+     "note_fr": "Voyelle bien longue, impérativement."
+    },
+    {
+     "text": "breach",
+     "ipa_uk": "/briːtʃ/",
+     "ipa_us": "/briːtʃ/",
+     "note_fr": "Voyelle longue : 'a breach of contract'."
+    },
+    {
+     "text": "brief",
+     "ipa_uk": "/briːf/",
+     "ipa_us": "/briːf/",
+     "note_fr": "Voyelle longue ; une seule syllabe."
+    },
+    {
+     "text": "seek",
+     "ipa_uk": "/siːk/",
+     "ipa_us": "/siːk/",
+     "note_fr": "Avec un i bref, on entend 'sick'."
+    },
+    {
+     "text": "fees",
+     "ipa_uk": "/fiːz/",
+     "ipa_us": "/fiːz/",
+     "note_fr": "Voyelle longue et /z/ final sonore."
+    },
+    {
+     "text": "focus",
+     "ipa_uk": "/ˈfəʊkəs/",
+     "ipa_us": "/ˈfoʊkəs/",
+     "note_fr": "Diphtongue dans la première syllabe, finale réduite /kəs/ : ne prononcez ni un 'o' bref ni un 'u' français."
+    },
+    {
+     "text": "work",
+     "ipa_uk": "/wɜːk/",
+     "ipa_us": "/wɜːrk/",
+     "note_fr": "Voyelle de 'her', pas un 'o'. À distinguer de 'walk'."
+    },
+    {
+     "text": "law",
+     "ipa_uk": "/lɔː/",
+     "ipa_us": "/lɔː/",
+     "note_fr": "Voyelle longue et ouverte. Aux États-Unis, on entend aussi /lɑː/. À distinguer de 'low'."
+    },
+    {
+     "text": "full-time",
+     "ipa_uk": "/ˌfʊl ˈtaɪm/",
+     "ipa_us": "/ˌfʊl ˈtaɪm/",
+     "note_fr": "/ʊ/ bref, comme dans 'book' ; à distinguer de 'fool' /fuːl/."
+    },
+    {
+     "text": "sick leave",
+     "ipa_uk": "/ˈsɪk liːv/",
+     "ipa_us": "/ˈsɪk liːv/",
+     "note_fr": "Un i bref puis un i long : bon exercice de contraste."
+    },
+    {
+     "text": "this week",
+     "ipa_uk": "/ðɪs ˈwiːk/",
+     "ipa_us": "/ðɪs ˈwiːk/",
+     "note_fr": "Bref puis long ; ne pas dire 'these weak'."
+    }
+   ],
+   "pairs": [
+    {
+     "a": "leave",
+     "b": "live",
+     "ipa_a": "/liːv/",
+     "ipa_b": "/lɪv/"
+    },
+    {
+     "a": "seek",
+     "b": "sick",
+     "ipa_a": "/siːk/",
+     "ipa_b": "/sɪk/"
+    },
+    {
+     "a": "reach",
+     "b": "rich",
+     "ipa_a": "/riːtʃ/",
+     "ipa_b": "/rɪtʃ/"
+    },
+    {
+     "a": "feel",
+     "b": "fill",
+     "ipa_a": "/fiːl/",
+     "ipa_b": "/fɪl/"
+    },
+    {
+     "a": "walk",
+     "b": "work",
+     "ipa_a": "/wɔːk/",
+     "ipa_b": "/wɜːk/"
+    },
+    {
+     "a": "law",
+     "b": "low",
+     "ipa_a": "/lɔː/",
+     "ipa_b": "/ləʊ/"
+    }
+   ]
+  },
+  {
+   "id": "pr-ed",
+   "title": "The three pronunciations of -ed",
+   "title_fr": "Les trois prononciations de -ed",
+   "explain_fr": "La terminaison -ed ne forme une syllabe /ɪd/ qu'après les sons /t/ et /d/ (terminated, suspended). Après une consonne sourde (/p/, /k/, /f/, /s/, /ʃ/, /tʃ/), elle se prononce /t/ (worked, dismissed). Dans tous les autres cas, /d/ (signed, agreed). Dire 'work-ed' ou 'dismiss-ed' en deux et trois syllabes est l'une des erreurs les plus audibles des francophones.",
+   "items": [
+    {
+     "text": "worked",
+     "ipa_uk": "/wɜːkt/",
+     "ipa_us": "/wɜːrkt/",
+     "note_fr": "/t/ : une seule syllabe."
+    },
+    {
+     "text": "dismissed",
+     "ipa_uk": "/dɪsˈmɪst/",
+     "ipa_us": "/dɪsˈmɪst/",
+     "note_fr": "/t/ : deux syllabes, pas trois."
+    },
+    {
+     "text": "discussed",
+     "ipa_uk": "/dɪˈskʌst/",
+     "ipa_us": "/dɪˈskʌst/",
+     "note_fr": "/t/ après /s/."
+    },
+    {
+     "text": "asked",
+     "ipa_uk": "/ɑːskt/",
+     "ipa_us": "/æskt/",
+     "note_fr": "/t/ : une syllabe ; le groupe /skt/ est souvent simplifié en /st/."
+    },
+    {
+     "text": "breached",
+     "ipa_uk": "/briːtʃt/",
+     "ipa_us": "/briːtʃt/",
+     "note_fr": "/t/ après /tʃ/."
+    },
+    {
+     "text": "signed",
+     "ipa_uk": "/saɪnd/",
+     "ipa_us": "/saɪnd/",
+     "note_fr": "/d/ : une syllabe ; le g est muet."
+    },
+    {
+     "text": "agreed",
+     "ipa_uk": "/əˈɡriːd/",
+     "ipa_us": "/əˈɡriːd/",
+     "note_fr": "/d/ après une voyelle."
+    },
+    {
+     "text": "resigned",
+     "ipa_uk": "/rɪˈzaɪnd/",
+     "ipa_us": "/rɪˈzaɪnd/",
+     "note_fr": "/d/ ; le s se prononce /z/."
+    },
+    {
+     "text": "employed",
+     "ipa_uk": "/ɪmˈplɔɪd/",
+     "ipa_us": "/ɪmˈplɔɪd/",
+     "note_fr": "/d/ : deux syllabes."
+    },
+    {
+     "text": "terminated",
+     "ipa_uk": "/ˈtɜːmɪneɪtɪd/",
+     "ipa_us": "/ˈtɜːrmɪneɪtɪd/",
+     "note_fr": "/ɪd/ après /t/ : une syllabe de plus."
+    },
+    {
+     "text": "suspended",
+     "ipa_uk": "/səˈspendɪd/",
+     "ipa_us": "/səˈspendɪd/",
+     "note_fr": "/ɪd/ après /d/."
+    },
+    {
+     "text": "negotiated",
+     "ipa_uk": "/nɪˈɡəʊʃieɪtɪd/",
+     "ipa_us": "/nɪˈɡoʊʃieɪtɪd/",
+     "note_fr": "/ɪd/ après /t/."
+    },
+    {
+     "text": "drafted",
+     "ipa_uk": "/ˈdrɑːftɪd/",
+     "ipa_us": "/ˈdræftɪd/",
+     "note_fr": "/ɪd/ après /t/."
+    },
+    {
+     "text": "She was dismissed in May.",
+     "ipa_uk": "/ʃi wəz dɪsˈmɪst ɪn ˈmeɪ/",
+     "ipa_us": "/ʃi wəz dɪsˈmɪst ɪn ˈmeɪ/",
+     "note_fr": "Liez le /t/ final à 'in' : 'dismis-tin'."
+    }
+   ],
+   "pairs": []
+  }
+ ],
+ "numbers": [
+  {
+   "written": "12 March 2026",
+   "say_uk": "the twelfth of March twenty twenty-six",
+   "say_us": "March twelfth, twenty twenty-six",
+   "note_fr": "Au Royaume-Uni on écrit '12 March 2026', aux États-Unis 'March 12, 2026'. À l'oral, toujours un ordinal, et 'the ... of' en anglais britannique."
+  },
+  {
+   "written": "03/04/2026",
+   "say_uk": "the third of April twenty twenty-six",
+   "say_us": "March fourth, twenty twenty-six",
+   "note_fr": "Piège majeur : jour/mois au Royaume-Uni (comme en France), mois/jour aux États-Unis. Dans un contrat ou un e-mail international, écrivez le mois en toutes lettres."
+  },
+  {
+   "written": "1,250",
+   "say_uk": "one thousand two hundred and fifty",
+   "say_us": "one thousand two hundred fifty",
+   "note_fr": "La virgule sépare les milliers (jamais un espace ni un point). Le 'and' après 'hundred' est britannique. On entend aussi 'twelve hundred and fifty', surtout aux États-Unis ('twelve hundred fifty')."
+  },
+  {
+   "written": "€45,000 a year",
+   "say_uk": "forty-five thousand euros a year",
+   "say_us": "forty-five thousand euros a year",
+   "note_fr": "Le symbole s'écrit avant le chiffre mais se dit après. 'Thousand' reste invariable. Familier : 'forty-five k' ; 'grand' est très familier."
+  },
+  {
+   "written": "£12.50 / $12.50 an hour",
+   "say_uk": "twelve pounds fifty an hour",
+   "say_us": "twelve dollars and fifty cents an hour",
+   "note_fr": "Le point marque les décimales. À l'oral courant : 'twelve fifty an hour' dans les deux pays. 'An hour' ou 'per hour', jamais 'by hour'."
+  },
+  {
+   "written": "3.5%",
+   "say_uk": "three point five per cent",
+   "say_us": "three point five percent",
+   "note_fr": "Virgule française = point anglais ('point'). 'Per cent' en deux mots au Royaume-Uni, 'percent' aux États-Unis ; pas d'espace avant %."
+  },
+  {
+   "written": "0.75",
+   "say_uk": "nought point seven five",
+   "say_us": "zero point seven five",
+   "note_fr": "Après 'point', on énonce les chiffres un par un ('seven five', pas 'seventy-five'). 'Nought' est britannique ; 'zero' est compris partout."
+  },
+  {
+   "written": "2,500,000",
+   "say_uk": "two and a half million",
+   "say_us": "two point five million",
+   "note_fr": "'Million' reste invariable après un nombre ('two million employees'). Les deux lectures s'emploient dans les deux pays. Dans les tableaux : '2.5m'."
+  },
+  {
+   "written": "1.2bn",
+   "say_uk": "one point two billion",
+   "say_us": "one point two billion",
+   "note_fr": "Faux ami : 'billion' = milliard (mille millions) ; le 'billion' français se dit 'trillion'. Abréviations : 'bn' (UK), 'B' (US)."
+  },
+  {
+   "written": "020 7946 0018",
+   "say_uk": "oh two oh, seven nine four six, double oh one eight",
+   "say_us": "zero two zero, seven nine four six, zero zero one eight",
+   "note_fr": "On dicte chiffre par chiffre, par groupes, jamais par paires comme en français. 'Oh' pour zéro et 'double' sont surtout britanniques ; les Américains répètent le chiffre."
+  },
+  {
+   "written": "9.30 am / 9:30 a.m.",
+   "say_uk": "half past nine in the morning",
+   "say_us": "nine thirty a.m.",
+   "note_fr": "Le Royaume-Uni écrit souvent l'heure avec un point, les États-Unis avec deux-points. 'Half past' est plus britannique ; 'nine thirty' passe partout. L'anglais familier britannique 'half nine' signifie 9 h 30, pas 8 h 30."
+  },
+  {
+   "written": "17:45",
+   "say_uk": "quarter to six in the evening",
+   "say_us": "a quarter to six, or five forty-five p.m.",
+   "note_fr": "L'horloge de 24 heures s'écrit (horaires, plannings) mais ne se dit presque jamais : convertissez en 'a.m.' / 'p.m.'. Aux États-Unis, on entend aussi 'a quarter of six'."
+  },
+  {
+   "written": "Spelling: GIRAUD",
+   "say_uk": "G for Golf, I for India, R, A for Alpha, U, D - /dʒiː, aɪ, ɑː, eɪ, juː, diː/",
+   "say_us": "G as in Golf, I as in India, R, A as in Alpha, U, D - /dʒiː, aɪ, ɑːr, eɪ, juː, diː/",
+   "note_fr": "Pièges : A se dit /eɪ/, E se dit /iː/, I se dit /aɪ/ ; G se dit /dʒiː/ et J se dit /dʒeɪ/, l'inverse du français. En cas de doute, épelez avec un mot-repère."
+  },
+  {
+   "written": "Spelling: JEAN-YVES HAZELL",
+   "say_uk": "J for Juliet, E, A, N, hyphen, Y, V, E, S; new word: H, A, Z, E, double L - Z is /zed/, H is /eɪtʃ/",
+   "say_us": "J as in Juliet, E, A, N, hyphen, Y, V, E, S; new word: H, A, Z, E, L, L - Z is /ziː/, H is /eɪtʃ/",
+   "note_fr": "Z se dit 'zed' au Royaume-Uni et 'zee' aux États-Unis. H = 'aitch', Y = /waɪ/, W = 'double-u'. Les Britanniques disent 'double L' ; le trait d'union est 'hyphen' (ou 'dash')."
+  }
+ ],
+ "placement": [
+  {
+   "skill": "vocabulary",
+   "level": "B1",
+   "prompt": "She has decided to leave the company, so she has handed in her ___.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "demission",
+    "notice",
+    "dismissal",
+    "licence"
+   ],
+   "answer": 1
+  },
+  {
+   "skill": "vocabulary",
+   "level": "B1",
+   "prompt": "The company is ___ ten new engineers this year.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "charging",
+    "firing",
+    "hiring",
+    "renting"
+   ],
+   "answer": 2
+  },
+  {
+   "skill": "vocabulary",
+   "level": "B1",
+   "prompt": "Hours worked beyond your normal schedule are called ___.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "supplementary time",
+    "extra shift",
+    "more-time",
+    "overtime"
+   ],
+   "answer": 3
+  },
+  {
+   "skill": "vocabulary",
+   "level": "B2",
+   "prompt": "An employee who believes she has been treated unfairly can raise a ___.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "grievance",
+    "reclamation",
+    "dispute letter",
+    "demand"
+   ],
+   "answer": 0
+  },
+  {
+   "skill": "vocabulary",
+   "level": "B2",
+   "prompt": "The clause stops him from working for a rival firm for six months after he leaves: it is a ___.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "confidentiality clause",
+    "non-compete clause",
+    "mobility clause",
+    "notice clause"
+   ],
+   "answer": 1
+  },
+  {
+   "skill": "vocabulary",
+   "level": "B2",
+   "prompt": "Fifty roles are at risk, so the company has opened a collective ___ consultation.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "licensing",
+    "resignation",
+    "redundancy",
+    "retirement"
+   ],
+   "answer": 2
+  },
+  {
+   "skill": "vocabulary",
+   "level": "C1",
+   "prompt": "The panel found that dismissal was a ___ response to a single minor error.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "unmeasured",
+    "overpassing",
+    "misbalanced",
+    "disproportionate"
+   ],
+   "answer": 3
+  },
+  {
+   "skill": "vocabulary",
+   "level": "C1",
+   "prompt": "The offer was made 'without ___', so it could not be shown to the tribunal.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "prejudice",
+    "damage",
+    "commitment",
+    "engagement"
+   ],
+   "answer": 0
+  },
+  {
+   "skill": "grammar",
+   "level": "B1",
+   "prompt": "She ___ in the Paris office since 2021.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "works",
+    "has worked",
+    "is working",
+    "worked"
+   ],
+   "answer": 1
+  },
+  {
+   "skill": "grammar",
+   "level": "B1",
+   "prompt": "Could you give me ___ about the new policy?",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "an information",
+    "some informations",
+    "some information",
+    "informations"
+   ],
+   "answer": 2
+  },
+  {
+   "skill": "grammar",
+   "level": "B1",
+   "prompt": "If he ___ late again, he will get a written warning.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "is",
+    "will be",
+    "would be",
+    "be"
+   ],
+   "answer": 0
+  },
+  {
+   "skill": "grammar",
+   "level": "B2",
+   "prompt": "I look forward to ___ from you.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "hear",
+    "be hearing",
+    "have heard",
+    "hearing"
+   ],
+   "answer": 3
+  },
+  {
+   "skill": "grammar",
+   "level": "B2",
+   "prompt": "The report ___ by the time the committee meets next week.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "will finish",
+    "will have been finished",
+    "is finishing",
+    "has finished"
+   ],
+   "answer": 1
+  },
+  {
+   "skill": "grammar",
+   "level": "B2",
+   "prompt": "I suggest ___ the hearing until Monday.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "postponing",
+    "to postpone",
+    "us to postpone",
+    "that we postponing"
+   ],
+   "answer": 0
+  },
+  {
+   "skill": "grammar",
+   "level": "C1",
+   "prompt": "___ the employee refuse to cooperate, the investigation will proceed without her.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "Would",
+    "If",
+    "Should",
+    "Unless"
+   ],
+   "answer": 2
+  },
+  {
+   "skill": "grammar",
+   "level": "C1",
+   "prompt": "Not only ___ the deadline, but he also failed to inform his manager.",
+   "passage": null,
+   "audio": null,
+   "options": [
+    "he missed",
+    "he did miss",
+    "missed he",
+    "did he miss"
+   ],
+   "answer": 3
+  },
+  {
+   "skill": "reading",
+   "level": "B1",
+   "prompt": "When is a medical certificate needed?",
+   "passage": "All employees must tell their manager before 9 a.m. on the first day of any absence. A medical certificate is required for absences of more than three days.",
+   "audio": null,
+   "options": [
+    "For every absence",
+    "Only for absences longer than three days",
+    "Before 9 a.m. on the first day",
+    "Never"
+   ],
+   "answer": 1
+  },
+  {
+   "skill": "reading",
+   "level": "B1",
+   "prompt": "What must Ms Laurent do by 15 August?",
+   "passage": "Dear Ms Laurent, We are pleased to offer you the position of HR Assistant, starting on 1 September. Please sign and return the enclosed contract by 15 August.",
+   "audio": null,
+   "options": [
+    "Start work",
+    "Call the company",
+    "Send back the signed contract",
+    "Attend an interview"
+   ],
+   "answer": 2
+  },
+  {
+   "skill": "reading",
+   "level": "B1",
+   "prompt": "What should people do if they cannot work from home on Friday?",
+   "passage": "The office will be closed on Friday for maintenance. Staff may work from home that day. Anyone who cannot work from home should speak to their manager.",
+   "audio": null,
+   "options": [
+    "Talk to their manager",
+    "Come to the office anyway",
+    "Take a day's leave",
+    "Work on Saturday instead"
+   ],
+   "answer": 0
+  },
+  {
+   "skill": "reading",
+   "level": "B2",
+   "prompt": "Which statement is true?",
+   "passage": "The bonus is discretionary. Payment in one year does not create any entitlement to a bonus in later years, and no bonus is payable to an employee who is under notice on the payment date.",
+   "audio": null,
+   "options": [
+    "Employees receive the bonus every year.",
+    "An employee who has resigned still receives the bonus.",
+    "The bonus becomes a right after the first payment.",
+    "An employee who is working out their notice on the payment date receives nothing."
+   ],
+   "answer": 3
+  },
+  {
+   "skill": "reading",
+   "level": "B2",
+   "prompt": "What did the investigator conclude?",
+   "passage": "Although the manager denied making the remark, two colleagues confirmed that they had heard it. The investigator therefore found, on the balance of probabilities, that the comment had been made.",
+   "audio": null,
+   "options": [
+    "The manager was telling the truth.",
+    "The remark was probably made.",
+    "There was not enough evidence to decide.",
+    "The two colleagues were unreliable."
+   ],
+   "answer": 1
+  },
+  {
+   "skill": "reading",
+   "level": "B2",
+   "prompt": "What happened in the regional branches?",
+   "passage": "Staff turnover fell slightly last year. However, the improvement was confined to head office; in the regional branches, resignations continued to rise.",
+   "audio": null,
+   "options": [
+    "Turnover fell slightly.",
+    "Nothing changed.",
+    "More people resigned.",
+    "Recruitment stopped."
+   ],
+   "answer": 2
+  },
+  {
+   "skill": "reading",
+   "level": "C1",
+   "prompt": "What was the panel's view?",
+   "passage": "Notwithstanding the employee's long and hitherto unblemished service, the panel took the view that the breach of trust was so fundamental as to leave the employer with no realistic alternative to dismissal.",
+   "audio": null,
+   "options": [
+    "Dismissal was justified despite the employee's good record.",
+    "Long service made the dismissal unfair.",
+    "The employer should have looked for alternatives.",
+    "The employee's record was poor."
+   ],
+   "answer": 0
+  },
+  {
+   "skill": "reading",
+   "level": "C1",
+   "prompt": "What does the writer imply?",
+   "passage": "The proposal was, to put it mildly, not warmly received. While nobody went so far as to reject it outright, the union representatives made it plain that, absent significant concessions on working time, there was little prospect of an agreement.",
+   "audio": null,
+   "options": [
+    "The unions formally rejected the proposal.",
+    "The unions welcomed the proposal with minor reservations.",
+    "The unions were indifferent to the proposal.",
+    "The unions are unlikely to agree unless the working-time terms improve."
+   ],
+   "answer": 3
+  },
+  {
+   "skill": "listening",
+   "level": "B1",
+   "prompt": "When is the interview now?",
+   "passage": null,
+   "audio": "Hi, it's Karen from HR. Your interview has been moved from Tuesday to Thursday at ten o'clock. Same room as before.",
+   "options": [
+    "Tuesday at ten",
+    "Thursday at two",
+    "Thursday at ten",
+    "Tuesday at two"
+   ],
+   "answer": 2
+  },
+  {
+   "skill": "listening",
+   "level": "B1",
+   "prompt": "Why is Mr Davies not available?",
+   "passage": null,
+   "audio": "I'm afraid Mr Davies is off sick today. He should be back in the office on Monday.",
+   "options": [
+    "He is ill.",
+    "He is on holiday.",
+    "He is in a meeting.",
+    "He has left the company."
+   ],
+   "answer": 0
+  },
+  {
+   "skill": "listening",
+   "level": "B1",
+   "prompt": "What does the speaker need?",
+   "passage": null,
+   "audio": "Could you send me the signed contract by the end of the week? I need it before payroll runs on the twenty-fifth.",
+   "options": [
+    "A payslip",
+    "A meeting on the twenty-fifth",
+    "A new contract",
+    "A signed document within a few days"
+   ],
+   "answer": 3
+  },
+  {
+   "skill": "listening",
+   "level": "B2",
+   "prompt": "What does the speaker suggest?",
+   "passage": null,
+   "audio": "To be honest, I'm not entirely convinced a written warning is the way to go. Why don't we have an informal word with him first?",
+   "options": [
+    "Giving a formal warning straight away",
+    "Speaking to the employee informally first",
+    "Dismissing the employee",
+    "Taking no action"
+   ],
+   "answer": 1
+  },
+  {
+   "skill": "listening",
+   "level": "B2",
+   "prompt": "What happened?",
+   "passage": null,
+   "audio": "We'd have loved to offer her the job, but she'd already accepted something else by the time we got back to her.",
+   "options": [
+    "The candidate was hired.",
+    "The candidate turned the job down because of the salary.",
+    "The company was too slow and lost the candidate.",
+    "The company rejected the candidate."
+   ],
+   "answer": 2
+  },
+  {
+   "skill": "listening",
+   "level": "B2",
+   "prompt": "What is the speaker unhappy about?",
+   "passage": null,
+   "audio": "It's not that I mind covering for him. It's just that nobody bothered to ask me.",
+   "options": [
+    "Not being consulted",
+    "Having to do extra work",
+    "Her colleague's absence",
+    "Her workload in general"
+   ],
+   "answer": 0
+  },
+  {
+   "skill": "listening",
+   "level": "C1",
+   "prompt": "What does the speaker mean?",
+   "passage": null,
+   "audio": "With respect, I think that's a rather optimistic reading of the clause. I wouldn't want to rely on it in front of a tribunal.",
+   "options": [
+    "She fully agrees with the interpretation.",
+    "She has not read the clause.",
+    "She thinks the clause is perfectly clear.",
+    "She politely disagrees and thinks the argument is weak."
+   ],
+   "answer": 3
+  },
+  {
+   "skill": "listening",
+   "level": "C1",
+   "prompt": "What is the speaker's real opinion?",
+   "passage": null,
+   "audio": "Well, the feedback wasn't bad, exactly. Let's just say there's room for improvement before she goes anywhere near a client.",
+   "options": [
+    "The feedback was excellent.",
+    "The person is not yet ready to deal with clients.",
+    "The person should be promoted.",
+    "A client complained about the person."
+   ],
+   "answer": 1
+  }
+ ]
+}

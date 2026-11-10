@@ -1,0 +1,30 @@
+{
+  "name": "Parlance — Legal & HR English",
+  "short_name": "Parlance",
+  "description": "Legal and HR English: vocabulary, registers, British and American usage. Works offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F1EC",
+  "theme_color": "#F4F1EC",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -20,7 +20,7 @@ const SHOTS = shotsAt > 0 ? process.argv[shotsAt + 1] : null;
   const page = await ctx.newPage();
   page.on('pageerror', e => { fails.push('exception JS : ' + e.message); console.log('  EXCEPTION :', e.message); });
   const go = async h => { await page.evaluate(x => { location.hash = '#/' + x; }, h); await page.waitForTimeout(40); };
-  const shot = async (p, name) => { if (SHOTS) { fs.mkdirSync(SHOTS, { recursive: true }); await p.screenshot({ path: path.join(SHOTS, name + '.png') }); } };
+  const shot = async (p, name) => { if (SHOTS) { await p.waitForTimeout(500); fs.mkdirSync(SHOTS, { recursive: true }); await p.screenshot({ path: path.join(SHOTS, name + '.png') }); } };
 
   try {
     // 1. première ouverture
@@ -93,6 +93,7 @@ const SHOTS = shotsAt > 0 ? process.argv[shotsAt + 1] : null;
     check((await page.locator('.sess.end .ring b').innerText()).startsWith('0'), 'séance ratée : le score devrait être 0 %');
     check(await page.evaluate(() => dueIds().length > 0), 'les erreurs ne reviennent pas en révision');
     await page.click('[data-act="quitSession"]');
+    await page.waitForSelector('.level');
 
     // 6. contrôle de niveau réussi : le niveau 2 s'ouvre
     check(await page.locator('.level.locked').count() === 2, 'les niveaux 2 et 3 devraient être fermés');
@@ -101,6 +102,7 @@ const SHOTS = shotsAt > 0 ? process.argv[shotsAt + 1] : null;
     await shot(page, '08-result');
     check((await page.locator('.sess.end .ring b').innerText()).startsWith('100'), 'contrôle réussi : le score devrait être 100 %');
     await page.click('[data-act="quitSession"]');
+    await page.waitForSelector('.level');
     check(await page.locator('.level.locked').count() === 1, 'le niveau 2 ne s’est pas ouvert à 100 %');
     console.log('  séances, score et déblocage du niveau 2 : conformes');
 
@@ -155,7 +157,7 @@ const SHOTS = shotsAt > 0 ? process.argv[shotsAt + 1] : null;
     await page.evaluate(() => saveNow());
     await ctx.setOffline(true); server.kill();
     await page.reload();
-    await page.waitForSelector('.entry h1');
+    await page.waitForSelector('.hero');
     check(await page.evaluate(() => S.notebook.length === 1 && S.levels['contract:1'] === 100 && S.settings.variety === 'us'), 'la progression n’a pas survécu au rechargement hors ligne');
     await go('theme/contract'); await page.click('[data-act="practise"][data-l="2"]'); await answerAll(true);
     check(await page.locator('.sess.end').count() === 1, 'séance impossible hors connexion');

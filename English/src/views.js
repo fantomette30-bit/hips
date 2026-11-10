@@ -4,7 +4,7 @@ const SK = t => DATA.skills[t] || { reading: [], writing: [], dialogues: [], rol
 const THEME = id => DATA.themes.find(t => t.id === id);
 const hasTheme = id => (DATA.entries[id] || []).length > 0;
 const findIn = (key, id) => { for (const t of Object.keys(DATA.skills)) { const x = (DATA.skills[t][key] || []).find(o => o.id === id); if (x) return x; } return null; };
-const card = (href, inner, cls) => '<a class="card link ' + (cls || '') + '" href="#/' + href + '">' + inner + icon('next', 'chev') + '</a>';
+const card = (href, inner, cls) => '<a class="card link ' + (cls || '') + '" href="#/' + href + '"><div class="cl-body">' + inner + '</div>' + icon('next', 'chev') + '</a>';
 const section = (title, inner, sub) => '<section><h2>' + esc(title) + '</h2>' + (sub ? '<p class="sub">' + sub + '</p>' : '') + inner + '</section>';
 
 /* ================= Today ================= */
