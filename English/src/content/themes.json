@@ -1,0 +1,14 @@
+[
+ {"id":"contract","title":"The employment contract","title_fr":"Le contrat de travail","blurb":"Offers, clauses, probation, amendments and the drafting words that hold a contract together."},
+ {"id":"recruitment","title":"Recruitment","title_fr":"Le recrutement","blurb":"Job adverts, interviews, offers and onboarding."},
+ {"id":"pay","title":"Pay and benefits","title_fr":"Rémunération et avantages","blurb":"Salary, bonuses, payslips and perks."},
+ {"id":"time","title":"Working time","title_fr":"Le temps de travail","blurb":"Hours, overtime, leave and remote work."},
+ {"id":"discipline","title":"Discipline and dismissal","title_fr":"Discipline et licenciement","blurb":"Warnings, hearings, grounds and procedure."},
+ {"id":"exit","title":"Negotiated exits","title_fr":"Rupture conventionnelle et transaction","blurb":"Mutual termination and settlement agreements."},
+ {"id":"collective","title":"Collective relations","title_fr":"Relations collectives","blurb":"Works councils, unions and bargaining."},
+ {"id":"safety","title":"Health and safety","title_fr":"Santé et sécurité","blurb":"Risk, wellbeing, sick leave and fitness for work."},
+ {"id":"equality","title":"Discrimination and harassment","title_fr":"Discrimination et harcèlement","blurb":"Complaints, investigations and protection."},
+ {"id":"litigation","title":"Employment litigation","title_fr":"Le contentieux prud'homal","blurb":"Claims, hearings, remedies and appeals."},
+ {"id":"data","title":"Data protection","title_fr":"Protection des données","blurb":"Employee data, monitoring and access requests."},
+ {"id":"careers","title":"Training and careers","title_fr":"Formation et carrières","blurb":"Appraisals, development and mobility."}
+]

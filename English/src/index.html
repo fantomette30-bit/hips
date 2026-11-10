@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Parlance">
+<meta name="theme-color" content="#F5EFE6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#191012" media="(prefers-color-scheme: dark)">
+<meta name="description" content="Legal and HR English for professionals: vocabulary, registers, British and American usage, reading, writing and speaking. Works offline.">
+<title>Parlance</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<style>
+/*CSS*/
+</style>
+</head>
+<body>
+<div id="app"><nav id="nav" aria-label="Main"></nav><main id="main" tabindex="-1"></main></div>
+<div id="sheet" hidden></div>
+<div id="toast" role="status" hidden></div>
+<script>window.PARLANCE_DATA=/*DATA*/;</script>
+<script>
+/*JS*/
+</script>
+<script>
+/* Copie complète sur l'appareil : après la première ouverture, l'application fonctionne sans réseau. */
+if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+  window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
+}
+</script>
+</body>
+</html>

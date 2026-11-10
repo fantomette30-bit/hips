@@ -1,0 +1,3748 @@
+[
+ {
+  "id": "ct-001",
+  "level": 1,
+  "fr": "CDI (contrat à durée indéterminée)",
+  "term": {
+   "uk": "permanent contract",
+   "us": "permanent contract"
+  },
+  "ipa": {
+   "uk": "/ˈpɜːmənənt ˈkɒntrækt/",
+   "us": "/ˈpɜːrmənənt ˈkɑːntrækt/"
+  },
+  "def": "An employment contract with no end date, which continues until one of the parties terminates it.",
+  "registers": {
+   "formal": {
+    "uk": "indefinite-term employment contract",
+    "us": "indefinite-term employment contract",
+    "ex": "The Employee is engaged under an [[indefinite-term employment contract]] governed by French law."
+   },
+   "everyday": {
+    "uk": "permanent contract",
+    "us": "permanent position",
+    "ex": "After two fixed-term contracts, they finally offered her a [[permanent contract]].",
+    "ex_us": "After two fixed-term contracts, they finally offered her a [[permanent position]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on a permanent contract",
+   "to offer someone a permanent contract",
+   "to move onto a permanent contract"
+  ],
+  "note_fr": "Ne dites pas « undetermined contract » ni « unlimited contract ». Aux États-Unis, « permanent » ne garantit rien : l'emploi reste en principe « at-will » ; on y parle plutôt de « regular full-time employee ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The CDI (contrat à durée indéterminée) is the standard French employment contract: it has no end date and can only be terminated on the grounds and by the procedures laid down by law.",
+   "spoken": "A CDI is basically a permanent contract - there's no end date, and the employer can't end it without a valid reason."
+  }
+ },
+ {
+  "id": "ct-002",
+  "level": 1,
+  "fr": "CDD (contrat à durée déterminée)",
+  "term": {
+   "uk": "fixed-term contract",
+   "us": "fixed-term contract"
+  },
+  "ipa": {
+   "uk": "/ˌfɪkst ˈtɜːm ˈkɒntrækt/",
+   "us": "/ˌfɪkst ˈtɜːrm ˈkɑːntrækt/"
+  },
+  "def": "An employment contract that ends on a set date or when a specific task or event is completed.",
+  "registers": {
+   "formal": {
+    "uk": "fixed-term employment contract",
+    "us": "fixed-term employment contract",
+    "ex": "A [[fixed-term employment contract]] may not be used to fill a post linked to the company's normal and permanent activity."
+   },
+   "everyday": {
+    "uk": "fixed-term contract",
+    "us": "temporary contract",
+    "ex": "She's on a six-month [[fixed-term contract]] covering someone's maternity leave.",
+    "ex_us": "She's on a six-month [[temporary contract]] covering someone's maternity leave."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on a fixed-term contract",
+   "to take someone on on a fixed-term basis",
+   "a twelve-month fixed-term contract"
+  ],
+  "note_fr": "Pas de « determined contract » ni de « limited contract ». Au Royaume-Uni et aux États-Unis, le recours au contrat à durée déterminée n'est pas limité à une liste de motifs comme en France : expliquez-le toujours.",
+  "french_concept": true,
+  "explain": {
+   "written": "The CDD (contrat à durée déterminée) is a fixed-term contract which, under French law, may only be used for specific temporary needs such as replacing an absent employee or covering a temporary increase in activity.",
+   "spoken": "A CDD is a fixed-term contract, but in France you can only use one for a genuinely temporary need - covering an absence, say, or a seasonal peak."
+  }
+ },
+ {
+  "id": "ct-003",
+  "level": 1,
+  "fr": "à temps plein",
+  "term": {
+   "uk": "full-time",
+   "us": "full-time"
+  },
+  "ipa": {
+   "uk": "/ˌfʊl ˈtaɪm/",
+   "us": "/ˌfʊl ˈtaɪm/"
+  },
+  "def": "Working the standard number of hours for the job, as opposed to reduced hours.",
+  "registers": {
+   "formal": {
+    "uk": "on a full-time basis",
+    "us": "on a full-time basis",
+    "ex": "The Employee shall be employed [[on a full-time basis]]."
+   },
+   "everyday": {
+    "uk": "full-time",
+    "us": "full-time",
+    "ex": "Is the role [[full-time]], or would you consider four days a week?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a full-time job",
+   "to work full-time",
+   "full-time equivalent (FTE)",
+   "to go back to full-time"
+  ],
+  "note_fr": "« Full-time » s'emploie comme adjectif et comme adverbe (« she works full-time »), sans « at » : jamais « at full time ». L'ETP se dit « full-time equivalent » ou « FTE ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-004",
+  "level": 1,
+  "fr": "à temps partiel",
+  "term": {
+   "uk": "part-time",
+   "us": "part-time"
+  },
+  "ipa": {
+   "uk": "/ˌpɑːt ˈtaɪm/",
+   "us": "/ˌpɑːrt ˈtaɪm/"
+  },
+  "def": "Working fewer hours than a full-time employee in the same organisation.",
+  "registers": {
+   "formal": {
+    "uk": "on a part-time basis",
+    "us": "on a part-time basis",
+    "ex": "The Employee is engaged [[on a part-time basis]] for twenty-four hours per week."
+   },
+   "everyday": {
+    "uk": "to go part-time",
+    "us": "to go part-time",
+    "ex": "He's asked [[to go part-time]] when he comes back from parental leave."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a part-time contract",
+   "to work part-time",
+   "a part-timer",
+   "to cut down to three days a week"
+  ],
+  "note_fr": "Évitez le calque « partial time ». Un salarié à temps partiel est « a part-timer » ou « a part-time employee ». Le « 80 % » français se dit plutôt en jours : « she works four days a week ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-005",
+  "level": 2,
+  "fr": "travail temporaire (intérim)",
+  "term": {
+   "uk": "agency work",
+   "us": "temp work"
+  },
+  "ipa": {
+   "uk": "/ˈeɪdʒ(ə)nsi wɜːk/",
+   "us": "/ˈtemp wɜːrk/"
+  },
+  "def": "Work done for a client company by someone who is employed and paid by an employment agency.",
+  "registers": {
+   "formal": {
+    "uk": "temporary agency work",
+    "us": "temporary staffing",
+    "ex": "The company may have recourse to [[temporary agency work]] only for a precise and temporary task.",
+    "ex_us": "The company may have recourse to [[temporary staffing]] only for a precise and temporary task."
+   },
+   "everyday": {
+    "uk": "agency staff",
+    "us": "temps",
+    "ex": "We've had to bring in [[agency staff]] to get through the Christmas rush.",
+    "ex_us": "We've had to bring in [[temps]] to get through the Christmas rush."
+   },
+   "informal": {
+    "uk": "temping",
+    "us": "temping",
+    "ex": "She did a year of [[temping]] before she landed a proper job."
+   }
+  },
+  "collocations": [
+   "an agency worker",
+   "a temp agency",
+   "to bring in agency staff",
+   "to work through an agency"
+  ],
+  "note_fr": "« Interim » est un faux ami : « an interim manager » est un manager de transition, « in the interim » signifie « entre-temps ». L'intérimaire est « an agency worker » (UK) ou « a temp » (surtout US) ; l'entreprise de travail temporaire, « a staffing agency » (US) ou « an employment agency » (UK).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-006",
+  "level": 2,
+  "fr": "contrat d'apprentissage",
+  "term": {
+   "uk": "apprenticeship contract",
+   "us": "apprenticeship contract"
+  },
+  "ipa": {
+   "uk": "/əˈprentɪsʃɪp ˈkɒntrækt/",
+   "us": "/əˈprentɪsʃɪp ˈkɑːntrækt/"
+  },
+  "def": "A contract combining paid work with structured training that leads to a recognised qualification.",
+  "registers": {
+   "formal": {
+    "uk": "apprenticeship agreement",
+    "us": "apprenticeship agreement",
+    "ex": "The [[apprenticeship agreement]] shall specify the qualification for which the apprentice is being trained."
+   },
+   "everyday": {
+    "uk": "apprenticeship",
+    "us": "apprenticeship",
+    "ex": "He's doing an [[apprenticeship]] with us while he finishes his master's."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take on an apprentice",
+   "to do an apprenticeship",
+   "to serve an apprenticeship",
+   "a degree apprenticeship"
+  ],
+  "note_fr": "« Alternance » n'a pas d'équivalent exact : dites « a work-study programme » (US « program ») ou « an apprenticeship ». Ne confondez pas « apprentice » (apprenti), « trainee » (stagiaire en formation interne) et « intern » (stagiaire étudiant).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-007",
+  "level": 2,
+  "fr": "contrat zéro heure",
+  "term": {
+   "uk": "zero-hours contract",
+   "us": "zero-hours contract"
+  },
+  "ipa": {
+   "uk": "/ˌzɪərəʊ ˈaʊəz ˈkɒntrækt/",
+   "us": "/ˌzɪroʊ ˈaʊərz ˈkɑːntrækt/"
+  },
+  "def": "A UK arrangement under which the employer does not guarantee any minimum number of working hours.",
+  "registers": {
+   "formal": {
+    "uk": "zero-hours contract",
+    "us": "on-call employment arrangement",
+    "ex": "Under a [[zero-hours contract]], the employer is under no obligation to offer any work.",
+    "ex_us": "Under an [[on-call employment arrangement]], the employer is under no obligation to offer any work."
+   },
+   "everyday": {
+    "uk": "zero-hours contract",
+    "us": "on-call work",
+    "ex": "Most of the bar staff are on [[zero-hours contracts]], so their pay varies a lot from week to week.",
+    "ex_us": "Most of the bar staff do [[on-call work]], so their pay varies a lot from week to week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on a zero-hours contract",
+   "guaranteed hours",
+   "casual work",
+   "to be offered shifts"
+  ],
+  "note_fr": "Notion essentiellement britannique, sans équivalent en droit français, où le contrat à temps partiel doit en principe prévoir une durée de travail. Aux États-Unis, on parlera de « on-call » ou « per diem » work.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-008",
+  "level": 2,
+  "fr": "emploi « at-will » (rupture libre, sans motif)",
+  "term": {
+   "uk": "at-will employment",
+   "us": "at-will employment"
+  },
+  "ipa": {
+   "uk": "/ət ˌwɪl ɪmˈplɔɪmənt/",
+   "us": "/ət ˌwɪl ɪmˈplɔɪmənt/"
+  },
+  "def": "The default US rule under which either party may end the employment at any time, with or without a reason or notice.",
+  "registers": {
+   "formal": {
+    "uk": "employment at will",
+    "us": "employment at will",
+    "ex": "Nothing in this handbook alters the [[employment at will]] relationship between the Company and its employees."
+   },
+   "everyday": {
+    "uk": "at-will",
+    "us": "at-will",
+    "ex": "Remember that our US staff are [[at-will]], so there's no notice period to negotiate."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an at-will employee",
+   "an at-will state",
+   "an exception to at-will employment",
+   "to be employed at will"
+  ],
+  "note_fr": "Notion américaine, inconnue en France comme au Royaume-Uni. « At-will » ne veut pas dire sans limites : un licenciement discriminatoire ou prononcé en représailles reste illicite. Évitez de traduire par « à volonté ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-009",
+  "level": 1,
+  "fr": "salarié(e)",
+  "term": {
+   "uk": "employee",
+   "us": "employee"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪiː/",
+   "us": "/ɪmˈplɔɪiː/"
+  },
+  "def": "A person who works for an employer under a contract of employment in return for pay.",
+  "registers": {
+   "formal": {
+    "uk": "employee",
+    "us": "employee",
+    "ex": "The [[Employee]] shall devote the whole of his or her working time to the business of the Company."
+   },
+   "everyday": {
+    "uk": "on the payroll",
+    "us": "on the payroll",
+    "ex": "We've got about two hundred people [[on the payroll]] in France."
+   },
+   "informal": {
+    "uk": "on the books",
+    "us": "on the books",
+    "ex": "He's been [[on the books]] since March, so he's covered by the company health plan."
+   }
+  },
+  "collocations": [
+   "a salaried employee",
+   "a member of staff",
+   "to have someone on the payroll",
+   "employee status"
+  ],
+  "note_fr": "« Salaried » n'est pas « salarié » : « a salaried employee » est payé au mois, par opposition à « an hourly employee ». « Staff » est collectif : « a member of staff », jamais « a staff ». « Personnel » est rare et administratif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-010",
+  "level": 3,
+  "fr": "« worker » (statut intermédiaire britannique)",
+  "term": {
+   "uk": "worker",
+   "us": "worker"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkə/",
+   "us": "/ˈwɜːrkər/"
+  },
+  "def": "In UK law, a person who works personally for someone else without being a full employee, and who has some but not all employment rights.",
+  "registers": {
+   "formal": {
+    "uk": "worker",
+    "us": "worker",
+    "ex": "The tribunal held that the claimant was a [[worker]] rather than an employee and was therefore entitled to paid annual leave."
+   },
+   "everyday": {
+    "uk": "worker status",
+    "us": "worker status",
+    "ex": "The drivers are claiming [[worker status]], which would give them holiday pay and the minimum wage."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "worker status",
+   "to qualify as a worker",
+   "workers' rights",
+   "a casual worker"
+  ],
+  "note_fr": "Au Royaume-Uni, « worker » est une catégorie juridique située entre « employee » et « self-employed » : salaire minimum et congés payés, mais pas la protection contre le licenciement abusif. Ni la France ni les États-Unis ne connaissent ce troisième statut ; ailleurs, « worker » veut simplement dire « travailleur ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-011",
+  "level": 2,
+  "fr": "travailleur indépendant / prestataire",
+  "term": {
+   "uk": "independent contractor",
+   "us": "independent contractor"
+  },
+  "ipa": {
+   "uk": "/ˌɪndɪˈpendənt kənˈtræktə/",
+   "us": "/ˌɪndɪˈpendənt ˈkɑːntræktər/"
+  },
+  "def": "A self-employed person who provides services to a client under a commercial contract rather than an employment contract.",
+  "registers": {
+   "formal": {
+    "uk": "independent contractor",
+    "us": "independent contractor",
+    "ex": "The Consultant is engaged as an [[independent contractor]] and nothing in this agreement shall create a contract of employment."
+   },
+   "everyday": {
+    "uk": "freelancer",
+    "us": "freelancer",
+    "ex": "We use a [[freelancer]] for the payroll audits rather than hiring someone."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to work as a contractor",
+   "to go freelance",
+   "to be self-employed",
+   "a contract for services"
+  ],
+  "note_fr": "Distinguez « a contract of employment » ou « contract of service » (contrat de travail) de « a contract for services » (contrat de prestation). « Independent » seul ne s'emploie pas comme nom : dites « a contractor », « a freelancer » ou « self-employed ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-012",
+  "level": 3,
+  "fr": "salariat déguisé / requalification en contrat de travail",
+  "term": {
+   "uk": "misclassification",
+   "us": "misclassification"
+  },
+  "ipa": {
+   "uk": "/ˌmɪsklæsɪfɪˈkeɪʃ(ə)n/",
+   "us": "/ˌmɪsklæsəfəˈkeɪʃ(ə)n/"
+  },
+  "def": "Treating someone as self-employed when the reality of the relationship is that of an employee.",
+  "registers": {
+   "formal": {
+    "uk": "false self-employment",
+    "us": "worker misclassification",
+    "ex": "The inspector found evidence of [[false self-employment]] and ordered the payment of back contributions.",
+    "ex_us": "The inspector found evidence of [[worker misclassification]] and ordered the payment of back contributions."
+   },
+   "everyday": {
+    "uk": "to be misclassified",
+    "us": "to be misclassified",
+    "ex": "If he works set hours and reports to our manager, there's a real risk he [[is misclassified]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to reclassify a contractor as an employee",
+   "bogus self-employment",
+   "employment status",
+   "a sham contract"
+  ],
+  "note_fr": "« Requalification » n'a pas de traduction directe : dites « the contract was reclassified as an employment contract » ou « he was found to be an employee ». Le critère français est le lien de subordination ; au Royaume-Uni on parle de « employment status », aux États-Unis de « misclassification ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-013",
+  "level": 3,
+  "fr": "portage salarial",
+  "term": {
+   "uk": "umbrella company employment",
+   "us": "umbrella company employment"
+  },
+  "ipa": {
+   "uk": "/ʌmˈbrelə ˌkʌmp(ə)ni ɪmˈplɔɪmənt/",
+   "us": "/ʌmˈbrelə ˌkʌmpəni ɪmˈplɔɪmənt/"
+  },
+  "def": "A three-party arrangement in which an independent professional is employed by an intermediary company that invoices the client and pays the professional a salary.",
+  "registers": {
+   "formal": {
+    "uk": "umbrella company employment",
+    "us": "employer-of-record arrangement",
+    "ex": "The consultant provides her services through [[umbrella company employment]], the umbrella company being her legal employer.",
+    "ex_us": "The consultant provides her services through an [[employer-of-record arrangement]], the employer of record being her legal employer."
+   },
+   "everyday": {
+    "uk": "to work through an umbrella company",
+    "us": "to work through an employer of record",
+    "ex": "She finds her own clients but [[works through an umbrella company]], so she's technically an employee.",
+    "ex_us": "She finds her own clients but [[works through an employer of record]], so she's technically an employee."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an umbrella company",
+   "the end client",
+   "to invoice on someone's behalf"
+  ],
+  "note_fr": "Les équivalents sont approximatifs : l'« umbrella company » britannique et l'« employer of record » américain reposent sur des logiques proches, mais le portage salarial est un dispositif français encadré par la loi. Gardez le terme français et glosez-le.",
+  "french_concept": true,
+  "explain": {
+   "written": "Portage salarial is a French statutory arrangement under which an autonomous professional is employed by a specialist company that invoices his or her clients and converts the fees into a salary.",
+   "spoken": "It's a bit like working through an umbrella company: she finds her own clients, but a specialist firm invoices them and pays her a salary."
+  }
+ },
+ {
+  "id": "ct-014",
+  "level": 2,
+  "fr": "détachement",
+  "term": {
+   "uk": "secondment",
+   "us": "temporary assignment"
+  },
+  "ipa": {
+   "uk": "/sɪˈkɒndmənt/",
+   "us": "/ˈtempəreri əˈsaɪnmənt/"
+  },
+  "def": "A temporary transfer to another entity or country while remaining employed by the original employer.",
+  "registers": {
+   "formal": {
+    "uk": "secondment",
+    "us": "temporary assignment",
+    "ex": "During the [[secondment]], the Employee shall remain an employee of the home company.",
+    "ex_us": "During the [[temporary assignment]], the Employee shall remain an employee of the home company."
+   },
+   "everyday": {
+    "uk": "to be seconded to",
+    "us": "to be on loan to",
+    "ex": "She's [[been seconded to]] the Dublin office for a year.",
+    "ex_us": "She's [[been on loan to]] the Dublin office for a year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to go on secondment",
+   "a secondment agreement",
+   "a secondee",
+   "the host company"
+  ],
+  "note_fr": "« Secondment » (accent sur la deuxième syllabe, comme le verbe « to second » /sɪˈkɒnd/) est britannique ; un Américain dira « assignment » ou « loan ». Le détachement au sens du droit européen se dit « posting » : « a posted worker ». « Detachment » est un faux ami (détachement affectif ou militaire).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-015",
+  "level": 2,
+  "fr": "expatriation",
+  "term": {
+   "uk": "expatriate assignment",
+   "us": "expatriate assignment"
+  },
+  "ipa": {
+   "uk": "/ekˈspætriət əˈsaɪnmənt/",
+   "us": "/ekˈspeɪtriət əˈsaɪnmənt/"
+  },
+  "def": "A long-term posting abroad, usually with a specific package and a contract adapted to the host country.",
+  "registers": {
+   "formal": {
+    "uk": "international assignment",
+    "us": "international assignment",
+    "ex": "The terms of the [[international assignment]] are set out in the attached assignment letter."
+   },
+   "everyday": {
+    "uk": "to be posted abroad",
+    "us": "to be posted abroad",
+    "ex": "He [[was posted abroad]] for three years and came back on a local contract."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an expat package",
+   "to go on assignment",
+   "the home country and the host country",
+   "to repatriate an employee"
+  ],
+  "note_fr": "En français, le détaché reste rattaché au contrat et à la sécurité sociale d'origine alors que l'expatrié en sort : l'anglais ne fait pas cette distinction avec deux mots, précisez-la. La prononciation diffère : UK /ekˈspætriət/, US /ekˈspeɪtriət/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-016",
+  "level": 1,
+  "fr": "convention collective",
+  "term": {
+   "uk": "collective agreement",
+   "us": "collective bargaining agreement"
+  },
+  "ipa": {
+   "uk": "/kəˈlektɪv əˈɡriːmənt/",
+   "us": "/kəˈlektɪv ˈbɑːrɡənɪŋ əˈɡriːmənt/"
+  },
+  "def": "A written agreement negotiated between employers and trade unions that sets pay and working conditions for a group of employees.",
+  "registers": {
+   "formal": {
+    "uk": "the applicable collective agreement",
+    "us": "the applicable collective bargaining agreement",
+    "ex": "This contract is governed by [[the applicable collective agreement]], a copy of which is available from Human Resources.",
+    "ex_us": "This contract is governed by [[the applicable collective bargaining agreement]], a copy of which is available from Human Resources."
+   },
+   "everyday": {
+    "uk": "the industry agreement",
+    "us": "the union contract",
+    "ex": "Check [[the industry agreement]] first - it may give a longer notice period than the contract.",
+    "ex_us": "Check [[the union contract]] first - it may give a longer notice period than the contract."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be covered by a collective agreement",
+   "an industry-wide agreement",
+   "a company-level agreement",
+   "to fall within the scope of the agreement"
+  ],
+  "note_fr": "« Convention » est un faux ami (congrès, usage). En France, la convention collective de branche s'applique à presque tous les salariés ; au Royaume-Uni et aux États-Unis, un accord collectif ne couvre que les entreprises où un syndicat est reconnu. Le « CBA » américain est en pratique un accord d'entreprise.",
+  "french_concept": true,
+  "explain": {
+   "written": "The convention collective is a sector-wide collective agreement which, once extended by the government, binds every employer in the industry and supplements the Labour Code.",
+   "spoken": "In France almost every employee is covered by an industry-wide agreement - it sits on top of the law and often gives better terms than the contract."
+  }
+ },
+ {
+  "id": "ct-017",
+  "level": 3,
+  "fr": "forfait jours",
+  "term": {
+   "uk": "annual working-days arrangement",
+   "us": "annual working-days arrangement"
+  },
+  "ipa": {
+   "uk": "/ˌænjuəl ˈwɜːkɪŋ deɪz əˌreɪndʒmənt/",
+   "us": "/ˌænjuəl ˈwɜːrkɪŋ deɪz əˌreɪndʒmənt/"
+  },
+  "def": "A French arrangement under which an autonomous employee's working time is counted in days per year rather than in hours.",
+  "registers": {
+   "formal": {
+    "uk": "annual working-days arrangement",
+    "us": "annual working-days arrangement",
+    "ex": "The Employee's working time is organised under an [[annual working-days arrangement]], as permitted by the applicable collective agreement."
+   },
+   "everyday": {
+    "uk": "to be on a days-per-year contract",
+    "us": "to be on a days-per-year contract",
+    "ex": "Most of our managers [[are on a days-per-year contract]], so we don't track their hours."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to count working time in days",
+   "an autonomous employee",
+   "to monitor workload",
+   "rest days"
+  ],
+  "note_fr": "Aucun équivalent direct. Le plus proche est, aux États-Unis, l'« exempt employee » (non soumis aux heures supplémentaires), mais la logique est différente. N'écrivez pas « day package » ni « flat-rate days » sans explication.",
+  "french_concept": true,
+  "explain": {
+   "written": "The forfait jours is a French arrangement, requiring both a collective agreement and the employee's written consent, whereby working time is measured as a fixed number of days per year instead of weekly hours.",
+   "spoken": "Their time is counted in days per year, not hours - so there's no overtime, but we have to keep an eye on their workload and rest."
+  }
+ },
+ {
+  "id": "ct-018",
+  "level": 3,
+  "fr": "lien de subordination",
+  "term": {
+   "uk": "relationship of subordination",
+   "us": "relationship of subordination"
+  },
+  "ipa": {
+   "uk": "/rɪˈleɪʃ(ə)nʃɪp əv səˌbɔːdɪˈneɪʃ(ə)n/",
+   "us": "/rɪˈleɪʃ(ə)nʃɪp əv səˌbɔːrdɪˈneɪʃ(ə)n/"
+  },
+  "def": "The employer's power to give instructions, supervise the work and discipline the employee, which defines an employment contract in French law.",
+  "registers": {
+   "formal": {
+    "uk": "relationship of subordination",
+    "us": "relationship of subordination",
+    "ex": "The existence of an employment contract depends on a [[relationship of subordination]], whatever name the parties have given to their agreement."
+   },
+   "everyday": {
+    "uk": "to be under someone's control",
+    "us": "to be under someone's control",
+    "ex": "If he [[is under our control]] day to day, a court will treat him as an employee."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the right to control",
+   "to work under the direction of",
+   "to give instructions",
+   "the control test"
+  ],
+  "note_fr": "« Subordination » et « subordinate » existent, mais sonnent durs dans la conversation : parlez de « control » ou de « direction ». Au Royaume-Uni, les juges examinent « control », « mutuality of obligation » et « personal service » ; aux États-Unis, le « right to control ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law an employment contract is characterised by a relationship of subordination, meaning that the employer has the power to give orders, monitor their execution and sanction any failings.",
+   "spoken": "What makes someone an employee in France is control: the employer tells them what to do, checks the work and can discipline them."
+  }
+ },
+ {
+  "id": "ct-019",
+  "level": 1,
+  "fr": "embaucher / recruter",
+  "term": {
+   "uk": "to hire",
+   "us": "to hire"
+  },
+  "ipa": {
+   "uk": "/ˈhaɪə/",
+   "us": "/ˈhaɪər/"
+  },
+  "def": "To give someone a job and enter into an employment relationship with them.",
+  "registers": {
+   "formal": {
+    "uk": "to engage",
+    "us": "to hire",
+    "ex": "The Company agrees [[to engage]] the Employee as Regional Sales Manager.",
+    "ex_us": "The Company agrees [[to hire]] the Employee as Regional Sales Manager."
+   },
+   "everyday": {
+    "uk": "to take on",
+    "us": "to bring on",
+    "ex": "We're [[taking on]] three new consultants in September.",
+    "ex_us": "We're [[bringing on]] three new consultants in September."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hire someone as a manager",
+   "a new hire",
+   "a hiring freeze",
+   "to take on staff"
+  ],
+  "note_fr": "« To engage » signifie ici « embaucher » uniquement en style contractuel britannique ; à l'oral, « to engage » veut dire « impliquer ». « A new hire » ou « a new joiner » (UK) désigne la personne recrutée. Évitez « to embauch » et le calque « to make an engagement ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-020",
+  "level": 1,
+  "fr": "offre d'emploi (proposition faite au candidat)",
+  "term": {
+   "uk": "job offer",
+   "us": "job offer"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌɒfə/",
+   "us": "/ˈdʒɑːb ˌɔːfər/"
+  },
+  "def": "A proposal made by an employer to a chosen candidate to take up a specific job on stated terms.",
+  "registers": {
+   "formal": {
+    "uk": "offer of employment",
+    "us": "offer of employment",
+    "ex": "We are pleased to confirm our [[offer of employment]] on the terms set out below."
+   },
+   "everyday": {
+    "uk": "to make someone an offer",
+    "us": "to make someone an offer",
+    "ex": "We'd like [[to make her an offer]] before she hears back from the other firm."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to receive a job offer",
+   "to extend an offer",
+   "a verbal offer",
+   "to put an offer in writing"
+  ],
+  "note_fr": "« Job offer » est l'offre faite à un candidat retenu ; l'offre d'emploi publiée est « a job advertisement », « a job ad » ou « a job posting » (US), « a vacancy » (UK). « To extend an offer » est très courant aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-021",
+  "level": 1,
+  "fr": "lettre d'engagement / lettre d'offre",
+  "term": {
+   "uk": "offer letter",
+   "us": "offer letter"
+  },
+  "ipa": {
+   "uk": "/ˈɒfə ˌletə/",
+   "us": "/ˈɔːfər ˌletər/"
+  },
+  "def": "A letter from the employer confirming the job offer and its main terms.",
+  "registers": {
+   "formal": {
+    "uk": "letter of offer",
+    "us": "offer letter",
+    "ex": "Please sign and return the enclosed [[letter of offer]] by Friday 12 June.",
+    "ex_us": "Please sign and return the enclosed [[offer letter]] by Friday, June 12."
+   },
+   "everyday": {
+    "uk": "offer letter",
+    "us": "offer letter",
+    "ex": "HR will send out the [[offer letter]] as soon as the salary's been approved."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to send out an offer letter",
+   "to sign and return the offer letter",
+   "to countersign the letter"
+  ],
+  "note_fr": "Aux États-Unis, l'« offer letter » tient souvent lieu de contrat : beaucoup de salariés n'ont pas d'autre document. En France et au Royaume-Uni, elle précède en général un contrat écrit complet.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-022",
+  "level": 2,
+  "fr": "offre conditionnelle (sous réserve de vérifications)",
+  "term": {
+   "uk": "conditional offer",
+   "us": "contingent offer"
+  },
+  "ipa": {
+   "uk": "/kənˈdɪʃ(ə)nəl ˈɒfə/",
+   "us": "/kənˈtɪndʒənt ˈɔːfər/"
+  },
+  "def": "A job offer that only becomes final once certain conditions, such as references or checks, have been met.",
+  "registers": {
+   "formal": {
+    "uk": "offer subject to",
+    "us": "offer contingent upon",
+    "ex": "This [[offer is subject to]] the receipt of two satisfactory references and proof of your right to work in the United Kingdom.",
+    "ex_us": "This [[offer is contingent upon]] the successful completion of a background check and proof of your eligibility to work in the United States."
+   },
+   "everyday": {
+    "uk": "conditional offer",
+    "us": "contingent offer",
+    "ex": "It's only a [[conditional offer]] for now - don't hand in your notice until the checks have come back.",
+    "ex_us": "It's only a [[contingent offer]] for now - don't give notice until the checks have come back."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "subject to satisfactory references",
+   "to make an offer conditional on",
+   "an unconditional offer",
+   "to meet the conditions"
+  ],
+  "note_fr": "« Subject to » (sous réserve de) est la formule clé ; ne traduisez pas « sous réserve de » par « under reserve of ». Aux États-Unis, on dit plus volontiers « contingent on/upon ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-023",
+  "level": 2,
+  "fr": "promesse d'embauche",
+  "term": {
+   "uk": "binding offer of employment",
+   "us": "binding offer of employment"
+  },
+  "ipa": {
+   "uk": "/ˌbaɪndɪŋ ˈɒfər əv ɪmˈplɔɪmənt/",
+   "us": "/ˌbaɪndɪŋ ˈɔːfər əv ɪmˈplɔɪmənt/"
+  },
+  "def": "In French practice, a written offer precise enough about the job, pay and start date to commit the employer.",
+  "registers": {
+   "formal": {
+    "uk": "binding offer of employment",
+    "us": "binding offer of employment",
+    "ex": "A [[binding offer of employment]] which specifies the position, the remuneration and the start date commits the employer under French law."
+   },
+   "everyday": {
+    "uk": "firm offer",
+    "us": "firm offer",
+    "ex": "Be careful what you put in that email - in France a [[firm offer]] can be as good as a contract."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a firm offer",
+   "to go back on an offer",
+   "to be bound by an offer",
+   "to claim damages"
+  ],
+  "note_fr": "Ne traduisez pas par « promise of hiring » ou « hiring promise ». Le droit français distingue l'offre de contrat de travail de la promesse unilatérale de contrat, cette dernière valant contrat dès que le candidat l'accepte ; au Royaume-Uni, une offre acceptée forme déjà le contrat, et aux États-Unis l'« at-will » limite fortement la portée d'une telle promesse.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French case law, a promesse d'embauche that states the position, the remuneration and the start date may bind the employer, so that withdrawing it can amount to an unlawful termination.",
+   "spoken": "In France, once you've put the job, the salary and the start date in writing, you may already be committed - pulling out can cost you damages."
+  }
+ },
+ {
+  "id": "ct-024",
+  "level": 1,
+  "fr": "accepter une offre",
+  "term": {
+   "uk": "to accept an offer",
+   "us": "to accept an offer"
+  },
+  "ipa": {
+   "uk": "/əkˌsept ən ˈɒfə/",
+   "us": "/əkˌsept ən ˈɔːfər/"
+  },
+  "def": "To agree formally to take a job on the terms proposed.",
+  "registers": {
+   "formal": {
+    "uk": "to accept the offer",
+    "us": "to accept the offer",
+    "ex": "Please confirm in writing that you [[accept the offer]] by signing and returning one copy of this letter."
+   },
+   "everyday": {
+    "uk": "to say yes",
+    "us": "to say yes",
+    "ex": "She [[said yes]] straight away, so we can stop interviewing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to accept an offer in writing",
+   "acceptance of the offer",
+   "to take the job",
+   "to accept on the spot"
+  ],
+  "note_fr": "Attention à la construction : « to accept an offer », mais « to agree to the terms » (jamais « to accept to do something »). « Acceptance » est le nom ; « acceptation » n'existe pas dans ce sens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-025",
+  "level": 2,
+  "fr": "décliner une offre",
+  "term": {
+   "uk": "to decline an offer",
+   "us": "to decline an offer"
+  },
+  "ipa": {
+   "uk": "/dɪˌklaɪn ən ˈɒfə/",
+   "us": "/dɪˌklaɪn ən ˈɔːfər/"
+  },
+  "def": "To refuse a job offer politely.",
+  "registers": {
+   "formal": {
+    "uk": "to decline the offer",
+    "us": "to decline the offer",
+    "ex": "After careful consideration, I regret that I must [[decline the offer]]."
+   },
+   "everyday": {
+    "uk": "to turn down",
+    "us": "to turn down",
+    "ex": "He [[turned down]] the offer because the package didn't include a company car."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to turn an offer down flat",
+   "to decline politely",
+   "to reject a counter-offer",
+   "to pass on an opportunity"
+  ],
+  "note_fr": "« To refuse an offer » est correct mais plus sec ; « to turn down » est le verbe naturel à l'oral. « To decline » se construit directement : « she declined the offer », sans préposition.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-026",
+  "level": 2,
+  "fr": "retirer une offre",
+  "term": {
+   "uk": "to withdraw an offer",
+   "us": "to rescind an offer"
+  },
+  "ipa": {
+   "uk": "/wɪðˌdrɔː ən ˈɒfə/",
+   "us": "/rɪˌsɪnd ən ˈɔːfər/"
+  },
+  "def": "To cancel a job offer after it has been made.",
+  "registers": {
+   "formal": {
+    "uk": "to withdraw the offer",
+    "us": "to rescind the offer",
+    "ex": "The Company reserves the right [[to withdraw the offer]] if the references prove unsatisfactory.",
+    "ex_us": "The Company reserves the right [[to rescind the offer]] if the background check proves unsatisfactory."
+   },
+   "everyday": {
+    "uk": "to pull the offer",
+    "us": "to pull the offer",
+    "ex": "They [[pulled the offer]] two days before he was due to start."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to withdraw an offer of employment",
+   "to go back on an offer",
+   "a withdrawn offer"
+  ],
+  "note_fr": "« To retire » signifie « prendre sa retraite », jamais « retirer ». Au Royaume-Uni, retirer une offre déjà acceptée constitue une rupture de contrat ; aux États-Unis, « to rescind an offer » est en général possible, sous réserve des règles anti-discrimination.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-027",
+  "level": 1,
+  "fr": "date d'entrée en fonction",
+  "term": {
+   "uk": "start date",
+   "us": "start date"
+  },
+  "ipa": {
+   "uk": "/ˈstɑːt deɪt/",
+   "us": "/ˈstɑːrt deɪt/"
+  },
+  "def": "The day on which the employee begins working under the contract.",
+  "registers": {
+   "formal": {
+    "uk": "commencement date",
+    "us": "commencement date",
+    "ex": "The Employee's employment shall begin on the [[commencement date]] stated in Schedule 1."
+   },
+   "everyday": {
+    "uk": "start date",
+    "us": "start date",
+    "ex": "Can we push her [[start date]] back a week? Her laptop won't be ready."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to agree a start date",
+   "to bring the start date forward",
+   "to push back the start date",
+   "with effect from 1 March"
+  ],
+  "note_fr": "Ne dites pas « date of entry » ni « entrance date ». « To push back » = reporter, « to bring forward » = avancer. Notez l'usage : UK « to agree a date », US « to agree on a date ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-028",
+  "level": 2,
+  "fr": "prendre ses fonctions",
+  "term": {
+   "uk": "to take up one's duties",
+   "us": "to take up one's duties"
+  },
+  "ipa": {
+   "uk": "/ˌteɪk ʌp wʌnz ˈdjuːtiz/",
+   "us": "/ˌteɪk ʌp wʌnz ˈduːtiz/"
+  },
+  "def": "To begin working in a new job or position.",
+  "registers": {
+   "formal": {
+    "uk": "to take up one's duties",
+    "us": "to take up one's duties",
+    "ex": "The Employee shall [[take up her duties]] on 1 September at the Company's head office."
+   },
+   "everyday": {
+    "uk": "to start",
+    "us": "to start",
+    "ex": "She [[starts]] on Monday, so let's make sure someone's there to show her round."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take up a post",
+   "to take up a position",
+   "to join the company",
+   "to step into a role"
+  ],
+  "note_fr": "Pas de « to take one's functions » : « function » désigne en anglais un service de l'entreprise (« the HR function ») ou une réception, pas le poste d'une personne. « To take up » est indispensable ; « to join » (sans « to ») pour « rejoindre l'entreprise ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-029",
+  "level": 2,
+  "fr": "vérification du droit de travailler (titre de séjour, autorisation de travail)",
+  "term": {
+   "uk": "right-to-work check",
+   "us": "employment eligibility verification"
+  },
+  "ipa": {
+   "uk": "/ˌraɪt tə ˈwɜːk tʃek/",
+   "us": "/ɪmˈplɔɪmənt ˌelɪdʒəˈbɪləti ˌverɪfɪˈkeɪʃ(ə)n/"
+  },
+  "def": "The employer's legal duty to verify, before employment starts, that a person is allowed to work in the country.",
+  "registers": {
+   "formal": {
+    "uk": "right-to-work check",
+    "us": "employment eligibility verification",
+    "ex": "Your employment is conditional upon the satisfactory completion of a [[right-to-work check]].",
+    "ex_us": "Your employment is conditional upon the satisfactory completion of [[employment eligibility verification]]."
+   },
+   "everyday": {
+    "uk": "to check someone's right to work",
+    "us": "to verify someone's work authorization",
+    "ex": "Don't let him start until we've [[checked his right to work]].",
+    "ex_us": "Don't let him start until we've [[verified his work authorization]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "proof of the right to work",
+   "a work permit",
+   "a work visa",
+   "to carry out a check"
+  ],
+  "note_fr": "Piège majeur : aux États-Unis, « right-to-work » désigne les lois d'État qui interdisent d'imposer l'adhésion à un syndicat, pas le droit de travailler des étrangers. Là-bas, la vérification passe par le formulaire I-9 ; on parle de « work authorization ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-030",
+  "level": 2,
+  "fr": "vérifications préalables à l'embauche (références, antécédents)",
+  "term": {
+   "uk": "pre-employment checks",
+   "us": "background check"
+  },
+  "ipa": {
+   "uk": "/ˌpriː ɪmˈplɔɪmənt tʃeks/",
+   "us": "/ˈbækɡraʊnd tʃek/"
+  },
+  "def": "Verifications of a candidate's identity, qualifications, work history or record carried out before hiring is confirmed.",
+  "registers": {
+   "formal": {
+    "uk": "pre-employment checks",
+    "us": "background check",
+    "ex": "The offer remains subject to the satisfactory outcome of [[pre-employment checks]].",
+    "ex_us": "The offer remains subject to the satisfactory outcome of a [[background check]]."
+   },
+   "everyday": {
+    "uk": "to take up references",
+    "us": "to check references",
+    "ex": "We always [[take up references]] before we send the contract out.",
+    "ex_us": "We always [[check references]] before we send the contract out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give someone a reference",
+   "a referee",
+   "to run a background check",
+   "a criminal record check"
+  ],
+  "note_fr": "« A reference » est la recommandation ; la personne qui la donne est « a referee » (UK) ou « a reference » (US). En France, ces vérifications sont strictement encadrées (lien direct avec le poste, information du candidat), bien plus qu'aux États-Unis où le « background check » est courant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-031",
+  "level": 3,
+  "fr": "document écrit récapitulant les conditions essentielles d'emploi (UK)",
+  "term": {
+   "uk": "written statement of particulars",
+   "us": "written statement of terms"
+  },
+  "ipa": {
+   "uk": "/ˌrɪt(ə)n ˌsteɪtmənt əv pəˈtɪkjʊləz/",
+   "us": "/ˌrɪt(ə)n ˌsteɪtmənt əv ˈtɜːrmz/"
+  },
+  "def": "In the UK, the document an employer must give setting out the main terms of employment, such as pay, hours and holiday.",
+  "registers": {
+   "formal": {
+    "uk": "written statement of employment particulars",
+    "us": "written statement of the terms of employment",
+    "ex": "The employer must provide a [[written statement of employment particulars]] no later than the first day of employment.",
+    "ex_us": "The employer must provide a [[written statement of the terms of employment]] no later than the first day of employment."
+   },
+   "everyday": {
+    "uk": "written statement",
+    "us": "written statement",
+    "ex": "He never got a contract as such, but he did get a [[written statement]] on day one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a written statement",
+   "the principal statement",
+   "the main terms of employment",
+   "a day-one right"
+  ],
+  "note_fr": "Notion britannique : ce n'est pas le contrat lui-même, mais l'information écrite obligatoire sur ses éléments essentiels, due au plus tard le premier jour de travail. « Particulars » signifie ici « mentions, renseignements », pas « particuliers ». Il n'existe pas d'obligation fédérale générale comparable aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-032",
+  "level": 1,
+  "fr": "livret d'accueil / règlement et politiques internes",
+  "term": {
+   "uk": "staff handbook",
+   "us": "employee handbook"
+  },
+  "ipa": {
+   "uk": "/ˈstɑːf ˌhændbʊk/",
+   "us": "/ɪmˈplɔɪiː ˌhændbʊk/"
+  },
+  "def": "A document given to employees that explains the organisation's rules, policies and procedures.",
+  "registers": {
+   "formal": {
+    "uk": "staff handbook",
+    "us": "employee handbook",
+    "ex": "The policies contained in the [[Staff Handbook]] do not form part of your contract of employment.",
+    "ex_us": "The policies contained in the [[Employee Handbook]] do not create a contract of employment."
+   },
+   "everyday": {
+    "uk": "handbook",
+    "us": "handbook",
+    "ex": "It's all in the [[handbook]] - have a look at the section on expenses."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a handbook",
+   "to update the handbook",
+   "to acknowledge receipt of the handbook",
+   "company policies"
+  ],
+  "note_fr": "Ce n'est pas le règlement intérieur français, qui est obligatoire à partir d'un certain effectif et soumis à une procédure légale : traduisez celui-ci par « internal rules » ou « works rules ». Le « handbook » est le plus souvent non contractuel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-033",
+  "level": 1,
+  "fr": "rédiger / établir un contrat",
+  "term": {
+   "uk": "to draw up a contract",
+   "us": "to draw up a contract"
+  },
+  "ipa": {
+   "uk": "/ˌdrɔː ʌp ə ˈkɒntrækt/",
+   "us": "/ˌdrɔː ʌp ə ˈkɑːntrækt/"
+  },
+  "def": "To prepare the written text of a contract.",
+  "registers": {
+   "formal": {
+    "uk": "to draft the contract",
+    "us": "to draft the contract",
+    "ex": "The contract shall be [[drafted]] in French, with an English translation provided for information only."
+   },
+   "everyday": {
+    "uk": "to draw up",
+    "us": "to draw up",
+    "ex": "Can you [[draw up]] the contract today so she can sign before the weekend?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draw up a contract",
+   "a first draft",
+   "to redraft a clause",
+   "to tidy up the wording"
+  ],
+  "note_fr": "« To redact » est un faux ami : il signifie « caviarder, occulter » un passage. « Rédiger » se dit « to draft », « to draw up » ou simplement « to write ». « To establish a contract » est un calque à éviter.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-034",
+  "level": 1,
+  "fr": "les parties au contrat",
+  "term": {
+   "uk": "the parties to the contract",
+   "us": "the parties to the contract"
+  },
+  "ipa": {
+   "uk": "/ðə ˌpɑːtiz tə ðə ˈkɒntrækt/",
+   "us": "/ðə ˌpɑːrtiz tə ðə ˈkɑːntrækt/"
+  },
+  "def": "The persons or organisations that sign a contract and are bound by it.",
+  "registers": {
+   "formal": {
+    "uk": "the parties",
+    "us": "the parties",
+    "ex": "This agreement is made between [[the parties]] named below."
+   },
+   "everyday": {
+    "uk": "both sides",
+    "us": "both sides",
+    "ex": "[[Both sides]] need to sign before she can start."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a party to the contract",
+   "the other party",
+   "a third party",
+   "between the parties"
+  ],
+  "note_fr": "On est « a party to a contract » (préposition « to », jamais « of »). Devant un nom défini, les contrats anglais mettent une majuscule : « the Employer », « the Employee », « the Parties ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-035",
+  "level": 1,
+  "fr": "intitulé de poste",
+  "term": {
+   "uk": "job title",
+   "us": "job title"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌtaɪt(ə)l/",
+   "us": "/ˈdʒɑːb ˌtaɪt(ə)l/"
+  },
+  "def": "The official name of the position a person holds in an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "to be employed as",
+    "us": "to be employed as",
+    "ex": "The Employee shall [[be employed as]] Senior Payroll Officer."
+   },
+   "everyday": {
+    "uk": "job title",
+    "us": "job title",
+    "ex": "Her [[job title]] is HR Business Partner, but she does a lot of employee relations work."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold the position of",
+   "a change of job title",
+   "an inflated job title",
+   "what's your title?"
+  ],
+  "note_fr": "Ne traduisez pas « poste » par « post » dans tous les cas : « position », « role » et « job » sont plus naturels (« post » est surtout britannique et administratif). « Cadre » n'a pas d'équivalent : dites « manager » ou « professional » selon le cas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-036",
+  "level": 1,
+  "fr": "fonctions / attributions",
+  "term": {
+   "uk": "duties",
+   "us": "duties"
+  },
+  "ipa": {
+   "uk": "/ˈdjuːtiz/",
+   "us": "/ˈduːtiz/"
+  },
+  "def": "The tasks and responsibilities that an employee is required to carry out in a job.",
+  "registers": {
+   "formal": {
+    "uk": "duties",
+    "us": "duties",
+    "ex": "The Employee shall perform such [[duties]] as the Company may reasonably assign from time to time."
+   },
+   "everyday": {
+    "uk": "what the job involves",
+    "us": "what the job involves",
+    "ex": "Let me run you through [[what the job involves]] before we talk about salary."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out one's duties",
+   "to perform one's duties",
+   "a job description",
+   "duties and responsibilities"
+  ],
+  "note_fr": "« Functions » ne désigne pas les fonctions d'une personne en anglais courant : préférez « duties », « responsibilities » ou « role ». La fiche de poste est « a job description » (« a JD » à l'oral).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-037",
+  "level": 1,
+  "fr": "être rattaché(e) à / relever de",
+  "term": {
+   "uk": "to report to",
+   "us": "to report to"
+  },
+  "ipa": {
+   "uk": "/rɪˈpɔːt tə/",
+   "us": "/rɪˈpɔːrt tə/"
+  },
+  "def": "To have someone as your direct manager in the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "to report to",
+    "us": "to report to",
+    "ex": "The Employee shall [[report to]] the Head of Human Resources or such other person as the Company may designate."
+   },
+   "everyday": {
+    "uk": "to answer to",
+    "us": "to answer to",
+    "ex": "On paper she reports to Paris, but day to day she [[answers to]] the site manager."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a reporting line",
+   "a direct report",
+   "a line manager",
+   "to report directly to"
+  ],
+  "note_fr": "« To be attached to » est un calque. « A direct report » est le subordonné direct (N-1) ; le supérieur hiérarchique est « line manager » (UK) ou « supervisor », « manager » (US). « Hierarchy » et surtout « hierarchical superior » sonnent très français.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-038",
+  "level": 1,
+  "fr": "lieu de travail",
+  "term": {
+   "uk": "place of work",
+   "us": "place of work"
+  },
+  "ipa": {
+   "uk": "/ˌpleɪs əv ˈwɜːk/",
+   "us": "/ˌpleɪs əv ˈwɜːrk/"
+  },
+  "def": "The location where the employee normally carries out the job.",
+  "registers": {
+   "formal": {
+    "uk": "normal place of work",
+    "us": "principal place of work",
+    "ex": "The Employee's [[normal place of work]] shall be the Company's offices in Lyon.",
+    "ex_us": "The Employee's [[principal place of work]] shall be the Company's offices in Lyon."
+   },
+   "everyday": {
+    "uk": "to be based in",
+    "us": "to be based in",
+    "ex": "She [[is based in]] Lyon but spends two days a week at the Paris office."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to work from home",
+   "to be office-based",
+   "to work remotely",
+   "a hybrid working arrangement"
+  ],
+  "note_fr": "Dites « to be based in/at », pas « to be located » pour une personne. Le télétravail se dit « remote work », « working from home » (« WFH ») ; « telework » existe surtout dans les textes officiels, et « home office » désigne la pièce, pas la pratique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-039",
+  "level": 1,
+  "fr": "durée / horaires de travail",
+  "term": {
+   "uk": "working hours",
+   "us": "working hours"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkɪŋ ˌaʊəz/",
+   "us": "/ˈwɜːrkɪŋ ˌaʊərz/"
+  },
+  "def": "The number of hours, and the times of day, that an employee is required to work.",
+  "registers": {
+   "formal": {
+    "uk": "normal hours of work",
+    "us": "normal hours of work",
+    "ex": "The Employee's [[normal hours of work]] are thirty-five hours per week, Monday to Friday."
+   },
+   "everyday": {
+    "uk": "hours",
+    "us": "hours",
+    "ex": "The [[hours]] are nine to five-thirty, with some flexibility if you need it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to work long hours",
+   "contracted hours",
+   "core hours",
+   "to put in the hours"
+  ],
+  "note_fr": "« Horaire » ne se traduit pas par « hourly » (qui veut dire « à l'heure ») ni par « schedule » dans tous les cas : « working hours » couvre la durée et les horaires. « Timetable » est scolaire ou ferroviaire. Les « 35 heures » : « the 35-hour week ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-040",
+  "level": 1,
+  "fr": "rémunération",
+  "term": {
+   "uk": "remuneration",
+   "us": "compensation"
+  },
+  "ipa": {
+   "uk": "/rɪˌmjuːnəˈreɪʃ(ə)n/",
+   "us": "/ˌkɑːmpenˈseɪʃ(ə)n/"
+  },
+  "def": "Everything an employee receives in return for work, including salary, bonuses and other payments.",
+  "registers": {
+   "formal": {
+    "uk": "remuneration",
+    "us": "compensation",
+    "ex": "In consideration of her services, the Employee shall receive a gross annual [[remuneration]] of the amount stated in Schedule 1.",
+    "ex_us": "In consideration of her services, the Employee shall receive gross annual [[compensation]] in the amount stated in Schedule 1."
+   },
+   "everyday": {
+    "uk": "pay",
+    "us": "pay",
+    "ex": "The [[pay]] isn't great, but the pension contributions are generous."
+   },
+   "informal": {
+    "uk": "pay packet",
+    "us": "paycheck",
+    "ex": "With the bonus on top, it adds up to a pretty decent [[pay packet]].",
+    "ex_us": "With the bonus on top, it adds up to a pretty decent [[paycheck]]."
+   }
+  },
+  "collocations": [
+   "a remuneration package",
+   "basic salary",
+   "gross pay",
+   "take-home pay"
+  ],
+  "note_fr": "Orthographe : « remuneration », pas « renumeration » (erreur fréquente, même chez les natifs). Aux États-Unis, « compensation » signifie rémunération ; au Royaume-Uni, il évoque plutôt une indemnisation (dommages-intérêts). Brut / net : « gross » / « net » ou « take-home pay ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-041",
+  "level": 1,
+  "fr": "avantages (sociaux, en nature)",
+  "term": {
+   "uk": "benefits",
+   "us": "benefits"
+  },
+  "ipa": {
+   "uk": "/ˈbenɪfɪts/",
+   "us": "/ˈbenəfɪts/"
+  },
+  "def": "Things an employee receives from the employer in addition to salary, such as health cover, a pension or a company car.",
+  "registers": {
+   "formal": {
+    "uk": "benefits",
+    "us": "benefits",
+    "ex": "The Employee shall be entitled to participate in the Company's [[benefits]] schemes, subject to their rules as amended from time to time.",
+    "ex_us": "The Employee shall be eligible to participate in the Company's [[benefits]] plans, subject to their terms as amended from time to time."
+   },
+   "everyday": {
+    "uk": "benefits package",
+    "us": "benefits package",
+    "ex": "The salary's about average, but the [[benefits package]] is hard to beat."
+   },
+   "informal": {
+    "uk": "perks",
+    "us": "perks",
+    "ex": "Free parking and a gym membership are nice [[perks]], but they won't keep people for long."
+   }
+  },
+  "collocations": [
+   "a benefit in kind",
+   "fringe benefits",
+   "a company car",
+   "to be eligible for benefits"
+  ],
+  "note_fr": "« Advantages » ne s'emploie pas dans ce sens. Attention aussi : au Royaume-Uni, « to be on benefits » signifie toucher des allocations de l'État. Avantage en nature : « benefit in kind » (UK), « fringe benefit » (US). Mutuelle : « health cover » (UK), « health insurance » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-042",
+  "level": 1,
+  "fr": "congés payés",
+  "term": {
+   "uk": "annual leave",
+   "us": "paid time off"
+  },
+  "ipa": {
+   "uk": "/ˌænjuəl ˈliːv/",
+   "us": "/ˌpeɪd taɪm ˈɔːf/"
+  },
+  "def": "The paid days off work that an employee is entitled to each year.",
+  "registers": {
+   "formal": {
+    "uk": "paid annual leave",
+    "us": "paid vacation",
+    "ex": "The Employee is entitled to five weeks' [[paid annual leave]] in each holiday year.",
+    "ex_us": "The Employee is entitled to five weeks of [[paid vacation]] in each calendar year."
+   },
+   "everyday": {
+    "uk": "holiday",
+    "us": "vacation",
+    "ex": "How much [[holiday]] have you got left this year?",
+    "ex_us": "How much [[vacation]] do you have left this year?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take annual leave",
+   "to book a day off",
+   "to carry over leave",
+   "holiday entitlement"
+  ],
+  "note_fr": "UK « holiday », US « vacation » ; « holidays » aux États-Unis désigne les jours fériés (UK « bank holidays » ou « public holidays »). « Congé » en général se dit « leave » : « sick leave », « parental leave ». « PTO » (US) regroupe souvent congés et jours de maladie. Il n'existe pas de congés payés légaux au niveau fédéral américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-043",
+  "level": 2,
+  "fr": "conditions d'emploi / clauses et conditions du contrat",
+  "term": {
+   "uk": "terms and conditions of employment",
+   "us": "terms and conditions of employment"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmz ən kənˌdɪʃ(ə)nz əv ɪmˈplɔɪmənt/",
+   "us": "/ˌtɜːrmz ən kənˌdɪʃ(ə)nz əv ɪmˈplɔɪmənt/"
+  },
+  "def": "All the rights and obligations that apply to a job, such as pay, hours, holiday and notice.",
+  "registers": {
+   "formal": {
+    "uk": "terms and conditions of employment",
+    "us": "terms and conditions of employment",
+    "ex": "Your [[terms and conditions of employment]] are set out in this letter and in the attached schedule."
+   },
+   "everyday": {
+    "uk": "terms",
+    "us": "terms",
+    "ex": "The [[terms]] are pretty standard - nothing you'd need a lawyer for."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "under the terms of the contract",
+   "to agree terms",
+   "on the same terms",
+   "express and implied terms"
+  ],
+  "note_fr": "« Terms » = les stipulations du contrat ; « term » au singulier = la durée (« the term of the contract ») : ne les confondez pas. « T&Cs » est l'abréviation courante. « Conditions » seul évoque plutôt les conditions matérielles de travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-044",
+  "level": 1,
+  "fr": "période d'essai",
+  "term": {
+   "uk": "probationary period",
+   "us": "probationary period"
+  },
+  "ipa": {
+   "uk": "/prəˈbeɪʃ(ə)n(ə)ri ˌpɪəriəd/",
+   "us": "/proʊˈbeɪʃəneri ˌpɪriəd/"
+  },
+  "def": "An initial period during which the employer assesses the new employee and either party can end the contract more easily.",
+  "registers": {
+   "formal": {
+    "uk": "probationary period",
+    "us": "probationary period",
+    "ex": "The first four months of employment shall constitute a [[probationary period]], during which either party may terminate the contract on short notice."
+   },
+   "everyday": {
+    "uk": "on probation",
+    "us": "on probation",
+    "ex": "He's still [[on probation]], so let's give him feedback now rather than wait."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to serve a probationary period",
+   "to be on probation",
+   "a three-month probation",
+   "during probation"
+  ],
+  "note_fr": "« Trial period » se comprend mais « probation » est le terme usuel ; « essay » et « test period » sont à proscrire. En France, la période d'essai doit être prévue expressément par le contrat et sa durée maximale dépend de la catégorie du salarié ; au Royaume-Uni et aux États-Unis, elle relève surtout de la pratique de l'entreprise.",
+  "french_concept": true,
+  "explain": {
+   "written": "The période d'essai is a probationary period which must be expressly stipulated in the contract, whose maximum length is set by law according to the employee's category, and during which either party may end the contract without giving reasons, subject to a short notice.",
+   "spoken": "It's the French probation period: it has to be written into the contract, the law caps how long it can last, and either side can end things quickly while it's running."
+  }
+ },
+ {
+  "id": "ct-045",
+  "level": 2,
+  "fr": "renouveler la période d'essai",
+  "term": {
+   "uk": "to extend the probationary period",
+   "us": "to extend the probationary period"
+  },
+  "ipa": {
+   "uk": "/ɪkˌstend ðə prəˈbeɪʃ(ə)n(ə)ri ˌpɪəriəd/",
+   "us": "/ɪkˌstend ðə proʊˈbeɪʃəneri ˌpɪriəd/"
+  },
+  "def": "To lengthen the initial assessment period because more time is needed to evaluate the employee.",
+  "registers": {
+   "formal": {
+    "uk": "to extend the probationary period",
+    "us": "to extend the probationary period",
+    "ex": "The Company may [[extend the probationary period]] once, with the Employee's express written agreement."
+   },
+   "everyday": {
+    "uk": "to extend someone's probation",
+    "us": "to extend someone's probation",
+    "ex": "We'd rather [[extend his probation]] by a couple of months than let him go now."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an extension of probation",
+   "to extend probation by three months",
+   "to agree to an extension"
+  ],
+  "note_fr": "En anglais on « extends » une période d'essai ; « to renew probation » surprendrait un natif. Précisez la règle française à vos interlocuteurs, qui pensent qu'une simple décision de l'employeur suffit.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law the probationary period may be renewed once only, provided that the applicable industry-wide agreement allows it, the contract provides for it and the employee expressly agrees.",
+   "spoken": "In France you can only extend probation once, and only if the industry agreement and the contract allow it - and the employee has to agree in writing."
+  }
+ },
+ {
+  "id": "ct-046",
+  "level": 2,
+  "fr": "valider sa période d'essai / être confirmé(e) dans son poste",
+  "term": {
+   "uk": "to pass one's probation",
+   "us": "to pass one's probation"
+  },
+  "ipa": {
+   "uk": "/ˌpɑːs wʌnz prəˈbeɪʃ(ə)n/",
+   "us": "/ˌpæs wʌnz proʊˈbeɪʃ(ə)n/"
+  },
+  "def": "To complete the probationary period successfully and continue in the job.",
+  "registers": {
+   "formal": {
+    "uk": "to be confirmed in post",
+    "us": "to be confirmed in the position",
+    "ex": "On successful completion of the probationary period, the Employee shall [[be confirmed in post]].",
+    "ex_us": "On successful completion of the probationary period, the Employee shall [[be confirmed in the position]]."
+   },
+   "everyday": {
+    "uk": "to pass probation",
+    "us": "to pass probation",
+    "ex": "She [[passed probation]] with flying colours, so the longer notice period now applies."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to complete probation successfully",
+   "to fail probation",
+   "a probation review",
+   "to sign off someone's probation"
+  ],
+  "note_fr": "« To validate » est un calque : on « passes » ou « completes » sa période d'essai. Pour la rupture pendant l'essai, dites « she didn't pass probation » ou « we ended his probation » ; « to break the trial period » ne se dit pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-047",
+  "level": 2,
+  "fr": "ancienneté",
+  "term": {
+   "uk": "length of service",
+   "us": "seniority"
+  },
+  "ipa": {
+   "uk": "/ˌleŋθ əv ˈsɜːvɪs/",
+   "us": "/ˌsiːniˈɔːrəti/"
+  },
+  "def": "The amount of time an employee has worked for the same employer without a break.",
+  "registers": {
+   "formal": {
+    "uk": "continuous service",
+    "us": "length of service",
+    "ex": "For the purposes of this clause, the Employee's period of [[continuous service]] began on 3 January 2019.",
+    "ex_us": "For the purposes of this section, the Employee's [[length of service]] began on January 3, 2019."
+   },
+   "everyday": {
+    "uk": "to have been with the company for",
+    "us": "to have been with the company for",
+    "ex": "She's [[been with the company for]] twelve years, so her notice period is much longer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "two years' service",
+   "continuity of employment",
+   "a long-serving employee",
+   "to accrue service"
+  ],
+  "note_fr": "« Ancientness » n'existe pas. Au Royaume-Uni, « seniority » désigne surtout le rang hiérarchique ; l'ancienneté est « length of service » ou, en droit, « continuous employment ». Aux États-Unis, « seniority » signifie bien ancienneté, surtout en contexte syndical. « Tenure » se dit aussi (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-048",
+  "level": 1,
+  "fr": "clause",
+  "term": {
+   "uk": "clause",
+   "us": "clause"
+  },
+  "ipa": {
+   "uk": "/klɔːz/",
+   "us": "/klɔːz/"
+  },
+  "def": "A numbered section of a contract dealing with one particular point.",
+  "registers": {
+   "formal": {
+    "uk": "clause",
+    "us": "section",
+    "ex": "The restrictions in [[clause]] 14 shall continue to apply after the termination of this agreement.",
+    "ex_us": "The restrictions in [[Section]] 14 shall continue to apply after the termination of this agreement."
+   },
+   "everyday": {
+    "uk": "clause",
+    "us": "clause",
+    "ex": "There's a [[clause]] in his contract that says he can be moved to any site in France."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to insert a clause",
+   "to strike out a clause",
+   "under clause 5",
+   "the small print"
+  ],
+  "note_fr": "On dit « under clause 5 » ou « pursuant to clause 5 », pas « according to the clause 5 » (pas d'article devant un numéro). Les contrats américains parlent plutôt de « Section » ; « article » est possible mais « provision » est le mot générique pour « stipulation ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-049",
+  "level": 2,
+  "fr": "stipuler / prévoir (dans un contrat)",
+  "term": {
+   "uk": "to set out",
+   "us": "to set out"
+  },
+  "ipa": {
+   "uk": "/ˌset ˈaʊt/",
+   "us": "/ˌset ˈaʊt/"
+  },
+  "def": "To state something clearly and in an organised way in a written document.",
+  "registers": {
+   "formal": {
+    "uk": "to provide that",
+    "us": "to provide that",
+    "ex": "Clause 8 [[provides that]] the Employee may be required to travel within the European Union."
+   },
+   "everyday": {
+    "uk": "to say",
+    "us": "to say",
+    "ex": "What does the contract actually [[say]] about working from home?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "as set out in clause 3",
+   "to set out the terms",
+   "the contract provides for",
+   "to spell something out"
+  ],
+  "note_fr": "« To stipulate » existe mais reste rare ; « to provide that » et « to set out » sont les verbes naturels. Attention : « to foresee » (prévoir l'avenir) ne convient pas - « the contract foresees » est un calque. « To provide for » + nom, « to provide that » + proposition.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-050",
+  "level": 2,
+  "fr": "clause de mobilité",
+  "term": {
+   "uk": "mobility clause",
+   "us": "relocation clause"
+  },
+  "ipa": {
+   "uk": "/məʊˈbɪləti klɔːz/",
+   "us": "/ˌriːloʊˈkeɪʃ(ə)n klɔːz/"
+  },
+  "def": "A contract term allowing the employer to change the employee's place of work within a defined area.",
+  "registers": {
+   "formal": {
+    "uk": "mobility clause",
+    "us": "relocation clause",
+    "ex": "The [[mobility clause]] must define precisely the geographical area within which the Employee may be transferred.",
+    "ex_us": "The [[relocation clause]] must define precisely the geographic area within which the Employee may be transferred."
+   },
+   "everyday": {
+    "uk": "to be asked to relocate",
+    "us": "to be asked to relocate",
+    "ex": "Under her contract she can [[be asked to relocate]] anywhere in the Paris region."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to invoke a mobility clause",
+   "to relocate an employee",
+   "a relocation package",
+   "within a reasonable distance"
+  ],
+  "note_fr": "En droit français, la clause doit délimiter précisément sa zone géographique et ne peut pas être étendue unilatéralement. Au Royaume-Uni, la « mobility clause » doit être appliquée de façon raisonnable ; aux États-Unis, l'employeur peut en général imposer une mutation sans clause.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-051",
+  "level": 1,
+  "fr": "clause de confidentialité",
+  "term": {
+   "uk": "confidentiality clause",
+   "us": "confidentiality clause"
+  },
+  "ipa": {
+   "uk": "/ˌkɒnfɪˌdenʃiˈæləti klɔːz/",
+   "us": "/ˌkɑːnfɪˌdenʃiˈæləti klɔːz/"
+  },
+  "def": "A contract term that forbids the employee from disclosing or misusing the employer's confidential information.",
+  "registers": {
+   "formal": {
+    "uk": "duty of confidentiality",
+    "us": "duty of confidentiality",
+    "ex": "The Employee's [[duty of confidentiality]] shall continue without limit in time after the termination of employment."
+   },
+   "everyday": {
+    "uk": "to keep something confidential",
+    "us": "to keep something confidential",
+    "ex": "You're expected [[to keep client data confidential]], even after you've left."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to breach confidentiality",
+   "to disclose confidential information",
+   "a non-disclosure agreement (NDA)",
+   "trade secrets"
+  ],
+  "note_fr": "« Confidential » se construit avec « keep » : « to keep it confidential ». « To divulge » existe mais « to disclose » est le verbe juridique. Secret des affaires : « trade secrets ». L'« NDA » est un accord distinct, très courant aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-052",
+  "level": 2,
+  "fr": "clause de non-concurrence",
+  "term": {
+   "uk": "non-compete clause",
+   "us": "noncompete agreement"
+  },
+  "ipa": {
+   "uk": "/ˌnɒn kəmˈpiːt klɔːz/",
+   "us": "/ˌnɑːn kəmˈpiːt əˌɡriːmənt/"
+  },
+  "def": "A contract term that prevents an employee from working for a competitor or setting up a competing business for a period after leaving.",
+  "registers": {
+   "formal": {
+    "uk": "non-competition covenant",
+    "us": "covenant not to compete",
+    "ex": "The [[non-competition covenant]] shall apply for twelve months following the termination date.",
+    "ex_us": "The [[covenant not to compete]] shall apply for twelve months following the termination date."
+   },
+   "everyday": {
+    "uk": "non-compete",
+    "us": "non-compete",
+    "ex": "He can't join them until next spring - he's got a twelve-month [[non-compete]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be bound by a non-compete",
+   "to enforce a non-compete",
+   "to release someone from a non-compete",
+   "to pay non-compete compensation"
+  ],
+  "note_fr": "Différence de fond : en France, la clause n'est valable que si elle est limitée dans le temps et l'espace, justifiée par les intérêts légitimes de l'entreprise et assortie d'une contrepartie financière. Au Royaume-Uni, aucune contrepartie n'est exigée mais la clause doit être raisonnable ; aux États-Unis, tout dépend de l'État (la Californie les interdit pour l'essentiel).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-053",
+  "level": 3,
+  "fr": "clause de non-sollicitation (de clients ou de salariés)",
+  "term": {
+   "uk": "non-solicitation clause",
+   "us": "non-solicitation clause"
+  },
+  "ipa": {
+   "uk": "/ˌnɒn səˌlɪsɪˈteɪʃ(ə)n klɔːz/",
+   "us": "/ˌnɑːn səˌlɪsɪˈteɪʃ(ə)n klɔːz/"
+  },
+  "def": "A contract term forbidding a former employee from approaching the employer's clients or staff for a set period.",
+  "registers": {
+   "formal": {
+    "uk": "non-solicitation covenant",
+    "us": "non-solicitation covenant",
+    "ex": "Under the [[non-solicitation covenant]], the Employee shall not approach any client with whom she dealt in the twelve months before leaving."
+   },
+   "everyday": {
+    "uk": "to poach",
+    "us": "to poach",
+    "ex": "She's free to work for a competitor, but she can't [[poach]] our clients or our people."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to solicit clients",
+   "to poach staff",
+   "a non-poaching clause",
+   "a non-dealing clause"
+  ],
+  "note_fr": "« To solicit » signifie ici « démarcher », mais attention : hors contexte, « soliciting » évoque le racolage. À l'oral, « to poach » (débaucher, littéralement braconner) est le mot juste. Distinguez la non-sollicitation de clients et celle de salariés (« non-poaching »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-054",
+  "level": 3,
+  "fr": "clause d'exclusivité",
+  "term": {
+   "uk": "exclusivity clause",
+   "us": "exclusivity clause"
+  },
+  "ipa": {
+   "uk": "/ˌekskluːˈsɪvəti klɔːz/",
+   "us": "/ˌekskluːˈsɪvəti klɔːz/"
+  },
+  "def": "A contract term that forbids the employee from doing any other paid work during the employment.",
+  "registers": {
+   "formal": {
+    "uk": "exclusivity of service",
+    "us": "exclusivity of service",
+    "ex": "By virtue of the [[exclusivity of service]] clause, the Employee shall not engage in any other professional activity without the Company's prior written consent."
+   },
+   "everyday": {
+    "uk": "to have a second job",
+    "us": "to have a second job",
+    "ex": "Her contract says she can't [[have a second job]] without clearing it with us first."
+   },
+   "informal": {
+    "uk": "to moonlight",
+    "us": "to moonlight",
+    "ex": "He was [[moonlighting]] for a competitor at weekends, which is a clear breach."
+   }
+  },
+  "collocations": [
+   "outside business interests",
+   "to work on the side",
+   "prior written consent",
+   "a conflict of interest"
+  ],
+  "note_fr": "En France, la clause doit être justifiée par la nature des fonctions et proportionnée, et elle est en principe exclue pour les temps partiels. Au Royaume-Uni, elle est inopposable dans les contrats zéro heure. « To moonlight » = avoir un second emploi, souvent non déclaré à l'employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-055",
+  "level": 3,
+  "fr": "cession des droits de propriété intellectuelle",
+  "term": {
+   "uk": "intellectual property assignment",
+   "us": "intellectual property assignment"
+  },
+  "ipa": {
+   "uk": "/ˌɪntəˈlektʃuəl ˈprɒpəti əˌsaɪnmənt/",
+   "us": "/ˌɪntəˈlektʃuəl ˈprɑːpərti əˌsaɪnmənt/"
+  },
+  "def": "A contract term transferring to the employer the rights in what the employee creates in the course of the job.",
+  "registers": {
+   "formal": {
+    "uk": "to assign",
+    "us": "to assign",
+    "ex": "The Employee hereby [[assigns]] to the Company all intellectual property rights in any work created in the course of her employment."
+   },
+   "everyday": {
+    "uk": "to belong to the company",
+    "us": "to belong to the company",
+    "ex": "Anything you develop on the job [[belongs to the company]] - that's standard."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to assign rights to the employer",
+   "to own the IP",
+   "a work made for hire",
+   "moral rights"
+  ],
+  "note_fr": "« Assignment » = cession (et aussi « mission ») ; « cession » en anglais est rare et concerne surtout les territoires. Le régime diffère : en France, l'auteur salarié reste en principe titulaire de ses droits sauf cession expresse (avec des règles propres aux logiciels et aux inventions) ; aux États-Unis, la doctrine du « work made for hire » attribue l'œuvre à l'employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-056",
+  "level": 3,
+  "fr": "dispense de préavis rémunérée avec maintien des obligations (« garden leave »)",
+  "term": {
+   "uk": "garden leave",
+   "us": "garden leave"
+  },
+  "ipa": {
+   "uk": "/ˈɡɑːd(ə)n liːv/",
+   "us": "/ˈɡɑːrd(ə)n liːv/"
+  },
+  "def": "A period during notice when the employee stays at home on full pay, remains bound by the contract and may not work for anyone else.",
+  "registers": {
+   "formal": {
+    "uk": "garden leave",
+    "us": "garden leave",
+    "ex": "The Company may place the Employee on [[garden leave]] for all or part of the notice period."
+   },
+   "everyday": {
+    "uk": "gardening leave",
+    "us": "garden leave",
+    "ex": "They've put him on [[gardening leave]] for three months so he can't take the clients with him.",
+    "ex_us": "They've put him on [[garden leave]] for three months so he can't take the clients with him."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to put someone on garden leave",
+   "a garden leave clause",
+   "to remain on full pay",
+   "to stay away from clients"
+  ],
+  "note_fr": "Notion essentiellement britannique (« gardening leave » à l'oral), connue aux États-Unis surtout dans la finance. Ce n'est pas la dispense de préavis française : le contrat continue, le salarié reste tenu à la loyauté et ne peut pas commencer ailleurs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-057",
+  "level": 3,
+  "fr": "clause de dédit-formation",
+  "term": {
+   "uk": "training costs repayment clause",
+   "us": "training costs repayment clause"
+  },
+  "ipa": {
+   "uk": "/ˈtreɪnɪŋ kɒsts rɪˈpeɪmənt klɔːz/",
+   "us": "/ˈtreɪnɪŋ kɔːsts rɪˈpeɪmənt klɔːz/"
+  },
+  "def": "A contract term requiring an employee to reimburse training costs if he or she leaves within a set period after the training.",
+  "registers": {
+   "formal": {
+    "uk": "training costs repayment clause",
+    "us": "training repayment agreement",
+    "ex": "Under the [[training costs repayment clause]], the sum repayable decreases by one twenty-fourth for each complete month of service.",
+    "ex_us": "Under the [[training repayment agreement]], the sum repayable decreases by one twenty-fourth for each complete month of service."
+   },
+   "everyday": {
+    "uk": "to pay back",
+    "us": "to pay back",
+    "ex": "If she leaves within two years, she'll have [[to pay back]] part of the course fees."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to repay training costs",
+   "on a sliding scale",
+   "to recover the cost of training",
+   "to leave within two years"
+  ],
+  "note_fr": "Pas de traduction figée : évitez « forfeit clause » ou « training penalty ». En France, la clause n'est valable que si la formation dépasse les obligations légales ou conventionnelles de l'employeur, si le montant est proportionné et si elle ne prive pas le salarié de sa faculté de démissionner.",
+  "french_concept": true,
+  "explain": {
+   "written": "A clause de dédit-formation is a French contractual clause under which an employee who resigns within a specified period after employer-funded training must repay a proportionate share of its cost.",
+   "spoken": "It's a training payback clause: if we fund an expensive course and the person resigns soon afterwards, they owe us part of the cost."
+  }
+ },
+ {
+  "id": "ct-058",
+  "level": 3,
+  "fr": "clause de restitution (de bonus ou de primes)",
+  "term": {
+   "uk": "clawback clause",
+   "us": "clawback clause"
+  },
+  "ipa": {
+   "uk": "/ˈklɔːbæk klɔːz/",
+   "us": "/ˈklɔːbæk klɔːz/"
+  },
+  "def": "A contract term allowing the employer to recover money already paid, typically a bonus, if certain events occur.",
+  "registers": {
+   "formal": {
+    "uk": "clawback provision",
+    "us": "clawback provision",
+    "ex": "Any bonus paid under this scheme is subject to the [[clawback provision]] in clause 9."
+   },
+   "everyday": {
+    "uk": "to claw back",
+    "us": "to claw back",
+    "ex": "If he leaves within a year, they can [[claw back]] the sign-on bonus."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be subject to clawback",
+   "to claw back a bonus",
+   "malus and clawback",
+   "a sign-on bonus"
+  ],
+  "note_fr": "Terme propre à la rémunération variable, courant dans la finance. Prudence en France : les sanctions pécuniaires sont interdites et une telle clause n'est admise que dans des limites étroites. « To claw back » se sépare : « to claw the money back ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-059",
+  "level": 3,
+  "fr": "clause de variation / de révision unilatérale",
+  "term": {
+   "uk": "variation clause",
+   "us": "modification clause"
+  },
+  "ipa": {
+   "uk": "/ˌveəriˈeɪʃ(ə)n klɔːz/",
+   "us": "/ˌmɑːdɪfɪˈkeɪʃ(ə)n klɔːz/"
+  },
+  "def": "A contract term reserving the employer's right to change certain terms without a new agreement.",
+  "registers": {
+   "formal": {
+    "uk": "to reserve the right to vary",
+    "us": "to reserve the right to modify",
+    "ex": "The Company [[reserves the right to vary]] the Employee's duties and place of work on reasonable notice.",
+    "ex_us": "The Company [[reserves the right to modify]] the Employee's duties and place of work on reasonable notice."
+   },
+   "everyday": {
+    "uk": "flexibility clause",
+    "us": "flexibility clause",
+    "ex": "There's a [[flexibility clause]] in the contract, but I wouldn't rely on it to cut anyone's pay."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rely on a variation clause",
+   "a unilateral change",
+   "on reasonable notice",
+   "from time to time"
+  ],
+  "note_fr": "En droit français, une clause par laquelle l'employeur se réserve de modifier unilatéralement un élément essentiel (rémunération, durée du travail) est sans effet. Au Royaume-Uni, ces clauses sont interprétées strictement ; aux États-Unis, l'employeur « at-will » peut en général modifier les conditions pour l'avenir.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-060",
+  "level": 3,
+  "fr": "clause d'intégralité (de l'accord)",
+  "term": {
+   "uk": "entire agreement clause",
+   "us": "integration clause"
+  },
+  "ipa": {
+   "uk": "/ɪnˌtaɪər əˈɡriːmənt klɔːz/",
+   "us": "/ˌɪntɪˈɡreɪʃ(ə)n klɔːz/"
+  },
+  "def": "A contract term stating that the written document contains everything the parties have agreed and replaces earlier discussions.",
+  "registers": {
+   "formal": {
+    "uk": "entire agreement clause",
+    "us": "integration clause",
+    "ex": "By virtue of the [[entire agreement clause]], this contract supersedes all previous arrangements between the parties.",
+    "ex_us": "By virtue of the [[integration clause]], this contract supersedes all prior arrangements between the parties."
+   },
+   "everyday": {
+    "uk": "to replace anything agreed before",
+    "us": "to replace anything agreed before",
+    "ex": "The signed contract [[replaces anything agreed before]], so that email about the bonus doesn't count."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to supersede all prior agreements",
+   "the whole agreement",
+   "a merger clause",
+   "prior representations"
+  ],
+  "note_fr": "Trois noms pour la même clause : « entire agreement clause » (UK), « integration clause » ou « merger clause » (US). Le verbe clé est « to supersede » (remplacer, avec un s : pas « supercede »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-061",
+  "level": 3,
+  "fr": "clause de divisibilité (nullité partielle)",
+  "term": {
+   "uk": "severability clause",
+   "us": "severability clause"
+  },
+  "ipa": {
+   "uk": "/ˌsev(ə)rəˈbɪləti klɔːz/",
+   "us": "/ˌsev(ə)rəˈbɪləti klɔːz/"
+  },
+  "def": "A contract term providing that if one provision is invalid, the rest of the contract remains in force.",
+  "registers": {
+   "formal": {
+    "uk": "to be severed from",
+    "us": "to be severed from",
+    "ex": "Any provision held to be invalid shall [[be severed from]] this agreement, and the remaining provisions shall continue in full force and effect."
+   },
+   "everyday": {
+    "uk": "the rest of the contract still stands",
+    "us": "the rest of the contract still stands",
+    "ex": "Even if the court throws out the non-compete, [[the rest of the contract still stands]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sever a clause",
+   "to remain in full force and effect",
+   "to be held invalid",
+   "to strike down a clause"
+  ],
+  "note_fr": "« To sever » /ˈsevə/ (retrancher) ne se prononce pas comme « severe » /sɪˈvɪə/. « Nullité partielle » se rend par « severance » d'une clause - à ne pas confondre avec « severance pay » (indemnité de départ).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-062",
+  "level": 2,
+  "fr": "droit applicable",
+  "term": {
+   "uk": "governing law",
+   "us": "governing law"
+  },
+  "ipa": {
+   "uk": "/ˌɡʌvənɪŋ ˈlɔː/",
+   "us": "/ˌɡʌvərnɪŋ ˈlɔː/"
+  },
+  "def": "The national or state law that the parties or the rules designate to interpret and regulate the contract.",
+  "registers": {
+   "formal": {
+    "uk": "to be governed by",
+    "us": "to be governed by",
+    "ex": "This contract shall [[be governed by]] and construed in accordance with French law."
+   },
+   "everyday": {
+    "uk": "to come under",
+    "us": "to come under",
+    "ex": "She's based in London, but her contract [[comes under]] French law."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the governing law clause",
+   "a choice of law",
+   "to be construed in accordance with",
+   "mandatory rules"
+  ],
+  "note_fr": "« Applicable law » se dit aussi, mais « governing law » est le titre habituel de la clause. « To construe » = interpréter (un texte). Aux États-Unis, la loi applicable est celle d'un État (« the laws of the State of New York »), pas une loi « américaine ». Le choix de loi ne prive pas le salarié des règles impératives protectrices.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-063",
+  "level": 3,
+  "fr": "attribution de compétence / juridiction compétente",
+  "term": {
+   "uk": "jurisdiction",
+   "us": "jurisdiction"
+  },
+  "ipa": {
+   "uk": "/ˌdʒʊərɪsˈdɪkʃ(ə)n/",
+   "us": "/ˌdʒʊrɪsˈdɪkʃ(ə)n/"
+  },
+  "def": "The power of a particular court to hear a dispute, or the territory in which a legal system applies.",
+  "registers": {
+   "formal": {
+    "uk": "to have exclusive jurisdiction",
+    "us": "to have exclusive jurisdiction",
+    "ex": "The courts of France shall [[have exclusive jurisdiction]] over any dispute arising out of this contract."
+   },
+   "everyday": {
+    "uk": "to go to",
+    "us": "to go to",
+    "ex": "Any dispute would [[go to]] the French labour court, not an English tribunal.",
+    "ex_us": "Any dispute would [[go to]] the French labor court, not a US court."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to submit to the jurisdiction of",
+   "a jurisdiction clause",
+   "in this jurisdiction",
+   "a forum selection clause"
+  ],
+  "note_fr": "« Jurisdiction » ne signifie pas « juridiction » au sens de tribunal (« a court », « a tribunal ») : c'est la compétence, ou le pays dont le droit s'applique (« in other jurisdictions »). Le conseil de prud'hommes : « the French labour court » ; au Royaume-Uni, « employment tribunal ». Aux États-Unis, la clause s'appelle « forum selection clause ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-064",
+  "level": 3,
+  "fr": "clause de notification (modalités d'envoi des notifications)",
+  "term": {
+   "uk": "notices clause",
+   "us": "notices clause"
+  },
+  "ipa": {
+   "uk": "/ˈnəʊtɪsɪz klɔːz/",
+   "us": "/ˈnoʊtɪsɪz klɔːz/"
+  },
+  "def": "A contract term specifying how formal communications between the parties must be sent and when they are treated as received.",
+  "registers": {
+   "formal": {
+    "uk": "to serve notice",
+    "us": "to serve notice",
+    "ex": "Any [[notice served]] under this agreement shall be in writing and delivered by hand or sent by recorded delivery.",
+    "ex_us": "Any [[notice served]] under this agreement shall be in writing and delivered by hand or sent by certified mail."
+   },
+   "everyday": {
+    "uk": "to notify in writing",
+    "us": "to notify in writing",
+    "ex": "You need [[to notify her in writing]] - a phone call isn't enough under the contract."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give written notice",
+   "to be deemed received",
+   "by recorded delivery",
+   "an address for service"
+  ],
+  "note_fr": "« To notify » est transitif direct : « to notify someone of something », jamais « to notify to someone ». La lettre recommandée avec accusé de réception : « recorded delivery » ou « signed for » (UK), « certified mail, return receipt requested » (US). « Notice » peut aussi signifier préavis : le contexte tranche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-065",
+  "level": 3,
+  "fr": "sans préjudice de",
+  "term": {
+   "uk": "without prejudice to",
+   "us": "without prejudice to"
+  },
+  "ipa": {
+   "uk": "/wɪˌðaʊt ˈpredʒʊdɪs tə/",
+   "us": "/wɪˌðaʊt ˈpredʒədɪs tə/"
+  },
+  "def": "Without affecting or limiting another right or provision.",
+  "registers": {
+   "formal": {
+    "uk": "without prejudice to",
+    "us": "without prejudice to",
+    "ex": "[[Without prejudice to]] clause 12, the Company may suspend the Employee on full pay pending an investigation."
+   },
+   "everyday": {
+    "uk": "without affecting",
+    "us": "without affecting",
+    "ex": "We can pay the bonus now [[without affecting]] her right to claim the rest later."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "without prejudice to any other rights",
+   "a without-prejudice conversation",
+   "on a without-prejudice basis"
+  ],
+  "note_fr": "« Prejudice » est un faux ami : il signifie d'abord « préjugé » ; le préjudice subi se dit « harm », « loss » ou « damage ». Au Royaume-Uni, « without prejudice » en tête d'un courrier signifie aussi que son contenu ne pourra pas être produit en justice (négociation transactionnelle). Aux États-Unis, « dismissed with/without prejudice » concerne le rejet d'une action.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-066",
+  "level": 3,
+  "fr": "nonobstant / par dérogation à",
+  "term": {
+   "uk": "notwithstanding",
+   "us": "notwithstanding"
+  },
+  "ipa": {
+   "uk": "/ˌnɒtwɪθˈstændɪŋ/",
+   "us": "/ˌnɑːtwɪθˈstændɪŋ/"
+  },
+  "def": "In spite of; used to say that a provision applies even if another provision appears to say otherwise.",
+  "registers": {
+   "formal": {
+    "uk": "notwithstanding",
+    "us": "notwithstanding",
+    "ex": "[[Notwithstanding]] clause 4, the Employee may be required to work at any of the Company's sites in France."
+   },
+   "everyday": {
+    "uk": "despite",
+    "us": "despite",
+    "ex": "[[Despite]] what clause 4 says, she can be asked to work at another site."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "notwithstanding the foregoing",
+   "notwithstanding any other provision",
+   "regardless of",
+   "save as provided in"
+  ],
+  "note_fr": "Mot purement rédactionnel : ne l'employez jamais à l'oral. Il indique quelle clause l'emporte ; son symétrique est « subject to » (sous réserve de). « Notwithstanding the foregoing » = nonobstant ce qui précède.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-067",
+  "level": 1,
+  "fr": "avenant (au contrat de travail)",
+  "term": {
+   "uk": "amendment to the contract",
+   "us": "amendment to the contract"
+  },
+  "ipa": {
+   "uk": "/əˌmendmənt tə ðə ˈkɒntrækt/",
+   "us": "/əˌmendmənt tə ðə ˈkɑːntrækt/"
+  },
+  "def": "A written document, signed by both parties, that changes one or more terms of an existing contract.",
+  "registers": {
+   "formal": {
+    "uk": "amendment",
+    "us": "amendment",
+    "ex": "This [[amendment]] forms an integral part of the employment contract dated 2 May 2022.",
+    "ex_us": "This [[amendment]] forms an integral part of the employment contract dated May 2, 2022."
+   },
+   "everyday": {
+    "uk": "to put a change in writing",
+    "us": "to put a change in writing",
+    "ex": "If we're changing her hours, we need [[to put the change in writing]] and get her to sign."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign an amendment",
+   "an amendment to the contract",
+   "an addendum",
+   "a variation letter"
+  ],
+  "note_fr": "« Avenant » n'a pas d'équivalent unique : « amendment » (modifie le texte), « addendum » (ajoute), ou au Royaume-Uni « variation letter ». « Rider » concerne surtout les assurances. Ne dites pas « an avenant » sans l'expliquer.",
+  "french_concept": true,
+  "explain": {
+   "written": "An avenant is a written amendment to the employment contract which, under French law, must be signed by both parties whenever an essential term such as pay, working time or job content is changed.",
+   "spoken": "An avenant is just a signed amendment to the contract - in France you need one every time you change something essential like pay or hours."
+  }
+ },
+ {
+  "id": "ct-068",
+  "level": 2,
+  "fr": "modifier le contrat de travail",
+  "term": {
+   "uk": "to vary a contract",
+   "us": "to modify a contract"
+  },
+  "ipa": {
+   "uk": "/ˌveəri ə ˈkɒntrækt/",
+   "us": "/ˌmɑːdɪfaɪ ə ˈkɑːntrækt/"
+  },
+  "def": "To change one or more of the agreed terms of a contract.",
+  "registers": {
+   "formal": {
+    "uk": "to vary the contract",
+    "us": "to modify the contract",
+    "ex": "The employer may not [[vary the contract]] without the Employee's express agreement.",
+    "ex_us": "The employer may not [[modify the contract]] without the Employee's express agreement."
+   },
+   "everyday": {
+    "uk": "to change the contract",
+    "us": "to change the contract",
+    "ex": "We can't just [[change her contract]] - she has to agree to it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a variation of contract",
+   "a unilateral variation",
+   "to agree to a change",
+   "to impose a change"
+  ],
+  "note_fr": "Au Royaume-Uni, le terme juridique est « variation of contract » ; un Américain dira « modification » ou « amendment ». En France, toute modification d'un élément essentiel du contrat exige l'accord du salarié, dont le refus n'est pas fautif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-069",
+  "level": 3,
+  "fr": "simple changement des conditions de travail",
+  "term": {
+   "uk": "change in working conditions",
+   "us": "change in working conditions"
+  },
+  "ipa": {
+   "uk": "/ˌtʃeɪndʒ ɪn ˈwɜːkɪŋ kənˌdɪʃ(ə)nz/",
+   "us": "/ˌtʃeɪndʒ ɪn ˈwɜːrkɪŋ kənˌdɪʃ(ə)nz/"
+  },
+  "def": "In French law, a change the employer may impose without the employee's agreement because it does not affect an essential term of the contract.",
+  "registers": {
+   "formal": {
+    "uk": "change in working conditions",
+    "us": "change in working conditions",
+    "ex": "A mere [[change in working conditions]] falls within the employer's managerial prerogative and does not require the Employee's consent."
+   },
+   "everyday": {
+    "uk": "a change we can make without consent",
+    "us": "a change we can make without consent",
+    "ex": "Moving her start time by half an hour is [[a change we can make without consent]] - it isn't a contract change."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the employer's managerial prerogative",
+   "an essential term of the contract",
+   "to refuse a change",
+   "to fall within the employer's discretion"
+  ],
+  "note_fr": "La distinction « modification du contrat » / « changement des conditions de travail » est propre au droit français. Les Britanniques raisonnent en « contractual » / « non-contractual terms » ; expliquez toujours les deux branches et leurs conséquences.",
+  "french_concept": true,
+  "explain": {
+   "written": "French law distinguishes a variation of the contract, which requires the employee's consent, from a mere change in working conditions, which the employer may impose by virtue of its managerial prerogative and which the employee may not refuse without being at fault.",
+   "spoken": "In France there are two kinds of change: the ones that touch the contract itself, where you need the employee's agreement, and the day-to-day ones the employer can simply decide."
+  }
+ },
+ {
+  "id": "ct-070",
+  "level": 1,
+  "fr": "donner son accord / consentement",
+  "term": {
+   "uk": "to give one's consent",
+   "us": "to give one's consent"
+  },
+  "ipa": {
+   "uk": "/ˌɡɪv wʌnz kənˈsent/",
+   "us": "/ˌɡɪv wʌnz kənˈsent/"
+  },
+  "def": "To agree formally to something that is proposed.",
+  "registers": {
+   "formal": {
+    "uk": "express written consent",
+    "us": "express written consent",
+    "ex": "No change shall be made to the Employee's remuneration without her [[express written consent]]."
+   },
+   "everyday": {
+    "uk": "to agree to",
+    "us": "to agree to",
+    "ex": "She's [[agreed to]] the new hours, so we just need her signature."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give consent",
+   "to withhold consent",
+   "prior written consent",
+   "to agree in writing"
+  ],
+  "note_fr": "« To agree » : pas de « to be agree » ni « I am agree ». Construction : « to agree to a change », « to agree with someone », « to agree on a date ». « Consent » /kənˈsent/ est accentué sur la seconde syllabe ; « express » (exprès) s'oppose à « implied » (tacite).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-071",
+  "level": 2,
+  "fr": "suspension du contrat de travail",
+  "term": {
+   "uk": "suspension of the employment contract",
+   "us": "suspension of the employment contract"
+  },
+  "ipa": {
+   "uk": "/səˌspenʃ(ə)n əv ði ɪmˈplɔɪmənt ˌkɒntrækt/",
+   "us": "/səˌspenʃ(ə)n əv ði ɪmˈplɔɪmənt ˌkɑːntrækt/"
+  },
+  "def": "A period during which the main obligations of work and pay are paused while the contract itself continues to exist.",
+  "registers": {
+   "formal": {
+    "uk": "to be suspended",
+    "us": "to be suspended",
+    "ex": "The employment contract shall [[be suspended]] for the duration of the parental leave."
+   },
+   "everyday": {
+    "uk": "to be on leave",
+    "us": "to be on leave",
+    "ex": "While she [[is on leave]], the contract's still in place - she just isn't working or being paid by us."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "during a period of leave",
+   "to remain an employee",
+   "to return to work",
+   "to be put on hold"
+  ],
+  "note_fr": "Piège : en anglais, « to suspend an employee » ou « she's been suspended » évoque presque toujours une mise à pied (disciplinaire ou conservatoire). Pour la suspension du contrat à la française (maladie, maternité, congé parental), dites plutôt « she is on leave » et glosez.",
+  "french_concept": true,
+  "explain": {
+   "written": "In French law the employment contract is said to be suspended when, during events such as sick leave, maternity leave or a strike, the duties to work and to pay cease temporarily while the contract remains in existence.",
+   "spoken": "In France we say the contract is 'suspended' when someone's off sick or on parental leave - it just means the contract is on hold, not that they're in any trouble."
+  }
+ },
+ {
+  "id": "ct-072",
+  "level": 1,
+  "fr": "renouveler un contrat",
+  "term": {
+   "uk": "to renew a contract",
+   "us": "to renew a contract"
+  },
+  "ipa": {
+   "uk": "/rɪˌnjuː ə ˈkɒntrækt/",
+   "us": "/rɪˌnuː ə ˈkɑːntrækt/"
+  },
+  "def": "To make a contract continue for a further period after it would otherwise have ended.",
+  "registers": {
+   "formal": {
+    "uk": "to be renewed",
+    "us": "to be renewed",
+    "ex": "The fixed-term contract may [[be renewed]] on the conditions laid down by the applicable collective agreement."
+   },
+   "everyday": {
+    "uk": "to keep someone on",
+    "us": "to keep someone on",
+    "ex": "We'd like [[to keep him on]] for another six months if the budget allows."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to renew a contract for a further term",
+   "a renewal",
+   "non-renewal",
+   "to roll a contract over"
+  ],
+  "note_fr": "« To extend » (prolonger) et « to renew » (renouveler) sont proches ; « to keep someone on » est l'expression naturelle à l'oral. « To reconduct » n'existe pas : la tacite reconduction se dit « automatic renewal » ou « the contract rolls over ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-073",
+  "level": 1,
+  "fr": "arriver à échéance / à son terme",
+  "term": {
+   "uk": "to expire",
+   "us": "to expire"
+  },
+  "ipa": {
+   "uk": "/ɪkˈspaɪə/",
+   "us": "/ɪkˈspaɪər/"
+  },
+  "def": "To come to an end because the agreed period has finished.",
+  "registers": {
+   "formal": {
+    "uk": "on expiry of",
+    "us": "upon expiration of",
+    "ex": "[[On expiry of]] the fixed term, the contract shall end automatically without notice.",
+    "ex_us": "[[Upon expiration of]] the fixed term, the contract shall end automatically without notice."
+   },
+   "everyday": {
+    "uk": "to run out",
+    "us": "to run out",
+    "ex": "His contract [[runs out]] at the end of June, so we need to decide soon."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the expiry date",
+   "to come to an end",
+   "to be due to expire",
+   "to lapse"
+  ],
+  "note_fr": "UK « expiry », US « expiration ». « Échéance » ne se traduit pas par « deadline » ici (date limite pour faire quelque chose) mais par « end date » ou « expiry ». « Term » = durée du contrat, d'où « the end of the term ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-074",
+  "level": 2,
+  "fr": "transformer un CDD en CDI",
+  "term": {
+   "uk": "to convert to a permanent contract",
+   "us": "to convert to a permanent contract"
+  },
+  "ipa": {
+   "uk": "/kənˌvɜːt tə ə ˌpɜːmənənt ˈkɒntrækt/",
+   "us": "/kənˌvɜːrt tə ə ˌpɜːrmənənt ˈkɑːntrækt/"
+  },
+  "def": "To change a temporary employment relationship into one with no end date.",
+  "registers": {
+   "formal": {
+    "uk": "to be deemed to be permanent",
+    "us": "to be deemed to be permanent",
+    "ex": "Where the employee continues to work after the end of the fixed term, the contract shall [[be deemed to be permanent]]."
+   },
+   "everyday": {
+    "uk": "to make someone permanent",
+    "us": "to make someone permanent",
+    "ex": "She's done so well that we've decided [[to make her permanent]]."
+   },
+   "informal": {
+    "uk": "to go perm",
+    "us": "to go perm",
+    "ex": "He started as a temp and [[went perm]] after six months."
+   }
+  },
+  "collocations": [
+   "to go permanent",
+   "to be taken on permanently",
+   "to become permanent by operation of law",
+   "temp-to-perm"
+  ],
+  "note_fr": "« To be deemed » = être réputé. En France, la poursuite du travail après le terme du CDD le transforme en CDI, et le juge peut aussi requalifier un CDD irrégulier : dites « the contract was reclassified as permanent ». Au Royaume-Uni, des contrats à durée déterminée successifs peuvent aussi devenir permanents au bout d'un certain temps ; rien de tel aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-075",
+  "level": 3,
+  "fr": "transfert d'entreprise (transfert automatique des contrats de travail)",
+  "term": {
+   "uk": "transfer of an undertaking",
+   "us": "business transfer"
+  },
+  "ipa": {
+   "uk": "/ˌtrænsfɜːr əv ən ˌʌndəˈteɪkɪŋ/",
+   "us": "/ˈbɪznəs ˌtrænsfɜːr/"
+  },
+  "def": "The sale or handover of a business or service, as a result of which the employees' contracts pass automatically to the new employer in Europe.",
+  "registers": {
+   "formal": {
+    "uk": "transfer of an undertaking",
+    "us": "business transfer",
+    "ex": "In the event of a [[transfer of an undertaking]], the contracts of employment shall transfer automatically to the transferee.",
+    "ex_us": "In the event of a [[business transfer]], French law provides that the employment contracts transfer automatically to the buyer."
+   },
+   "everyday": {
+    "uk": "to transfer under TUPE",
+    "us": "to transfer automatically",
+    "ex": "The catering staff will [[transfer under TUPE]] when the new contractor takes over.",
+    "ex_us": "In France the catering staff will [[transfer automatically]] when the new contractor takes over."
+   },
+   "informal": {
+    "uk": "to be TUPE'd across",
+    "us": "to move across",
+    "ex": "About forty of us [[were TUPE'd across]] when the contract changed hands.",
+    "ex_us": "About forty of us [[moved across]] when the contract changed hands."
+   }
+  },
+  "collocations": [
+   "the transferor and the transferee",
+   "a TUPE transfer",
+   "to transfer on existing terms",
+   "to take over the staff"
+  ],
+  "note_fr": "« TUPE » (prononcé /ˈtjuːpi/) désigne la réglementation britannique issue du droit européen, comme le transfert automatique des contrats en France. Aux États-Unis, rien de tel : en cas de cession d'actifs, l'acquéreur choisit en principe qui il réembauche. « Undertaking » = entreprise au sens du droit européen, mais aussi « engagement ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-076",
+  "level": 2,
+  "fr": "entrer en vigueur / prendre effet",
+  "term": {
+   "uk": "to come into force",
+   "us": "to take effect"
+  },
+  "ipa": {
+   "uk": "/ˌkʌm ɪntə ˈfɔːs/",
+   "us": "/ˌteɪk ɪˈfekt/"
+  },
+  "def": "To start to apply and produce legal effects.",
+  "registers": {
+   "formal": {
+    "uk": "to come into force",
+    "us": "to take effect",
+    "ex": "This amendment shall [[come into force]] on the date of its signature by both parties.",
+    "ex_us": "This amendment shall [[take effect]] on the date of its signature by both parties."
+   },
+   "everyday": {
+    "uk": "to kick in",
+    "us": "to kick in",
+    "ex": "The new salary [[kicks in]] on the first of next month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "with effect from",
+   "with immediate effect",
+   "to enter into force",
+   "as from 1 January"
+  ],
+  "note_fr": "« To enter in vigour » est un calque. « With effect from » (UK) et « effective » + date (US : « effective March 1 ») sont les formules usuelles. « To kick in » est familier mais très courant à l'oral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-077",
+  "level": 2,
+  "fr": "respecter (une clause, une obligation)",
+  "term": {
+   "uk": "to comply with",
+   "us": "to comply with"
+  },
+  "ipa": {
+   "uk": "/kəmˈplaɪ wɪð/",
+   "us": "/kəmˈplaɪ wɪð/"
+  },
+  "def": "To act in accordance with a rule, a term of a contract or a legal requirement.",
+  "registers": {
+   "formal": {
+    "uk": "to comply with",
+    "us": "to comply with",
+    "ex": "The Employee shall [[comply with]] all Company policies in force from time to time."
+   },
+   "everyday": {
+    "uk": "to stick to",
+    "us": "to stick to",
+    "ex": "As long as both sides [[stick to]] the contract, there shouldn't be a problem."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to comply with one's obligations",
+   "to abide by the rules",
+   "to honour a commitment",
+   "in compliance with"
+  ],
+  "note_fr": "« To respect a contract » est un calque : en anglais on « respects » une personne, on « complies with », « abides by » ou « honours » (US « honors ») une obligation. Le nom est « compliance », d'où « compliance officer ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-078",
+  "level": 2,
+  "fr": "antidater / faire rétroagir",
+  "term": {
+   "uk": "to backdate",
+   "us": "to backdate"
+  },
+  "ipa": {
+   "uk": "/ˌbækˈdeɪt/",
+   "us": "/ˈbækdeɪt/"
+  },
+  "def": "To make something take effect from a date earlier than the date on which it is agreed or signed.",
+  "registers": {
+   "formal": {
+    "uk": "with retroactive effect from",
+    "us": "with retroactive effect from",
+    "ex": "The salary increase shall apply [[with retroactive effect from]] 1 January."
+   },
+   "everyday": {
+    "uk": "to backdate",
+    "us": "to backdate",
+    "ex": "They've agreed [[to backdate]] her pay rise to January.",
+    "ex_us": "They've agreed [[to backdate]] her raise to January."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to backdate a pay rise",
+   "backdated to 1 January",
+   "back pay",
+   "retrospective effect"
+  ],
+  "note_fr": "« To backdate a pay rise » est parfaitement légitime (effet rétroactif convenu) ; « to backdate a document » (y porter une fausse date) peut constituer une fraude : ne confondez pas. UK « retrospective » ou « retroactive », US « retroactive » ; UK « pay rise », US « raise ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-079",
+  "level": 1,
+  "fr": "préavis",
+  "term": {
+   "uk": "notice period",
+   "us": "notice period"
+  },
+  "ipa": {
+   "uk": "/ˈnəʊtɪs ˌpɪəriəd/",
+   "us": "/ˈnoʊtɪs ˌpɪriəd/"
+  },
+  "def": "The length of time between telling the other party that the contract will end and the date it actually ends.",
+  "registers": {
+   "formal": {
+    "uk": "period of notice",
+    "us": "period of notice",
+    "ex": "Either party may terminate this contract by giving the other the [[period of notice]] specified in clause 15."
+   },
+   "everyday": {
+    "uk": "notice",
+    "us": "notice",
+    "ex": "She's on three months' [[notice]], so she can't start with us before April."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give three months' notice",
+   "to be on notice",
+   "a notice period of one month",
+   "at short notice"
+  ],
+  "note_fr": "Notez l'apostrophe : « three months' notice », « one month's notice ». « Preavis » et « prior notice » ne désignent pas le préavis de rupture. Aux États-Unis, il n'y a en général pas de préavis légal : « two weeks' notice » est un usage de courtoisie. « At short notice » (UK) / « on short notice » (US) = au dernier moment.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-080",
+  "level": 1,
+  "fr": "démissionner",
+  "term": {
+   "uk": "to resign",
+   "us": "to resign"
+  },
+  "ipa": {
+   "uk": "/rɪˈzaɪn/",
+   "us": "/rɪˈzaɪn/"
+  },
+  "def": "To tell your employer formally that you are leaving your job.",
+  "registers": {
+   "formal": {
+    "uk": "to tender one's resignation",
+    "us": "to tender one's resignation",
+    "ex": "I hereby [[tender my resignation]] from my position as Finance Manager, with effect from 31 March.",
+    "ex_us": "I hereby [[tender my resignation]] from my position as Finance Manager, effective March 31."
+   },
+   "everyday": {
+    "uk": "to hand in one's notice",
+    "us": "to give notice",
+    "ex": "He [[handed in his notice]] this morning - he's going to a competitor.",
+    "ex_us": "He [[gave notice]] this morning - he's going to a competitor."
+   },
+   "informal": {
+    "uk": "to quit",
+    "us": "to quit",
+    "ex": "She [[quit]] after a row with her manager and didn't even work her notice.",
+    "ex_us": "She [[quit]] after a fight with her manager and didn't even work out her two weeks."
+   }
+  },
+  "collocations": [
+   "to resign from a post",
+   "a letter of resignation",
+   "to resign with immediate effect",
+   "to walk out"
+  ],
+  "note_fr": "Trois pièges : « to dismiss » signifie licencier, pas démissionner ; « to demission » n'existe pas ; « to resign » n'est pas « résilier » (« to terminate »). On dit « to resign from a job » ou « to resign as director ». « To walk out » = partir du jour au lendemain, sans préavis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-081",
+  "level": 2,
+  "fr": "indemnité compensatrice de préavis",
+  "term": {
+   "uk": "payment in lieu of notice",
+   "us": "pay in lieu of notice"
+  },
+  "ipa": {
+   "uk": "/ˌpeɪmənt ɪn ˌljuː əv ˈnəʊtɪs/",
+   "us": "/ˌpeɪ ɪn ˌluː əv ˈnoʊtɪs/"
+  },
+  "def": "A sum paid to an employee instead of having him or her work the notice period.",
+  "registers": {
+   "formal": {
+    "uk": "payment in lieu of notice",
+    "us": "pay in lieu of notice",
+    "ex": "The Company may terminate the employment with immediate effect by making a [[payment in lieu of notice]].",
+    "ex_us": "The Company may terminate the employment with immediate effect by providing [[pay in lieu of notice]]."
+   },
+   "everyday": {
+    "uk": "to pay someone in lieu",
+    "us": "to pay out someone's notice",
+    "ex": "We'd rather [[pay him in lieu]] than have him in the office for three months.",
+    "ex_us": "We'd rather [[pay out his notice]] than have him in the office for three months."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a PILON clause",
+   "to be paid in lieu",
+   "in lieu of notice",
+   "to waive the notice period"
+  ],
+  "note_fr": "« In lieu of » = au lieu de, à la place de ; prononcez /ljuː/ ou /luː/, pas à la française. L'abréviation britannique est « PILON ». Aux États-Unis, la notion est moins courante puisqu'il n'y a généralement pas de préavis obligatoire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-082",
+  "level": 2,
+  "fr": "effectuer son préavis",
+  "term": {
+   "uk": "to work one's notice",
+   "us": "to work out one's notice"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːk wʌnz ˈnəʊtɪs/",
+   "us": "/ˌwɜːrk aʊt wʌnz ˈnoʊtɪs/"
+  },
+  "def": "To continue working normally until the end of the notice period.",
+  "registers": {
+   "formal": {
+    "uk": "to work the notice period",
+    "us": "to work the notice period",
+    "ex": "The Employee shall be required [[to work the notice period]] unless the Company decides otherwise."
+   },
+   "everyday": {
+    "uk": "to work one's notice",
+    "us": "to work out one's notice",
+    "ex": "She's offered [[to work her notice]] in full so she can hand everything over properly.",
+    "ex_us": "She's offered [[to work out her notice]] in full so she can hand everything off properly."
+   },
+   "informal": {
+    "uk": "to walk out",
+    "us": "to walk out",
+    "ex": "He just [[walked out]] on Friday - no notice, no handover, nothing."
+   }
+  },
+  "collocations": [
+   "to serve one's notice",
+   "to be released from one's notice",
+   "a handover",
+   "to leave without notice"
+  ],
+  "note_fr": "« To execute one's notice » est un calque. UK « to work one's notice », US plutôt « to work out one's notice » ou « to work one's two weeks ». Passation : « handover » (UK), « handoff » ou « transition » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-083",
+  "level": 1,
+  "fr": "rompre / mettre fin au contrat",
+  "term": {
+   "uk": "to terminate a contract",
+   "us": "to terminate a contract"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmɪneɪt ə ˈkɒntrækt/",
+   "us": "/ˌtɜːrmɪneɪt ə ˈkɑːntrækt/"
+  },
+  "def": "To bring a contract to an end.",
+  "registers": {
+   "formal": {
+    "uk": "to terminate",
+    "us": "to terminate",
+    "ex": "Either party may [[terminate]] this contract by giving not less than three months' written notice."
+   },
+   "everyday": {
+    "uk": "to end",
+    "us": "to end",
+    "ex": "They [[ended]] his contract during probation."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "termination of employment",
+   "the termination date",
+   "to terminate with immediate effect",
+   "on termination"
+  ],
+  "note_fr": "« To terminate » ne veut pas dire « terminer une tâche » (« to finish », « to complete »). « To resign » n'est pas « résilier ». Aux États-Unis, « he was terminated » signifie « il a été licencié » ; au Royaume-Uni, « termination » reste un terme neutre couvrant toute fin de contrat. « To break a contract » veut dire le violer, pas le rompre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-084",
+  "level": 1,
+  "fr": "licencier",
+  "term": {
+   "uk": "to dismiss",
+   "us": "to terminate"
+  },
+  "ipa": {
+   "uk": "/dɪsˈmɪs/",
+   "us": "/ˈtɜːrmɪneɪt/"
+  },
+  "def": "To end someone's employment by decision of the employer.",
+  "registers": {
+   "formal": {
+    "uk": "to dismiss",
+    "us": "to terminate",
+    "ex": "The Company may [[dismiss]] the Employee without notice in the event of gross misconduct.",
+    "ex_us": "The Company may [[terminate]] the Employee without notice in the event of gross misconduct."
+   },
+   "everyday": {
+    "uk": "to let someone go",
+    "us": "to let someone go",
+    "ex": "We had [[to let him go]] after the third warning."
+   },
+   "informal": {
+    "uk": "to sack",
+    "us": "to fire",
+    "ex": "He got [[sacked]] for fiddling his expenses.",
+    "ex_us": "He got [[fired]] for padding his expenses."
+   }
+  },
+  "collocations": [
+   "to be dismissed for misconduct",
+   "unfair dismissal",
+   "to get the sack",
+   "to be let go"
+  ],
+  "note_fr": "« To dismiss » = licencier, jamais démissionner. « To license » = accorder une licence. « To let someone go » est l'euphémisme courant des deux côtés de l'Atlantique. Le licenciement économique est « redundancy » (UK) ou « layoff » (US) : « to make someone redundant » / « to lay someone off ». Aux États-Unis, le terme formel courant est « to terminate » ; « to discharge » se rencontre surtout dans les textes juridiques (« wrongful discharge »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-085",
+  "level": 2,
+  "fr": "rupture anticipée (d'un CDD)",
+  "term": {
+   "uk": "early termination",
+   "us": "early termination"
+  },
+  "ipa": {
+   "uk": "/ˌɜːli ˌtɜːmɪˈneɪʃ(ə)n/",
+   "us": "/ˌɜːrli ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "Ending a fixed-term contract before the date on which it was due to finish.",
+  "registers": {
+   "formal": {
+    "uk": "early termination",
+    "us": "early termination",
+    "ex": "[[Early termination]] of a fixed-term contract is permitted only in the cases provided for by law."
+   },
+   "everyday": {
+    "uk": "to end a contract early",
+    "us": "to end a contract early",
+    "ex": "We can't just [[end her contract early]] because the project's finished ahead of schedule."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to terminate early",
+   "before the end of the term",
+   "a break clause",
+   "to see out a contract"
+  ],
+  "note_fr": "« Anticipated » est un faux ami : « anticipated termination » signifierait « rupture prévue, attendue ». En France, le CDD ne peut être rompu avant son terme que dans des cas limités (accord des parties, faute grave, force majeure, embauche en CDI...) ; les contrats britanniques contiennent souvent, eux, une clause de préavis ou « break clause ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-086",
+  "level": 2,
+  "fr": "inexécution / violation du contrat",
+  "term": {
+   "uk": "breach of contract",
+   "us": "breach of contract"
+  },
+  "ipa": {
+   "uk": "/ˌbriːtʃ əv ˈkɒntrækt/",
+   "us": "/ˌbriːtʃ əv ˈkɑːntrækt/"
+  },
+  "def": "A failure by one party to do what the contract requires.",
+  "registers": {
+   "formal": {
+    "uk": "to be in breach of",
+    "us": "to be in breach of",
+    "ex": "An employee who discloses such information shall [[be in breach of]] this agreement."
+   },
+   "everyday": {
+    "uk": "to break one's contract",
+    "us": "to break one's contract",
+    "ex": "If she starts with a competitor next week, she'll [[be breaking her contract]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to commit a breach",
+   "a material breach",
+   "to sue for breach of contract",
+   "a breach of trust"
+  ],
+  "note_fr": "« Breach » /briːtʃ/ rime avec « teach ». « Violation » se dit plutôt d'une loi ou d'un règlement (surtout US). « A material breach » est un manquement grave ; au Royaume-Uni, le manquement de l'employeur justifiant le départ du salarié est un « repudiatory breach » (« constructive dismissal »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-087",
+  "level": 2,
+  "fr": "être lié(e) par",
+  "term": {
+   "uk": "to be bound by",
+   "us": "to be bound by"
+  },
+  "ipa": {
+   "uk": "/bi ˈbaʊnd baɪ/",
+   "us": "/bi ˈbaʊnd baɪ/"
+  },
+  "def": "To be legally obliged to respect a contract, clause or rule.",
+  "registers": {
+   "formal": {
+    "uk": "to be bound by",
+    "us": "to be bound by",
+    "ex": "The Employee shall continue [[to be bound by]] clauses 12 to 14 after the termination of this agreement."
+   },
+   "everyday": {
+    "uk": "to be tied to",
+    "us": "to be tied to",
+    "ex": "He's [[tied to]] a twelve-month non-compete, so he can't join them yet."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a binding agreement",
+   "legally binding",
+   "to bind the parties",
+   "non-binding"
+  ],
+  "note_fr": "« Bound » est le participe de « to bind » (bind, bound, bound) ; ne le confondez pas avec « bound to » + verbe (« he's bound to refuse » = il va forcément refuser) ni avec « bound for » (à destination de). L'adjectif est « binding » : « a legally binding contract ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-088",
+  "level": 2,
+  "fr": "opposable / dont on peut obtenir l'exécution en justice",
+  "term": {
+   "uk": "enforceable",
+   "us": "enforceable"
+  },
+  "ipa": {
+   "uk": "/ɪnˈfɔːsəb(ə)l/",
+   "us": "/ɪnˈfɔːrsəb(ə)l/"
+  },
+  "def": "Capable of being upheld and applied by a court.",
+  "registers": {
+   "formal": {
+    "uk": "enforceable",
+    "us": "enforceable",
+    "ex": "A non-compete covenant is [[enforceable]] only in so far as it protects a legitimate business interest."
+   },
+   "everyday": {
+    "uk": "to stand up in court",
+    "us": "to stand up in court",
+    "ex": "I doubt that clause would [[stand up in court]] - it's far too wide."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to enforce a clause",
+   "legally enforceable",
+   "to be unenforceable",
+   "to hold up in court"
+  ],
+  "note_fr": "« Opposable » n'existe pas en anglais juridique courant : dites « enforceable against someone » ou « binding on someone ». « To enforce » = faire exécuter, faire respecter ; ne traduisez pas par « to reinforce » (renforcer).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-089",
+  "level": 2,
+  "fr": "nul et non avenu",
+  "term": {
+   "uk": "null and void",
+   "us": "null and void"
+  },
+  "ipa": {
+   "uk": "/ˌnʌl ən ˈvɔɪd/",
+   "us": "/ˌnʌl ən ˈvɔɪd/"
+  },
+  "def": "Having no legal effect at all, as if it had never existed.",
+  "registers": {
+   "formal": {
+    "uk": "null and void",
+    "us": "null and void",
+    "ex": "Any clause purporting to exclude this right shall be [[null and void]]."
+   },
+   "everyday": {
+    "uk": "invalid",
+    "us": "invalid",
+    "ex": "A probation clause that isn't in the signed contract is simply [[invalid]] in France."
+   },
+   "informal": {
+    "uk": "not worth the paper it's written on",
+    "us": "not worth the paper it's written on",
+    "ex": "Without any compensation, that non-compete is [[not worth the paper it's written on]]."
+   }
+  },
+  "collocations": [
+   "to declare a clause void",
+   "to render a contract void",
+   "void and unenforceable",
+   "to be of no effect"
+  ],
+  "note_fr": "« Null » ne s'emploie presque jamais seul dans ce sens : dites « void », « invalid » ou « null and void ». Distinguez « void » (nul dès l'origine) et « voidable » (annulable à la demande d'une partie). « Nullity » est rare ; « null » n'a rien à voir avec « nul » au sens de « mauvais ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-090",
+  "level": 2,
+  "fr": "renoncer à (un droit)",
+  "term": {
+   "uk": "to waive",
+   "us": "to waive"
+  },
+  "ipa": {
+   "uk": "/weɪv/",
+   "us": "/weɪv/"
+  },
+  "def": "To give up a right or a claim voluntarily, or to decide not to enforce it.",
+  "registers": {
+   "formal": {
+    "uk": "to waive",
+    "us": "to waive",
+    "ex": "The Company may [[waive]] the non-competition covenant by written notice given within fifteen days of termination."
+   },
+   "everyday": {
+    "uk": "to give up",
+    "us": "to give up",
+    "ex": "She's happy [[to give up]] her notice period if it means she can start sooner."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to waive a right",
+   "to waive the notice period",
+   "a waiver",
+   "to sign a waiver"
+  ],
+  "note_fr": "« To waive » /weɪv/ se prononce comme « to wave » (saluer) : attention à l'orthographe. « To renounce » est beaucoup plus solennel (un titre, une nationalité). Le nom est « waiver » ; « to waive a fee » = ne pas facturer des frais.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-091",
+  "level": 1,
+  "fr": "avoir droit à",
+  "term": {
+   "uk": "to be entitled to",
+   "us": "to be entitled to"
+  },
+  "ipa": {
+   "uk": "/bi ɪnˈtaɪt(ə)ld tə/",
+   "us": "/bi ɪnˈtaɪt(ə)ld tə/"
+  },
+  "def": "To have a legal or contractual right to receive or do something.",
+  "registers": {
+   "formal": {
+    "uk": "to be entitled to",
+    "us": "to be entitled to",
+    "ex": "The Employee shall [[be entitled to]] twenty-five days' paid leave per year."
+   },
+   "everyday": {
+    "uk": "to get",
+    "us": "to get",
+    "ex": "You [[get]] twenty-five days' holiday a year, plus bank holidays.",
+    "ex_us": "You [[get]] twenty-five days of vacation a year, plus public holidays."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "entitlement to leave",
+   "to be eligible for",
+   "to qualify for",
+   "holiday entitlement"
+  ],
+  "note_fr": "« To have the right to » est correct mais moins idiomatique que « to be entitled to ». Ne confondez pas « entitled » (qui a droit à) et « eligible » (qui remplit les conditions pour y prétendre). Autre sens : « a report entitled... » (intitulé) ; et « he's so entitled » est péjoratif (il croit que tout lui est dû).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-092",
+  "level": 2,
+  "fr": "être soumis(e) à / sous réserve de",
+  "term": {
+   "uk": "to be subject to",
+   "us": "to be subject to"
+  },
+  "ipa": {
+   "uk": "/bi ˈsʌbdʒɪkt tə/",
+   "us": "/bi ˈsʌbdʒɪkt tə/"
+  },
+  "def": "To be governed by a rule, or to depend on a condition being met.",
+  "registers": {
+   "formal": {
+    "uk": "subject to",
+    "us": "subject to",
+    "ex": "[[Subject to]] clause 6, the Employee's salary shall be reviewed annually."
+   },
+   "everyday": {
+    "uk": "to depend on",
+    "us": "to depend on",
+    "ex": "The bonus [[depends on]] you still being with us at the end of the year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "subject to approval",
+   "subject to contract",
+   "to be subject to French law",
+   "subject to change"
+  ],
+  "note_fr": "Deux sens à distinguer : « to be subject to French law » (être soumis à) et « subject to approval » (sous réserve de). L'adjectif s'accentue sur la première syllabe /ˈsʌbdʒɪkt/, le verbe « to subject » sur la seconde /səbˈdʒekt/. « Submitted to » est un calque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-093",
+  "level": 3,
+  "fr": "ci-après (dénommé)",
+  "term": {
+   "uk": "hereinafter",
+   "us": "hereinafter"
+  },
+  "ipa": {
+   "uk": "/ˌhɪərɪnˈɑːftə/",
+   "us": "/ˌhɪrɪnˈæftər/"
+  },
+  "def": "Later in this document; used to introduce the short name by which a party or thing will be called.",
+  "registers": {
+   "formal": {
+    "uk": "hereinafter referred to as",
+    "us": "hereinafter referred to as",
+    "ex": "Clarté Conseil SAS, [[hereinafter referred to as]] 'the Company', whose registered office is in Nantes."
+   },
+   "everyday": {
+    "uk": "which we'll call",
+    "us": "which we'll call",
+    "ex": "The French entity, [[which we'll call]] the Company from now on, is the employer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "hereinafter 'the Employee'",
+   "referred to below as",
+   "as defined below",
+   "the above-mentioned"
+  ],
+  "note_fr": "Mot de pure rédaction contractuelle. Le style moderne (« plain English ») le remplace souvent par une simple parenthèse : Clarté Conseil SAS (« the Company »). À reconnaître, pas à dire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-094",
+  "level": 3,
+  "fr": "par la présente",
+  "term": {
+   "uk": "hereby",
+   "us": "hereby"
+  },
+  "ipa": {
+   "uk": "/ˌhɪəˈbaɪ/",
+   "us": "/ˌhɪrˈbaɪ/"
+  },
+  "def": "By means of this document or this statement; used to show that the words themselves perform a legal act.",
+  "registers": {
+   "formal": {
+    "uk": "hereby",
+    "us": "hereby",
+    "ex": "The Employee [[hereby]] acknowledges receipt of a copy of the internal rules."
+   },
+   "everyday": {
+    "uk": "to confirm",
+    "us": "to confirm",
+    "ex": "I [[confirm]] that I've received a copy of the internal rules."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "I hereby confirm",
+   "the parties hereby agree",
+   "to hereby acknowledge receipt",
+   "hereby certify"
+  ],
+  "note_fr": "« Hereby » se place entre le sujet et le verbe et s'accentue sur la seconde syllabe. Réservé aux contrats et aux attestations : dans un e-mail, « I hereby inform you » est pompeux ; écrivez « I'm writing to let you know » ou « I confirm ». « By the present » est un calque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-095",
+  "level": 3,
+  "fr": "de celui-ci / des présentes",
+  "term": {
+   "uk": "thereof",
+   "us": "thereof"
+  },
+  "ipa": {
+   "uk": "/ˌðeərˈɒv/",
+   "us": "/ˌðerˈʌv/"
+  },
+  "def": "Of the thing just mentioned; a drafting word used to avoid repeating a noun.",
+  "registers": {
+   "formal": {
+    "uk": "thereof",
+    "us": "thereof",
+    "ex": "The Employee shall return the laptop and any copies of the files stored on it, or any part [[thereof]], on the last day of employment."
+   },
+   "everyday": {
+    "uk": "of it",
+    "us": "of it",
+    "ex": "You need to give back the laptop and the files, or whatever part [[of it]] you still have."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "or any part thereof",
+   "the terms hereof",
+   "as provided herein",
+   "the schedule hereto"
+  ],
+  "note_fr": "Clé de lecture : « here- » renvoie au présent document (« hereof » = des présentes, « herein » = dans le présent contrat, « hereto » = aux présentes), « there- » à la chose qui vient d'être citée (« thereof », « therein », « thereafter »). À comprendre plutôt qu'à employer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-096",
+  "level": 1,
+  "fr": "signer",
+  "term": {
+   "uk": "to sign",
+   "us": "to sign"
+  },
+  "ipa": {
+   "uk": "/saɪn/",
+   "us": "/saɪn/"
+  },
+  "def": "To write your name on a document to show that you agree to it.",
+  "registers": {
+   "formal": {
+    "uk": "to execute",
+    "us": "to execute",
+    "ex": "This agreement has been [[executed]] by the parties on the date stated at the beginning of it."
+   },
+   "everyday": {
+    "uk": "to sign",
+    "us": "to sign",
+    "ex": "Could you [[sign]] both copies and send one back to me?"
+   },
+   "informal": {
+    "uk": "to sign on the dotted line",
+    "us": "to sign on the dotted line",
+    "ex": "Don't hand in your notice until you've [[signed on the dotted line]]."
+   }
+  },
+  "collocations": [
+   "to sign a contract",
+   "to countersign",
+   "an electronic signature",
+   "the signatories"
+  ],
+  "note_fr": "« To execute a contract » signifie le signer en bonne et due forme, pas l'exécuter (« to perform a contract »). Le « g » de « sign » est muet /saɪn/ mais se prononce dans « signature » /ˈsɪɡnətʃə/ et « signatory ». On signe « a contract », sans préposition.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-097",
+  "level": 2,
+  "fr": "valider / donner son feu vert",
+  "term": {
+   "uk": "to sign off on",
+   "us": "to sign off on"
+  },
+  "ipa": {
+   "uk": "/ˌsaɪn ˈɒf ɒn/",
+   "us": "/ˌsaɪn ˈɔːf ɑːn/"
+  },
+  "def": "To give formal approval to something so that it can go ahead.",
+  "registers": {
+   "formal": {
+    "uk": "to approve",
+    "us": "to approve",
+    "ex": "Any amendment to the remuneration package must be [[approved]] by the Remuneration Committee.",
+    "ex_us": "Any amendment to the compensation package must be [[approved]] by the Compensation Committee."
+   },
+   "everyday": {
+    "uk": "to sign off on",
+    "us": "to sign off on",
+    "ex": "Legal still has [[to sign off on]] the non-compete before we send the contract out."
+   },
+   "informal": {
+    "uk": "to OK",
+    "us": "to OK",
+    "ex": "Has the CFO [[OK'd]] the package yet?"
+   }
+  },
+  "collocations": [
+   "to get sign-off",
+   "to sign something off",
+   "subject to sign-off",
+   "to give the go-ahead"
+  ],
+  "note_fr": "« To validate » est un calque dans ce sens : dites « to approve », « to sign off on » ou « to clear ». UK : aussi « to sign something off » sans « on ». Ne confondez pas avec « to sign off » seul (terminer un message, ou UK : être mis en arrêt maladie par un médecin - « he's been signed off »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-098",
+  "level": 2,
+  "fr": "parapher (chaque page)",
+  "term": {
+   "uk": "to initial",
+   "us": "to initial"
+  },
+  "ipa": {
+   "uk": "/ɪˈnɪʃ(ə)l/",
+   "us": "/ɪˈnɪʃ(ə)l/"
+  },
+  "def": "To write the first letters of your name on a page or next to a change to show that you have seen and accepted it.",
+  "registers": {
+   "formal": {
+    "uk": "to initial",
+    "us": "to initial",
+    "ex": "Each page of this contract shall be [[initialled]] by both parties.",
+    "ex_us": "Each page of this contract shall be [[initialed]] by both parties."
+   },
+   "everyday": {
+    "uk": "to put one's initials",
+    "us": "to put one's initials",
+    "ex": "Just [[put your initials]] at the bottom of each page and sign the last one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to initial each page",
+   "to initial a change",
+   "to sign and date",
+   "initials"
+  ],
+  "note_fr": "Orthographe : UK « initialled », US « initialed ». « To paraph » n'existe pas. La mention manuscrite « lu et approuvé » n'a pas d'équivalent : inutile de la traduire dans un contrat de droit anglais ou américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-099",
+  "level": 3,
+  "fr": "exemplaire (original signé d'un contrat)",
+  "term": {
+   "uk": "counterpart",
+   "us": "counterpart"
+  },
+  "ipa": {
+   "uk": "/ˈkaʊntəpɑːt/",
+   "us": "/ˈkaʊntərpɑːrt/"
+  },
+  "def": "One of several identical original copies of a contract, each signed by one or more of the parties.",
+  "registers": {
+   "formal": {
+    "uk": "to be executed in counterparts",
+    "us": "to be executed in counterparts",
+    "ex": "This agreement may [[be executed in counterparts]], each of which shall be deemed an original."
+   },
+   "everyday": {
+    "uk": "signed copy",
+    "us": "signed copy",
+    "ex": "Keep one [[signed copy]] for yourself and send the other back to HR."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "in two counterparts",
+   "each party's counterpart",
+   "in duplicate",
+   "an original copy"
+  ],
+  "note_fr": "« Exemplaire » ne se traduit pas par « exemplary » (exemplaire au sens moral) ni par « example ». « En double exemplaire » : « in duplicate » ou « in two original copies ». Autre sens courant : « my counterpart in London » = mon homologue.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ct-100",
+  "level": 2,
+  "fr": "date d'effet / date de prise d'effet",
+  "term": {
+   "uk": "effective date",
+   "us": "effective date"
+  },
+  "ipa": {
+   "uk": "/ɪˈfektɪv ˌdeɪt/",
+   "us": "/ɪˈfektɪv ˌdeɪt/"
+  },
+  "def": "The date from which a contract or a change to it starts to apply.",
+  "registers": {
+   "formal": {
+    "uk": "effective date",
+    "us": "effective date",
+    "ex": "This agreement shall commence on the [[Effective Date]] and continue until terminated in accordance with clause 15."
+   },
+   "everyday": {
+    "uk": "as of",
+    "us": "as of",
+    "ex": "Her new title applies [[as of]] 1 March.",
+    "ex_us": "Her new title applies [[as of]] March 1."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "with effect from",
+   "effective immediately",
+   "the effective date of termination",
+   "to take effect on"
+  ],
+  "note_fr": "« Effective » ne veut pas dire « effectif » au sens de « réel » (« actual ») ni au sens de « effectifs » (« headcount », « workforce ») : il signifie « qui prend effet » ou « efficace ». Dates : UK « 1 March », US « March 1 ». « Actually » = en fait, « currently » = actuellement.",
+  "french_concept": false,
+  "explain": null
+ }
+]

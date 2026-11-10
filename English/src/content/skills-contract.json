@@ -1,0 +1,1060 @@
+{
+  "reading": [
+    {
+      "id": "rd-ct-1",
+      "title": "Probationary Period and Notice",
+      "kind": "contract clause",
+      "level": 3,
+      "paragraphs": [
+        "4. PROBATIONARY PERIOD",
+        "4.1 The Employee's employment shall be subject to a probationary period of [three] months commencing on the Start Date (the 'Probationary Period'), during which each party may assess whether the employment relationship meets its expectations.",
+        "4.2 The Probationary Period may be renewed once, for a further period not exceeding [three] months, provided that such renewal is permitted by the applicable collective bargaining agreement and that the Employee has given his or her express written consent prior to the expiry of the initial period.",
+        "4.3 During the Probationary Period, either party may terminate this Agreement without having to state its reasons and without any severance payment being due, subject to the minimum notice prescribed by law, the length of which depends on the time the Employee has actually spent with the Company.",
+        "4.4 Any period during which the Employee's work is suspended, in particular by reason of sickness or paid leave, shall extend the Probationary Period by an equivalent duration.",
+        "5. NOTICE",
+        "5.1 Upon satisfactory completion of the Probationary Period, the Employee's appointment shall be confirmed and this Agreement may be terminated by either party in accordance with the French Labour Code and the applicable collective bargaining agreement.",
+        "5.2 Save in the event of gross misconduct, the party terminating this Agreement shall give the other party [three] months' written notice.",
+        "5.3 The Company may, at its sole discretion, release the Employee from working all or part of the notice period, in which case the Employee shall receive a payment in lieu of notice equal to the remuneration he or she would have earned by working until the end of that period.",
+        "5.4 Nothing in this clause shall deprive the Employee of any more favourable entitlement arising under the applicable collective bargaining agreement."
+      ],
+      "glossary": [
+        {"term": "probationary period", "plain": "a trial period at the start of a job, during which either side can end the contract easily", "fr": "période d'essai"},
+        {"term": "collective bargaining agreement", "plain": "a written agreement on pay and conditions negotiated between employers and trade unions", "fr": "convention collective"},
+        {"term": "express written consent", "plain": "agreement that is clearly stated in writing, not just assumed", "fr": "accord exprès et écrit"},
+        {"term": "severance payment", "plain": "money paid to an employee because the contract is being ended", "fr": "indemnité de rupture / de licenciement"},
+        {"term": "gross misconduct", "plain": "behaviour so serious that the employee can be dismissed without notice", "fr": "faute grave"},
+        {"term": "notice period", "plain": "the time between announcing the end of the contract and the last day of work", "fr": "préavis"},
+        {"term": "payment in lieu of notice", "plain": "money paid instead of having the employee work the notice period", "fr": "indemnité compensatrice de préavis"}
+      ],
+      "legalese": [
+        {"phrase": "shall be subject to", "plain": "will be governed by / will depend on"},
+        {"phrase": "provided that", "plain": "on condition that; only if"},
+        {"phrase": "Save in the event of", "plain": "except in the case of"},
+        {"phrase": "at its sole discretion", "plain": "if it alone decides to; it does not need anyone's agreement"},
+        {"phrase": "Nothing in this clause shall deprive the Employee of", "plain": "this clause does not take away the employee's right to"}
+      ],
+      "questions": [
+        {
+          "q": "Under clause 4.2, what is needed for the probationary period to be renewed?",
+          "options": [
+            "A decision by the Company, notified in writing",
+            "The collective agreement must allow it and the Employee must agree in writing beforehand",
+            "The Employee's verbal agreement at any time",
+            "Nothing: renewal is automatic unless the Employee objects"
+          ],
+          "answer": 1,
+          "explain_fr": "'Provided that' introduit deux conditions cumulatives : la convention collective doit le permettre et le salarié doit donner son accord exprès écrit avant l'expiration de la période initiale."
+        },
+        {
+          "q": "What does clause 4.3 say about ending the contract during probation?",
+          "options": [
+            "Either party may end it without giving reasons, but must respect a minimum notice",
+            "Only the Company may end it, and it must explain why",
+            "It can be ended immediately, with no notice of any kind",
+            "A severance payment is due if the Company ends it"
+          ],
+          "answer": 0,
+          "explain_fr": "'Either party' = l'une ou l'autre des parties. La rupture n'a pas à être motivée et n'ouvre pas droit à indemnité, mais reste 'subject to the minimum notice prescribed by law' (le délai de prévenance)."
+        },
+        {
+          "q": "What happens if the Employee is off sick for two weeks during the probationary period?",
+          "options": [
+            "The probationary period ends early",
+            "Nothing changes",
+            "The Company may terminate without notice",
+            "The probationary period is extended by two weeks"
+          ],
+          "answer": 3,
+          "explain_fr": "Clause 4.4 : toute suspension du travail prolonge la période d'essai 'by an equivalent duration', c'est-à-dire d'une durée égale à celle de l'absence."
+        },
+        {
+          "q": "In clause 5.3, what does 'payment in lieu of notice' mean?",
+          "options": [
+            "A bonus for completing the notice period",
+            "Compensation for unfair dismissal",
+            "Pay received instead of working the notice period",
+            "A deduction made when the Employee leaves early"
+          ],
+          "answer": 2,
+          "explain_fr": "'In lieu of' signifie 'à la place de'. Le salarié dispensé de préavis perçoit la rémunération qu'il aurait gagnée : c'est l'indemnité compensatrice de préavis."
+        }
+      ]
+    },
+    {
+      "id": "rd-ct-2",
+      "title": "Staff Handbook: Confidentiality and Outside Activities",
+      "kind": "policy extract",
+      "level": 2,
+      "paragraphs": [
+        "7. Confidentiality",
+        "In the course of your work you will have access to information that is not in the public domain: client lists, pricing, salary data, business plans and the personal details of colleagues and candidates. You must not disclose such information to anyone outside the Company, or use it for any purpose other than the proper performance of your duties, unless you have been authorised to do so or are required to by law.",
+        "This obligation applies throughout your employment and continues to apply after you leave, for as long as the information remains confidential. On your last working day you must return all documents, devices and files belonging to the Company, including any copies held on personal equipment.",
+        "Nothing in this policy prevents you from reporting wrongdoing through the Company's whistleblowing procedure or to the competent authorities, nor does it restrict the freedom of expression of employee representatives in the exercise of their mandate.",
+        "8. Outside activities",
+        "You owe the Company a duty of loyalty for the duration of your contract. In practice, this means that you may not work for a competitor, or set up a competing business, while you are still employed by us, whether or not your contract contains an exclusivity clause.",
+        "Other outside activities, paid or unpaid, are generally permitted, provided that they do not give rise to a conflict of interest, do not affect your performance and do not take you beyond the statutory limits on working time. If you are in any doubt, please speak to your line manager or to HR before taking on the activity; it is far easier to resolve a question in advance than after the event.",
+        "A serious or deliberate breach of this policy may result in disciplinary action, up to and including dismissal."
+      ],
+      "glossary": [
+        {"term": "in the public domain", "plain": "known or available to everybody", "fr": "public, accessible à tous"},
+        {"term": "disclose", "plain": "to reveal information to someone", "fr": "divulguer"},
+        {"term": "whistleblowing procedure", "plain": "the official way for staff to report illegal or unethical behaviour", "fr": "procédure d'alerte (lanceurs d'alerte)"},
+        {"term": "duty of loyalty", "plain": "the obligation not to act against your employer's interests while you work for them", "fr": "obligation de loyauté"},
+        {"term": "exclusivity clause", "plain": "a term in the contract that forbids the employee from having any other job", "fr": "clause d'exclusivité"},
+        {"term": "conflict of interest", "plain": "a situation where your personal interests could influence your decisions at work", "fr": "conflit d'intérêts"},
+        {"term": "line manager", "plain": "the person you report to directly", "fr": "supérieur hiérarchique direct (N+1)"},
+        {"term": "disciplinary action", "plain": "a formal measure taken by the employer in response to misconduct", "fr": "sanction disciplinaire"}
+      ],
+      "legalese": [
+        {"phrase": "for any purpose other than", "plain": "for any reason except"},
+        {"phrase": "Nothing in this policy prevents you from", "plain": "this policy does not stop you from"},
+        {"phrase": "give rise to", "plain": "cause; create"},
+        {"phrase": "up to and including dismissal", "plain": "any sanction, the most serious possible being dismissal"}
+      ],
+      "questions": [
+        {
+          "q": "How long does the duty of confidentiality last?",
+          "options": [
+            "Until the last working day",
+            "For a fixed period after the employee leaves",
+            "Only during working hours",
+            "During employment and afterwards, as long as the information is still confidential"
+          ],
+          "answer": 3,
+          "explain_fr": "Le texte précise : 'continues to apply after you leave, for as long as the information remains confidential'. Aucune durée fixe n'est indiquée."
+        },
+        {
+          "q": "Which of the following does the policy expressly protect?",
+          "options": [
+            "Reporting wrongdoing through the whistleblowing procedure",
+            "Sharing salary data with a recruiter",
+            "Keeping copies of files on a personal laptop",
+            "Talking to the press about business plans"
+          ],
+          "answer": 0,
+          "explain_fr": "'Nothing in this policy prevents you from reporting wrongdoing' : la confidentialité ne peut pas faire obstacle à un signalement ni à la liberté d'expression des représentants du personnel."
+        },
+        {
+          "q": "An employee whose contract has no exclusivity clause wants to work for a competitor at weekends. According to the policy, this is:",
+          "options": [
+            "Allowed, because there is no exclusivity clause",
+            "Allowed if the line manager is informed afterwards",
+            "Not allowed, because of the duty of loyalty",
+            "Allowed provided it is unpaid"
+          ],
+          "answer": 2,
+          "explain_fr": "'Whether or not your contract contains an exclusivity clause' : l'obligation de loyauté s'applique dans tous les cas pendant le contrat et interdit de travailler pour un concurrent."
+        },
+        {
+          "q": "What should an employee do if unsure whether an outside activity is acceptable?",
+          "options": [
+            "Start the activity and mention it at the next appraisal",
+            "Raise it with the line manager or HR before starting",
+            "Ask the employee representatives for permission",
+            "Wait until HR raises the question"
+          ],
+          "answer": 1,
+          "explain_fr": "'Before taking on the activity' : il faut en parler en amont. 'To take on' = accepter, entreprendre (une activité, une mission)."
+        }
+      ]
+    },
+    {
+      "id": "rd-ct-3",
+      "title": "Fixed-term contracts and non-competes in our Lyon office",
+      "kind": "long email",
+      "level": 2,
+      "paragraphs": [
+        "Dear Claire,",
+        "I hope you're well, and thank you again for your help with the handbook last month. I'm writing because two issues have come up in our Lyon office and, to be frank, I'm rather out of my depth with the French rules.",
+        "The first concerns our fixed-term staff. We currently have four people in customer support on fixed-term contracts, all of which run out at the end of the quarter. Their manager would like to keep them on, and my instinct was simply to roll the contracts over for another six months, as we might well do in the UK. However, a colleague has warned me that this could backfire in France. Is it true that a fixed-term contract can only be used for a temporary need, and that a tribunal could treat these employees as permanent if we get it wrong? If so, I'd rather convert them now and do it properly. Could you let me know what a conversion involves in practice: is a simple amendment enough, or do we need to issue new contracts?",
+        "The second point is non-compete clauses. Our standard UK contract includes a six-month restriction for sales staff, and head office is keen to roll it out across the group. I gather that in France the employer has to pay for a non-compete, which came as something of a surprise. Would you mind setting out, in broad terms, what makes such a clause valid, and whether we could waive it if an employee leaves and we decide we no longer need the protection?",
+        "I appreciate this is a lot to ask in one email. There's no great rush, but it would be helpful to have your initial thoughts before our board meeting on the 14th, if at all possible.",
+        "Many thanks in advance, and do shout if you need anything further from me.",
+        "Kind regards,",
+        "Harriet"
+      ],
+      "glossary": [
+        {"term": "out of my depth", "plain": "in a situation that is too difficult for me because I lack the knowledge", "fr": "dépassé(e), pas dans mon élément"},
+        {"term": "run out", "plain": "to come to an end; to expire", "fr": "arriver à échéance, expirer"},
+        {"term": "keep them on", "plain": "to continue to employ them", "fr": "les garder (dans l'entreprise)"},
+        {"term": "roll the contracts over", "plain": "to renew the contracts on the same terms", "fr": "reconduire les contrats"},
+        {"term": "backfire", "plain": "to have the opposite effect to the one intended", "fr": "se retourner contre nous"},
+        {"term": "roll it out", "plain": "to introduce it progressively everywhere", "fr": "le déployer, le généraliser"},
+        {"term": "I gather", "plain": "I understand, from what I have heard or read", "fr": "je crois comprendre que"},
+        {"term": "waive", "plain": "to choose not to use a right or enforce a rule", "fr": "renoncer à (un droit, une clause)"}
+      ],
+      "legalese": [],
+      "questions": [
+        {
+          "q": "What was Harriet's first idea for the four fixed-term employees?",
+          "options": [
+            "To convert them to permanent contracts",
+            "To let the contracts end",
+            "To renew the contracts for a further six months",
+            "To move them to the UK"
+          ],
+          "answer": 2,
+          "explain_fr": "'My instinct was simply to roll the contracts over for another six months' : 'to roll over' signifie reconduire à l'identique."
+        },
+        {
+          "q": "What risk has a colleague warned her about?",
+          "options": [
+            "A tribunal could treat the employees as permanent staff",
+            "The employees might resign",
+            "Head office might refuse the budget",
+            "The contracts could not be translated"
+          ],
+          "answer": 0,
+          "explain_fr": "Elle évoque la requalification : 'a tribunal could treat these employees as permanent if we get it wrong'. En français, on parlerait de requalification du CDD en CDI."
+        },
+        {
+          "q": "What surprised Harriet about French non-compete clauses?",
+          "options": [
+            "They are forbidden for sales staff",
+            "They cannot last six months",
+            "They must be approved by head office",
+            "The employer has to pay for them"
+          ],
+          "answer": 3,
+          "explain_fr": "'Which came as something of a surprise' est un bel exemple d'euphémisme britannique : en réalité, elle a été très surprise par l'exigence d'une contrepartie financière."
+        },
+        {
+          "q": "How urgent is her request?",
+          "options": [
+            "She needs a full report by tomorrow",
+            "Not very, but she would like first thoughts before the board meeting",
+            "There is no deadline at all",
+            "She needs the answer before the end of the quarter"
+          ],
+          "answer": 1,
+          "explain_fr": "'There's no great rush, but it would be helpful ... if at all possible' : une demande polie mais réelle. 'Initial thoughts' = un premier avis, pas une analyse complète."
+        }
+      ]
+    },
+    {
+      "id": "rd-ct-4",
+      "title": "Changing an employee's terms in France: contract or working conditions?",
+      "kind": "client memo",
+      "level": 3,
+      "paragraphs": [
+        "You asked whether the Paris office can move three account managers onto a new schedule and a revised bonus plan without their consent. The short answer is: the schedule, probably yes; the bonus plan, no.",
+        "French law draws a firm line between two types of change. The first is a variation of the employment contract itself. It covers the essential terms of the relationship: pay, job classification and duties, the length of working time and, in most cases, a move to a place of work outside the same geographical area. A change of this kind requires the employee's express agreement. As a rule, silence is not consent, and continuing to work under the new terms does not amount to acceptance. If the employee refuses, the refusal is not misconduct; the employer must either abandon the proposal or, where it has a valid reason for the change, begin a dismissal procedure on that underlying ground.",
+        "The second is a mere change in working conditions. This falls within the employer's managerial authority and may be imposed unilaterally. A different timetable within the same working hours, new tasks consistent with the employee's qualifications or a move to another site nearby would typically fall into this category. Here, an unjustified refusal may itself be treated as misconduct.",
+        "Two words of caution. First, the label the parties use is not decisive: a 'new schedule' that moves someone from day work to night work is a variation of the contract. Second, employee representatives enjoy special protection, and no change of either kind may be imposed on them without their agreement.",
+        "I would therefore recommend proposing the bonus plan by way of a written amendment, signed by each employee, and I would be happy to prepare a draft."
+      ],
+      "glossary": [
+        {"term": "variation", "plain": "a change to the terms of a contract", "fr": "modification (du contrat de travail)"},
+        {"term": "express agreement", "plain": "agreement that is clearly and explicitly given", "fr": "accord exprès"},
+        {"term": "misconduct", "plain": "unacceptable behaviour by an employee that may justify a sanction", "fr": "faute"},
+        {"term": "working conditions", "plain": "the practical arrangements in which the job is done", "fr": "conditions de travail"},
+        {"term": "managerial authority", "plain": "the employer's power to organise and direct the work", "fr": "pouvoir de direction"},
+        {"term": "unilaterally", "plain": "by one side alone, without the other's agreement", "fr": "unilatéralement"},
+        {"term": "employee representatives", "plain": "employees elected or appointed to represent staff", "fr": "représentants du personnel"},
+        {"term": "amendment", "plain": "a written document changing the terms of a contract", "fr": "avenant"}
+      ],
+      "legalese": [
+        {"phrase": "does not amount to", "plain": "is not the same as; cannot be treated as"},
+        {"phrase": "falls within", "plain": "is part of; is covered by"},
+        {"phrase": "on that underlying ground", "plain": "for the reason that lay behind the proposed change"},
+        {"phrase": "by way of", "plain": "by means of; in the form of"}
+      ],
+      "questions": [
+        {
+          "q": "According to the memo, which change can the employer normally impose without the employee's agreement?",
+          "options": [
+            "A new bonus structure",
+            "A different timetable within the same working hours",
+            "A reduction in working time",
+            "A move from day work to night work"
+          ],
+          "answer": 1,
+          "explain_fr": "C'est un simple changement des conditions de travail, qui relève du pouvoir de direction ('managerial authority'). Les trois autres touchent à un élément essentiel du contrat."
+        },
+        {
+          "q": "An employee keeps working after being told that his pay structure has changed, without saying anything. As a rule, this means:",
+          "options": [
+            "He has accepted the change",
+            "He has committed misconduct",
+            "He has resigned",
+            "He has not accepted the change"
+          ],
+          "answer": 3,
+          "explain_fr": "'Silence is not consent, and continuing to work under the new terms does not amount to acceptance' : la poursuite du travail ne vaut pas acceptation. 'As a rule' signale qu'il existe des exceptions."
+        },
+        {
+          "q": "If an employee refuses a variation of the contract, the employer may:",
+          "options": [
+            "Drop the proposal, or start a dismissal procedure based on the reason for the change",
+            "Dismiss the employee for refusing",
+            "Impose the change after a waiting period",
+            "Reduce the employee's pay"
+          ],
+          "answer": 0,
+          "explain_fr": "Le refus n'est pas fautif. L'employeur renonce, ou licencie pour le motif à l'origine de la proposition ('on that underlying ground'), jamais pour le refus lui-même."
+        },
+        {
+          "q": "What does the author mean by 'the label the parties use is not decisive'?",
+          "options": [
+            "The contract must be translated into French",
+            "The parties are free to classify a change as they wish",
+            "What matters is the real nature of the change, not what it is called",
+            "Labels must be approved by employee representatives"
+          ],
+          "answer": 2,
+          "explain_fr": "'Not decisive' = non déterminant. Le juge s'attache à la réalité du changement et non à sa qualification par les parties."
+        }
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "id": "wr-ct-1",
+      "title": "Confirming a job offer by email",
+      "stage": 1,
+      "kind": "email",
+      "brief": "You have just offered a candidate, Ms Patel, the position of HR Business Partner by phone. Write the email confirming the offer: type of contract, probationary period, start date, reporting line, attached draft contract and next step.",
+      "brief_fr": "Vous venez de proposer par téléphone le poste de HR Business Partner à une candidate, Mme Patel. Rédigez l'e-mail de confirmation : type de contrat, période d'essai, date d'entrée, rattachement hiérarchique, projet de contrat joint et prochaine étape.",
+      "gaps": [
+        {"text": "___ our conversation yesterday, I am delighted to confirm our offer of the position of HR Business Partner.", "answer": "Further to", "accept": ["Following"], "explain_fr": "'Further to' est la formule écrite classique pour faire suite à un échange. Évitez le calque 'Following to' ou 'As a follow of'."},
+        {"text": "The position is offered on a permanent contract, ___ a probationary period of [three] months.", "answer": "subject to", "accept": [], "explain_fr": "'Subject to' = sous réserve de, assorti de. C'est la préposition juridique naturelle pour introduire une condition."},
+        {"text": "You would ___ our Head of People, James Whitaker.", "answer": "report to", "accept": ["be reporting to"], "explain_fr": "'To report to someone' = être rattaché(e) à quelqu'un. On ne dit pas 'depend on' ni 'be attached to'."},
+        {"text": "Please find attached the draft contract, which ___ your salary and benefits in full.", "answer": "sets out", "accept": ["lays out", "details"], "explain_fr": "'To set out' = exposer, détailler (dans un document). Verbe à particule très fréquent à l'écrit professionnel."},
+        {"text": "I would be ___ if you could return a signed copy by the end of next week.", "answer": "grateful", "accept": ["most grateful", "very grateful"], "explain_fr": "'I would be grateful if you could' : la demande polie de référence à l'écrit. 'Thankful' ne s'emploie pas dans ce contexte."},
+        {"text": "___ you have any questions in the meantime, please do not hesitate to contact me.", "answer": "Should", "accept": ["If"], "explain_fr": "L'inversion 'Should you have' remplace 'If you have' dans un registre soutenu. Pas de 'if' ni de 'would' dans cette tournure."}
+      ],
+      "outline": [],
+      "model": "Subject: Your offer of employment - HR Business Partner\n\nDear Ms Patel,\n\nFurther to our conversation yesterday, I am delighted to confirm our offer of the position of HR Business Partner, based in our Paris office.\n\nThe position is offered on a permanent contract, subject to a probationary period of [three] months. Your start date would be Monday 2 March, and you would report to our Head of People, James Whitaker.\n\nPlease find attached the draft contract, which sets out your salary and benefits in full. I would be grateful if you could return a signed copy by the end of next week.\n\nShould you have any questions in the meantime, please do not hesitate to contact me.\n\nWe very much look forward to welcoming you to the team.\n\nYours sincerely,\nClaire Morel",
+      "model_us": "Subject: Your offer of employment - HR Business Partner\n\nDear Ms. Patel,\n\nFollowing our conversation yesterday, I am delighted to confirm our offer of the position of HR Business Partner, based in our Paris office.\n\nThe position is offered on a permanent contract, subject to a probationary period of [three] months. Your start date would be Monday, March 2, and you would report to our Head of People, James Whitaker.\n\nAttached is the draft contract, which lays out your salary and benefits in full. I would appreciate it if you could return a signed copy by the end of next week.\n\nIf you have any questions in the meantime, please don't hesitate to reach out.\n\nWe very much look forward to welcoming you to the team.\n\nSincerely,\nClaire Morel",
+      "commentary": [
+        {"quote": "I am delighted to confirm our offer", "note_fr": "L'objet du message est annoncé dès la première phrase. 'Delighted' est chaleureux sans être familier ; 'pleased' serait plus neutre."},
+        {"quote": "subject to a probationary period of [three] months", "note_fr": "Tournure juridique compacte : une seule préposition suffit, là où le français dirait 'assorti d'une période d'essai de'."},
+        {"quote": "Your start date would be Monday 2 March", "note_fr": "Le conditionnel 'would' rappelle avec tact que l'offre n'est pas encore acceptée. Date au format britannique : jour puis mois, sans virgule."},
+        {"quote": "I would be grateful if you could return a signed copy", "note_fr": "Demande polie mais précise, suivie d'une échéance. Beaucoup plus naturel que 'Thank you to return'."},
+        {"quote": "We very much look forward to welcoming you to the team.", "note_fr": "'Look forward to' est suivi d'un verbe en -ing. 'Very much' se place avant le verbe et renforce la formule sans l'alourdir."}
+      ],
+      "checklist": [
+        "Is the purpose of the email clear in the first sentence?",
+        "Have I stated the type of contract, the probationary period, the start date and the reporting line?",
+        "Is the register consistent, with no contractions and a matching greeting and sign-off?",
+        "Does the candidate know exactly what to do next, and by when?",
+        "Have I used 'would' rather than 'will' for terms that are not yet accepted?"
+      ],
+      "phrasebank": [
+        "Further to our conversation of ..., I am delighted to confirm ...",
+        "The position is offered on a permanent contract, subject to ...",
+        "You would report to ...",
+        "Please find attached ..., which sets out ...",
+        "I would be grateful if you could ... by ...",
+        "Should you have any questions, please do not hesitate to contact me.",
+        "We very much look forward to welcoming you to the team."
+      ]
+    },
+    {
+      "id": "wr-ct-2",
+      "title": "Following up after a client meeting",
+      "stage": 1,
+      "kind": "email",
+      "brief": "You met Harriet, a UK HR director, on Tuesday to review the contracts of her Lyon office. Write a short follow-up email: thank her, attach the summary, restate the main conclusion, say what you will do next and ask her one question.",
+      "brief_fr": "Vous avez rencontré mardi Harriet, DRH britannique, pour passer en revue les contrats de son bureau de Lyon. Rédigez un court e-mail de suivi : remerciez-la, joignez la synthèse, rappelez la conclusion principale, annoncez la suite et posez-lui une question.",
+      "gaps": [
+        {"text": "Thank you for ___ the time to meet on Tuesday.", "answer": "making", "accept": ["taking"], "explain_fr": "'To make the time' souligne que la personne s'est rendue disponible ; 'to take the time' est également correct. Jamais 'for having taken'."},
+        {"text": "It was very useful to ___ the Lyon contracts together.", "answer": "go through", "accept": ["run through", "look through"], "explain_fr": "'To go through' = passer en revue point par point. Plus naturel que 'to examine' dans un e-mail."},
+        {"text": "___, I am attaching a short summary of the points we discussed.", "answer": "As agreed", "accept": ["As discussed", "As promised"], "explain_fr": "'As agreed' = comme convenu. Pas de 'it was' : la formule est elliptique. Évitez 'As convened'."},
+        {"text": "With ___ to the non-compete clause, I will send you a draft adapted to French requirements.", "answer": "regard", "accept": ["respect"], "explain_fr": "'With regard to' (sans s) = en ce qui concerne. 'With regards to' est fréquent mais considéré comme fautif à l'écrit soigné."},
+        {"text": "I will ___ you by Friday with a draft.", "answer": "come back to", "accept": ["get back to", "revert to"], "explain_fr": "'To come back to someone' ou 'to get back to someone' = revenir vers quelqu'un. 'Revert to' existe en anglais d'affaires mais reste contesté."},
+        {"text": "Could you let me know whether head office has ___ the budget?", "answer": "signed off on", "accept": ["approved", "signed off"], "explain_fr": "'To sign off on something' = donner son feu vert, valider officiellement. Très courant dans les deux variétés d'anglais."}
+      ],
+      "outline": [],
+      "model": "Subject: Follow-up to our meeting on Tuesday\n\nDear Harriet,\n\nThank you for making the time to meet on Tuesday. It was very useful to go through the Lyon contracts together.\n\nAs agreed, I am attaching a short summary of the points we discussed. In a nutshell, the four fixed-term contracts cannot simply be renewed, and we would recommend offering permanent contracts instead.\n\nWith regard to the non-compete clause, I will come back to you by Friday with a draft adapted to French requirements.\n\nIn the meantime, could you let me know whether head office has signed off on the budget? That would allow us to move ahead with the offers next week.\n\nDo let me know if I have missed anything.\n\nKind regards,\nClaire",
+      "model_us": null,
+      "commentary": [
+        {"quote": "Thank you for making the time to meet on Tuesday.", "note_fr": "Ouverture courte et personnelle. 'Thank you for' est suivi d'un verbe en -ing."},
+        {"quote": "In a nutshell,", "note_fr": "Locution idiomatique pour annoncer un résumé en une phrase. Plus vivante que 'To summarise' dans un e-mail à une cliente que l'on connaît."},
+        {"quote": "we would recommend offering permanent contracts instead", "note_fr": "'Would recommend' adoucit le conseil sans le rendre flou. 'Recommend' est suivi du -ing, jamais de 'to' + infinitif."},
+        {"quote": "I will come back to you by Friday", "note_fr": "Un engagement daté. 'By Friday' = vendredi au plus tard ; 'until Friday' serait un contresens."},
+        {"quote": "Do let me know if I have missed anything.", "note_fr": "Le 'do' emphatique rend l'invitation plus chaleureuse. Bonne formule de clôture, moins usée que 'do not hesitate'."}
+      ],
+      "checklist": [
+        "Have I thanked the client in a specific, not generic, way?",
+        "Is the main conclusion of the meeting restated in one clear sentence?",
+        "Does every commitment have an owner and a date?",
+        "Are my paragraphs short, each with a single purpose?",
+        "Is the tone friendly but still professional (first name, 'Kind regards')?"
+      ],
+      "phrasebank": [
+        "Thank you for making the time to meet on ...",
+        "It was very useful to go through ... together.",
+        "As agreed, I am attaching ...",
+        "In a nutshell, ...",
+        "With regard to ..., I will come back to you by ...",
+        "In the meantime, could you let me know whether ...?",
+        "Do let me know if I have missed anything."
+      ]
+    },
+    {
+      "id": "wr-ct-3",
+      "title": "Explaining the CDI/CDD distinction to a US client",
+      "stage": 2,
+      "kind": "client note",
+      "brief": "A US client used to at-will employment asks why he cannot simply hire his French staff on one-year contracts. Write one clear paragraph (120-160 words) explaining the difference between the CDI and the CDD.",
+      "brief_fr": "Un client américain, habitué à l'emploi 'at-will', demande pourquoi il ne peut pas simplement recruter ses salariés français en contrats d'un an. Rédigez un paragraphe clair (120 à 160 mots) expliquant la différence entre CDI et CDD.",
+      "gaps": [],
+      "outline": [
+        "The CDI is the default: no end date, termination only for a valid reason and by following a procedure",
+        "Contrast with at-will employment",
+        "The CDD is the exception: only for a specific, temporary need (give two examples)",
+        "It cannot be used to fill a lasting job; it must be in writing and state its reason",
+        "Risk if the rules are ignored: reclassification as a CDI",
+        "Practical conclusion for the client"
+      ],
+      "model": "In France, the default form of employment is the open-ended contract, known as the CDI. It has no end date, and once the probationary period is over the employer can only terminate it for a valid reason and by following a set procedure. That is the key difference from at-will employment. The fixed-term contract, or CDD, is the exception rather than the rule. It can only be used for a specific, temporary need, such as covering for an employee on leave or dealing with a short-term increase in workload, and it must never be used to fill a job that is part of the company's normal, ongoing business. A CDD has to be in writing and must state the reason for which it is used. If these rules are not respected, a court may reclassify the contract as a CDI. In practice, then, if you expect the role to last, a CDI is both the safer and the simpler choice.",
+      "model_us": null,
+      "commentary": [
+        {"quote": "the open-ended contract, known as the CDI", "note_fr": "On donne d'abord l'équivalent anglais, puis le sigle français : le lecteur comprend immédiatement et retient le terme qu'il retrouvera dans les documents."},
+        {"quote": "That is the key difference from at-will employment.", "note_fr": "Phrase courte après une phrase longue : elle met en relief l'idée essentielle et la rattache au cadre de référence du client."},
+        {"quote": "is the exception rather than the rule", "note_fr": "Expression idiomatique qui structure tout le paragraphe (principe / exception) sans recourir à 'moreover' ou 'on the other hand'."},
+        {"quote": "such as covering for an employee on leave", "note_fr": "'To cover for someone' = remplacer quelqu'un pendant son absence. Un exemple concret vaut mieux qu'une liste de cas légaux."},
+        {"quote": "In practice, then,", "note_fr": "'Then' en incise marque la conclusion avec plus de légèreté que 'therefore'. Le paragraphe se termine par un conseil directement utilisable."}
+      ],
+      "checklist": [
+        "Have I given the English equivalent before the French acronym?",
+        "Is the contrast with at-will employment stated explicitly?",
+        "Have I illustrated the 'temporary need' with concrete examples?",
+        "Do my sentences vary in length, with the key idea in a short one?",
+        "Does the paragraph end with a practical takeaway for the client?",
+        "Have I avoided figures and article numbers I cannot verify?"
+      ],
+      "phrasebank": [
+        "The default form of employment is ..., known as ...",
+        "That is the key difference from ...",
+        "... is the exception rather than the rule.",
+        "It can only be used for ..., such as ...",
+        "If these rules are not respected, a court may ...",
+        "In practice, then, ...",
+        "... is both the safer and the simpler choice."
+      ]
+    },
+    {
+      "id": "wr-ct-4",
+      "title": "Minutes of a meeting about a contract amendment",
+      "stage": 2,
+      "kind": "meeting minutes",
+      "brief": "You attended a meeting with the HR Director (Harriet Collins) and the Sales Manager (Tom Bradley) about a new bonus plan and a new weekly schedule for three account managers in Paris. Write the minutes from the outline below.",
+      "brief_fr": "Vous avez participé à une réunion avec la DRH (Harriet Collins) et le directeur commercial (Tom Bradley) au sujet d'un nouveau plan de bonus et d'un nouvel horaire hebdomadaire pour trois responsables de comptes à Paris. Rédigez le compte rendu à partir du plan ci-dessous.",
+      "gaps": [],
+      "outline": [
+        "Heading: date, people present, apologies",
+        "Purpose of the meeting",
+        "Discussion: the bonus plan is a variation of the contract; the schedule is only a change in working conditions",
+        "Decision: written amendment, nothing takes effect before signature",
+        "Action points with owners and deadlines",
+        "Date of the next meeting"
+      ],
+      "model": "Minutes of the meeting held on 12 May\n\nPresent: Harriet Collins (HR Director), Tom Bradley (Sales Manager), Claire Morel (HR Consultant)\nApologies: Priya Nair\n\n1. Purpose of the meeting\nThe meeting was called to discuss the proposed amendment to the contracts of the three account managers in the Paris office.\n\n2. Discussion\nTB outlined the new bonus plan and explained that it was intended to reward client retention rather than new business alone. CM pointed out that, under French law, a change to the structure of remuneration constitutes a variation of the contract and therefore requires each employee's written agreement. HC asked whether the change to the weekly schedule could be handled separately. CM confirmed that it could, as it amounts to a change in working conditions only.\n\n3. Decisions\nIt was agreed that the bonus plan would be proposed by way of a written amendment, and that no change would take effect until the amendment had been signed.\n\n4. Action points\nCM to draft the amendment and circulate it by 19 May.\nTB to hold individual meetings with the three employees before the end of the month.\nHC to seek approval from head office.\n\nThe next meeting will take place on 2 June.",
+      "model_us": null,
+      "commentary": [
+        {"quote": "Apologies: Priya Nair", "note_fr": "'Apologies' désigne les absents excusés dans un compte rendu britannique. Aux États-Unis, on écrirait plutôt 'Absent' ou 'Regrets'."},
+        {"quote": "The meeting was called to discuss", "note_fr": "'To call a meeting' = convoquer une réunion. Le passif convient au style impersonnel du compte rendu."},
+        {"quote": "CM pointed out that", "note_fr": "Les verbes de parole sont variés et précis : 'outlined', 'explained', 'pointed out', 'asked', 'confirmed'. On évite de répéter 'said'. Notez les initiales pour désigner les participants."},
+        {"quote": "It was agreed that the bonus plan would be proposed", "note_fr": "Formule consacrée pour consigner une décision. Concordance des temps au discours indirect : 'would be proposed', 'had been signed'."},
+        {"quote": "CM to draft the amendment and circulate it by 19 May.", "note_fr": "Style télégraphique des actions : initiales + 'to' + verbe + échéance. 'To circulate' = diffuser aux participants."}
+      ],
+      "checklist": [
+        "Do the minutes show who was present and who sent apologies?",
+        "Have I reported what was said in the past tense, with varied reporting verbs?",
+        "Are decisions clearly separated from the discussion?",
+        "Does each action point have an owner and a deadline?",
+        "Is the style neutral and impersonal, with no opinions of my own?"
+      ],
+      "phrasebank": [
+        "The meeting was called to discuss ...",
+        "X outlined ... and explained that ...",
+        "X pointed out that ...",
+        "X asked whether ...",
+        "It was agreed that ...",
+        "X to draft ... and circulate it by ...",
+        "The next meeting will take place on ..."
+      ]
+    },
+    {
+      "id": "wr-ct-5",
+      "title": "A letter proposing a variation of contract",
+      "stage": 3,
+      "kind": "formal letter",
+      "brief": "On behalf of the HR Director, write a letter to an employee, Mr Lambert, proposing a change of role (Key Account Manager) and a new structure for his variable pay from 1 September. The letter follows a meeting on 4 June. Make it clear that his agreement is required and tell him how and by when to reply.",
+      "brief_fr": "Au nom de la DRH, rédigez une lettre à un salarié, M. Lambert, lui proposant un changement de poste (Key Account Manager) et une nouvelle structure de rémunération variable à compter du 1er septembre. La lettre fait suite à un entretien du 4 juin. Précisez que son accord est nécessaire et indiquez comment et dans quel délai répondre.",
+      "gaps": [],
+      "outline": [
+        "Reference to the meeting and purpose of the letter",
+        "The context and the proposed role, with its effective date",
+        "What changes and what does not (basic salary, variable pay)",
+        "The change requires his agreement; how and by when to reply",
+        "What happens if he declines; offer to answer questions"
+      ],
+      "model": "Dear Mr Lambert,\n\nProposed change to your terms of employment\n\nFollowing our meeting on 4 June, I am writing to set out formally the change we discussed to your role and remuneration.\n\nAs you know, the company is reorganising its sales function, and we would like to offer you the position of Key Account Manager with effect from 1 September. Your responsibilities would focus on our existing major clients rather than on new business. Your basic salary would remain unchanged; your variable pay, however, would be calculated on client retention, as described in the attached schedule.\n\nBecause this proposal affects essential terms of your contract, it cannot take effect without your agreement. Please take the time you need to consider it. If you are happy to accept, I would ask you to sign and return the enclosed amendment by 30 June. Should you prefer not to accept, your current terms will continue to apply and we will discuss the way forward together.\n\nI would of course be glad to answer any questions you may have.\n\nYours sincerely,\n\nHarriet Collins\nHR Director",
+      "model_us": "Dear Mr. Lambert:\n\nRe: Proposed change to your terms of employment\n\nFollowing our meeting on June 4, I am writing to formally set out the change we discussed to your role and compensation.\n\nAs you know, the company is reorganizing its sales function, and we would like to offer you the position of Key Account Manager effective September 1. Your responsibilities would focus on our existing major clients rather than on new business. Your base salary would remain unchanged; your variable pay, however, would be calculated on client retention, as described in the attached schedule.\n\nBecause this proposal affects essential terms of your contract, it cannot take effect without your agreement. Please take the time you need to consider it. If you would like to accept, please sign and return the enclosed amendment by June 30. If you prefer not to accept, your current terms will continue to apply and we will discuss next steps together.\n\nI would of course be glad to answer any questions you may have.\n\nSincerely,\n\nHarriet Collins\nHR Director",
+      "commentary": [
+        {"quote": "I am writing to set out formally the change we discussed", "note_fr": "L'objet de la lettre est posé d'emblée. 'To set out' est le verbe usuel pour exposer des conditions par écrit."},
+        {"quote": "with effect from 1 September", "note_fr": "Formule britannique pour 'à compter du'. En anglais américain : 'effective September 1'."},
+        {"quote": "Your basic salary would remain unchanged; your variable pay, however, would be calculated on client retention", "note_fr": "Le point-virgule oppose ce qui reste et ce qui change ; 'however' placé en incise est plus élégant qu'en tête de phrase. Le conditionnel rappelle qu'il s'agit d'une proposition."},
+        {"quote": "it cannot take effect without your agreement", "note_fr": "Formulation claire et sans jargon de la règle française : la modification d'un élément essentiel du contrat suppose l'accord du salarié."},
+        {"quote": "If you are happy to accept, I would ask you to sign and return the enclosed amendment by 30 June.", "note_fr": "'If you are happy to' est un adoucisseur très britannique. 'Enclosed' s'emploie pour une pièce jointe à un courrier papier, 'attached' pour un e-mail ou une annexe."},
+        {"quote": "we will discuss the way forward together", "note_fr": "'The way forward' = la suite à donner. La phrase reste ouverte et non menaçante, ce qui est essentiel ici puisque le refus n'est pas fautif."}
+      ],
+      "checklist": [
+        "Is the purpose of the letter clear in the first sentence?",
+        "Have I separated clearly what changes from what stays the same?",
+        "Is it explicit that the change needs the employee's agreement?",
+        "Does the employee know how to reply and by what date?",
+        "Is the tone respectful and free of any pressure?",
+        "Are the proposed terms in the conditional ('would') rather than the future?"
+      ],
+      "phrasebank": [
+        "Following our meeting on ..., I am writing to set out formally ...",
+        "We would like to offer you the position of ... with effect from ...",
+        "Your ... would remain unchanged; your ..., however, would ...",
+        "Because this proposal affects ..., it cannot take effect without your agreement.",
+        "I would ask you to sign and return the enclosed amendment by ...",
+        "Should you prefer not to accept, ...",
+        "I would of course be glad to answer any questions you may have."
+      ]
+    },
+    {
+      "id": "wr-ct-6",
+      "title": "A short note to a client on non-compete clauses in France",
+      "stage": 3,
+      "kind": "client note",
+      "brief": "A UK group wants to use its standard non-compete clause in its French contracts. Write a short note (200-260 words) for the HR Director: conditions of validity in France, the financial compensation, the possibility of waiving the clause, a brief UK/US comparison and your recommendation.",
+      "brief_fr": "Un groupe britannique souhaite insérer sa clause de non-concurrence type dans ses contrats français. Rédigez une courte note (200 à 260 mots) pour la DRH : conditions de validité en France, contrepartie financière, possibilité de renoncer à la clause, brève comparaison UK/US et recommandation.",
+      "gaps": [],
+      "outline": [
+        "Answer the client's question in the opening lines",
+        "Conditions of validity under French case law",
+        "The financial compensation: the point that surprises foreign employers",
+        "Waiving the clause: only if provided for, and within the deadline",
+        "Brief comparison with the UK and the US",
+        "Recommendation and next step"
+      ],
+      "model": "Non-compete clauses in France: key points\n\nYou asked whether the group's standard non-compete clause could be used in French contracts. It can, but only in a substantially adapted form.\n\nUnder French case law, a non-compete clause is valid only if several conditions are all met. It must be necessary to protect the company's legitimate interests; it must be limited in time and in geographical scope; and it must take account of the nature of the employee's job, so that he or she is not prevented from working altogether. Finally, and this is the point that tends to surprise UK and US employers, the employee must receive financial compensation for the duration of the restriction. A clause without compensation is void.\n\nThe amount is often set by the applicable collective bargaining agreement. Where it is not, it must be agreed in the contract and must not be derisory.\n\nThe employer may release the employee from the clause, and so avoid paying the compensation, but only if the contract or the collective agreement provides for a waiver and the deadline it lays down is respected.\n\nBy way of comparison, no compensation is required in the UK, where the question is whether the restriction is reasonable, and in the US the position varies considerably from state to state.\n\nMy recommendation would be to limit the clause to those sales roles where the risk is real, and to cost the compensation before rolling it out. I would be happy to prepare a draft.",
+      "model_us": null,
+      "commentary": [
+        {"quote": "It can, but only in a substantially adapted form.", "note_fr": "La réponse tient en une phrase, dès le début : c'est ce qu'attend un lecteur anglo-saxon. La nuance vient ensuite."},
+        {"quote": "Under French case law,", "note_fr": "'Case law' = la jurisprudence. On indique la source de la règle sans citer d'arrêt ni d'article."},
+        {"quote": "and this is the point that tends to surprise UK and US employers", "note_fr": "L'incise attire l'attention sur l'essentiel. 'Tends to' est un adoucisseur typique : il évite l'affirmation trop catégorique."},
+        {"quote": "A clause without compensation is void.", "note_fr": "Phrase très courte après une énumération longue : effet de mise en relief. 'Void' = nul."},
+        {"quote": "By way of comparison,", "note_fr": "Transition élégante vers le droit comparé, plus légère que 'In comparison with' ou 'Moreover'."},
+        {"quote": "My recommendation would be to limit the clause to those sales roles where the risk is real", "note_fr": "Conseil formulé au conditionnel, mais concret. 'To cost' employé comme verbe (chiffrer) dans la suite de la phrase est très idiomatique."}
+      ],
+      "checklist": [
+        "Have I answered the client's question in the first two sentences?",
+        "Are the conditions of validity set out completely and in a logical order?",
+        "Is the financial compensation given the emphasis it deserves?",
+        "Have I avoided inventing percentages, durations or case names?",
+        "Does the note end with a clear recommendation and an offer of next steps?",
+        "Are my linking phrases varied and light?"
+      ],
+      "phrasebank": [
+        "You asked whether ... It can, but only ...",
+        "Under French case law, ... is valid only if ...",
+        "This is the point that tends to surprise ...",
+        "The amount is often set by ...",
+        "... but only if the contract provides for it.",
+        "By way of comparison, ...",
+        "My recommendation would be to ...",
+        "I would be happy to prepare a draft."
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "dl-ct-1",
+      "title": "At-will employment meets French law",
+      "context": "A video call between Mike, VP of Operations at a US company, and Claire, a French HR consultant. Mike wants to dismiss an underperforming employee in the Paris office.",
+      "context_fr": "Visioconférence entre Mike, vice-président des opérations d'une société américaine, et Claire, consultante RH française. Mike veut se séparer d'un salarié peu performant du bureau de Paris.",
+      "variety": "us",
+      "lines": [
+        {"speaker": "Mike", "text": "Hey Claire, thanks for jumping on. So here's the deal: we've got a guy in the Paris office who isn't working out, and I'd like to let him go by the end of the month.", "note_fr": "'Thanks for jumping on' = merci de vous être connectée (à l'appel). 'To let someone go' est l'euphémisme courant pour licencier."},
+        {"speaker": "Claire", "text": "Okay. Before we get into timing, can I ask how long he's been with you?", "note_fr": "'Before we get into' permet de recadrer sans contredire. 'How long he's been with you' : present perfect, car il y est toujours."},
+        {"speaker": "Mike", "text": "About eight months. Back home that wouldn't matter. We're at-will, so we'd just have the conversation and cut him a final check.", "note_fr": "'At-will' : aux États-Unis, l'une ou l'autre partie peut en principe rompre le contrat à tout moment, sans motif. 'To cut a check' = faire un chèque (US)."},
+        {"speaker": "Claire", "text": "Right, and that's the big difference. There's no at-will employment in France. Once someone's past their probationary period, you need a valid reason and you have to follow a procedure.", "note_fr": null},
+        {"speaker": "Mike", "text": "Got it. So what counts as a valid reason? He's just not hitting his numbers.", "note_fr": "'To hit one's numbers' = atteindre ses objectifs chiffrés."},
+        {"speaker": "Claire", "text": "Poor performance can be a reason, but you'd need to back it up. Were his targets ever put in writing? Has anyone flagged the problem to him?", "note_fr": "'To back something up' = étayer. 'To flag a problem' = signaler un problème."},
+        {"speaker": "Mike", "text": "Honestly, I doubt it. I think his manager was kind of hoping it would fix itself.", "note_fr": "'Kind of' atténue le propos à l'oral ; à éviter à l'écrit."},
+        {"speaker": "Claire", "text": "Then I'd hold off on the end of the month. If you move now with nothing on file, you're exposed if he takes it to the labor court.", "note_fr": "'To hold off on' = attendre avant de faire quelque chose. 'On file' = au dossier. 'Labor court' rend bien le conseil de prud'hommes pour un Américain."},
+        {"speaker": "Mike", "text": "Okay, so what do you suggest? I don't want this dragging on forever.", "note_fr": "'To drag on' = traîner en longueur."},
+        {"speaker": "Claire", "text": "Fair enough. I'd start with a documented conversation this week and clear objectives for the next couple of months. If things don't improve, you'll be on much firmer ground.", "note_fr": "'Fair enough' reconnaît la légitimité de l'objection. 'To be on firmer ground' = être en position plus solide."},
+        {"speaker": "Mike", "text": "And if he'd rather just leave? Could we work something out?", "note_fr": "'To work something out' = trouver un arrangement."},
+        {"speaker": "Claire", "text": "That's an option, yes. There's a form of mutually agreed termination that a lot of employers use. Let me walk you through it on Thursday, if that works.", "note_fr": "'To walk someone through something' = expliquer pas à pas. 'Mutually agreed termination' est une bonne façon de présenter la rupture conventionnelle."},
+        {"speaker": "Mike", "text": "Works for me. Send me an invite.", "note_fr": null}
+      ],
+      "questions": [
+        {
+          "q": "Why does Claire advise against dismissing the employee at the end of the month?",
+          "options": [
+            "He is still in his probationary period",
+            "Nothing has been documented about his performance",
+            "His manager is opposed to the dismissal",
+            "French law never allows dismissal for poor performance"
+          ],
+          "answer": 1,
+          "explain_fr": "'If you move now with nothing on file, you're exposed' : faute d'objectifs écrits et d'alerte préalable, l'insuffisance professionnelle serait difficile à établir."
+        },
+        {
+          "q": "What does Mike mean by 'I don't want this dragging on forever'?",
+          "options": [
+            "He does not want to pay a large sum",
+            "He does not want the employee to find out",
+            "He does not want the process to take too long",
+            "He does not want to go to court"
+          ],
+          "answer": 2,
+          "explain_fr": "'To drag on' = s'éterniser. Mike exprime son impatience de manière directe, ce qui est habituel dans un contexte américain."
+        },
+        {
+          "q": "What will happen on Thursday?",
+          "options": [
+            "Claire will explain how a mutually agreed termination works",
+            "Mike will meet the employee",
+            "The employee will be dismissed",
+            "The manager will set new targets"
+          ],
+          "answer": 0,
+          "explain_fr": "'Let me walk you through it on Thursday' : Claire propose d'expliquer la procédure en détail lors d'un prochain appel."
+        }
+      ]
+    },
+    {
+      "id": "dl-ct-2",
+      "title": "Reviewing a new starter's probation",
+      "context": "A weekly HR meeting at the UK head office. Harriet (HR Director), Tom (team manager) and Claire (French HR consultant) discuss Léa, who joined the Lyon team and is nearing the end of her probationary period.",
+      "context_fr": "Réunion RH hebdomadaire au siège britannique. Harriet (DRH), Tom (manager) et Claire (consultante RH française) évoquent Léa, arrivée dans l'équipe de Lyon et dont la période d'essai touche à sa fin.",
+      "variety": "uk",
+      "lines": [
+        {"speaker": "Harriet", "text": "Right, shall we make a start? First item is Léa, who joined the Lyon team in March. Tom, how's she getting on?", "note_fr": "'Shall we make a start?' : façon très britannique d'ouvrir une réunion. 'How's she getting on?' = comment ça se passe pour elle ?"},
+        {"speaker": "Tom", "text": "Pretty well, on the whole. She's picked up the systems quickly and the clients seem to like her.", "note_fr": "'On the whole' = dans l'ensemble. 'To pick something up' = apprendre sur le tas, assimiler."},
+        {"speaker": "Harriet", "text": "That's good to hear. I sense a 'but' coming, though.", "note_fr": "'Though' en fin de phrase = cependant ; très fréquent à l'oral."},
+        {"speaker": "Tom", "text": "Well, yes. Her reports are a bit hit and miss, and she's been late with a couple of them. I wouldn't say it's serious, but I'm not quite ready to sign her off.", "note_fr": "'Hit and miss' = inégal, aléatoire. 'Not quite ready' : euphémisme britannique pour 'pas prêt'. 'To sign someone off' = valider (ici, sa période d'essai)."},
+        {"speaker": "Harriet", "text": "Fair enough. Her probation's up at the end of the month, isn't it? Claire, where does that leave us?", "note_fr": "'To be up' = arriver à son terme. 'Where does that leave us?' = où en sommes-nous, concrètement ?"},
+        {"speaker": "Claire", "text": "You've got two options, really. Either you confirm her, or you renew the probationary period, but that's only possible if the collective agreement and her contract allow for it, and she'd have to agree in writing.", "note_fr": "'Really' en fin de proposition adoucit l'affirmation. 'To allow for' = prévoir."},
+        {"speaker": "Tom", "text": "So I can't just extend it off my own bat?", "note_fr": "'Off my own bat' (UK, familier) = de ma propre initiative. L'expression vient du cricket."},
+        {"speaker": "Claire", "text": "I'm afraid not. And it needs to be done before the current period runs out, otherwise she's confirmed by default.", "note_fr": "'I'm afraid not' : le refus poli par excellence. 'To run out' = expirer."},
+        {"speaker": "Harriet", "text": "Hmm. That doesn't give us much room for manoeuvre. Tom, have you actually raised the reports with her?", "note_fr": "'Room for manoeuvre' = marge de manœuvre (US : 'room to maneuver'). 'To raise something with someone' = aborder un sujet avec quelqu'un."},
+        {"speaker": "Tom", "text": "Only in passing, to be honest.", "note_fr": "'In passing' = en passant, incidemment."},
+        {"speaker": "Harriet", "text": "Then I'd suggest you sit down with her this week and spell out what you need. It might be worth putting it in an email afterwards, just so there's a record.", "note_fr": "'To spell out' = expliquer très clairement. 'It might be worth' + -ing : suggestion feutrée, très utile."},
+        {"speaker": "Claire", "text": "I'd agree with that. And I'll check the collective agreement in the meantime, so we know where we stand.", "note_fr": "'I'd agree' : le conditionnel rend l'accord moins abrupt. 'To know where we stand' = savoir à quoi s'en tenir."},
+        {"speaker": "Harriet", "text": "Lovely. Let's pick this up again on Friday, then.", "note_fr": "'Lovely' sert ici simplement à clore le point (UK). 'To pick something up again' = reprendre un sujet."}
+      ],
+      "questions": [
+        {
+          "q": "How does Tom feel about Léa's performance?",
+          "options": [
+            "He wants to end her contract",
+            "He is entirely satisfied",
+            "He has no opinion yet",
+            "He is broadly positive but has some reservations"
+          ],
+          "answer": 3,
+          "explain_fr": "'Pretty well, on the whole' puis 'a bit hit and miss' et 'not quite ready to sign her off' : un avis positif mais nuancé, exprimé avec la retenue britannique."
+        },
+        {
+          "q": "According to Claire, what is required to renew the probationary period?",
+          "options": [
+            "A decision by Tom before the end of the month",
+            "It must be allowed by the collective agreement and the contract, and Léa must agree in writing",
+            "A meeting with the employee representatives",
+            "Nothing, as it renews automatically"
+          ],
+          "answer": 1,
+          "explain_fr": "Le renouvellement ne peut pas être imposé : il doit être prévu par la convention collective et le contrat, et accepté par écrit par la salariée avant la fin de la période en cours."
+        },
+        {
+          "q": "What does Harriet suggest Tom should do?",
+          "options": [
+            "Talk to Léa this week, set out his expectations and confirm them by email",
+            "Send Léa a formal warning",
+            "Wait until Friday before doing anything",
+            "Ask Claire to speak to Léa"
+          ],
+          "answer": 0,
+          "explain_fr": "'Sit down with her', 'spell out what you need' et 'putting it in an email afterwards, just so there's a record' : un entretien clair, suivi d'une trace écrite."
+        }
+      ]
+    },
+    {
+      "id": "dl-ct-3",
+      "title": "Someone's handed in their notice",
+      "context": "Two colleagues, Ben and Sophie, chat in the office kitchen in London about a colleague who has just resigned.",
+      "context_fr": "Deux collègues, Ben et Sophie, discutent dans la cuisine du bureau de Londres d'un collègue qui vient de démissionner.",
+      "variety": "uk",
+      "lines": [
+        {"speaker": "Ben", "text": "Have you heard? Marcus has handed in his notice.", "note_fr": "'To hand in one's notice' = donner sa démission (UK). Aux États-Unis : 'to give notice' ou 'to quit'."},
+        {"speaker": "Sophie", "text": "You're joking! I thought he was dead set on staying until the merger went through.", "note_fr": "'Dead set on' = fermement décidé à. 'To go through' = aboutir, être finalisé."},
+        {"speaker": "Ben", "text": "So did I. Apparently he's been headhunted by a firm in Manchester. Too good to turn down, by the sound of it.", "note_fr": "'So did I' = moi aussi (reprise de l'auxiliaire). 'To turn down' = refuser. 'By the sound of it' = à ce qu'il paraît."},
+        {"speaker": "Sophie", "text": "Good for him, I suppose. When's he off?", "note_fr": "'When's he off?' = quand est-ce qu'il part ? 'I suppose' marque une approbation un peu réticente."},
+        {"speaker": "Ben", "text": "Well, that's the thing. He's on three months' notice, but he's hoping they'll let him go early.", "note_fr": "'To be on three months' notice' = avoir un préavis de trois mois. Notez l'apostrophe après le pluriel."},
+        {"speaker": "Sophie", "text": "I wouldn't bank on it. They made Priya work hers right up to the last day.", "note_fr": "'I wouldn't bank on it' = je n'y compterais pas trop. 'To work one's notice' = effectuer son préavis."},
+        {"speaker": "Ben", "text": "True, though she wasn't going to a competitor. If he is, they might well put him on garden leave.", "note_fr": "'Garden leave' (UK) : le salarié est dispensé de travailler pendant son préavis mais reste lié par son contrat et rémunéré. 'Might well' = c'est bien possible."},
+        {"speaker": "Sophie", "text": "Paid to stay at home and mow the lawn for three months. I could live with that.", "note_fr": "'I could live with that' : litote humoristique pour 'ça me plairait bien'."},
+        {"speaker": "Ben", "text": "Couldn't we all. Mind you, someone's going to have to pick up his clients in the meantime.", "note_fr": "'Mind you' (UK) introduit une réserve : cela dit, remarque. 'To pick up' = reprendre (un dossier, un client)."},
+        {"speaker": "Sophie", "text": "Don't look at me. I'm snowed under as it is.", "note_fr": "'Snowed under' = débordé(e). 'As it is' = déjà, dans l'état actuel des choses."},
+        {"speaker": "Ben", "text": "I wasn't suggesting anything! Anyway, keep it to yourself for now. It hasn't been announced yet.", "note_fr": "'Keep it to yourself' = garde ça pour toi."},
+        {"speaker": "Sophie", "text": "My lips are sealed. Are we doing a leaving do, do you think?", "note_fr": "'A leaving do' (UK, familier) = un pot de départ. Aux États-Unis : 'a going-away party'."}
+      ],
+      "questions": [
+        {
+          "q": "Why is Marcus leaving?",
+          "options": [
+            "He was dismissed because of the merger",
+            "He is moving abroad",
+            "He has been approached with an attractive job offer",
+            "He is retiring"
+          ],
+          "answer": 2,
+          "explain_fr": "'He's been headhunted' = il a été approché par un chasseur de têtes ; 'too good to turn down' = une offre impossible à refuser."
+        },
+        {
+          "q": "What does 'garden leave' mean?",
+          "options": [
+            "Unpaid leave at the employee's request",
+            "Staying away from work during the notice period while still being paid",
+            "Extra holiday granted for long service",
+            "Leaving the company without serving any notice"
+          ],
+          "answer": 1,
+          "explain_fr": "Notion britannique : le salarié reste sous contrat et payé pendant son préavis, mais ne vient plus travailler, souvent pour l'éloigner des clients avant un départ à la concurrence. À ne pas confondre avec la dispense de préavis française, qui met fin plus tôt à la présence mais obéit à un autre régime."
+        },
+        {
+          "q": "What does Sophie mean by 'I wouldn't bank on it'?",
+          "options": [
+            "She would not rely on that happening",
+            "She thinks it is a bad idea",
+            "She does not want to pay for it",
+            "She has not heard about it"
+          ],
+          "answer": 0,
+          "explain_fr": "'To bank on something' = compter sur quelque chose. Au conditionnel négatif, c'est une manière polie d'exprimer son scepticisme."
+        }
+      ]
+    },
+    {
+      "id": "dl-ct-4",
+      "title": "Proposing a change of role",
+      "context": "Karen, a sales director at a US-owned company, meets Luis, one of her account executives in the Paris office, to propose a move into a key account role with a different bonus structure.",
+      "context_fr": "Karen, directrice commerciale d'une société à capitaux américains, reçoit Luis, l'un de ses commerciaux du bureau de Paris, pour lui proposer un poste de responsable grands comptes assorti d'une nouvelle structure de bonus.",
+      "variety": "us",
+      "lines": [
+        {"speaker": "Karen", "text": "Luis, thanks for coming in. I wanted to talk to you about something, and I want to be upfront: it's a proposal, not a done deal.", "note_fr": "'To be upfront' = jouer cartes sur table. 'A done deal' = une affaire conclue, une décision déjà prise."},
+        {"speaker": "Luis", "text": "Okay. Should I be worried?", "note_fr": null},
+        {"speaker": "Karen", "text": "No, not at all. You know we're restructuring the sales team. We'd like you to move into a key account role, looking after our biggest existing clients.", "note_fr": "'To look after' = s'occuper de. 'We'd like you to' + infinitif : formulation directe mais courtoise."},
+        {"speaker": "Luis", "text": "Huh. So no more new business?", "note_fr": null},
+        {"speaker": "Karen", "text": "That's right. Honestly, I think it plays to your strengths. Clients trust you, and that's exactly what we need on those accounts.", "note_fr": "'To play to someone's strengths' = mettre en valeur les points forts de quelqu'un."},
+        {"speaker": "Luis", "text": "I appreciate that. But most of my commission comes from new deals. What happens to my pay?", "note_fr": "'I appreciate that' accuse réception du compliment avant d'enchaîner sur l'objection."},
+        {"speaker": "Karen", "text": "Good question, and I'm not going to sugarcoat it. Your base stays the same. The bonus would be tied to retention instead, so the mix changes.", "note_fr": "'To sugarcoat' = enjoliver, dorer la pilule. 'Base' = salaire fixe (US ; UK : 'basic salary'). 'Tied to' = indexé sur."},
+        {"speaker": "Luis", "text": "So I could end up making less.", "note_fr": "'To end up' + -ing = finir par."},
+        {"speaker": "Karen", "text": "In a slow year, possibly. In a normal year, we figure you'd come out about even, maybe a little ahead. I can show you the numbers.", "note_fr": "'We figure' (US) = nous estimons. 'To come out even' = s'y retrouver, ni gagnant ni perdant."},
+        {"speaker": "Luis", "text": "I'd want to see those. And if I say no?", "note_fr": null},
+        {"speaker": "Karen", "text": "Then you say no. This changes your contract, so nothing happens unless you sign off on it. Take a couple of weeks, talk it over at home, and come back to me with any questions.", "note_fr": "'To sign off on' = donner son accord formel. 'To talk it over' = en discuter posément."},
+        {"speaker": "Luis", "text": "Okay. That's fair. Can you send me the details in writing?", "note_fr": null},
+        {"speaker": "Karen", "text": "You'll have them by end of day.", "note_fr": "'By end of day' (souvent abrégé EOD) = d'ici ce soir ; l'article est omis dans l'usage professionnel américain."}
+      ],
+      "questions": [
+        {
+          "q": "How does Karen present the change at the start of the conversation?",
+          "options": [
+            "As a decision that has already been made",
+            "As a temporary assignment",
+            "As a disciplinary measure",
+            "As a proposal that Luis is free to consider"
+          ],
+          "answer": 3,
+          "explain_fr": "'It's a proposal, not a done deal' : elle précise d'emblée que rien n'est décidé, ce qui est à la fois honnête et conforme au droit français."
+        },
+        {
+          "q": "What would change in Luis's pay?",
+          "options": [
+            "His base salary would be reduced",
+            "His bonus would depend on client retention rather than new deals",
+            "He would lose his bonus altogether",
+            "Nothing would change"
+          ],
+          "answer": 1,
+          "explain_fr": "'Your base stays the same. The bonus would be tied to retention instead' : le fixe est maintenu, seule la structure du variable change."
+        },
+        {
+          "q": "Why does Karen say 'nothing happens unless you sign off on it'?",
+          "options": [
+            "Because the change affects his contract and needs his agreement",
+            "Because the bonus plan is not finished",
+            "Because head office has not approved the restructuring",
+            "Because he is still in his probationary period"
+          ],
+          "answer": 0,
+          "explain_fr": "Les fonctions et la structure de la rémunération sont des éléments essentiels du contrat : leur modification suppose l'accord exprès du salarié, formalisé par un avenant."
+        }
+      ]
+    }
+  ],
+  "roleplays": [
+    {
+      "id": "rp-ct-1",
+      "title": "Explaining the CDI to a US founder",
+      "situation": "You are advising Jason, the founder of a US start-up that is hiring its first three employees in France. He is used to at-will employment and wants maximum flexibility. Explain how the CDI works and deal with his objections.",
+      "situation_fr": "Vous conseillez Jason, fondateur d'une start-up américaine qui recrute ses trois premiers salariés en France. Habitué à l'emploi 'at-will', il veut un maximum de souplesse. Expliquez-lui le fonctionnement du CDI et répondez à ses objections.",
+      "turns": [
+        {
+          "say": "So, my lawyer keeps talking about a CDI. What exactly is that, and why can't I just hire people the way I do in Austin?",
+          "seconds": 35,
+          "model": "A CDI is simply an open-ended employment contract, and it's the standard way to hire in France. The big difference from Austin is that there's no at-will employment here: once the probationary period is over, you need a valid reason to end the contract, and there's a procedure to follow.",
+          "tips_fr": "Commencez par un équivalent simple ('open-ended contract') avant d'entrer dans le détail. Reprenez sa référence (Austin, at-will) pour marquer le contraste."
+        },
+        {
+          "say": "That sounds like I'm stuck with people for life. What if someone just isn't good enough?",
+          "seconds": 35,
+          "model": "I understand the concern, but it's not quite that rigid. You have a probationary period at the start, when either side can walk away fairly easily. After that, poor performance can be a valid reason for dismissal, as long as you've set clear expectations and can show you gave the person a fair chance.",
+          "tips_fr": "Accueillez l'objection ('I understand the concern') puis nuancez avec 'it's not quite that rigid'. 'To walk away' = se désengager."
+        },
+        {
+          "say": "Okay. But couldn't I just give everyone a one-year contract and renew it if I'm happy? That would be so much simpler.",
+          "seconds": 40,
+          "model": "I'm afraid that wouldn't work. Fixed-term contracts are only allowed for a temporary need, like covering for someone on leave or handling a short-term peak in workload. If you use one for a regular, ongoing job, a court can reclassify it as a permanent contract, so you'd end up with the CDI anyway, plus a dispute.",
+          "tips_fr": "'I'm afraid that wouldn't work' : un refus net mais poli. Donnez deux exemples concrets de recours autorisé plutôt qu'une liste juridique."
+        },
+        {
+          "say": "Got it. So what should I actually do to protect the company?",
+          "seconds": 40,
+          "model": "Three things, really. Put a probationary period in each contract, within the limits your collective agreement allows. Use that period properly, with regular feedback, so you can decide before it ends. And keep a written record of objectives and reviews from day one. If you do that, you'll have far more flexibility than you might think.",
+          "tips_fr": "Annoncez le nombre de points ('Three things, really') pour structurer votre réponse à l'oral. Terminez sur une note rassurante."
+        }
+      ]
+    },
+    {
+      "id": "rp-ct-2",
+      "title": "The probationary period: a UK manager wants more time",
+      "situation": "Oliver, a UK-based manager, supervises a French employee whose probationary period ends in ten days. He is not sure about her and wants to 'extend probation by a few months', as he would in the UK. Explain the French rules on the période d'essai and guide him towards a decision.",
+      "situation_fr": "Oliver, manager basé au Royaume-Uni, encadre une salariée française dont la période d'essai se termine dans dix jours. Il hésite et veut 'prolonger l'essai de quelques mois', comme il le ferait au Royaume-Uni. Expliquez-lui les règles françaises de la période d'essai et aidez-le à décider.",
+      "turns": [
+        {
+          "say": "I'm still in two minds about Camille. Could we just extend her probation by a few months, to be on the safe side?",
+          "seconds": 35,
+          "model": "I'm afraid it isn't quite as simple as that in France. A probationary period can only be renewed if the collective agreement and her contract provide for it, and even then Camille would have to agree in writing before the current period ends. So it's not something we can decide on our own.",
+          "tips_fr": "'It isn't quite as simple as that' : façon britannique de dire non. Insistez sur les conditions cumulatives avec 'and even then'."
+        },
+        {
+          "say": "Really? In the UK I'd just send her a letter. What if she refuses to sign?",
+          "seconds": 30,
+          "model": "Then the probationary period ends on the original date, and you have to make a choice before then: either you confirm her or you end the contract. If you do nothing, she's confirmed automatically.",
+          "tips_fr": "Structure 'either ... or ...' pour présenter l'alternative. 'If you do nothing' : phrase courte, effet d'alerte."
+        },
+        {
+          "say": "And if I did decide to let her go, can I simply tell her on her last day?",
+          "seconds": 35,
+          "model": "Not really, no. You don't have to give a reason, but you do have to give her a minimum period of notice, and its length depends on how long she's been with us. So if that's the route you want to take, we'd need to act in the next few days rather than at the last minute.",
+          "tips_fr": "'Not really, no' adoucit le refus. Le 'do' emphatique ('you do have to') souligne l'obligation. Parlez de 'notice' pour le délai de prévenance, sans inventer de durée."
+        },
+        {
+          "say": "Hmm. To be honest, my doubts are mostly about her attitude in meetings. Is that enough?",
+          "seconds": 40,
+          "model": "Legally, the point of probation is to assess whether she's suited to the job, so your reason needs to relate to her work, and it must never be discriminatory or unrelated to her abilities. Before deciding, it might be worth having a frank conversation with her this week. If things improve, you'll have your answer.",
+          "tips_fr": "Rappelez la finalité de l'essai (évaluer les compétences). 'It might be worth' + -ing pour suggérer sans imposer."
+        },
+        {
+          "say": "All right. What would you do in my position?",
+          "seconds": 30,
+          "model": "I'd speak to her tomorrow, be specific about what needs to change, and check today whether a renewal is even possible under the collective agreement. If it is, and she's willing, that gives you the extra time. If it isn't, at least you'll decide with a clear head.",
+          "tips_fr": "Répondez par un plan d'action concret au conditionnel ('I'd speak ...'). 'With a clear head' = à tête reposée."
+        }
+      ]
+    },
+    {
+      "id": "rp-ct-3",
+      "title": "Why you need an amendment: handling pushback",
+      "situation": "Rachel, a US finance director, wants to announce a new commission plan to the French sales team by email, effective next month. You must explain why an 'avenant' (written amendment) signed by each employee is needed, and handle her pushback.",
+      "situation_fr": "Rachel, directrice financière américaine, veut annoncer par e-mail à l'équipe commerciale française un nouveau plan de commissions applicable le mois prochain. Vous devez lui expliquer pourquoi un avenant signé par chaque salarié est nécessaire, et répondre à ses objections.",
+      "turns": [
+        {
+          "say": "We're rolling out the new commission plan worldwide on the first of next month. I'll just send the French team the same announcement as everyone else, okay?",
+          "seconds": 35,
+          "model": "I'd advise against that for France. Under French law, the way pay is structured is an essential term of the contract, so you can't change it by announcement. Each employee has to agree, and that agreement is recorded in a written amendment, what we call an 'avenant'.",
+          "tips_fr": "'I'd advise against that' : désaccord professionnel et direct, adapté à une interlocutrice américaine. Glosez le terme français immédiatement."
+        },
+        {
+          "say": "But the new plan is actually better for most of them. Why would we need a signature for a pay raise?",
+          "seconds": 35,
+          "model": "I take your point, and it should make the conversation easier. But the rule applies whether the change is favorable or not, because it's the structure of pay that's changing. An employee who earns less next year under the new plan could argue that he never agreed to it.",
+          "tips_fr": "'I take your point' = je comprends votre argument. Illustrez le risque par un cas concret plutôt que par un principe."
+        },
+        {
+          "say": "What if they just keep working and cash the commission checks? Doesn't that count as accepting?",
+          "seconds": 35,
+          "model": "Unfortunately not. In France, carrying on working under new terms isn't treated as acceptance. You need a clear, express agreement, which is why we ask for a signature.",
+          "tips_fr": "'Unfortunately not' : réponse brève, puis explication. 'To carry on' = continuer."
+        },
+        {
+          "say": "And if one of them refuses to sign? I can't run two commission plans side by side.",
+          "seconds": 40,
+          "model": "That's the difficult part. A refusal isn't misconduct, so you can't discipline anyone for it. The old plan keeps applying to that person unless the company has a solid business reason that would justify going further, and that's a separate, formal process. In my experience, a good explanation up front avoids most refusals.",
+          "tips_fr": "Reconnaissez la difficulté ('That's the difficult part'), exposez la règle sans dramatiser, puis terminez sur une solution pragmatique."
+        },
+        {
+          "say": "Fine. So what does that mean for my timeline?",
+          "seconds": 35,
+          "model": "Realistically, I'd push the French launch back by a month. That gives us time to draft the amendment, hold individual meetings and collect signatures. I can have a draft ready for you by the end of the week.",
+          "tips_fr": "'Realistically' introduit une estimation franche. 'To push back' = reporter. Concluez par un engagement daté."
+        }
+      ]
+    },
+    {
+      "id": "rp-ct-4",
+      "title": "Non-compete compensation: the CFO objects",
+      "situation": "You are on a call with Graham, the CFO of a UK group, who has just learned that non-compete clauses in France must be paid for. He is sceptical. Explain the rule, the options available and your recommendation.",
+      "situation_fr": "Vous êtes en ligne avec Graham, directeur financier d'un groupe britannique, qui vient d'apprendre que les clauses de non-concurrence doivent être rémunérées en France. Il est sceptique. Expliquez la règle, les options possibles et votre recommandation.",
+      "turns": [
+        {
+          "say": "Let me get this straight. We have to pay people after they've left us, simply for not joining a competitor? That seems rather extraordinary.",
+          "seconds": 35,
+          "model": "I can see why it looks odd from a UK perspective, but yes, that's the position. In France, a non-compete clause is only valid if the employee receives financial compensation while the restriction applies. The reasoning is that you're limiting someone's freedom to work, so there has to be something in return.",
+          "tips_fr": "Validez sa réaction ('I can see why it looks odd') avant de confirmer la règle. 'Something in return' = une contrepartie."
+        },
+        {
+          "say": "And what if we simply leave the payment out of the contract?",
+          "seconds": 30,
+          "model": "Then I'm afraid the clause is void. The employee would be free to join a competitor the next day, and you'd have no protection at all. It would be worse than having no clause.",
+          "tips_fr": "'Void' = nul. Soulignez la conséquence pratique : aucune protection."
+        },
+        {
+          "say": "How much are we talking about? I need a figure for the budget.",
+          "seconds": 40,
+          "model": "It depends on the collective agreement that applies to each entity. Many of them set the amount, usually as a proportion of the employee's pay. I'd rather not give you a number off the top of my head. Let me check the agreements and come back to you with proper figures by Wednesday.",
+          "tips_fr": "Ne donnez pas de chiffre au hasard : 'I'd rather not give you a number off the top of my head' est la formule professionnelle pour différer. Engagez-vous sur une date."
+        },
+        {
+          "say": "Suppose someone leaves and we don't care where they go. Are we still on the hook?",
+          "seconds": 40,
+          "model": "Not necessarily. You can release the employee from the clause and avoid the payment, provided the contract or the collective agreement allows for a waiver and you do it within the time limit they set. That's why the drafting matters so much: we need to build that option in from the start.",
+          "tips_fr": "'To be on the hook' = être tenu de payer. 'Provided' introduit la condition. 'To build something in' = prévoir dès l'origine."
+        },
+        {
+          "say": "Right. So what's your recommendation?",
+          "seconds": 35,
+          "model": "I'd keep non-competes for the handful of roles where there's a genuine risk, senior sales people for instance, and drop them for everyone else. For those roles, we include the compensation and a clear waiver mechanism. That way you pay for protection only where you really need it.",
+          "tips_fr": "Recommandation en deux temps : pour qui, puis comment. 'That way' introduit le bénéfice pour le client."
+        }
+      ]
+    }
+  ],
+  "functional": [
+    {
+      "function": "Taking the floor",
+      "function_fr": "Prendre la parole",
+      "phrases": [
+        {"text": "If I may, I'd like to say a word about the notice period.", "register": "formal", "variety": "both"},
+        {"text": "Could I come in here?", "register": "everyday", "variety": "uk"},
+        {"text": "Can I jump in for a second?", "register": "informal", "variety": "us"},
+        {"text": "I'd like to pick up on what Tom just said.", "register": "everyday", "variety": "both"},
+        {"text": "Perhaps I could start by giving you the French perspective.", "register": "formal", "variety": "both"},
+        {"text": "There's one thing I'd like to add, if that's all right.", "register": "everyday", "variety": "both"},
+        {"text": "Shall I kick things off?", "register": "informal", "variety": "uk"},
+        {"text": "With your permission, I'd like to turn to the second item.", "register": "formal", "variety": "both"}
+      ]
+    },
+    {
+      "function": "Interrupting politely",
+      "function_fr": "Interrompre poliment",
+      "phrases": [
+        {"text": "Sorry to cut in, but could I clarify one point?", "register": "everyday", "variety": "both"},
+        {"text": "Sorry to butt in, but that's not quite how it works in France.", "register": "informal", "variety": "uk"},
+        {"text": "May I just stop you there for a moment?", "register": "formal", "variety": "both"},
+        {"text": "Before you go on, can I check something?", "register": "everyday", "variety": "both"},
+        {"text": "Hold on a second. Can we back up?", "register": "informal", "variety": "us"},
+        {"text": "I don't mean to interrupt, but we're running short of time.", "register": "everyday", "variety": "both"},
+        {"text": "Forgive me for interrupting, but I think there may be a misunderstanding.", "register": "formal", "variety": "both"},
+        {"text": "Let me just finish this point, and then I'll hand over to you.", "register": "everyday", "variety": "both"}
+      ]
+    },
+    {
+      "function": "Asking for clarification",
+      "function_fr": "Demander des précisions",
+      "phrases": [
+        {"text": "Could you clarify what you mean by 'permanent'?", "register": "formal", "variety": "both"},
+        {"text": "Sorry, I didn't quite catch that. Could you say it again?", "register": "everyday", "variety": "both"},
+        {"text": "I'm not sure I follow. Could you give me an example?", "register": "everyday", "variety": "both"},
+        {"text": "Could you elaborate on the second point?", "register": "formal", "variety": "both"},
+        {"text": "When you say 'at-will', what exactly does that cover?", "register": "everyday", "variety": "both"},
+        {"text": "Sorry, you've lost me there.", "register": "informal", "variety": "both"},
+        {"text": "Would you mind running through that again?", "register": "everyday", "variety": "uk"},
+        {"text": "Can you walk me through that one more time?", "register": "everyday", "variety": "us"}
+      ]
+    },
+    {
+      "function": "Rephrasing / checking understanding",
+      "function_fr": "Reformuler / vérifier la compréhension",
+      "phrases": [
+        {"text": "So, if I understand correctly, the contract can't be renewed a second time.", "register": "everyday", "variety": "both"},
+        {"text": "In other words, you need her written agreement.", "register": "everyday", "variety": "both"},
+        {"text": "Let me put that another way.", "register": "everyday", "variety": "both"},
+        {"text": "What I'm getting at is that silence doesn't count as consent.", "register": "informal", "variety": "both"},
+        {"text": "Just to make sure we're on the same page, the start date is 2 March?", "register": "everyday", "variety": "both"},
+        {"text": "So what you're saying is, we'd have to pay for the non-compete?", "register": "everyday", "variety": "both"},
+        {"text": "If I may rephrase, the proposal amounts to a variation of the contract.", "register": "formal", "variety": "both"},
+        {"text": "Does that make sense?", "register": "everyday", "variety": "both"}
+      ]
+    },
+    {
+      "function": "Disagreeing tactfully",
+      "function_fr": "Exprimer un désaccord avec tact",
+      "phrases": [
+        {"text": "I see what you mean, but I'm not sure it would stand up in a French court.", "register": "everyday", "variety": "both"},
+        {"text": "I take your point. However, the risk is real.", "register": "formal", "variety": "both"},
+        {"text": "I'm afraid I see it rather differently.", "register": "formal", "variety": "uk"},
+        {"text": "I'm not entirely convinced that's the best approach.", "register": "everyday", "variety": "uk"},
+        {"text": "With respect, I think that's a little optimistic.", "register": "formal", "variety": "uk"},
+        {"text": "I hear you, but I don't think that's going to work.", "register": "informal", "variety": "us"},
+        {"text": "I'd have to push back on that.", "register": "everyday", "variety": "us"},
+        {"text": "That's one way of looking at it. Could I suggest an alternative?", "register": "everyday", "variety": "both"}
+      ]
+    },
+    {
+      "function": "Buying time",
+      "function_fr": "Gagner du temps",
+      "phrases": [
+        {"text": "That's a good question. Let me think about it for a moment.", "register": "everyday", "variety": "both"},
+        {"text": "I'd rather not answer off the top of my head. Can I come back to you on that?", "register": "everyday", "variety": "both"},
+        {"text": "I'd need to check the collective agreement before giving you a firm answer.", "register": "formal", "variety": "both"},
+        {"text": "Let me get back to you on that by tomorrow.", "register": "everyday", "variety": "both"},
+        {"text": "Bear with me a second while I find the clause.", "register": "everyday", "variety": "uk"},
+        {"text": "Let me circle back to you on that.", "register": "informal", "variety": "us"},
+        {"text": "I wouldn't want to mislead you, so allow me to look into it.", "register": "formal", "variety": "both"},
+        {"text": "Can we park that for now and come back to it at the end?", "register": "informal", "variety": "both"}
+      ]
+    },
+    {
+      "function": "Summarising and closing",
+      "function_fr": "Résumer et conclure",
+      "phrases": [
+        {"text": "So, to sum up, we've agreed to offer permanent contracts.", "register": "everyday", "variety": "both"},
+        {"text": "Let me just recap the action points.", "register": "everyday", "variety": "both"},
+        {"text": "In short, nothing changes until the amendment is signed.", "register": "everyday", "variety": "both"},
+        {"text": "If there is no other business, I suggest we close the meeting there.", "register": "formal", "variety": "uk"},
+        {"text": "I think that covers everything. Thank you all for your time.", "register": "everyday", "variety": "both"},
+        {"text": "Shall we leave it there for today?", "register": "everyday", "variety": "uk"},
+        {"text": "Okay, let's wrap up. Any last questions?", "register": "informal", "variety": "us"},
+        {"text": "I'll circulate the minutes by the end of the week.", "register": "everyday", "variety": "both"}
+      ]
+    },
+    {
+      "function": "Small talk before a meeting",
+      "function_fr": "Échanger quelques mots avant une réunion",
+      "phrases": [
+        {"text": "How are things at your end?", "register": "everyday", "variety": "uk"},
+        {"text": "How's it going? Busy week?", "register": "informal", "variety": "both"},
+        {"text": "Did you have a good weekend?", "register": "everyday", "variety": "both"},
+        {"text": "How was your trip over?", "register": "everyday", "variety": "both"},
+        {"text": "What's the weather like in Chicago today?", "register": "everyday", "variety": "both"},
+        {"text": "I hear you've just moved offices. How are you settling in?", "register": "everyday", "variety": "both"},
+        {"text": "Shall we give the others a couple of minutes?", "register": "everyday", "variety": "uk"},
+        {"text": "It's a pleasure to meet you in person at last.", "register": "formal", "variety": "both"}
+      ]
+    }
+  ]
+}
