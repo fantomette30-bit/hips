@@ -1,0 +1,1624 @@
+{
+ "reading": [
+  {
+   "id": "rd-gl-1",
+   "title": "Letter of Assignment: Key Terms",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "LETTER OF ASSIGNMENT - SCHEDULE 1: KEY TERMS",
+    "1. Assignment. The Employee is assigned to Brightwater Systems Inc. (the 'Host Entity') in Chicago, Illinois, as Senior Product Manager, for a period of twenty-four months commencing on 1 September (the 'Assignment'). The Assignment may be extended by mutual written agreement, subject to the immigration and social security rules then applicable.",
+    "2. Employment relationship. Throughout the Assignment, the Employee shall remain employed by Brightwater France SAS (the 'Home Entity'), which alone shall retain disciplinary authority. The Employee's day-to-day work shall be organised by the Host Entity.",
+    "3. Remuneration. The Employee's remuneration shall continue to be determined on a home-based approach and shall be reviewed in line with the Home Entity's annual pay review. Base salary shall be paid in euros through the French payroll.",
+    "4. Allowances. In addition, the Employee shall receive a cost-of-living allowance, a capped housing allowance and one home leave trip per Assignment year for the Employee and accompanying family members, as set out in the Global Mobility Policy.",
+    "5. Tax and social security. The Employee shall be tax-equalised, and a hypothetical tax shall be withheld from his salary each month. The Home Entity shall apply for a certificate of coverage so that the Employee remains covered by the French social security system, insofar as the applicable bilateral agreement so permits.",
+    "6. Repatriation. On completion of the Assignment, the Home Entity shall bear the cost of repatriation of the Employee and his family and shall offer the Employee a position commensurate with his experience and level of responsibility."
+   ],
+   "glossary": [
+    {
+     "term": "Host Entity",
+     "plain": "the group company where the employee actually works during the assignment",
+     "fr": "entité d'accueil"
+    },
+    {
+     "term": "Home Entity",
+     "plain": "the group company that employs the employee before and during the assignment",
+     "fr": "entité d'origine"
+    },
+    {
+     "term": "disciplinary authority",
+     "plain": "the power to warn or sanction an employee",
+     "fr": "pouvoir disciplinaire"
+    },
+    {
+     "term": "home-based approach",
+     "plain": "pay calculated by reference to the home country, with allowances on top",
+     "fr": "package aligné sur le pays d'origine"
+    },
+    {
+     "term": "cost-of-living allowance",
+     "plain": "extra money to cover higher everyday prices in the host city",
+     "fr": "indemnité de coût de la vie"
+    },
+    {
+     "term": "home leave",
+     "plain": "a paid trip back to the home country, usually once a year",
+     "fr": "voyage annuel dans le pays d'origine"
+    },
+    {
+     "term": "tax-equalised",
+     "plain": "paying broadly the same tax as at home, with the company paying the real tax",
+     "fr": "en égalisation fiscale"
+    },
+    {
+     "term": "certificate of coverage",
+     "plain": "a document confirming that the employee stays in the home social security system",
+     "fr": "certificat de détachement (convention bilatérale)"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "by mutual written agreement",
+     "plain": "if both parties agree, in writing"
+    },
+    {
+     "phrase": "Throughout the Assignment",
+     "plain": "for the whole duration of the assignment"
+    },
+    {
+     "phrase": "insofar as",
+     "plain": "to the extent that; only if and as far as"
+    },
+    {
+     "phrase": "shall bear the cost of",
+     "plain": "will pay for"
+    },
+    {
+     "phrase": "commensurate with",
+     "plain": "matching; at a level that corresponds to"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who is the Employee's legal employer during the Assignment?",
+     "options": [
+      "Brightwater Systems Inc., because he works in Chicago",
+      "Brightwater France SAS",
+      "Both companies jointly",
+      "Whichever company pays the housing allowance"
+     ],
+     "answer": 1,
+     "explain_fr": "Clause 2 : 'shall remain employed by' l'entité française, qui seule conserve le pouvoir disciplinaire. L'entité d'accueil n'organise que le travail au quotidien."
+    },
+    {
+     "q": "Under clause 1, how can the Assignment be extended?",
+     "options": [
+      "If both parties agree in writing and the immigration and social security rules allow it",
+      "Automatically, unless the Employee objects",
+      "At the sole discretion of the Host Entity",
+      "Only once, for a maximum of twelve months"
+     ],
+     "answer": 0,
+     "explain_fr": "'By mutual written agreement' = d'un commun accord écrit ; 'subject to... then applicable' renvoie aux règles en vigueur au moment de la prolongation."
+    },
+    {
+     "q": "What does 'a hypothetical tax shall be withheld from his salary' mean?",
+     "options": [
+      "He will pay US tax directly from his salary",
+      "He will pay no tax at all during the Assignment",
+      "The company will refund all his French tax",
+      "The company deducts the amount of tax he would have paid at home"
+     ],
+     "answer": 3,
+     "explain_fr": "Dans l'égalisation fiscale, l'impôt hypothétique est une retenue interne égale à l'impôt qu'il aurait payé en France ; l'entreprise acquitte ensuite les impôts réels."
+    },
+    {
+     "q": "What does clause 6 promise the Employee at the end of the Assignment?",
+     "options": [
+      "A promotion and a pay rise",
+      "The choice between staying in Chicago and coming back",
+      "A paid return and a suitable job in the Home Entity",
+      "A lump-sum bonus for completing the Assignment"
+     ],
+     "answer": 2,
+     "explain_fr": "'Bear the cost of repatriation' = prise en charge du retour ; 'a position commensurate with his experience' = un poste correspondant à son expérience, pas forcément une promotion."
+    }
+   ]
+  },
+  {
+   "id": "rd-gl-2",
+   "title": "Global Mobility Policy: Types of Move",
+   "kind": "policy extract",
+   "level": 2,
+   "paragraphs": [
+    "SECTION 2 - TYPES OF INTERNATIONAL MOVE",
+    "2.1 Purpose. This section defines the types of international move recognised by the Group and the support attached to each. It applies to all entities, subject to mandatory provisions of local law, which shall prevail in the event of conflict.",
+    "2.2 Business travel. Trips of up to 30 consecutive days are treated as business travel and fall outside the scope of this Policy. Travellers must nevertheless record their trips in the travel tool, so that day counts, A1 certificates and posting declarations can be managed.",
+    "2.3 Short-term assignment (3 to 12 months). The assignee travels unaccompanied and is provided with serviced accommodation, a per diem and one trip home every eight weeks. Base salary continues to be paid through the home payroll.",
+    "2.4 Long-term assignment (over 12 months). The assignee may be accompanied by family members. Support includes a pre-assignment visit, destination services, housing and education allowances, annual home leave and cross-cultural training for the assignee and partner. Long-term assignees are tax-equalised.",
+    "2.5 Permanent transfer. The employee moves with no intention of returning to the home entity. He or she is hired by the receiving entity on local terms and receives a one-off relocation allowance. No expatriate allowances are paid.",
+    "2.6 Exceptions. Any departure from this section requires the prior written approval of Global Mobility and of the relevant business leader. Exceptions are granted on a case-by-case basis and shall not create a precedent."
+   ],
+   "glossary": [
+    {
+     "term": "day counts",
+     "plain": "records of the number of days spent in each country",
+     "fr": "décompte des jours de présence"
+    },
+    {
+     "term": "unaccompanied",
+     "plain": "without the family moving too",
+     "fr": "sans la famille"
+    },
+    {
+     "term": "serviced accommodation",
+     "plain": "a furnished flat with cleaning and services, rented for a short period",
+     "fr": "appartement meublé avec services (résidence hôtelière)"
+    },
+    {
+     "term": "per diem",
+     "plain": "a fixed daily amount to cover meals and small expenses",
+     "fr": "indemnité journalière"
+    },
+    {
+     "term": "destination services",
+     "plain": "help on arrival to find a home and a school and settle in",
+     "fr": "services d'accueil et d'installation"
+    },
+    {
+     "term": "receiving entity",
+     "plain": "the group company the employee joins",
+     "fr": "entité d'accueil (qui embauche)"
+    },
+    {
+     "term": "one-off",
+     "plain": "paid only once",
+     "fr": "ponctuel, versé une seule fois"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "subject to mandatory provisions of local law",
+     "plain": "unless local rules that cannot be set aside say otherwise"
+    },
+    {
+     "phrase": "shall prevail in the event of conflict",
+     "plain": "will apply instead if the two say different things"
+    },
+    {
+     "phrase": "fall outside the scope of",
+     "plain": "are not covered by"
+    },
+    {
+     "phrase": "on a case-by-case basis",
+     "plain": "individually, looking at each situation separately"
+    },
+    {
+     "phrase": "shall not create a precedent",
+     "plain": "cannot be used later to claim the same treatment"
+    }
+   ],
+   "questions": [
+    {
+     "q": "An engineer is going to Madrid for three weeks. According to the Policy, what must happen?",
+     "options": [
+      "Nothing: business travel is outside the Policy",
+      "She must be given serviced accommodation and a per diem",
+      "The trip must be recorded so that A1 and posting formalities can be handled",
+      "She must obtain the prior approval of Global Mobility"
+     ],
+     "answer": 2,
+     "explain_fr": "Le déplacement est hors du champ de la politique ('fall outside the scope'), mais 'nevertheless' introduit une obligation : enregistrer le voyage pour gérer A1 et déclaration de détachement."
+    },
+    {
+     "q": "Which type of move includes cross-cultural training for the partner?",
+     "options": [
+      "Long-term assignment",
+      "Short-term assignment",
+      "Permanent transfer",
+      "Business travel"
+     ],
+     "answer": 0,
+     "explain_fr": "Section 2.4 : 'cross-cultural training for the assignee and partner'. En mission courte, l'affectation est 'unaccompanied'."
+    },
+    {
+     "q": "What is true of a permanent transfer?",
+     "options": [
+      "The employee keeps the home contract and receives expatriate allowances",
+      "The employee is tax-equalised for the first year",
+      "The employee must return after five years",
+      "The employee is employed locally and receives a single relocation payment"
+     ],
+     "answer": 3,
+     "explain_fr": "'Hired by the receiving entity on local terms' et 'a one-off relocation allowance' : contrat local et somme forfaitaire unique, sans indemnités d'expatriation."
+    },
+    {
+     "q": "A provision of the Policy conflicts with French law. What does the Policy say?",
+     "options": [
+      "The Policy applies, because it is a Group document",
+      "Mandatory French law applies",
+      "Global Mobility decides case by case",
+      "The more generous rule applies"
+     ],
+     "answer": 1,
+     "explain_fr": "Section 2.1 : 'subject to mandatory provisions of local law, which shall prevail' : le droit local impératif l'emporte. C'est la clause à vérifier dans toute politique groupe."
+    }
+   ]
+  },
+  {
+   "id": "rd-gl-3",
+   "title": "New global guidelines from head office",
+   "kind": "long email",
+   "level": 1,
+   "paragraphs": [
+    "Subject: New Global Work-From-Anywhere Guidelines - effective March 1",
+    "Hi all,",
+    "As many of you know, our people have been asking for more flexibility for a while now. I'm excited to share that starting March 1, every Brightwater employee worldwide will be able to work from anywhere for up to 30 days a year. The full guidelines are attached.",
+    "A few key points. Employees will submit their requests in Workday at least two weeks in advance, and their managers will approve them. Employees must stay within two time zones of their team, and work-from-anywhere days can't be combined with business travel.",
+    "We know some of you have local rules to consider. To keep things simple and fair, though, we're asking all countries to roll out the guidelines as they are. If you feel a change is absolutely necessary, please send me a short business case by February 10, and the Global HR Leadership Team will review it.",
+    "Please cascade this to your leadership teams this week, and let me know if you have any questions. We'll also cover it on next Tuesday's global HR call (8 a.m. Central / 3 p.m. CET).",
+    "Thanks so much for your support - this is a big step for our culture!",
+    "Best,",
+    "Megan Ross",
+    "VP, Global HR"
+   ],
+   "glossary": [
+    {
+     "term": "work from anywhere",
+     "plain": "work remotely from any location, including another country",
+     "fr": "travailler de n'importe où (y compris de l'étranger)"
+    },
+    {
+     "term": "in advance",
+     "plain": "before the date concerned",
+     "fr": "à l'avance"
+    },
+    {
+     "term": "time zones",
+     "plain": "regions of the world that share the same clock time",
+     "fr": "fuseaux horaires"
+    },
+    {
+     "term": "roll out",
+     "plain": "introduce something everywhere, in a planned way",
+     "fr": "déployer"
+    },
+    {
+     "term": "business case",
+     "plain": "a short argument showing why a change is needed and what it costs or brings",
+     "fr": "argumentaire, dossier de justification"
+    },
+    {
+     "term": "cascade",
+     "plain": "pass information down to the next level of managers",
+     "fr": "relayer, décliner (vers les équipes)"
+    },
+    {
+     "term": "CET",
+     "plain": "Central European Time, the time zone of Paris",
+     "fr": "heure d'Europe centrale (heure de Paris)"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "What is the main purpose of Megan's email?",
+     "options": [
+      "To ask countries whether they want a work-from-anywhere policy",
+      "To announce a global policy and ask countries to apply it unchanged",
+      "To cancel business travel for March",
+      "To invite managers to a training session"
+     ],
+     "answer": 1,
+     "explain_fr": "Le message annonce une politique déjà décidée ('starting March 1') et demande de la déployer 'as they are' (telle quelle). La consultation n'est prévue que par exception."
+    },
+    {
+     "q": "What should a country do if it needs to change the guidelines?",
+     "options": [
+      "Send a short business case by February 10",
+      "Raise it with employees' managers",
+      "Wait for the global HR call",
+      "Change them locally and inform head office afterwards"
+     ],
+     "answer": 0,
+     "explain_fr": "'If you feel a change is absolutely necessary, please send me a short business case by February 10' : l'adaptation passe par un argumentaire écrit, avant une date précise."
+    },
+    {
+     "q": "What time is the global HR call in Paris?",
+     "options": [
+      "8 a.m.",
+      "10 a.m.",
+      "1 p.m.",
+      "3 p.m."
+     ],
+     "answer": 3,
+     "explain_fr": "'8 a.m. Central / 3 p.m. CET' : l'heure de Paris est indiquée en CET. Les Américains abrègent souvent 'Central Time' en 'Central'."
+    },
+    {
+     "q": "From a French HR point of view, which part of the email is most likely to need discussion?",
+     "options": [
+      "The request to cascade the email this week",
+      "The two-week notice for requests",
+      "Rolling out the guidelines in every country without local changes",
+      "The thank-you at the end"
+     ],
+     "answer": 2,
+     "explain_fr": "En France, le télétravail est encadré (accord collectif ou charte après avis du CSE, droit à la déconnexion), et travailler depuis l'étranger soulève des questions fiscales, sociales et d'immigration : un déploiement 'as they are' est difficilement tenable."
+    }
+   ]
+  },
+  {
+   "id": "rd-gl-4",
+   "title": "Immigration checklist for two engineers from India",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Sophie Laurent, HR Director, Velmont France | From: Anika Mehta, Senior Associate, Corbel Immigration | Re: Assignment of two engineers from India - immigration checklist",
+    "Further to our call on Monday, please find below the steps required for Mr Rao and Ms Iyer to work at your Lyon site from early May. As both will remain employed and paid by the Indian entity, their stay will be treated as a posting for French purposes.",
+    "1. Work authorisation. Both engineers have several years' service within the group and should be eligible for an intra-company transfer permit. Applications are made online, and processing times can vary considerably. We would strongly advise against booking flights until approval has been received.",
+    "2. Visas. Once the permit has been approved, each engineer must apply for a long-stay visa at the French consulate in India. Ms Iyer's husband and son will require dependant visas, which should be applied for at the same time.",
+    "3. Posting formalities. Before the start date, the Indian employer must file a posting declaration and appoint a representative in France. As the host company, you are required to check that this has been done.",
+    "4. Social security. A certificate of coverage may be obtained from the Indian authorities under the bilateral agreement, subject to its conditions.",
+    "5. Terms of employment. Throughout the posting, the French core rules apply, including minimum pay, maximum working hours and rest periods.",
+    "We would be happy to discuss the timeline at your convenience."
+   ],
+   "glossary": [
+    {
+     "term": "intra-company transfer permit",
+     "plain": "a permit for managers or specialists moved temporarily within the same group from outside the EU",
+     "fr": "titre « salarié détaché ICT »"
+    },
+    {
+     "term": "processing times",
+     "plain": "how long the authorities take to decide on an application",
+     "fr": "délais d'instruction"
+    },
+    {
+     "term": "long-stay visa",
+     "plain": "a visa for a stay of more than three months",
+     "fr": "visa long séjour"
+    },
+    {
+     "term": "dependant visas",
+     "plain": "visas for the family members of the main applicant",
+     "fr": "titres pour la famille accompagnante"
+    },
+    {
+     "term": "posting declaration",
+     "plain": "the notice a foreign employer files before sending workers to France",
+     "fr": "déclaration préalable de détachement"
+    },
+    {
+     "term": "certificate of coverage",
+     "plain": "a document showing the worker stays in the home social security system",
+     "fr": "certificat de détachement"
+    },
+    {
+     "term": "core rules",
+     "plain": "the minimum French employment rules that apply to posted workers",
+     "fr": "noyau dur des règles françaises"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "Further to",
+     "plain": "following; with reference to"
+    },
+    {
+     "phrase": "for French purposes",
+     "plain": "in the eyes of French law"
+    },
+    {
+     "phrase": "subject to its conditions",
+     "plain": "provided that the conditions of the agreement are met"
+    },
+    {
+     "phrase": "at your convenience",
+     "plain": "whenever suits you"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is the engineers' stay treated as a posting?",
+     "options": [
+      "Because it lasts less than a year",
+      "Because they will work in Lyon",
+      "Because they remain employed and paid by the Indian entity",
+      "Because they hold intra-company transfer permits"
+     ],
+     "answer": 2,
+     "explain_fr": "'As both will remain employed and paid by the Indian entity' : c'est le maintien du lien avec l'employeur étranger qui caractérise le détachement."
+    },
+    {
+     "q": "What does the memo advise about travel arrangements?",
+     "options": [
+      "Not to book flights before the permits are approved",
+      "To book flights early to get better prices",
+      "To book flights after the posting declaration",
+      "To let the engineers book their own flights"
+     ],
+     "answer": 0,
+     "explain_fr": "'We would strongly advise against booking flights until approval has been received' : 'advise against' = déconseiller."
+    },
+    {
+     "q": "What is Velmont France's own obligation regarding the posting declaration?",
+     "options": [
+      "To file it on behalf of the Indian employer",
+      "To appoint the representative in France",
+      "To translate it into French",
+      "To check that the Indian employer has filed it"
+     ],
+     "answer": 3,
+     "explain_fr": "'As the host company, you are required to check that this has been done' : l'entreprise d'accueil a une obligation de vigilance ; la déclaration incombe à l'employeur étranger."
+    },
+    {
+     "q": "Which statement about the family is correct?",
+     "options": [
+      "Ms Iyer's family can join her once she has her residence permit",
+      "Her husband and son need dependant visas, applied for at the same time",
+      "Her family does not need visas because of the bilateral agreement",
+      "Only her husband needs a visa"
+     ],
+     "answer": 1,
+     "explain_fr": "'Will require dependant visas, which should be applied for at the same time' : la demande de la famille se fait en même temps. La convention bilatérale ne concerne que la sécurité sociale."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-gl-1",
+   "title": "Explaining posted-worker rules to a US manager",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Ryan, a VP of Engineering in Austin, wants to send three engineers to the Paris office for two months in March. They will stay on the US payroll. Write him a short, friendly email explaining the French posting rules he needs to plan for, and suggest a call.",
+   "brief_fr": "Ryan, vice-président ingénierie à Austin, veut envoyer trois ingénieurs au bureau de Paris pendant deux mois en mars. Ils resteront payés par la société américaine. Écrivez-lui un e-mail court et cordial expliquant les règles françaises du détachement à anticiper, et proposez un appel.",
+   "gaps": [
+    {
+     "text": "It's great news for the project, but there are a few French rules we need to ___ for.",
+     "answer": "plan",
+     "accept": [
+      "allow",
+      "prepare"
+     ],
+     "explain_fr": "'To plan for something' = anticiper, prévoir. 'To allow for' convient aussi. Évitez 'to foresee', qui signifie prédire."
+    },
+    {
+     "text": "Because they will stay on the US payroll, they will be ___ workers under French law, even for a few weeks.",
+     "answer": "posted",
+     "accept": [],
+     "explain_fr": "'Posted worker' est le terme du droit européen pour le travailleur détaché. 'Detached' est un faux ami."
+    },
+    {
+     "text": "Before they arrive, the US entity must ___ a posting declaration with the French labour inspectorate.",
+     "answer": "file",
+     "accept": [
+      "submit"
+     ],
+     "explain_fr": "On 'file' ou 'submit' une déclaration administrative. 'Make a declaration' évoque une déclaration publique ou solennelle."
+    },
+    {
+     "text": "During their stay, they are entitled to the French minimum rules on pay, working hours and rest, ___ what their US contracts say.",
+     "answer": "whatever",
+     "accept": [
+      "regardless of",
+      "irrespective of"
+     ],
+     "explain_fr": "'Whatever their contracts say' = quoi que disent leurs contrats. 'Regardless of' est plus formel et tout aussi juste."
+    },
+    {
+     "text": "On social security, a certificate of coverage would ___ us from paying French contributions on top of US ones.",
+     "answer": "exempt",
+     "accept": [],
+     "explain_fr": "'To exempt someone from doing something' = dispenser de. Notez la préposition 'from' suivie de la forme en -ing."
+    },
+    {
+     "text": "I'd suggest we ___ a quick call this week to go through the timeline.",
+     "answer": "set up",
+     "accept": [
+      "schedule",
+      "arrange"
+     ],
+     "explain_fr": "'To set up a call' est naturel et neutre. 'I'd suggest we...' est une proposition polie sans 'should'."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Sending the Austin engineers to Paris - French posting rules\n\nHi Ryan,\n\nThanks for letting me know about the three engineers you'd like to send to Paris in March. It's great news for the project, but there are a few French rules we need to plan for.\n\nBecause they will stay on the US payroll, they will be posted workers under French law, even for a few weeks. Before they arrive, the US entity must file a posting declaration with the French labour inspectorate and appoint a representative in France.\n\nDuring their stay, they are entitled to the French minimum rules on pay, working hours and rest, whatever their US contracts say. We will also need to check whether they need work authorisation, which depends on the exact nature of their work here.\n\nOn social security, a certificate of coverage would exempt us from paying French contributions on top of US ones, so I'll ask Global Mobility to request one.\n\nNone of this is a deal-breaker, but it does take a few weeks. I'd suggest we set up a quick call this week to go through the timeline.\n\nBest regards,\nSophie",
+   "model_us": "Subject: Sending the Austin engineers to Paris - French posting rules\n\nHi Ryan,\n\nThanks for letting me know about the three engineers you'd like to send to Paris in March. It's great news for the project, but there are a few French rules we need to plan for.\n\nSince they'll stay on the US payroll, they'll be posted workers under French law, even for a few weeks. Before they arrive, the US entity has to file a posting declaration with the French labor inspectorate and appoint a representative in France.\n\nWhile they're here, they're entitled to the French minimum rules on pay, working hours and rest, regardless of what their US contracts say. We'll also need to check whether they need work authorization, which depends on exactly what they'll be doing here.\n\nOn social security, a certificate of coverage would exempt us from paying French contributions on top of US ones, so I'll ask Global Mobility to request one.\n\nNone of this is a deal-breaker, but it does take a few weeks. Could we set up a quick call this week to go over the timeline?\n\nBest,\nSophie",
+   "commentary": [
+    {
+     "quote": "It's great news for the project, but there are a few French rules we need to plan for.",
+     "note_fr": "On commence par du positif avant d'annoncer les contraintes : le lecteur américain reste réceptif. 'A few' minimise sans mentir."
+    },
+    {
+     "quote": "they will be posted workers under French law, even for a few weeks",
+     "note_fr": "La qualification juridique est posée en une phrase simple ; 'even for a few weeks' répond d'avance à l'objection 'it's only two months'."
+    },
+    {
+     "quote": "whatever their US contracts say",
+     "note_fr": "Formule claire pour expliquer le caractère impératif des règles françaises, sans jargon ('hard core', 'mandatory provisions')."
+    },
+    {
+     "quote": "which depends on the exact nature of their work here",
+     "note_fr": "Prudence juridique : on ne promet pas d'exemption ; la réponse dépend des faits."
+    },
+    {
+     "quote": "None of this is a deal-breaker, but it does take a few weeks.",
+     "note_fr": "'Deal-breaker' = obstacle rédhibitoire. Le 'does' d'insistance souligne la contrainte de délai sans dramatiser."
+    }
+   ],
+   "checklist": [
+    "Have I explained why the engineers count as posted workers?",
+    "Have I said who must file the declaration and when?",
+    "Have I mentioned pay and working time, work authorisation and social security separately?",
+    "Have I avoided promising anything that depends on the facts?",
+    "Does the email end with a concrete next step?"
+   ],
+   "phrasebank": [
+    "There are a few French rules we need to plan for.",
+    "Under French law, they will be treated as posted workers.",
+    "The US entity must file a posting declaration before they arrive.",
+    "They are entitled to the French minimum rules, whatever their contracts say.",
+    "This depends on the exact nature of their work.",
+    "None of this is a deal-breaker, but it does take time.",
+    "I'd suggest we set up a quick call to go through the timeline."
+   ]
+  },
+  {
+   "id": "wr-gl-2",
+   "title": "Summarising an assignment offer for an employee",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Following a meeting with Julien Marchand, a product manager, write an email summarising the main terms of the two-year assignment to Chicago you have offered him: start date, employer, pay, allowances, tax, and the fact that the final terms will be in his assignment letter.",
+   "brief_fr": "À la suite d'un entretien avec Julien Marchand, chef de produit, rédigez un e-mail résumant les principales conditions de la mission de deux ans à Chicago que vous lui avez proposée : date de départ, employeur, rémunération, indemnités, fiscalité, et le fait que les conditions définitives figureront dans sa lettre de mission.",
+   "gaps": [
+    {
+     "text": "I am pleased to ___ the main terms of the assignment we discussed on Tuesday.",
+     "answer": "summarise",
+     "accept": [
+      "set out",
+      "outline",
+      "summarize"
+     ],
+     "explain_fr": "'To summarise' (UK) / 'to summarize' (US). 'To set out' est très fréquent à l'écrit pour exposer des conditions."
+    },
+    {
+     "text": "You would be assigned to our Chicago office for 24 months, ___ 1 September.",
+     "answer": "starting on",
+     "accept": [
+      "from",
+      "with effect from",
+      "commencing on"
+     ],
+     "explain_fr": "'Starting on' est neutre ; 'with effect from' et 'commencing on' sont plus juridiques. Le conditionnel 'would' rappelle que l'offre n'est pas encore acceptée."
+    },
+    {
+     "text": "You would remain employed by Brightwater France, and your salary would continue to be paid ___ the French payroll.",
+     "answer": "through",
+     "accept": [
+      "via"
+     ],
+     "explain_fr": "On est payé 'through the payroll' (par la paie). 'By the payroll' est maladroit."
+    },
+    {
+     "text": "You would also receive a cost-of-living allowance, a housing allowance and one home leave trip a year for you and your family, ___ in the attached summary.",
+     "answer": "as detailed",
+     "accept": [
+      "as set out",
+      "as described"
+     ],
+     "explain_fr": "'As detailed in' renvoie à un document joint. Pas d'article ni de 'it' : 'as detailed in the attached summary'."
+    },
+    {
+     "text": "You would be tax-equalised, which means that you would pay ___ the same tax as if you had stayed in France.",
+     "answer": "broadly",
+     "accept": [
+      "roughly",
+      "approximately",
+      "about"
+     ],
+     "explain_fr": "'Broadly' = à peu près, dans les grandes lignes. Il évite de promettre une égalité au centime près."
+    },
+    {
+     "text": "Please note that this summary is not a contract: your final terms will be set out in your assignment letter, which will be ___ to the immigration process.",
+     "answer": "subject",
+     "accept": [],
+     "explain_fr": "'Subject to' = sous réserve de. Formule essentielle pour conditionner une offre de mobilité à l'obtention des titres."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Your assignment to Chicago - summary of terms\n\nDear Julien,\n\nThank you for your time on Tuesday. As promised, I am pleased to summarise the main terms of the assignment we discussed.\n\nYou would be assigned to our Chicago office for 24 months, starting on 1 September, as Senior Product Manager. You would remain employed by Brightwater France, and your salary would continue to be paid through the French payroll.\n\nYou would also receive a cost-of-living allowance, a housing allowance and one home leave trip a year for you and your family, as detailed in the attached summary. You would be tax-equalised, which means that you would pay broadly the same tax as if you had stayed in France.\n\nPlease note that this summary is not a contract: your final terms will be set out in your assignment letter, which will be subject to the immigration process.\n\nI know this is a big decision for you and your family, so please take the time you need. I would be happy to arrange a call with our tax adviser if that would help.\n\nKind regards,\nSophie Laurent\nHR Director",
+   "model_us": "Subject: Your assignment to Chicago - summary of terms\n\nDear Julien,\n\nThank you for your time on Tuesday. As promised, here is a summary of the main terms of the assignment we discussed.\n\nYou would be assigned to our Chicago office for 24 months, starting on September 1, as Senior Product Manager. You would remain employed by Brightwater France, and your salary would continue to be paid through the French payroll.\n\nYou would also receive a cost-of-living allowance, a housing allowance and one home leave trip a year for you and your family, as detailed in the attached summary. You would be tax-equalized, which means you would pay roughly the same tax as if you had stayed in France.\n\nPlease note that this summary is not a contract: your final terms will be set out in your assignment letter, which will be subject to the immigration process.\n\nI know this is a big decision for you and your family, so please take the time you need. I'd be happy to set up a call with our tax advisor if that would help.\n\nBest regards,\nSophie Laurent\nHR Director",
+   "commentary": [
+    {
+     "quote": "As promised, I am pleased to summarise",
+     "note_fr": "'As promised' rattache l'e-mail à l'échange oral ; 'I am pleased to' donne un ton positif sans excès."
+    },
+    {
+     "quote": "You would be assigned",
+     "note_fr": "Le conditionnel 'would' est maintenu tout au long : c'est une proposition, pas encore un engagement."
+    },
+    {
+     "quote": "as detailed in the attached summary",
+     "note_fr": "On renvoie le détail chiffré à une pièce jointe : l'e-mail reste lisible."
+    },
+    {
+     "quote": "this summary is not a contract",
+     "note_fr": "Phrase courte et nette qui protège l'entreprise : le salarié sait que seule la lettre de mission engage."
+    },
+    {
+     "quote": "I know this is a big decision for you and your family",
+     "note_fr": "Touche humaine bienvenue : la famille est le premier facteur de réussite d'une expatriation."
+    }
+   ],
+   "checklist": [
+    "Have I used 'would' consistently, since the offer has not been accepted?",
+    "Are the destination, duration, start date and employer all stated?",
+    "Have I explained tax equalisation in plain words?",
+    "Have I made clear that the summary is not the contract?",
+    "Have I offered further help?"
+   ],
+   "phrasebank": [
+    "As promised, I am pleased to summarise the main terms.",
+    "You would remain employed by the French company throughout.",
+    "Your salary would continue to be paid through the French payroll.",
+    "As detailed in the attached summary.",
+    "This means that you would pay broadly the same tax as if you had stayed in France.",
+    "Your final terms will be set out in your assignment letter.",
+    "This offer is subject to the immigration process."
+   ]
+  },
+  {
+   "id": "wr-gl-3",
+   "title": "A note on adapting a global policy in France",
+   "stage": 2,
+   "kind": "report",
+   "brief": "Head office has asked all countries to roll out new global work-from-anywhere guidelines unchanged. Write a one-page note to Megan Ross, VP Global HR, supporting the aim but explaining which points need a French addendum and proposing a way forward.",
+   "brief_fr": "Le siège demande à tous les pays de déployer telles quelles de nouvelles règles mondiales sur le travail depuis n'importe où. Rédigez une note d'une page à Megan Ross, VP Global HR, qui soutient l'objectif mais explique quels points nécessitent un addendum français, et proposez une marche à suivre.",
+   "gaps": [],
+   "outline": [
+    "Support for the aim, and purpose of the note",
+    "Telework in France: collective agreement or charter, works council",
+    "Working from another country: tax, social security, immigration, PE risk",
+    "Working time and the right to disconnect across time zones",
+    "Proposal: a short French addendum and a timeline"
+   ],
+   "model": "Work-from-anywhere guidelines: proposed French addendum\n\nThe France team fully supports the aim of the new guidelines, and our employees will welcome them. The purpose of this note is to flag the points that need adapting before they can be rolled out in France, and to suggest a way forward that keeps us on schedule.\n\nFirst, telework in France is governed by a specific framework. It is normally set up through a collective agreement or, failing that, a charter drawn up by the employer after consulting the works council. Our existing remote working charter will therefore need to be amended, and the works council consulted, before the new rules take effect.\n\nSecondly, working from another country is not only a question of flexibility. Depending on the country and the number of days, it can trigger tax, social security and immigration obligations, and a permanent establishment risk for the company. We would recommend a short checklist for each request rather than automatic manager approval.\n\nFinally, the requirement to stay within two time zones is helpful, but French working time rules and the right to disconnect continue to apply wherever the employee is.\n\nWe therefore propose a two-page French addendum, which we can draft by the end of the month and present to the works council in March. This would mean a start date of 1 May in France rather than 1 March. I would be glad to walk you through the details on Tuesday's call.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "The France team fully supports the aim of the new guidelines",
+     "note_fr": "On commence par adhérer à l'objectif : le siège entendra mieux les réserves qui suivent."
+    },
+    {
+     "quote": "to flag the points that need adapting",
+     "note_fr": "'To flag' = signaler. Le mot 'adapting' est plus positif que 'problems' ou 'issues'."
+    },
+    {
+     "quote": "or, failing that, a charter drawn up by the employer after consulting the works council",
+     "note_fr": "'Failing that' = à défaut. On décrit le cadre français de façon générale et exacte, sans citer d'article."
+    },
+    {
+     "quote": "it can trigger tax, social security and immigration obligations",
+     "note_fr": "'To trigger' = déclencher : verbe clé pour expliquer des conséquences juridiques automatiques."
+    },
+    {
+     "quote": "This would mean a start date of 1 May in France rather than 1 March.",
+     "note_fr": "On assume clairement le coût de la proposition (un décalage) : c'est ce qui la rend crédible."
+    },
+    {
+     "quote": "I would be glad to walk you through the details",
+     "note_fr": "'To walk someone through' = expliquer pas à pas. Clôture tournée vers l'action."
+    }
+   ],
+   "checklist": [
+    "Does the note open by supporting the aim before raising issues?",
+    "Is each French requirement explained in general and accurate terms, without invented references?",
+    "Have I separated the different risks (telework framework, cross-border issues, working time)?",
+    "Is there a concrete proposal with a timeline?",
+    "Is the tone constructive rather than defensive?"
+   ],
+   "phrasebank": [
+    "We fully support the aim of the new guidelines.",
+    "The purpose of this note is to flag the points that need adapting.",
+    "Telework in France is governed by a specific framework.",
+    "Failing that, the employer may draw up a charter after consulting the works council.",
+    "Depending on the country, it can trigger tax and social security obligations.",
+    "We would recommend a short checklist for each request.",
+    "We therefore propose a short French addendum.",
+    "This would mean a later start date in France."
+   ]
+  },
+  {
+   "id": "wr-gl-4",
+   "title": "Minutes of a global HR call",
+   "stage": 2,
+   "kind": "meeting minutes",
+   "brief": "You took part in the monthly global HR call with colleagues from the US, the UK and India. Write the minutes from your notes, covering three items: the new job architecture, the mobility policy update and meeting times, with actions.",
+   "brief_fr": "Vous avez participé à la conférence mensuelle RH monde avec des collègues des États-Unis, du Royaume-Uni et d'Inde. Rédigez le compte rendu à partir de vos notes sur trois points : la nouvelle architecture des emplois, la mise à jour de la politique de mobilité et les horaires de réunion, avec les actions.",
+   "gaps": [],
+   "outline": [
+    "Date, time in each zone, attendees and apologies",
+    "Item 1: job architecture - France mapping to the collective agreement",
+    "Item 2: mobility policy update - partner support and remote work abroad",
+    "Item 3: rotating meeting times",
+    "Action points with owners and deadlines"
+   ],
+   "model": "Global HR call - minutes\n\nDate: Tuesday 7 February, 8 a.m. Central / 2 p.m. UK / 3 p.m. Paris / 7.30 p.m. India\nPresent: Megan Ross (Chair, US), Tom Fielding (UK), Priya Nair (India), Sophie Laurent (France)\nApologies: Daniel Cho (Singapore)\n\n1. Global job architecture\nMegan confirmed that all roles are to be mapped to the new eight-level architecture by the end of June. Sophie explained that in France each employee must also keep a classification level under the collective agreement, which determines the minimum salary. It was agreed that France would produce a mapping table between the two rather than replace the local classification.\n\n2. Mobility policy update\nTom presented the draft update. The main changes are a new partner support allowance and a procedure for short periods of remote work abroad. Priya asked whether the partner allowance would be taxable; this is to be checked with the tax provider for each country.\n\n3. Meeting times\nThe current slot is late evening in India. It was agreed to rotate the call between two times from April onwards, so that the inconvenience is shared.\n\nActions\n- Sophie: send the draft France mapping table to Megan by 30 April.\n- Tom: circulate the final policy draft by 7 April.\n- Megan: send revised invitations with the rotating slots.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "8 a.m. Central / 2 p.m. UK / 3 p.m. Paris / 7.30 p.m. India",
+     "note_fr": "Indiquer l'heure de chaque fuseau est une marque de considération dans une équipe mondiale. Notez le décalage d'une demi-heure de l'Inde."
+    },
+    {
+     "quote": "Apologies: Daniel Cho (Singapore)",
+     "note_fr": "'Apologies' = excusés, usage britannique des comptes rendus. Un Américain écrirait 'Absent'."
+    },
+    {
+     "quote": "Sophie explained that in France each employee must also keep a classification level under the collective agreement",
+     "note_fr": "Discours indirect au passé ('explained that... must') : forme standard des minutes."
+    },
+    {
+     "quote": "It was agreed that France would produce a mapping table",
+     "note_fr": "Le passif impersonnel 'It was agreed' consigne une décision collective sans l'attribuer."
+    },
+    {
+     "quote": "this is to be checked with the tax provider",
+     "note_fr": "'Is to be + participe' exprime une tâche prévue : très fréquent dans les comptes rendus."
+    },
+    {
+     "quote": "so that the inconvenience is shared",
+     "note_fr": "Formule neutre et équitable pour justifier la rotation des horaires."
+    }
+   ],
+   "checklist": [
+    "Have I given the time of the call in each participant's time zone?",
+    "Are decisions clearly separated from discussion?",
+    "Have I used reported speech and the past tense consistently?",
+    "Does each action have an owner and a deadline?",
+    "Is each item short enough to read in thirty seconds?"
+   ],
+   "phrasebank": [
+    "Megan confirmed that all roles are to be mapped by the end of June.",
+    "Sophie explained that in France...",
+    "It was agreed that...",
+    "This is to be checked with the tax provider.",
+    "It was agreed to rotate the call between two times.",
+    "Action: circulate the final draft by 7 April.",
+    "Apologies were received from..."
+   ]
+  },
+  {
+   "id": "wr-gl-5",
+   "title": "Confirming an employee's return from assignment",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "Camille Roux is coming back to Paris in July after a three-year assignment in Singapore. Write the formal letter confirming the end of her assignment, her return position, what happens to her allowances, the repatriation support and the final tax settlement.",
+   "brief_fr": "Camille Roux revient à Paris en juillet après trois ans de mission à Singapour. Rédigez la lettre officielle confirmant la fin de sa mission, son poste au retour, le sort de ses indemnités, l'accompagnement au retour et le règlement fiscal final.",
+   "gaps": [],
+   "outline": [
+    "Reference to the assignment and its end date",
+    "Return position, start date and reporting line",
+    "End of assignment allowances and return to standard French terms",
+    "Repatriation support: removal, travel, temporary accommodation",
+    "Final tax equalisation settlement and next steps"
+   ],
+   "model": "Dear Ms Roux,\n\nEnd of your international assignment\n\nI am writing to confirm the arrangements for the end of your assignment to Velmont Asia Pte Ltd in Singapore, which will come to an end on 30 June, as provided for in your letter of assignment.\n\nWe are delighted to confirm that, with effect from 15 July, you will take up the position of Head of Regional Supply Chain at our Paris office, reporting to Marc Delattre, Chief Operations Officer. The position is at a level commensurate with your current responsibilities, and your basic salary will be reviewed as part of the annual pay review in the usual way.\n\nAs from 1 July, the allowances linked to your assignment, including the cost-of-living and housing allowances, will cease, and your remuneration will once again be governed solely by your French employment contract and the applicable collective agreement.\n\nThe Company will bear the cost of your return to France and that of your family, including the shipment of your household goods and up to four weeks of temporary accommodation in Paris. Our relocation provider will contact you shortly to organise the move.\n\nFinally, in accordance with the tax equalisation policy, our tax adviser will prepare a final settlement once your last tax returns have been filed. Depending on the outcome, either the Company or you may owe a balance; you will receive a detailed calculation in due course.\n\nWe would like to thank you for your outstanding contribution in Singapore and look forward to welcoming you back.\n\nYours sincerely,\n\nSophie Laurent\nHR Director",
+   "model_us": "Dear Ms. Roux:\n\nRe: End of your international assignment\n\nI am writing to confirm the arrangements for the end of your assignment to Velmont Asia Pte Ltd in Singapore, which will end on June 30, as provided in your assignment letter.\n\nWe are pleased to confirm that, effective July 15, you will take on the position of Head of Regional Supply Chain at our Paris office, reporting to Marc Delattre, Chief Operations Officer. The position is at a level commensurate with your current responsibilities, and your base salary will be reviewed as part of the annual compensation review in the usual way.\n\nAs of July 1, the allowances linked to your assignment, including the cost-of-living and housing allowances, will end, and your compensation will once again be governed solely by your French employment contract and the applicable collective agreement.\n\nThe Company will cover the cost of your return to France and that of your family, including the shipment of your household goods and up to four weeks of temporary housing in Paris. Our relocation provider will contact you shortly to organize the move.\n\nFinally, in accordance with the tax equalization policy, our tax advisor will prepare a final settlement once your last tax returns have been filed. Depending on the outcome, either the Company or you may owe a balance; you will receive a detailed calculation in due course.\n\nWe would like to thank you for your outstanding contribution in Singapore and look forward to welcoming you back.\n\nSincerely,\n\nSophie Laurent\nHR Director",
+   "commentary": [
+    {
+     "quote": "as provided for in your letter of assignment",
+     "note_fr": "'As provided for in' = comme prévu par. On rattache la fin de mission au document contractuel."
+    },
+    {
+     "quote": "with effect from 15 July, you will take up the position of",
+     "note_fr": "'With effect from' (UK) / 'effective' (US) : formule standard de date d'effet. 'To take up a position' = prendre ses fonctions."
+    },
+    {
+     "quote": "at a level commensurate with your current responsibilities",
+     "note_fr": "'Commensurate with' = correspondant à. Formule utile pour montrer que le retour n'est pas une rétrogradation."
+    },
+    {
+     "quote": "will cease, and your remuneration will once again be governed solely by your French employment contract",
+     "note_fr": "On dit clairement ce qui s'arrête et ce qui s'applique désormais : aucune ambiguïté sur un éventuel maintien des avantages."
+    },
+    {
+     "quote": "either the Company or you may owe a balance",
+     "note_fr": "Honnêteté utile : l'égalisation fiscale peut jouer contre le salarié. Mieux vaut l'écrire maintenant que le découvrir plus tard."
+    },
+    {
+     "quote": "look forward to welcoming you back",
+     "note_fr": "Conclusion chaleureuse mais formelle, adaptée à un retour de mobilité."
+    }
+   ],
+   "checklist": [
+    "Is the end date of the assignment clearly stated?",
+    "Are the return position, start date and reporting line all given?",
+    "Is it clear which allowances stop and from when?",
+    "Have I described the repatriation support precisely?",
+    "Have I explained the tax settlement without promising an outcome?",
+    "Is the tone formal but warm?"
+   ],
+   "phrasebank": [
+    "I am writing to confirm the arrangements for the end of your assignment.",
+    "As provided for in your letter of assignment.",
+    "With effect from 15 July, you will take up the position of...",
+    "At a level commensurate with your current responsibilities.",
+    "The allowances linked to your assignment will cease.",
+    "The Company will bear the cost of your return to France.",
+    "You will receive a detailed calculation in due course.",
+    "We look forward to welcoming you back."
+   ]
+  },
+  {
+   "id": "wr-gl-6",
+   "title": "Briefing a new global HR VP on French specificities",
+   "stage": 3,
+   "kind": "report",
+   "brief": "Daniel Weiss has just joined the US group as VP, Global HR, and has asked each country for a short briefing. Write a note presenting the five French specificities he most needs to understand when he deals with the French subsidiary.",
+   "brief_fr": "Daniel Weiss vient d'arriver dans le groupe américain comme VP Global HR et demande une courte note à chaque pays. Rédigez une note présentant les cinq spécificités françaises qu'il doit absolument comprendre dans ses relations avec la filiale française.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the note and the main message",
+    "Legal employer and the limits of the matrix",
+    "Employee representatives and consultation before decisions",
+    "Termination: no at-will employment",
+    "Working time, the right to disconnect and documents in French",
+    "How we can work together: early involvement"
+   ],
+   "model": "France: five things to know - briefing note for Daniel Weiss\n\nWelcome to Brightwater. This note sets out the five features of French employment law that most often affect decisions taken at group level. The main message is simple: most global initiatives can be implemented in France, provided we involve the French team early.\n\n1. The legal employer. Our employees are employed by Brightwater France SAS, not by the US parent. Whatever the matrix, only the French entity can exercise disciplinary authority or change an employee's contract. Functional managers abroad can direct the work, but formal decisions must come through the French entity.\n\n2. Employee representatives. The works council must be informed and, in many cases, consulted before decisions that affect the organisation of work, such as restructuring, new monitoring tools or major changes to working conditions. Consultation takes time, and announcing a decision before it has been completed exposes the company to legal challenge.\n\n3. Termination. There is no at-will employment in France. Once the probationary period is over, dismissal requires a genuine and serious reason and a formal procedure, and the courts review both.\n\n4. Working time and language. Working hours, rest periods and the right to disconnect apply whatever the time zone of head office. In addition, documents that set out employees' obligations, such as bonus plans or policies, must generally be available in French.\n\n5. Mobility. Sending people to France, or from France, raises posting, social security, tax and immigration questions that take weeks to resolve, not days.\n\nIn practice, the most effective approach is to bring us in at the design stage of any global project. We are keen to make group initiatives work here, and early involvement is the surest way to do so.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "The main message is simple",
+     "note_fr": "Un message principal annoncé dès le début : réflexe attendu par un lecteur américain pressé."
+    },
+    {
+     "quote": "provided we involve the French team early",
+     "note_fr": "'Provided' = à condition que. On présente la contrainte française comme une condition de réussite, pas comme un refus."
+    },
+    {
+     "quote": "Whatever the matrix, only the French entity can exercise disciplinary authority",
+     "note_fr": "Point central pour un siège : la matrice organisationnelle ne change pas l'employeur juridique."
+    },
+    {
+     "quote": "announcing a decision before it has been completed exposes the company to legal challenge",
+     "note_fr": "On explique la conséquence concrète (un risque contentieux) plutôt que de citer un texte."
+    },
+    {
+     "quote": "There is no at-will employment in France.",
+     "note_fr": "Phrase très courte, immédiatement compréhensible par un Américain : la référence 'at-will' fait le pont."
+    },
+    {
+     "quote": "We are keen to make group initiatives work here",
+     "note_fr": "Clôture positive : la DRH se positionne en partenaire, pas en gardienne d'exceptions."
+    }
+   ],
+   "checklist": [
+    "Is the main message stated in the first paragraph?",
+    "Are the five points short, numbered and in order of importance?",
+    "Have I described the law accurately and in general terms, without invented figures or references?",
+    "Have I linked each point to a practical consequence for head office?",
+    "Does the note end with a constructive way of working together?"
+   ],
+   "phrasebank": [
+    "This note sets out the five features that most often affect group decisions.",
+    "The main message is simple.",
+    "Most global initiatives can be implemented in France, provided we are involved early.",
+    "Whatever the matrix, the French entity remains the legal employer.",
+    "The works council must be informed and, in many cases, consulted.",
+    "There is no at-will employment in France.",
+    "These rules apply whatever the time zone of head office.",
+    "The most effective approach is to bring us in at the design stage."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-gl-1",
+   "title": "A global HR call across time zones",
+   "context": "The monthly global HR call of a US group. Megan, VP Global HR, is in Chicago; Priya is in Bangalore, where it is evening; Sophie, HR Director of the French subsidiary, is in Paris. The first item is the new work-from-anywhere guidelines.",
+   "context_fr": "La conférence RH mensuelle d'un groupe américain. Megan, VP Global HR, est à Chicago ; Priya est à Bangalore, où c'est le soir ; Sophie, DRH de la filiale française, est à Paris. Premier point : les nouvelles règles sur le travail depuis n'importe où.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Megan",
+     "text": "Okay, I think we've got everyone. Priya, I know it's almost eight-thirty your time, so thanks for staying on.",
+     "note_fr": "'To stay on' = rester (en ligne, au-delà de l'horaire normal). Reconnaître l'heure tardive pour l'autre est une politesse attendue dans les appels mondiaux."
+    },
+    {
+     "speaker": "Priya",
+     "text": "No problem. Although I'll admit my kids have given up waiting for me for dinner.",
+     "note_fr": "Une touche d'humour pour signaler la contrainte sans se plaindre ouvertement."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Point taken. Let's look at rotating the slot after today. So, first item: the work-from-anywhere guidelines. Sophie, you sent me a note on France?",
+     "note_fr": "'Point taken' = message reçu : on reconnaît la remarque sans se justifier."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "I did. In short, we're on board with the idea, but we can't go live on March 1. We need to update our remote work charter and run it past the works council first.",
+     "note_fr": "'To be on board with' = adhérer à. 'To go live' = entrer en vigueur. 'To run something past someone' = soumettre pour avis."
+    },
+    {
+     "speaker": "Megan",
+     "text": "How long are we talking? I really don't want France to be the outlier here.",
+     "note_fr": "'How long are we talking?' = combien de temps, à peu près ? 'The outlier' = celui qui fait exception."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Realistically, two months. And honestly, the bigger issue is people working from other countries. That can create tax and social security obligations, so we'd want a quick check on each request.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Megan",
+     "text": "Can't the managers just handle that when they approve?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "I'd rather not put that on them. They're not equipped to spot a permanent establishment risk, and if we get it wrong, it's the company that pays.",
+     "note_fr": "'I'd rather not' = je préférerais éviter : un refus adouci. 'To spot' = repérer."
+    },
+    {
+     "speaker": "Priya",
+     "text": "We have the same concern in India, actually. Could we have a shared checklist that Global Mobility owns?",
+     "note_fr": "'Actually' = en fait (et non 'actuellement'). 'To own' un document ou un processus = en être responsable."
+    },
+    {
+     "speaker": "Megan",
+     "text": "I like that. Sophie, would you be willing to draft it, since you've already done the thinking?",
+     "note_fr": "Formule américaine typique pour déléguer en valorisant l'autre."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Happy to. I'll get a first draft over to you by Friday, your morning.",
+     "note_fr": "'Your morning' : préciser le fuseau de l'interlocuteur évite toute ambiguïté sur l'échéance."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Perfect. And Priya, next month we'll do 7 a.m. Chicago so it's not so late for you.",
+     "note_fr": "Les Américains donnent souvent l'heure par ville ('7 a.m. Chicago') plutôt que par fuseau."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why can't France launch the guidelines on March 1?",
+     "options": [
+      "The French team disagrees with the idea",
+      "The remote work charter must be updated and the works council involved first",
+      "French managers have not been trained",
+      "The guidelines have not been translated"
+     ],
+     "answer": 1,
+     "explain_fr": "Sophie adhère à l'idée ('we're on board') mais doit modifier la charte de télétravail et consulter le CSE ('run it past the works council')."
+    },
+    {
+     "q": "What does Sophie object to?",
+     "options": [
+      "Managers approving cross-border requests without any specialist check",
+      "The thirty-day limit",
+      "The time of the call",
+      "Priya's suggestion of a checklist"
+     ],
+     "answer": 0,
+     "explain_fr": "Elle ne veut pas que les managers décident seuls ('I'd rather not put that on them') : ils ne sauraient pas repérer les risques fiscaux ou d'établissement stable."
+    },
+    {
+     "q": "What will change for Priya next month?",
+     "options": [
+      "She will chair the call",
+      "She will no longer attend",
+      "The call will start earlier in Chicago, so it finishes less late in India",
+      "The call will become asynchronous"
+     ],
+     "answer": 2,
+     "explain_fr": "'Next month we'll do 7 a.m. Chicago so it's not so late for you' : on avance l'heure à Chicago pour que l'appel soit moins tardif à Bangalore."
+    }
+   ]
+  },
+  {
+   "id": "dl-gl-2",
+   "title": "Asking about expatriation terms",
+   "context": "Léa, an engineer in the Paris office, has been offered a three-year assignment in Boston. She has a video call with Jen, a Global Mobility manager at the US head office, before discussing it with her husband.",
+   "context_fr": "Léa, ingénieure au bureau de Paris, s'est vu proposer une mission de trois ans à Boston. Elle a un appel vidéo avec Jen, responsable de la mobilité internationale au siège américain, avant d'en parler avec son mari.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Léa",
+     "text": "Hi Jen, thanks for making time. I've read the offer and I'm excited, but I have a few questions before I talk it over with my husband.",
+     "note_fr": "'To talk something over with someone' = en discuter avec quelqu'un avant de décider."
+    },
+    {
+     "speaker": "Jen",
+     "text": "Of course. Fire away.",
+     "note_fr": "'Fire away' = allez-y, posez vos questions. Familier mais très courant."
+    },
+    {
+     "speaker": "Léa",
+     "text": "First, would I still be employed by the French company, or would I switch to a US contract?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Jen",
+     "text": "This is a long-term assignment, so you'd stay on your French contract, and we'd add an assignment letter on top. After three years, we'd talk about whether you come back or localize.",
+     "note_fr": "'To localize' = passer sous contrat local, à la fin du statut d'expatrié."
+    },
+    {
+     "speaker": "Léa",
+     "text": "And what about social security? I don't want to lose my French pension rights.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Jen",
+     "text": "There's a totalization agreement between the US and France, so in most cases you can stay in the French system during the assignment. I'll double-check the details with our provider, though.",
+     "note_fr": "'Totalization agreement' = la convention franco-américaine de sécurité sociale. 'Though' en fin de phrase nuance : 'cela dit'."
+    },
+    {
+     "speaker": "Léa",
+     "text": "Okay, good. My husband's a nurse. Would he be allowed to work in Boston?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Jen",
+     "text": "That depends on the visa category. With some, spouses can apply for work authorization; with others, they can't. Our immigration counsel will confirm once we know which visa you'll be on.",
+     "note_fr": "'Immigration counsel' = les avocats en immigration ; 'counsel' est invariable en anglais américain."
+    },
+    {
+     "speaker": "Léa",
+     "text": "And if he can't work, is there any support for him?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Jen",
+     "text": "Yes, we have a partner support program: career coaching, language classes and a one-time allowance. It's not huge, but people find it really helpful.",
+     "note_fr": "'One-time' (US) = 'one-off' (UK) : versé une seule fois. 'Program' : orthographe américaine."
+    },
+    {
+     "speaker": "Léa",
+     "text": "That's reassuring. Last question: the housing allowance looks low for Boston. Is there any flexibility?",
+     "note_fr": "'Is there any flexibility?' : façon polie et efficace d'ouvrir une négociation."
+    },
+    {
+     "speaker": "Jen",
+     "text": "I hear you - Boston's pricey. The cap comes from our data provider, but if you find a place that's slightly over, we can look at an exception. No promises, but it's worth asking.",
+     "note_fr": "'I hear you' = je comprends (sans forcément accepter). 'No promises' = sans garantie."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who will employ Léa during the assignment?",
+     "options": [
+      "The US company, under a new contract",
+      "Both companies jointly",
+      "An external employer of record",
+      "The French company, with an assignment letter added"
+     ],
+     "answer": 3,
+     "explain_fr": "'You'd stay on your French contract, and we'd add an assignment letter on top' : le contrat français est maintenu."
+    },
+    {
+     "q": "What does Jen say about Léa's husband working in Boston?",
+     "options": [
+      "It depends on the type of visa",
+      "He can work with any visa",
+      "He cannot work in the US",
+      "He needs to find an employer first"
+     ],
+     "answer": 0,
+     "explain_fr": "'That depends on the visa category' : certains statuts de conjoint permettent de demander une autorisation de travail, d'autres non."
+    },
+    {
+     "q": "How does Jen respond to the question about housing?",
+     "options": [
+      "She increases the allowance immediately",
+      "She refuses any change",
+      "She suggests an exception might be possible, without promising it",
+      "She tells Léa to negotiate with the landlord"
+     ],
+     "answer": 2,
+     "explain_fr": "'We can look at an exception. No promises, but it's worth asking' : une ouverture, sans engagement."
+    }
+   ]
+  },
+  {
+   "id": "dl-gl-3",
+   "title": "A UK colleague's secondee is coming to Paris",
+   "context": "Tom, an HR Business Partner at the London office of a British group, calls Sophie, HR Director in Paris, about Oliver, a British engineer who is due to start a nine-month secondment in Paris in September.",
+   "context_fr": "Tom, HR Business Partner au bureau londonien d'un groupe britannique, appelle Sophie, DRH à Paris, au sujet d'Oliver, ingénieur britannique qui doit commencer en septembre un détachement de neuf mois à Paris.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Tom",
+     "text": "Sophie, hi - have you got five minutes? It's about Oliver's secondment.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Of course. Is he still starting in September?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Tom",
+     "text": "That's the plan. Though he's rather assumed he can just hop on the Eurostar and start work.",
+     "note_fr": "'He's rather assumed' : 'rather' atténue la critique à la britannique ; on comprend qu'il a eu tort. 'To hop on' = sauter dans (un train)."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Ah. Not since Brexit, I'm afraid. As a British national, he'll need work authorisation and a visa, so we ought to get going on that now.",
+     "note_fr": "'I'm afraid' adoucit la mauvaise nouvelle. 'To get going on something' = s'y mettre. Depuis le Brexit, un Britannique est ressortissant de pays tiers en France."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Right. Fair enough. And on social security, presumably he stays in the UK system?",
+     "note_fr": "'Presumably' = je suppose que : on avance une hypothèse en demandant confirmation."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "He should be able to, for a secondment of that length, but he'll need a certificate from HMRC to prove it. Otherwise we could be asked for French contributions.",
+     "note_fr": "HMRC : l'administration fiscale britannique, qui délivre aussi les certificats de maintien au régime britannique."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Understood. Then there's the posting declaration on your side, isn't there?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Strictly speaking, it's on your side, as you're the employer, but we'll help. You'll also need to name a representative in France.",
+     "note_fr": "'Strictly speaking' = à proprement parler : on corrige l'interlocuteur avec tact."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Could that be you, by any chance?",
+     "note_fr": "'By any chance' adoucit une demande qui pourrait déranger."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "It could, in principle. Let me check with our legal team before I say yes.",
+     "note_fr": "'In principle' + 'before I say yes' : un accord de principe qui réserve la réponse définitive."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Brilliant, thanks. One last thing - he's used to fairly long days in London.",
+     "note_fr": "'Brilliant' : très britannique pour 'super'."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "He'll be under French working time rules while he's here, so we'll need to keep an eye on that. I'll have a word with his manager.",
+     "note_fr": "'To keep an eye on' = surveiller. 'To have a word with someone' = en toucher un mot à quelqu'un."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What had Oliver assumed?",
+     "options": [
+      "That he could start working in Paris without any permit",
+      "That he would be paid in euros",
+      "That his secondment would be extended",
+      "That he would stay in the French social security system"
+     ],
+     "answer": 0,
+     "explain_fr": "'He can just hop on the Eurostar and start work' : il pensait pouvoir travailler à Paris sans formalités. Depuis le Brexit, il lui faut une autorisation de travail et un visa."
+    },
+    {
+     "q": "According to Sophie, who must file the posting declaration?",
+     "options": [
+      "The French office",
+      "Oliver himself",
+      "The UK employer",
+      "HMRC"
+     ],
+     "answer": 2,
+     "explain_fr": "'Strictly speaking, it's on your side, as you're the employer' : c'est l'employeur qui détache, ici la société britannique, qui déclare."
+    },
+    {
+     "q": "How does Sophie respond to Tom's request that she act as representative in France?",
+     "options": [
+      "She refuses because it is not allowed",
+      "She agrees in principle but wants to check with the legal team first",
+      "She accepts immediately",
+      "She suggests Oliver's manager instead"
+     ],
+     "answer": 1,
+     "explain_fr": "'It could, in principle. Let me check with our legal team before I say yes' : accord de principe, sous réserve."
+    }
+   ]
+  },
+  {
+   "id": "dl-gl-4",
+   "title": "Head office wants to send engineers to France",
+   "context": "Rajesh, Head of Delivery at the Indian parent company in Bangalore, calls Sophie, HR Director of the French subsidiary, about sending a team of engineers to work on a new client project in Toulouse.",
+   "context_fr": "Rajesh, directeur des opérations de la maison mère indienne à Bangalore, appelle Sophie, DRH de la filiale française, pour envoyer une équipe d'ingénieurs travailler sur un nouveau projet client à Toulouse.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Rajesh",
+     "text": "Good afternoon, Sophie, thank you for joining. We've won a new client in Toulouse, and we'd like to send twenty engineers from Bangalore for about eighteen months.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Good morning - well, afternoon for you. That's great news. Could I ask a few questions so that we get the set-up right?",
+     "note_fr": "Reprendre le décalage horaire avec humour détend l'échange. 'Set-up' = l'organisation, le montage."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "Please. Our plan is to keep them on the Indian payroll and pay them a daily allowance in France, as we do in Germany.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "That's possible, but there are a couple of points to bear in mind. While they're here, they must receive at least the French minimum pay for their job, and the allowance only counts towards that if it isn't a reimbursement of expenses.",
+     "note_fr": "'To bear in mind' = garder à l'esprit. Règle du détachement : une indemnité qui rembourse des frais réels ne compte pas dans le salaire minimum dû."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "I see. So we may need to top up their salaries.",
+     "note_fr": "'To top up' = compléter."
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Possibly, yes. The second point is duration. Beyond twelve months, almost all of French employment law applies. That can be pushed to eighteen with a justified notification, but it needs planning.",
+     "note_fr": "Le détachement de longue durée : au-delà de douze mois (dix-huit sur notification motivée), presque tout le droit du travail français s'applique."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "Understood. And the visas? In Germany it took us almost three months.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Most of them should qualify for an intra-company transfer permit, provided they've been with the group long enough. Processing times vary, so I'd build in a good margin before the client's start date.",
+     "note_fr": "'Provided' = à condition que. 'To build in a margin' = prévoir une marge."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "Our client wants them in March. Is that realistic?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "For a first group of five, perhaps. For all twenty, I'd be surprised, to be honest. I'd suggest a phased arrival.",
+     "note_fr": "'I'd be surprised' : manière britannique et polie de dire que c'est irréaliste. 'A phased arrival' = des arrivées échelonnées."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "Fair enough. And who handles the formalities on the French side?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sophie",
+     "text": "Formally, the posting declarations are yours to file as the employer, and you'll need a representative in France. But we'll coordinate everything with an immigration firm we trust.",
+     "note_fr": "On rappelle qui est juridiquement responsable, tout en proposant son aide : ferme sur le fond, coopératif sur la forme."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "Very good. Please send me a short note with a timeline, and I'll share it with the client.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Rajesh initially plan to do?",
+     "options": [
+      "Hire the engineers on French contracts",
+      "Use an employer of record in France",
+      "Keep them on the Indian payroll and pay a daily allowance",
+      "Transfer them permanently to the French subsidiary"
+     ],
+     "answer": 2,
+     "explain_fr": "'Keep them on the Indian payroll and pay them a daily allowance in France' : un détachement classique, avec une indemnité journalière."
+    },
+    {
+     "q": "What does Sophie say about the daily allowance?",
+     "options": [
+      "It is forbidden in France",
+      "It counts towards French minimum pay only if it does not reimburse expenses",
+      "It must be paid through the French payroll",
+      "It replaces the need for French minimum pay"
+     ],
+     "answer": 1,
+     "explain_fr": "'The allowance only counts towards that if it isn't a reimbursement of expenses' : une indemnité de remboursement de frais n'entre pas dans le calcul du minimum."
+    },
+    {
+     "q": "How does Sophie react to the March deadline for all twenty engineers?",
+     "options": [
+      "She thinks it is unrealistic and suggests staggered arrivals",
+      "She says it is easy",
+      "She refuses the project",
+      "She asks the client to wait eighteen months"
+     ],
+     "answer": 0,
+     "explain_fr": "'For all twenty, I'd be surprised... I'd suggest a phased arrival' : réponse négative adoucie, accompagnée d'une solution."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-gl-1",
+   "title": "Why the global policy must be adapted in France",
+   "situation": "Megan Ross, VP Global HR at the US head office, has read your note on the work-from-anywhere guidelines. She is frustrated that France wants changes when other countries have accepted them as they are. Explain why adaptation is necessary and agree a way forward.",
+   "situation_fr": "Megan Ross, VP Global HR au siège américain, a lu votre note sur les règles de travail depuis n'importe où. Elle s'agace que la France demande des changements alors que les autres pays les ont acceptées telles quelles. Expliquez pourquoi une adaptation est nécessaire et convenez d'une marche à suivre.",
+   "turns": [
+    {
+     "say": "Sophie, I read your note. Honestly, every other country has signed up to the guidelines as they are. Why does France always need something different?",
+     "seconds": 40,
+     "model": "I understand the frustration, and I want to be clear that we fully support the guidelines. The difference isn't a preference, it's the legal framework: in France, telework has to be set up through an agreement or a charter, with the works council involved. If we skip that step, the rules could simply be unenforceable here.",
+     "tips_fr": "Accueillez l'émotion ('I understand the frustration') puis distinguez préférence et obligation légale. Terminez par la conséquence concrète, plus parlante qu'une référence juridique."
+    },
+    {
+     "say": "Can't we just launch it and sort out the paperwork afterwards?",
+     "seconds": 35,
+     "model": "I'm afraid that's the one thing I'd advise against. If we announce it before the works council has been consulted, they can challenge it, and we'd lose far more time than we'd save. Two months now is much cheaper than a dispute later.",
+     "tips_fr": "'I'm afraid' + 'advise against' : un refus net et poli. Argumentez en temps et en coût, le langage du siège."
+    },
+    {
+     "say": "Okay. What about the cross-border piece? Managers approving requests seemed simple enough.",
+     "seconds": 40,
+     "model": "It is simple for most requests. But a few weeks in some countries can create tax or social security obligations, or even a permanent establishment risk for the company. I'm not suggesting a heavy process, just a short checklist that Global Mobility reviews before the manager says yes.",
+     "tips_fr": "Commencez par concéder ('It is simple for most requests'), puis introduisez l'exception. Anticipez l'objection de lourdeur avec 'I'm not suggesting a heavy process'."
+    },
+    {
+     "say": "So what exactly do you need from me?",
+     "seconds": 35,
+     "model": "Two things, really. Your agreement to a short French addendum, which I'll draft, and a start date of 1 May in France instead of 1 March. In return, I'll make sure the French version stays as close as possible to the global one.",
+     "tips_fr": "Annoncez le nombre de demandes ('Two things, really') et proposez une contrepartie ('In return') : c'est une négociation, pas une plainte."
+    },
+    {
+     "say": "Fine. But I don't want this to become a precedent for every other country.",
+     "seconds": 30,
+     "model": "That's fair. The addendum will only cover what French law requires, nothing more, and I'm happy for it to say so explicitly. Any other country would need to make its own case.",
+     "tips_fr": "'That's fair' valide l'inquiétude. Rassurez en limitant précisément le périmètre de l'exception."
+    }
+   ]
+  },
+  {
+   "id": "rp-gl-2",
+   "title": "Negotiating an expat package",
+   "situation": "Antoine, a senior engineer, has been offered a three-year assignment in Singapore. He wants the move but thinks the package is not generous enough. You are the HR Director: listen, explain the package and see what can reasonably be improved.",
+   "situation_fr": "Antoine, ingénieur senior, s'est vu proposer une mission de trois ans à Singapour. Il souhaite partir mais trouve le package insuffisant. Vous êtes la DRH : écoutez, expliquez le package et voyez ce qui peut raisonnablement être amélioré.",
+   "turns": [
+    {
+     "say": "Thanks for the offer. To be honest, I expected more. The mobility premium is only ten per cent, and my colleague who went to Dubai got fifteen.",
+     "seconds": 35,
+     "model": "I appreciate you being upfront. Packages do vary by destination, and part of the Dubai figure reflects factors that don't apply to Singapore. That said, I'd rather look at your package as a whole, because the premium is only one part of it.",
+     "tips_fr": "Remerciez pour la franchise ('I appreciate you being upfront'), évitez de commenter le dossier d'un collègue et élargissez le débat à l'ensemble du package."
+    },
+    {
+     "say": "My wife would have to give up her job. That's a real loss for us.",
+     "seconds": 40,
+     "model": "I completely understand, and it's often the hardest part of a move. Our partner support programme covers career coaching and language lessons, and there's an allowance as well. I can also ask our immigration provider whether she could get permission to work in Singapore.",
+     "tips_fr": "Montrez de l'empathie avant de présenter les mesures concrètes. Ne promettez pas un droit de travailler : proposez de vérifier."
+    },
+    {
+     "say": "And the housing allowance won't cover a flat anywhere near the international school.",
+     "seconds": 35,
+     "model": "Let me look into that. The cap is based on market data, but if there's a genuine gap for a family of four near the school, I can put forward a request for an exception. I can't promise the outcome, but I'll make the case.",
+     "tips_fr": "'Let me look into that' = je vais étudier la question. Soyez honnête sur votre marge : 'I can't promise the outcome, but I'll make the case'."
+    },
+    {
+     "say": "What happens when I come back? I've heard of people returning to nothing.",
+     "seconds": 40,
+     "model": "That's a fair concern. Your assignment letter will commit us to a return position at a level that reflects your experience, and we start planning your return at least six months before the end. I'd also suggest a mentor in Paris, so you stay visible while you're away.",
+     "tips_fr": "Reconnaissez la crainte ('That's a fair concern'), puis répondez par des engagements écrits et des actions concrètes."
+    },
+    {
+     "say": "Okay. If you can move on housing and the partner support, I think we can make this work.",
+     "seconds": 30,
+     "model": "That sounds like a good basis. I'll come back to you by Friday with a revised summary, and we'll put everything in writing before you decide.",
+     "tips_fr": "Concluez par une échéance précise et la promesse d'un écrit : rien ne doit rester oral dans un package d'expatriation."
+    }
+   ]
+  },
+  {
+   "id": "rp-gl-3",
+   "title": "Handling a dual-reporting conflict",
+   "situation": "Greg, Global Head of Sales at the US parent, wants to give Nadia, a sales manager employed by the French subsidiary, a written warning himself and cut her bonus. Her Paris manager disagrees. Explain the French position and propose a way out.",
+   "situation_fr": "Greg, directeur commercial monde de la maison mère américaine, veut adresser lui-même un avertissement écrit à Nadia, responsable commerciale salariée de la filiale française, et réduire son bonus. Sa responsable à Paris n'est pas d'accord. Expliquez la position française et proposez une solution.",
+   "turns": [
+    {
+     "say": "Sophie, Nadia reports to me on the global sales side, and I want to put her on a written warning today. Her Paris boss keeps blocking me.",
+     "seconds": 40,
+     "model": "Thanks for coming to me directly. Before we go any further, there's one important point: Nadia's employer is the French company, so any disciplinary measure has to come from the French entity and follow a French procedure. Your input matters, but you can't issue the warning yourself.",
+     "tips_fr": "Remerciez, puis posez d'emblée le point juridique décisif : l'employeur juridique. Valorisez son rôle ('Your input matters') pour éviter l'affrontement."
+    },
+    {
+     "say": "That's crazy. I'm her manager. I set her targets.",
+     "seconds": 35,
+     "model": "You do set her targets, and your view on her performance carries a lot of weight. But in France, the power to discipline sits with the legal employer, whatever the matrix. A warning sent from the US could be challenged, and that would weaken our own position.",
+     "tips_fr": "Le 'do' d'insistance ('You do set her targets') reconnaît son rôle avant le 'But'. Présentez la règle comme une protection pour l'entreprise."
+    },
+    {
+     "say": "So what do you suggest? I can't just do nothing.",
+     "seconds": 35,
+     "model": "I'm not suggesting that at all. I'd propose a three-way meeting with you, her Paris manager and me this week, so that we agree on the facts and on one message. If a warning is justified, I'll make sure it's issued properly and quickly.",
+     "tips_fr": "Rassurez sur l'action ('I'm not suggesting that at all'), puis proposez une réunion à trois : c'est la réponse classique au double rattachement."
+    },
+    {
+     "say": "And her bonus? I want to cut it this quarter.",
+     "seconds": 40,
+     "model": "That depends on what her bonus plan says. If her targets were set in writing, in French, and she's missed them, the plan will apply in the normal way. What we can't do is reduce it as a punishment: financial penalties are prohibited under French law.",
+     "tips_fr": "Distinguez l'application normale du plan et la sanction pécuniaire, interdite en droit français. Rappelez discrètement l'exigence de la langue française."
+    },
+    {
+     "say": "Fine. But I want clearer decision rights going forward.",
+     "seconds": 30,
+     "model": "I agree completely. Let's write down who decides what between global and local managers: targets, appraisals, discipline and pay. I'll draft a one-page grid and we can go through it together next week.",
+     "tips_fr": "Saisissez l'ouverture : une grille écrite des responsabilités ('decision rights') prévient le prochain conflit."
+    }
+   ]
+  },
+  {
+   "id": "rp-gl-4",
+   "title": "Presenting French specificities to a new global HR VP",
+   "situation": "Daniel Weiss has just joined the US group as VP, Global HR. In your first one-to-one, he asks you to explain what makes France different, and how you would like to work with him.",
+   "situation_fr": "Daniel Weiss vient de rejoindre le groupe américain comme VP Global HR. Lors de votre premier entretien individuel, il vous demande ce qui rend la France différente et comment vous souhaitez travailler avec lui.",
+   "turns": [
+    {
+     "say": "Sophie, great to meet you. I keep hearing France is our most complicated country. Give me the headline - what do I really need to know?",
+     "seconds": 40,
+     "model": "Great to meet you too. The headline is that most things are doable in France, but timing matters. We have strong employee representation, protective termination rules and strict working time rules, so if we're involved early, we can usually make global projects work.",
+     "tips_fr": "Donnez d'abord le message principal ('The headline is...'), positif, puis trois mots-clés. Un Américain attend la conclusion avant les détails."
+    },
+    {
+     "say": "Tell me about the works council. Do they have a veto?",
+     "seconds": 40,
+     "model": "Not a veto, no. On many decisions, they have to be informed and consulted before the decision is final, and they give an opinion. The company can then go ahead, but if the consultation is skipped or rushed, the project can be suspended or challenged. So it's really about process and timing.",
+     "tips_fr": "Corrigez l'idée reçue ('Not a veto, no') puis expliquez la vraie contrainte : la procédure et le calendrier."
+    },
+    {
+     "say": "And letting people go? I've heard it's basically impossible.",
+     "seconds": 35,
+     "model": "It's not impossible, but it's different. There's no at-will employment: after the probationary period, you need a genuine and serious reason and a formal procedure. In practice, many departures are agreed - there's a mutual termination procedure that's widely used.",
+     "tips_fr": "'It's not impossible, but it's different' nuance sans contredire brutalement. Mentionner la rupture conventionnelle rassure un interlocuteur américain."
+    },
+    {
+     "say": "What about our global grades? Can France just adopt them?",
+     "seconds": 35,
+     "model": "Yes, for internal purposes: levelling, pay ranges, career paths. But each employee also has a classification level under our collective agreement, which sets minimum pay, so we keep both and maintain a mapping table between them.",
+     "tips_fr": "Dites oui à ce qui est possible avant d'expliquer la double contrainte. 'Mapping table' est le mot que le siège comprendra."
+    },
+    {
+     "say": "Got it. So how would you like us to work together?",
+     "seconds": 30,
+     "model": "Ideally, a short monthly check-in, and the habit of looping me in at the design stage of any global initiative. I'd much rather raise a French point early, in a quick call, than block something at the last minute.",
+     "tips_fr": "Proposez un mode de fonctionnement concret. 'To loop someone in' = associer quelqu'un. Terminez en vous positionnant comme partenaire."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Reminding head office that local law prevails",
+   "function_fr": "Rappeler au siège que le droit local prime",
+   "phrases": [
+    {
+     "text": "This would need to be adapted to comply with French law.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "To the extent that the policy conflicts with mandatory French rules, the latter will apply.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Local law takes precedence over the policy on this point.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Subject to local law, we're happy to go with the global approach.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "We're fully behind the principle; it's the mechanics that need tweaking for France.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'm afraid that's not something French law allows.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "That won't fly here - French law just doesn't allow it.",
+     "register": "informal",
+     "variety": "us"
+    }
+   ]
+  },
+  {
+   "function": "Flagging a cross-border compliance risk",
+   "function_fr": "Signaler un risque de conformité lié à la mobilité",
+   "phrases": [
+    {
+     "text": "We would recommend obtaining specialist advice before confirming the arrangement.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "This may trigger tax and social security obligations in the host country.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'd like to flag a potential issue before we go any further.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Before anyone books a flight, we need to check the immigration side.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "It might be worth getting this checked - the penalties can be significant.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "I'm not saying it can't be done, just that it needs to be done properly.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Just a heads-up: a few weeks there could create a PE risk.",
+     "register": "informal",
+     "variety": "us"
+    }
+   ]
+  },
+  {
+   "function": "Scheduling across time zones",
+   "function_fr": "Organiser une réunion entre fuseaux horaires",
+   "phrases": [
+    {
+     "text": "Please note that all times are given in Central European Time.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Would 4 p.m. Paris time work for everyone? That's 10 a.m. in New York.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Let's find a slot that works across all three time zones.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Shall we rotate the slot so that no one is always stuck with the late call?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "I'm conscious it's late for you, so I'll keep this short.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "If the slot doesn't suit, just let me know and I'll move it.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Could we do this one async? I'll share a recorded update.",
+     "register": "informal",
+     "variety": "us"
+    },
+    {
+     "text": "Sorry to drag you in so early - thanks for jumping on.",
+     "register": "informal",
+     "variety": "us"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3701 @@
+[
+ {
+  "id": "gl-001",
+  "level": 1,
+  "fr": "mobilité internationale",
+  "term": {
+   "uk": "global mobility",
+   "us": "global mobility"
+  },
+  "ipa": {
+   "uk": "/ˈɡləʊb(ə)l məʊˈbɪləti/",
+   "us": "/ˈɡloʊb(ə)l moʊˈbɪləti/"
+  },
+  "def": "The function and the set of practices that manage employees moving to work in another country.",
+  "registers": {
+   "formal": {
+    "uk": "international mobility",
+    "us": "international mobility",
+    "ex": "The Group's [[international mobility]] programme applies to all employees assigned outside their home country for more than three months."
+   },
+   "everyday": {
+    "uk": "global mobility",
+    "us": "global mobility",
+    "ex": "I'll loop in [[global mobility]] - they'll know whether she needs a visa."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the global mobility team",
+   "a global mobility manager",
+   "global mobility costs",
+   "to manage global mobility in-house"
+  ],
+  "note_fr": "Dans les groupes anglo-saxons, « Global Mobility » désigne souvent l'équipe elle-même (« ask Global Mobility »), comme on dirait « la mobilité internationale » en interne. « Mobility » seul peut aussi viser la mobilité interne : précisez « international » ou « global » s'il y a un doute.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-002",
+  "level": 1,
+  "fr": "salarié en mobilité internationale (expatrié ou détaché)",
+  "term": {
+   "uk": "assignee",
+   "us": "assignee"
+  },
+  "ipa": {
+   "uk": "/ˌæsaɪˈniː/",
+   "us": "/ˌæsaɪˈniː/"
+  },
+  "def": "An employee who has been sent by the company to work in another country for a defined period.",
+  "registers": {
+   "formal": {
+    "uk": "international assignee",
+    "us": "international assignee",
+    "ex": "Each [[international assignee]] shall receive a written assignment letter before departure."
+   },
+   "everyday": {
+    "uk": "assignee",
+    "us": "assignee",
+    "ex": "We've got twelve [[assignees]] in France at the moment, mostly engineers from the Pune office."
+   },
+   "informal": {
+    "uk": "expat",
+    "us": "expat",
+    "ex": "Most of the [[expats]] live in the same part of town and send their kids to the international school."
+   }
+  },
+  "collocations": [
+   "to brief an assignee",
+   "assignee and family",
+   "the assignee's home country",
+   "an assignee survey"
+  ],
+  "note_fr": "« Assignee » couvre aussi bien le détaché que l'expatrié : l'anglais ne fait pas la distinction juridique française, il faut l'ajouter. Accent sur la dernière syllabe. « Expat » est familier mais très courant, y compris par écrit dans un e-mail interne.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-003",
+  "level": 1,
+  "fr": "travailleur détaché",
+  "term": {
+   "uk": "posted worker",
+   "us": "posted worker"
+  },
+  "ipa": {
+   "uk": "/ˌpəʊstɪd ˈwɜːkə/",
+   "us": "/ˌpoʊstɪd ˈwɜːrkər/"
+  },
+  "def": "A worker sent by their employer to carry out work in another EU country for a limited period, while remaining employed by that employer.",
+  "registers": {
+   "formal": {
+    "uk": "posted worker",
+    "us": "posted worker",
+    "ex": "A [[posted worker]] remains employed by the sending undertaking throughout the period of posting."
+   },
+   "everyday": {
+    "uk": "to be posted to",
+    "us": "to be posted to",
+    "ex": "He's [[been posted to]] our Lyon site for six months to set up the new line."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the posting of workers",
+   "the Posting of Workers Directive",
+   "a posted worker declaration",
+   "to post workers to France"
+  ],
+  "note_fr": "« Posted worker » est le terme du droit européen, à préférer à « detached worker » (calque) ou « seconded worker » (plus britannique et plus large). Aux États-Unis, la notion n'existe pas : expliquez qu'il s'agit d'un régime européen qui impose une partie des règles du pays d'accueil.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-004",
+  "level": 1,
+  "fr": "entité d'accueil",
+  "term": {
+   "uk": "host entity",
+   "us": "host entity"
+  },
+  "ipa": {
+   "uk": "/ˈhəʊst ˌentəti/",
+   "us": "/ˈhoʊst ˌentəti/"
+  },
+  "def": "The company in the destination country where an internationally mobile employee actually works.",
+  "registers": {
+   "formal": {
+    "uk": "host entity",
+    "us": "host entity",
+    "ex": "The [[host entity]] shall bear the costs of the assignment unless otherwise agreed between the entities concerned."
+   },
+   "everyday": {
+    "uk": "host company",
+    "us": "host company",
+    "ex": "Who's paying for her flat - us or the [[host company]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the host entity's local manager",
+   "to recharge costs to the host entity",
+   "host and home entities",
+   "host-country rules"
+  ],
+  "note_fr": "On oppose « host » (accueil) à « home » (origine) : « home entity / host entity », « home country / host country ». Ne traduisez pas par « welcoming company ». Pour un salarié détaché, l'entité d'accueil n'est pas l'employeur juridique : précisez-le dans les échanges avec le siège.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-005",
+  "level": 1,
+  "fr": "entité d'origine (employeur d'origine)",
+  "term": {
+   "uk": "home entity",
+   "us": "home entity"
+  },
+  "ipa": {
+   "uk": "/ˈhəʊm ˌentəti/",
+   "us": "/ˈhoʊm ˌentəti/"
+  },
+  "def": "The company that employs the mobile employee before the move and, in many cases, during it.",
+  "registers": {
+   "formal": {
+    "uk": "home entity",
+    "us": "home entity",
+    "ex": "The Assignee shall remain employed by the [[home entity]] for the duration of the assignment."
+   },
+   "everyday": {
+    "uk": "home company",
+    "us": "home company",
+    "ex": "She's still on the [[home company]]'s payroll, so her French contract carries on."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to remain employed by the home entity",
+   "home-entity payroll",
+   "the home line manager",
+   "to return to the home entity"
+  ],
+  "note_fr": "« Home » ici ne veut pas dire « domicile » mais « d'origine ». Attention : la société d'origine n'est pas toujours la société mère ; dans un groupe américain, l'entité d'origine peut être la filiale française.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-006",
+  "level": 1,
+  "fr": "recrutement local / salarié recruté localement",
+  "term": {
+   "uk": "local hire",
+   "us": "local hire"
+  },
+  "ipa": {
+   "uk": "/ˈləʊk(ə)l ˈhaɪə/",
+   "us": "/ˈloʊk(ə)l ˈhaɪər/"
+  },
+  "def": "An employee recruited directly in the country where they work, on local terms, with no expatriate benefits.",
+  "registers": {
+   "formal": {
+    "uk": "locally hired employee",
+    "us": "locally hired employee",
+    "ex": "A [[locally hired employee]] is not eligible for the allowances set out in this Policy."
+   },
+   "everyday": {
+    "uk": "local hire",
+    "us": "local hire",
+    "ex": "He's British, but he's a [[local hire]] - we took him on in Paris on a standard French contract."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hire locally",
+   "local hire terms",
+   "to convert an assignee to a local hire",
+   "a local-hire package"
+  ],
+  "note_fr": "La nationalité ne compte pas : un Britannique recruté à Paris sur un CDI français est un « local hire ». C'est l'employeur et le contrat qui font le statut, pas le passeport.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-007",
+  "level": 1,
+  "fr": "mutation internationale (transfert définitif)",
+  "term": {
+   "uk": "international transfer",
+   "us": "international transfer"
+  },
+  "ipa": {
+   "uk": "/ˌɪntəˈnæʃ(ə)nəl ˈtrænsfɜː/",
+   "us": "/ˌɪntərˈnæʃ(ə)nəl ˈtrænsfɜːr/"
+  },
+  "def": "A permanent move of an employee to a group company in another country, usually with a new local contract.",
+  "registers": {
+   "formal": {
+    "uk": "permanent international transfer",
+    "us": "permanent international transfer",
+    "ex": "A [[permanent international transfer]] entails the termination of the home employment contract and the conclusion of a new contract with the receiving entity."
+   },
+   "everyday": {
+    "uk": "international transfer",
+    "us": "international transfer",
+    "ex": "It's not an assignment, it's an [[international transfer]] - she's moving to Chicago for good."
+   },
+   "informal": {
+    "uk": "to move over",
+    "us": "to move over",
+    "ex": "He's [[moving over]] to the London office in January and won't be coming back."
+   }
+  },
+  "collocations": [
+   "a one-way move",
+   "to accept an international transfer",
+   "the receiving entity",
+   "transfer terms"
+  ],
+  "note_fr": "La mutation définitive (« one-way move ») s'oppose à la mission (« assignment ») qui prévoit un retour. En droit français, mettre fin au contrat d'origine pour en conclure un autre à l'étranger doit être organisé avec soin (rupture ou suspension, reprise d'ancienneté) : faites-le préciser par écrit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-008",
+  "level": 1,
+  "fr": "lettre de mission / lettre d'affectation",
+  "term": {
+   "uk": "assignment letter",
+   "us": "assignment letter"
+  },
+  "ipa": {
+   "uk": "/əˈsaɪnmənt ˌletə/",
+   "us": "/əˈsaɪnmənt ˌletər/"
+  },
+  "def": "The document that sets out the terms of an international assignment: destination, duration, pay, allowances and return.",
+  "registers": {
+   "formal": {
+    "uk": "letter of assignment",
+    "us": "letter of assignment",
+    "ex": "The terms of the assignment are set out in the [[letter of assignment]], which forms an addendum to the employment contract."
+   },
+   "everyday": {
+    "uk": "assignment letter",
+    "us": "assignment letter",
+    "ex": "Has she signed her [[assignment letter]] yet? We can't book the movers until she has."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue an assignment letter",
+   "to countersign the assignment letter",
+   "the terms of the assignment letter",
+   "an assignment letter template"
+  ],
+  "note_fr": "En France, la lettre de mission prend souvent la forme d'un avenant au contrat de travail : elle modifie des éléments essentiels (lieu, rémunération) et suppose donc l'accord écrit du salarié. Ne confondez pas avec « letter of appointment » (lettre d'engagement).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-009",
+  "level": 1,
+  "fr": "politique de mobilité internationale",
+  "term": {
+   "uk": "global mobility policy",
+   "us": "global mobility policy"
+  },
+  "ipa": {
+   "uk": "/ˈɡləʊb(ə)l məʊˈbɪləti ˌpɒləsi/",
+   "us": "/ˈɡloʊb(ə)l moʊˈbɪləti ˌpɑːləsi/"
+  },
+  "def": "The group document that defines the categories of international moves and the support and benefits attached to each.",
+  "registers": {
+   "formal": {
+    "uk": "international assignment policy",
+    "us": "international assignment policy",
+    "ex": "Allowances are calculated in accordance with the Group's [[international assignment policy]] in force at the start date."
+   },
+   "everyday": {
+    "uk": "mobility policy",
+    "us": "mobility policy",
+    "ex": "The [[mobility policy]] only covers school fees up to the age of eighteen."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply the mobility policy",
+   "a tiered mobility policy",
+   "an exception to the policy",
+   "to update the policy"
+  ],
+  "note_fr": "« Policy » ici = politique interne, pas « police ». En France, une politique groupe n'est pas un document contractuel : ce qui engage vis-à-vis du salarié, c'est la lettre de mission ou l'avenant signé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-010",
+  "level": 1,
+  "fr": "mission longue durée",
+  "term": {
+   "uk": "long-term assignment",
+   "us": "long-term assignment"
+  },
+  "ipa": {
+   "uk": "/ˌlɒŋ tɜːm əˈsaɪnmənt/",
+   "us": "/ˌlɔːŋ tɜːrm əˈsaɪnmənt/"
+  },
+  "def": "An international assignment that typically lasts between one and five years, often with the family moving too.",
+  "registers": {
+   "formal": {
+    "uk": "long-term assignment",
+    "us": "long-term assignment",
+    "ex": "A [[long-term assignment]] is defined as an assignment of more than twelve months, during which the Assignee relocates to the host country."
+   },
+   "everyday": {
+    "uk": "long-term assignment",
+    "us": "long-term assignment",
+    "ex": "It's a three-year [[long-term assignment]], so the whole family's going out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to go on a long-term assignment",
+   "a three-year assignment",
+   "an LTA",
+   "long-term assignment allowances"
+  ],
+  "note_fr": "La durée-seuil varie selon les groupes (souvent plus de douze mois) : vérifiez la politique, ce n'est pas une notion légale. Ne dites pas « long-duration mission » : « mission » évoque en anglais une mission diplomatique, religieuse ou militaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-011",
+  "level": 1,
+  "fr": "mission de courte durée",
+  "term": {
+   "uk": "short-term assignment",
+   "us": "short-term assignment"
+  },
+  "ipa": {
+   "uk": "/ˌʃɔːt tɜːm əˈsaɪnmənt/",
+   "us": "/ˌʃɔːrt tɜːrm əˈsaɪnmənt/"
+  },
+  "def": "An assignment abroad of a few months, usually without the family relocating.",
+  "registers": {
+   "formal": {
+    "uk": "short-term assignment",
+    "us": "short-term assignment",
+    "ex": "Employees on a [[short-term assignment]] shall be provided with serviced accommodation and a daily allowance."
+   },
+   "everyday": {
+    "uk": "short-term assignment",
+    "us": "short-term assignment",
+    "ex": "Can we do it as a six-month [[short-term assignment]] instead of a full move?"
+   },
+   "informal": {
+    "uk": "stint",
+    "us": "stint",
+    "ex": "She did a six-month [[stint]] in Singapore last year."
+   }
+  },
+  "collocations": [
+   "an STA",
+   "a six-month short-term assignment",
+   "to extend a short-term assignment",
+   "short-term assignees"
+  ],
+  "note_fr": "Une mission courte n'échappe pas pour autant aux règles : déclaration de détachement, A1, fiscalité et immigration s'appliquent dès le premier jour selon les pays. « Stint » est familier mais très naturel à l'oral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-012",
+  "level": 1,
+  "fr": "voyageur d'affaires (salarié en déplacements fréquents)",
+  "term": {
+   "uk": "business traveller",
+   "us": "business traveler"
+  },
+  "ipa": {
+   "uk": "/ˈbɪznəs ˌtræv(ə)lə/",
+   "us": "/ˈbɪznəs ˌtræv(ə)lər/"
+  },
+  "def": "An employee who makes trips abroad for work without being assigned or relocated there.",
+  "registers": {
+   "formal": {
+    "uk": "business traveller",
+    "us": "business traveler",
+    "ex": "Frequent [[business travellers]] must record the number of days spent in each country.",
+    "ex_us": "Frequent [[business travelers]] must record the number of days spent in each country."
+   },
+   "everyday": {
+    "uk": "to travel for work",
+    "us": "to travel for work",
+    "ex": "He doesn't live there - he just [[travels for work]] two weeks a month."
+   },
+   "informal": {
+    "uk": "road warrior",
+    "us": "road warrior",
+    "ex": "Our sales director is a real [[road warrior]] - she's in a different country every week."
+   }
+  },
+  "collocations": [
+   "a frequent business traveller",
+   "business travel tracking",
+   "to count days",
+   "a business trip"
+  ],
+  "note_fr": "Orthographe : « traveller » (UK, deux l) / « traveler » (US, un l). Les déplacements fréquents peuvent, à partir d'un certain nombre de jours, créer des obligations fiscales, sociales ou de détachement : d'où le suivi des jours (« day counting »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-013",
+  "level": 1,
+  "fr": "indemnité de coût de la vie",
+  "term": {
+   "uk": "cost-of-living allowance",
+   "us": "cost-of-living allowance"
+  },
+  "ipa": {
+   "uk": "/ˌkɒst əv ˈlɪvɪŋ əˌlaʊəns/",
+   "us": "/ˌkɔːst əv ˈlɪvɪŋ əˌlaʊəns/"
+  },
+  "def": "An allowance that compensates an assignee for higher prices of everyday goods and services in the host location.",
+  "registers": {
+   "formal": {
+    "uk": "cost-of-living allowance",
+    "us": "cost-of-living allowance",
+    "ex": "A [[cost-of-living allowance]] shall be paid where the host location index exceeds that of the home location."
+   },
+   "everyday": {
+    "uk": "COLA",
+    "us": "COLA",
+    "ex": "Zurich's so expensive that her [[COLA]] is almost a third of her base salary."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a COLA",
+   "a cost-of-living index",
+   "to review the allowance annually",
+   "a negative COLA"
+  ],
+  "note_fr": "COLA se prononce /ˈkəʊlə/ comme la boisson. Aux États-Unis, « COLA » désigne aussi la revalorisation annuelle des salaires ou des pensions selon l'inflation (« cost-of-living adjustment ») : précisez « allowance » dans un contexte de mobilité.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-014",
+  "level": 1,
+  "fr": "prime de sujétion / d'éloignement (pays difficile)",
+  "term": {
+   "uk": "hardship allowance",
+   "us": "hardship allowance"
+  },
+  "ipa": {
+   "uk": "/ˈhɑːdʃɪp əˌlaʊəns/",
+   "us": "/ˈhɑːrdʃɪp əˌlaʊəns/"
+  },
+  "def": "An extra payment for working in a location with difficult living conditions, such as poor security, climate or healthcare.",
+  "registers": {
+   "formal": {
+    "uk": "hardship allowance",
+    "us": "hardship premium",
+    "ex": "A [[hardship allowance]] is payable for locations classified as difficult by the Group's external provider.",
+    "ex_us": "A [[hardship premium]] is payable for locations classified as difficult by the Group's external provider."
+   },
+   "everyday": {
+    "uk": "hardship pay",
+    "us": "hardship pay",
+    "ex": "Lagos still qualifies for [[hardship pay]], but Johannesburg doesn't any more."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a hardship location",
+   "a hardship rating",
+   "to qualify for a hardship allowance",
+   "hardship and danger pay"
+  ],
+  "note_fr": "« Hardship » = conditions de vie pénibles, pas difficulté financière personnelle. Ne confondez pas avec la prime de pénibilité française (travaux pénibles) : ici c'est le lieu qui est difficile, pas le poste.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-015",
+  "level": 1,
+  "fr": "indemnité de logement / prise en charge du logement",
+  "term": {
+   "uk": "housing allowance",
+   "us": "housing allowance"
+  },
+  "ipa": {
+   "uk": "/ˈhaʊzɪŋ əˌlaʊəns/",
+   "us": "/ˈhaʊzɪŋ əˌlaʊəns/"
+  },
+  "def": "A payment, or a capped budget, to cover the assignee's rent in the host location.",
+  "registers": {
+   "formal": {
+    "uk": "housing allowance",
+    "us": "housing allowance",
+    "ex": "The [[housing allowance]] shall be capped at the amount determined for the assignee's family size and host location."
+   },
+   "everyday": {
+    "uk": "housing budget",
+    "us": "housing budget",
+    "ex": "Her [[housing budget]] won't stretch to a three-bedroom flat in central London.",
+    "ex_us": "Her [[housing budget]] won't stretch to a three-bedroom apartment in central London."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a capped housing allowance",
+   "company-leased accommodation",
+   "to pay the rent directly",
+   "a housing cap"
+  ],
+  "note_fr": "« Flat » (UK) / « apartment » (US). Un avantage logement pris en charge par l'employeur est en principe un élément de rémunération imposable et soumis à cotisations : vérifiez le traitement dans chaque pays.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-016",
+  "level": 1,
+  "fr": "congé dans le pays d'origine (voyage annuel)",
+  "term": {
+   "uk": "home leave",
+   "us": "home leave"
+  },
+  "ipa": {
+   "uk": "/ˈhəʊm liːv/",
+   "us": "/ˈhoʊm liːv/"
+  },
+  "def": "Paid trips back to the home country for the assignee and family, usually once a year, under the mobility policy.",
+  "registers": {
+   "formal": {
+    "uk": "home leave",
+    "us": "home leave",
+    "ex": "The Assignee and accompanying family members shall be entitled to one [[home leave]] trip per assignment year in economy class."
+   },
+   "everyday": {
+    "uk": "home leave",
+    "us": "home leave",
+    "ex": "We're using our [[home leave]] to go back to Bordeaux for Christmas."
+   },
+   "informal": {
+    "uk": "trip home",
+    "us": "trip home",
+    "ex": "The company pays for one [[trip home]] a year - anything else is on us."
+   }
+  },
+  "collocations": [
+   "home leave flights",
+   "a home leave entitlement",
+   "to take home leave",
+   "to combine home leave with business"
+  ],
+  "note_fr": "Le « home leave » est un avantage de la politique de mobilité (prise en charge du voyage), pas un congé supplémentaire : les jours pris restent des congés payés, sauf disposition contraire. Ne le confondez pas avec « leave at home ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-017",
+  "level": 1,
+  "fr": "frais de scolarité (prise en charge pour les enfants)",
+  "term": {
+   "uk": "school fees",
+   "us": "tuition"
+  },
+  "ipa": {
+   "uk": "/ˈskuːl fiːz/",
+   "us": "/tuˈɪʃ(ə)n/"
+  },
+  "def": "The cost of educating the assignee's children in the host location, often paid by the employer up to a cap.",
+  "registers": {
+   "formal": {
+    "uk": "education allowance",
+    "us": "education allowance",
+    "ex": "An [[education allowance]] covering tuition at an international or bilingual school shall be granted for each eligible child."
+   },
+   "everyday": {
+    "uk": "school fees",
+    "us": "school tuition",
+    "ex": "The [[school fees]] at the American School are eye-watering, so we capped them.",
+    "ex_us": "The [[school tuition]] at the American School is crazy expensive, so we capped it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to cover school fees",
+   "an education allowance",
+   "a school search",
+   "international school places"
+  ],
+  "note_fr": "« Fees » (UK) / « tuition » (US) : un Américain parle de « tuition » même pour une école primaire privée. En anglais britannique, « tuition » désigne plutôt l'enseignement lui-même (« private tuition » = cours particuliers).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-018",
+  "level": 1,
+  "fr": "famille accompagnante",
+  "term": {
+   "uk": "accompanying family",
+   "us": "accompanying family"
+  },
+  "ipa": {
+   "uk": "/əˈkʌmpəniɪŋ ˈfæm(ə)li/",
+   "us": "/əˈkʌmpəniɪŋ ˈfæm(ə)li/"
+  },
+  "def": "The spouse or partner and children who move abroad with the assignee.",
+  "registers": {
+   "formal": {
+    "uk": "accompanying family members",
+    "us": "accompanying family members",
+    "ex": "Allowances shall be determined by reference to the number of [[accompanying family members]] residing in the host country."
+   },
+   "everyday": {
+    "uk": "family",
+    "us": "family",
+    "ex": "Is he going out on his own, or is the [[family]] coming too?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "accompanied and unaccompanied status",
+   "an unaccompanied assignment",
+   "accompanying dependants",
+   "to bring the family"
+  ],
+  "note_fr": "« Accompanied / unaccompanied assignment » : mission avec ou sans famille. Le statut a des effets sur le logement, l'école et les titres de séjour : vérifiez-le dès le début du projet.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-019",
+  "level": 1,
+  "fr": "retour / rapatriement (fin de mission)",
+  "term": {
+   "uk": "repatriation",
+   "us": "repatriation"
+  },
+  "ipa": {
+   "uk": "/ˌriːpætriˈeɪʃ(ə)n/",
+   "us": "/ˌriːpeɪtriˈeɪʃ(ə)n/"
+  },
+  "def": "The return of an assignee and family to the home country at the end of an assignment, and the support provided for it.",
+  "registers": {
+   "formal": {
+    "uk": "repatriation",
+    "us": "repatriation",
+    "ex": "On completion of the assignment, the Company shall bear the cost of [[repatriation]] to the home country."
+   },
+   "everyday": {
+    "uk": "to come back",
+    "us": "to come back",
+    "ex": "She's [[coming back]] to Paris in June, and we still haven't found her a role."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "repatriation costs",
+   "a repatriation plan",
+   "to plan someone's return",
+   "repatriation support"
+  ],
+  "note_fr": "Prononciation différente : UK /ˌriːpætri-/, US /ˌriːpeɪtri-/. En anglais, « repatriation » sert aussi pour les fonds ou une dépouille : en RH, le contexte suffit. Le verbe « to repatriate » est surtout écrit ; à l'oral on dit « to come back », « to bring someone back ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-020",
+  "level": 1,
+  "fr": "siège (du groupe)",
+  "term": {
+   "uk": "head office",
+   "us": "headquarters"
+  },
+  "ipa": {
+   "uk": "/ˌhed ˈɒfɪs/",
+   "us": "/ˈhedˌkwɔːrtərz/"
+  },
+  "def": "The main office of a group, where central management and group functions are based.",
+  "registers": {
+   "formal": {
+    "uk": "head office",
+    "us": "headquarters",
+    "ex": "Any departure from this policy requires the prior written approval of [[head office]].",
+    "ex_us": "Any departure from this policy requires the prior written approval of [[headquarters]]."
+   },
+   "everyday": {
+    "uk": "head office",
+    "us": "corporate",
+    "ex": "We'll need to run it past [[head office]] before we promise anything.",
+    "ex_us": "We'll need to run it past [[corporate]] before we promise anything."
+   },
+   "informal": {
+    "uk": "HQ",
+    "us": "HQ",
+    "ex": "[[HQ]] want the new appraisal form live everywhere by March."
+   }
+  },
+  "collocations": [
+   "to report to head office",
+   "head office approval",
+   "group headquarters",
+   "to run something past head office"
+  ],
+  "note_fr": "« Headquarters » est pluriel en forme mais s'accorde au singulier ou au pluriel. Les Américains disent volontiers « corporate » (« corporate wants... ») pour le siège. En anglais britannique, un nom collectif comme « HQ » prend souvent un verbe au pluriel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-021",
+  "level": 1,
+  "fr": "société mère",
+  "term": {
+   "uk": "parent company",
+   "us": "parent company"
+  },
+  "ipa": {
+   "uk": "/ˈpeərənt ˌkʌmpəni/",
+   "us": "/ˈperənt ˌkʌmpəni/"
+  },
+  "def": "The company that owns or controls one or more subsidiaries.",
+  "registers": {
+   "formal": {
+    "uk": "parent company",
+    "us": "parent company",
+    "ex": "The French subsidiary is wholly owned by the [[parent company]], incorporated in Delaware."
+   },
+   "everyday": {
+    "uk": "parent",
+    "us": "parent",
+    "ex": "The [[parent]] wants every subsidiary on the same HR system by next year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the ultimate parent company",
+   "the US parent",
+   "a wholly owned subsidiary",
+   "parent-company guarantee"
+  ],
+  "note_fr": "Ne dites pas « mother company » (calque). Rappel utile au siège : la société mère n'est pas l'employeur des salariés de la filiale française, sauf situation exceptionnelle de co-emploi.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-022",
+  "level": 1,
+  "fr": "politique groupe",
+  "term": {
+   "uk": "global policy",
+   "us": "global policy"
+  },
+  "ipa": {
+   "uk": "/ˈɡləʊb(ə)l ˈpɒləsi/",
+   "us": "/ˈɡloʊb(ə)l ˈpɑːləsi/"
+  },
+  "def": "A rule or set of rules defined by head office to apply in every country where the group operates.",
+  "registers": {
+   "formal": {
+    "uk": "group-wide policy",
+    "us": "company-wide policy",
+    "ex": "This [[group-wide policy]] applies to all entities, subject to mandatory provisions of local law.",
+    "ex_us": "This [[company-wide policy]] applies to all entities, subject to mandatory provisions of local law."
+   },
+   "everyday": {
+    "uk": "global policy",
+    "us": "global policy",
+    "ex": "The new [[global policy]] on gifts went out yesterday, and nobody in Paris was consulted."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to roll out a global policy",
+   "to localise a global policy",
+   "global policy owner",
+   "a global standard"
+  ],
+  "note_fr": "Une politique groupe ne s'impose en France qu'en respectant le droit local et les procédures : selon son contenu, elle peut devoir être intégrée au règlement intérieur ou faire l'objet d'une information-consultation du CSE. Pensez-y avant de dire « yes, we'll implement it ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-023",
+  "level": 1,
+  "fr": "droit local (le droit du pays concerné)",
+  "term": {
+   "uk": "local law",
+   "us": "local law"
+  },
+  "ipa": {
+   "uk": "/ˈləʊk(ə)l ˈlɔː/",
+   "us": "/ˈloʊk(ə)l ˈlɔː/"
+  },
+  "def": "The law of the country in which an entity operates or an employee works.",
+  "registers": {
+   "formal": {
+    "uk": "applicable local law",
+    "us": "applicable local law",
+    "ex": "Where this policy conflicts with [[applicable local law]], the latter shall prevail."
+   },
+   "everyday": {
+    "uk": "local law",
+    "us": "local law",
+    "ex": "That works in Texas, but [[local law]] won't let us do it here."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "local law prevails",
+   "to comply with local law",
+   "local law requirements",
+   "subject to local law"
+  ],
+  "note_fr": "« Local » ne veut pas dire « municipal » ici : pour un siège étranger, « local law » = le droit français. Formule réflexe à placer dans toute politique groupe : « subject to local law » ou « to the extent permitted by local law ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-024",
+  "level": 1,
+  "fr": "décalage horaire",
+  "term": {
+   "uk": "time difference",
+   "us": "time difference"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪm ˌdɪf(ə)rəns/",
+   "us": "/ˈtaɪm ˌdɪf(ə)rəns/"
+  },
+  "def": "The number of hours between the local time in two places.",
+  "registers": {
+   "formal": {
+    "uk": "time difference",
+    "us": "time difference",
+    "ex": "Owing to the [[time difference]], the call has been scheduled at 4 p.m. Paris time."
+   },
+   "everyday": {
+    "uk": "time difference",
+    "us": "time difference",
+    "ex": "With a nine-hour [[time difference]], there's no slot that works for everyone in California and Bangalore."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "across time zones",
+   "a nine-hour time difference",
+   "Paris time / CET",
+   "to be ahead of / behind"
+  ],
+  "note_fr": "« Jet lag » est la fatigue du voyage, pas le décalage horaire entre deux villes. Précisez toujours le fuseau dans une invitation (« 9 a.m. ET / 3 p.m. CET »). L'Inde a un décalage d'une demi-heure par rapport à l'Europe : vérifiez avant d'envoyer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-025",
+  "level": 1,
+  "fr": "conférence téléphonique / visioconférence mondiale",
+  "term": {
+   "uk": "global call",
+   "us": "global call"
+  },
+  "ipa": {
+   "uk": "/ˈɡləʊb(ə)l ˈkɔːl/",
+   "us": "/ˈɡloʊb(ə)l ˈkɔːl/"
+  },
+  "def": "A meeting by phone or video that brings together participants from several countries.",
+  "registers": {
+   "formal": {
+    "uk": "global teleconference",
+    "us": "global teleconference",
+    "ex": "The quarterly [[global teleconference]] of HR Directors will be held on Tuesday 14 March."
+   },
+   "everyday": {
+    "uk": "global call",
+    "us": "global call",
+    "ex": "I'm on the [[global call]] till eight tonight, so let's catch up tomorrow."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to dial into a call",
+   "to host a global call",
+   "the monthly global HR call",
+   "to be on mute"
+  ],
+  "note_fr": "« Conference » seul désigne plutôt un congrès ; dites « call », « conference call » ou « video call ». « To dial in » s'emploie encore même quand on clique sur un lien. Attention à « eventually » (= finalement) et « actually » (= en fait) : deux faux amis fréquents en réunion.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-026",
+  "level": 1,
+  "fr": "visa long séjour",
+  "term": {
+   "uk": "long-stay visa",
+   "us": "long-stay visa"
+  },
+  "ipa": {
+   "uk": "/ˌlɒŋ steɪ ˈviːzə/",
+   "us": "/ˌlɔːŋ steɪ ˈviːzə/"
+  },
+  "def": "A visa that allows a foreign national to enter and live in a country for more than three months.",
+  "registers": {
+   "formal": {
+    "uk": "long-stay visa",
+    "us": "long-stay visa",
+    "ex": "The employee must obtain a [[long-stay visa]] from the French consulate before travelling to France."
+   },
+   "everyday": {
+    "uk": "visa",
+    "us": "visa",
+    "ex": "Her [[visa]] still hasn't come through, so we've pushed the start date back."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for a long-stay visa",
+   "a visa appointment",
+   "the visa comes through",
+   "a visa equivalent to a residence permit"
+  ],
+  "note_fr": "Le visa permet d'entrer ; le titre de séjour (« residence permit ») permet de rester ; l'autorisation de travail (« work authorisation ») permet de travailler. Un siège étranger confond souvent les trois : séparez-les clairement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-027",
+  "level": 1,
+  "fr": "langue de travail",
+  "term": {
+   "uk": "working language",
+   "us": "working language"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkɪŋ ˈlæŋɡwɪdʒ/",
+   "us": "/ˈwɜːrkɪŋ ˈlæŋɡwɪdʒ/"
+  },
+  "def": "The language normally used for communication inside a company or group.",
+  "registers": {
+   "formal": {
+    "uk": "working language",
+    "us": "working language",
+    "ex": "English is the [[working language]] of the Group; however, documents provided to employees in France shall also be made available in French."
+   },
+   "everyday": {
+    "uk": "company language",
+    "us": "company language",
+    "ex": "English may be the [[company language]], but the handbook still has to be in French here."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the group's working language",
+   "a French translation",
+   "to have documents translated",
+   "bilingual documents"
+  ],
+  "note_fr": "Point clé pour un siège anglophone : en France, les documents qui fixent des obligations au salarié ou dont il a besoin pour travailler doivent en principe être rédigés en français (avec des exceptions, notamment pour les documents venant de l'étranger). Un plan de bonus en anglais seul peut être contesté.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-028",
+  "level": 1,
+  "fr": "s'installer à l'étranger / être muté (avec déménagement)",
+  "term": {
+   "uk": "to relocate",
+   "us": "to relocate"
+  },
+  "ipa": {
+   "uk": "/tə ˌriːləʊˈkeɪt/",
+   "us": "/tə ˈriːloʊkeɪt/"
+  },
+  "def": "To move to live and work in a different place, usually because the employer asks or offers it.",
+  "registers": {
+   "formal": {
+    "uk": "to relocate",
+    "us": "to relocate",
+    "ex": "Employees who agree [[to relocate]] shall receive the support described in Section 4."
+   },
+   "everyday": {
+    "uk": "to move",
+    "us": "to move",
+    "ex": "Would you be up for [[moving]] to Dublin for a couple of years?"
+   },
+   "informal": {
+    "uk": "to up sticks",
+    "us": "to pull up stakes",
+    "ex": "They [[upped sticks]] and moved the whole family to Singapore.",
+    "ex_us": "They [[pulled up stakes]] and moved the whole family to Singapore."
+   }
+  },
+  "collocations": [
+   "to relocate abroad",
+   "to relocate an employee",
+   "relocation support",
+   "to be relocated to"
+  ],
+  "note_fr": "Accent : UK /ˌriːləʊˈkeɪt/ (sur « -cate »), US souvent /ˈriːloʊkeɪt/ (sur la première syllabe). « To up sticks » est britannique, « to pull up stakes » américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-029",
+  "level": 1,
+  "fr": "travailler depuis l'étranger",
+  "term": {
+   "uk": "to work from abroad",
+   "us": "to work from abroad"
+  },
+  "ipa": {
+   "uk": "/tə ˈwɜːk frəm əˈbrɔːd/",
+   "us": "/tə ˈwɜːrk frəm əˈbrɔːd/"
+  },
+  "def": "To carry out one's job remotely while physically staying in another country.",
+  "registers": {
+   "formal": {
+    "uk": "to work remotely from another country",
+    "us": "to work remotely from another country",
+    "ex": "Employees wishing [[to work remotely from another country]] must obtain prior approval from HR."
+   },
+   "everyday": {
+    "uk": "to work from abroad",
+    "us": "to work from abroad",
+    "ex": "Can I [[work from abroad]] for a month while my mother's in hospital in Lisbon?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "working from abroad",
+   "a temporary remote work abroad request",
+   "work-from-anywhere policy",
+   "to approve a request"
+  ],
+  "note_fr": "« Abroad » est un adverbe : on dit « to work abroad », jamais « to work in abroad » ni « to go to abroad ». Même quelques semaines à l'étranger peuvent avoir des effets fiscaux, sociaux et en matière d'immigration : d'où une procédure d'accord préalable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-030",
+  "level": 1,
+  "fr": "RH Groupe / DRH Groupe",
+  "term": {
+   "uk": "Group HR",
+   "us": "corporate HR"
+  },
+  "ipa": {
+   "uk": "/ˌɡruːp ˌeɪtʃ ˈɑː/",
+   "us": "/ˈkɔːrpərət ˌeɪtʃ ˈɑːr/"
+  },
+  "def": "The central HR function at head office, which sets policies for the whole group.",
+  "registers": {
+   "formal": {
+    "uk": "Group Human Resources",
+    "us": "Corporate Human Resources",
+    "ex": "Requests for exceptions shall be submitted to [[Group Human Resources]] for approval.",
+    "ex_us": "Requests for exceptions shall be submitted to [[Corporate Human Resources]] for approval."
+   },
+   "everyday": {
+    "uk": "Group HR",
+    "us": "corporate HR",
+    "ex": "[[Group HR]] are asking for our headcount figures by Friday.",
+    "ex_us": "[[Corporate HR]] is asking for our headcount figures by Friday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "Group HR Director",
+   "the global HR team",
+   "regional HR (EMEA)",
+   "a global HR VP"
+  ],
+  "note_fr": "Les groupes britanniques disent « Group HR » ; les groupes américains « corporate HR » ou « global HR ». Accord au pluriel fréquent en anglais britannique (« Group HR are... »), au singulier en américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-031",
+  "level": 1,
+  "fr": "entité juridique (société)",
+  "term": {
+   "uk": "legal entity",
+   "us": "legal entity"
+  },
+  "ipa": {
+   "uk": "/ˈliːɡ(ə)l ˈentəti/",
+   "us": "/ˈliːɡ(ə)l ˈentəti/"
+  },
+  "def": "A company that exists in law and can sign contracts and employ people in its own name.",
+  "registers": {
+   "formal": {
+    "uk": "legal entity",
+    "us": "legal entity",
+    "ex": "Each employee shall be employed by a single [[legal entity]] within the Group."
+   },
+   "everyday": {
+    "uk": "entity",
+    "us": "entity",
+    "ex": "Which [[entity]] is she actually employed by - the French one or the Irish one?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a local legal entity",
+   "to set up an entity",
+   "the employing entity",
+   "an entity chart"
+  ],
+  "note_fr": "Les groupes raisonnent par « business lines » ; le droit du travail raisonne par entité juridique. Rappelez-le au siège : c'est l'entité qui signe le contrat, déclare les salaires et répond devant les prud'hommes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-032",
+  "level": 1,
+  "fr": "différences culturelles",
+  "term": {
+   "uk": "cultural differences",
+   "us": "cultural differences"
+  },
+  "ipa": {
+   "uk": "/ˈkʌltʃ(ə)rəl ˈdɪf(ə)rənsɪz/",
+   "us": "/ˈkʌltʃ(ə)rəl ˈdɪf(ə)rənsɪz/"
+  },
+  "def": "Differences in values, habits and ways of communicating between people from different countries.",
+  "registers": {
+   "formal": {
+    "uk": "cultural differences",
+    "us": "cultural differences",
+    "ex": "Managers should be made aware of [[cultural differences]] in the way feedback is given and received."
+   },
+   "everyday": {
+    "uk": "a cultural thing",
+    "us": "a cultural thing",
+    "ex": "It's partly [[a cultural thing]] - in France people argue in meetings, and it's not personal."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bridge cultural differences",
+   "cultural awareness",
+   "cultural norms",
+   "to bear in mind cultural differences"
+  ],
+  "note_fr": "« Culture » s'emploie au singulier pour une organisation (« our culture ») ; on parle des différences au pluriel. « It's a cultural thing » est très naturel à l'oral pour désamorcer un malentendu.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-033",
+  "level": 1,
+  "fr": "résidence fiscale",
+  "term": {
+   "uk": "tax residence",
+   "us": "tax residency"
+  },
+  "ipa": {
+   "uk": "/ˈtæks ˌrezɪd(ə)ns/",
+   "us": "/ˈtæks ˌrezɪd(ə)nsi/"
+  },
+  "def": "The country where a person is considered resident for income tax purposes.",
+  "registers": {
+   "formal": {
+    "uk": "tax residence",
+    "us": "tax residency",
+    "ex": "The Assignee's [[tax residence]] shall be determined in accordance with domestic law and any applicable tax treaty.",
+    "ex_us": "The Assignee's [[tax residency]] shall be determined in accordance with domestic law and any applicable tax treaty."
+   },
+   "everyday": {
+    "uk": "to be tax resident",
+    "us": "to be tax resident",
+    "ex": "Once he's spent more than half the year here, he'll probably [[be tax resident]] in France."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to become tax resident",
+   "a certificate of tax residence",
+   "dual residence",
+   "tie-breaker rules"
+  ],
+  "note_fr": "« Residence » (UK) / « residency » (US, plus courant). La résidence fiscale ne dépend pas que du nombre de jours : en France, le foyer, l'activité professionnelle et le centre des intérêts économiques comptent aussi. Ne promettez rien sans conseil fiscal.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-034",
+  "level": 1,
+  "fr": "taux de change",
+  "term": {
+   "uk": "exchange rate",
+   "us": "exchange rate"
+  },
+  "ipa": {
+   "uk": "/ɪksˈtʃeɪndʒ reɪt/",
+   "us": "/ɪksˈtʃeɪndʒ reɪt/"
+  },
+  "def": "The price of one currency in terms of another.",
+  "registers": {
+   "formal": {
+    "uk": "exchange rate",
+    "us": "exchange rate",
+    "ex": "Allowances shall be converted at the [[exchange rate]] applicable on the first business day of each month."
+   },
+   "everyday": {
+    "uk": "exchange rate",
+    "us": "exchange rate",
+    "ex": "With the [[exchange rate]] where it is, his dollar salary's worth a lot less in euros."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a fixed exchange rate",
+   "currency fluctuations",
+   "to pay in local currency",
+   "exchange-rate protection"
+  ],
+  "note_fr": "« Change » seul ne veut pas dire « devises » : on parle de « currency » (la monnaie) et de « foreign exchange » ou « FX ». Dans une lettre de mission, précisez toujours la monnaie de paiement et la date de conversion.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-035",
+  "level": 1,
+  "fr": "voyage de reconnaissance (avant la mission)",
+  "term": {
+   "uk": "pre-assignment visit",
+   "us": "pre-assignment visit"
+  },
+  "ipa": {
+   "uk": "/ˌpriː əˈsaɪnmənt ˈvɪzɪt/",
+   "us": "/ˌpriː əˈsaɪnmənt ˈvɪzɪt/"
+  },
+  "def": "A short trip to the host location before the assignment so that the employee, and often the partner, can see housing, schools and the office.",
+  "registers": {
+   "formal": {
+    "uk": "pre-assignment visit",
+    "us": "pre-assignment visit",
+    "ex": "The Company shall bear the cost of one [[pre-assignment visit]] of up to five days for the assignee and partner."
+   },
+   "everyday": {
+    "uk": "look-see trip",
+    "us": "look-see trip",
+    "ex": "They're going over on a [[look-see trip]] next week before they decide."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to go on a look-see trip",
+   "a house-hunting trip",
+   "a familiarisation visit",
+   "to decide after the visit"
+  ],
+  "note_fr": "« Look-see » est familier mais c'est le terme du métier, y compris dans les politiques. Ne traduisez pas par « reconnaissance trip », qui évoque un repérage militaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-036",
+  "level": 2,
+  "fr": "déclaration préalable de détachement (SIPSI)",
+  "term": {
+   "uk": "posted worker declaration",
+   "us": "posted worker declaration"
+  },
+  "ipa": {
+   "uk": "/ˌpəʊstɪd ˈwɜːkə ˌdekləˈreɪʃ(ə)n/",
+   "us": "/ˌpoʊstɪd ˈwɜːrkər ˌdekləˈreɪʃ(ə)n/"
+  },
+  "def": "The online notice a foreign employer must file with the French labour authorities before posting a worker to France.",
+  "registers": {
+   "formal": {
+    "uk": "prior declaration of posting",
+    "us": "prior declaration of posting",
+    "ex": "The foreign employer shall submit a [[prior declaration of posting]] to the labour inspectorate before the work begins."
+   },
+   "everyday": {
+    "uk": "posting declaration",
+    "us": "posting declaration",
+    "ex": "Has anyone filed the [[posting declaration]] for the two engineers arriving from Pune on Monday?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to file a posting declaration",
+   "the SIPSI platform",
+   "the labour inspectorate",
+   "to keep a copy on site"
+  ],
+  "note_fr": "Côté français, c'est l'employeur étranger qui déclare, avant le début de la prestation, via la plateforme en ligne SIPSI ; l'entreprise d'accueil doit vérifier que c'est fait, sous peine de sanctions. Dites « file » ou « submit » une déclaration, pas « make a declaration », qui sonne comme une déclaration publique.",
+  "french_concept": true,
+  "explain": {
+   "written": "The posted worker declaration (déclaration préalable de détachement) is an online notice that a foreign employer must submit to the French labour inspectorate before posting an employee to France, stating among other things the identity of the worker, the dates and the place of work.",
+   "spoken": "Before anyone's posted to France, the foreign employer has to file an online declaration with the labour inspectorate - and we, as the host, have to check it's been done."
+  }
+ },
+ {
+  "id": "gl-037",
+  "level": 2,
+  "fr": "certificat A1 (formulaire A1)",
+  "term": {
+   "uk": "A1 certificate",
+   "us": "A1 certificate"
+  },
+  "ipa": {
+   "uk": "/ˌeɪ ˈwʌn səˈtɪfɪkət/",
+   "us": "/ˌeɪ ˈwʌn sərˈtɪfɪkət/"
+  },
+  "def": "An EU form showing which country's social security system covers a worker who works in more than one EU, EEA or Swiss state.",
+  "registers": {
+   "formal": {
+    "uk": "portable document A1",
+    "us": "portable document A1",
+    "ex": "The posted worker shall be able to produce a [[portable document A1]] issued by the competent institution of the sending State."
+   },
+   "everyday": {
+    "uk": "A1 certificate",
+    "us": "A1 form",
+    "ex": "Without an [[A1 certificate]], the French authorities could ask us to pay contributions here as well.",
+    "ex_us": "Without an [[A1 form]], the French authorities could ask us to pay contributions here as well."
+   },
+   "informal": {
+    "uk": "A1",
+    "us": "A1",
+    "ex": "Don't let him fly out until his [[A1]] has come through."
+   }
+  },
+  "collocations": [
+   "to apply for an A1",
+   "to hold a valid A1",
+   "an A1 for a business trip",
+   "to remain covered by the home social security system"
+  ],
+  "note_fr": "Le formulaire A1 prouve que le salarié reste affilié au régime de son pays d'origine et dispense de cotisations dans l'État d'accueil. Il est exigé même pour des déplacements courts, et un contrôle sans A1 peut coûter cher. Il ne règle ni l'impôt, ni le droit du travail applicable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-038",
+  "level": 2,
+  "fr": "coordination des systèmes de sécurité sociale",
+  "term": {
+   "uk": "social security coordination",
+   "us": "social security coordination"
+  },
+  "ipa": {
+   "uk": "/ˌsəʊʃ(ə)l sɪˈkjʊərəti kəʊˌɔːdɪˈneɪʃ(ə)n/",
+   "us": "/ˌsoʊʃ(ə)l sɪˈkjʊrəti koʊˌɔːrdəˈneɪʃ(ə)n/"
+  },
+  "def": "The EU rules that decide which single country's social security system applies to a person who moves or works across borders.",
+  "registers": {
+   "formal": {
+    "uk": "coordination of social security systems",
+    "us": "coordination of social security systems",
+    "ex": "Under the EU rules on the [[coordination of social security systems]], a worker is subject to the legislation of a single Member State at a time."
+   },
+   "everyday": {
+    "uk": "social security coordination",
+    "us": "social security coordination",
+    "ex": "It's a [[social security coordination]] question - she lives in Belgium but works three days a week in Lille."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the EU coordination rules",
+   "the applicable legislation",
+   "multi-state workers",
+   "the one-country rule"
+  ],
+  "note_fr": "La coordination ne crée pas un régime européen : elle désigne quel régime national s'applique et évite la double affiliation. Le Royaume-Uni, depuis le Brexit, relève d'un accord spécifique avec l'UE : ne supposez pas que les anciennes règles s'appliquent telles quelles.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-039",
+  "level": 2,
+  "fr": "certificat de détachement (convention bilatérale)",
+  "term": {
+   "uk": "certificate of coverage",
+   "us": "certificate of coverage"
+  },
+  "ipa": {
+   "uk": "/səˈtɪfɪkət əv ˈkʌv(ə)rɪdʒ/",
+   "us": "/sərˈtɪfɪkət əv ˈkʌv(ə)rɪdʒ/"
+  },
+  "def": "A document issued under a bilateral social security agreement confirming that a worker stays covered by the home country's system.",
+  "registers": {
+   "formal": {
+    "uk": "certificate of coverage",
+    "us": "certificate of coverage",
+    "ex": "A [[certificate of coverage]] issued under the bilateral agreement exempts the assignee from host-country social security contributions for the period stated."
+   },
+   "everyday": {
+    "uk": "coverage certificate",
+    "us": "coverage certificate",
+    "ex": "Our US engineers need a [[coverage certificate]] before they start in Paris, otherwise we pay twice."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to request a certificate of coverage",
+   "a CoC",
+   "the period of coverage",
+   "to avoid double contributions"
+  ],
+  "note_fr": "C'est l'équivalent hors Union européenne du formulaire A1, délivré en application d'une convention bilatérale. Les Américains disent « certificate of coverage » (US Social Security). Ne traduisez pas par « secondment certificate ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-040",
+  "level": 2,
+  "fr": "convention bilatérale de sécurité sociale",
+  "term": {
+   "uk": "bilateral social security agreement",
+   "us": "totalization agreement"
+  },
+  "ipa": {
+   "uk": "/baɪˈlæt(ə)rəl ˌsəʊʃ(ə)l sɪˈkjʊərəti əˈɡriːmənt/",
+   "us": "/ˌtoʊt(ə)ləˈzeɪʃ(ə)n əˈɡriːmənt/"
+  },
+  "def": "A treaty between two countries that coordinates their social security systems for people who work in both.",
+  "registers": {
+   "formal": {
+    "uk": "bilateral social security agreement",
+    "us": "totalization agreement",
+    "ex": "The assignment falls within the scope of the [[bilateral social security agreement]] between France and India.",
+    "ex_us": "The assignment falls within the scope of the [[totalization agreement]] between the United States and France."
+   },
+   "everyday": {
+    "uk": "social security agreement",
+    "us": "totalization agreement",
+    "ex": "Is there a [[social security agreement]] with Brazil, or will he have to contribute in both countries?",
+    "ex_us": "Is there a [[totalization agreement]] with Brazil, or will he have to contribute in both countries?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fall under a bilateral agreement",
+   "the maximum posting period",
+   "to apply for an extension",
+   "a country without an agreement"
+  ],
+  "note_fr": "Les Américains les appellent « totalization agreements », du nom du mécanisme de totalisation des périodes. Chaque convention a son propre champ et ses propres durées : ne généralisez jamais d'un pays à l'autre et vérifiez le texte applicable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-041",
+  "level": 2,
+  "fr": "assurance volontaire des expatriés (CFE)",
+  "term": {
+   "uk": "voluntary social security cover abroad",
+   "us": "voluntary social security coverage abroad"
+  },
+  "ipa": {
+   "uk": "/ˈvɒlənt(ə)ri ˌsəʊʃ(ə)l sɪˈkjʊərəti ˈkʌvər əˈbrɔːd/",
+   "us": "/ˈvɑːlənteri ˌsoʊʃ(ə)l sɪˈkjʊrəti ˈkʌv(ə)rɪdʒ əˈbrɔːd/"
+  },
+  "def": "An optional French scheme that lets expatriates who leave the French system keep social security cover comparable to what they had at home.",
+  "registers": {
+   "formal": {
+    "uk": "voluntary affiliation to the French expatriate social security fund",
+    "us": "voluntary enrollment in the French expatriate social security fund",
+    "ex": "The Company shall bear the cost of the Assignee's [[voluntary affiliation to the French expatriate social security fund]].",
+    "ex_us": "The Company shall bear the cost of the Assignee's [[voluntary enrollment in the French expatriate social security fund]]."
+   },
+   "everyday": {
+    "uk": "to keep French-style cover",
+    "us": "to keep French-style coverage",
+    "ex": "She'll be on the local system in Singapore, but she wants [[to keep French-style cover]] through the CFE.",
+    "ex_us": "She'll be on the local system in Singapore, but she wants [[to keep French-style coverage]] through the CFE."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to join the CFE",
+   "voluntary contributions",
+   "continuity of cover",
+   "to opt into the scheme"
+  ],
+  "note_fr": "Un expatrié (au sens français) sort du régime français : la CFE lui permet de garder, s'il le souhaite, une couverture santé et accident du travail, et des solutions existent pour la retraite. « Cover » (UK) / « coverage » (US).",
+  "french_concept": true,
+  "explain": {
+   "written": "The CFE (Caisse des Français de l'étranger) is a French voluntary social security fund that allows expatriates no longer covered by the French system to keep health and work-injury cover comparable to the French scheme.",
+   "spoken": "When someone leaves the French system to go abroad, they can join a voluntary fund called the CFE to keep French-style health cover - lots of companies pay for it."
+  }
+ },
+ {
+  "id": "gl-042",
+  "level": 2,
+  "fr": "assurance santé internationale",
+  "term": {
+   "uk": "international health insurance",
+   "us": "international health insurance"
+  },
+  "ipa": {
+   "uk": "/ˌɪntəˈnæʃ(ə)nəl ˈhelθ ɪnˌʃʊərəns/",
+   "us": "/ˌɪntərˈnæʃ(ə)nəl ˈhelθ ɪnˌʃʊrəns/"
+  },
+  "def": "Private medical insurance that covers an employee and family wherever they live, including treatment and emergency evacuation.",
+  "registers": {
+   "formal": {
+    "uk": "international private medical insurance",
+    "us": "international medical plan",
+    "ex": "Assignees and accompanying family members shall be covered by the Group's [[international private medical insurance]].",
+    "ex_us": "Assignees and accompanying family members shall be covered by the Group's [[international medical plan]]."
+   },
+   "everyday": {
+    "uk": "international health insurance",
+    "us": "international health insurance",
+    "ex": "Make sure her [[international health insurance]] is active from the day she lands."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "worldwide medical cover",
+   "medical evacuation",
+   "to add dependants to the policy",
+   "an emergency assistance line"
+  ],
+  "note_fr": "« Insurance » est indénombrable : « an insurance policy », pas « an insurance ». Vérifiez l'articulation avec la mutuelle et la prévoyance françaises : un expatrié peut perdre des garanties en quittant le régime collectif français.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-043",
+  "level": 2,
+  "fr": "package aligné sur le pays d'origine",
+  "term": {
+   "uk": "home-based package",
+   "us": "home-based package"
+  },
+  "ipa": {
+   "uk": "/ˌhəʊm beɪst ˈpækɪdʒ/",
+   "us": "/ˌhoʊm beɪst ˈpækɪdʒ/"
+  },
+  "def": "An assignment package that keeps the employee's home salary as the reference and adds allowances for the move.",
+  "registers": {
+   "formal": {
+    "uk": "home-based compensation approach",
+    "us": "home-based compensation approach",
+    "ex": "Long-term assignees shall be remunerated under the [[home-based compensation approach]] described in Section 3."
+   },
+   "everyday": {
+    "uk": "home-based package",
+    "us": "home-based package",
+    "ex": "She's on a [[home-based package]], so her salary still follows the French pay review."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "home-country salary",
+   "to stay on home terms",
+   "to keep home-country benefits",
+   "a home-based approach"
+  ],
+  "note_fr": "Logique : le salarié reste « payé comme chez lui » et compte revenir. Utile pour les missions avec retour prévu. Le mot « package » s'emploie sans complexe en anglais pour l'ensemble rémunération et avantages.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-044",
+  "level": 2,
+  "fr": "package aligné sur le pays d'accueil",
+  "term": {
+   "uk": "host-based package",
+   "us": "host-based package"
+  },
+  "ipa": {
+   "uk": "/ˌhəʊst beɪst ˈpækɪdʒ/",
+   "us": "/ˌhoʊst beɪst ˈpækɪdʒ/"
+  },
+  "def": "An assignment package based on the pay levels of the host country, usually with some extra support.",
+  "registers": {
+   "formal": {
+    "uk": "host-based compensation approach",
+    "us": "host-based compensation approach",
+    "ex": "Under the [[host-based compensation approach]], base salary shall be set by reference to the host-country salary structure."
+   },
+   "everyday": {
+    "uk": "host-based package",
+    "us": "host-based package",
+    "ex": "Putting him on a [[host-based package]] would cut his take-home pay quite a bit."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "host-country pay scales",
+   "to be paid on local terms",
+   "host-based with transitional allowances",
+   "pay parity with local staff"
+  ],
+  "note_fr": "Le choix « home-based / host-based » a des effets d'équité dans l'équipe d'accueil : en France, des différences de rémunération entre salariés de même niveau doivent pouvoir se justifier par des éléments objectifs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-045",
+  "level": 2,
+  "fr": "prime d'expatriation / prime de mobilité",
+  "term": {
+   "uk": "mobility premium",
+   "us": "foreign service premium"
+  },
+  "ipa": {
+   "uk": "/məʊˈbɪləti ˌpriːmiəm/",
+   "us": "/ˈfɔːrən ˈsɜːrvɪs ˌpriːmiəm/"
+  },
+  "def": "An extra payment, often a percentage of base salary, for accepting an assignment abroad.",
+  "registers": {
+   "formal": {
+    "uk": "mobility premium",
+    "us": "foreign service premium",
+    "ex": "A [[mobility premium]] equal to 10% of base salary shall be paid for the duration of the assignment.",
+    "ex_us": "A [[foreign service premium]] equal to 10% of base salary shall be paid for the duration of the assignment."
+   },
+   "everyday": {
+    "uk": "expat premium",
+    "us": "expat premium",
+    "ex": "Most companies have cut the [[expat premium]] - it used to be fifteen per cent.",
+    "ex_us": "Most companies have cut the [[expat premium]] - it used to be fifteen percent."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay a mobility premium",
+   "a foreign service premium (FSP)",
+   "to phase out the premium",
+   "a lump-sum premium"
+  ],
+  "note_fr": "« Premium » = prime, supplément (et non « premier »). Faux ami : « prime » en anglais veut dire « de premier ordre » (« prime location »). « Per cent » (UK) / « percent » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-046",
+  "level": 2,
+  "fr": "égalisation fiscale",
+  "term": {
+   "uk": "tax equalisation",
+   "us": "tax equalization"
+  },
+  "ipa": {
+   "uk": "/ˈtæks ˌiːkwəlaɪˈzeɪʃ(ə)n/",
+   "us": "/ˈtæks ˌiːkwələˈzeɪʃ(ə)n/"
+  },
+  "def": "A policy under which the company pays the assignee's actual taxes and deducts what they would have paid had they stayed at home, so the assignment neither costs nor earns them tax.",
+  "registers": {
+   "formal": {
+    "uk": "tax equalisation",
+    "us": "tax equalization",
+    "ex": "The Assignee shall be subject to [[tax equalisation]] in accordance with the Group's tax equalisation policy.",
+    "ex_us": "The Assignee shall be subject to [[tax equalization]] in accordance with the Group's tax equalization policy."
+   },
+   "everyday": {
+    "uk": "to be tax-equalised",
+    "us": "to be tax-equalized",
+    "ex": "Don't worry about the higher tax rate here - you'll [[be tax-equalised]].",
+    "ex_us": "Don't worry about the higher tax rate here - you'll [[be tax-equalized]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a tax equalisation policy",
+   "a tax equalisation settlement",
+   "the year-end reconciliation",
+   "to owe the company money"
+  ],
+  "note_fr": "Orthographe UK en -isation, US en -ization. Prévenez le salarié : l'égalisation joue dans les deux sens, et s'il part dans un pays moins imposé, il ne garde pas l'économie d'impôt. Le règlement final (« tax equalisation settlement ») peut conduire le salarié à rembourser l'entreprise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-047",
+  "level": 2,
+  "fr": "protection fiscale",
+  "term": {
+   "uk": "tax protection",
+   "us": "tax protection"
+  },
+  "ipa": {
+   "uk": "/ˈtæks prəˌtekʃ(ə)n/",
+   "us": "/ˈtæks prəˌtekʃ(ə)n/"
+  },
+  "def": "A policy under which the company pays only the extra tax an assignee owes because of the assignment, while the employee keeps any tax saving.",
+  "registers": {
+   "formal": {
+    "uk": "tax protection",
+    "us": "tax protection",
+    "ex": "Short-term assignees shall benefit from [[tax protection]] whereby the Company bears any tax liability in excess of the hypothetical home-country tax."
+   },
+   "everyday": {
+    "uk": "to be tax-protected",
+    "us": "to be tax-protected",
+    "ex": "He's only [[tax-protected]], so if Dubai works out cheaper he keeps the difference."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "tax protection versus equalisation",
+   "to bear the excess tax",
+   "a tax protection calculation",
+   "to keep the windfall"
+  ],
+  "note_fr": "Différence avec l'égalisation : la protection ne joue que dans un sens (le salarié ne peut qu'y gagner). Ne promettez ni l'une ni l'autre par oral : elles reposent sur une politique écrite et des calculs de fiscalistes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-048",
+  "level": 2,
+  "fr": "convention fiscale (de non-double imposition)",
+  "term": {
+   "uk": "double taxation treaty",
+   "us": "tax treaty"
+  },
+  "ipa": {
+   "uk": "/ˌdʌb(ə)l tækˈseɪʃ(ə)n ˌtriːti/",
+   "us": "/ˈtæks ˌtriːti/"
+  },
+  "def": "An agreement between two countries that decides which one may tax a given income, so that people are not taxed twice on it.",
+  "registers": {
+   "formal": {
+    "uk": "double tax treaty",
+    "us": "income tax treaty",
+    "ex": "Under the applicable [[double tax treaty]], employment income is taxable in the State where the employment is exercised, subject to certain exceptions.",
+    "ex_us": "Under the applicable [[income tax treaty]], employment income is taxable in the State where the employment is exercised, subject to certain exceptions."
+   },
+   "everyday": {
+    "uk": "tax treaty",
+    "us": "tax treaty",
+    "ex": "Check the [[tax treaty]] - she might still be taxable in France on part of it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to claim treaty relief",
+   "a tax credit",
+   "under the treaty",
+   "the tie-breaker clause"
+  ],
+  "note_fr": "Une convention fiscale ne règle que l'impôt sur le revenu (et parfois d'autres impôts) : elle ne dit rien de la sécurité sociale, qui relève des règlements européens ou des conventions de sécurité sociale. Les deux se confondent souvent dans les e-mails du siège.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-049",
+  "level": 2,
+  "fr": "localisation (passage sous contrat local)",
+  "term": {
+   "uk": "localisation",
+   "us": "localization"
+  },
+  "ipa": {
+   "uk": "/ˌləʊkəlaɪˈzeɪʃ(ə)n/",
+   "us": "/ˌloʊkələˈzeɪʃ(ə)n/"
+  },
+  "def": "Moving an assignee onto local terms and a local contract in the host country, so that expatriate benefits end.",
+  "registers": {
+   "formal": {
+    "uk": "localisation",
+    "us": "localization",
+    "ex": "Upon [[localisation]], the Employee shall be employed by the host entity on local terms and conditions.",
+    "ex_us": "Upon [[localization]], the Employee shall be employed by the host entity on local terms and conditions."
+   },
+   "everyday": {
+    "uk": "to localise",
+    "us": "to localize",
+    "ex": "He's been here six years - it's time we [[localised]] him.",
+    "ex_us": "He's been here six years - it's time we [[localized]] him."
+   },
+   "informal": {
+    "uk": "to go local",
+    "us": "to go local",
+    "ex": "She [[went local]] after her third year and bought a flat in Lyon."
+   }
+  },
+  "collocations": [
+   "to localise an assignee",
+   "a localisation allowance",
+   "a phased localisation",
+   "the localisation date"
+  ],
+  "note_fr": "En RH, « localisation » n'a rien à voir avec la géolocalisation : c'est la fin du statut d'expatrié. Si le salarié quitte son contrat d'origine, traitez en droit français le sort de ce contrat (rupture, suspension, reprise d'ancienneté).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-050",
+  "level": 2,
+  "fr": "package local amélioré",
+  "term": {
+   "uk": "local-plus package",
+   "us": "local-plus package"
+  },
+  "ipa": {
+   "uk": "/ˌləʊk(ə)l ˈplʌs ˌpækɪdʒ/",
+   "us": "/ˌloʊk(ə)l ˈplʌs ˌpækɪdʒ/"
+  },
+  "def": "A local contract and salary with a few selected extra benefits, such as housing or schooling help, for a limited time.",
+  "registers": {
+   "formal": {
+    "uk": "local-plus package",
+    "us": "local-plus package",
+    "ex": "Employees transferring at their own request may be offered a [[local-plus package]] for a maximum of two years."
+   },
+   "everyday": {
+    "uk": "local plus",
+    "us": "local plus",
+    "ex": "We can't offer full expat terms, but [[local plus]] with two years of school fees might do it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "local-plus terms",
+   "to taper off the extras",
+   "a transitional allowance",
+   "to offer local plus"
+  ],
+  "note_fr": "Formule de plus en plus fréquente pour les mobilités à l'initiative du salarié. Fixez par écrit la durée et la dégressivité des avantages (« tapering ») pour éviter qu'ils ne deviennent un usage.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-051",
+  "level": 2,
+  "fr": "ressortissant de pays tiers",
+  "term": {
+   "uk": "third-country national",
+   "us": "third-country national"
+  },
+  "ipa": {
+   "uk": "/ˌθɜːd ˈkʌntri ˈnæʃ(ə)nəl/",
+   "us": "/ˌθɜːrd ˈkʌntri ˈnæʃ(ə)nəl/"
+  },
+  "def": "In immigration law, a person who is not a citizen of the EU; in mobility, an assignee who is a national of neither the home nor the host country.",
+  "registers": {
+   "formal": {
+    "uk": "third-country national",
+    "us": "third-country national",
+    "ex": "A [[third-country national]] may only take up employment in France if he or she holds a valid work authorisation.",
+    "ex_us": "A [[third-country national]] may only take up employment in France if he or she holds a valid work authorization."
+   },
+   "everyday": {
+    "uk": "TCN",
+    "us": "TCN",
+    "ex": "He's a [[TCN]] - Indian passport, employed in London, going to Paris - so check all three angles."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "third-country nationals",
+   "a non-EU national",
+   "an EU national",
+   "to need a work permit"
+  ],
+  "note_fr": "Deux sens à distinguer : en droit européen de l'immigration, « third-country national » = ressortissant non-UE ; dans le jargon de la mobilité, c'est un salarié qui n'a la nationalité ni du pays d'origine ni du pays d'accueil. Demandez lequel est visé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-052",
+  "level": 2,
+  "fr": "passeport talent",
+  "term": {
+   "uk": "talent passport",
+   "us": "talent passport"
+  },
+  "ipa": {
+   "uk": "/ˈtælənt ˌpɑːspɔːt/",
+   "us": "/ˈtælənt ˌpæspɔːrt/"
+  },
+  "def": "A French multi-year residence permit for certain highly skilled or qualified foreign nationals, which also covers their family.",
+  "registers": {
+   "formal": {
+    "uk": "multi-year 'talent passport' residence permit",
+    "us": "multi-year 'talent passport' residence permit",
+    "ex": "The employee shall apply for a [[multi-year 'talent passport' residence permit]] in the category of highly qualified employee."
+   },
+   "everyday": {
+    "uk": "talent passport",
+    "us": "talent passport",
+    "ex": "With her salary and her master's, she should qualify for a [[talent passport]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to qualify for a talent passport",
+   "a talent passport category",
+   "the EU Blue Card",
+   "a family permit"
+  ],
+  "note_fr": "Pas d'équivalent exact au Royaume-Uni ou aux États-Unis : comparez-le, pour un interlocuteur étranger, à un titre de séjour pluriannuel pour profils qualifiés, sans avoir à démontrer l'absence de candidat local. Les critères (diplôme, salaire, catégorie) évoluent : vérifiez-les à chaque dossier.",
+  "french_concept": true,
+  "explain": {
+   "written": "The talent passport (passeport talent) is a French multi-year residence permit for specific categories of highly skilled foreign nationals, such as highly qualified employees, which also allows accompanying family members to obtain a residence permit.",
+   "spoken": "The talent passport is a French permit for highly skilled people - it lasts several years and the family can come too, which makes it much easier than a standard work permit."
+  }
+ },
+ {
+  "id": "gl-053",
+  "level": 2,
+  "fr": "titre « salarié détaché ICT » (transfert intragroupe)",
+  "term": {
+   "uk": "intra-company transfer permit",
+   "us": "intracompany transferee permit"
+  },
+  "ipa": {
+   "uk": "/ˌɪntrə ˈkʌmpəni ˈtrænsfɜː ˌpɜːmɪt/",
+   "us": "/ˌɪntrəˈkʌmpəni ˌtrænsfɜːˈriː ˌpɜːrmɪt/"
+  },
+  "def": "A residence and work permit for a manager, specialist or trainee from outside the EU who is temporarily transferred to a group company in the EU.",
+  "registers": {
+   "formal": {
+    "uk": "intra-corporate transferee permit",
+    "us": "intracompany transferee permit",
+    "ex": "Managers and specialists seconded from the Indian entity may apply for an [[intra-corporate transferee permit]] for the duration of the transfer.",
+    "ex_us": "Managers and specialists seconded from the Indian entity may apply for an [[intracompany transferee permit]] for the duration of the transfer."
+   },
+   "everyday": {
+    "uk": "ICT permit",
+    "us": "ICT permit",
+    "ex": "The two architects from Pune can come over on an [[ICT permit]] - they've both been with the group long enough."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an ICT permit",
+   "intra-group mobility",
+   "to be transferred within the group",
+   "a minimum length of service"
+  ],
+  "note_fr": "Ce dispositif européen vise les cadres, experts et stagiaires salariés d'un groupe établi hors UE qui restent liés à leur employeur d'origine. Il suppose une ancienneté minimale dans le groupe et une durée limitée. Aux États-Unis, le visa comparable est le L-1 : simple point de repère, les régimes diffèrent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-054",
+  "level": 2,
+  "fr": "titre de séjour pour la famille accompagnante",
+  "term": {
+   "uk": "dependant visa",
+   "us": "dependent visa"
+  },
+  "ipa": {
+   "uk": "/dɪˈpendənt ˌviːzə/",
+   "us": "/dɪˈpendənt ˌviːzə/"
+  },
+  "def": "A visa or residence permit that allows the spouse or partner and children of a visa holder to live in the country.",
+  "registers": {
+   "formal": {
+    "uk": "dependant's residence permit",
+    "us": "dependent's residence permit",
+    "ex": "The spouse shall apply for a [[dependant's residence permit]] at the same time as the main applicant.",
+    "ex_us": "The spouse shall apply for a [[dependent's residence permit]] at the same time as the main applicant."
+   },
+   "everyday": {
+    "uk": "dependant visa",
+    "us": "dependent visa",
+    "ex": "Can her husband work on a [[dependant visa]], or is it residence only?",
+    "ex_us": "Can her husband work on a [[dependent visa]], or is it residence only?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the main applicant",
+   "dependants' applications",
+   "the right to work for spouses",
+   "to add a dependant"
+  ],
+  "note_fr": "Orthographe : en anglais britannique, le nom s'écrit « dependant » et l'adjectif « dependent » ; en américain, « dependent » dans les deux cas. La question cruciale pour le conjoint : peut-il travailler ? Posez-la tôt.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-055",
+  "level": 2,
+  "fr": "délai d'instruction (d'un dossier)",
+  "term": {
+   "uk": "processing time",
+   "us": "processing time"
+  },
+  "ipa": {
+   "uk": "/ˈprəʊsesɪŋ taɪm/",
+   "us": "/ˈprɑːsesɪŋ taɪm/"
+  },
+  "def": "The time an authority takes to examine an application and reach a decision.",
+  "registers": {
+   "formal": {
+    "uk": "processing time",
+    "us": "processing time",
+    "ex": "Applicants should allow for [[processing times]] of up to several weeks, which vary by consulate and by period."
+   },
+   "everyday": {
+    "uk": "lead time",
+    "us": "lead time",
+    "ex": "What's the [[lead time]] on a visa from Bangalore at the moment?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "average processing times",
+   "to fast-track an application",
+   "to build in a buffer",
+   "a premium service"
+  ],
+  "note_fr": "« Instruction » est un faux ami : en anglais, c'est une consigne. Le délai d'instruction se dit « processing time ». Ne donnez jamais de date de démarrage ferme au siège avant d'avoir le titre en main : dites « subject to the visa coming through ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-056",
+  "level": 2,
+  "fr": "prolongation de mission",
+  "term": {
+   "uk": "assignment extension",
+   "us": "assignment extension"
+  },
+  "ipa": {
+   "uk": "/əˈsaɪnmənt ɪkˌstenʃ(ə)n/",
+   "us": "/əˈsaɪnmənt ɪkˌstenʃ(ə)n/"
+  },
+  "def": "A decision to make an assignment last longer than the period originally agreed.",
+  "registers": {
+   "formal": {
+    "uk": "extension of the assignment",
+    "us": "extension of the assignment",
+    "ex": "Any [[extension of the assignment]] shall be agreed in writing at least three months before the scheduled end date."
+   },
+   "everyday": {
+    "uk": "to extend someone's assignment",
+    "us": "to extend someone's assignment",
+    "ex": "The business wants to [[extend her assignment]] by a year - can we do that without losing the A1?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to request an extension",
+   "a one-year extension",
+   "to check the impact on tax and social security",
+   "an extension letter"
+  ],
+  "note_fr": "Une prolongation n'est jamais neutre : elle peut dépasser la durée maximale du détachement social, modifier la résidence fiscale ou exiger un nouveau titre de séjour. Faites une check-list avant de dire oui.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-057",
+  "level": 2,
+  "fr": "fin anticipée de mission",
+  "term": {
+   "uk": "early termination of an assignment",
+   "us": "early termination of an assignment"
+  },
+  "ipa": {
+   "uk": "/ˈɜːli ˌtɜːmɪˈneɪʃ(ə)n əv ən əˈsaɪnmənt/",
+   "us": "/ˈɜːrli ˌtɜːrməˈneɪʃ(ə)n əv ən əˈsaɪnmənt/"
+  },
+  "def": "Ending an assignment before its planned end date, for business or personal reasons.",
+  "registers": {
+   "formal": {
+    "uk": "early termination of the assignment",
+    "us": "early termination of the assignment",
+    "ex": "In the event of [[early termination of the assignment]] at the Assignee's initiative, the Company may recover part of the relocation costs."
+   },
+   "everyday": {
+    "uk": "to cut an assignment short",
+    "us": "to cut an assignment short",
+    "ex": "They had to [[cut the assignment short]] because her father fell ill."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to end an assignment early",
+   "a repayment clause",
+   "on business grounds",
+   "early return"
+  ],
+  "note_fr": "Distinguez bien la fin de la mission (le salarié rentre et retrouve un poste) et la fin du contrat de travail (licenciement, démission) : en anglais, « termination » seul évoque souvent la seconde. Écrivez « termination of the assignment ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-058",
+  "level": 2,
+  "fr": "architecture des emplois",
+  "term": {
+   "uk": "job architecture",
+   "us": "job architecture"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌɑːkɪtektʃə/",
+   "us": "/ˈdʒɑːb ˌɑːrkɪtektʃər/"
+  },
+  "def": "The group-wide framework that organises all jobs into families, levels and titles so they can be compared across countries.",
+  "registers": {
+   "formal": {
+    "uk": "global job architecture",
+    "us": "global job architecture",
+    "ex": "All positions shall be mapped to the [[global job architecture]] no later than 31 December.",
+    "ex_us": "All positions shall be mapped to the [[global job architecture]] no later than December 31."
+   },
+   "everyday": {
+    "uk": "job architecture",
+    "us": "job architecture",
+    "ex": "The new [[job architecture]] has eight levels, and nobody in France knows where they sit yet."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "career levels",
+   "job titles and levels",
+   "a global levelling framework",
+   "to roll out a new architecture"
+  ],
+  "note_fr": "Une architecture des emplois groupe ne remplace pas la classification de la convention collective française : les deux coexistent et chaque salarié doit avoir un coefficient conventionnel. Prévoyez une table de correspondance.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-059",
+  "level": 2,
+  "fr": "positionner un poste (dans la grille groupe)",
+  "term": {
+   "uk": "to level a role",
+   "us": "to level a role"
+  },
+  "ipa": {
+   "uk": "/tə ˈlev(ə)l ə ˈrəʊl/",
+   "us": "/tə ˈlev(ə)l ə ˈroʊl/"
+  },
+  "def": "To decide at which level of the group's job framework a position sits.",
+  "registers": {
+   "formal": {
+    "uk": "to determine the level of a position",
+    "us": "to determine the level of a position",
+    "ex": "Group Reward shall [[determine the level of a position]] on the basis of its scope and impact."
+   },
+   "everyday": {
+    "uk": "to level a role",
+    "us": "to level a role",
+    "ex": "Before we can post the job, Group need to [[level the role]].",
+    "ex_us": "Before we can post the job, corporate needs to [[level the role]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be levelled at grade 12",
+   "levelling criteria",
+   "to re-level a role",
+   "a levelling dispute"
+  ],
+  "note_fr": "« Levelled » (UK) / « leveled » (US). Ne confondez pas avec « to level up » (aligner par le haut) ni avec « level » au sens de niveau de langue. Le positionnement d'un poste ne change pas, à lui seul, la classification conventionnelle du salarié.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-060",
+  "level": 2,
+  "fr": "addendum local (adaptation locale d'une politique groupe)",
+  "term": {
+   "uk": "local addendum",
+   "us": "local addendum"
+  },
+  "ipa": {
+   "uk": "/ˈləʊk(ə)l əˈdendəm/",
+   "us": "/ˈloʊk(ə)l əˈdendəm/"
+  },
+  "def": "A document attached to a group policy that adapts or replaces some of its provisions to comply with local law.",
+  "registers": {
+   "formal": {
+    "uk": "country-specific addendum",
+    "us": "country-specific addendum",
+    "ex": "Where required by local law, this Policy shall be supplemented by a [[country-specific addendum]], which shall prevail in case of conflict."
+   },
+   "everyday": {
+    "uk": "local addendum",
+    "us": "local addendum",
+    "ex": "We'll need a French [[local addendum]] - half of this policy won't work here as it stands."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a country supplement",
+   "to localise a policy",
+   "to override the global policy",
+   "a France addendum"
+  ],
+  "note_fr": "Pluriel : « addenda » ou, plus courant aujourd'hui, « addendums ». Présentez l'addendum au siège comme une condition de validité en France, pas comme une préférence : c'est plus convaincant que « in France we do things differently ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-061",
+  "level": 2,
+  "fr": "employeur juridique",
+  "term": {
+   "uk": "legal employer",
+   "us": "legal employer"
+  },
+  "ipa": {
+   "uk": "/ˈliːɡ(ə)l ɪmˈplɔɪə/",
+   "us": "/ˈliːɡ(ə)l ɪmˈplɔɪər/"
+  },
+  "def": "The legal entity that holds the employment contract with a worker and has the legal obligations of an employer.",
+  "registers": {
+   "formal": {
+    "uk": "legal employer",
+    "us": "legal employer",
+    "ex": "The French entity remains the [[legal employer]] and alone exercises disciplinary authority over the Employee."
+   },
+   "everyday": {
+    "uk": "actual employer",
+    "us": "actual employer",
+    "ex": "Whoever he reports to day to day, his [[actual employer]] is still the French company."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the employing entity",
+   "to remain the legal employer",
+   "day-to-day management",
+   "the power to discipline"
+  ],
+  "note_fr": "Dans une organisation matricielle, le manager fonctionnel à l'étranger n'est pas l'employeur : en droit français, le pouvoir de direction et le pouvoir disciplinaire appartiennent à l'employeur juridique. Aux États-Unis, on entend aussi « employer of record » dans ce sens, mais l'expression désigne surtout le prestataire qui emploie pour le compte d'un client.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-062",
+  "level": 2,
+  "fr": "prestataire de mobilité (gestion des relocalisations)",
+  "term": {
+   "uk": "relocation management company",
+   "us": "relocation management company"
+  },
+  "ipa": {
+   "uk": "/ˌriːləʊˈkeɪʃ(ə)n ˈmænɪdʒmənt ˌkʌmpəni/",
+   "us": "/ˌriːloʊˈkeɪʃ(ə)n ˈmænɪdʒmənt ˌkʌmpəni/"
+  },
+  "def": "An external provider that organises and coordinates all the practical aspects of employees' international moves.",
+  "registers": {
+   "formal": {
+    "uk": "relocation services provider",
+    "us": "relocation services provider",
+    "ex": "The [[relocation services provider]] shall act as single point of contact for the Assignee throughout the move."
+   },
+   "everyday": {
+    "uk": "relocation company",
+    "us": "relocation company",
+    "ex": "The [[relocation company]] will sort out the movers and temporary housing - you just sign off the quotes."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an RMC",
+   "a mobility vendor",
+   "a service level agreement",
+   "a single point of contact"
+  ],
+  "note_fr": "« Vendor » (fournisseur) est très américain ; les Britanniques disent plus volontiers « supplier » ou « provider ». Tout prestataire qui traite des données des salariés doit être encadré contractuellement : pensez au RGPD.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-063",
+  "level": 2,
+  "fr": "services d'accueil (installation sur place)",
+  "term": {
+   "uk": "destination services",
+   "us": "destination services"
+  },
+  "ipa": {
+   "uk": "/ˌdestɪˈneɪʃ(ə)n ˌsɜːvɪsɪz/",
+   "us": "/ˌdestɪˈneɪʃ(ə)n ˌsɜːrvɪsɪz/"
+  },
+  "def": "Practical help on arrival in the host city, such as house-hunting, school search, registration and settling in.",
+  "registers": {
+   "formal": {
+    "uk": "destination services",
+    "us": "destination services",
+    "ex": "The Company shall provide up to three days of [[destination services]], including home search and school search."
+   },
+   "everyday": {
+    "uk": "settling-in help",
+    "us": "settling-in help",
+    "ex": "They'll get two days of [[settling-in help]] - opening a bank account, the school visits, that sort of thing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a destination services consultant",
+   "home search",
+   "school search",
+   "settling-in services"
+  ],
+  "note_fr": "« Destination services » est un terme du métier, peu parlant pour le salarié : à l'oral, dites « help finding a home and a school » ou « settling-in support ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-064",
+  "level": 2,
+  "fr": "formation interculturelle",
+  "term": {
+   "uk": "cross-cultural training",
+   "us": "cross-cultural training"
+  },
+  "ipa": {
+   "uk": "/ˌkrɒs ˈkʌltʃ(ə)rəl ˈtreɪnɪŋ/",
+   "us": "/ˌkrɔːs ˈkʌltʃ(ə)rəl ˈtreɪnɪŋ/"
+  },
+  "def": "Training that prepares employees and families to live and work in another culture, or to work with colleagues from it.",
+  "registers": {
+   "formal": {
+    "uk": "intercultural training",
+    "us": "intercultural training",
+    "ex": "Assignees and accompanying partners shall be offered one day of [[intercultural training]] before departure."
+   },
+   "everyday": {
+    "uk": "cross-cultural training",
+    "us": "cross-cultural training",
+    "ex": "Honestly, the US managers need [[cross-cultural training]] on France more than our people need it on the US."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a cross-cultural briefing",
+   "language lessons",
+   "working with the French",
+   "cultural awareness"
+  ],
+  "note_fr": "« Interculturel » se dit « cross-cultural » ou « intercultural » ; « multicultural » décrit une équipe ou une société composée de plusieurs cultures. Proposez la formation dans les deux sens : siège et filiale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-065",
+  "level": 2,
+  "fr": "plage horaire commune",
+  "term": {
+   "uk": "overlap hours",
+   "us": "overlap hours"
+  },
+  "ipa": {
+   "uk": "/ˈəʊvəlæp ˌaʊəz/",
+   "us": "/ˈoʊvərlæp ˌaʊərz/"
+  },
+  "def": "The hours of the working day that are shared by colleagues in different time zones.",
+  "registers": {
+   "formal": {
+    "uk": "core overlap hours",
+    "us": "core overlap hours",
+    "ex": "Meetings involving several regions should, wherever possible, be held within [[core overlap hours]]."
+   },
+   "everyday": {
+    "uk": "overlap",
+    "us": "overlap",
+    "ex": "We only get about two hours of [[overlap]] with the Chicago team, so let's not waste them on status updates."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a window of overlap",
+   "to protect the overlap",
+   "core hours",
+   "to shift one's day"
+  ],
+  "note_fr": "« Overlap » se prononce avec l'accent sur la première syllabe quand c'est un nom (/ˈəʊvəlæp/) et sur la dernière quand c'est un verbe (/ˌəʊvəˈlæp/). En France, rappelez que les réunions tardives restent soumises aux règles de durée du travail et au droit à la déconnexion.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-066",
+  "level": 2,
+  "fr": "alterner les horaires de réunion",
+  "term": {
+   "uk": "to rotate meeting times",
+   "us": "to rotate meeting times"
+  },
+  "ipa": {
+   "uk": "/tə rəʊˈteɪt ˈmiːtɪŋ taɪmz/",
+   "us": "/tə ˈroʊteɪt ˈmiːtɪŋ taɪmz/"
+  },
+  "def": "To change the time of a recurring meeting so that each region takes turns having an inconvenient slot.",
+  "registers": {
+   "formal": {
+    "uk": "to rotate meeting times",
+    "us": "to rotate meeting times",
+    "ex": "It is recommended [[to rotate meeting times]] so that the burden of early and late calls is shared fairly."
+   },
+   "everyday": {
+    "uk": "to take turns",
+    "us": "to take turns",
+    "ex": "Why don't we [[take turns]]? Europe takes the late slot one month, Asia the next."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to share the pain",
+   "an early slot",
+   "a late slot",
+   "a meeting rota"
+  ],
+  "note_fr": "Prononciation : UK /rəʊˈteɪt/, US souvent /ˈroʊteɪt/. « To share the pain » est une expression idiomatique, bienveillante et très utilisée pour proposer cette rotation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-067",
+  "level": 2,
+  "fr": "travail asynchrone",
+  "term": {
+   "uk": "asynchronous working",
+   "us": "asynchronous work"
+  },
+  "ipa": {
+   "uk": "/eɪˈsɪŋkrənəs ˈwɜːkɪŋ/",
+   "us": "/eɪˈsɪŋkrənəs ˈwɜːrk/"
+  },
+  "def": "A way of collaborating in which people contribute at different times, through written updates and shared documents, rather than in live meetings.",
+  "registers": {
+   "formal": {
+    "uk": "asynchronous working",
+    "us": "asynchronous work",
+    "ex": "Teams spread across more than two continents are encouraged to adopt [[asynchronous working]] practices.",
+    "ex_us": "Teams spread across more than two continents are encouraged to adopt [[asynchronous work]] practices."
+   },
+   "everyday": {
+    "uk": "async",
+    "us": "async",
+    "ex": "Can we do this one [[async]]? I'll drop my comments in the doc tonight."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to work async",
+   "a recorded update",
+   "shared documents",
+   "to cut down on meetings"
+  ],
+  "note_fr": "« Async » se prononce /ˈeɪsɪŋk/. Le travail asynchrone n'autorise pas à solliciter les salariés français à toute heure : le droit à la déconnexion s'applique quel que soit le fuseau horaire de l'émetteur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-068",
+  "level": 2,
+  "fr": "mission en navetteur (mission pendulaire)",
+  "term": {
+   "uk": "commuter assignment",
+   "us": "commuter assignment"
+  },
+  "ipa": {
+   "uk": "/kəˈmjuːtə əˌsaɪnmənt/",
+   "us": "/kəˈmjuːtər əˌsaɪnmənt/"
+  },
+  "def": "An arrangement in which the employee works in another country during the week and returns home regularly, often at weekends.",
+  "registers": {
+   "formal": {
+    "uk": "commuter assignment",
+    "us": "commuter assignment",
+    "ex": "Under a [[commuter assignment]], the employee's family remains in the home country and travel costs are borne by the Company."
+   },
+   "everyday": {
+    "uk": "to commute",
+    "us": "to commute",
+    "ex": "He [[commutes]] from Brussels to Paris every Monday and goes home on Thursday night."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a weekly commuter",
+   "a cross-border commuter",
+   "travel costs",
+   "the strain on families"
+  ],
+  "note_fr": "Les navetteurs posent des questions complexes de sécurité sociale (travail dans plusieurs États), de fiscalité et parfois de détachement : signalez-les tôt aux spécialistes. Ne confondez pas avec « frontalier » (« cross-border worker »), notion fiscale spécifique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-069",
+  "level": 2,
+  "fr": "impatrié",
+  "term": {
+   "uk": "impatriate",
+   "us": "inpatriate"
+  },
+  "ipa": {
+   "uk": "/ɪmˈpætriət/",
+   "us": "/ɪnˈpeɪtriət/"
+  },
+  "def": "An employee who comes from abroad to work in the country of the company's head office or, more generally, in the country concerned.",
+  "registers": {
+   "formal": {
+    "uk": "impatriate",
+    "us": "inpatriate",
+    "ex": "An [[impatriate]] recruited from abroad may, subject to conditions, benefit from a specific tax regime in France.",
+    "ex_us": "An [[inpatriate]] recruited from abroad may, subject to conditions, benefit from a specific tax regime in France."
+   },
+   "everyday": {
+    "uk": "inbound assignee",
+    "us": "inbound assignee",
+    "ex": "We've got four [[inbound assignees]] this year and two going out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "inbound and outbound moves",
+   "an inbound assignee",
+   "to welcome impatriates",
+   "an impatriate package"
+  ],
+  "note_fr": "Le terme est surtout français : à l'étranger, on dit le plus souvent « inbound assignee » (salarié qui arrive) et « outbound assignee » (qui part). La forme américaine, quand elle est utilisée, est « inpatriate ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-070",
+  "level": 2,
+  "fr": "estimation du coût de la mission",
+  "term": {
+   "uk": "cost projection",
+   "us": "cost projection"
+  },
+  "ipa": {
+   "uk": "/ˈkɒst prəˌdʒekʃ(ə)n/",
+   "us": "/ˈkɔːst prəˌdʒekʃ(ə)n/"
+  },
+  "def": "A forecast of the total cost of an assignment, including salary, allowances, taxes and moving costs, prepared before approval.",
+  "registers": {
+   "formal": {
+    "uk": "assignment cost estimate",
+    "us": "assignment cost estimate",
+    "ex": "No assignment shall be approved until an [[assignment cost estimate]] has been reviewed by the business sponsor."
+   },
+   "everyday": {
+    "uk": "cost projection",
+    "us": "cost projection",
+    "ex": "Once the business sees the [[cost projection]], they'll probably go for a local hire instead."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to run a cost projection",
+   "the fully loaded cost",
+   "a cost estimate",
+   "to sign off the budget"
+  ],
+  "note_fr": "Une mission coûte souvent bien plus que le salaire de base (impôts, logement, école, sécurité sociale) : présentez le coût complet (« fully loaded cost ») et non le seul brut, sinon le siège sera surpris.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-071",
+  "level": 2,
+  "fr": "perdu à la traduction (malentendu culturel ou linguistique)",
+  "term": {
+   "uk": "lost in translation",
+   "us": "lost in translation"
+  },
+  "ipa": {
+   "uk": "/ˌlɒst ɪn trænzˈleɪʃ(ə)n/",
+   "us": "/ˌlɔːst ɪn trænsˈleɪʃ(ə)n/"
+  },
+  "def": "Describes a meaning or nuance that disappears when a message passes from one language or culture to another.",
+  "registers": {
+   "formal": {
+    "uk": "to be lost in translation",
+    "us": "to be lost in translation",
+    "ex": "Some of the nuance of the French legal position may [[be lost in translation]]; a call may be preferable."
+   },
+   "everyday": {
+    "uk": "to get lost in translation",
+    "us": "to get lost in translation",
+    "ex": "I think the word 'mandatory' [[got lost in translation]] - in Paris they read it as 'recommended'."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "something got lost in translation",
+   "a misunderstanding",
+   "to clear up a misunderstanding",
+   "to double-check what was meant"
+  ],
+  "note_fr": "Expression très utile pour signaler un malentendu sans accuser personne. Pensez aussi à « to be at cross purposes » (parler de deux choses différentes sans s'en rendre compte).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-072",
+  "level": 2,
+  "fr": "uniforme / taille unique (approche identique partout)",
+  "term": {
+   "uk": "one-size-fits-all",
+   "us": "one-size-fits-all"
+  },
+  "ipa": {
+   "uk": "/ˌwʌn saɪz fɪts ˈɔːl/",
+   "us": "/ˌwʌn saɪz fɪts ˈɔːl/"
+  },
+  "def": "Describes an approach applied identically everywhere without adapting it to local needs or laws.",
+  "registers": {
+   "formal": {
+    "uk": "uniform approach",
+    "us": "uniform approach",
+    "ex": "A [[uniform approach]] across all jurisdictions is not achievable in the area of working time."
+   },
+   "everyday": {
+    "uk": "one-size-fits-all",
+    "us": "one-size-fits-all",
+    "ex": "A [[one-size-fits-all]] policy sounds efficient, but it'll hit a wall in France and Germany."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a one-size-fits-all approach",
+   "to tailor to local needs",
+   "global principles, local rules",
+   "to strike a balance"
+  ],
+  "note_fr": "Avec des traits d'union quand l'expression précède un nom (« a one-size-fits-all policy »). Une contre-proposition efficace face au siège : « global principles, local execution ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-073",
+  "level": 2,
+  "fr": "accompagnement du conjoint / partenaire",
+  "term": {
+   "uk": "partner support",
+   "us": "partner support"
+  },
+  "ipa": {
+   "uk": "/ˈpɑːtnə səˌpɔːt/",
+   "us": "/ˈpɑːrtnər səˌpɔːrt/"
+  },
+  "def": "Help given to the assignee's spouse or partner, such as language lessons, job-search assistance or an allowance.",
+  "registers": {
+   "formal": {
+    "uk": "partner assistance programme",
+    "us": "spouse/partner assistance program",
+    "ex": "The accompanying partner shall be eligible for the [[partner assistance programme]], including career counselling and language tuition.",
+    "ex_us": "The accompanying partner shall be eligible for the [[spouse/partner assistance program]], including career counseling and language tuition."
+   },
+   "everyday": {
+    "uk": "partner support",
+    "us": "partner support",
+    "ex": "She'll only say yes if there's some [[partner support]] - her husband doesn't want to give up his career."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "dual-career support",
+   "a partner allowance",
+   "job-search assistance",
+   "a trailing spouse"
+  ],
+  "note_fr": "N'employez pas « spousal support » aux États-Unis : c'est la pension alimentaire après divorce. « Trailing spouse » (le conjoint qui suit) est courant mais jugé un peu dévalorisant ; préférez « accompanying partner ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-074",
+  "level": 2,
+  "fr": "réintégration au retour",
+  "term": {
+   "uk": "re-entry",
+   "us": "re-entry"
+  },
+  "ipa": {
+   "uk": "/riˈentri/",
+   "us": "/riˈentri/"
+  },
+  "def": "The process of bringing an assignee back into a role in the home organisation at the end of an assignment.",
+  "registers": {
+   "formal": {
+    "uk": "reintegration",
+    "us": "reintegration",
+    "ex": "The home entity shall begin planning the Assignee's [[reintegration]] no later than six months before the end of the assignment."
+   },
+   "everyday": {
+    "uk": "re-entry",
+    "us": "reentry",
+    "ex": "We always lose people at [[re-entry]] because there's no job waiting for them.",
+    "ex_us": "We always lose people at [[reentry]] because there's no job waiting for them."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "re-entry planning",
+   "a return position",
+   "a re-entry interview",
+   "to retain returning assignees"
+  ],
+  "note_fr": "UK « re-entry » avec trait d'union, US souvent « reentry ». Le retour est le point faible de beaucoup de mobilités : beaucoup de salariés partent dans les mois qui suivent leur retour s'ils n'ont pas de poste valorisant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-075",
+  "level": 2,
+  "fr": "être pris entre deux feux (double rattachement)",
+  "term": {
+   "uk": "to be caught in the middle",
+   "us": "to be caught in the middle"
+  },
+  "ipa": {
+   "uk": "/tə bi ˌkɔːt ɪn ðə ˈmɪd(ə)l/",
+   "us": "/tə bi ˌkɑːt ɪn ðə ˈmɪd(ə)l/"
+  },
+  "def": "To be in a difficult position between two people or sides who want different things, for example two managers.",
+  "registers": {
+   "formal": {
+    "uk": "to receive conflicting instructions",
+    "us": "to receive conflicting instructions",
+    "ex": "An employee who [[receives conflicting instructions]] from the local and functional managers should refer the matter to HR."
+   },
+   "everyday": {
+    "uk": "to be caught in the middle",
+    "us": "to be caught in the middle",
+    "ex": "She's [[caught in the middle]] - her Paris boss wants one thing and the global lead in Boston wants the opposite."
+   },
+   "informal": {
+    "uk": "to be piggy in the middle",
+    "us": "to be stuck in the middle",
+    "ex": "I'm fed up [[being piggy in the middle]] between the two of them.",
+    "ex_us": "I'm tired of [[being stuck in the middle]] between the two of them."
+   }
+  },
+  "collocations": [
+   "dual reporting",
+   "conflicting priorities",
+   "to clarify decision rights",
+   "to escalate a conflict"
+  ],
+  "note_fr": "« Piggy in the middle » est britannique et familier (le jeu de la balle au prisonnier version deux contre un). Pour résoudre le conflit, revenez à l'employeur juridique et à une répartition écrite des rôles (« decision rights »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-076",
+  "level": 3,
+  "fr": "détachement de longue durée (au-delà de 12 mois)",
+  "term": {
+   "uk": "long-term posting",
+   "us": "long-term posting"
+  },
+  "ipa": {
+   "uk": "/ˌlɒŋ tɜːm ˈpəʊstɪŋ/",
+   "us": "/ˌlɔːŋ tɜːrm ˈpoʊstɪŋ/"
+  },
+  "def": "Under EU rules, a posting that exceeds twelve months (or eighteen with a justified notification), after which almost all host-country employment rules apply.",
+  "registers": {
+   "formal": {
+    "uk": "long-term posting",
+    "us": "long-term posting",
+    "ex": "Where the actual duration of a posting exceeds twelve months, the rules on [[long-term posting]] shall apply, unless a reasoned notification extending that period has been submitted."
+   },
+   "everyday": {
+    "uk": "long-term posting",
+    "us": "long-term posting",
+    "ex": "If he stays past the twelve-month mark, it becomes a [[long-term posting]] and pretty much the whole of French employment law kicks in."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the twelve-month threshold",
+   "a reasoned notification",
+   "to extend to eighteen months",
+   "to replace a posted worker"
+  ],
+  "note_fr": "Au-delà de la durée-seuil, presque toutes les règles du pays d'accueil s'appliquent, à l'exception notamment des règles sur la conclusion et la rupture du contrat et des clauses de non-concurrence. Remplacer un détaché par un autre sur le même poste ne remet pas le compteur à zéro.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-077",
+  "level": 3,
+  "fr": "noyau dur de règles du pays d'accueil (détachement)",
+  "term": {
+   "uk": "core terms and conditions",
+   "us": "core terms and conditions"
+  },
+  "ipa": {
+   "uk": "/ˈkɔː ˌtɜːmz ən kənˈdɪʃ(ə)nz/",
+   "us": "/ˈkɔːr ˌtɜːrmz ən kənˈdɪʃ(ə)nz/"
+  },
+  "def": "The minimum set of host-country employment rules that must be applied to posted workers from the first day, such as minimum pay, working time and health and safety.",
+  "registers": {
+   "formal": {
+    "uk": "hard core of terms and conditions of employment",
+    "us": "hard core of terms and conditions of employment",
+    "ex": "The posting undertaking shall guarantee posted workers the [[hard core of terms and conditions of employment]] laid down in the host Member State."
+   },
+   "everyday": {
+    "uk": "core host-country rules",
+    "us": "core host-country rules",
+    "ex": "Even on a three-week posting, the [[core host-country rules]] apply - minimum pay, hours, rest, health and safety."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the hard core of rules",
+   "French minimum pay",
+   "maximum working hours",
+   "to compare home and host terms"
+  ],
+  "note_fr": "« Hard core » est l'expression du droit européen, mais en anglais courant « hardcore » a d'autres connotations : à l'oral, préférez « core rules » ou « the minimum French rules ». Le noyau dur comprend notamment la rémunération, la durée du travail et les repos, les congés payés et la santé-sécurité.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-078",
+  "level": 3,
+  "fr": "représentant en France (de l'employeur étranger qui détache)",
+  "term": {
+   "uk": "designated representative",
+   "us": "designated representative"
+  },
+  "ipa": {
+   "uk": "/ˈdezɪɡneɪtɪd ˌreprɪˈzentətɪv/",
+   "us": "/ˈdezɪɡneɪtɪd ˌreprɪˈzentətɪv/"
+  },
+  "def": "The person a foreign employer must appoint in France to liaise with the authorities for the duration of a posting.",
+  "registers": {
+   "formal": {
+    "uk": "representative in France",
+    "us": "representative in France",
+    "ex": "The foreign employer shall appoint a [[representative in France]] to liaise with the labour inspectorate for the duration of the posting."
+   },
+   "everyday": {
+    "uk": "designated representative",
+    "us": "designated representative",
+    "ex": "Who's the [[designated representative]] for the Indian team - us, or someone from their side?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to appoint a representative",
+   "to liaise with the authorities",
+   "to keep documents available",
+   "documents in French"
+  ],
+  "note_fr": "Le représentant sert d'interlocuteur aux autorités françaises et doit pouvoir présenter les documents exigés, traduits en français. Ce n'est pas un mandataire général de l'entreprise étrangère : précisez son rôle par écrit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-079",
+  "level": 3,
+  "fr": "totalisation (des périodes d'assurance)",
+  "term": {
+   "uk": "totalisation",
+   "us": "totalization"
+  },
+  "ipa": {
+   "uk": "/ˌtəʊtəlaɪˈzeɪʃ(ə)n/",
+   "us": "/ˌtoʊt(ə)ləˈzeɪʃ(ə)n/"
+  },
+  "def": "The principle that periods of insurance completed in different countries are added together to open rights, especially to a pension.",
+  "registers": {
+   "formal": {
+    "uk": "aggregation of insurance periods",
+    "us": "aggregation of coverage periods",
+    "ex": "Under the principle of [[aggregation of insurance periods]], periods completed in another Member State shall be taken into account where necessary to open entitlement.",
+    "ex_us": "Under the principle of [[aggregation of coverage periods]], periods completed in another country shall be taken into account where necessary to open entitlement."
+   },
+   "everyday": {
+    "uk": "to count towards",
+    "us": "to count toward",
+    "ex": "Her years in Germany will [[count towards]] her French pension rights, but each country pays its own share.",
+    "ex_us": "Her years in Germany will [[count toward]] her French pension rights, but each country pays its own share."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to aggregate periods",
+   "a pro rata pension",
+   "each country pays its share",
+   "a pension statement from each country"
+  ],
+  "note_fr": "La totalisation sert à ouvrir le droit ; ensuite, chaque pays verse en principe la part correspondant aux périodes accomplies chez lui. « Towards » (UK) / « toward » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-080",
+  "level": 3,
+  "fr": "approche du « bilan » (maintien du pouvoir d'achat d'origine)",
+  "term": {
+   "uk": "balance sheet approach",
+   "us": "balance sheet approach"
+  },
+  "ipa": {
+   "uk": "/ˈbæləns ʃiːt əˌprəʊtʃ/",
+   "us": "/ˈbæləns ʃiːt əˌproʊtʃ/"
+  },
+  "def": "A method of setting expatriate pay so that the assignee keeps the same purchasing power as at home, with allowances covering the differences in costs.",
+  "registers": {
+   "formal": {
+    "uk": "balance sheet approach",
+    "us": "balance sheet approach",
+    "ex": "Expatriate remuneration shall be determined using the [[balance sheet approach]], with home-country net salary as the reference."
+   },
+   "everyday": {
+    "uk": "balance sheet",
+    "us": "balance sheet",
+    "ex": "We use the [[balance sheet]] for long-term moves, so she shouldn't be better or worse off."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "home-country purchasing power",
+   "to be no better and no worse off",
+   "goods and services differential",
+   "a net-to-net comparison"
+  ],
+  "note_fr": "Rien à voir avec le bilan comptable, malgré le nom. L'idée à retenir : « no better, no worse off ». Méthode coûteuse, en recul dans beaucoup de groupes au profit de formules plus proches du marché local.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-081",
+  "level": 3,
+  "fr": "impôt hypothétique (retenue fiscale théorique)",
+  "term": {
+   "uk": "hypothetical tax",
+   "us": "hypothetical tax"
+  },
+  "ipa": {
+   "uk": "/ˌhaɪpəˈθetɪk(ə)l ˈtæks/",
+   "us": "/ˌhaɪpəˈθetɪk(ə)l ˈtæks/"
+  },
+  "def": "The amount deducted from a tax-equalised assignee's pay, equal to the tax they would have paid had they stayed at home.",
+  "registers": {
+   "formal": {
+    "uk": "hypothetical tax",
+    "us": "hypothetical tax",
+    "ex": "A [[hypothetical tax]] shall be withheld from the Assignee's salary and reconciled after the end of each tax year."
+   },
+   "everyday": {
+    "uk": "hypo tax",
+    "us": "hypo tax",
+    "ex": "The [[hypo tax]] comes off her payslip every month, and the company pays the real tax in both countries.",
+    "ex_us": "The [[hypo tax]] comes off her pay stub every month, and the company pays the real tax in both countries."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to withhold hypo tax",
+   "the hypo tax calculation",
+   "a year-end true-up",
+   "stay-at-home tax"
+  ],
+  "note_fr": "« Hypo tax » est le raccourci universel chez les spécialistes. Expliquez au salarié que cette retenue n'est pas un impôt versé à l'État mais une retenue interne qui finance l'égalisation fiscale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-082",
+  "level": 3,
+  "fr": "paie éclatée (scindée entre deux pays)",
+  "term": {
+   "uk": "split payroll",
+   "us": "split payroll"
+  },
+  "ipa": {
+   "uk": "/ˌsplɪt ˈpeɪrəʊl/",
+   "us": "/ˌsplɪt ˈpeɪroʊl/"
+  },
+  "def": "An arrangement in which an employee's pay is delivered partly through the home payroll and partly through the host payroll.",
+  "registers": {
+   "formal": {
+    "uk": "split payroll arrangement",
+    "us": "split payroll arrangement",
+    "ex": "Under the [[split payroll arrangement]], 60% of base salary shall be paid in France and the balance in the United States."
+   },
+   "everyday": {
+    "uk": "split payroll",
+    "us": "split payroll",
+    "ex": "He's on a [[split payroll]] - part in euros here, part in dollars into his US account."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be paid in two currencies",
+   "the home and host payrolls",
+   "to reconcile the two payrolls",
+   "split-pay delivery"
+  ],
+  "note_fr": "La paie éclatée concerne la façon de verser le salaire ; elle ne règle pas, à elle seule, la question de l'impôt ou des cotisations. Chaque fraction peut avoir ses propres obligations déclaratives.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-083",
+  "level": 3,
+  "fr": "paie fictive (paie miroir)",
+  "term": {
+   "uk": "shadow payroll",
+   "us": "shadow payroll"
+  },
+  "ipa": {
+   "uk": "/ˈʃædəʊ ˈpeɪrəʊl/",
+   "us": "/ˈʃædoʊ ˈpeɪroʊl/"
+  },
+  "def": "A payroll run in the host country only to report and withhold tax or contributions, while the salary itself is still paid in the home country.",
+  "registers": {
+   "formal": {
+    "uk": "shadow payroll",
+    "us": "shadow payroll",
+    "ex": "The host entity shall operate a [[shadow payroll]] in order to comply with local reporting and withholding obligations."
+   },
+   "everyday": {
+    "uk": "to put someone on shadow payroll",
+    "us": "to put someone on shadow payroll",
+    "ex": "He's still paid from Mumbai, but we'll need [[to put him on shadow payroll]] here for the tax side."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to run a shadow payroll",
+   "reporting only",
+   "to withhold at source",
+   "to gross up benefits"
+  ],
+  "note_fr": "« Shadow » ne veut pas dire « au noir » : la paie fictive est au contraire un outil de conformité. Avec le prélèvement à la source en France, la question se pose dès qu'un salarié payé à l'étranger devient imposable en France.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-084",
+  "level": 3,
+  "fr": "montée en brut (brutage)",
+  "term": {
+   "uk": "gross-up",
+   "us": "gross-up"
+  },
+  "ipa": {
+   "uk": "/ˈɡrəʊs ʌp/",
+   "us": "/ˈɡroʊs ʌp/"
+  },
+  "def": "Increasing a payment so that, after tax and contributions, the employee receives the intended net amount.",
+  "registers": {
+   "formal": {
+    "uk": "tax gross-up",
+    "us": "tax gross-up",
+    "ex": "Relocation expenses shall be subject to a [[tax gross-up]] so that the Assignee bears no tax on such benefits."
+   },
+   "everyday": {
+    "uk": "to gross up",
+    "us": "to gross up",
+    "ex": "If we want her to get the full ten thousand, we'll have [[to gross it up]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to gross up a benefit",
+   "a grossed-up amount",
+   "the gross-up cost",
+   "net-guaranteed"
+  ],
+  "note_fr": "Nom avec trait d'union (« a gross-up »), verbe sans (« to gross up »). Un brutage coûte souvent bien plus que prévu, car l'impôt sur l'impôt est lui-même imposable : faites chiffrer avant de promettre un net.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-085",
+  "level": 3,
+  "fr": "régime fiscal des impatriés",
+  "term": {
+   "uk": "impatriate tax regime",
+   "us": "inpatriate tax regime"
+  },
+  "ipa": {
+   "uk": "/ɪmˈpætriət ˈtæks reɪˌʒiːm/",
+   "us": "/ɪnˈpeɪtriət ˈtæks reɪˌʒiːm/"
+  },
+  "def": "A French tax scheme under which people who move to France for work after living abroad may be partly exempted from income tax for a limited number of years.",
+  "registers": {
+   "formal": {
+    "uk": "special tax regime for impatriates",
+    "us": "special tax regime for inpatriates",
+    "ex": "The employee may be eligible for the [[special tax regime for impatriates]], subject to meeting the statutory conditions.",
+    "ex_us": "The employee may be eligible for the [[special tax regime for inpatriates]], subject to meeting the statutory conditions."
+   },
+   "everyday": {
+    "uk": "impat regime",
+    "us": "inpat regime",
+    "ex": "Have we checked whether she qualifies for the [[impat regime]]? It makes a real difference to her net.",
+    "ex_us": "Have we checked whether she qualifies for the [[inpat regime]]? It makes a real difference to her net."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to qualify for the regime",
+   "an impatriation bonus",
+   "a partial exemption",
+   "for a limited number of years"
+  ],
+  "note_fr": "Ne détaillez pas les conditions de mémoire : elles portent notamment sur la résidence fiscale antérieure et la durée, et elles évoluent. Renvoyez au conseiller fiscal. Le Royaume-Uni et les États-Unis n'ont pas d'équivalent direct.",
+  "french_concept": true,
+  "explain": {
+   "written": "The French impatriate tax regime (régime des impatriés) allows employees who take up a post in France after a period of tax residence abroad to benefit, under strict conditions and for a limited number of years, from a partial income tax exemption on certain elements of their remuneration.",
+   "spoken": "France has a special tax scheme for people coming in from abroad - for a few years, part of their pay can be tax-free, as long as they meet the conditions."
+  }
+ },
+ {
+  "id": "gl-086",
+  "level": 3,
+  "fr": "risque d'établissement stable",
+  "term": {
+   "uk": "permanent establishment risk",
+   "us": "permanent establishment risk"
+  },
+  "ipa": {
+   "uk": "/ˈpɜːmənənt ɪˈstæblɪʃmənt ˌrɪsk/",
+   "us": "/ˈpɜːrmənənt ɪˈstæblɪʃmənt ˌrɪsk/"
+  },
+  "def": "The risk that an employee's activity in a country creates a taxable presence there for the company.",
+  "registers": {
+   "formal": {
+    "uk": "permanent establishment risk",
+    "us": "permanent establishment risk",
+    "ex": "Remote working from abroad shall not be approved where it gives rise to a [[permanent establishment risk]] for the Company."
+   },
+   "everyday": {
+    "uk": "PE risk",
+    "us": "PE risk",
+    "ex": "If he's signing contracts from Madrid, that's a [[PE risk]] - tax won't sign off on it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to create a permanent establishment",
+   "corporate tax exposure",
+   "to conclude contracts",
+   "a PE assessment"
+  ],
+  "note_fr": "C'est un risque pour l'entreprise (impôt sur les sociétés), distinct de l'impôt personnel du salarié. Il est particulièrement sensible pour les commerciaux ou dirigeants qui négocient ou signent depuis l'étranger. « Establishment » ici n'a rien à voir avec l'établissement distinct du droit du travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-087",
+  "level": 3,
+  "fr": "employeur de référence (prestataire qui emploie pour le compte du client)",
+  "term": {
+   "uk": "employer of record",
+   "us": "employer of record"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪər əv ˈrekɔːd/",
+   "us": "/ɪmˌplɔɪər əv ˈrekərd/"
+  },
+  "def": "A third-party provider that legally employs a worker in a country on behalf of a company that has no entity there.",
+  "registers": {
+   "formal": {
+    "uk": "employer of record",
+    "us": "employer of record",
+    "ex": "Where the Group has no legal entity in the country concerned, the employee may be engaged through an [[employer of record]]."
+   },
+   "everyday": {
+    "uk": "EOR",
+    "us": "EOR",
+    "ex": "We don't have an entity in Portugal, so we'd have to hire her through an [[EOR]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hire through an EOR",
+   "an EOR provider",
+   "to set up an entity",
+   "co-employment risk"
+  ],
+  "note_fr": "Pratique très répandue dans les groupes américains. En France, ce montage doit être analysé au regard des règles sur le prêt de main-d'œuvre et le portage salarial, qui l'encadrent strictement : faites-le valider avant de l'accepter.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-088",
+  "level": 3,
+  "fr": "mission virtuelle (à distance)",
+  "term": {
+   "uk": "virtual assignment",
+   "us": "virtual assignment"
+  },
+  "ipa": {
+   "uk": "/ˈvɜːtʃuəl əˈsaɪnmənt/",
+   "us": "/ˈvɜːrtʃuəl əˈsaɪnmənt/"
+  },
+  "def": "A role in which an employee works for a team or entity in another country without moving there, travelling only occasionally.",
+  "registers": {
+   "formal": {
+    "uk": "virtual assignment",
+    "us": "virtual assignment",
+    "ex": "Where physical relocation is not required, the role may be performed as a [[virtual assignment]] from the home country."
+   },
+   "everyday": {
+    "uk": "to do the role remotely",
+    "us": "to do the role remotely",
+    "ex": "Instead of moving him to Boston, couldn't he [[do the role remotely]] and fly over once a quarter?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a virtual assignee",
+   "occasional business travel",
+   "global role, local contract",
+   "to avoid relocation costs"
+  ],
+  "note_fr": "Solution moins coûteuse qu'une expatriation, mais pas sans risques : voyages fréquents, risque d'établissement stable, question du manager et de l'employeur juridique. Vérifiez qui fixe les objectifs et qui évalue.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-089",
+  "level": 3,
+  "fr": "lois de police (dispositions impératives dérogatoires)",
+  "term": {
+   "uk": "overriding mandatory provisions",
+   "us": "overriding mandatory provisions"
+  },
+  "ipa": {
+   "uk": "/ˌəʊvəˈraɪdɪŋ ˈmændət(ə)ri prəˈvɪʒ(ə)nz/",
+   "us": "/ˌoʊvərˈraɪdɪŋ ˈmændətɔːri prəˈvɪʒ(ə)nz/"
+  },
+  "def": "Rules of a country's law that must be applied to a situation whatever law the parties have chosen, because they protect essential public interests.",
+  "registers": {
+   "formal": {
+    "uk": "overriding mandatory provisions",
+    "us": "overriding mandatory provisions",
+    "ex": "The choice of law shall not prevent the application of the [[overriding mandatory provisions]] of the law of the place where the work is carried out."
+   },
+   "everyday": {
+    "uk": "rules you can't contract out of",
+    "us": "rules you can't contract out of",
+    "ex": "Choosing English law won't help: these are [[rules you can't contract out of]] in France."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "mandatory rules",
+   "the law chosen by the parties",
+   "to contract out of",
+   "public policy"
+  ],
+  "note_fr": "En droit européen, le choix de la loi applicable au contrat de travail ne peut pas priver le salarié de la protection des règles impératives de la loi qui s'appliquerait sans ce choix, et certaines lois de police s'imposent en tout état de cause. « Mandatory » = impératif, pas « mandaté ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-090",
+  "level": 3,
+  "fr": "culture à contexte riche (communication implicite)",
+  "term": {
+   "uk": "high-context culture",
+   "us": "high-context culture"
+  },
+  "ipa": {
+   "uk": "/ˌhaɪ ˈkɒntekst ˈkʌltʃə/",
+   "us": "/ˌhaɪ ˈkɑːntekst ˈkʌltʃər/"
+  },
+  "def": "A culture in which much of the meaning is conveyed implicitly, through relationships, tone and context, rather than in explicit words.",
+  "registers": {
+   "formal": {
+    "uk": "high-context culture",
+    "us": "high-context culture",
+    "ex": "In a [[high-context culture]], a refusal may be expressed indirectly and should not be read as agreement."
+   },
+   "everyday": {
+    "uk": "to read between the lines",
+    "us": "to read between the lines",
+    "ex": "When the Bangalore team say 'we'll try', you have to [[read between the lines]] - it often means 'no'."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "low-context culture",
+   "implicit and explicit communication",
+   "to spell things out",
+   "indirect refusal"
+  ],
+  "note_fr": "Notion de l'anthropologue Edward T. Hall, souvent citée en formation interculturelle. Gardez la nuance : ce sont des tendances, pas des règles. « To spell things out » (tout expliciter) est l'attitude attendue dans une culture à contexte pauvre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-091",
+  "level": 3,
+  "fr": "protection contre le risque de change",
+  "term": {
+   "uk": "exchange-rate protection",
+   "us": "exchange-rate protection"
+  },
+  "ipa": {
+   "uk": "/ɪksˈtʃeɪndʒ reɪt prəˌtekʃ(ə)n/",
+   "us": "/ɪksˈtʃeɪndʒ reɪt prəˌtekʃ(ə)n/"
+  },
+  "def": "A mechanism that adjusts an assignee's pay or allowances when currency movements reduce their value beyond an agreed threshold.",
+  "registers": {
+   "formal": {
+    "uk": "currency protection mechanism",
+    "us": "currency protection mechanism",
+    "ex": "A [[currency protection mechanism]] shall apply where the exchange rate varies by more than 5% over a six-month period."
+   },
+   "everyday": {
+    "uk": "currency protection",
+    "us": "currency protection",
+    "ex": "There's no [[currency protection]] in her package, so the fall in the rupee hit her savings."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a currency fluctuation threshold",
+   "to be paid in two currencies",
+   "a home-currency portion",
+   "to absorb currency risk"
+  ],
+  "note_fr": "« Currency » = monnaie, devise ; « exchange » seul ne suffit pas. Précisez dans la lettre de mission le seuil, la période de référence et la source du taux.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-092",
+  "level": 3,
+  "fr": "échec de mission (retour prématuré ou mission non réussie)",
+  "term": {
+   "uk": "failed assignment",
+   "us": "failed assignment"
+  },
+  "ipa": {
+   "uk": "/ˌfeɪld əˈsaɪnmənt/",
+   "us": "/ˌfeɪld əˈsaɪnmənt/"
+  },
+  "def": "An assignment that ends early or does not meet its objectives, often because of family or adaptation problems.",
+  "registers": {
+   "formal": {
+    "uk": "assignment failure",
+    "us": "assignment failure",
+    "ex": "The main causes of [[assignment failure]] are family difficulties and poor preparation before departure."
+   },
+   "everyday": {
+    "uk": "to not work out",
+    "us": "to not work out",
+    "ex": "It just [[didn't work out]] - his wife was miserable and they came back after eight months."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the cost of a failed assignment",
+   "early return",
+   "family adjustment",
+   "to screen candidates for mobility"
+  ],
+  "note_fr": "Évitez de qualifier publiquement un salarié de « failure » : parlez de l'affectation (« the assignment didn't work out »), pas de la personne. La préparation de la famille est le premier facteur de réussite.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-093",
+  "level": 3,
+  "fr": "mission tournante (alternance travail / repos)",
+  "term": {
+   "uk": "rotational assignment",
+   "us": "rotational assignment"
+  },
+  "ipa": {
+   "uk": "/rəʊˈteɪʃ(ə)nəl əˈsaɪnmənt/",
+   "us": "/roʊˈteɪʃ(ə)nəl əˈsaɪnmənt/"
+  },
+  "def": "An arrangement in which the employee works a set period in a remote location, then has a set period of rest at home, in a repeating cycle.",
+  "registers": {
+   "formal": {
+    "uk": "rotational assignment",
+    "us": "rotational assignment",
+    "ex": "Employees on a [[rotational assignment]] shall work four weeks on site followed by two weeks' rest in the home country."
+   },
+   "everyday": {
+    "uk": "on rotation",
+    "us": "on rotation",
+    "ex": "He's [[on rotation]] - a month on the platform, then a month at home."
+   },
+   "informal": {
+    "uk": "four on, two off",
+    "us": "four on, two off",
+    "ex": "It's [[four on, two off]], so he's actually home quite a lot."
+   }
+  },
+  "collocations": [
+   "a rotation schedule",
+   "a rotator",
+   "remote sites",
+   "rest periods at home"
+  ],
+  "note_fr": "Courant dans l'énergie, les mines et les grands chantiers. Les règles françaises de durée du travail et de repos restent à vérifier lorsque le contrat est français : le cycle « on/off » doit s'articuler avec elles.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-094",
+  "level": 3,
+  "fr": "obligation de rapatriement et de reclassement (par la société mère)",
+  "term": {
+   "uk": "obligation to repatriate",
+   "us": "obligation to repatriate"
+  },
+  "ipa": {
+   "uk": "/ˌɒblɪˈɡeɪʃ(ə)n tə riːˈpætrieɪt/",
+   "us": "/ˌɑːblɪˈɡeɪʃ(ə)n tə riːˈpeɪtrieɪt/"
+  },
+  "def": "Under French law, the duty of a French parent company to bring back and offer a new job to an employee it placed with a foreign subsidiary who is dismissed by that subsidiary.",
+  "registers": {
+   "formal": {
+    "uk": "statutory obligation to repatriate and redeploy",
+    "us": "statutory obligation to repatriate and redeploy",
+    "ex": "Should the subsidiary dismiss the Employee, the parent company shall be bound by its [[statutory obligation to repatriate and redeploy]] the Employee."
+   },
+   "everyday": {
+    "uk": "to have to bring someone back",
+    "us": "to have to bring someone back",
+    "ex": "If the US subsidiary lets her go, we'll [[have to bring her back]] and find her a job here."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to repatriate an employee",
+   "a comparable position",
+   "to redeploy within the parent company",
+   "the original employer"
+  ],
+  "note_fr": "Règle française méconnue des sièges étrangers : lorsqu'un salarié engagé par une société mère française est mis à disposition d'une filiale étrangère qui le licencie, la société mère doit assurer son rapatriement et lui proposer un nouvel emploi compatible avec ses fonctions antérieures.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law, where an employee hired by a French parent company has been placed with a foreign subsidiary and is dismissed by that subsidiary, the parent company must arrange the employee's repatriation and offer a new position compatible with the duties previously held within it.",
+   "spoken": "In France, if we send someone to a foreign subsidiary and they're let go out there, we have to bring them home and offer them a suitable job here - we can't just walk away."
+  }
+ },
+ {
+  "id": "gl-095",
+  "level": 3,
+  "fr": "correspondance entre grades groupe et classification conventionnelle",
+  "term": {
+   "uk": "grade mapping",
+   "us": "grade mapping"
+  },
+  "ipa": {
+   "uk": "/ˈɡreɪd ˌmæpɪŋ/",
+   "us": "/ˈɡreɪd ˌmæpɪŋ/"
+  },
+  "def": "The exercise of matching each local job or classification level to a level in the group's global grading structure.",
+  "registers": {
+   "formal": {
+    "uk": "grade mapping",
+    "us": "grade mapping",
+    "ex": "A [[grade mapping]] table shall be maintained to show the correspondence between global grades and the classification levels of the applicable collective agreement."
+   },
+   "everyday": {
+    "uk": "to map",
+    "us": "to map",
+    "ex": "We've [[mapped]] the French coefficients to the global grades, but a few roles don't fit anywhere."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to map local roles to global grades",
+   "a mapping table",
+   "a mismatch",
+   "the collective agreement classification"
+  ],
+  "note_fr": "« To map to » = faire correspondre. Rappelez au siège que le grade global n'a pas de valeur juridique en France : c'est la classification conventionnelle qui détermine notamment le salaire minimum applicable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-096",
+  "level": 3,
+  "fr": "organisation « follow the sun » (relais entre fuseaux horaires)",
+  "term": {
+   "uk": "follow-the-sun",
+   "us": "follow-the-sun"
+  },
+  "ipa": {
+   "uk": "/ˌfɒləʊ ðə ˈsʌn/",
+   "us": "/ˌfɑːloʊ ðə ˈsʌn/"
+  },
+  "def": "Describes a way of organising work so that teams in successive time zones hand tasks on to each other and work continues around the clock.",
+  "registers": {
+   "formal": {
+    "uk": "follow-the-sun model",
+    "us": "follow-the-sun model",
+    "ex": "Payroll support is delivered under a [[follow-the-sun model]] shared between the Manila, Kraków and Mexico City centres."
+   },
+   "everyday": {
+    "uk": "follow-the-sun",
+    "us": "follow-the-sun",
+    "ex": "With [[follow-the-sun]] support, Paris hands over to Mexico at six and picks it back up from Manila in the morning."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a follow-the-sun model",
+   "to hand over to",
+   "a handover note",
+   "round-the-clock coverage"
+  ],
+  "note_fr": "Avec traits d'union devant un nom (« a follow-the-sun model »). « To hand over to » = passer le relais. L'organisation ne doit pas conduire à faire travailler les équipes françaises hors de leurs horaires.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-097",
+  "level": 3,
+  "fr": "distance hiérarchique",
+  "term": {
+   "uk": "power distance",
+   "us": "power distance"
+  },
+  "ipa": {
+   "uk": "/ˈpaʊə ˌdɪstəns/",
+   "us": "/ˈpaʊər ˌdɪstəns/"
+  },
+  "def": "The degree to which people in a culture accept that power and authority are distributed unequally.",
+  "registers": {
+   "formal": {
+    "uk": "power distance",
+    "us": "power distance",
+    "ex": "Cultures with high [[power distance]] tend to expect decisions to be taken at the top and communicated downwards."
+   },
+   "everyday": {
+    "uk": "hierarchical",
+    "us": "hierarchical",
+    "ex": "Head office isn't remotely [[hierarchical]] - the VP will expect you to call her Sarah and to challenge her."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "high and low power distance",
+   "a flat structure",
+   "to challenge the boss",
+   "deference to seniority"
+  ],
+  "note_fr": "Concept issu des travaux de Geert Hofstede, très utilisé en formation interculturelle. Utile pour expliquer pourquoi un siège américain ou néerlandais attend qu'on le contredise ouvertement, alors que d'autres cultures l'éviteront.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-098",
+  "level": 3,
+  "fr": "règle des 183 jours",
+  "term": {
+   "uk": "183-day rule",
+   "us": "183-day rule"
+  },
+  "ipa": {
+   "uk": "/ˌwʌn ˈhʌndrəd ənd ˌeɪti ˈθriː deɪ ˌruːl/",
+   "us": "/ˌwʌn ˈhʌndrəd ˌeɪti ˈθriː deɪ ˌruːl/"
+  },
+  "def": "A common tax treaty rule under which pay for short periods of work in another country is taxed only in the home country if certain conditions are met, including a stay of no more than 183 days.",
+  "registers": {
+   "formal": {
+    "uk": "183-day rule",
+    "us": "183-day rule",
+    "ex": "The Assignee's remuneration may remain taxable in the home State only if the conditions of the [[183-day rule]] laid down in the applicable treaty are met."
+   },
+   "everyday": {
+    "uk": "to stay under 183 days",
+    "us": "to stay under 183 days",
+    "ex": "As long as he [[stays under 183 days]] and France isn't bearing the cost, he should stay taxable in the UK."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to count days of presence",
+   "a twelve-month period",
+   "the cost recharged to the host entity",
+   "the three conditions"
+  ],
+  "note_fr": "Erreur classique : croire qu'en dessous de 183 jours on n'est jamais imposable à l'étranger. La règle conventionnelle comporte plusieurs conditions cumulatives (notamment que la rémunération ne soit pas supportée par une entité du pays d'accueil), et la période de référence varie selon les conventions. Les Américains disent « one hundred eighty-three », sans « and ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-099",
+  "level": 3,
+  "fr": "dérogation à la politique (demande d'exception)",
+  "term": {
+   "uk": "policy exception",
+   "us": "policy exception"
+  },
+  "ipa": {
+   "uk": "/ˈpɒləsi ɪkˌsepʃ(ə)n/",
+   "us": "/ˈpɑːləsi ɪkˌsepʃ(ə)n/"
+  },
+  "def": "An approved departure from the standard terms of a policy for a specific case.",
+  "registers": {
+   "formal": {
+    "uk": "exception to policy",
+    "us": "exception to policy",
+    "ex": "Any [[exception to policy]] shall be approved in writing by the Global Mobility Director and documented in the assignment file."
+   },
+   "everyday": {
+    "uk": "exception",
+    "us": "exception",
+    "ex": "Can we push for an [[exception]]? Her son's in his final year of school, so the timing's terrible."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an exception request",
+   "to grant an exception",
+   "to set a precedent",
+   "a one-off"
+  ],
+  "note_fr": "« Dérogation » ne se traduit pas par « derogation » dans ce sens : en anglais, le mot est rare et juridique (dérogation à un traité). Dites « exception ». Rappelez le risque de précédent : « we don't want to set a precedent ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "gl-100",
+  "level": 3,
+  "fr": "choc culturel inverse (au retour)",
+  "term": {
+   "uk": "reverse culture shock",
+   "us": "reverse culture shock"
+  },
+  "ipa": {
+   "uk": "/rɪˌvɜːs ˈkʌltʃə ʃɒk/",
+   "us": "/rɪˌvɜːrs ˈkʌltʃər ʃɑːk/"
+  },
+  "def": "The difficulty some employees and families have readjusting to their home country after living abroad.",
+  "registers": {
+   "formal": {
+    "uk": "reverse culture shock",
+    "us": "reverse culture shock",
+    "ex": "Returning assignees may experience [[reverse culture shock]], which the re-entry programme seeks to address."
+   },
+   "everyday": {
+    "uk": "to struggle to settle back in",
+    "us": "to struggle to settle back in",
+    "ex": "After four years in Singapore, they [[struggled to settle back in]] - Paris felt small and grey."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to readjust",
+   "a re-entry programme",
+   "the returnee experience",
+   "to feel out of step"
+  ],
+  "note_fr": "Souvent sous-estimé, y compris par le salarié lui-même. « To settle back in » = se réadapter, se réinstaller ; à distinguer de « to settle in » (s'installer, à l'arrivée).",
+  "french_concept": false,
+  "explain": null
+ }
+]
