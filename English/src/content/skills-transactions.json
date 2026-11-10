@@ -1,0 +1,1652 @@
+{
+ "reading": [
+  {
+   "id": "rd-ma-1",
+   "title": "HR due diligence: executive summary",
+   "kind": "report extract",
+   "level": 2,
+   "paragraphs": [
+    "Project Kestrel - HR due diligence: executive summary",
+    "1. Scope. This summary sets out the key findings of our review of the employment matters of Atelier Morvan SAS (the 'Target'), based on the documents made available in the virtual data room as at 6 March and on two sessions with management. No site visits were carried out.",
+    "2. Headcount and cost. The Target employs 412 people (389 full-time equivalents) across two sites. Staff costs, fully loaded, are in line with the sector. Voluntary attrition is low, but more than a fifth of the workforce will reach retirement age within five years, and no succession plan was disclosed.",
+    "3. Red flags. We identified two material issues. First, most managers work under an annual working-days arrangement, and the monitoring of their workload appears inadequate; should these arrangements be successfully challenged, the Target would be exposed to overtime claims going back three years. Second, the Chief Executive's contract contains a change-of-control clause that would be triggered by the transaction.",
+    "4. Employee relations. The climate is described as constructive. However, the works council must be informed and consulted before the Seller enters into a binding agreement, and it is likely to appoint an expert. We recommend allowing two months for this step.",
+    "5. Recommendations. We suggest that the overtime exposure be covered by a specific indemnity rather than by a price reduction, and that a retention plan for the six key people identified in section 7 be agreed before signing."
+   ],
+   "glossary": [
+    {
+     "term": "virtual data room",
+     "plain": "a secure online space where the seller shares confidential documents with the buyer",
+     "fr": "data room virtuelle"
+    },
+    {
+     "term": "fully loaded",
+     "plain": "including all the employer's on-costs, not just gross salary",
+     "fr": "charges patronales comprises"
+    },
+    {
+     "term": "attrition",
+     "plain": "people leaving the company",
+     "fr": "départs, attrition"
+    },
+    {
+     "term": "succession plan",
+     "plain": "a plan for who will replace people in important roles",
+     "fr": "plan de succession"
+    },
+    {
+     "term": "material issues",
+     "plain": "problems serious enough to affect the buyer's decision or the price",
+     "fr": "points significatifs"
+    },
+    {
+     "term": "exposed to",
+     "plain": "at risk of having to face or pay",
+     "fr": "exposé à"
+    },
+    {
+     "term": "specific indemnity",
+     "plain": "the seller's promise to reimburse the buyer for one identified risk",
+     "fr": "garantie spécifique"
+    },
+    {
+     "term": "retention plan",
+     "plain": "measures, usually bonuses, designed to keep important people",
+     "fr": "plan de rétention"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "as at 6 March",
+     "plain": "on 6 March (the position on that date)"
+    },
+    {
+     "phrase": "should these arrangements be successfully challenged",
+     "plain": "if employees win a claim against these arrangements"
+    },
+    {
+     "phrase": "enters into a binding agreement",
+     "plain": "signs an agreement that commits it"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What was the review based on?",
+     "options": [
+      "Site visits and interviews with staff",
+      "Data room documents and two meetings with management",
+      "The Target's audited accounts only",
+      "A questionnaire sent to employee representatives"
+     ],
+     "answer": 1,
+     "explain_fr": "Le périmètre est précisé d'emblée : documents de la data room et deux « management sessions », sans visite de site. Un rapport de due diligence commence toujours par ses limites."
+    },
+    {
+     "q": "Why is the retirement profile mentioned?",
+     "options": [
+      "Because pensions are underfunded",
+      "Because early retirement would reduce staff costs",
+      "Because many people will leave within five years and nobody has planned for it",
+      "Because older employees cannot be transferred"
+     ],
+     "answer": 2,
+     "explain_fr": "« No succession plan was disclosed » : le risque est la perte de compétences, pas le coût. « Disclosed » = communiqué dans le cadre de l'audit."
+    },
+    {
+     "q": "What is the risk with the managers' working-time arrangements?",
+     "options": [
+      "Claims for unpaid overtime covering the last three years",
+      "A fine from the labour inspector",
+      "A strike by managers",
+      "The automatic cancellation of the sale"
+     ],
+     "answer": 0,
+     "explain_fr": "« Exposed to overtime claims going back three years » : si les forfaits sont remis en cause, les heures supplémentaires redeviennent dues sur la période non prescrite."
+    },
+    {
+     "q": "How do the authors suggest dealing with the overtime risk?",
+     "options": [
+      "By lowering the purchase price",
+      "By postponing the signing",
+      "By asking managers to sign new contracts before the sale",
+      "By having the seller promise to reimburse the buyer if the risk materialises"
+     ],
+     "answer": 3,
+     "explain_fr": "« A specific indemnity rather than a price reduction » : l'indemnisation ne joue que si le risque se réalise, alors qu'une baisse de prix est définitive."
+    }
+   ]
+  },
+  {
+   "id": "rd-ma-2",
+   "title": "Steering committee update: integration status",
+   "kind": "report extract",
+   "level": 2,
+   "paragraphs": [
+    "Project Atlas - HR workstream update to the Integration Steering Committee, week 14",
+    "Overall status: AMBER (previous report: green).",
+    "Headlines. Day One went smoothly. All 268 transferring employees were paid on time through the seller's payroll under the transitional services agreement, and no access problems were reported after the first 48 hours. Since the announcement there have been four voluntary leavers, none of them on the key-people list.",
+    "Why amber. The harmonisation workstream has slipped by three weeks. The unions have made the opening of negotiations on a substitution agreement conditional on receiving a side-by-side comparison of the two sets of terms, which Finance has not yet costed. Until that is done, we cannot table a proposal. I would remind the committee that the legacy agreements fall away fifteen months after the transfer at the latest, so the delay is not yet critical, but the buffer is shrinking.",
+    "Risks. One new risk has been added to the register. The payroll TSA expires on 31 December, and the migration to our own system has not yet been tested. A failed payroll run in January would do damage out of all proportion to its cost. Mitigation: a parallel run in November, and an option to extend the TSA by three months, which must be exercised by 15 October.",
+    "Decisions requested. (1) Approve the extension of the TSA as a precaution. (2) Confirm that Finance will deliver the costed comparison by 30 September.",
+    "Next milestone: first negotiation meeting, week 18."
+   ],
+   "glossary": [
+    {
+     "term": "transitional services agreement",
+     "plain": "the contract under which the seller keeps providing services such as payroll for a limited time",
+     "fr": "contrat de services transitoires"
+    },
+    {
+     "term": "slipped",
+     "plain": "fallen behind schedule",
+     "fr": "a pris du retard"
+    },
+    {
+     "term": "side-by-side comparison",
+     "plain": "a table setting two things next to each other, point by point",
+     "fr": "tableau comparatif"
+    },
+    {
+     "term": "table a proposal",
+     "plain": "put a proposal forward for discussion (British usage)",
+     "fr": "soumettre une proposition"
+    },
+    {
+     "term": "legacy agreements",
+     "plain": "the agreements inherited from the previous employer",
+     "fr": "accords d'origine (hérités de l'ancien employeur)"
+    },
+    {
+     "term": "buffer",
+     "plain": "spare time kept in reserve",
+     "fr": "marge de sécurité"
+    },
+    {
+     "term": "parallel run",
+     "plain": "a test in which the old and new systems process the same payroll at the same time",
+     "fr": "paie en double (test en parallèle)"
+    },
+    {
+     "term": "as a precaution",
+     "plain": "to be on the safe side",
+     "fr": "par précaution"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "conditional on receiving",
+     "plain": "they will only do it if they first receive"
+    },
+    {
+     "phrase": "at the latest",
+     "plain": "and not after that date"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why has the overall status moved from green to amber?",
+     "options": [
+      "Four key people have resigned",
+      "Payroll failed on Day One",
+      "The harmonisation negotiations cannot start on time",
+      "The unions have refused to negotiate at all"
+     ],
+     "answer": 2,
+     "explain_fr": "Le retard vient du chantier d'harmonisation : les syndicats attendent un comparatif chiffré. Ils ne refusent pas de négocier, ils posent une condition (« conditional on »)."
+    },
+    {
+     "q": "What does 'we cannot table a proposal' mean here?",
+     "options": [
+      "We cannot put a proposal forward",
+      "We cannot postpone the proposal",
+      "We cannot afford the proposal",
+      "We cannot withdraw the proposal"
+     ],
+     "answer": 0,
+     "explain_fr": "Piège UK / US : en anglais britannique, « to table » = mettre sur la table, soumettre ; en américain, c'est au contraire ajourner. Un rédacteur américain écrirait « put forward »."
+    },
+    {
+     "q": "Why does the author say the delay is 'not yet critical'?",
+     "options": [
+      "Because the unions are in no hurry",
+      "Because Finance has promised the figures",
+      "Because the TSA can be extended",
+      "Because the former agreements go on applying for some time after the transfer"
+     ],
+     "answer": 3,
+     "explain_fr": "Les accords d'origine survivent au plus quinze mois après le transfert : il reste du temps, mais la marge (« buffer ») se réduit."
+    },
+    {
+     "q": "What is the committee asked to do about payroll?",
+     "options": [
+      "Cancel the migration to the new system",
+      "Approve an extension of the TSA in case the migration is not ready",
+      "Run the January payroll twice",
+      "Move the parallel run to October"
+     ],
+     "answer": 1,
+     "explain_fr": "« Approve the extension of the TSA as a precaution » : une solution de repli, à activer avant le 15 octobre. Une bonne note de comité se termine par les décisions demandées."
+    }
+   ]
+  },
+  {
+   "id": "rd-ma-3",
+   "title": "Business transfer agreement: the employee clause",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "11. EMPLOYEES",
+    "11.1 The parties acknowledge that the sale of the Business constitutes the transfer of an autonomous economic entity which retains its identity and that, accordingly, the contracts of employment of the Transferring Employees shall transfer to the Purchaser by operation of law with effect from the Completion Date.",
+    "11.2 The Seller shall be responsible for, and shall indemnify the Purchaser against, all sums due to the Transferring Employees in respect of the period up to the Completion Date, including salary, accrued but untaken holiday and bonuses, pro-rated where applicable.",
+    "11.3 The Purchaser shall, as from the Completion Date, assume all obligations of the employer towards the Transferring Employees and shall recognise their continuity of employment with the Seller.",
+    "11.4 Between the date of this Agreement and the Completion Date, the Seller shall not, without the prior written consent of the Purchaser (such consent not to be unreasonably withheld), (a) vary the terms of employment of any Transferring Employee otherwise than in the ordinary course of business, or (b) assign any employee to, or remove any Transferring Employee from, the Business.",
+    "11.5 As the Business forms only part of the Seller's undertaking, the transfer of the contracts of those Transferring Employees who hold office as employee representatives is subject to the prior authorisation of the labour inspector. The Seller shall apply for such authorisation without delay, and the contracts of the employees concerned shall transfer on the later of the Completion Date and the date on which authorisation is granted.",
+    "11.6 Nothing in this clause shall confer any right on any person who is not a party to this Agreement."
+   ],
+   "glossary": [
+    {
+     "term": "by operation of law",
+     "plain": "automatically, because the law says so, without anyone having to agree",
+     "fr": "de plein droit"
+    },
+    {
+     "term": "indemnify",
+     "plain": "reimburse in full for a loss",
+     "fr": "indemniser, garantir"
+    },
+    {
+     "term": "accrued but untaken holiday",
+     "plain": "paid leave the employee has earned but not yet used",
+     "fr": "congés payés acquis et non pris"
+    },
+    {
+     "term": "pro-rated",
+     "plain": "calculated in proportion to the part of the period worked",
+     "fr": "au prorata"
+    },
+    {
+     "term": "continuity of employment",
+     "plain": "the employee's unbroken length of service",
+     "fr": "ancienneté ininterrompue (reprise d'ancienneté)"
+    },
+    {
+     "term": "ordinary course of business",
+     "plain": "the normal, day-to-day running of the company",
+     "fr": "cours normal des affaires"
+    },
+    {
+     "term": "hold office",
+     "plain": "have been elected or appointed to a position",
+     "fr": "détenir un mandat"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "such consent not to be unreasonably withheld",
+     "plain": "the buyer may not refuse without a good reason"
+    },
+    {
+     "phrase": "otherwise than in the ordinary course of business",
+     "plain": "except as part of normal day-to-day management"
+    },
+    {
+     "phrase": "in respect of the period up to the Completion Date",
+     "plain": "for the time before the sale completes"
+    },
+    {
+     "phrase": "on the later of the Completion Date and the date on which authorisation is granted",
+     "plain": "on whichever of the two dates comes last"
+    },
+    {
+     "phrase": "Nothing in this clause shall confer any right on any person who is not a party",
+     "plain": "only the buyer and the seller can rely on this clause; employees cannot"
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to clause 11.1, why do the contracts transfer to the Purchaser?",
+     "options": [
+      "Because each employee has agreed in writing",
+      "Because the Purchaser has made job offers",
+      "Because the labour inspector has authorised it",
+      "Because the law provides for it when a business that keeps its identity changes hands"
+     ],
+     "answer": 3,
+     "explain_fr": "« By operation of law » : le transfert est automatique dès lors que l'activité cédée est une entité économique autonome qui conserve son identité. Aucun accord individuel n'est requis."
+    },
+    {
+     "q": "Who ultimately bears the cost of holiday earned before completion but not yet taken?",
+     "options": [
+      "The Purchaser",
+      "The Seller",
+      "The employees",
+      "It is shared equally"
+     ],
+     "answer": 1,
+     "explain_fr": "Clause 11.2 : le vendeur « shall indemnify the Purchaser » pour toutes les sommes dues au titre de la période antérieure. L'acquéreur paiera le salarié, puis se retournera contre le vendeur."
+    },
+    {
+     "q": "What may the Seller do between signing and completion without asking the Purchaser?",
+     "options": [
+      "Award the normal annual pay rise in the usual way",
+      "Move employees into the Business",
+      "Take employees out of the Business",
+      "Grant exceptional bonuses to key staff"
+     ],
+     "answer": 0,
+     "explain_fr": "Seules les modifications « in the ordinary course of business » restent libres : la gestion courante, donc l'augmentation annuelle habituelle. Tout le reste suppose l'accord écrit de l'acquéreur."
+    },
+    {
+     "q": "When does an employee representative's contract transfer?",
+     "options": [
+      "Always on the Completion Date",
+      "As soon as the Seller applies for authorisation",
+      "On the Completion Date or on the date of the inspector's authorisation, whichever is later",
+      "Never, because representatives stay with the Seller"
+     ],
+     "answer": 2,
+     "explain_fr": "« On the later of... and... » = à la plus tardive des deux dates. En cas de transfert partiel, le transfert d'un représentant du personnel suppose l'autorisation préalable de l'inspecteur du travail."
+    }
+   ]
+  },
+  {
+   "id": "rd-ma-4",
+   "title": "A letter to employees announcing a proposed carve-out",
+   "kind": "letter",
+   "level": 1,
+   "paragraphs": [
+    "Dear colleagues,",
+    "I am writing to tell you about a proposal that concerns the future of our Industrial Coatings business.",
+    "Following a strategic review, the Group is considering the sale of this business to Norvik Partners, an investment firm with long experience of our sector. I want to stress that this is a proposal at this stage. Your works council was informed this morning and will be consulted over the coming weeks, and no final decision will be taken until that process is complete.",
+    "What would it mean for you? If the sale goes ahead, the business would be set up as a separate company, and those of you who work for Industrial Coatings would transfer to it automatically. Your employment contract, your salary and your length of service would be unchanged: under French law they move with you. The collective agreements that apply to you today would continue to apply for a transitional period, during which new agreements would be negotiated with your union representatives.",
+    "I know that an announcement like this raises more questions than it answers. Some of them we cannot answer yet, and I would rather say so than guess. Your managers have been briefed and will hold team meetings today. I will be on site in Rouen and Chalon next week to take your questions in person. In the meantime, a Q&A document is available on the intranet and will be updated every Friday.",
+    "Thank you for your continued commitment. It is your work that makes this business attractive, and we intend to look after it.",
+    "Yours sincerely,",
+    "Helen Marlow, Managing Director"
+   ],
+   "glossary": [
+    {
+     "term": "strategic review",
+     "plain": "a study by a group of which businesses it wants to keep, develop or sell",
+     "fr": "revue stratégique"
+    },
+    {
+     "term": "goes ahead",
+     "plain": "happens as planned",
+     "fr": "se réalise, se fait"
+    },
+    {
+     "term": "length of service",
+     "plain": "the time an employee has worked for the company",
+     "fr": "ancienneté"
+    },
+    {
+     "term": "transitional period",
+     "plain": "a limited time during which the old rules still apply",
+     "fr": "période transitoire"
+    },
+    {
+     "term": "briefed",
+     "plain": "given the information they need",
+     "fr": "informés, briefés"
+    },
+    {
+     "term": "take your questions",
+     "plain": "listen to your questions and answer them",
+     "fr": "répondre à vos questions"
+    },
+    {
+     "term": "In the meantime",
+     "plain": "until then",
+     "fr": "d'ici là"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "no final decision will be taken until that process is complete",
+     "plain": "the decision will only be made once the consultation is over"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What exactly is being announced?",
+     "options": [
+      "That the business has been sold",
+      "That the Group is thinking of selling the business, subject to consultation",
+      "That the Rouen and Chalon sites will merge",
+      "That the works council has approved the sale"
+     ],
+     "answer": 1,
+     "explain_fr": "Tout le vocabulaire est celui du projet : « proposal », « is considering », conditionnel (« would »). Tant que le CSE n'a pas été consulté, on n'annonce pas une décision."
+    },
+    {
+     "q": "If the sale takes place, what happens to the employment contracts?",
+     "options": [
+      "Employees sign a new contract with the new company",
+      "Contracts end and employees are re-hired",
+      "Employees choose whether to move",
+      "Contracts move to the new company unchanged"
+     ],
+     "answer": 3,
+     "explain_fr": "« Would transfer to it automatically » et « they move with you » : c'est le transfert de plein droit, sans nouveau contrat et sans choix individuel."
+    },
+    {
+     "q": "What does the letter say about collective agreements?",
+     "options": [
+      "They continue for a time while new ones are negotiated",
+      "They end on the day of the sale",
+      "They are guaranteed for ever",
+      "They are replaced by the investor's own agreements"
+     ],
+     "answer": 0,
+     "explain_fr": "« For a transitional period, during which new agreements would be negotiated » : formulation simple du délai de survie et de la négociation de substitution, sans jargon."
+    },
+    {
+     "q": "How does the Managing Director deal with questions she cannot answer?",
+     "options": [
+      "She promises answers within a week",
+      "She refers employees to the works council",
+      "She admits it openly and explains how and when employees can ask",
+      "She says that questions should go to the buyer"
+     ],
+     "answer": 2,
+     "explain_fr": "« I would rather say so than guess » : reconnaître ce qu'on ne sait pas, puis donner les canaux (réunions d'équipe, visites sur site, Q&A mis à jour) est la marque d'une communication crédible."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-ma-1",
+   "title": "An integration update to the Group HR Director",
+   "stage": 1,
+   "kind": "email",
+   "brief": "You are the interim HR Director of a French company acquired three months ago by a British group. Write your monthly update to Fiona Garrett, Group HR Director in London: overall status, end of the works council consultation, attrition, a delay on harmonisation, and one request.",
+   "brief_fr": "Vous êtes DRH de transition d'une société française rachetée il y a trois mois par un groupe britannique. Rédigez votre point mensuel à Fiona Garrett, DRH Groupe à Londres : état d'avancement général, fin de la consultation du CSE, départs, retard sur l'harmonisation et une demande.",
+   "gaps": [
+    {
+     "text": "Overall, the integration remains ___, with one exception that I set out below.",
+     "answer": "on track",
+     "accept": [
+      "on schedule"
+     ],
+     "explain_fr": "« To be on track » = se dérouler comme prévu. On commence par la synthèse, puis on annonce l'exception : c'est l'ordre attendu par un lecteur pressé."
+    },
+    {
+     "text": "The works council ___ its opinion on the new organisation on 12 March, which closes the consultation.",
+     "answer": "delivered",
+     "accept": [
+      "gave",
+      "issued"
+     ],
+     "explain_fr": "Le CSE « delivers » ou « gives » son avis (« opinion », jamais « advice »). Prétérit, car la date est précisée."
+    },
+    {
+     "text": "Voluntary attrition ___ at four leavers since the announcement, none of them on the key-people list.",
+     "answer": "stands",
+     "accept": [],
+     "explain_fr": "« To stand at » + chiffre = s'établir à. Tournure typique des comptes rendus chiffrés (« unemployment stands at... »)."
+    },
+    {
+     "text": "The harmonisation workstream has ___ by three weeks, because the costed comparison of the two sets of terms is not yet available.",
+     "answer": "slipped",
+     "accept": [
+      "slipped back",
+      "been delayed"
+     ],
+     "explain_fr": "« To slip » = prendre du retard, pour un calendrier. Plus idiomatique que « has taken delay », calque à éviter."
+    },
+    {
+     "text": "I wanted to ___ this now, as the unions will not open negotiations without it.",
+     "answer": "flag",
+     "accept": [
+      "raise",
+      "flag up",
+      "mention"
+     ],
+     "explain_fr": "« To flag » = signaler un point de vigilance. « I wanted to » (prétérit de politesse) adoucit l'alerte."
+    },
+    {
+     "text": "Would you be able to ___ with Group Finance so that we receive the figures by the end of the month?",
+     "answer": "have a word",
+     "accept": [
+      "speak",
+      "follow up",
+      "raise this"
+     ],
+     "explain_fr": "« To have a word with someone » = en toucher un mot à quelqu'un. Demande indirecte très britannique, plus efficace qu'un « please ask Finance »."
+    }
+   ],
+   "outline": [],
+   "model": "Dear Fiona,\n\nHere is my update on the French integration for March.\n\nOverall, the integration remains on track, with one exception that I set out below.\n\nThe works council delivered its opinion on the new organisation on 12 March, which closes the consultation. The opinion was unfavourable, as expected, but it is not binding, and we are now free to put the new reporting lines in place from 1 April.\n\nVoluntary attrition stands at four leavers since the announcement, none of them on the key-people list. All twelve retention agreements have now been signed.\n\nThe harmonisation workstream has slipped by three weeks, because the costed comparison of the two sets of terms is not yet available. I wanted to flag this now, as the unions will not open negotiations without it. There is no legal urgency yet, but the longer we wait, the less room we shall have to negotiate.\n\nWould you be able to have a word with Group Finance so that we receive the figures by the end of the month?\n\nI will send the updated risk register ahead of Thursday's steering committee.\n\nKind regards,\nClaire",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "with one exception that I set out below",
+     "note_fr": "On annonce la mauvaise nouvelle dès la synthèse, sans la noyer : le lecteur sait qu'il doit lire la suite."
+    },
+    {
+     "quote": "The opinion was unfavourable, as expected, but it is not binding",
+     "note_fr": "Trois informations en une phrase : le sens de l'avis, le fait qu'il était attendu, son absence d'effet juridique. Indispensable pour un lecteur britannique, qui pourrait croire à un blocage."
+    },
+    {
+     "quote": "stands at four leavers",
+     "note_fr": "Un chiffre, pas un adjectif. « Leavers » = personnes parties ; évitez « departures of employees »."
+    },
+    {
+     "quote": "There is no legal urgency yet, but the longer we wait, the less room we shall have to negotiate",
+     "note_fr": "Structure « the longer..., the less... » pour hiérarchiser le risque : pas d'alarmisme, mais une échéance."
+    },
+    {
+     "quote": "Would you be able to have a word with Group Finance",
+     "note_fr": "La demande est isolée dans son propre paragraphe et formulée en question : claire et courtoise."
+    },
+    {
+     "quote": "ahead of Thursday's steering committee",
+     "note_fr": "« Ahead of » = en amont de. Plus naturel que « before the meeting of the steering committee of Thursday »."
+    }
+   ],
+   "checklist": [
+    "Does my first substantive sentence give the overall status?",
+    "Have I explained what the works council's opinion does and does not change?",
+    "Are my facts supported by figures and dates?",
+    "Is the delay explained by its cause and its consequence?",
+    "Is my request easy to find and precise about the deadline?"
+   ],
+   "phrasebank": [
+    "Here is my update on ... for March.",
+    "Overall, ... remains on track, with one exception.",
+    "... stands at ... since the announcement.",
+    "The ... workstream has slipped by three weeks, because ...",
+    "I wanted to flag this now, as ...",
+    "Would you be able to have a word with ...?",
+    "I will send ... ahead of Thursday's meeting."
+   ]
+  },
+  {
+   "id": "wr-ma-2",
+   "title": "Minutes of a Day One planning meeting",
+   "stage": 1,
+   "kind": "meeting minutes",
+   "brief": "You have just chaired a Day One planning meeting with Dana Kowalski, the buyer's Integration Lead, and Tom Reilly, who looks after payroll and benefits. Write the minutes as a list of decisions and actions: payroll, letters to employees, employee representatives, communications, benefits, and one outstanding issue.",
+   "brief_fr": "Vous venez d'animer une réunion de préparation du « Day One » avec Dana Kowalski, responsable de l'intégration chez l'acquéreur, et Tom Reilly, chargé de la paie et des avantages sociaux. Rédigez le compte rendu sous forme de décisions et d'actions : paie, lettres aux salariés, représentants du personnel, communication, avantages sociaux et un point en suspens.",
+   "gaps": [
+    {
+     "text": "It was ___ that the seller will run payroll for the transferring employees until 31 December under the TSA.",
+     "answer": "agreed",
+     "accept": [
+      "confirmed",
+      "decided"
+     ],
+     "explain_fr": "« It was agreed that » : tournure impersonnelle standard d'un compte rendu, qui consigne la décision sans dire qui a parlé."
+    },
+    {
+     "text": "CD ___ draft the transfer letters and circulate them by 8 June.",
+     "answer": "to",
+     "accept": [
+      "will"
+     ],
+     "explain_fr": "Style télégraphique des actions : initiales + « to » + verbe (« CD to draft »). Le « to » équivaut à « is to », c'est-à-dire « doit »."
+    },
+    {
+     "text": "The transfer of the two representatives is ___ to the labour inspector's authorisation, which has been applied for.",
+     "answer": "subject",
+     "accept": [
+      "conditional"
+     ],
+     "explain_fr": "« Subject to » = subordonné à, sous réserve de. « To apply for an authorisation » = demander une autorisation."
+    },
+    {
+     "text": "Managers will be ___ at 8.30 a.m. on Day One, before the site meetings.",
+     "answer": "briefed",
+     "accept": [
+      "informed"
+     ],
+     "explain_fr": "« To brief someone » = donner à quelqu'un les informations et consignes nécessaires. Le passif met l'accent sur les managers."
+    },
+    {
+     "text": "Health cover under the new scheme must be ___ from Day One, with no gap in cover.",
+     "answer": "in place",
+     "accept": [
+      "effective",
+      "up and running",
+      "active"
+     ],
+     "explain_fr": "« To be in place » = être opérationnel, en vigueur (pour un dispositif). « Operational » se dirait d'un site ou d'un système."
+    },
+    {
+     "text": "Outstanding ___: who signs the transfer letters on the buyer's side.",
+     "answer": "issue",
+     "accept": [
+      "point",
+      "question",
+      "item"
+     ],
+     "explain_fr": "« Outstanding issue » = point en suspens. « Outstanding » signifie ici « non réglé », pas « remarquable »."
+    }
+   ],
+   "outline": [],
+   "model": "Project Atlas - Day One planning meeting\nMinutes of the meeting held on 3 June\nPresent: Dana Kowalski (Integration Lead, Northgate), Claire Delmas (Interim HR Director), Tom Reilly (Payroll and Benefits)\n\n1. Payroll. It was agreed that the seller will run payroll for the transferring employees until 31 December under the TSA. TR to confirm the cut-off dates with the seller's payroll team.\n\n2. Employee letters. CD to draft the transfer letters and circulate them by 8 June. The letters will confirm that contracts, salary and length of service are unchanged.\n\n3. Employee representatives. The transfer of the two representatives is subject to the labour inspector's authorisation, which has been applied for. Until it is granted, they remain employed by the seller.\n\n4. Communications. Managers will be briefed at 8.30 a.m. on Day One, before the site meetings. DK to send the briefing pack by 20 June.\n\n5. Benefits. Health cover under the new scheme must be in place from Day One, with no gap in cover. TR to confirm with the insurer.\n\n6. Outstanding issue: who signs the transfer letters on the buyer's side. DK to revert by Friday.\n\nNext meeting: 17 June, 2 p.m.",
+   "model_us": "Project Atlas - Day One planning meeting\nMinutes of the meeting held on June 3\nPresent: Dana Kowalski (Integration Lead, Northgate), Claire Delmas (Interim HR Director), Tom Reilly (Payroll and Benefits)\n\n1. Payroll. It was agreed that the seller will run payroll for the transferring employees through December 31 under the TSA. TR to confirm the cutoff dates with the seller's payroll team.\n\n2. Employee letters. CD to draft the transfer letters and circulate them by June 8. The letters will confirm that contracts, salary and length of service are unchanged.\n\n3. Employee representatives. The transfer of the two representatives is subject to the labor inspector's authorization, which has been applied for. Until it is granted, they remain employed by the seller.\n\n4. Communications. Managers will be briefed at 8:30 a.m. on Day One, before the site meetings. DK to send the briefing deck by June 20.\n\n5. Benefits. Health coverage under the new plan must be in place from Day One, with no gap in coverage. TR to confirm with the insurer.\n\n6. Open item: who signs the transfer letters on the buyer's side. DK to get back to the group by Friday.\n\nNext meeting: June 17, 2 p.m.",
+   "commentary": [
+    {
+     "quote": "It was agreed that the seller will run payroll",
+     "note_fr": "On consigne la décision, pas la discussion. Le passif impersonnel évite d'attribuer la décision à une personne."
+    },
+    {
+     "quote": "TR to confirm the cut-off dates",
+     "note_fr": "Chaque point se termine par une action : qui, quoi, pour quand. Les initiales suffisent une fois les présents listés."
+    },
+    {
+     "quote": "is subject to the labour inspector's authorisation, which has been applied for",
+     "note_fr": "La relative au passif indique où en est la démarche sans alourdir. En américain : « labor inspector's authorization »."
+    },
+    {
+     "quote": "with no gap in cover",
+     "note_fr": "« Gap in cover » = rupture de couverture. UK « cover », US « coverage » ; UK « scheme », US « plan »."
+    },
+    {
+     "quote": "DK to revert by Friday",
+     "note_fr": "« To revert » au sens de « revenir vers nous » est courant en anglais britannique des affaires ; un Américain écrirait « to get back to us »."
+    }
+   ],
+   "checklist": [
+    "Have I listed who attended, with their roles?",
+    "Does each item record a decision and not the discussion?",
+    "Does each action have an owner and a date?",
+    "Have I kept one topic per numbered item?",
+    "Is the outstanding issue clearly separated, with someone responsible for resolving it?",
+    "Have I given the date of the next meeting?"
+   ],
+   "phrasebank": [
+    "Minutes of the meeting held on ...",
+    "Present: ... / Apologies: ...",
+    "It was agreed that ...",
+    "XX to draft ... and circulate it by ...",
+    "... is subject to ..., which has been applied for.",
+    "Outstanding issue: ...",
+    "XX to revert by Friday.",
+    "Next meeting: ..."
+   ]
+  },
+  {
+   "id": "wr-ma-3",
+   "title": "Explaining to the deal team why signing has to wait",
+   "stage": 2,
+   "kind": "email",
+   "brief": "The deal team of a US group that is selling its French subsidiary wants to sign with the buyer in two weeks. Write the key paragraph of your email explaining why the works council must be consulted first, what the risk is if it is not, and how deals are usually structured to cope with this.",
+   "brief_fr": "L'équipe transaction d'un groupe américain qui cède sa filiale française veut signer avec l'acquéreur dans deux semaines. Rédigez le paragraphe central de votre e-mail : pourquoi le CSE doit être consulté avant, quel est le risque sinon, et comment on structure habituellement l'opération pour en tenir compte.",
+   "gaps": [],
+   "outline": [
+    "State the constraint plainly: no binding agreement before the works council has been consulted",
+    "Give the reason and the risk of ignoring it",
+    "Reassure: advisory opinion, no veto, time limits",
+    "Offer the usual solution: put option now, purchase agreement afterwards",
+    "Close on the trade-off: a few weeks against legal certainty"
+   ],
+   "model": "On timing, there is one French constraint that we cannot work around: the seller may not sign a binding agreement until its works council has been informed and consulted on the proposed sale. The logic is that consultation has to come before the decision, not after it. Signing first would expose the seller's management to criminal liability, and the works council could ask a court to suspend the transaction. The good news is that the council has no veto. Its opinion is purely advisory, and the process is capped by statutory time limits: one month as a rule, two if an expert is appointed, and three where several councils are involved as well. In practice, the usual way through is for the buyer to grant a put option now, which fixes the price and the terms, and for the purchase agreement itself to be signed once the opinion has been given. It costs us a few weeks, but it keeps us on the right side of the law.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "there is one French constraint that we cannot work around",
+     "note_fr": "« To work around » = contourner. Le « we » place la consultante du côté de l'équipe, non du côté de l'obstacle."
+    },
+    {
+     "quote": "consultation has to come before the decision, not after it",
+     "note_fr": "La règle est ramenée à sa logique, en une phrase, sans référence de texte : c'est ce que retient un non-juriste."
+    },
+    {
+     "quote": "The good news is that the council has no veto",
+     "note_fr": "Après la contrainte, on rassure tout de suite. « The good news is that » est une charnière orale parfaitement admise dans un e-mail."
+    },
+    {
+     "quote": "one month as a rule, two if an expert is appointed",
+     "note_fr": "Des délais précis et gradués : un financier veut des dates, pas un « it depends »."
+    },
+    {
+     "quote": "the usual way through is for the buyer to grant a put option now",
+     "note_fr": "« The usual way through » présente la solution comme une pratique courante, donc rassurante. « For + sujet + to + verbe » évite une subordonnée lourde."
+    },
+    {
+     "quote": "It costs us a few weeks, but it keeps us on the right side of the law",
+     "note_fr": "Conclusion en forme d'arbitrage coût / bénéfice. « To be on the right side of the law » = rester dans la légalité."
+    }
+   ],
+   "checklist": [
+    "Is the constraint stated in my first sentence?",
+    "Have I said 'proposed sale', not 'sale'?",
+    "Have I explained the risk without quoting any article of law?",
+    "Have I made it clear that the opinion is advisory?",
+    "Have I given concrete time limits?",
+    "Does the paragraph end with a solution and not with a problem?"
+   ],
+   "phrasebank": [
+    "On timing, there is one constraint that we cannot work around: ...",
+    "The logic is that ...",
+    "... would expose management to ...",
+    "The good news is that ...",
+    "The process is capped by statutory time limits.",
+    "In practice, the usual way through is for ... to ...",
+    "It costs us a few weeks, but ..."
+   ]
+  },
+  {
+   "id": "wr-ma-4",
+   "title": "Town hall talking points: what changes and what does not",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "You are preparing the talking points that the Managing Director will deliver at a town hall on the day a carve-out is announced. Write the central passage, in spoken style: what does not change for employees, what will change over time, and what is not yet known.",
+   "brief_fr": "Vous préparez les éléments de langage que la directrice générale prononcera en réunion plénière le jour de l'annonce d'un carve-out. Rédigez le passage central, dans un style oral : ce qui ne change pas pour les salariés, ce qui évoluera avec le temps, et ce que l'on ne sait pas encore.",
+   "gaps": [],
+   "outline": [
+    "Acknowledge what people really want to know",
+    "What does not change: contract, salary, job, length of service",
+    "What will change over time: collective agreements, negotiated with the unions",
+    "What is not known yet, said openly",
+    "When and how you will come back to them"
+   ],
+   "model": "I know that what most of you want to hear this morning is what this means for you personally, so let me be as clear as I can. On the day the sale completes, your employment contract moves with you to the new company. Nothing is re-signed and nothing is renegotiated: your salary, your job and your length of service stay exactly as they are. That is not a promise from me; it is the law. What will change, over time, is the set of collective agreements that apply to you. They remain in force for a transitional period, and during that period we will negotiate new ones with your union representatives. There are also things we simply do not know yet - which IT systems we will use, for instance, or where the head office functions will sit. I would rather tell you that than guess. We will come back to you on each of them by the end of next month, and sooner if we can.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "so let me be as clear as I can",
+     "note_fr": "« Let me » + verbe : formule orale qui annonce ce qu'on va faire. « As clear as I can » promet la clarté sans promettre de tout dire."
+    },
+    {
+     "quote": "Nothing is re-signed and nothing is renegotiated",
+     "note_fr": "Phrases courtes, répétition de « nothing » : un texte destiné à être dit doit pouvoir s'entendre."
+    },
+    {
+     "quote": "That is not a promise from me; it is the law",
+     "note_fr": "Le point-virgule oppose deux propositions brèves. S'appuyer sur la loi plutôt que sur une promesse personnelle renforce la crédibilité."
+    },
+    {
+     "quote": "What will change, over time, is",
+     "note_fr": "Structure clivée (« What... is... ») pour mettre en relief ; « over time » dédramatise."
+    },
+    {
+     "quote": "I would rather tell you that than guess",
+     "note_fr": "« I would rather... than... » : reconnaître l'incertitude sans s'excuser. Formule à réutiliser telle quelle."
+    },
+    {
+     "quote": "and sooner if we can",
+     "note_fr": "Fin sur un engagement daté, assorti d'une ouverture : on ne promet que ce qu'on peut tenir."
+    }
+   ],
+   "checklist": [
+    "Can every sentence be said aloud in one breath?",
+    "Have I started from the audience's question, not from the company's strategy?",
+    "Have I separated clearly what is certain, what will change and what is unknown?",
+    "Have I avoided jargon such as 'carve-out', 'TSA' or 'synergies'?",
+    "Have I given a date for the next update?"
+   ],
+   "phrasebank": [
+    "I know that what most of you want to hear is ...",
+    "Let me be as clear as I can.",
+    "... stay exactly as they are.",
+    "That is not a promise from me; it is the law.",
+    "What will change, over time, is ...",
+    "There are also things we simply do not know yet.",
+    "I would rather tell you that than guess.",
+    "We will come back to you on that by ..."
+   ]
+  },
+  {
+   "id": "wr-ma-5",
+   "title": "A risk note for a private equity owner",
+   "stage": 3,
+   "kind": "client note",
+   "brief": "Norvik Partners, the fund that owns Atelier Morvan, wants to move production from the Chalon site to Rouen. James Oduya, the Investment Director, has asked you for a one-page note on the employee-relations risks. Give a clear overall view, three risks rated for likelihood and impact with a recommendation for each, and say what you need from him.",
+   "brief_fr": "Norvik Partners, le fonds propriétaire d'Atelier Morvan, veut transférer la production du site de Chalon vers Rouen. James Oduya, directeur d'investissement, vous demande une note d'une page sur les risques sociaux. Donnez une appréciation d'ensemble, trois risques cotés (probabilité, impact) avec une recommandation pour chacun, et dites ce que vous attendez de lui.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the note and overall view in one sentence",
+    "Risk 1: the timetable and the consultation of the works council",
+    "Risk 2: loss of key skills, and how to retain them",
+    "Risk 3: reputational exposure, and how to prepare",
+    "What you need from the reader, and by when",
+    "Next step"
+   ],
+   "model": "To: James Oduya, Investment Director, Norvik Partners\nFrom: Claire Delmas, Interim HR Director, Atelier Morvan\nSubject: Proposed transfer of production from Chalon to Rouen - employee-relations risks\n\nJames,\n\nYou asked for a short note on the people risks attached to the proposed transfer of production from Chalon to Rouen. In brief: the project is feasible, but not on the current timetable, and three risks need your attention.\n\n1. Timetable (likelihood: high; impact: medium). The plan assumes an announcement in May and a move in September. The works council must be consulted first and is almost certain to appoint an expert, which makes September unrealistic. A move in January is achievable. Announcing a date that we then miss would cost us more credibility than announcing a later one now.\n\n2. Loss of key skills (high; high). Rouen is almost 500 kilometres from Chalon, well outside the same geographical area, so nobody can be required to move. On past experience, fewer than one in five will. Fourteen machine setters and maintenance technicians are critical to the ramp-up. I recommend a retention bonus for this group, payable three months after the move, together with a relocation package.\n\n3. Reputational exposure (medium; high). The Chalon site has received regional subsidies, and the mayor follows its fortunes closely. The story will reach the press within hours of the works council meeting. We should brief local officials the same morning and have a holding statement ready.\n\nWhat I need from you by 15 April: agreement in principle to the January date, and a budget for retention. I will bring a costed proposal to the next board meeting.\n\nI am happy to talk any of this through.\n\nClaire",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "the people risks attached to the proposed transfer",
+     "note_fr": "« Social risks » est un calque : en anglais, « social » évoque la vie en société. Dites « people risks » ou « employee-relations risks ». Notez aussi « proposed »."
+    },
+    {
+     "quote": "In brief: the project is feasible, but not on the current timetable",
+     "note_fr": "La conclusion vient en tête, en une phrase. Un investisseur lit le premier paragraphe et parfois rien d'autre."
+    },
+    {
+     "quote": "(likelihood: high; impact: medium)",
+     "note_fr": "La cotation probabilité / impact reprend le format du registre des risques : le lecteur peut comparer les trois risques d'un coup d'œil."
+    },
+    {
+     "quote": "Announcing a date that we then miss would cost us more credibility than announcing a later one now",
+     "note_fr": "L'argument est formulé dans les termes du lecteur (crédibilité, donc valeur), non en termes de contrainte juridique."
+    },
+    {
+     "quote": "so nobody can be required to move",
+     "note_fr": "Conséquence pratique d'une règle de droit, sans la citer : au-delà du secteur géographique, la mutation suppose l'accord du salarié."
+    },
+    {
+     "quote": "What I need from you by 15 April",
+     "note_fr": "La demande est explicite, datée et limitée à deux points. C'est la phrase qui déclenche l'action."
+    }
+   ],
+   "checklist": [
+    "Does my first paragraph contain my overall conclusion?",
+    "Is each risk rated, explained in two or three sentences and followed by a recommendation?",
+    "Have I written 'proposed' wherever the decision has not yet been taken?",
+    "Have I avoided French acronyms and legal references?",
+    "Is it clear what I am asking for and by when?",
+    "Does the note fit on one page?"
+   ],
+   "phrasebank": [
+    "You asked for a short note on ...",
+    "In brief: ..., and three risks need your attention.",
+    "The plan assumes ...",
+    "... is almost certain to ..., which makes ... unrealistic.",
+    "On past experience, ...",
+    "I recommend ..., together with ...",
+    "What I need from you by ...: ...",
+    "I am happy to talk any of this through."
+   ]
+  },
+  {
+   "id": "wr-ma-6",
+   "title": "A handover note at the end of an interim assignment",
+   "stage": 3,
+   "kind": "report",
+   "brief": "Your nine-month assignment as interim HR Director of Brevane France ends on 30 June. Write the handover note for your successor, Marc Tessier: what has been completed, the open issues, the people he should meet first, and what you suggest he does in his first month.",
+   "brief_fr": "Votre mission de neuf mois comme DRH de transition de Brevane France s'achève le 30 juin. Rédigez la note de passation destinée à votre successeur, Marc Tessier : ce qui est terminé, les dossiers ouverts, les personnes à rencontrer en priorité et vos suggestions pour son premier mois.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the note and where the detailed files are",
+    "What has been completed",
+    "Open issues, in order of risk",
+    "Key people and how to work with them",
+    "Suggested priorities for the first month",
+    "Availability after the handover"
+   ],
+   "model": "Handover note - HR Director, Brevane France\nFrom: Claire Delmas\nTo: Marc Tessier\nDate: 27 June\n\nMarc,\n\nThis note summarises where things stand as I hand over to you. The detailed files are on the shared drive; what follows is what I would want to know in your place.\n\n1. What has been completed\nThe carve-out of the Coatings business completed on 2 May. All 268 employees in scope transferred on their existing terms, and the two employee representatives followed on 20 May, once the labour inspector had given his authorisation. Payroll is run by the seller under the TSA until 31 December.\n\n2. Open issues\nSubstitution agreement. Negotiations opened on 12 June. The unions' priority is working time; ours is a single pay structure. The next meeting is on 9 July, and the costed comparison is in the folder.\nPayroll migration. The parallel run is planned for November. This is the item most likely to go wrong, and I would look at it first.\nLitigation. There are two pending tribunal claims, both about overtime and both covered by the seller's indemnity. Our lawyers have the files.\n\n3. People to meet in your first week\nThe works council secretary, Nadia Ferrand, is demanding but straight; she responds well to being told early. The plant manager, Olivier Brun, is our best ally on site and a flight risk: his retention bonus falls due in November.\n\n4. Suggested priorities for your first month\nMeet each union separately before 9 July; confirm the payroll test plan with Finance; and decide whether to extend the TSA, for which notice must be given by 15 October.\n\nI can be reached until the end of July and would be glad to talk anything through.\n\nGood luck - it is a good team.\n\nClaire",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "what follows is what I would want to know in your place",
+     "note_fr": "La note se place du point de vue du lecteur. « In your place » ou « in your shoes » : à votre place."
+    },
+    {
+     "quote": "All 268 employees in scope transferred on their existing terms",
+     "note_fr": "« To transfer » s'emploie intransitivement pour les salariés. « On their existing terms » = aux conditions en vigueur."
+    },
+    {
+     "quote": "This is the item most likely to go wrong, and I would look at it first",
+     "note_fr": "Un avis net, à la première personne. Le conditionnel « I would » conseille sans donner d'ordre à un pair."
+    },
+    {
+     "quote": "is demanding but straight; she responds well to being told early",
+     "note_fr": "Portrait utile en une ligne : un trait de caractère et un mode d'emploi. « Straight » = franche, loyale."
+    },
+    {
+     "quote": "his retention bonus falls due in November",
+     "note_fr": "« To fall due » = arriver à échéance. Le lecteur comprend seul que le risque de départ commence à cette date."
+    },
+    {
+     "quote": "for which notice must be given by 15 October",
+     "note_fr": "Relative avec préposition antéposée, registre soutenu : elle rattache l'échéance à la décision à prendre."
+    }
+   ],
+   "checklist": [
+    "Could my successor act on this note without calling me?",
+    "Have I distinguished what is finished from what is still open?",
+    "Are the open issues ranked by risk, each with its next date?",
+    "Have I said something useful, and fair, about the key people?",
+    "Are my suggestions phrased as advice and not as instructions?",
+    "Have I said until when I can be reached?"
+   ],
+   "phrasebank": [
+    "This note summarises where things stand as I hand over to you.",
+    "What follows is what I would want to know in your place.",
+    "Negotiations opened on ...; the next meeting is on ...",
+    "This is the item most likely to go wrong.",
+    "... falls due in November.",
+    "... for which notice must be given by ...",
+    "I can be reached until ... and would be glad to talk anything through."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-ma-1",
+   "title": "Why we can't sign on the 15th",
+   "variety": "us",
+   "context": "A call between Brad, who leads the deal team at a US group selling its French subsidiary, and Claire, the subsidiary's interim HR Director. Brad wants to sign with the buyer in two weeks.",
+   "context_fr": "Appel entre Brad, responsable de l'équipe transaction d'un groupe américain qui cède sa filiale française, et Claire, DRH de transition de la filiale. Brad veut signer avec l'acquéreur dans deux semaines.",
+   "lines": [
+    {
+     "speaker": "Brad",
+     "text": "OK, Claire, I'll get right to it. We want to sign with the buyer on the 15th. Legal tells me there's a works council thing that could push that back. Walk me through it.",
+     "note_fr": "« Walk me through it » = expliquez-moi ça pas à pas. « To push back » une date = la repousser."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure. The short version is that in France the seller can't sign a binding agreement until the works council has been informed and consulted. The consultation has to come first.",
+     "note_fr": "« The short version is that... » : annoncer une réponse courte rassure un interlocuteur pressé."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Consulted. So they get a vote?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "No, and that's the good news. They give an opinion, and it's purely advisory. Even if it's negative, you can go ahead. What you can't do is skip the step.",
+     "note_fr": "Structure clivée « What you can't do is... » pour isoler la seule vraie contrainte. « To skip a step » = sauter une étape."
+    },
+    {
+     "speaker": "Brad",
+     "text": "And how long does this step take?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "One month by default. If they bring in an outside expert - and on a sale, I'd expect them to - it's two. So I'd plan on two months from the day we give them the full information.",
+     "note_fr": "« I'd plan on » = je tablerais sur. Elle donne un chiffre prudent plutôt qu'une fourchette."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Two months. That kills the 15th. What if we just sign and consult afterwards? Ask forgiveness, not permission.",
+     "note_fr": "« Ask forgiveness, not permission » : dicton américain, agir d'abord et s'excuser ensuite."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I really wouldn't. It's a criminal offense for management here, and the works council could go to court and have the deal suspended. You'd lose more time than you'd save, and it would be all over the press.",
+     "note_fr": "« I really wouldn't » : refus net mais poli, sans « you can't ». Orthographe américaine : « offense »."
+    },
+    {
+     "speaker": "Brad",
+     "text": "All right, so what are my options? The buyer isn't going to wait around with nothing in hand.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "They don't have to. The standard fix is a put option: the buyer commits to the price and terms now, in writing, and you sign the purchase agreement itself once the opinion is in. Everyone's locked in except you.",
+     "note_fr": "« The standard fix » = la solution habituelle. « Once the opinion is in » = une fois l'avis rendu. « Locked in » = engagé."
+    },
+    {
+     "speaker": "Brad",
+     "text": "So the buyer's on the hook and we still get our certainty. I can sell that. When can you start the clock?",
+     "note_fr": "« On the hook » = engagé, tenu. « To start the clock » = faire courir le délai."
+    },
+    {
+     "speaker": "Claire",
+     "text": "If I get the information memo from your team by Friday, I can convene the works council for the week after. One thing, though: until then, nothing in writing that says the deal is done. 'Proposed transaction', every time.",
+     "note_fr": "« One thing, though » introduit une réserve importante. « To convene » = convoquer (une instance)."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Got it. 'Proposed.' I'll tell the team.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "What can the works council do, according to Claire?",
+     "options": [
+      "Veto the sale",
+      "Give an opinion that does not bind the company",
+      "Negotiate the price with the buyer",
+      "Choose between several buyers"
+     ],
+     "answer": 1,
+     "explain_fr": "« They give an opinion, and it's purely advisory » : avis consultatif, pas de droit de veto. C'est le premier malentendu à dissiper avec un interlocuteur américain."
+    },
+    {
+     "q": "Why does Claire advise against signing first and consulting afterwards?",
+     "options": [
+      "Because the buyer would refuse",
+      "Because it would take two more months",
+      "Because the opinion would then be binding",
+      "Because it is a criminal offense and a court could suspend the deal"
+     ],
+     "answer": 3,
+     "explain_fr": "Elle cite deux risques : la responsabilité pénale des dirigeants et la suspension de l'opération par le juge, puis ramène le tout à l'argument qui porte, le temps perdu."
+    },
+    {
+     "q": "What does the put option achieve?",
+     "options": [
+      "The buyer is committed now, and the seller signs after the consultation",
+      "The seller is committed now, and the buyer signs later",
+      "Both parties sign the final agreement immediately",
+      "The works council no longer needs to be consulted"
+     ],
+     "answer": 0,
+     "explain_fr": "« Everyone's locked in except you » : l'acquéreur s'engage unilatéralement ; le vendeur reste libre jusqu'à l'avis du CSE, ce qui respecte la règle."
+    }
+   ]
+  },
+  {
+   "id": "dl-ma-2",
+   "title": "First meeting with the new CEO",
+   "variety": "uk",
+   "context": "Andrew, a British executive, has just been appointed CEO of the French subsidiary. Four days after his arrival he meets Claire, the interim HR Director, for the first time.",
+   "context_fr": "Andrew, dirigeant britannique, vient d'être nommé directeur général de la filiale française. Quatre jours après son arrivée, il rencontre pour la première fois Claire, DRH de transition.",
+   "lines": [
+    {
+     "speaker": "Andrew",
+     "text": "Claire, thanks for making the time. I've been here four days and I've already been told three different things about the works council, so I thought I'd better hear it from you.",
+     "note_fr": "« I'd better » (= I had better) + base verbale : je ferais bien de. « To hear it from you » = l'apprendre de votre bouche."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Very wise. Shall I start with where we are, and then what I think you'll need to decide in the next month or so?",
+     "note_fr": "« Shall I...? » pour proposer un plan : très britannique. « Or so » = environ."
+    },
+    {
+     "speaker": "Andrew",
+     "text": "Please. And don't spare me - I'd rather know.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Right. The relationship with the unions is workable but a bit bruised. The sale was announced in the press before the works council was told, and they haven't quite forgiven us.",
+     "note_fr": "Litote britannique : « a bit bruised », « haven't quite forgiven us ». Le fond est sévère, la forme reste mesurée."
+    },
+    {
+     "speaker": "Andrew",
+     "text": "Ah. Not a great start. Is that something I can put right, or is it water under the bridge?",
+     "note_fr": "« To put something right » = réparer. « Water under the bridge » = de l'histoire ancienne."
+    },
+    {
+     "speaker": "Claire",
+     "text": "You can, actually. It would go a long way if you met the works council secretary informally this week, before your first formal meeting. Nothing to announce - just to listen.",
+     "note_fr": "« It would go a long way if... » = cela ferait beaucoup. Conseil donné au conditionnel, sans « you should »."
+    },
+    {
+     "speaker": "Andrew",
+     "text": "Happy to. Now, London wants me to bring the French terms into line with the group's by the end of the year. Is that realistic?",
+     "note_fr": "« To bring into line with » = aligner sur."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Honestly, not by year end. Here, harmonisation is negotiated with the unions, not decided by management, and they'll want to see the figures first. Next summer would be ambitious but doable.",
+     "note_fr": "Elle dit non, explique en une phrase et propose aussitôt une autre date. « Doable » = faisable (familier mais courant)."
+    },
+    {
+     "speaker": "Andrew",
+     "text": "London won't love that. Could you put it in a short note I can send up the line? One page, no legalese.",
+     "note_fr": "« London won't love that » : euphémisme pour « Londres sera mécontent ». « Up the line » = à la hiérarchie. « Legalese » = jargon juridique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Of course. I'll set out the timetable, the two or three risks and what I'd need from Finance. You'll have it by Thursday.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Andrew",
+     "text": "Perfect. One last thing - how long are you with us? I gather you're interim.",
+     "note_fr": "« I gather » = je crois comprendre que. « You're interim » : l'adjectif s'emploie seul."
+    },
+    {
+     "speaker": "Claire",
+     "text": "My assignment runs until the end of June. I'd suggest we start looking for a permanent HR Director by March, so that there's a proper handover.",
+     "note_fr": "« My assignment runs until » : pas « my mission ». « I'd suggest we start » : suggestion + base verbale."
+    },
+    {
+     "speaker": "Andrew",
+     "text": "Noted. I have a feeling I'll be trying to talk you into staying.",
+     "note_fr": "« To talk someone into doing something » = convaincre quelqu'un de faire quelque chose."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is the relationship with the unions 'a bit bruised'?",
+     "options": [
+      "Because the previous CEO refused to meet them",
+      "Because of a dispute over pay",
+      "Because the press heard about the sale before the works council did",
+      "Because the works council voted against the sale"
+     ],
+     "answer": 2,
+     "explain_fr": "« The sale was announced in the press before the works council was told » : l'ordre des annonces n'a pas été respecté, d'où la défiance."
+    },
+    {
+     "q": "What does Claire recommend Andrew do first?",
+     "options": [
+      "Meet the works council secretary informally, simply to listen",
+      "Announce the harmonisation timetable",
+      "Write to all employees",
+      "Wait for the first formal meeting"
+     ],
+     "answer": 0,
+     "explain_fr": "« Nothing to announce - just to listen » : un geste informel avant la première réunion officielle, pour réparer la relation."
+    },
+    {
+     "q": "What is Claire's view of harmonising terms by the end of the year?",
+     "options": [
+      "It is easy, because management decides",
+      "It is impossible under French law",
+      "It depends on London's budget",
+      "It is unrealistic; next summer is ambitious but achievable"
+     ],
+     "answer": 3,
+     "explain_fr": "« Not by year end... Next summer would be ambitious but doable » : elle refuse l'échéance, pas l'objectif, et propose une date de remplacement."
+    }
+   ]
+  },
+  {
+   "id": "dl-ma-3",
+   "title": "Thirty days to Day One",
+   "variety": "us",
+   "context": "Dana, the Integration Lead of a US buyer, runs a Day One planning call with Claire, interim HR Director of the French business being acquired. Closing is thirty days away.",
+   "context_fr": "Dana, responsable de l'intégration chez un acquéreur américain, anime un point de préparation du « Day One » avec Claire, DRH de transition de l'activité française rachetée. La réalisation de l'opération est prévue dans trente jours.",
+   "lines": [
+    {
+     "speaker": "Dana",
+     "text": "OK, we're thirty days out. Let's run through Day One for France. Claire, what absolutely has to work on the first morning?",
+     "note_fr": "« Thirty days out » = à trente jours de l'échéance. « To run through » = passer en revue."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Three things: people get paid, they know who they report to, and their badge and their laptop work. If those are right, the rest can wait a week.",
+     "note_fr": "Réponse en trois points annoncés d'emblée : format idéal pour une réunion de projet américaine."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Payroll first, then. Are we good?",
+     "note_fr": "« Are we good? » = tout est en ordre ? (familier, américain)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "We are. The seller keeps running it under the TSA through December. The risk isn't Day One, it's January, when we switch to our own system.",
+     "note_fr": "« Through December » (US) = jusqu'à fin décembre inclus ; un Britannique dirait « until the end of December »."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Flag that as yellow and we'll come back to it. What about the letters to employees? Legal wants everyone to sign a new contract.",
+     "note_fr": "« Yellow » : l'orange du feu tricolore des tableaux de bord américains (« amber » au Royaume-Uni)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's the one thing I'd push back on. Their contracts transfer automatically - there's nothing to sign. If we ask them to sign something, they'll assume we're changing their terms, and the unions will be on the phone by noon.",
+     "note_fr": "« That's the one thing I'd push back on » : désaccord ciblé et assumé, très naturel en contexte américain."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Huh. So what do they get?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "A welcome letter confirming that their contract, pay and seniority carry over unchanged, and telling them who their manager is. One page, from the new CEO.",
+     "note_fr": "« Seniority » pour l'ancienneté : usage américain. « To carry over » = être repris, conservé."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Works for me. Now, can my team start meeting with their plant managers next week to walk them through our processes?",
+     "note_fr": "« Works for me » = ça me va. « To meet with » est américain ; « to meet » suffit en anglais britannique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Introductions, yes. Instructions, no. Until closing they're still a separate company, and your antitrust lawyers will tell you the same thing. We can plan together, but we can't start running them.",
+     "note_fr": "Opposition frappante et facile à retenir : « Introductions, yes. Instructions, no. » C'est la règle du gun-jumping dite simplement."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Fair enough. Last item: the town hall. Who's on stage?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Your CEO and the plant manager, side by side. People need to see a face they know next to the new one. I'll have talking points and a Q&A to you by Wednesday.",
+     "note_fr": "« I'll have X to you by Wednesday » = vous aurez X d'ici mercredi : tournure orale très courante pour promettre un livrable."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Great. I think we're in good shape. Same time next week?",
+     "note_fr": "« To be in good shape » = être en bonne voie."
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to Claire, when is the real payroll risk?",
+     "options": [
+      "On Day One",
+      "During the TSA period",
+      "In January, when payroll moves to the buyer's own system",
+      "At the town hall"
+     ],
+     "answer": 2,
+     "explain_fr": "« The risk isn't Day One, it's January » : tant que le vendeur assure la paie au titre du TSA, tout va bien ; le risque naît à la bascule."
+    },
+    {
+     "q": "Why does Claire object to asking employees to sign a new contract?",
+     "options": [
+      "Because their contracts transfer automatically and signing would suggest their terms are changing",
+      "Because the unions must sign first",
+      "Because the labor inspector must approve the contracts",
+      "Because the seller would object"
+     ],
+     "answer": 0,
+     "explain_fr": "Le transfert est automatique : faire signer un document laisserait croire à une modification du contrat et inquiéterait inutilement."
+    },
+    {
+     "q": "What may the buyer's team do before closing?",
+     "options": [
+      "Give instructions to the plant managers",
+      "Take over the running of the plants",
+      "Nothing at all",
+      "Meet the plant managers and plan, without directing them"
+     ],
+     "answer": 3,
+     "explain_fr": "« Introductions, yes. Instructions, no. » : on peut se rencontrer et planifier, pas diriger. Avant la réalisation, les deux sociétés restent indépendantes."
+    }
+   ]
+  },
+  {
+   "id": "dl-ma-4",
+   "title": "Harmonising benefits after the transfer",
+   "variety": "uk",
+   "context": "Priya, Group Reward Manager in London, calls Claire to discuss her comparison of the terms that apply to two French sites, Rouen (transferred from another company) and Lyon.",
+   "context_fr": "Priya, responsable rémunération et avantages sociaux du groupe à Londres, appelle Claire au sujet de son tableau comparatif des statuts applicables à deux sites français : Rouen (issu d'un transfert) et Lyon.",
+   "lines": [
+    {
+     "speaker": "Priya",
+     "text": "Hi Claire. I've got your side-by-side comparison open. It's very thorough, though I confess some of it is a mystery to me. What's a 'thirteenth month'?",
+     "note_fr": "« I confess... is a mystery to me » : manière britannique et élégante de dire « je ne comprends pas »."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It's an extra month's salary paid in December. The Rouen people have it under their old company agreement; the Lyon people don't.",
+     "note_fr": "Glose en une phrase d'une notion française : définition simple, puis qui en bénéficie."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Right. And the group view is that we'd rather not roll that out to everyone, obviously. Can we just phase it out for Rouen?",
+     "note_fr": "« To roll out » = généraliser, déployer. « To phase out » = supprimer progressivement."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not unilaterally, I'm afraid. Their agreements carry on applying for up to fifteen months after the transfer, and after that their overall pay is protected unless we've negotiated something to replace them.",
+     "note_fr": "« Not unilaterally, I'm afraid » : le refus porte sur la méthode, pas sur l'objectif. « I'm afraid » adoucit."
+    },
+    {
+     "speaker": "Priya",
+     "text": "That's interesting. In the UK we'd hardly be able to touch transferred terms at all, so in a way you've got more room than we have.",
+     "note_fr": "Allusion à TUPE, qui protège fortement les conditions des salariés transférés. « Hardly... at all » = pratiquement pas."
+    },
+    {
+     "speaker": "Claire",
+     "text": "In a way, yes - but only through negotiation. The unions know that perfectly well, so the question is what we put on the table in exchange.",
+     "note_fr": "« To put something on the table » = proposer dans une négociation."
+    },
+    {
+     "speaker": "Priya",
+     "text": "What do you have in mind?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "One option would be to fold the thirteenth month into base salary for Rouen, so nobody loses out, and to offer Lyon better health cover. It isn't levelling up across the board, but everyone gets something.",
+     "note_fr": "« To fold into » = intégrer dans. « To lose out » = y perdre. « Across the board » = pour tout le monde, sans exception."
+    },
+    {
+     "speaker": "Priya",
+     "text": "And the cost?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Roughly neutral on the thirteenth month; the health cover is where the money goes. I'd rather not quote a figure until Finance has checked my numbers.",
+     "note_fr": "« I'd rather not quote a figure until... » : refuser de s'engager sur un chiffre non vérifié, sans paraître évasive."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Fair enough. Could you get me something by the end of next week? I'll need to take it to the reward committee.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Yes, that should be fine. I'll send you two costed scenarios and a recommendation.",
+     "note_fr": "« Costed » = chiffré. « That should be fine » : engagement mesuré, typiquement britannique."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Lovely. And do put in a line explaining the thirteenth month - I won't be the only one who asks.",
+     "note_fr": "« Do put in » : le « do » d'insistance rend la demande plus chaleureuse. « Lovely » = parfait (UK)."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why can't the thirteenth month simply be phased out for the Rouen employees?",
+     "options": [
+      "Because it is written into each individual contract",
+      "Because their former agreements still apply for a time and their pay is then protected unless a new agreement replaces them",
+      "Because the Lyon employees would object",
+      "Because the group has promised to keep it"
+     ],
+     "answer": 1,
+     "explain_fr": "Claire résume le délai de survie des accords puis la garantie de rémunération : rien ne peut être supprimé unilatéralement, tout passe par la négociation."
+    },
+    {
+     "q": "What does Priya find surprising?",
+     "options": [
+      "That French employers pay a thirteenth month",
+      "That the unions are involved",
+      "That there is, in a sense, more scope to change transferred terms in France than in the UK",
+      "That the comparison is so detailed"
+     ],
+     "answer": 2,
+     "explain_fr": "« You've got more room than we have » : au Royaume-Uni, TUPE interdit quasiment de modifier les conditions transférées ; en France, la négociation collective le permet."
+    },
+    {
+     "q": "What does Claire propose?",
+     "options": [
+      "Extending the thirteenth month to Lyon",
+      "Removing the thirteenth month after fifteen months",
+      "Keeping the two sites on different terms for good",
+      "Building the thirteenth month into Rouen's base salary and improving Lyon's health cover"
+     ],
+     "answer": 3,
+     "explain_fr": "« To fold the thirteenth month into base salary... and to offer Lyon better health cover » : une contrepartie pour chacun, sans alignement général par le haut."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-ma-1",
+   "title": "Presenting the people risks of a carve-out to the board",
+   "situation": "You are the interim HR Director of a French company whose owner intends to carve out and sell one of its businesses (about 300 employees). You have ten minutes at the board meeting to present the employee-relations risks and answer the directors' questions.",
+   "situation_fr": "Vous êtes DRH de transition d'une société française dont l'actionnaire veut détourer puis céder l'une des activités (environ 300 salariés). Vous disposez de dix minutes en conseil d'administration pour présenter les risques sociaux et répondre aux administrateurs.",
+   "turns": [
+    {
+     "say": "Claire, you have ten minutes. What are the main people risks in this carve-out?",
+     "seconds": 40,
+     "model": "Thank you. There are three, and I'll take them in order of importance. First, timing: the works council has to be consulted before we sign. Second, retention: about fifteen people hold skills the business can't run without. Third, separation: this business has never had its own payroll or HR systems.",
+     "tips_fr": "Annoncez le nombre de points, puis un mot-clé par risque (timing, retention, separation). Dites « people risks », jamais « social risks »."
+    },
+    {
+     "say": "Let's take the first one. Can the works council stop the deal?",
+     "seconds": 30,
+     "model": "No. Its opinion is advisory, and a negative opinion doesn't prevent us from going ahead. What it can do is slow us down if we handle the process badly, so my advice is to give full information from the start and to allow two months.",
+     "tips_fr": "Répondez d'abord par oui ou par non, puis nuancez. « What it can do is... » isole le vrai risque : le retard, pas le blocage."
+    },
+    {
+     "say": "How worried should we be about losing people?",
+     "seconds": 35,
+     "model": "Fairly worried, I'd say, though it's manageable. The contracts transfer automatically, so nobody leaves by default, but nobody is tied in either. I'd recommend retention bonuses for the fifteen, payable six months after completion, and an early conversation with each of them.",
+     "tips_fr": "Graduez votre réponse (« fairly worried, though manageable »), puis passez tout de suite à la recommandation. « Tied in » = lié, retenu."
+    },
+    {
+     "say": "What is this going to cost us?",
+     "seconds": 30,
+     "model": "I'd rather not give you a figure I can't stand behind today. The two main items are the retention plan and the cost of running HR on a standalone basis. I can bring you a costed estimate, agreed with Finance, at the next meeting.",
+     "tips_fr": "Ne pas improviser un chiffre devant un conseil : « a figure I can't stand behind ». Donnez la structure du coût et une date."
+    },
+    {
+     "say": "And if you had to pick one thing that could go badly wrong?",
+     "seconds": 30,
+     "model": "A leak. If employees read about the sale in the press before their representatives have been told, we lose their trust and we hand the unions a legal argument. So the communication plan matters as much as the legal timetable.",
+     "tips_fr": "Une réponse en un mot, puis l'explication : très efficace à l'oral. « To hand someone an argument » = offrir un argument à quelqu'un."
+    }
+   ]
+  },
+  {
+   "id": "rp-ma-2",
+   "title": "Pushing back on an unrealistic timetable",
+   "situation": "Mark, the Group Chief Operating Officer, wants French payroll and HR administration moved to the group's shared service centre in Kraków within eight weeks. Nine jobs in France are affected. Explain why the date cannot be met and offer an alternative he can defend.",
+   "situation_fr": "Mark, directeur des opérations du groupe, veut que la paie et l'administration du personnel françaises soient transférées en huit semaines au centre de services partagés du groupe à Cracovie. Neuf postes sont concernés en France. Expliquez pourquoi l'échéance est intenable et proposez une alternative qu'il pourra défendre.",
+   "turns": [
+    {
+     "say": "We need French payroll and HR admin in the Kraków centre by 1 March. That gives you eight weeks. Any problem with that?",
+     "seconds": 35,
+     "model": "I understand why March matters, and I want to get you there as quickly as I can. But eight weeks isn't achievable in France, and I'd rather tell you now than in February. The works council has to be consulted before the decision is taken, and that alone takes one to two months.",
+     "tips_fr": "Commencez par reconnaître son objectif avant de dire non. « I'd rather tell you now than in February » justifie votre franchise."
+    },
+    {
+     "say": "Every other country did it in eight weeks. Why is France always different?",
+     "seconds": 35,
+     "model": "I know it's frustrating. The difference is that here consultation comes before the decision, and because jobs are affected there's a further procedure to follow. It isn't a question of goodwill: if we skip a step, a court can freeze the whole project.",
+     "tips_fr": "Ne défendez pas la France : expliquez la mécanique et le risque. « It isn't a question of goodwill » désamorce le reproche."
+    },
+    {
+     "say": "So what date can you give me?",
+     "seconds": 30,
+     "model": "Realistically, 1 June. I can start the consultation in two weeks if I have the business case from your team, and we could move the less sensitive activities first - HR administration, say. That would give you something to show by April.",
+     "tips_fr": "Donnez une date ferme, la condition pour la tenir et un résultat intermédiaire. « Say » = par exemple, à l'oral."
+    },
+    {
+     "say": "June is going to be a hard sell to the board.",
+     "seconds": 30,
+     "model": "I can see that. Would it help if I put the timetable and the risks on one page for you? What I'd stress is that June is a date we can keep; March is a date we'd almost certainly miss, and publicly.",
+     "tips_fr": "Offrez de l'aider à convaincre sa propre hiérarchie. L'opposition « a date we can keep / a date we'd miss » est l'argument central."
+    },
+    {
+     "say": "All right. What do you need from me this week?",
+     "seconds": 25,
+     "model": "Two things: the business case, in writing, by Friday, and your agreement that nobody tells the French team it's a done deal. Until the consultation is over, it's a proposal.",
+     "tips_fr": "Terminez par des demandes précises et datées. « A done deal » = une affaire entendue : exactement ce qu'il ne faut pas laisser dire."
+    }
+   ]
+  },
+  {
+   "id": "rp-ma-3",
+   "title": "Explaining the automatic transfer of contracts",
+   "situation": "Karen, VP Human Resources of a US group that is buying a French business through an asset deal, assumes she can choose which employees to take on. Explain how the automatic transfer of employment contracts works and what it means for her in practice.",
+   "situation_fr": "Karen, vice-présidente RH d'un groupe américain qui rachète une activité française sous forme de cession d'actifs, pense pouvoir choisir les salariés qu'elle reprend. Expliquez-lui le transfert automatique des contrats de travail et ses conséquences pratiques.",
+   "turns": [
+    {
+     "say": "In the States we'd just make offers to the people we want. Why can't we do that here?",
+     "seconds": 35,
+     "model": "Because in France - and across the European Union, in fact - the employees go with the business. If you buy the activity, the contracts of the people assigned to it transfer to you automatically on the day the sale closes. You don't choose, and neither do they.",
+     "tips_fr": "Reprenez sa référence américaine, puis énoncez le principe en une image simple : « the employees go with the business »."
+    },
+    {
+     "say": "So we inherit everyone? Even the poor performers?",
+     "seconds": 30,
+     "model": "Everyone who's assigned to the business, yes. You take them on their existing terms, with their length of service. If there are performance issues, you deal with them afterwards, as their employer, under the normal rules.",
+     "tips_fr": "Confirmez sans vous excuser, puis ouvrez une porte : la gestion de la performance reste possible après le transfert, selon le droit commun."
+    },
+    {
+     "say": "Can we at least change their pay and benefits to match ours?",
+     "seconds": 35,
+     "model": "Not on day one. An individual contract can only be changed with the employee's agreement. The collective agreements are a different matter: they continue for a transitional period, and during that time you negotiate new ones with the unions.",
+     "tips_fr": "Distinguez nettement contrat individuel et accords collectifs. « A different matter » = une autre affaire."
+    },
+    {
+     "say": "What about liabilities? Unpaid overtime, that kind of thing?",
+     "seconds": 35,
+     "model": "As the new employer, you become answerable to the employees for what was owed at the transfer date. That's why the due diligence matters, and why we'll want an indemnity from the seller in the purchase agreement for anything that predates closing.",
+     "tips_fr": "« Answerable to » = responsable envers. Reliez tout de suite le risque à ses deux parades : l'audit et la garantie du vendeur."
+    },
+    {
+     "say": "OK. What should we tell employees on the first day?",
+     "seconds": 30,
+     "model": "Keep it simple: your contract, your pay and your seniority are unchanged, and here's who you report to. I wouldn't ask them to sign anything - there's nothing to sign, and it would only worry them.",
+     "tips_fr": "Trois éléments rassurants, une information pratique. « I wouldn't... » : conseil négatif formulé avec tact."
+    }
+   ]
+  },
+  {
+   "id": "rp-ma-4",
+   "title": "Pitching yourself for an interim assignment",
+   "situation": "Helen, Operating Partner at a private equity firm, is looking for an interim HR Director to handle the employee-relations side of a carve-out in Normandy (300 employees). Present your experience and explain how you would approach the assignment.",
+   "situation_fr": "Helen, operating partner d'un fonds d'investissement, cherche une DRH de transition pour piloter le volet social d'un carve-out en Normandie (300 salariés). Présentez votre parcours et expliquez comment vous aborderiez la mission.",
+   "turns": [
+    {
+     "say": "Thanks for coming in. Tell me briefly about your background.",
+     "seconds": 40,
+     "model": "Of course. I've spent twenty years in labour relations, the last eight as an interim HR Director, mostly in French subsidiaries of foreign groups. My assignments are nearly always transformations: carve-outs, site transfers, integrations. I'm the person head office calls when the French side gets complicated.",
+     "tips_fr": "Present perfect pour un parcours qui continue (« I've spent »). Terminez par une phrase qui vous positionne. Dites « assignments », pas « missions »."
+    },
+    {
+     "say": "We're carving out a business of 300 people in Normandy. What would you do in your first month?",
+     "seconds": 40,
+     "model": "Three things. I'd meet the works council and the union representatives in the first week, because everything else depends on that relationship. I'd map who's in scope and who the key people are. And I'd give you a one-page risk register with a realistic timetable by the end of week three.",
+     "tips_fr": "Conditionnel (« I'd meet », « I'd map ») pour un plan hypothétique. Trois actions concrètes, dont un livrable daté : c'est ce qu'attend un fonds."
+    },
+    {
+     "say": "The management team there isn't used to private equity. How do you handle that?",
+     "seconds": 35,
+     "model": "By translating in both directions. I explain to the local team what a fund needs - numbers, dates, no surprises - and I explain to you what French law requires and why. In my experience, most of the friction comes from misunderstanding, not from bad faith.",
+     "tips_fr": "Une formule qui résume votre valeur ajoutée (« translating in both directions »), puis son illustration. « In my experience » ancre le propos."
+    },
+    {
+     "say": "What's the biggest mistake you've seen on a deal like this?",
+     "seconds": 35,
+     "model": "Announcing a date before checking it with someone who knows the consultation process. I was once brought in after a signing had been announced and then postponed twice. We got there in the end, but it cost the client three months and a good deal of credibility.",
+     "tips_fr": "Racontez un cas bref : situation, conséquence, leçon implicite. « To be brought in » = être appelé en renfort. « We got there in the end » = nous y sommes arrivés."
+    },
+    {
+     "say": "And why you, rather than one of the big firms?",
+     "seconds": 30,
+     "model": "Because you'd get me, on site, four days a week - not a partner at the pitch and a junior afterwards. I've done this five times, I can hit the ground running, and I'll hand over properly when the job is done.",
+     "tips_fr": "Soyez directe : en entretien anglo-saxon, la modestie excessive dessert. Trois arguments courts, dont la passation en fin de mission."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Explaining a French legal constraint without sounding obstructive",
+   "function_fr": "Expliquer une contrainte juridique française sans paraître faire obstruction",
+   "phrases": [
+    {
+     "text": "The short version is that in France consultation comes before the decision.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "It isn't a veto, but it is a step we can't skip.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Under French law, the seller may not enter into a binding agreement until the works council has been consulted.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'm afraid French law doesn't leave us much room for manoeuvre on this point.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "There's no getting around this one, but there is a standard fix.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Think of it as a waiting period, not a roadblock.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "The good news is that the process is capped by time limits.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "If we cut corners here, a court can freeze the whole thing.",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Giving a status update and flagging a risk upwards",
+   "function_fr": "Faire un point d'avancement et signaler un risque à la hiérarchie",
+   "phrases": [
+    {
+     "text": "Overall we're on track, with one exception.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'd rate this amber: manageable, but it needs watching.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "I'd call this one yellow: we're fine today, but it could turn.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "I wanted to flag this early, before it becomes a problem.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The principal risk to the timetable is the appointment of an expert by the works council.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Here's the risk, here's what we're doing about it, and here's what I need from you.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Just a heads-up: the payroll test has slipped a week.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "I would ask the committee to approve the extension as a precaution.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Answering questions you cannot fully answer yet",
+   "function_fr": "Répondre à une question à laquelle on ne peut pas encore répondre complètement",
+   "phrases": [
+    {
+     "text": "I don't have an answer to that yet, and I'd rather say so than guess.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "What I can tell you today is that your contracts transfer unchanged.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "No decision has been taken, and none will be until your representatives have been consulted.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "That's a fair question, and I wish I could give you a fuller answer.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "We'll come back to you on that by the end of the month.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Let me take that one away and get back to you.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Let me look into that and circle back.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "I'm not going to stand here and make promises I can't keep.",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  }
+ ]
+}
