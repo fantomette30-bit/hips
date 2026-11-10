@@ -1,0 +1,1659 @@
+{
+ "reading": [
+  {
+   "id": "rd-cl-1",
+   "title": "Why the announcement has to wait: consulting the French works councils",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Helen Marsh, Group HR Director, Brackley Group plc\nFrom: Labour Relations Director, Brackley France\nRe: Project Kestrel - consultation timetable",
+    "You asked why the merger of the Lyon and Grenoble customer service teams cannot be announced to staff next week. The short answer is that, in France, the works council must be informed and consulted before any decision of this kind is taken, and not once it has been made.",
+    "Because the project was designed at company level and affects two sites, it goes first to the central works council, which I chair, and then to the two site works councils for the measures specific to each location. Each body receives a written briefing setting out the reasons for the project, its timetable and its likely impact on jobs and working conditions.",
+    "The councils then have a fixed period in which to deliver their opinion. In the absence of an agreement, the time limit is one month, two months if an expert is appointed, and up to three where both levels are consulted and an expert is involved. I would expect the central council to appoint an expert, whose fees fall largely to the company.",
+    "Two points are worth stressing. First, the opinion is advisory: an unfavourable opinion does not prevent us from going ahead. Secondly, the timing is not a formality. A decision announced as final before the consultation has run its course exposes the company to a court order suspending the project and, in the worst case, to prosecution for obstruction, which is a criminal offence here.",
+    "My recommendation is therefore to put Kestrel on the agenda of the central council's April meeting, to brief its secretary informally beforehand, and to hold back any wider announcement until the opinions have been delivered or the time limit has expired. Board papers should refer to a 'proposed' reorganisation throughout."
+   ],
+   "glossary": [
+    {
+     "term": "central works council",
+     "plain": "the employee body for the whole company, above the councils of each site",
+     "fr": "CSE central"
+    },
+    {
+     "term": "site works councils",
+     "plain": "the employee bodies elected at each location",
+     "fr": "CSE d'établissement"
+    },
+    {
+     "term": "deliver their opinion",
+     "plain": "say formally what they think of the plan",
+     "fr": "rendre leur avis"
+    },
+    {
+     "term": "time limit",
+     "plain": "the latest moment by which something must be done",
+     "fr": "délai"
+    },
+    {
+     "term": "advisory",
+     "plain": "giving a view that does not have to be followed",
+     "fr": "consultatif"
+    },
+    {
+     "term": "unfavourable opinion",
+     "plain": "a formal statement that the council is against the plan",
+     "fr": "avis défavorable"
+    },
+    {
+     "term": "obstruction",
+     "plain": "the offence of preventing staff representatives from doing their job",
+     "fr": "délit d'entrave"
+    },
+    {
+     "term": "agenda",
+     "plain": "the list of items to be discussed at a meeting",
+     "fr": "ordre du jour"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "In the absence of an agreement",
+     "plain": "if no agreement says otherwise"
+    },
+    {
+     "phrase": "has run its course",
+     "plain": "has reached its normal end"
+    },
+    {
+     "phrase": "exposes the company to",
+     "plain": "puts the company at risk of"
+    },
+    {
+     "phrase": "fall largely to the company",
+     "plain": "are mostly paid by the company"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why can't the merger be announced next week?",
+     "options": [
+      "The unions have threatened to strike.",
+      "The works councils must be consulted before the decision is taken.",
+      "The board has not yet seen the project.",
+      "The expert's report was unfavourable."
+     ],
+     "answer": 1,
+     "explain_fr": "En France, la consultation du CSE précède la décision : « before any decision of this kind is taken, and not once it has been made »."
+    },
+    {
+     "q": "Which body is consulted first, and why?",
+     "options": [
+      "The Lyon site council, because it is the larger site.",
+      "The European Works Council, because the parent is British.",
+      "The central works council, because the project was designed at company level.",
+      "The union delegates, because pay is affected."
+     ],
+     "answer": 2,
+     "explain_fr": "Le projet est conçu au niveau de l'entreprise et touche deux sites : le CSE central est donc consulté d'abord, puis les CSE d'établissement."
+    },
+    {
+     "q": "What happens if the central council delivers an unfavourable opinion?",
+     "options": [
+      "The company may still go ahead.",
+      "The project must be withdrawn.",
+      "The labour inspector decides.",
+      "A second consultation must be held."
+     ],
+     "answer": 0,
+     "explain_fr": "L'avis est consultatif (« advisory ») : il ne lie pas l'employeur."
+    },
+    {
+     "q": "What is the writer's advice about board papers?",
+     "options": [
+      "They should not mention the project at all.",
+      "They should be sent to the council secretary.",
+      "They should be translated into French.",
+      "They should describe the reorganisation as 'proposed'."
+     ],
+     "answer": 3,
+     "explain_fr": "Parler d'un projet « proposed » évite de laisser penser que la décision est déjà prise, ce qui caractériserait une entrave."
+    }
+   ]
+  },
+  {
+   "id": "rd-cl-2",
+   "title": "Agreement on social dialogue - resources of representatives",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "ARTICLE 7 - EXERCISE OF REPRESENTATIVE DUTIES",
+    "7.1 Each full member of an establishment-level Social and Economic Committee shall be entitled to a monthly allowance of [twenty-two] hours of paid time off for representative duties. Such time shall be deemed to be working time and shall be paid on the normal pay date.",
+    "7.2 Time spent at meetings convened by the Company, including meetings of the Central Social and Economic Committee, shall not be deducted from the allowance referred to in Article 7.1.",
+    "7.3 Unused hours may be carried over from one month to the next, or shared between full members and their substitutes, within the limits laid down by law and provided that the Company is given no less than eight days' written notice.",
+    "7.4 Representatives shall inform their line manager before leaving their workstation, by means of the form appended hereto. Such information is given for organisational purposes only and shall under no circumstances be construed as a request for permission.",
+    "7.5 The Company shall ensure that the holding of office has no adverse effect on a representative's pay, training or career progression. To that end, each representative shall be offered a meeting with Human Resources at the beginning and at the end of his or her term of office.",
+    "7.6 Elected members and union delegates shall be bound by a duty of discretion in respect of information which is confidential in nature and is expressly presented as such by the Company.",
+    "7.7 Nothing in this Article shall prejudice any more favourable provision of the applicable industry-level agreement."
+   ],
+   "glossary": [
+    {
+     "term": "paid time off for representative duties",
+     "plain": "paid hours that representatives may spend on their role instead of their job",
+     "fr": "heures de délégation"
+    },
+    {
+     "term": "full member",
+     "plain": "an elected member with a seat of their own, not a replacement",
+     "fr": "titulaire"
+    },
+    {
+     "term": "substitutes",
+     "plain": "members elected to replace full members who are absent",
+     "fr": "suppléants"
+    },
+    {
+     "term": "carried over",
+     "plain": "kept and used in a later period",
+     "fr": "reportées"
+    },
+    {
+     "term": "line manager",
+     "plain": "the person an employee reports to directly",
+     "fr": "responsable hiérarchique"
+    },
+    {
+     "term": "term of office",
+     "plain": "the period for which someone is elected",
+     "fr": "mandat"
+    },
+    {
+     "term": "duty of discretion",
+     "plain": "an obligation not to pass on confidential information",
+     "fr": "obligation de discrétion"
+    },
+    {
+     "term": "industry-level agreement",
+     "plain": "an agreement negotiated for a whole sector",
+     "fr": "accord de branche"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "shall be deemed to be",
+     "plain": "is treated in law as"
+    },
+    {
+     "phrase": "appended hereto",
+     "plain": "attached to this document"
+    },
+    {
+     "phrase": "shall under no circumstances be construed as",
+     "plain": "must never be interpreted as"
+    },
+    {
+     "phrase": "To that end",
+     "plain": "in order to achieve this"
+    },
+    {
+     "phrase": "Nothing in this Article shall prejudice",
+     "plain": "this Article does not take away or reduce"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How is time spent on representative duties treated?",
+     "options": [
+      "As working time, paid as usual.",
+      "As unpaid leave.",
+      "As overtime, paid at a higher rate.",
+      "As training time."
+     ],
+     "answer": 0,
+     "explain_fr": "Art. 7.1 : les heures sont « deemed to be working time » et payées à l'échéance normale."
+    },
+    {
+     "q": "What does Article 7.2 say about meetings called by the Company?",
+     "options": [
+      "They count double against the allowance.",
+      "They are limited to one a month.",
+      "They must take place outside working hours.",
+      "They are not deducted from the monthly allowance."
+     ],
+     "answer": 3,
+     "explain_fr": "Le temps passé aux réunions convoquées par l'employeur ne s'impute pas sur le crédit d'heures."
+    },
+    {
+     "q": "Must a representative obtain permission before using these hours?",
+     "options": [
+      "Yes, from the line manager.",
+      "No: the manager is simply informed, for organisational purposes.",
+      "Yes, from Human Resources.",
+      "Only if more than eight hours are taken."
+     ],
+     "answer": 1,
+     "explain_fr": "Art. 7.4 : l'information du responsable n'est pas une demande d'autorisation (« under no circumstances... a request for permission »)."
+    },
+    {
+     "q": "What is the purpose of the meetings with Human Resources in Article 7.5?",
+     "options": [
+      "To check how the hours have been used.",
+      "To prepare the next elections.",
+      "To make sure that holding office does not harm the representative's career.",
+      "To agree the agenda of council meetings."
+     ],
+     "answer": 2,
+     "explain_fr": "Ces entretiens de début et de fin de mandat visent à garantir que le mandat ne pénalise ni la rémunération ni l'évolution de carrière."
+    }
+   ]
+  },
+  {
+   "id": "rd-cl-3",
+   "title": "A site director writes to staff during a strike",
+   "kind": "letter",
+   "level": 2,
+   "paragraphs": [
+    "Dear colleagues,",
+    "As you know, part of the logistics team at our Orléans site has been on strike since Tuesday in support of a pay claim. I am writing to explain where things stand and what happens next.",
+    "Let me say at the outset that the right to strike is a constitutional right, and the company fully respects it. No one will be penalised for taking part in the stoppage. Equally, colleagues who choose to work are entitled to do so, and I would ask everyone on the picket line to keep the gates clear so that people and vehicles can enter and leave the site safely.",
+    "On pay, the position is straightforward. Time not worked because of the strike will not be paid, and the deduction will be strictly proportionate to the length of each person's absence. It will appear on a separate line of the May payslip.",
+    "On the substance, management met the union delegates on Wednesday and again this morning. We have put forward an improved offer: a general increase of 2.5 per cent backdated to 1 April, together with a review of the night-shift premium by the end of September. The unions have asked for time to consult their members, and a further meeting has been arranged for Monday at 10 a.m. If no agreement is reached at that meeting, we have proposed calling in an independent mediator.",
+    "I know that this is an unsettling time for everyone, whichever choice you have made. My door, and that of your HR team, remains open.",
+    "Yours sincerely,\nAnne Lefort\nSite Director, Norvale Logistics France"
+   ],
+   "glossary": [
+    {
+     "term": "on strike",
+     "plain": "refusing to work as a protest",
+     "fr": "en grève"
+    },
+    {
+     "term": "pay claim",
+     "plain": "a formal request by employees or a union for higher pay",
+     "fr": "revendication salariale"
+    },
+    {
+     "term": "stoppage",
+     "plain": "a period when work is stopped as a protest",
+     "fr": "arrêt de travail"
+    },
+    {
+     "term": "picket line",
+     "plain": "strikers gathered at the entrance to a workplace",
+     "fr": "piquet de grève"
+    },
+    {
+     "term": "deduction",
+     "plain": "an amount taken off someone's pay",
+     "fr": "retenue"
+    },
+    {
+     "term": "backdated",
+     "plain": "applied from an earlier date",
+     "fr": "avec effet rétroactif"
+    },
+    {
+     "term": "union delegates",
+     "plain": "the people appointed by the unions to negotiate with the company",
+     "fr": "délégués syndicaux"
+    },
+    {
+     "term": "mediator",
+     "plain": "a neutral person who helps two sides reach an agreement",
+     "fr": "médiateur"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "at the outset",
+     "plain": "right at the start"
+    },
+    {
+     "phrase": "strictly proportionate to",
+     "plain": "exactly matching, no more and no less than"
+    },
+    {
+     "phrase": "On the substance",
+     "plain": "as regards the real issue"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does the site director say about employees who are not on strike?",
+     "options": [
+      "They should stay at home until Monday.",
+      "They will receive a bonus.",
+      "They have the right to work and must be able to enter the site.",
+      "They must replace the strikers."
+     ],
+     "answer": 2,
+     "explain_fr": "La liberté du travail des non-grévistes est rappelée : « colleagues who choose to work are entitled to do so »."
+    },
+    {
+     "q": "How will pay be affected for strikers?",
+     "options": [
+      "They will lose a full week's pay.",
+      "Pay will be reduced in exact proportion to the time not worked.",
+      "Nothing will be deducted until an agreement is signed.",
+      "The union will reimburse the company."
+     ],
+     "answer": 1,
+     "explain_fr": "La retenue est « strictly proportionate » à la durée de l'absence : toute retenue supérieure serait une sanction pécuniaire illicite."
+    },
+    {
+     "q": "What has management offered?",
+     "options": [
+      "A one-off bonus in September.",
+      "A 2.5 per cent increase from 1 September.",
+      "A new night-shift premium from 1 April.",
+      "A 2.5 per cent increase from 1 April and a review of the night-shift premium."
+     ],
+     "answer": 3,
+     "explain_fr": "L'offre combine une augmentation générale rétroactive au 1er avril et un réexamen de la prime de nuit d'ici fin septembre."
+    },
+    {
+     "q": "What will happen if Monday's meeting fails?",
+     "options": [
+      "Management has proposed bringing in an independent mediator.",
+      "The site will be closed.",
+      "The offer will be withdrawn.",
+      "The matter will go to court."
+     ],
+     "answer": 0,
+     "explain_fr": "La direction a proposé de faire appel à un médiateur indépendant (« calling in an independent mediator »)."
+    }
+   ]
+  },
+  {
+   "id": "rd-cl-4",
+   "title": "Employee representation: France and the United States compared",
+   "kind": "report extract",
+   "level": 3,
+   "paragraphs": [
+    "3.2 How employees are represented",
+    "In the United States, representation is an all-or-nothing matter. Employees in a defined bargaining unit vote, usually in an election supervised by the National Labor Relations Board, on whether they wish to be represented by a union. If a majority votes yes, that union becomes the exclusive bargaining representative of everyone in the unit; if not, the workplace remains non-union and the employer has no duty to bargain with anyone.",
+    "France works differently. Representation does not depend on a vote for or against unionization. Any company that has had at least eleven employees for twelve consecutive months must hold elections for a works council, and several unions typically coexist in the same workplace. A union is treated as representative if, among other criteria, it wins at least ten percent of the votes cast in the first round. In companies with fifty or more employees, each representative union may then appoint a union delegate, who negotiates company agreements on its behalf.",
+    "Three consequences follow for a U.S. parent company such as Halden Corporation. First, union density is a poor guide to union influence: only about one French employee in ten carries a union card, yet almost all are covered by an industry-level agreement, because such agreements are routinely extended to every employer in the sector. Second, concepts such as right-to-work laws or decertification have no French counterpart. Third, employee representatives enjoy protected status: they cannot be terminated without prior authorization from the labor inspector, a public official.",
+    "Managers should therefore assume that every French site of any size has elected representatives, and that changes to organization, working time or headcount will require consultation before a decision is made."
+   ],
+   "glossary": [
+    {
+     "term": "bargaining unit",
+     "plain": "the group of employees a union represents and negotiates for",
+     "fr": "unité de négociation"
+    },
+    {
+     "term": "exclusive bargaining representative",
+     "plain": "the only union allowed to negotiate for a group of employees",
+     "fr": "représentant exclusif pour la négociation"
+    },
+    {
+     "term": "non-union",
+     "plain": "without any union representation",
+     "fr": "sans présence syndicale"
+    },
+    {
+     "term": "votes cast",
+     "plain": "votes actually given in an election",
+     "fr": "suffrages exprimés"
+    },
+    {
+     "term": "union density",
+     "plain": "the proportion of employees who are union members",
+     "fr": "taux de syndicalisation"
+    },
+    {
+     "term": "right-to-work laws",
+     "plain": "US state laws under which nobody can be made to join a union or pay it fees",
+     "fr": "lois « right-to-work »"
+    },
+    {
+     "term": "decertification",
+     "plain": "the process by which employees vote to remove their union",
+     "fr": "retrait de l'accréditation du syndicat"
+    },
+    {
+     "term": "protected status",
+     "plain": "special legal protection against dismissal",
+     "fr": "statut protecteur"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "among other criteria",
+     "plain": "this being one of several conditions"
+    },
+    {
+     "phrase": "on its behalf",
+     "plain": "in its name, as its representative"
+    },
+    {
+     "phrase": "have no French counterpart",
+     "plain": "do not exist in any similar form in France"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What happens in the US if a majority of the unit votes against the union?",
+     "options": [
+      "A second election is held within fifteen days.",
+      "The workplace stays non-union and the employer need not bargain.",
+      "The NLRB appoints a representative.",
+      "A works council is elected instead."
+     ],
+     "answer": 1,
+     "explain_fr": "Aux États-Unis, c'est tout ou rien : sans majorité, pas de syndicat et aucune obligation de négocier."
+    },
+    {
+     "q": "How does a French union obtain representative status in a company?",
+     "options": [
+      "By winning, among other criteria, at least ten percent of first-round votes.",
+      "By signing up half of the workforce.",
+      "By being recognized by the employer.",
+      "By registering with the labor inspector."
+     ],
+     "answer": 0,
+     "explain_fr": "La représentativité dépend notamment de l'audience électorale : 10 % des suffrages exprimés au premier tour."
+    },
+    {
+     "q": "Why is union density 'a poor guide to union influence' in France?",
+     "options": [
+      "Because membership figures are secret.",
+      "Because most members are in the public sector.",
+      "Because unions are funded by the state.",
+      "Because extended industry-level agreements cover almost all employees, members or not."
+     ],
+     "answer": 3,
+     "explain_fr": "Faible taux de syndicalisation, mais couverture conventionnelle quasi générale grâce à l'extension des accords de branche."
+    },
+    {
+     "q": "What does the report advise managers to assume?",
+     "options": [
+      "That French sites can be treated like US non-union sites.",
+      "That unions must approve every decision.",
+      "That consultation will be needed before changes to organization, working time or headcount.",
+      "That the labor inspector attends all meetings."
+     ],
+     "answer": 2,
+     "explain_fr": "Toute évolution de l'organisation, du temps de travail ou des effectifs suppose une consultation préalable."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-cl-1",
+   "title": "Inviting the unions to the annual negotiations",
+   "stage": 1,
+   "kind": "email",
+   "brief": "As Labour Relations Director of Norvale France, write to the three union delegates (the working language of the company is English) to invite them to the opening meeting of the mandatory annual negotiations: date and place, size of delegations, information available, purpose of the first meeting.",
+   "brief_fr": "En tant que directeur ou directrice des relations sociales de Norvale France, écrivez aux trois délégués syndicaux (la langue de travail de l'entreprise est l'anglais) pour les inviter à la réunion d'ouverture des NAO : date et lieu, composition des délégations, informations disponibles, objet de la première réunion.",
+   "gaps": [
+    {
+     "text": "I am writing to ___ you to the opening meeting of this year's mandatory annual negotiations.",
+     "answer": "invite",
+     "accept": [],
+     "explain_fr": "« To invite someone to a meeting ». « To convoke » n'existe pratiquement pas, et « to summon » serait bien trop autoritaire envers des délégués syndicaux."
+    },
+    {
+     "text": "The meeting will ___ place on Tuesday 14 January at 2 p.m. in the boardroom.",
+     "answer": "take",
+     "accept": [],
+     "explain_fr": "« To take place » = avoir lieu. « To have place » est un calque."
+    },
+    {
+     "text": "In ___ with our agreement on social dialogue, each delegation may comprise up to three members.",
+     "answer": "accordance",
+     "accept": [
+      "line",
+      "keeping"
+     ],
+     "explain_fr": "« In accordance with » = conformément à (registre soutenu). « In line with » est un peu plus souple. « According to » signifie « selon » et ne convient pas."
+    },
+    {
+     "text": "The information you will need has been made ___ in the economic, social and environmental database.",
+     "answer": "available",
+     "accept": [],
+     "explain_fr": "« To make something available » = mettre à disposition. « Disposable » signifie « jetable » !"
+    },
+    {
+     "text": "We suggest that the first meeting be devoted to ___ the timetable and the topics to be covered.",
+     "answer": "agreeing",
+     "accept": [
+      "agreeing on",
+      "setting",
+      "fixing"
+     ],
+     "explain_fr": "« Devoted to » est suivi d'un verbe en -ing (« to » est ici une préposition). En anglais britannique, « to agree a timetable » se construit sans préposition ; aux États-Unis, « to agree on »."
+    },
+    {
+     "text": "I look forward to ___ you on the 14th.",
+     "answer": "seeing",
+     "accept": [
+      "meeting"
+     ],
+     "explain_fr": "« To look forward to » + -ing : là encore « to » est une préposition. « I look forward to see you » est l'une des fautes les plus fréquentes."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Mandatory annual negotiations - opening meeting on 14 January\n\nDear Ms Benali, Mr Girard and Mr Roche,\n\nI am writing to invite you to the opening meeting of this year's mandatory annual negotiations on pay, working time and the sharing of added value.\n\nThe meeting will take place on Tuesday 14 January at 2 p.m. in the boardroom. In accordance with our agreement on social dialogue, each delegation may comprise up to three members, including the union delegate.\n\nThe information you will need has been made available in the economic, social and environmental database, and I would of course be happy to answer any questions on the figures beforehand.\n\nWe suggest that the first meeting be devoted to agreeing the timetable and the topics to be covered, so that the discussions on pay can begin on a clear footing at the second meeting.\n\nI look forward to seeing you on the 14th.\n\nKind regards,\n\nLabour Relations Director\nNorvale France",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "mandatory annual negotiations on pay, working time and the sharing of added value",
+     "note_fr": "À la première mention, on développe : un lecteur étranger en copie ne connaît pas le sigle NAO. « Sharing of added value » rend « partage de la valeur ajoutée »."
+    },
+    {
+     "quote": "may comprise up to three members",
+     "note_fr": "« To comprise » se construit sans « of » : « comprise three members ». « Up to » = jusqu'à, au maximum."
+    },
+    {
+     "quote": "I would of course be happy to answer any questions",
+     "note_fr": "Offre de disponibilité qui installe d'emblée un ton coopératif : utile en ouverture de négociation."
+    },
+    {
+     "quote": "We suggest that the first meeting be devoted to",
+     "note_fr": "Subjonctif anglais après « suggest that » : « be », sans « should » ni « is ». Très naturel à l'écrit formel, surtout en anglais américain."
+    },
+    {
+     "quote": "on a clear footing",
+     "note_fr": "« On a clear / sound footing » = sur des bases claires, saines. Belle collocation pour parler de méthode."
+    }
+   ],
+   "checklist": [
+    "Did you spell out the name of the negotiations instead of using the French acronym alone?",
+    "Are the date, time and place given in one clear sentence?",
+    "Did you say where the information can be found?",
+    "Is the tone courteous and cooperative rather than administrative?",
+    "Did you use '-ing' after 'look forward to' and 'devoted to'?"
+   ],
+   "phrasebank": [
+    "I am writing to invite you to...",
+    "The meeting will take place on... at... in...",
+    "In accordance with our agreement on...",
+    "The information you will need has been made available in...",
+    "We suggest that the first meeting be devoted to...",
+    "I would be happy to answer any questions beforehand.",
+    "I look forward to seeing you on..."
+   ]
+  },
+  {
+   "id": "wr-cl-2",
+   "title": "Minuting a works council consultation",
+   "stage": 1,
+   "kind": "meeting minutes",
+   "brief": "An English version of the minutes of the central works council is sent to the group's head office. Complete the key sentences recording the consultation on the merger of two customer service teams: who chaired, approval of the previous minutes, presentation, questions, vote and opinion, close.",
+   "brief_fr": "Une version anglaise du procès-verbal du CSE central est transmise au siège du groupe. Complétez les phrases clés retraçant la consultation sur la fusion de deux équipes du service clients : présidence, approbation du précédent procès-verbal, présentation, questions, vote et avis, clôture.",
+   "gaps": [
+    {
+     "text": "The meeting was ___ by Ms Lefort, Labour Relations Director.",
+     "answer": "chaired",
+     "accept": [],
+     "explain_fr": "« To chair a meeting » = présider. « Presided » demanderait « over » et reste plus solennel."
+    },
+    {
+     "text": "The minutes of the meeting of 12 March were ___ unanimously.",
+     "answer": "approved",
+     "accept": [
+      "adopted"
+     ],
+     "explain_fr": "On « approves » ou « adopts » les « minutes » (toujours au pluriel). « Unanimously » = à l'unanimité."
+    },
+    {
+     "text": "Management ___ the proposed merger of the two customer service teams.",
+     "answer": "presented",
+     "accept": [
+      "outlined",
+      "set out"
+     ],
+     "explain_fr": "« To present », « to outline » (exposer dans les grandes lignes) ou « to set out ». Notez « proposed » : le projet n'est pas encore décidé."
+    },
+    {
+     "text": "Mr Girard asked whether any job losses were ___.",
+     "answer": "planned",
+     "accept": [
+      "envisaged",
+      "expected",
+      "anticipated"
+     ],
+     "explain_fr": "Discours indirect : « asked whether » + prétérit. « Envisaged » est britannique et soutenu ; « foreseen » serait un calque de « prévu »."
+    },
+    {
+     "text": "The council ___ an unfavourable opinion by seven votes to four.",
+     "answer": "delivered",
+     "accept": [
+      "gave",
+      "issued"
+     ],
+     "explain_fr": "« To deliver / give / issue an opinion ». Le score se dit « by seven votes to four ». « Emitted an opinion » est un calque."
+    },
+    {
+     "text": "There being no further ___, the meeting closed at 4.45 p.m.",
+     "answer": "business",
+     "accept": [],
+     "explain_fr": "Formule consacrée de clôture : « There being no further business » = l'ordre du jour étant épuisé."
+    }
+   ],
+   "outline": [],
+   "model": "Minutes of the meeting of the Central Works Council held on 9 April\n\nThe meeting was chaired by Ms Lefort, Labour Relations Director. Eleven full members were present; apologies were received from Mr Morin, who was replaced by his substitute, Ms Petit.\n\n1. Approval of the minutes\nThe minutes of the meeting of 12 March were approved unanimously.\n\n2. Consultation on Project Kestrel\nManagement presented the proposed merger of the two customer service teams and referred members to the briefing sent with the agenda. Mr Girard asked whether any job losses were planned. Ms Lefort replied that none were, and that the project involved no compulsory change of location. The expert appointed by the council then summarised her report, which members discussed at some length.\n\nThe chair put the matter to the vote. The council delivered an unfavourable opinion by seven votes to four, on the ground that the workload assessment remained incomplete. Management took note of the opinion and undertook to share the revised workload figures by the end of May.\n\nThere being no further business, the meeting closed at 4.45 p.m.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "apologies were received from Mr Morin",
+     "note_fr": "Formule britannique pour les absents excusés. Version américaine : « Mr. Morin was absent » ou « sent his regrets »."
+    },
+    {
+     "quote": "referred members to the briefing sent with the agenda",
+     "note_fr": "« To refer someone to a document » = renvoyer à. On établit au passage que l'information écrite a bien été transmise avec l'ordre du jour."
+    },
+    {
+     "quote": "Ms Lefort replied that none were",
+     "note_fr": "Reprise elliptique élégante : « none were (planned) ». Le procès-verbal anglais se rédige au prétérit et au discours indirect."
+    },
+    {
+     "quote": "The chair put the matter to the vote.",
+     "note_fr": "« To put to the vote » = mettre aux voix. « The chair » désigne la personne qui préside."
+    },
+    {
+     "quote": "on the ground that the workload assessment remained incomplete",
+     "note_fr": "« On the ground that » introduit le motif de l'avis. Consigner la motivation est utile pour le siège comme en cas de contentieux."
+    },
+    {
+     "quote": "Management took note of the opinion and undertook to",
+     "note_fr": "« To take note of » = prendre acte ; « to undertake to » = s'engager à. Deux verbes clés du procès-verbal."
+    }
+   ],
+   "checklist": [
+    "Are the minutes written in the past tense and in reported speech?",
+    "Did you record who chaired, who was present and who was replaced?",
+    "Is the result of the vote given with figures ('by seven votes to four')?",
+    "Did you record the reasons for the opinion and management's response?",
+    "Did you describe the project as 'proposed'?"
+   ],
+   "phrasebank": [
+    "The meeting was chaired by...",
+    "Apologies were received from...",
+    "The minutes of the meeting of... were approved unanimously.",
+    "Management presented the proposed...",
+    "Mr X asked whether... / Ms Y replied that...",
+    "The chair put the matter to the vote.",
+    "The council delivered a favourable / an unfavourable opinion by... votes to...",
+    "There being no further business, the meeting closed at..."
+   ]
+  },
+  {
+   "id": "wr-cl-3",
+   "title": "Explaining to head office who speaks for employees in France",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "The new Chief People Officer of your group, based in Pune, has asked for a one-page note on 'who we have to talk to in France, and about what'. Write the central paragraphs of the note from the outline below.",
+   "brief_fr": "Le nouveau Chief People Officer de votre groupe, basé à Pune, vous demande une note d'une page : « à qui devons-nous parler en France, et de quoi ? ». Rédigez les paragraphes centraux de la note à partir du plan ci-dessous.",
+   "gaps": [],
+   "outline": [
+    "Opening: two channels of representation, which should not be confused",
+    "The works councils: elected, informed and consulted; one per site plus a central council",
+    "The union delegates: appointed by representative unions; they negotiate and sign agreements",
+    "What follows in practice: consult the councils on projects, negotiate with the unions on pay and working time",
+    "One caution: representatives are protected employees",
+    "Offer to go through it on a call"
+   ],
+   "model": "In France, employees are represented through two distinct channels, and it is worth keeping them apart from the start.\n\nThe first is the works council, known by its French initials as the CSE. Its members are elected by the workforce every four years. We have one council at each of our four sites and a central works council for the company as a whole, which I chair. The councils do not negotiate; they must, however, be informed and consulted before we take any significant decision on the organisation, the running of the business or working conditions. Their opinion is advisory, but the consultation itself is compulsory, and skipping it is a criminal offence.\n\nThe second channel is the trade unions. Each union that won at least ten per cent of the votes at the last workplace elections may appoint a union delegate. The delegates, not the councils, negotiate and sign company agreements with us, notably during the annual negotiations on pay and working time.\n\nIn practice, this means that a reorganisation goes to the works councils, whereas a change to pay structures or working hours is negotiated with the unions, and some projects call for both.\n\nOne word of caution: elected members and union delegates are protected employees. None of them can be dismissed or transferred without the prior authorisation of the labour inspector, who is a public official.\n\nI would be glad to take you through our calendar for the year on a call, whenever suits you.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "it is worth keeping them apart from the start",
+     "note_fr": "« It is worth + -ing » : conseil formulé avec retenue. « To keep apart » = bien distinguer."
+    },
+    {
+     "quote": "known by its French initials as the CSE",
+     "note_fr": "Manière élégante d'introduire un sigle français sans alourdir : on donne l'équivalent d'abord, le sigle ensuite."
+    },
+    {
+     "quote": "The councils do not negotiate; they must, however, be informed and consulted",
+     "note_fr": "Le point-virgule oppose nettement les deux idées ; « however » placé après le verbe modal est plus fluide qu'en tête de phrase."
+    },
+    {
+     "quote": "The delegates, not the councils, negotiate and sign company agreements",
+     "note_fr": "L'incise « not the councils » prévient le contresens le plus courant chez un lecteur étranger."
+    },
+    {
+     "quote": "One word of caution:",
+     "note_fr": "Formule courte pour introduire une mise en garde sans dramatiser. Variante : « A word of warning »."
+    },
+    {
+     "quote": "whenever suits you",
+     "note_fr": "Clôture souple et naturelle : « whenever suits you » = quand cela vous convient. Évitez « at your convenience », plus froid."
+    }
+   ],
+   "checklist": [
+    "Could a reader who has never worked in France follow the note without a dictionary of acronyms?",
+    "Did you make clear that councils are consulted and unions negotiate?",
+    "Did you state that the opinion is advisory but the consultation compulsory?",
+    "Did you mention the protected status of representatives?",
+    "Are your paragraphs short, each built around one idea?"
+   ],
+   "phrasebank": [
+    "Employees are represented through two distinct channels.",
+    "..., known by its French initials as the...",
+    "Their opinion is advisory, but the consultation itself is compulsory.",
+    "In practice, this means that...",
+    "..., whereas... is negotiated with the unions.",
+    "One word of caution: ...",
+    "I would be glad to take you through... on a call."
+   ]
+  },
+  {
+   "id": "wr-cl-4",
+   "title": "Updating head office on a strike",
+   "stage": 2,
+   "kind": "email",
+   "brief": "A strike began two days ago at the Orléans distribution centre of Norvale Logistics France. The Chief Operating Officer of the group wants an update by email and asks whether temporary staff can be brought in. Write the email from the outline below.",
+   "brief_fr": "Une grève a débuté il y a deux jours au centre de distribution d'Orléans de Norvale Logistics France. Le directeur des opérations du groupe demande un point par e-mail et veut savoir si l'on peut faire appel à des intérimaires. Rédigez l'e-mail à partir du plan ci-dessous.",
+   "gaps": [],
+   "outline": [
+    "Situation: who is on strike, since when, over what, effect on operations",
+    "Legal position: right to strike, no dismissal, no temporary or fixed-term staff to replace strikers",
+    "What we can do: non-strikers, other sites, pay deduction",
+    "Talks so far and next steps (meeting on Monday, mediator)",
+    "What you need from head office"
+   ],
+   "model": "Subject: Orléans - strike update, Thursday 5 p.m.\n\nDear Martin,\n\nHere is where we stand at Orléans.\n\nAround sixty of the 140 logistics staff have been on strike since Tuesday morning over this year's pay offer. The picket at the main gate has been peaceful and lorries are getting through, but outbound volumes are down by roughly forty per cent.\n\nOn your question about temporary staff, I am afraid the answer is no. In France the right to strike is protected by the Constitution: strikers cannot be dismissed for taking part, and the law expressly prohibits the use of agency or fixed-term workers to replace them. What we can do is ask non-striking colleagues to cover, within the limits of their contracts, and divert part of the flow to Lille, which we started doing yesterday. Strikers are not paid for the time they do not work.\n\nWe met the union delegates yesterday and again this morning, and put forward an improved offer of 2.5 per cent backdated to 1 April. They are consulting their members and we meet again on Monday at 10 a.m. If that meeting fails, I intend to propose mediation rather than let the dispute harden.\n\nFrom your side, it would help to have confirmation by Friday that the 2.5 per cent is within budget, and that I have some room for manoeuvre on the night-shift premium.\n\nI will send a further update after Monday's meeting, or sooner if anything changes.\n\nBest regards,\n\nLabour Relations Director\nNorvale France",
+   "model_us": "Subject: Orléans - strike update, Thursday 5 p.m.\n\nHi Martin,\n\nHere's where we stand at Orléans.\n\nAbout sixty of the 140 logistics employees have been on strike since Tuesday morning over this year's pay offer. The picket line at the main gate has been peaceful and trucks are getting through, but outbound volumes are down by roughly forty percent.\n\nOn your question about temps, the answer is no. In France the right to strike is protected by the Constitution: strikers can't be terminated for taking part, and the law expressly prohibits using agency or fixed-term workers to replace them. What we can do is ask non-striking employees to cover, within the limits of their contracts, and divert part of the flow to Lille, which we started doing yesterday. Strikers aren't paid for the time they don't work.\n\nWe met with the union delegates yesterday and again this morning, and put forward an improved offer of 2.5 percent retroactive to April 1. They are consulting their members and we meet again on Monday at 10 a.m. If that meeting fails, I plan to propose mediation rather than let the dispute harden.\n\nOn your end, it would help to have confirmation by Friday that the 2.5 percent is within budget, and that I have some leeway on the night-shift premium.\n\nI'll send another update after Monday's meeting, or sooner if anything changes.\n\nBest,\n\nLabor Relations Director\nNorvale France",
+   "commentary": [
+    {
+     "quote": "Here is where we stand at Orléans.",
+     "note_fr": "Ouverture directe, appréciée d'un dirigeant pressé. « Where we stand » = où nous en sommes."
+    },
+    {
+     "quote": "I am afraid the answer is no",
+     "note_fr": "« I am afraid » adoucit le refus sans l'affaiblir. La version américaine s'en passe : le style y est plus direct."
+    },
+    {
+     "quote": "What we can do is ask non-striking colleagues to cover",
+     "note_fr": "Phrase clivée (« What we can do is... ») : après le non, on enchaîne aussitôt sur la solution. « To cover » = assurer le remplacement."
+    },
+    {
+     "quote": "rather than let the dispute harden",
+     "note_fr": "« To harden » se dit d'un conflit ou de positions qui se durcissent. « Rather than » + base verbale."
+    },
+    {
+     "quote": "room for manoeuvre",
+     "note_fr": "Marge de manœuvre : « room for manoeuvre » (UK), « leeway » ou « room to maneuver » (US). Notez l'orthographe britannique."
+    },
+    {
+     "quote": "or sooner if anything changes",
+     "note_fr": "Formule de clôture qui rassure le siège : il sera prévenu sans avoir à relancer."
+    }
+   ],
+   "checklist": [
+    "Does the first paragraph give the facts: who, since when, why, with what effect?",
+    "Did you answer the question about temporary staff clearly, and then offer alternatives?",
+    "Are the legal points stated in general terms, without French jargon?",
+    "Did you say exactly what you need from head office, and by when?",
+    "Is the tone factual and calm?"
+   ],
+   "phrasebank": [
+    "Here is where we stand at...",
+    "... have been on strike since... over...",
+    "On your question about..., I am afraid the answer is no.",
+    "What we can do is...",
+    "We put forward an improved offer of...",
+    "If that meeting fails, I intend to propose mediation.",
+    "From your side, it would help to have...",
+    "I will send a further update after..."
+   ]
+  },
+  {
+   "id": "wr-cl-5",
+   "title": "A letter to the works council secretary to restore trust",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "After a tense consultation on a warehouse automation project, the central works council (which works in English with the group) accused management of withholding information and walked out of the last meeting. As chair, write to the council secretary, Ms Dubois: acknowledge what went wrong, propose a method agreement and a meeting to prepare it, and reaffirm your commitment to the council's role.",
+   "brief_fr": "Après une consultation tendue sur un projet d'automatisation d'entrepôt, le CSE central (qui travaille en anglais avec le groupe) a reproché à la direction de retenir des informations et a quitté la dernière réunion. En tant que président(e), écrivez à la secrétaire du comité, Mme Dubois : reconnaissez ce qui n'a pas fonctionné, proposez un accord de méthode et une réunion pour le préparer, et réaffirmez votre attachement au rôle du comité.",
+   "gaps": [],
+   "outline": [
+    "Reference to the meeting and the way it ended",
+    "Acknowledge the council's concern and management's share of responsibility",
+    "Concrete commitments: missing documents, date",
+    "Proposal: a method agreement (timetable, information, expert, resources)",
+    "Invitation to a preparatory meeting",
+    "Close on the shared interest in a working relationship"
+   ],
+   "model": "Dear Ms Dubois,\n\nI am writing further to the meeting of the central works council on 18 September, which ended earlier than any of us would have wished.\n\nI have thought carefully about what was said that afternoon. The council's main complaint was that the workload study for the Tours warehouse reached members only two days before the meeting. That is a fair point. The delay was ours, and I regret it: members cannot be expected to form a view on a project of this scale without proper time to read the documents.\n\nI would therefore like to make two commitments. First, the full study, together with the supplier's technical specifications, will be posted in the database by Friday 26 September. Secondly, no opinion will be sought from the council until its expert has had the time she needs to complete her report.\n\nMore generally, I believe we would all benefit from agreeing the ground rules before going any further. I propose that we negotiate a short method agreement with the union delegates, covering the timetable of the consultation, the list of documents to be provided, the scope of the expert's assignment and the additional time off granted to members for the duration of the project.\n\nCould we meet during the week of 29 September to prepare this? I am available on the Tuesday or the Thursday, and would of course welcome the presence of the other officers of the council.\n\nWe will not always agree on the substance. I am nevertheless convinced that the project will be the better for the council's scrutiny, and I am keen to put our discussions back on a sound footing.\n\nYours sincerely,\n\nLabour Relations Director\nChair of the Central Works Council, Norvale France",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "which ended earlier than any of us would have wished",
+     "note_fr": "Litote toute britannique pour évoquer le départ des élus sans désigner de coupable. « Any of us » inclut la direction."
+    },
+    {
+     "quote": "That is a fair point. The delay was ours, and I regret it",
+     "note_fr": "Trois propositions brèves : on reconnaît, on assume, on regrette. La brièveté rend l'aveu crédible. « I regret it » engage moins qu'« I apologise » sur le plan juridique."
+    },
+    {
+     "quote": "I would therefore like to make two commitments.",
+     "note_fr": "Après la reconnaissance, des engagements précis et datés : c'est ce qui rétablit la confiance. « Commitment » = engagement ; « engagement » serait un faux ami (fiançailles, rendez-vous)."
+    },
+    {
+     "quote": "agreeing the ground rules before going any further",
+     "note_fr": "« Ground rules » = règles du jeu. C'est la manière naturelle d'introduire l'idée d'accord de méthode."
+    },
+    {
+     "quote": "We will not always agree on the substance.",
+     "note_fr": "Phrase courte et honnête : on ne promet pas l'accord sur le fond, seulement une méthode loyale. « The substance » = le fond."
+    },
+    {
+     "quote": "the project will be the better for the council's scrutiny",
+     "note_fr": "« To be the better for » = sortir amélioré de. « Scrutiny » (examen attentif) valorise le rôle du comité."
+    }
+   ],
+   "checklist": [
+    "Did you acknowledge the specific problem, in plain words, without over-apologising?",
+    "Are your commitments concrete and dated?",
+    "Did you explain what the method agreement would cover?",
+    "Did you propose dates and leave the secretary some choice?",
+    "Does the last paragraph look forward rather than back?",
+    "Is the tone respectful, peer to peer, with no trace of irritation?"
+   ],
+   "phrasebank": [
+    "I am writing further to the meeting of...",
+    "I have thought carefully about what was said.",
+    "That is a fair point.",
+    "I would therefore like to make two commitments.",
+    "I believe we would all benefit from agreeing the ground rules.",
+    "Could we meet during the week of... to prepare this?",
+    "We will not always agree on the substance.",
+    "I am keen to put our discussions back on a sound footing."
+   ]
+  },
+  {
+   "id": "wr-cl-6",
+   "title": "Reporting the outcome of the annual negotiations to the group",
+   "stage": 3,
+   "kind": "report",
+   "brief": "The mandatory annual negotiations at Norvale France have just ended. Write a short report (about 250 words) for the Group HR Director: process, union demands and management offers, outcome, cost and implementation, risks and next steps.",
+   "brief_fr": "Les NAO viennent de s'achever chez Norvale France. Rédigez un bref rapport (environ 250 mots) pour le DRH du groupe : déroulement, revendications syndicales et propositions de la direction, issue, coût et mise en œuvre, risques et prochaines étapes.",
+   "gaps": [],
+   "outline": [
+    "Summary in two sentences",
+    "Process: number of meetings, unions at the table",
+    "Positions: opening demands, management's successive offers",
+    "Outcome: agreement signed by two of three unions; why it is valid",
+    "Cost and implementation",
+    "Risks and next steps"
+   ],
+   "model": "Annual negotiations, Norvale France - outcome\n\n1. Summary\nThe annual negotiations closed on 6 March with a majority agreement signed by two of our three representative unions. The settlement is within the budget approved in December.\n\n2. Process\nFour meetings were held between 14 January and 6 March. All three unions took part throughout, and the timetable agreed at the opening meeting was kept.\n\n3. Positions\nThe unions' opening demand was a general increase of 5 per cent, together with a higher night-shift premium. Management opened at 1.8 per cent and moved in two steps to a final offer of 2.5 per cent, with a review of the premium to be completed by September.\n\n4. Outcome\nThe agreement was signed by the two unions which, between them, won 58 per cent of the votes at the last workplace elections; it is therefore valid without an employee ballot. The third union declined to sign but has not called for industrial action.\n\n5. Cost and implementation\nThe full-year cost is 2.4 per cent of payroll. Increases will be applied in the April payroll and backdated to 1 January.\n\n6. Risks and next steps\nThe main risk lies with the review of the night-shift premium, on which expectations are high in Orléans. I propose to open that discussion in May rather than wait until the deadline, and to report back before the summer.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "The settlement is within the budget approved in December.",
+     "note_fr": "L'information que le siège attend en premier figure dès le résumé. « Settlement » = l'accord qui clôt la négociation."
+    },
+    {
+     "quote": "Management opened at 1.8 per cent and moved in two steps to a final offer of 2.5 per cent",
+     "note_fr": "Vocabulaire du négociateur : « to open at », « to move to », « final offer ». Sobre et chiffré."
+    },
+    {
+     "quote": "it is therefore valid without an employee ballot",
+     "note_fr": "On explique en une proposition la règle de l'accord majoritaire, sans cours de droit : le lecteur étranger retient la conséquence."
+    },
+    {
+     "quote": "declined to sign but has not called for industrial action",
+     "note_fr": "« To decline to » est plus neutre que « to refuse to ». « To call for industrial action » = appeler à un mouvement."
+    },
+    {
+     "quote": "The main risk lies with",
+     "note_fr": "« The risk lies with / in » : tournure plus élégante que « the risk is ». Suivie ici d'une proposition d'action, ce qui est attendu d'un rapport."
+    }
+   ],
+   "checklist": [
+    "Does the summary give the outcome and the budget position in two sentences?",
+    "Are all the figures (offers, votes, cost) stated precisely?",
+    "Did you explain in one line why the agreement is valid?",
+    "Did you mention the position of the union that did not sign?",
+    "Does the report end with a risk and a concrete next step?",
+    "Is the style factual, with short numbered sections?"
+   ],
+   "phrasebank": [
+    "The negotiations closed on... with...",
+    "The settlement is within the budget approved in...",
+    "The unions' opening demand was...",
+    "Management opened at... and moved to a final offer of...",
+    "The agreement was signed by... which, between them, won... per cent of the votes.",
+    "The full-year cost is... per cent of payroll.",
+    "The main risk lies with...",
+    "I propose to... and to report back before..."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-cl-1",
+   "title": "Two levels of consultation",
+   "context": "A call between Élise, Labour Relations Director of Brackley France, and Helen, Group HR Director in Leeds. Helen wants to announce a reorganisation affecting two French sites.",
+   "context_fr": "Appel entre Élise, directrice des relations sociales de Brackley France, et Helen, DRH du groupe à Leeds. Helen souhaite annoncer une réorganisation touchant deux sites français.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Helen",
+     "text": "Élise, thanks for making time. I'll come straight to the point: the board would like to announce Kestrel on the first of the month. Is that doable?",
+     "note_fr": "« Doable » = faisable (courant, un peu familier). « I'll come straight to the point » annonce une question directe."
+    },
+    {
+     "speaker": "Élise",
+     "text": "I'm afraid not, not on that timescale. We have to consult the works councils first, and the clock hasn't even started yet.",
+     "note_fr": "« Timescale » (UK) = calendrier, délais. « The clock hasn't started » : image naturelle pour le point de départ du délai de consultation."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Councils, plural? I thought there was one.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "There's one at each site and a central one for the company, which I chair. Kestrel was designed at company level, so it goes to the central council first, and then to Lyon and Grenoble for the local side of things.",
+     "note_fr": "« Which I chair » : proposition relative brève pour situer son propre rôle. « The local side of things » = le volet local."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Right. And how long is all that likely to take?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "A month if it's straightforward. Realistically, though, they'll appoint an expert, and with two levels involved that can stretch to three.",
+     "note_fr": "« Realistically, though » : on corrige l'hypothèse optimiste. « To stretch to » = aller jusqu'à."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Three months. The board won't be thrilled. Can they actually block it at the end of all that?",
+     "note_fr": "« Won't be thrilled » : euphémisme britannique pour « sera très mécontent »."
+    },
+    {
+     "speaker": "Élise",
+     "text": "No. Their opinion is advisory, so even if they come out against it, we can go ahead. What we can't do is decide before they've given it.",
+     "note_fr": "« To come out against » = se prononcer contre. « What we can't do is... » : phrase clivée pour isoler la seule vraie contrainte."
+    },
+    {
+     "speaker": "Helen",
+     "text": "And if we simply announced it anyway?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "Then they'd go to court to have the project suspended, and I'd be personally exposed to prosecution for obstruction. It's a criminal offence here, and I'd rather not test it.",
+     "note_fr": "« I'd rather not test it » : understatement. « Obstruction » rend le délit d'entrave ; insistez sur « criminal offence »."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Understood. So what do you need from me?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "Two things, really: a proper written briefing by the end of next week, and board papers that say 'proposed' all the way through.",
+     "note_fr": "« Two things, really » : « really » adoucit la demande. « All the way through » = d'un bout à l'autre."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Fine. I'll square it with the board. Send me the timetable and I'll take it from there.",
+     "note_fr": "« To square something with someone » (UK) = obtenir l'accord de, arranger les choses avec. « I'll take it from there » = je prends le relais."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does the project go to the central works council first?",
+     "options": [
+      "Because Lyon is the head office.",
+      "Because it was designed at company level.",
+      "Because the site councils refused to examine it.",
+      "Because the board asked for it."
+     ],
+     "answer": 1,
+     "explain_fr": "Projet conçu au niveau de l'entreprise : le CSE central est consulté d'abord, puis les CSE d'établissement pour les mesures locales."
+    },
+    {
+     "q": "What does Élise mean by 'that can stretch to three'?",
+     "options": [
+      "The consultation may last up to three months.",
+      "Three councils will have to vote.",
+      "Three experts may be appointed.",
+      "The board will need three meetings."
+     ],
+     "answer": 0,
+     "explain_fr": "Avec deux niveaux de consultation et une expertise, le délai peut atteindre trois mois."
+    },
+    {
+     "q": "What does Helen mean by 'I'll square it with the board'?",
+     "options": [
+      "She will ask the board to cancel the project.",
+      "She will send the board the minutes.",
+      "She will challenge the board's decision.",
+      "She will get the board to accept the situation."
+     ],
+     "answer": 3,
+     "explain_fr": "« To square something with someone » = faire accepter, obtenir l'aval de."
+    }
+   ]
+  },
+  {
+   "id": "dl-cl-2",
+   "title": "Can't we just bring in temps?",
+   "context": "A video call between Brad, COO of Halden Corporation in Chicago, and Élise, Labor Relations Director of its French subsidiary. A strike has started at the Orléans warehouse.",
+   "context_fr": "Visioconférence entre Brad, directeur des opérations de Halden Corporation à Chicago, et Élise, directrice des relations sociales de la filiale française. Une grève a commencé à l'entrepôt d'Orléans.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Brad",
+     "text": "Élise, I just saw the numbers out of Orléans. What's going on over there?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "About sixty people walked out on Tuesday over the pay offer. Trucks are still moving, but we're running at about sixty percent.",
+     "note_fr": "« To walk out » = débrayer, se mettre en grève. « To run at sixty percent » = tourner à 60 %."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Okay. Did the union give us any notice? Was there a strike vote?",
+     "note_fr": "Réflexes américains : préavis et vote d'autorisation. Aucun des deux n'existe dans le secteur privé français."
+    },
+    {
+     "speaker": "Élise",
+     "text": "Neither, and they didn't have to. In the private sector here, there's no notice and no vote. Striking is an individual right, so it's not even the union's call.",
+     "note_fr": "« It's not the union's call » = ce n'est pas au syndicat d'en décider. « Neither, and they didn't have to » : réponse nette en deux temps."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Huh. So can't we just bring in temps until this blows over?",
+     "note_fr": "« Temps » = intérimaires. « To blow over » = se tasser, passer."
+    },
+    {
+     "speaker": "Élise",
+     "text": "No, that's the one thing we can't do. The law specifically bans using temps or fixed-term hires to replace strikers.",
+     "note_fr": "« That's the one thing we can't do » : refus direct, adapté à un interlocuteur américain."
+    },
+    {
+     "speaker": "Brad",
+     "text": "You're kidding. And I'm guessing permanent replacements are out too.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "Completely. You can't terminate someone for striking unless they do something really serious, like damaging equipment or blocking people from getting in.",
+     "note_fr": "Rend l'idée de faute lourde sans jargon. « To terminate » est le verbe américain courant pour licencier."
+    },
+    {
+     "speaker": "Brad",
+     "text": "So what are our options? I need something to tell the customers.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "We can have the non-strikers cover, and we're already rerouting volume through Lille. And nobody gets paid for the hours they're out, which focuses minds.",
+     "note_fr": "« To focus minds » = inciter chacun à chercher une issue. « To reroute » = réacheminer."
+    },
+    {
+     "speaker": "Brad",
+     "text": "All right. Where are we on the money?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "We put 2.5 percent on the table this morning. They're taking it back to their members, and we meet again Monday. If that goes nowhere, I'd bring in a mediator.",
+     "note_fr": "« To put something on the table » = proposer. « We meet again Monday » : sans préposition devant le jour, tournure américaine."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Fine. Keep me posted, and tell me now if 2.5 isn't going to get it done.",
+     "note_fr": "« To keep someone posted » = tenir au courant. « To get it done » = suffire, faire l'affaire."
+    },
+    {
+     "speaker": "Élise",
+     "text": "It should, if I have a little leeway on the night-shift premium. I'll confirm tomorrow.",
+     "note_fr": "« Leeway » = marge de manœuvre."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why was there no strike vote or notice?",
+     "options": [
+      "The union forgot to organize them.",
+      "In the French private sector neither is required.",
+      "The strike is unlawful.",
+      "The employees are not union members."
+     ],
+     "answer": 1,
+     "explain_fr": "Dans le secteur privé français, la grève n'exige ni préavis ni vote : c'est un droit individuel exercé collectivement."
+    },
+    {
+     "q": "What does 'until this blows over' mean?",
+     "options": [
+      "Until the strike gets worse.",
+      "Until the union signs.",
+      "Until the situation calms down by itself.",
+      "Until the court decides."
+     ],
+     "answer": 2,
+     "explain_fr": "« To blow over » = se dissiper, passer (comme un orage)."
+    },
+    {
+     "q": "Which measure is open to the company?",
+     "options": [
+      "Asking non-striking employees to cover and rerouting volume.",
+      "Hiring permanent replacements.",
+      "Bringing in agency workers.",
+      "Terminating the strike leaders."
+     ],
+     "answer": 0,
+     "explain_fr": "Le recours à l'intérim ou aux CDD pour remplacer des grévistes est interdit ; on peut mobiliser les non-grévistes et réorganiser les flux."
+    }
+   ]
+  },
+  {
+   "id": "dl-cl-3",
+   "title": "A protected employee and the head office in Pune",
+   "context": "A call between Rajesh, Chief People Officer of Suryan Industries in Pune, and Élise, Labour Relations Director of the French subsidiary. Rajesh has been told that a French sales manager who is underperforming 'cannot be dismissed'.",
+   "context_fr": "Appel entre Rajesh, Chief People Officer de Suryan Industries à Pune, et Élise, directrice des relations sociales de la filiale française. On a dit à Rajesh qu'un responsable commercial français peu performant « ne pouvait pas être licencié ».",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Rajesh",
+     "text": "Élise, good afternoon. I'm told we have a sales manager in Nantes who can't be touched. Could you help me understand why?",
+     "note_fr": "« Can't be touched » = intouchable. « Could you help me understand » : demande d'explication courtoise, fréquente en anglais des affaires indien et britannique."
+    },
+    {
+     "speaker": "Élise",
+     "text": "Of course. It isn't quite that he can't be dismissed; it's that we can't do it on our own. He's an elected member of the works council, which makes him what we call a protected employee.",
+     "note_fr": "« It isn't quite that...; it's that... » : on corrige l'idée reçue avant d'expliquer."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "Protected by whom, exactly?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "By the State, in effect. Before we can dismiss him, the works council has to be consulted and the labour inspector, who's a public official, has to authorise it.",
+     "note_fr": "« In effect » = en pratique, de fait (à ne pas confondre avec « in fact »)."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "And on what basis would the inspector decide? Our view is simply that his results are poor.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "She'll look at two things: whether the grounds are solid, and whether there's any link with his role as a representative. If she suspects we're getting rid of an awkward rep, she'll refuse.",
+     "note_fr": "« An awkward rep » = un élu gênant. « To get rid of » = se débarrasser de."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "I see. How long does this take, typically?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "Allow a couple of months from the application, and either side can appeal. And if we dismissed him without authorisation, the dismissal would be void and he'd be entitled to come back.",
+     "note_fr": "« Allow a couple of months » = comptez environ deux mois. « Void » = nul."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "That's a considerable constraint. Does the protection last for ever?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "No, it runs for his term of office and for some months afterwards. But I wouldn't wait it out. I'd rather build a proper performance file and treat him exactly as we'd treat anyone else.",
+     "note_fr": "« To wait it out » = attendre que ça passe. « A proper performance file » = un dossier sérieux sur la performance."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "That sounds sensible. What would you need from the business?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "Clear objectives in writing, regular reviews, and no comments about his council work, in emails or anywhere else.",
+     "note_fr": "Conseil clé : aucune allusion au mandat, sous peine de nourrir un grief de discrimination."
+    },
+    {
+     "speaker": "Rajesh",
+     "text": "Very well. Please set that up with his manager and keep me informed.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why can't the company dismiss the sales manager on its own?",
+     "options": [
+      "He has a fixed-term contract.",
+      "He is a union official at national level.",
+      "He is an elected works council member, so the labour inspector must authorise it.",
+      "His results are in fact good."
+     ],
+     "answer": 2,
+     "explain_fr": "Élu du CSE, il est salarié protégé : consultation du CSE puis autorisation de l'inspecteur du travail."
+    },
+    {
+     "q": "What will the labour inspector check?",
+     "options": [
+      "That the grounds are solid and unconnected with his representative role.",
+      "That the works council voted in favour.",
+      "That the group head office agrees.",
+      "That a replacement has been found."
+     ],
+     "answer": 0,
+     "explain_fr": "L'inspecteur vérifie la réalité du motif et l'absence de lien avec le mandat."
+    },
+    {
+     "q": "What does Élise mean by 'I wouldn't wait it out'?",
+     "options": [
+      "She would dismiss him immediately.",
+      "She would ask him to resign.",
+      "She would transfer him to another site.",
+      "She would not simply wait for the protection to end."
+     ],
+     "answer": 3,
+     "explain_fr": "« To wait it out » = attendre la fin (ici, de la période de protection) sans rien faire."
+    }
+   ]
+  },
+  {
+   "id": "dl-cl-4",
+   "title": "A duty to negotiate, not a duty to agree",
+   "context": "A call between Dana, General Counsel of Halden Corporation in Chicago, and Élise, Labor Relations Director for France. Dana is reviewing the calendar of the annual negotiations and a planned agreement on working time.",
+   "context_fr": "Appel entre Dana, directrice juridique de Halden Corporation à Chicago, et Élise, directrice des relations sociales pour la France. Dana passe en revue le calendrier des NAO et un projet d'accord sur le temps de travail.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Dana",
+     "text": "Hi Élise. I'm looking at your calendar and I see four bargaining sessions in January and February. Is that a contract renewal?",
+     "note_fr": "Aux États-Unis, « the contract » désigne la convention collective, renégociée à son échéance. « Bargaining session » = séance de négociation."
+    },
+    {
+     "speaker": "Élise",
+     "text": "Not quite. We don't have a single contract that expires. What you're looking at is the annual round the law requires: pay, working time and a few other topics.",
+     "note_fr": "« Not quite » corrige sans brusquer. « The annual round » = le cycle annuel de négociation."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Required every year? What happens if you don't reach a deal?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "Then we write up a record of disagreement and management can go ahead with its last offer. It's a duty to negotiate, not a duty to agree.",
+     "note_fr": "Formule à retenir : « a duty to negotiate, not a duty to agree ». « To write up » = rédiger, mettre au propre."
+    },
+    {
+     "speaker": "Dana",
+     "text": "That sounds a lot like impasse on our side. And I assume you have to bargain in good faith.",
+     "note_fr": "« Impasse » : notion juridique américaine. « On our side » = chez nous."
+    },
+    {
+     "speaker": "Élise",
+     "text": "Exactly. We share the pay data up front, we answer their proposals with reasons, and we don't make unilateral decisions on those topics while talks are open.",
+     "note_fr": "« Up front » = d'emblée, en amont. Trois éléments concrets de la loyauté de la négociation."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Got it. Now, who's across the table? One union or several?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "Three, and that matters. An agreement is only valid if the unions that sign it won more than half the vote in the last workplace elections.",
+     "note_fr": "« Across the table » = en face, à la table des négociations. « That matters » : phrase courte pour signaler un point clé."
+    },
+    {
+     "speaker": "Dana",
+     "text": "So one big union can sink the deal by itself.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "Pretty much. Ours has 45 percent, so I need it plus one other, or else an employee vote. That's why I spend so much time on the relationship before we ever talk numbers.",
+     "note_fr": "« Pretty much » = à peu près, en gros. « Before we ever talk numbers » = avant même de parler chiffres."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Makes sense. And the working-time agreement you mentioned, is that part of the same round?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Élise",
+     "text": "No, that's separate. For that one I'd like to sign a short agreement on ground rules first: schedule, documents, time for the union teams to prepare. It saves a lot of arguments later.",
+     "note_fr": "« Ground rules » rend ici l'accord de méthode. « It saves a lot of arguments » = cela évite bien des disputes."
+    },
+    {
+     "speaker": "Dana",
+     "text": "I like that. Send me the draft and I'll turn it around by Friday.",
+     "note_fr": "« To turn something around » = traiter et renvoyer rapidement."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What happens if the annual negotiations fail?",
+     "options": [
+      "A record of disagreement is drawn up and management may apply its last offer.",
+      "The labor inspector imposes an agreement.",
+      "The previous year's agreement is renewed.",
+      "The unions must call a strike vote."
+     ],
+     "answer": 0,
+     "explain_fr": "Obligation de négocier, non de conclure : procès-verbal de désaccord, puis l'employeur peut appliquer ses dernières propositions."
+    },
+    {
+     "q": "Why does Élise need more than the largest union's signature?",
+     "options": [
+      "Because it refuses to sign anything.",
+      "Because the law requires three signatures.",
+      "Because it won only 45 percent and an agreement needs more than half.",
+      "Because it is not representative."
+     ],
+     "answer": 2,
+     "explain_fr": "Accord majoritaire : les signataires doivent avoir recueilli plus de 50 % des suffrages ; 45 % ne suffisent pas."
+    },
+    {
+     "q": "What does Élise want to sign before negotiating on working time?",
+     "options": [
+      "A no-strike clause.",
+      "A short agreement on ground rules.",
+      "A confidentiality agreement.",
+      "A record of disagreement."
+     ],
+     "answer": 1,
+     "explain_fr": "Un accord de méthode (« agreement on ground rules ») : calendrier, documents, moyens des équipes syndicales."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-cl-1",
+   "title": "Explaining French social dialogue to a US chief executive",
+   "situation": "You are Labor Relations Director of the French subsidiary of Halden Corporation. The new group CEO, Karen, is visiting Paris. She comes from a non-union US business and wants to understand, in ten minutes, how employee representation works in France.",
+   "situation_fr": "Vous êtes directeur ou directrice des relations sociales de la filiale française de Halden Corporation. La nouvelle directrice générale du groupe, Karen, est de passage à Paris. Issue d'une entreprise américaine sans syndicat, elle veut comprendre en dix minutes comment fonctionne la représentation du personnel en France.",
+   "turns": [
+    {
+     "say": "Back home we're non-union and proud of it. I'm told that here I have unions and something called a works council. What's the difference?",
+     "seconds": 40,
+     "model": "They're two separate channels. The works council is elected by all employees, and we have to inform and consult it before any major decision. The unions appoint delegates, and those delegates are the ones we negotiate and sign agreements with. So in short: we consult the council, and we bargain with the unions.",
+     "tips_fr": "Donnez la distinction en une phrase, puis résumez (« in short »). Avec une Américaine, « to bargain with » parle davantage que « to negotiate »."
+    },
+    {
+     "say": "Did our French employees vote to bring the unions in? Could they vote them out?",
+     "seconds": 35,
+     "model": "No, it doesn't work that way here. There's no vote for or against having a union. Any union that wins at least ten percent in the workplace elections is entitled to a seat at the table. And there's no decertification: the only thing that changes is each union's score, every four years.",
+     "tips_fr": "Reprenez ses références (vote, « decertification ») pour marquer le contraste. « A seat at the table » est l'image attendue."
+    },
+    {
+     "say": "And this consultation: does it mean they can veto my decisions?",
+     "seconds": 35,
+     "model": "No. The council gives an opinion, and that opinion is advisory. What the law protects is the process: we have to give them real information and enough time before we decide. If we skip that step, a court can suspend the project, and it's actually a criminal offense.",
+     "tips_fr": "Rassurez d'abord (« No »), puis posez la vraie contrainte : le calendrier. Insistez sur « criminal offense », qui marque les esprits."
+    },
+    {
+     "say": "That sounds slow. How do you stop it from holding everything up?",
+     "seconds": 40,
+     "model": "Mostly by planning for it. The time limits are fixed, usually one to three months, so we build them into every project plan from day one. And we've signed an agreement with the unions that sets the ground rules, which removes a lot of the friction. The delays come when head office announces first and asks later.",
+     "tips_fr": "Montrez que le délai est prévisible et se pilote. La dernière phrase, un peu directe, passe bien avec un dirigeant américain."
+    },
+    {
+     "say": "Okay. If you had one piece of advice for me, what would it be?",
+     "seconds": 30,
+     "model": "Don't judge the unions by their membership. Only about one employee in ten is a member, but the agreements they sign cover everyone. If we treat the representatives as serious partners and keep our word, things move. If they feel bypassed, everything takes twice as long.",
+     "tips_fr": "Un seul conseil, formulé simplement, avec un parallélisme final (« If we... If they... ») qui se retient."
+    }
+   ]
+  },
+  {
+   "id": "rp-cl-2",
+   "title": "Chairing the central works council",
+   "situation": "You chair the central works council of Norvale France. Because British colleagues from the group are attending and several members work in English, today's meeting is held in English. The main item is the consultation on a warehouse automation project. The council secretary, Ms Dubois, speaks for the members.",
+   "situation_fr": "Vous présidez le CSE central de Norvale France. Des collègues britanniques du groupe étant présents et plusieurs élus travaillant en anglais, la réunion du jour se tient en anglais. Le point principal est la consultation sur un projet d'automatisation d'entrepôt. La secrétaire du comité, Mme Dubois, s'exprime au nom des élus.",
+   "turns": [
+    {
+     "say": "Good morning. Before we start, I should point out that two full members are absent and their substitutes are here in their place.",
+     "seconds": 30,
+     "model": "Thank you, Ms Dubois, that is noted and will be recorded in the minutes. Good morning, everyone. We have three items on the agenda today. If there are no objections, I suggest we begin by approving the minutes of our last meeting and then move on to the automation project.",
+     "tips_fr": "Ouvrez en prenant acte (« that is noted »), rappelez l'ordre du jour, proposez un déroulement. « If there are no objections » laisse la porte ouverte sans inviter au débat."
+    },
+    {
+     "say": "On the project, we received the workload study only two days ago. We cannot give an opinion today.",
+     "seconds": 40,
+     "model": "I take the point, and I'm not asking the council for its opinion today. The purpose of this meeting is to present the project and to hear your questions. The time limit for the consultation started when the complete file was posted, so you have until the end of next month, and longer if you appoint an expert.",
+     "tips_fr": "Reconnaissez l'objection (« I take the point »), puis clarifiez l'objet de la réunion et le délai. Restez factuel : ni défensif, ni condescendant."
+    },
+    {
+     "say": "In that case, the members wish to appoint an expert to examine the impact on working conditions.",
+     "seconds": 35,
+     "model": "That is the council's right. I'll put the resolution to the vote in a moment; as you know, I don't take part in it. Could you read out the wording, so that it appears in the minutes exactly as the members intend? We will then agree with the firm on the scope of its assignment and its timetable.",
+     "tips_fr": "Montrez que vous connaissez la règle : le président ne vote pas. « Could you read out the wording » sécurise le procès-verbal."
+    },
+    {
+     "say": "The resolution is carried by nine votes, with two abstentions. We would also like more time off for the members working on this.",
+     "seconds": 40,
+     "model": "The result is recorded, thank you. On additional time off, I can't commit this morning, but I'm open to it. I would rather we dealt with it properly, in a short method agreement covering the timetable, the documents and the resources. I can send the union delegates a draft by the end of next week.",
+     "tips_fr": "Ne cédez ni ne fermez : « I can't commit this morning, but I'm open to it ». Proposez un cadre (accord de méthode) et une date."
+    },
+    {
+     "say": "Very well. We have no further questions on this item for now.",
+     "seconds": 25,
+     "model": "Thank you. Let me sum up: the council has appointed an expert, no opinion is being sought today, and I will circulate a draft method agreement by the end of next week. Let's move on to item three.",
+     "tips_fr": "Résumez les décisions en trois points avant de passer au point suivant : c'est aussi ce qui figurera au procès-verbal."
+    }
+   ]
+  },
+  {
+   "id": "rp-cl-3",
+   "title": "Mending fences after a difficult dispute",
+   "situation": "Three weeks after a strike at your Orléans site, you meet Marta, secretary of the group's European Works Council and a respected union representative, over coffee. She was sharply critical of the way management communicated during the dispute. You want to rebuild a working relationship.",
+   "situation_fr": "Trois semaines après une grève sur votre site d'Orléans, vous prenez un café avec Marta, secrétaire du comité d'entreprise européen du groupe et représentante syndicale respectée. Elle a vivement critiqué la communication de la direction pendant le conflit. Vous souhaitez rétablir une relation de travail.",
+   "turns": [
+    {
+     "say": "I'll be honest with you. During the strike, the members heard about your offer from the local press before they heard it from you. That did a lot of damage.",
+     "seconds": 40,
+     "model": "You're right, and I'm glad you've said it plainly. The press release went out before the delegates had been briefed. That was our mistake, not yours, and I've made sure it can't happen again: nothing goes outside the company now until the representatives have heard it first.",
+     "tips_fr": "Reconnaissez sans vous justifier : « You're right », « That was our mistake ». Enchaînez aussitôt sur une mesure concrète."
+    },
+    {
+     "say": "That's easy to say now that it's over. Why should people believe it will be different next time?",
+     "seconds": 35,
+     "model": "They shouldn't take my word for it; they should judge by what we do. So here's something concrete. I'd like to agree a simple protocol with you for any future dispute: who calls whom, within what time, and what gets shared. If we don't stick to it, you'll be able to say so in front of everyone.",
+     "tips_fr": "N'exigez pas la confiance : proposez un moyen de la vérifier. « They shouldn't take my word for it » désarme l'objection."
+    },
+    {
+     "say": "And the people on the picket line? Some of them think their cards are marked.",
+     "seconds": 35,
+     "model": "I understand the worry, and I want to be absolutely clear: nobody will be treated differently because they went on strike. I've said that to every manager on the site. If anyone has a concrete example of the opposite, I want to hear about it directly, and I'll deal with it myself.",
+     "tips_fr": "« Their cards are marked » = ils sont dans le collimateur. Répondez par un engagement net (« absolutely clear ») et une voie de recours personnelle."
+    },
+    {
+     "say": "All right. I'm not promising anything, but I'm willing to give it a try. What do you suggest as a first step?",
+     "seconds": 30,
+     "model": "Thank you, I appreciate that. Let's start small. I suggest the two of us meet once a month, informally, with no agenda and no minutes. And at the next council meeting I'd like us to present the new communication protocol together, if you're comfortable with that.",
+     "tips_fr": "Acceptez la réserve de l'autre sans insister. Un premier pas modeste (« Let's start small ») et une initiative commune valent mieux qu'un grand engagement."
+    }
+   ]
+  },
+  {
+   "id": "rp-cl-4",
+   "title": "The finance chief in Pune questions the annual pay round",
+   "situation": "You are on a call with Anil, Group CFO of Suryan Industries in Pune. He has seen that the French subsidiary plans to negotiate pay with the unions in January, although the group has already fixed a global salary budget. He wants to know why, and what the risks are.",
+   "situation_fr": "Vous êtes en ligne avec Anil, directeur financier du groupe Suryan Industries à Pune. Il a constaté que la filiale française prévoit de négocier les salaires avec les syndicats en janvier, alors que le groupe a déjà arrêté un budget salarial mondial. Il veut comprendre pourquoi, et quels sont les risques.",
+   "turns": [
+    {
+     "say": "We have already set a salary budget of two per cent for every country. Why do you need to negotiate at all?",
+     "seconds": 35,
+     "model": "Because French law requires it. Wherever unions are represented, the company has to open negotiations on pay every year. The group budget remains my mandate, and I fully intend to stay within it. But I can't present two per cent as a decision already taken: I have to put it on the table as an offer and discuss it seriously.",
+     "tips_fr": "Répondez d'abord au « pourquoi » (la loi), puis rassurez sur le budget. « Mandate » est ici le bon mot : le mandat de négociation."
+    },
+    {
+     "say": "And if the unions simply say no? Are we obliged to give more?",
+     "seconds": 35,
+     "model": "No, we're not. The obligation is to negotiate in good faith, not to reach an agreement. If we can't agree, we record the disagreement and I can then apply our last offer. That said, an agreement is worth having: it settles the question for the year and takes pay off the list of grievances.",
+     "tips_fr": "Formule clé : « to negotiate in good faith, not to reach an agreement ». « That said » introduit la nuance sans se contredire."
+    },
+    {
+     "say": "What is the risk of a strike? We had one in Orléans last year.",
+     "seconds": 40,
+     "model": "It's a real risk but a manageable one. Last year's strike had less to do with the figure than with the way it was announced. This year the delegates will have the data before the first meeting, and I'd like a little room on non-pay items, the night-shift premium for instance, so that I'm not negotiating on a single number.",
+     "tips_fr": "Qualifiez le risque (« real but manageable »), donnez la cause de l'an dernier, puis ce que vous faites différemment. Glissez votre demande à la fin."
+    },
+    {
+     "say": "How much room are we talking about? I need a figure.",
+     "seconds": 30,
+     "model": "Up to 0.3 per cent of French payroll, on top of the two per cent, and I may not need all of it. I'd suggest we treat it as a reserve that I can only use with your sign-off. I'll send you a one-page summary after each meeting, so there are no surprises.",
+     "tips_fr": "Donnez un chiffre précis et un garde-fou (« with your sign-off »). Un directeur financier attend de la prévisibilité : promettez un compte rendu régulier."
+    },
+    {
+     "say": "Very well. I can accept that, provided the total does not exceed 2.3 per cent.",
+     "seconds": 20,
+     "model": "Understood, 2.3 per cent is the ceiling. I'll confirm that in writing today and come back to you after the opening meeting on the fourteenth. Thank you for your support on this.",
+     "tips_fr": "Reformulez le plafond pour le verrouiller, annoncez la confirmation écrite et la prochaine étape, puis remerciez brièvement."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Chairing a works council meeting",
+   "function_fr": "Présider une réunion du CSE",
+   "phrases": [
+    {
+     "text": "I declare the meeting open. The first item on the agenda is the approval of the minutes.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Before we turn to item two, are there any comments on the minutes?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I am not asking the council for its opinion today; this is an information meeting.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "The time limit for consultation began on the date the file was made available.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I will now put the resolution to the vote.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Let's take a vote. All those in favor? Against? Any abstentions?",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "The council's opinion is recorded: seven votes against, four in favour.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "That's noted and will go in the minutes. Shall we move on?",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Making and responding to offers at the bargaining table",
+   "function_fr": "Formuler une proposition et y répondre en négociation",
+   "phrases": [
+    {
+     "text": "Management is prepared to offer a general increase of two per cent, subject to agreement on the other items.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Here's where we can go: two percent across the board, plus a one-time bonus.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "We've listened carefully to your demands, and we'd like to come back to you with a revised offer on Thursday.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "If you could move on the timetable, we might be able to look again at the premium.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'm afraid that goes beyond my mandate, but I'm willing to take it back to the board.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "That's a non-starter for us, but let's see what else is on the table.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "Can we park that point for now and come back to it once pay is settled?",
+     "register": "informal",
+     "variety": "uk"
+    },
+    {
+     "text": "This is our final offer, and we would ask you to put it to your members.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Defusing tension and rebuilding trust with representatives",
+   "function_fr": "Désamorcer les tensions et rétablir la confiance avec les représentants",
+   "phrases": [
+    {
+     "text": "I take the point, and I'd like to understand what went wrong from your side.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "That is a fair criticism. The delay was ours, and I regret it.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Let's take a step back. What matters is finding a way forward that both sides can live with.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I can't promise the outcome you want, but I can promise you'll have the full information in good time.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Nobody will be treated differently for having taken part in the action. I want to be absolutely clear about that.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Why don't we take a break, cool off and pick this up again in fifteen minutes?",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "I'd suggest we agree the ground rules first, so that we argue about the substance and not the process.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "I'd like us to draw a line under this and start afresh.",
+     "register": "everyday",
+     "variety": "uk"
+    }
+   ]
+  }
+ ]
+}
