@@ -1,0 +1,3928 @@
+[
+ {
+  "id": "ex-001",
+  "level": 1,
+  "fr": "rupture conventionnelle",
+  "term": {
+   "uk": "mutual termination agreement",
+   "us": "mutual termination agreement"
+  },
+  "ipa": {
+   "uk": "/ˈmjuːtʃuəl ˌtɜːmɪˈneɪʃ(ə)n əˈɡriːmənt/",
+   "us": "/ˈmjuːtʃuəl ˌtɜːrmɪˈneɪʃ(ə)n əˈɡriːmənt/"
+  },
+  "def": "A French procedure by which an employer and an employee on a permanent contract agree to end the contract, subject to approval by the labour authority.",
+  "registers": {
+   "formal": {
+    "uk": "mutual termination agreement",
+    "us": "mutual termination agreement",
+    "ex": "The parties have decided to end the employment contract by way of a [[mutual termination agreement]], in accordance with the French Labour Code."
+   },
+   "everyday": {
+    "uk": "mutual termination",
+    "us": "mutual termination",
+    "ex": "She isn't being dismissed and she isn't resigning: they've gone for a [[mutual termination]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to enter into a mutual termination agreement",
+   "to sign a mutual termination agreement",
+   "to leave under a mutual termination agreement"
+  ],
+  "note_fr": "Ne traduisez pas par « conventional breach » ni « conventional rupture » : incompréhensible. Ni le droit britannique ni le droit américain ne connaissent de procédure homologuée équivalente ; on y parle de « settlement agreement » (UK) ou de « separation agreement » (US), qui sont de simples contrats.",
+  "french_concept": true,
+  "explain": {
+   "written": "The rupture conventionnelle is a statutory procedure under which the employer and an employee on a permanent contract jointly agree to terminate the contract, subject to a cooling-off period and to approval by the labour authority.",
+   "spoken": "It's a termination by mutual agreement, with a set procedure: you meet, you sign, each side gets a cooling-off period, and then the labour authority has to approve it."
+  }
+ },
+ {
+  "id": "ex-002",
+  "level": 1,
+  "fr": "d'un commun accord",
+  "term": {
+   "uk": "by mutual agreement",
+   "us": "by mutual agreement"
+  },
+  "ipa": {
+   "uk": "/baɪ ˈmjuːtʃuəl əˈɡriːmənt/",
+   "us": "/baɪ ˈmjuːtʃuəl əˈɡriːmənt/"
+  },
+  "def": "With both parties freely agreeing, rather than one of them deciding alone.",
+  "registers": {
+   "formal": {
+    "uk": "by mutual consent",
+    "us": "by mutual consent",
+    "ex": "The contract may be terminated at any time [[by mutual consent]] of the parties."
+   },
+   "everyday": {
+    "uk": "by mutual agreement",
+    "us": "by mutual agreement",
+    "ex": "In the end they parted ways [[by mutual agreement]], which suited everyone."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "termination by mutual consent",
+   "to part company by mutual agreement",
+   "a mutually agreed departure"
+  ],
+  "note_fr": "« By common agreement » se comprend mais sonne traduit ; préférez « by mutual agreement / consent ». Attention : « mutual » s'écrit sans « e » final et l'adverbe est « mutually » (« mutually agreed »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-003",
+  "level": 1,
+  "fr": "départ négocié",
+  "term": {
+   "uk": "negotiated exit",
+   "us": "negotiated exit"
+  },
+  "ipa": {
+   "uk": "/nɪˈɡəʊʃieɪtɪd ˈeksɪt/",
+   "us": "/nɪˈɡoʊʃieɪtɪd ˈeɡzɪt/"
+  },
+  "def": "An arrangement under which an employee leaves on terms agreed with the employer rather than being dismissed or simply resigning.",
+  "registers": {
+   "formal": {
+    "uk": "negotiated termination",
+    "us": "negotiated separation",
+    "ex": "The Company is prepared to explore a [[negotiated termination]] of the Employee's employment.",
+    "ex_us": "The Company is prepared to explore a [[negotiated separation]] from employment."
+   },
+   "everyday": {
+    "uk": "agreed exit",
+    "us": "negotiated exit",
+    "ex": "Rather than go down the disciplinary route, they offered him an [[agreed exit]].",
+    "ex_us": "Rather than go the disciplinary route, they offered him a [[negotiated exit]]."
+   },
+   "informal": {
+    "uk": "exit deal",
+    "us": "exit package",
+    "ex": "Rumour has it she walked away with a very decent [[exit deal]].",
+    "ex_us": "Word is she walked away with a very decent [[exit package]]."
+   }
+  },
+  "collocations": [
+   "to negotiate an exit",
+   "to agree exit terms",
+   "an exit package",
+   "to manage someone's exit"
+  ],
+  "note_fr": "« Exit » est le mot courant en anglais RH pour tout départ (« exit interview », « exit terms »). « Negotiated departure » est correct mais plus rare. Évitez « negotiated leaving ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-004",
+  "level": 1,
+  "fr": "évoquer / proposer une rupture négociée",
+  "term": {
+   "uk": "to raise the possibility of an agreed exit",
+   "us": "to raise the possibility of a negotiated exit"
+  },
+  "ipa": {
+   "uk": "/tə reɪz ðə ˌpɒsəˈbɪləti əv ən əˈɡriːd ˈeksɪt/",
+   "us": "/tə reɪz ðə ˌpɑːsəˈbɪləti əv ə nɪˈɡoʊʃieɪtɪd ˈeɡzɪt/"
+  },
+  "def": "To mention to the other party, usually for the first time, that ending the contract by agreement might be an option.",
+  "registers": {
+   "formal": {
+    "uk": "to propose a mutual termination",
+    "us": "to propose a mutual termination",
+    "ex": "Either party may [[propose a mutual termination]]; neither may impose it on the other."
+   },
+   "everyday": {
+    "uk": "to raise the possibility of an agreed exit",
+    "us": "to raise the possibility of a negotiated exit",
+    "ex": "I'd [[raise the possibility of an agreed exit]] with him informally before putting anything in writing.",
+    "ex_us": "I'd [[raise the possibility of a negotiated exit]] with him informally before putting anything in writing."
+   },
+   "informal": {
+    "uk": "to sound someone out",
+    "us": "to sound someone out",
+    "ex": "Could you [[sound her out]] about leaving on agreed terms?"
+   }
+  },
+  "collocations": [
+   "to broach the subject of an exit",
+   "to open exit discussions",
+   "to float the idea of a settlement"
+  ],
+  "note_fr": "« To propose » n'est pas « to offer » : on « proposes » une idée, on « offers » une somme. « To broach the subject » (aborder un sujet délicat) et « to sound someone out » (sonder quelqu'un) sont très utiles dans ce contexte.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-005",
+  "level": 1,
+  "fr": "entretien (de négociation de la rupture conventionnelle)",
+  "term": {
+   "uk": "negotiation meeting",
+   "us": "negotiation meeting"
+  },
+  "ipa": {
+   "uk": "/nɪˌɡəʊʃiˈeɪʃ(ə)n ˈmiːtɪŋ/",
+   "us": "/nɪˌɡoʊʃiˈeɪʃ(ə)n ˈmiːtɪŋ/"
+  },
+  "def": "A meeting at which the employer and the employee discuss whether to end the contract by agreement and on what terms.",
+  "registers": {
+   "formal": {
+    "uk": "meeting to discuss the terms of the termination",
+    "us": "meeting to discuss the terms of the termination",
+    "ex": "The parties shall hold at least one [[meeting to discuss the terms of the termination]] before signing the agreement."
+   },
+   "everyday": {
+    "uk": "negotiation meeting",
+    "us": "negotiation meeting",
+    "ex": "We've had two [[negotiation meetings]] so far and we're close on the figure."
+   },
+   "informal": {
+    "uk": "sit-down",
+    "us": "sit-down",
+    "ex": "Let's have a proper [[sit-down]] with him next week and see where he stands."
+   }
+  },
+  "collocations": [
+   "to hold a meeting",
+   "to invite someone to a meeting",
+   "to adjourn a meeting",
+   "a follow-up meeting"
+  ],
+  "note_fr": "N'utilisez pas « interview » : en anglais, c'est un entretien d'embauche ou journalistique (exception : « exit interview »). Pour la rupture conventionnelle, le droit français exige au moins un entretien ; rien d'équivalent n'est imposé au Royaume-Uni ou aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-006",
+  "level": 2,
+  "fr": "se faire assister (lors d'un entretien)",
+  "term": {
+   "uk": "to be accompanied",
+   "us": "to be accompanied"
+  },
+  "ipa": {
+   "uk": "/tə bi əˈkʌmpənid/",
+   "us": "/tə bi əˈkʌmpənid/"
+  },
+  "def": "To attend a formal meeting together with a person who supports or advises you.",
+  "registers": {
+   "formal": {
+    "uk": "to be assisted by",
+    "us": "to be assisted by",
+    "ex": "The Employee may [[be assisted by]] a fellow employee or, where the company has no staff representatives, by an external adviser from the official list."
+   },
+   "everyday": {
+    "uk": "to bring someone along",
+    "us": "to bring someone along",
+    "ex": "You're welcome to [[bring someone along]] to the meeting if you'd feel more comfortable."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the right to be accompanied",
+   "a companion",
+   "a staff representative",
+   "to attend with a colleague"
+  ],
+  "note_fr": "« Assisted » est correct dans un texte formel, mais « to assist to a meeting » est un faux ami (« assister à » = « to attend »). Au Royaume-Uni, le « right to be accompanied » légal ne vise que les entretiens disciplinaires et de réclamation ; aux États-Unis, il n'existe en principe qu'en milieu syndiqué.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-007",
+  "level": 1,
+  "fr": "délai de rétractation",
+  "term": {
+   "uk": "cooling-off period",
+   "us": "cooling-off period"
+  },
+  "ipa": {
+   "uk": "/ˌkuːlɪŋ ˈɒf ˌpɪəriəd/",
+   "us": "/ˌkuːlɪŋ ˈɔːf ˌpɪriəd/"
+  },
+  "def": "A fixed period after signing during which either party may change its mind and cancel the agreement without giving a reason.",
+  "registers": {
+   "formal": {
+    "uk": "withdrawal period",
+    "us": "withdrawal period",
+    "ex": "Each party has a [[withdrawal period]] of fifteen calendar days from the day after signature."
+   },
+   "everyday": {
+    "uk": "cooling-off period",
+    "us": "cooling-off period",
+    "ex": "Nothing goes to the labour authority until the [[cooling-off period]] is over.",
+    "ex_us": "Nothing goes to the labor authority until the [[cooling-off period]] is over."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the cooling-off period runs from",
+   "the cooling-off period expires on",
+   "during the cooling-off period",
+   "once the cooling-off period has elapsed"
+  ],
+  "note_fr": "« Retractation period » n'existe pas. En droit français, le délai est de quinze jours calendaires pour chacune des parties. Aux États-Unis, on parle de « revocation period » pour le délai dont dispose le salarié de 40 ans et plus après signature d'une renonciation à recours.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-008",
+  "level": 2,
+  "fr": "se rétracter",
+  "term": {
+   "uk": "to withdraw from the agreement",
+   "us": "to withdraw from the agreement"
+  },
+  "ipa": {
+   "uk": "/tə wɪðˈdrɔː frəm ði əˈɡriːmənt/",
+   "us": "/tə wɪðˈdrɔː frəm ði əˈɡriːmənt/"
+  },
+  "def": "To cancel one's acceptance of an agreement within the period allowed for doing so.",
+  "registers": {
+   "formal": {
+    "uk": "to exercise one's right of withdrawal",
+    "us": "to exercise one's right of withdrawal",
+    "ex": "Either party may [[exercise its right of withdrawal]] by letter delivered to the other party within the period."
+   },
+   "everyday": {
+    "uk": "to change one's mind",
+    "us": "to change one's mind",
+    "ex": "He's got until the 20th to [[change his mind]], so let's not announce anything yet.",
+    "ex_us": "He has until the 20th to [[change his mind]], so let's not announce anything yet."
+   },
+   "informal": {
+    "uk": "to pull out",
+    "us": "to back out",
+    "ex": "If she [[pulls out]] now, we're back to square one.",
+    "ex_us": "If she [[backs out]] now, we're back to square one."
+   }
+  },
+  "collocations": [
+   "to withdraw one's consent",
+   "to exercise the right of withdrawal",
+   "to give notice of withdrawal",
+   "to go back on an agreement"
+  ],
+  "note_fr": "« To retract » s'emploie pour une déclaration ou une démission (« to retract a statement »), pas pour un accord. Notez la construction : « to withdraw FROM an agreement » mais « to withdraw an offer ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-009",
+  "level": 2,
+  "fr": "homologation",
+  "term": {
+   "uk": "administrative approval",
+   "us": "administrative approval"
+  },
+  "ipa": {
+   "uk": "/ədˈmɪnɪstrətɪv əˈpruːv(ə)l/",
+   "us": "/ədˈmɪnɪstreɪtɪv əˈpruːv(ə)l/"
+  },
+  "def": "Formal approval by the French labour authority, without which a mutual termination agreement has no effect.",
+  "registers": {
+   "formal": {
+    "uk": "approval by the labour authority",
+    "us": "approval by the labor authority",
+    "ex": "The validity of the agreement is conditional upon its [[approval by the labour authority]].",
+    "ex_us": "The validity of the agreement is conditional upon its [[approval by the labor authority]]."
+   },
+   "everyday": {
+    "uk": "sign-off from the labour authority",
+    "us": "sign-off from the labor authority",
+    "ex": "We can't confirm his leaving date until we have [[sign-off from the labour authority]].",
+    "ex_us": "We can't confirm his last day until we have [[sign-off from the labor authority]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be subject to approval",
+   "to obtain approval",
+   "to grant approval",
+   "pending approval"
+  ],
+  "note_fr": "« Homologation » existe en anglais mais relève du vocabulaire technique (automobile, sport) : personne ne le comprendra en RH. Rien d'équivalent au Royaume-Uni ni aux États-Unis, où un accord de départ ne passe devant aucune administration.",
+  "french_concept": true,
+  "explain": {
+   "written": "Homologation is the formal approval of a mutual termination agreement by the regional labour authority, which checks that the procedure was followed and that both parties consented freely.",
+   "spoken": "Once it's signed, the agreement has to be approved by the labour authority. Until that's done, the contract simply carries on."
+  }
+ },
+ {
+  "id": "ex-010",
+  "level": 3,
+  "fr": "demande d'homologation",
+  "term": {
+   "uk": "application for approval",
+   "us": "application for approval"
+  },
+  "ipa": {
+   "uk": "/ˌæplɪˈkeɪʃ(ə)n fər əˈpruːv(ə)l/",
+   "us": "/ˌæplɪˈkeɪʃ(ə)n fər əˈpruːv(ə)l/"
+  },
+  "def": "The formal request sent to the labour authority, after the cooling-off period, asking it to approve the agreement.",
+  "registers": {
+   "formal": {
+    "uk": "application for approval",
+    "us": "application for approval",
+    "ex": "Upon expiry of the withdrawal period, the [[application for approval]] shall be submitted by whichever party acts first."
+   },
+   "everyday": {
+    "uk": "to send it off for approval",
+    "us": "to send it off for approval",
+    "ex": "The cooling-off period ends on Friday, so we'll [[send it off for approval]] on Monday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to submit an application",
+   "to file an application online",
+   "to lodge an application",
+   "the authority's review period"
+  ],
+  "note_fr": "« Demand » est un faux ami : « a demand » est une exigence. Une demande administrative est « an application » ou « a request ». « To file » est plus américain, « to lodge » plus britannique ; « to submit » passe partout.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-011",
+  "level": 3,
+  "fr": "homologation tacite (silence valant acceptation)",
+  "term": {
+   "uk": "deemed approval",
+   "us": "deemed approval"
+  },
+  "ipa": {
+   "uk": "/diːmd əˈpruːv(ə)l/",
+   "us": "/diːmd əˈpruːv(ə)l/"
+  },
+  "def": "Approval that is treated as given because the authority has not replied within the time allowed.",
+  "registers": {
+   "formal": {
+    "uk": "to be deemed to have been approved",
+    "us": "to be deemed to have been approved",
+    "ex": "If the authority has not responded within the review period, the agreement shall [[be deemed to have been approved]]."
+   },
+   "everyday": {
+    "uk": "no news is good news",
+    "us": "no news is good news",
+    "ex": "With the labour authority, [[no news is good news]]: if they stay silent, it's approved.",
+    "ex_us": "With the labor authority, [[no news is good news]]: if they stay silent, it's approved."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "tacit approval",
+   "approval by default",
+   "in the absence of a reply",
+   "silence amounts to approval"
+  ],
+  "note_fr": "« Deemed » (réputé) est le mot juridique clé : « deemed approval », « deemed to have resigned ». Pour un interlocuteur anglo-saxon, précisez toujours que le silence de l'administration vaut ici acceptation : l'idée lui est peu familière.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-012",
+  "level": 2,
+  "fr": "refus d'homologation",
+  "term": {
+   "uk": "refusal of approval",
+   "us": "refusal of approval"
+  },
+  "ipa": {
+   "uk": "/rɪˈfjuːz(ə)l əv əˈpruːv(ə)l/",
+   "us": "/rɪˈfjuːz(ə)l əv əˈpruːv(ə)l/"
+  },
+  "def": "A decision by the labour authority not to approve the agreement, so that the employment contract continues.",
+  "registers": {
+   "formal": {
+    "uk": "to refuse approval",
+    "us": "to refuse approval",
+    "ex": "Should the authority [[refuse approval]], the employment contract shall continue on its existing terms."
+   },
+   "everyday": {
+    "uk": "to turn down",
+    "us": "to turn down",
+    "ex": "The agreement was [[turned down]] because the payment was below the legal minimum."
+   },
+   "informal": {
+    "uk": "to knock back",
+    "us": "to kick back",
+    "ex": "The first application got [[knocked back]] over a wrong date.",
+    "ex_us": "The first application got [[kicked back]] over a wrong date."
+   }
+  },
+  "collocations": [
+   "to reject an application",
+   "grounds for refusal",
+   "to resubmit the agreement",
+   "to challenge the refusal"
+  ],
+  "note_fr": "« To refuse » se construit avec un nom ou « to + verbe » : « the authority refused to approve it », jamais « refused that ». « To knock back » est britannique et familier ; l'américain dirait « to kick back » ou « to bounce ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-013",
+  "level": 2,
+  "fr": "indemnité spécifique de rupture conventionnelle",
+  "term": {
+   "uk": "specific termination payment",
+   "us": "specific termination payment"
+  },
+  "ipa": {
+   "uk": "/spəˈsɪfɪk ˌtɜːmɪˈneɪʃ(ə)n ˈpeɪmənt/",
+   "us": "/spəˈsɪfɪk ˌtɜːrmɪˈneɪʃ(ə)n ˈpeɪmənt/"
+  },
+  "def": "The sum the employer must pay an employee who leaves under a French mutual termination agreement, which cannot be lower than the statutory dismissal payment.",
+  "registers": {
+   "formal": {
+    "uk": "specific termination payment",
+    "us": "specific termination payment",
+    "ex": "The Employee shall receive a [[specific termination payment]] in a gross amount of not less than the statutory severance entitlement."
+   },
+   "everyday": {
+    "uk": "termination payment",
+    "us": "severance payment",
+    "ex": "The [[termination payment]] is the legal minimum plus four months' salary on top.",
+    "ex_us": "The [[severance payment]] is the legal minimum plus four months' salary on top."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to calculate the termination payment",
+   "not less than the statutory minimum",
+   "to top up the payment",
+   "payable on the termination date"
+  ],
+  "note_fr": "« Indemnity » est un faux ami : en anglais juridique, c'est une garantie contre un préjudice subi par autrui. Pour une somme versée au départ, dites « payment », « compensation » ou « severance ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The indemnité spécifique de rupture conventionnelle is the payment due to an employee who leaves under a mutual termination agreement; its amount is negotiated but may not be less than the statutory dismissal payment.",
+   "spoken": "It's the payment the employee gets on the way out. You can negotiate the amount, but there's a legal floor you can't go below."
+  }
+ },
+ {
+  "id": "ex-014",
+  "level": 1,
+  "fr": "indemnités de départ",
+  "term": {
+   "uk": "termination payment",
+   "us": "severance pay"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmɪˈneɪʃ(ə)n ˈpeɪmənt/",
+   "us": "/ˈsevərəns peɪ/"
+  },
+  "def": "Money paid by an employer to an employee because the employment is ending.",
+  "registers": {
+   "formal": {
+    "uk": "termination payment",
+    "us": "severance pay",
+    "ex": "The [[termination payment]] shall be made within twenty-eight days of the Termination Date.",
+    "ex_us": "[[Severance pay]] shall be paid in a lump sum within thirty days of the Separation Date."
+   },
+   "everyday": {
+    "uk": "severance package",
+    "us": "severance package",
+    "ex": "They've put together a [[severance package]] worth about nine months' salary."
+   },
+   "informal": {
+    "uk": "pay-off",
+    "us": "payout",
+    "ex": "He left with a six-figure [[pay-off]].",
+    "ex_us": "He left with a six-figure [[payout]]."
+   }
+  },
+  "collocations": [
+   "a lump sum",
+   "a severance package",
+   "to be entitled to severance",
+   "an enhanced payment"
+  ],
+  "note_fr": "« Severance » s'emploie surtout aux États-Unis, où il n'est dû que si un contrat ou une politique interne le prévoit. Au Royaume-Uni, on distingue « redundancy pay » (licenciement économique) et « termination payment » (terme général). « Golden handshake » désigne familièrement un départ très bien indemnisé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-015",
+  "level": 1,
+  "fr": "date de rupture du contrat",
+  "term": {
+   "uk": "termination date",
+   "us": "termination date"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmɪˈneɪʃ(ə)n deɪt/",
+   "us": "/ˌtɜːrmɪˈneɪʃ(ə)n deɪt/"
+  },
+  "def": "The day on which the employment contract legally comes to an end.",
+  "registers": {
+   "formal": {
+    "uk": "Termination Date",
+    "us": "Separation Date",
+    "ex": "The Employee's employment shall end on 30 June (the '[[Termination Date]]').",
+    "ex_us": "The Employee's employment shall end on June 30 (the '[[Separation Date]]')."
+   },
+   "everyday": {
+    "uk": "leaving date",
+    "us": "last day",
+    "ex": "Have we agreed a [[leaving date]] with her yet?",
+    "ex_us": "Have we agreed on a [[last day]] with her yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to agree a termination date",
+   "the earliest possible termination date",
+   "to bring the date forward",
+   "to push the date back"
+  ],
+  "note_fr": "Pour une rupture conventionnelle, la date ne peut pas être antérieure au lendemain de l'homologation. Notez « to bring forward » (avancer) et « to push back » (reculer) ; « to agree a date » est britannique, l'américain dit « to agree on a date ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-016",
+  "level": 2,
+  "fr": "consentement libre et éclairé",
+  "term": {
+   "uk": "free and informed consent",
+   "us": "free and informed consent"
+  },
+  "ipa": {
+   "uk": "/friː ənd ɪnˈfɔːmd kənˈsent/",
+   "us": "/friː ənd ɪnˈfɔːrmd kənˈsent/"
+  },
+  "def": "Agreement given voluntarily by a person who understands what he or she is agreeing to.",
+  "registers": {
+   "formal": {
+    "uk": "free and informed consent",
+    "us": "knowing and voluntary consent",
+    "ex": "Each party confirms that it has given its [[free and informed consent]] to this agreement.",
+    "ex_us": "Employee acknowledges that he has given his [[knowing and voluntary consent]] to this Agreement."
+   },
+   "everyday": {
+    "uk": "to agree of one's own free will",
+    "us": "to agree of one's own free will",
+    "ex": "We need to be sure she's [[agreeing of her own free will]] and knows what she's signing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to consent freely",
+   "without pressure",
+   "to enter into an agreement knowingly and voluntarily",
+   "to understand the consequences"
+  ],
+  "note_fr": "Aux États-Unis, la formule consacrée pour la validité d'une renonciation à recours est « knowing and voluntary ». « Enlightened consent » est un calque à éviter.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-017",
+  "level": 3,
+  "fr": "vice du consentement",
+  "term": {
+   "uk": "vitiated consent",
+   "us": "vitiated consent"
+  },
+  "ipa": {
+   "uk": "/ˈvɪʃieɪtɪd kənˈsent/",
+   "us": "/ˈvɪʃieɪtɪd kənˈsent/"
+  },
+  "def": "Consent that is legally defective because it was obtained by mistake, deception or pressure.",
+  "registers": {
+   "formal": {
+    "uk": "to vitiate consent",
+    "us": "to vitiate consent",
+    "ex": "Evidence of harassment at the time of signature may [[vitiate consent]] and render the agreement void."
+   },
+   "everyday": {
+    "uk": "to sign under pressure",
+    "us": "to sign under pressure",
+    "ex": "If he can show he [[signed under pressure]], a court could set the whole agreement aside."
+   },
+   "informal": {
+    "uk": "to be strong-armed into signing",
+    "us": "to be strong-armed into signing",
+    "ex": "She says she was [[strong-armed into signing]] on the spot."
+   }
+  },
+  "collocations": [
+   "duress",
+   "undue influence",
+   "misrepresentation",
+   "to set an agreement aside"
+  ],
+  "note_fr": "« Vice of consent » fait sourire (« vice » = le vice moral). Les notions de common law sont « duress » (contrainte), « undue influence » (abus d'influence), « misrepresentation » (dol) et « mistake » (erreur). « To set aside » = annuler (par un juge).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-018",
+  "level": 3,
+  "fr": "rupture conventionnelle collective",
+  "term": {
+   "uk": "collective mutual termination scheme",
+   "us": "collective mutual termination program"
+  },
+  "ipa": {
+   "uk": "/kəˈlektɪv ˈmjuːtʃuəl ˌtɜːmɪˈneɪʃ(ə)n skiːm/",
+   "us": "/kəˈlektɪv ˈmjuːtʃuəl ˌtɜːrmɪˈneɪʃ(ə)n ˈproʊɡræm/"
+  },
+  "def": "A French scheme, set up by a collective agreement approved by the labour authority, under which employees may volunteer to leave on agreed terms without any redundancy procedure.",
+  "registers": {
+   "formal": {
+    "uk": "collective mutual termination scheme",
+    "us": "collective mutual termination program",
+    "ex": "The [[collective mutual termination scheme]] sets a maximum number of departures and rules out any compulsory dismissal.",
+    "ex_us": "The [[collective mutual termination program]] sets a maximum number of departures and rules out any involuntary termination."
+   },
+   "everyday": {
+    "uk": "voluntary exit scheme",
+    "us": "voluntary exit program",
+    "ex": "Applications for the [[voluntary exit scheme]] close at the end of March.",
+    "ex_us": "Applications for the [[voluntary exit program]] close at the end of March."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for the scheme",
+   "to open the scheme to volunteers",
+   "on a purely voluntary basis",
+   "the scheme is oversubscribed"
+  ],
+  "note_fr": "« Scheme » est neutre en anglais britannique (dispositif) mais péjoratif en américain (combine) : dites « program » ou « plan » aux États-Unis. Les équivalents fonctionnels sont le « voluntary exit scheme » britannique et le « voluntary separation program » américain, sans le cadre légal français.",
+  "french_concept": true,
+  "explain": {
+   "written": "The rupture conventionnelle collective is a framework, negotiated with the trade unions and approved by the labour authority, allowing a set number of employees to leave voluntarily on agreed terms outside any redundancy procedure.",
+   "spoken": "It's a voluntary exit scheme agreed with the unions: people can put themselves forward to leave with a package, and nobody can be forced out."
+  }
+ },
+ {
+  "id": "ex-019",
+  "level": 1,
+  "fr": "régler les derniers détails",
+  "term": {
+   "uk": "to tie up loose ends",
+   "us": "to tie up loose ends"
+  },
+  "ipa": {
+   "uk": "/tə taɪ ʌp luːs endz/",
+   "us": "/tə taɪ ʌp luːs endz/"
+  },
+  "def": "To deal with the last small matters that remain before something is finished.",
+  "registers": {
+   "formal": {
+    "uk": "to finalise outstanding matters",
+    "us": "to finalize outstanding matters",
+    "ex": "The parties shall cooperate in good faith to [[finalise outstanding matters]] before the Termination Date.",
+    "ex_us": "The parties shall cooperate in good faith to [[finalize outstanding matters]] before the Separation Date."
+   },
+   "everyday": {
+    "uk": "to tie up loose ends",
+    "us": "to tie up loose ends",
+    "ex": "I've got two weeks left, which should be enough to [[tie up loose ends]].",
+    "ex_us": "I have two weeks left, which should be enough to [[tie up loose ends]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "outstanding matters",
+   "to wrap things up",
+   "to sort out the paperwork",
+   "to leave things in good order"
+  ],
+  "note_fr": "« Outstanding » signifie ici « en suspens, restant à régler » (« outstanding holiday », « outstanding expenses ») et non « remarquable ». « To wrap up » = boucler, conclure.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-020",
+  "level": 1,
+  "fr": "se quitter en bons termes",
+  "term": {
+   "uk": "to part on good terms",
+   "us": "to part on good terms"
+  },
+  "ipa": {
+   "uk": "/tə pɑːt ɒn ɡʊd tɜːmz/",
+   "us": "/tə pɑːrt ɑːn ɡʊd tɜːrmz/"
+  },
+  "def": "To end a working relationship without conflict or bad feeling.",
+  "registers": {
+   "formal": {
+    "uk": "to part amicably",
+    "us": "to part amicably",
+    "ex": "The parties wish to [[part amicably]] and to settle all matters between them."
+   },
+   "everyday": {
+    "uk": "to part on good terms",
+    "us": "to part on good terms",
+    "ex": "It's a small sector, so it's in everyone's interest to [[part on good terms]]."
+   },
+   "informal": {
+    "uk": "no hard feelings",
+    "us": "no hard feelings",
+    "ex": "It didn't work out, but there are [[no hard feelings]] on either side."
+   }
+  },
+  "collocations": [
+   "an amicable separation",
+   "to part company",
+   "to part ways",
+   "not to burn one's bridges"
+  ],
+  "note_fr": "« Amicably » (à l'amiable) et non « amiably » (aimablement) : deux mots distincts. « To part company with someone » est aussi l'euphémisme journalistique pour un départ. « Don't burn your bridges » : ne coupez pas les ponts.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-021",
+  "level": 1,
+  "fr": "transaction (accord transactionnel)",
+  "term": {
+   "uk": "settlement agreement",
+   "us": "settlement agreement"
+  },
+  "ipa": {
+   "uk": "/ˈset(ə)lmənt əˈɡriːmənt/",
+   "us": "/ˈset(ə)lmənt əˈɡriːmənt/"
+  },
+  "def": "A written agreement that ends or prevents a dispute, usually by one party paying a sum and the other giving up its claims.",
+  "registers": {
+   "formal": {
+    "uk": "settlement agreement",
+    "us": "settlement agreement",
+    "ex": "This [[settlement agreement]] is intended to bring to an end any dispute arising from the termination of the Employee's employment."
+   },
+   "everyday": {
+    "uk": "settlement",
+    "us": "settlement",
+    "ex": "Their lawyer has hinted they'd be open to a [[settlement]]."
+   },
+   "informal": {
+    "uk": "deal",
+    "us": "deal",
+    "ex": "I think there's a [[deal]] to be done here."
+   }
+  },
+  "collocations": [
+   "to enter into a settlement agreement",
+   "to negotiate a settlement",
+   "an out-of-court settlement",
+   "the terms of the settlement"
+  ],
+  "note_fr": "Faux ami majeur : « a transaction » est une opération commerciale ou bancaire, jamais un accord mettant fin à un litige. En droit français, la transaction suppose des concessions réciproques et, après un licenciement, se signe une fois la rupture notifiée. Au Royaume-Uni, le « settlement agreement » (ex-« compromise agreement ») n'est valable que si le salarié a été conseillé par un conseiller indépendant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-022",
+  "level": 1,
+  "fr": "transiger / conclure un accord",
+  "term": {
+   "uk": "to settle",
+   "us": "to settle"
+  },
+  "ipa": {
+   "uk": "/tə ˈset(ə)l/",
+   "us": "/tə ˈset(ə)l/"
+  },
+  "def": "To end a dispute by agreement instead of letting a court decide it.",
+  "registers": {
+   "formal": {
+    "uk": "to reach a settlement",
+    "us": "to reach a settlement",
+    "ex": "The parties have [[reached a settlement]] on the terms set out below."
+   },
+   "everyday": {
+    "uk": "to settle",
+    "us": "to settle",
+    "ex": "My advice would be to [[settle]] now rather than spend two years in court."
+   },
+   "informal": {
+    "uk": "to do a deal",
+    "us": "to cut a deal",
+    "ex": "They'd rather [[do a deal]] than see this in the papers.",
+    "ex_us": "They'd rather [[cut a deal]] than see this in the papers."
+   }
+  },
+  "collocations": [
+   "to settle a claim",
+   "to settle out of court",
+   "to settle for a lower amount",
+   "to be willing to settle"
+  ],
+  "note_fr": "« To transact » ne convient pas. Distinguez « to settle a claim » (régler un litige), « to settle for » (se contenter de) et « to settle in » (s'installer). « To compromise a claim » existe en anglais juridique britannique, mais « to compromise » signifie le plus souvent « compromettre ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-023",
+  "level": 2,
+  "fr": "concessions réciproques",
+  "term": {
+   "uk": "mutual concessions",
+   "us": "mutual concessions"
+  },
+  "ipa": {
+   "uk": "/ˈmjuːtʃuəl kənˈseʃ(ə)nz/",
+   "us": "/ˈmjuːtʃuəl kənˈseʃ(ə)nz/"
+  },
+  "def": "Something given up by each party in order to reach an agreement.",
+  "registers": {
+   "formal": {
+    "uk": "mutual concessions",
+    "us": "mutual concessions",
+    "ex": "Under French law, a settlement is valid only if it records [[mutual concessions]] by the parties."
+   },
+   "everyday": {
+    "uk": "give and take",
+    "us": "give and take",
+    "ex": "There has to be some [[give and take]]: he drops the claim, we improve the payment."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a concession",
+   "a genuine concession",
+   "in consideration of",
+   "in return for"
+  ],
+  "note_fr": "En common law, la notion voisine est la « consideration » (contrepartie), condition de validité de tout contrat : d'où la formule « in consideration of the payment... ». Ce n'est pas « la considération ». « Give and take » est invariable et très courant à l'oral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-024",
+  "level": 2,
+  "fr": "indemnité transactionnelle",
+  "term": {
+   "uk": "settlement payment",
+   "us": "settlement payment"
+  },
+  "ipa": {
+   "uk": "/ˈset(ə)lmənt ˈpeɪmənt/",
+   "us": "/ˈset(ə)lmənt ˈpeɪmənt/"
+  },
+  "def": "The sum paid under a settlement agreement in exchange for the other party giving up its claims.",
+  "registers": {
+   "formal": {
+    "uk": "settlement payment",
+    "us": "settlement payment",
+    "ex": "The Company shall pay the Employee a [[settlement payment]] of EUR 25,000 gross, in addition to his contractual entitlements.",
+    "ex_us": "The Company shall pay Employee a [[settlement payment]] of EUR 25,000 gross, in addition to his contractual entitlements."
+   },
+   "everyday": {
+    "uk": "settlement figure",
+    "us": "settlement figure",
+    "ex": "We're still some way apart on the [[settlement figure]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the settlement sum",
+   "to agree a figure",
+   "over and above contractual entitlements",
+   "payable within thirty days"
+  ],
+  "note_fr": "Précisez toujours « gross » ou « net » et ce qui s'ajoute (« in addition to », « over and above ») ou est inclus (« inclusive of »). Rappel : pas d'« indemnity » ici. « Figure » = chiffre, montant ; « to agree a figure » (UK) / « to agree on a number » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-025",
+  "level": 2,
+  "fr": "renonciation à tout recours",
+  "term": {
+   "uk": "waiver of claims",
+   "us": "waiver of claims"
+  },
+  "ipa": {
+   "uk": "/ˈweɪvər əv kleɪmz/",
+   "us": "/ˈweɪvər əv kleɪmz/"
+  },
+  "def": "An undertaking by which a person gives up the right to bring legal proceedings about a particular matter.",
+  "registers": {
+   "formal": {
+    "uk": "waiver of claims",
+    "us": "waiver of claims",
+    "ex": "The [[waiver of claims]] in clause 5 covers all claims relating to the performance or termination of the contract."
+   },
+   "everyday": {
+    "uk": "to agree not to bring a claim",
+    "us": "to agree not to sue",
+    "ex": "In return for the payment, she [[agrees not to bring a claim]] against the company.",
+    "ex_us": "In return for the payment, she [[agrees not to sue]] the company."
+   },
+   "informal": {
+    "uk": "to sign away one's rights",
+    "us": "to sign away one's rights",
+    "ex": "Get advice first, because you're effectively [[signing away your rights]]."
+   }
+  },
+  "collocations": [
+   "to waive all claims",
+   "a covenant not to sue",
+   "known and unknown claims",
+   "to bring proceedings"
+  ],
+  "note_fr": "« Renunciation » est rare et littéraire ; le terme juridique est « waiver ». Certains droits ne peuvent pas faire l'objet d'une renonciation : au Royaume-Uni, la renonciation à des droits légaux n'est valable que dans un « settlement agreement » conforme ou un accord conclu via l'Acas ; aux États-Unis, on ne peut pas renoncer au droit de saisir l'agence fédérale chargée de l'égalité (EEOC).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-026",
+  "level": 2,
+  "fr": "à titre de règlement global et définitif",
+  "term": {
+   "uk": "in full and final settlement",
+   "us": "in full and final settlement"
+  },
+  "ipa": {
+   "uk": "/ɪn fʊl ənd ˈfaɪn(ə)l ˈset(ə)lmənt/",
+   "us": "/ɪn fʊl ənd ˈfaɪn(ə)l ˈset(ə)lmənt/"
+  },
+  "def": "As a payment or agreement that completely and permanently ends all the claims concerned.",
+  "registers": {
+   "formal": {
+    "uk": "in full and final settlement of",
+    "us": "in full and final settlement of",
+    "ex": "The Employee accepts the payment [[in full and final settlement of]] all claims he has or may have against the Company.",
+    "ex_us": "Employee accepts the payment [[in full and final settlement of]] all claims he has or may have against the Company."
+   },
+   "everyday": {
+    "uk": "to draw a line under",
+    "us": "to put the matter to rest",
+    "ex": "The idea is to [[draw a line under]] the whole thing so that both sides can move on.",
+    "ex_us": "The idea is to [[put the matter to rest]] so that both sides can move on."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "full and final settlement",
+   "all claims of whatever nature",
+   "to close the matter once and for all",
+   "to move on"
+  ],
+  "note_fr": "Le doublet « full and final » est figé : ne dites pas « total and definitive ». Attention, « definitive » signifie « qui fait autorité » (« the definitive guide »), pas « définitif » au sens de « final ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-027",
+  "level": 3,
+  "fr": "décharge / quitus (renonciation générale à recours)",
+  "term": {
+   "uk": "release of claims",
+   "us": "release of claims"
+  },
+  "ipa": {
+   "uk": "/rɪˈliːs əv kleɪmz/",
+   "us": "/rɪˈliːs əv kleɪmz/"
+  },
+  "def": "A contractual statement by which one party frees the other from liability for the claims described.",
+  "registers": {
+   "formal": {
+    "uk": "to release and discharge",
+    "us": "to release and discharge",
+    "ex": "The Employee hereby [[releases and discharges]] the Company and its affiliates from all claims arising out of his employment.",
+    "ex_us": "Employee hereby [[releases and discharges]] the Company and its affiliates from any and all claims arising out of his employment."
+   },
+   "everyday": {
+    "uk": "release",
+    "us": "release",
+    "ex": "No [[release]], no payment: that's the standard position in the States."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a general release",
+   "a mutual release",
+   "to sign a release",
+   "the released parties"
+  ],
+  "note_fr": "« Release » (libération, décharge) est le terme américain habituel là où le Britannique dit « waiver » ou « settlement ». Un « mutual release » lie les deux parties. Ne confondez pas avec « press release » (communiqué).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-028",
+  "level": 3,
+  "fr": "accord de départ avec renonciation à recours (pratique américaine)",
+  "term": {
+   "uk": "severance agreement and release",
+   "us": "severance agreement and release"
+  },
+  "ipa": {
+   "uk": "/ˈsev(ə)rəns əˈɡriːmənt ənd rɪˈliːs/",
+   "us": "/ˈsevərəns əˈɡriːmənt ənd rɪˈliːs/"
+  },
+  "def": "In the US, a contract under which a departing employee receives severance pay in exchange for giving up the right to sue the employer.",
+  "registers": {
+   "formal": {
+    "uk": "settlement agreement",
+    "us": "severance agreement and general release",
+    "ex": "The payment is conditional upon the Employee signing a [[settlement agreement]] in the form attached.",
+    "ex_us": "Payment is conditioned upon Employee's execution of a [[severance agreement and general release]] in the form attached."
+   },
+   "everyday": {
+    "uk": "settlement agreement",
+    "us": "separation agreement",
+    "ex": "We'll send her the [[settlement agreement]] once her solicitor's details are confirmed.",
+    "ex_us": "We'll send her the [[separation agreement]] once legal has signed off on it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to execute an agreement",
+   "in exchange for a release",
+   "severance is conditional on signing",
+   "to review the agreement with an attorney"
+  ],
+  "note_fr": "Aux États-Unis, l'indemnité n'est en général pas due par la loi : elle est offerte en échange de la signature d'un « release ». « To execute an agreement » signifie le signer en bonne et due forme, pas l'exécuter. « Conditioned upon » est américain ; « conditional upon » britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-029",
+  "level": 2,
+  "fr": "sous toutes réserves (discussions de règlement confidentielles)",
+  "term": {
+   "uk": "without prejudice",
+   "us": "for settlement purposes only"
+  },
+  "ipa": {
+   "uk": "/wɪˌðaʊt ˈpredʒʊdɪs/",
+   "us": "/fər ˈset(ə)lmənt ˈpɜːrpəsɪz ˈoʊnli/"
+  },
+  "def": "Describes settlement discussions or letters which cannot later be used as evidence against the party who made them.",
+  "registers": {
+   "formal": {
+    "uk": "on a without prejudice basis",
+    "us": "for settlement purposes only",
+    "ex": "This offer is made [[on a without prejudice basis]] and may not be referred to in any proceedings.",
+    "ex_us": "This offer is made [[for settlement purposes only]] and may not be used as evidence in any proceeding."
+   },
+   "everyday": {
+    "uk": "without prejudice",
+    "us": "confidential settlement discussion",
+    "ex": "Can we have a [[without prejudice]] conversation about how we might resolve this?",
+    "ex_us": "Can we have a [[confidential settlement discussion]] about how we might resolve this?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a without prejudice letter",
+   "a without prejudice meeting",
+   "without prejudice save as to costs",
+   "to mark a letter 'without prejudice'"
+  ],
+  "note_fr": "« Without prejudice » ne veut pas dire « sans préjugé ». Au Royaume-Uni, la protection suppose qu'un litige existe déjà et qu'il s'agisse d'une tentative sincère de règlement : écrire la mention en tête de lettre ne suffit pas. Aux États-Unis, l'expression est peu employée dans ce sens ; les règles de preuve y protègent les offres de règlement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-030",
+  "level": 3,
+  "fr": "« protected conversation » (négociation préalable à la rupture, droit britannique)",
+  "term": {
+   "uk": "protected conversation",
+   "us": "protected conversation"
+  },
+  "ipa": {
+   "uk": "/prəˈtektɪd ˌkɒnvəˈseɪʃ(ə)n/",
+   "us": "/prəˈtektɪd ˌkɑːnvərˈseɪʃ(ə)n/"
+  },
+  "def": "In Great Britain, a confidential discussion about ending someone's employment on agreed terms, which generally cannot be used as evidence in an ordinary unfair dismissal claim.",
+  "registers": {
+   "formal": {
+    "uk": "pre-termination negotiations",
+    "us": "pre-termination negotiations",
+    "ex": "Evidence of [[pre-termination negotiations]] is inadmissible in ordinary unfair dismissal proceedings, save where there has been improper behaviour.",
+    "ex_us": "Under British law, evidence of [[pre-termination negotiations]] is inadmissible in ordinary unfair dismissal proceedings, save where there has been improper behavior."
+   },
+   "everyday": {
+    "uk": "protected conversation",
+    "us": "protected conversation",
+    "ex": "HR asked him in for a [[protected conversation]] and offered him three months' pay to go."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold a protected conversation",
+   "improper behaviour",
+   "undue pressure",
+   "inadmissible in evidence"
+  ],
+  "note_fr": "Notion propre au droit britannique, sans équivalent américain ni français. À la différence du « without prejudice », elle ne suppose aucun litige préexistant, mais elle ne joue ni pour les demandes fondées sur une discrimination ni en cas de comportement abusif de l'employeur (pression excessive, par exemple).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-031",
+  "level": 2,
+  "fr": "en confidence / officieusement",
+  "term": {
+   "uk": "off the record",
+   "us": "off the record"
+  },
+  "ipa": {
+   "uk": "/ɒf ðə ˈrekɔːd/",
+   "us": "/ɔːf ðə ˈrekərd/"
+  },
+  "def": "Said privately and unofficially, on the understanding that it will not be quoted or noted.",
+  "registers": {
+   "formal": {
+    "uk": "in confidence",
+    "us": "in confidence",
+    "ex": "The information was disclosed [[in confidence]] and must not be passed on."
+   },
+   "everyday": {
+    "uk": "off the record",
+    "us": "off the record",
+    "ex": "[[Off the record]], would he consider leaving if the terms were right?"
+   },
+   "informal": {
+    "uk": "between you and me",
+    "us": "between you and me",
+    "ex": "[[Between you and me]], I don't think she wants to stay anyway."
+   }
+  },
+  "collocations": [
+   "an off-the-record chat",
+   "to speak in confidence",
+   "strictly confidential",
+   "to go on the record"
+  ],
+  "note_fr": "« Off the record » n'offre aucune protection juridique : c'est une convention de politesse. Au Royaume-Uni, seuls le « without prejudice » et la « protected conversation » empêchent réellement qu'un échange soit produit en justice. Avec trait d'union devant un nom : « an off-the-record chat ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-032",
+  "level": 3,
+  "fr": "conseil juridique indépendant",
+  "term": {
+   "uk": "independent legal advice",
+   "us": "independent legal advice"
+  },
+  "ipa": {
+   "uk": "/ˌɪndɪˈpendənt ˈliːɡ(ə)l ədˈvaɪs/",
+   "us": "/ˌɪndɪˈpendənt ˈliːɡ(ə)l ədˈvaɪs/"
+  },
+  "def": "Advice given to the employee by a lawyer or other qualified adviser who does not act for the employer.",
+  "registers": {
+   "formal": {
+    "uk": "to receive independent legal advice",
+    "us": "to consult with an attorney",
+    "ex": "The Employee confirms that he has [[received independent legal advice]] from a relevant independent adviser on the terms and effect of this agreement.",
+    "ex_us": "Employee is hereby advised in writing to [[consult with an attorney]] before signing this Agreement."
+   },
+   "everyday": {
+    "uk": "to take legal advice",
+    "us": "to talk to a lawyer",
+    "ex": "You'll need to [[take legal advice]] before you sign; the agreement isn't binding otherwise.",
+    "ex_us": "You should [[talk to a lawyer]] before you sign; we're required to tell you that."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a relevant independent adviser",
+   "to seek legal advice",
+   "to instruct a solicitor",
+   "to retain an attorney"
+  ],
+  "note_fr": "« Advice » est indénombrable : « some advice », « a piece of advice », jamais « an advice » ni « advices ». Au Royaume-Uni, ce conseil indépendant est une condition de validité du « settlement agreement » ; aux États-Unis, l'employeur doit seulement inviter par écrit le salarié de 40 ans et plus à consulter un avocat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-033",
+  "level": 3,
+  "fr": "participation aux frais d'avocat",
+  "term": {
+   "uk": "contribution towards legal fees",
+   "us": "contribution toward attorney's fees"
+  },
+  "ipa": {
+   "uk": "/ˌkɒntrɪˈbjuːʃ(ə)n təˌwɔːdz ˈliːɡ(ə)l fiːz/",
+   "us": "/ˌkɑːntrɪˈbjuːʃ(ə)n tɔːrd əˈtɜːrniz fiːz/"
+  },
+  "def": "A sum paid by the employer to cover part or all of what the employee's lawyer charges for advising on the agreement.",
+  "registers": {
+   "formal": {
+    "uk": "contribution towards legal fees",
+    "us": "contribution toward attorney's fees",
+    "ex": "The Company shall make a [[contribution towards legal fees]] of up to GBP 500 plus VAT, payable direct to the Employee's solicitors.",
+    "ex_us": "The Company shall make a [[contribution toward attorney's fees]] of up to USD 1,000, payable directly to Employee's counsel."
+   },
+   "everyday": {
+    "uk": "to cover someone's legal costs",
+    "us": "to cover someone's legal costs",
+    "ex": "We normally [[cover the employee's legal costs]] up to a fixed amount."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "legal fees",
+   "plus VAT",
+   "up to a maximum of",
+   "each party bears its own costs"
+  ],
+  "note_fr": "« Fees » = honoraires ; « costs » = frais de justice au sens large. « Towards » (UK) / « toward » (US). Cette participation est une pratique britannique quasi systématique, non une obligation légale ; elle est rare aux États-Unis. « Honoraries » n'existe pas dans ce sens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-034",
+  "level": 3,
+  "fr": "délai de réflexion (avant signature)",
+  "term": {
+   "uk": "consideration period",
+   "us": "consideration period"
+  },
+  "ipa": {
+   "uk": "/kənˌsɪdəˈreɪʃ(ə)n ˌpɪəriəd/",
+   "us": "/kənˌsɪdəˈreɪʃ(ə)n ˌpɪriəd/"
+  },
+  "def": "The time an employee is given to think about a proposed agreement and take advice before deciding whether to sign it.",
+  "registers": {
+   "formal": {
+    "uk": "period in which to consider",
+    "us": "period in which to consider",
+    "ex": "The Employee shall have a reasonable [[period in which to consider]] the offer and to take advice.",
+    "ex_us": "Employee acknowledges that he has been given a [[period in which to consider]] this Agreement of at least twenty-one days."
+   },
+   "everyday": {
+    "uk": "time to think it over",
+    "us": "time to think it over",
+    "ex": "Take the draft home; you've got plenty of [[time to think it over]].",
+    "ex_us": "Take the draft home; you have plenty of [[time to think it over]]."
+   },
+   "informal": {
+    "uk": "to sleep on it",
+    "us": "to sleep on it",
+    "ex": "Don't sign today. [[Sleep on it]] and call me tomorrow."
+   }
+  },
+  "collocations": [
+   "to consider an offer",
+   "a revocation period",
+   "to revoke one's acceptance",
+   "the offer remains open until"
+  ],
+  "note_fr": "Aux États-Unis, la loi fédérale impose, pour qu'un salarié de 40 ans et plus renonce valablement à agir pour discrimination liée à l'âge, un délai de réflexion d'au moins 21 jours, puis 7 jours pour révoquer sa signature. Au Royaume-Uni, le code de l'Acas recommande d'ordinaire au moins dix jours calendaires. Ne confondez pas ce délai, antérieur à la signature, avec le « cooling-off period », postérieur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-035",
+  "level": 2,
+  "fr": "clause de non-dénigrement",
+  "term": {
+   "uk": "non-disparagement clause",
+   "us": "non-disparagement clause"
+  },
+  "ipa": {
+   "uk": "/ˌnɒn dɪˈspærɪdʒmənt klɔːz/",
+   "us": "/ˌnɑːn dɪˈsperɪdʒmənt klɔːz/"
+  },
+  "def": "A clause in which a party promises not to make damaging statements about the other.",
+  "registers": {
+   "formal": {
+    "uk": "non-disparagement clause",
+    "us": "non-disparagement clause",
+    "ex": "The [[non-disparagement clause]] binds both the Employee and the Company's senior officers."
+   },
+   "everyday": {
+    "uk": "to agree not to criticise each other",
+    "us": "to agree not to criticize each other",
+    "ex": "Both sides [[agree not to criticise each other]] in public, and that includes social media.",
+    "ex_us": "Both sides [[agree not to criticize each other]] in public, and that includes social media."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a mutual non-disparagement clause",
+   "derogatory statements",
+   "to be in breach of the clause",
+   "whether orally, in writing or online"
+  ],
+  "note_fr": "Aucune de ces clauses ne peut empêcher un signalement protégé (« whistleblowing ») ni un témoignage devant une autorité, des deux côtés de l'Atlantique. Demandez toujours une clause « mutual » : par défaut, elle ne lie souvent que le salarié.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-036",
+  "level": 2,
+  "fr": "dénigrer",
+  "term": {
+   "uk": "to disparage",
+   "us": "to disparage"
+  },
+  "ipa": {
+   "uk": "/tə dɪˈspærɪdʒ/",
+   "us": "/tə dɪˈsperɪdʒ/"
+  },
+  "def": "To say things that damage the reputation of a person or an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "to make disparaging statements about",
+    "us": "to make disparaging statements about",
+    "ex": "The Employee shall not [[make disparaging statements about]] the Company, its officers or its employees."
+   },
+   "everyday": {
+    "uk": "to run someone down",
+    "us": "to run someone down",
+    "ex": "He's been [[running the company down]] to clients ever since he left."
+   },
+   "informal": {
+    "uk": "to bad-mouth",
+    "us": "to bad-mouth",
+    "ex": "The last thing we want is her [[bad-mouthing]] us all over LinkedIn."
+   }
+  },
+  "collocations": [
+   "disparaging or derogatory remarks",
+   "to speak ill of",
+   "to damage someone's reputation",
+   "to badmouth a former employer"
+  ],
+  "note_fr": "« To denigrate » existe mais reste livresque ; « to disparage » est le terme des contrats, « to run down » et « to bad-mouth » ceux de l'oral. « To criticise » est plus faible : une critique peut être fondée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-037",
+  "level": 2,
+  "fr": "garder les termes de l'accord confidentiels",
+  "term": {
+   "uk": "to keep the terms confidential",
+   "us": "to keep the terms confidential"
+  },
+  "ipa": {
+   "uk": "/tə kiːp ðə tɜːmz ˌkɒnfɪˈdenʃ(ə)l/",
+   "us": "/tə kiːp ðə tɜːrmz ˌkɑːnfɪˈdenʃ(ə)l/"
+  },
+  "def": "Not to tell anyone what an agreement says, apart from the people the agreement allows you to tell.",
+  "registers": {
+   "formal": {
+    "uk": "to keep the terms of this agreement confidential",
+    "us": "to keep the terms of this Agreement confidential",
+    "ex": "The parties shall [[keep the terms of this agreement confidential]], save as required by law or for the purpose of taking professional advice.",
+    "ex_us": "The parties shall [[keep the terms of this Agreement confidential]], except as required by law or for the purpose of obtaining professional advice."
+   },
+   "everyday": {
+    "uk": "to keep it to oneself",
+    "us": "to keep it to oneself",
+    "ex": "You can tell your partner and your accountant; otherwise please [[keep it to yourself]]."
+   },
+   "informal": {
+    "uk": "to keep it under wraps",
+    "us": "to keep it under wraps",
+    "ex": "Let's [[keep it under wraps]] until the paperwork's signed."
+   }
+  },
+  "collocations": [
+   "the existence and terms of the agreement",
+   "save as required by law",
+   "to disclose to one's spouse or professional advisers",
+   "a breach of confidentiality"
+  ],
+  "note_fr": "Ne confondez pas « confidential » (confidentiel) et « confident » (sûr de soi). « Save as » (UK, soutenu) = « except as » (US). Prévoyez toujours les exceptions usuelles : conjoint, conseils, administration fiscale, organisme d'assurance chômage.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-038",
+  "level": 3,
+  "fr": "accord de confidentialité (NDA)",
+  "term": {
+   "uk": "non-disclosure agreement",
+   "us": "nondisclosure agreement"
+  },
+  "ipa": {
+   "uk": "/ˌnɒn dɪsˈkləʊʒər əˈɡriːmənt/",
+   "us": "/ˌnɑːn dɪsˈkloʊʒər əˈɡriːmənt/"
+  },
+  "def": "A contract or clause under which a person undertakes not to reveal certain information, for example the circumstances of a departure.",
+  "registers": {
+   "formal": {
+    "uk": "non-disclosure agreement",
+    "us": "nondisclosure agreement",
+    "ex": "Nothing in this [[non-disclosure agreement]] prevents the Employee from making a protected disclosure or reporting a criminal offence.",
+    "ex_us": "Nothing in this [[nondisclosure agreement]] prevents Employee from filing a charge with, or communicating with, any government agency."
+   },
+   "everyday": {
+    "uk": "NDA",
+    "us": "NDA",
+    "ex": "She signed an [[NDA]] as part of the settlement, so she can't discuss the details."
+   },
+   "informal": {
+    "uk": "gagging clause",
+    "us": "gag clause",
+    "ex": "The press called it a [[gagging clause]], which didn't help the company's image.",
+    "ex_us": "The press called it a [[gag clause]], which didn't help the company's image."
+   }
+  },
+  "collocations": [
+   "to sign an NDA",
+   "to be bound by an NDA",
+   "a whistleblowing carve-out",
+   "a protected disclosure"
+  ],
+  "note_fr": "Sujet sensible : au Royaume-Uni comme dans plusieurs États américains, la loi limite l'usage des NDA pour étouffer des faits de harcèlement ou de discrimination, et aucun NDA ne peut interdire un signalement aux autorités. « Carve-out » = exception expressément prévue. « Gagging clause » est péjoratif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-039",
+  "level": 2,
+  "fr": "références convenues (texte de recommandation annexé à l'accord)",
+  "term": {
+   "uk": "agreed reference",
+   "us": "agreed reference"
+  },
+  "ipa": {
+   "uk": "/əˈɡriːd ˈref(ə)rəns/",
+   "us": "/əˈɡriːd ˈref(ə)rəns/"
+  },
+  "def": "A reference whose wording is negotiated in advance and attached to the settlement agreement, which the employer undertakes to give to any future employer who asks.",
+  "registers": {
+   "formal": {
+    "uk": "reference in the agreed form",
+    "us": "neutral reference",
+    "ex": "On request from a prospective employer, the Company shall provide a [[reference in the agreed form]] set out in Schedule 2.",
+    "ex_us": "In response to any inquiry from a prospective employer, the Company shall provide a [[neutral reference]] limited to dates of employment and last position held."
+   },
+   "everyday": {
+    "uk": "agreed reference",
+    "us": "agreed reference",
+    "ex": "The money matters less to him than getting a decent [[agreed reference]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to agree the wording of a reference",
+   "in the agreed form",
+   "a factual reference",
+   "to respond to reference requests"
+  ],
+  "note_fr": "Pratique typiquement britannique, où l'employeur n'a en principe aucune obligation de fournir une référence. Aux États-Unis, par crainte des procès, beaucoup d'entreprises ne confirment que les dates et le poste (« neutral reference »). Le certificat de travail français n'est pas une « reference » : il ne porte aucune appréciation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-040",
+  "level": 1,
+  "fr": "lettre de recommandation / références",
+  "term": {
+   "uk": "reference",
+   "us": "letter of recommendation"
+  },
+  "ipa": {
+   "uk": "/ˈref(ə)rəns/",
+   "us": "/ˈletər əv ˌrekəmenˈdeɪʃ(ə)n/"
+  },
+  "def": "A statement by a former employer about a person's work and character, given to someone who may employ that person.",
+  "registers": {
+   "formal": {
+    "uk": "reference",
+    "us": "letter of recommendation",
+    "ex": "The Company will provide a written [[reference]] upon request.",
+    "ex_us": "The Company will provide a [[letter of recommendation]] upon request."
+   },
+   "everyday": {
+    "uk": "to give someone a reference",
+    "us": "to give someone a reference",
+    "ex": "Of course I'll [[give you a reference]]; just put my name down.",
+    "ex_us": "Of course I'll [[give you a reference]]; just list my name."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take up references",
+   "to act as a referee",
+   "a glowing reference",
+   "to check references"
+  ],
+  "note_fr": "« A reference » désigne le document ou la personne aux États-Unis ; au Royaume-Uni, la personne est « a referee » (qui n'est pas ici un arbitre). « To take up references » (UK) = contacter les anciens employeurs. « Recommendation letter » se dit, mais « letter of recommendation » est plus naturel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-041",
+  "level": 2,
+  "fr": "annonce convenue du départ",
+  "term": {
+   "uk": "agreed announcement",
+   "us": "agreed announcement"
+  },
+  "ipa": {
+   "uk": "/əˈɡriːd əˈnaʊnsmənt/",
+   "us": "/əˈɡriːd əˈnaʊnsmənt/"
+  },
+  "def": "A statement about someone's departure whose wording both sides have approved before it is sent to staff or clients.",
+  "registers": {
+   "formal": {
+    "uk": "announcement in the agreed form",
+    "us": "mutually agreed announcement",
+    "ex": "The Employee's departure shall be communicated internally by means of an [[announcement in the agreed form]].",
+    "ex_us": "Employee's departure shall be communicated internally by means of a [[mutually agreed announcement]]."
+   },
+   "everyday": {
+    "uk": "to agree what to tell people",
+    "us": "to agree on what to tell people",
+    "ex": "Before anything goes out, we need to [[agree what to tell people]].",
+    "ex_us": "Before anything goes out, we need to [[agree on what to tell people]]."
+   },
+   "informal": {
+    "uk": "the party line",
+    "us": "the party line",
+    "ex": "[[The party line]] is that he's leaving to pursue other opportunities."
+   }
+  },
+  "collocations": [
+   "to announce someone's departure",
+   "an internal announcement",
+   "to pursue other opportunities",
+   "to wish someone well for the future"
+  ],
+  "note_fr": "« To pursue other opportunities / interests » est la formule consacrée, que tout le monde lit comme le signe d'un départ négocié. « Communication » est rarement le bon mot pour une annonce ponctuelle : dites « announcement » ou « statement ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-042",
+  "level": 2,
+  "fr": "sans reconnaissance de responsabilité",
+  "term": {
+   "uk": "without admission of liability",
+   "us": "without admission of liability"
+  },
+  "ipa": {
+   "uk": "/wɪˈðaʊt ədˈmɪʃ(ə)n əv ˌlaɪəˈbɪləti/",
+   "us": "/wɪˈðaʊt ədˈmɪʃ(ə)n əv ˌlaɪəˈbɪləti/"
+  },
+  "def": "Without accepting that one has done anything legally wrong.",
+  "registers": {
+   "formal": {
+    "uk": "without any admission of liability",
+    "us": "without any admission of liability",
+    "ex": "This agreement is entered into [[without any admission of liability]] on the part of the Company."
+   },
+   "everyday": {
+    "uk": "not to admit any wrongdoing",
+    "us": "not to admit any wrongdoing",
+    "ex": "We're paying to close the matter, but we [[are not admitting any wrongdoing]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to admit liability",
+   "to deny liability",
+   "a purely commercial decision",
+   "no admission of fault"
+  ],
+  "note_fr": "« Liability » = responsabilité juridique (ce dont on doit répondre) ; « responsibility » = responsabilité au sens de mission ou de devoir moral. « Without recognition of responsibility » serait un calque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-043",
+  "level": 3,
+  "fr": "versement à titre gracieux",
+  "term": {
+   "uk": "ex gratia payment",
+   "us": "ex gratia payment"
+  },
+  "ipa": {
+   "uk": "/ˌeks ˈɡreɪʃə ˈpeɪmənt/",
+   "us": "/ˌeks ˈɡreɪʃə ˈpeɪmənt/"
+  },
+  "def": "A payment made as a gesture of goodwill, which the payer has no legal obligation to make.",
+  "registers": {
+   "formal": {
+    "uk": "ex gratia payment",
+    "us": "ex gratia payment",
+    "ex": "The Company shall pay the Employee an [[ex gratia payment]] of GBP 20,000 by way of compensation for loss of employment.",
+    "ex_us": "The Company shall pay Employee an [[ex gratia payment]] of USD 20,000 as additional consideration for the release below."
+   },
+   "everyday": {
+    "uk": "goodwill payment",
+    "us": "goodwill payment",
+    "ex": "On top of his notice pay, they've offered a [[goodwill payment]] of two months' salary."
+   },
+   "informal": {
+    "uk": "sweetener",
+    "us": "sweetener",
+    "ex": "They threw in an extra month as a [[sweetener]]."
+   }
+  },
+  "collocations": [
+   "as a gesture of goodwill",
+   "by way of compensation for loss of employment",
+   "on top of contractual entitlements",
+   "to throw in"
+  ],
+  "note_fr": "Expression latine courante en anglais juridique, surtout britannique ; prononcez « eks GRAY-sha ». Au Royaume-Uni, c'est la part « ex gratia » d'une indemnité de rupture qui bénéficie en principe de l'exonération fiscale à hauteur de 30 000 livres ; les sommes contractuelles (préavis, congés) restent imposables.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-044",
+  "level": 2,
+  "fr": "régime fiscal et social de l'indemnité",
+  "term": {
+   "uk": "tax treatment of the payment",
+   "us": "tax treatment of the payment"
+  },
+  "ipa": {
+   "uk": "/tæks ˈtriːtmənt əv ðə ˈpeɪmənt/",
+   "us": "/tæks ˈtriːtmənt əv ðə ˈpeɪmənt/"
+  },
+  "def": "The way a payment is taxed and whether social security contributions are due on it.",
+  "registers": {
+   "formal": {
+    "uk": "subject to tax and social security contributions",
+    "us": "subject to applicable taxes and withholdings",
+    "ex": "Any amount above the exempt threshold shall be [[subject to tax and social security contributions]].",
+    "ex_us": "All payments under this Agreement shall be [[subject to applicable taxes and withholdings]]."
+   },
+   "everyday": {
+    "uk": "tax-free",
+    "us": "tax-free",
+    "ex": "Part of the payment should be [[tax-free]], but check the exact figure with payroll."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be exempt from tax",
+   "to deduct tax at source",
+   "gross of tax",
+   "a tax indemnity"
+  ],
+  "note_fr": "« Social charges » est un calque : dites « social security contributions » (ou « National Insurance contributions » au Royaume-Uni, « payroll taxes » aux États-Unis). « Withholding » = retenue à la source. Ne donnez jamais de chiffre de mémoire : les plafonds d'exonération changent souvent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-045",
+  "level": 1,
+  "fr": "faire une offre",
+  "term": {
+   "uk": "to make an offer",
+   "us": "to make an offer"
+  },
+  "ipa": {
+   "uk": "/tə meɪk ən ˈɒfə/",
+   "us": "/tə meɪk ən ˈɔːfər/"
+  },
+  "def": "To tell the other party what you are prepared to pay or accept in order to reach an agreement.",
+  "registers": {
+   "formal": {
+    "uk": "to make an offer",
+    "us": "to make an offer",
+    "ex": "The Company is prepared to [[make an offer]] in order to resolve this matter without recourse to litigation."
+   },
+   "everyday": {
+    "uk": "to put an offer on the table",
+    "us": "to put an offer on the table",
+    "ex": "We've [[put an offer on the table]]; it's up to them to come back to us."
+   },
+   "informal": {
+    "uk": "to name a figure",
+    "us": "to name a number",
+    "ex": "I'd let them [[name a figure]] first.",
+    "ex_us": "I'd let them [[name a number]] first."
+   }
+  },
+  "collocations": [
+   "an opening offer",
+   "a final offer",
+   "to improve an offer",
+   "the offer remains open until"
+  ],
+  "note_fr": "On « makes » une offre, on ne la « does » pas. « The offer is on the table » = l'offre tient toujours ; « to take the offer off the table » = la retirer. « An opening offer » est la première offre, volontairement basse.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-046",
+  "level": 1,
+  "fr": "contre-proposition",
+  "term": {
+   "uk": "counter-offer",
+   "us": "counteroffer"
+  },
+  "ipa": {
+   "uk": "/ˈkaʊntər ˌɒfə/",
+   "us": "/ˈkaʊntər ˌɔːfər/"
+  },
+  "def": "An offer made in reply to another offer, on different terms.",
+  "registers": {
+   "formal": {
+    "uk": "counter-proposal",
+    "us": "counterproposal",
+    "ex": "The Employee's adviser submitted a [[counter-proposal]] on 3 March.",
+    "ex_us": "Employee's counsel submitted a [[counterproposal]] on March 3."
+   },
+   "everyday": {
+    "uk": "to come back with",
+    "us": "to come back with",
+    "ex": "They turned down four months and [[came back with]] eight."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a counter-offer",
+   "to reject an offer",
+   "to split the difference",
+   "to go back and forth"
+  ],
+  "note_fr": "Deux sens à connaître : la contre-proposition dans une négociation, et l'offre faite à un démissionnaire pour le retenir (« they made her a counter-offer to stay »). « To split the difference » = couper la poire en deux. Trait d'union en anglais britannique, mot soudé en américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-047",
+  "level": 2,
+  "fr": "marge de négociation",
+  "term": {
+   "uk": "room for negotiation",
+   "us": "room for negotiation"
+  },
+  "ipa": {
+   "uk": "/ruːm fə nɪˌɡəʊʃiˈeɪʃ(ə)n/",
+   "us": "/ruːm fər nɪˌɡoʊʃiˈeɪʃ(ə)n/"
+  },
+  "def": "The extent to which a party is able or willing to change its position during discussions.",
+  "registers": {
+   "formal": {
+    "uk": "scope for negotiation",
+    "us": "room for negotiation",
+    "ex": "There is limited [[scope for negotiation]] on the amount, which has been approved at group level.",
+    "ex_us": "There is limited [[room for negotiation]] on the amount, which has been approved at the corporate level."
+   },
+   "everyday": {
+    "uk": "room for manoeuvre",
+    "us": "room to maneuver",
+    "ex": "I've got a bit of [[room for manoeuvre]] on the date, less so on the money.",
+    "ex_us": "I have a little [[room to maneuver]] on the date, less so on the money."
+   },
+   "informal": {
+    "uk": "wiggle room",
+    "us": "wiggle room",
+    "ex": "Is there any [[wiggle room]] on the figure?"
+   }
+  },
+  "collocations": [
+   "to have some leeway",
+   "to have a mandate to negotiate",
+   "to be flexible on",
+   "to stand firm on"
+  ],
+  "note_fr": "« Margin of negotiation » est un calque. Orthographe : « manoeuvre » (UK) / « maneuver » (US). « Leeway » = latitude. « I'd need to check my mandate » : formule utile quand on doit en référer au client.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-048",
+  "level": 1,
+  "fr": "trouver un compromis",
+  "term": {
+   "uk": "to reach a compromise",
+   "us": "to reach a compromise"
+  },
+  "ipa": {
+   "uk": "/tə riːtʃ ə ˈkɒmprəmaɪz/",
+   "us": "/tə riːtʃ ə ˈkɑːmprəmaɪz/"
+  },
+  "def": "To come to an agreement in which each side accepts less than it first asked for.",
+  "registers": {
+   "formal": {
+    "uk": "to reach a compromise",
+    "us": "to reach a compromise",
+    "ex": "After two meetings, the parties [[reached a compromise]] on the amount of the payment."
+   },
+   "everyday": {
+    "uk": "to meet someone halfway",
+    "us": "to meet someone halfway",
+    "ex": "If they drop the bonus claim, I think we could [[meet them halfway]] on the payment."
+   },
+   "informal": {
+    "uk": "to split the difference",
+    "us": "to split the difference",
+    "ex": "You're at six, we're at four: shall we just [[split the difference]]?",
+    "ex_us": "You're at six, we're at four: why don't we just [[split the difference]]?"
+   }
+  },
+  "collocations": [
+   "to find common ground",
+   "to find a middle way",
+   "a workable compromise",
+   "to give ground"
+  ],
+  "note_fr": "Faux ami partiel : « a compromise » est un compromis, mais « compromising » signifie « compromettant » et « to compromise security » = mettre en péril. « Compromis » au sens immobilier ne se traduit pas ainsi. « Common ground » est indénombrable : pas d'article.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-049",
+  "level": 3,
+  "fr": "tout litige né ou à naître de l'exécution ou de la rupture du contrat",
+  "term": {
+   "uk": "claims arising out of the employment or its termination",
+   "us": "claims arising out of the employment or its termination"
+  },
+  "ipa": {
+   "uk": "/kleɪmz əˈraɪzɪŋ aʊt əv ði ɪmˈplɔɪmənt ɔːr ɪts ˌtɜːmɪˈneɪʃ(ə)n/",
+   "us": "/kleɪmz əˈraɪzɪŋ aʊt əv ði ɪmˈplɔɪmənt ɔːr ɪts ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "All the legal complaints an employee has, or might later have, in connection with the job or the way it ended.",
+  "registers": {
+   "formal": {
+    "uk": "arising out of or in connection with",
+    "us": "arising out of or relating to",
+    "ex": "The waiver extends to all claims, whether present or future, [[arising out of or in connection with]] the Employee's employment or its termination.",
+    "ex_us": "The release extends to any and all claims, known or unknown, [[arising out of or relating to]] Employee's employment or its termination."
+   },
+   "everyday": {
+    "uk": "anything to do with",
+    "us": "anything to do with",
+    "ex": "Once he signs, he can't sue over [[anything to do with]] his job or the way it ended."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "whether known or unknown",
+   "present or future claims",
+   "howsoever arising",
+   "the claims listed in the schedule"
+  ],
+  "note_fr": "« Né ou à naître » se rend par « present or future » ou, aux États-Unis, « known or unknown ». Au Royaume-Uni, une renonciation générale ne suffit pas pour les droits légaux : l'accord doit viser les demandes particulières concernées, d'où les longues listes de « claims » en annexe.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-050",
+  "level": 3,
+  "fr": "risque contentieux",
+  "term": {
+   "uk": "litigation risk",
+   "us": "litigation risk"
+  },
+  "ipa": {
+   "uk": "/ˌlɪtɪˈɡeɪʃ(ə)n rɪsk/",
+   "us": "/ˌlɪtɪˈɡeɪʃ(ə)n rɪsk/"
+  },
+  "def": "The likelihood that a matter will end up in court and what it could cost if it does.",
+  "registers": {
+   "formal": {
+    "uk": "litigation risk",
+    "us": "litigation risk",
+    "ex": "In view of the [[litigation risk]], we recommend that a settlement be explored before any dismissal is notified."
+   },
+   "everyday": {
+    "uk": "exposure",
+    "us": "exposure",
+    "ex": "Worst case, our [[exposure]] is around twelve months' salary plus legal costs."
+   },
+   "informal": {
+    "uk": "what we're on the hook for",
+    "us": "what we're on the hook for",
+    "ex": "I need to know [[what we're on the hook for]] if this goes wrong."
+   }
+  },
+  "collocations": [
+   "to assess the exposure",
+   "to weigh up the risk",
+   "the worst-case scenario",
+   "the cost of defending a claim"
+  ],
+  "note_fr": "« Contentious risk » ne se dit pas. « Exposure » (indénombrable) est le mot que vos clients anglophones emploieront : « What's our exposure? ». « To be on the hook for » (familier, surtout américain) = devoir assumer, être redevable de.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-051",
+  "level": 3,
+  "fr": "protocole d'accord préalable (points clés de l'accord)",
+  "term": {
+   "uk": "heads of terms",
+   "us": "term sheet"
+  },
+  "ipa": {
+   "uk": "/hedz əv tɜːmz/",
+   "us": "/ˈtɜːrm ʃiːt/"
+  },
+  "def": "A short document listing the main points agreed in a negotiation, before the full agreement is drafted.",
+  "registers": {
+   "formal": {
+    "uk": "heads of terms",
+    "us": "term sheet",
+    "ex": "The [[heads of terms]] are not intended to be legally binding and remain subject to contract.",
+    "ex_us": "The [[term sheet]] is non-binding and remains subject to execution of a definitive agreement."
+   },
+   "everyday": {
+    "uk": "the outline of a deal",
+    "us": "the outline of a deal",
+    "ex": "We've got [[the outline of a deal]]; the lawyers can now turn it into a proper agreement.",
+    "ex_us": "We have [[the outline of a deal]]; the lawyers can now turn it into a formal agreement."
+   },
+   "informal": {
+    "uk": "the bare bones",
+    "us": "the bare bones",
+    "ex": "Just send me [[the bare bones]] for now: amount, date, reference."
+   }
+  },
+  "collocations": [
+   "subject to contract",
+   "to draw up heads of terms",
+   "non-binding",
+   "the key terms"
+  ],
+  "note_fr": "« Protocol » est un faux ami : en anglais, c'est une procédure ou une étiquette, pas un accord. « Subject to contract » (UK) signale que rien n'engage les parties tant que l'accord définitif n'est pas signé ; l'équivalent américain est « non-binding ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-052",
+  "level": 2,
+  "fr": "accord de principe",
+  "term": {
+   "uk": "agreement in principle",
+   "us": "agreement in principle"
+  },
+  "ipa": {
+   "uk": "/əˈɡriːmənt ɪn ˈprɪnsəp(ə)l/",
+   "us": "/əˈɡriːmənt ɪn ˈprɪnsəp(ə)l/"
+  },
+  "def": "A general agreement on the main points, with the details still to be settled.",
+  "registers": {
+   "formal": {
+    "uk": "agreement in principle",
+    "us": "agreement in principle",
+    "ex": "The parties have reached an [[agreement in principle]], subject to board approval."
+   },
+   "everyday": {
+    "uk": "to agree in principle",
+    "us": "to agree in principle",
+    "ex": "He's [[agreed in principle]]; he just wants to see it in writing."
+   },
+   "informal": {
+    "uk": "to shake on it",
+    "us": "to shake on it",
+    "ex": "We [[shook on it]] yesterday, but nothing's signed yet."
+   }
+  },
+  "collocations": [
+   "subject to board approval",
+   "to firm up the details",
+   "to put it in writing",
+   "broadly agreed"
+  ],
+  "note_fr": "Orthographe : « in principle » (en principe) et non « in principal » (« principal » = principal, ou proviseur). « In principle » laisse entendre une réserve, comme en français. « To firm up » = arrêter définitivement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-053",
+  "level": 1,
+  "fr": "annoncer son départ (à son responsable)",
+  "term": {
+   "uk": "to announce one's departure",
+   "us": "to announce one's departure"
+  },
+  "ipa": {
+   "uk": "/tu əˈnaʊns wʌnz dɪˈpɑːtʃə/",
+   "us": "/tu əˈnaʊns wʌnz dɪˈpɑːrtʃər/"
+  },
+  "def": "To tell one's manager or colleagues that one has decided to leave.",
+  "registers": {
+   "formal": {
+    "uk": "to notify the employer of one's decision to leave",
+    "us": "to notify the employer of one's decision to leave",
+    "ex": "The Employee [[notified the Company of her decision to leave]] by letter dated 4 May.",
+    "ex_us": "The Employee [[notified the Company of her decision to leave]] by letter dated May 4."
+   },
+   "everyday": {
+    "uk": "to tell someone you're leaving",
+    "us": "to tell someone you're leaving",
+    "ex": "Have you [[told Sarah you're leaving]], or should I keep quiet for now?"
+   },
+   "informal": {
+    "uk": "to break the news",
+    "us": "to break the news",
+    "ex": "I'm dreading [[breaking the news]] to the team."
+   }
+  },
+  "collocations": [
+   "to let someone know",
+   "to give someone advance warning",
+   "to come as a surprise",
+   "to hand in a resignation letter"
+  ],
+  "note_fr": "« To announce » se construit avec « to » devant la personne : « she announced her departure TO the team », jamais « she announced the team ». « To break the news » s'emploie pour une nouvelle délicate.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-054",
+  "level": 1,
+  "fr": "lettre de démission",
+  "term": {
+   "uk": "resignation letter",
+   "us": "resignation letter"
+  },
+  "ipa": {
+   "uk": "/ˌrezɪɡˈneɪʃ(ə)n ˈletə/",
+   "us": "/ˌrezɪɡˈneɪʃ(ə)n ˈletər/"
+  },
+  "def": "A letter in which an employee tells the employer that he or she is leaving the job.",
+  "registers": {
+   "formal": {
+    "uk": "written notice of resignation",
+    "us": "written notice of resignation",
+    "ex": "The notice period runs from the date on which the Company receives [[written notice of resignation]]."
+   },
+   "everyday": {
+    "uk": "resignation letter",
+    "us": "resignation letter",
+    "ex": "Keep your [[resignation letter]] short: the date, your last day and a word of thanks."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draft a resignation letter",
+   "to submit a resignation letter",
+   "to put one's resignation in writing",
+   "to acknowledge receipt"
+  ],
+  "note_fr": "En droit français, la démission n'est soumise à aucune forme légale, mais l'écrit sert de preuve et fait courir le préavis. Prononciation : le « g » de « resign » est muet, celui de « resignation » se prononce. Faux ami : « resignation » signifie aussi « résignation ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-055",
+  "level": 2,
+  "fr": "prendre acte de la démission / l'accepter",
+  "term": {
+   "uk": "to accept a resignation",
+   "us": "to accept a resignation"
+  },
+  "ipa": {
+   "uk": "/tu əkˈsept ə ˌrezɪɡˈneɪʃ(ə)n/",
+   "us": "/tu əkˈsept ə ˌrezɪɡˈneɪʃ(ə)n/"
+  },
+  "def": "To confirm formally to an employee that the employer has received the resignation and will act on it.",
+  "registers": {
+   "formal": {
+    "uk": "to acknowledge receipt of a resignation",
+    "us": "to acknowledge receipt of a resignation",
+    "ex": "We [[acknowledge receipt of your resignation]] dated 2 June and confirm that your last day of employment will be 1 September.",
+    "ex_us": "We [[acknowledge receipt of your resignation]] dated June 2 and confirm that your last day of employment will be September 1."
+   },
+   "everyday": {
+    "uk": "to accept a resignation",
+    "us": "to accept a resignation",
+    "ex": "I've [[accepted her resignation]], though I did try to talk her out of it.",
+    "ex_us": "I [[accepted her resignation]], though I did try to talk her out of it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "with regret",
+   "to confirm the leaving date",
+   "to talk someone out of resigning",
+   "to acknowledge in writing"
+  ],
+  "note_fr": "Juridiquement, une démission n'a pas besoin d'être « acceptée » : c'est un acte unilatéral, en France comme au Royaume-Uni. On « accepte » par courtoisie et pour fixer la date. « To acknowledge » = accuser réception, prendre acte. « To talk someone out of » = dissuader.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-056",
+  "level": 2,
+  "fr": "(volonté) claire et non équivoque",
+  "term": {
+   "uk": "clear and unequivocal",
+   "us": "clear and unequivocal"
+  },
+  "ipa": {
+   "uk": "/klɪər ənd ˌʌnɪˈkwɪvək(ə)l/",
+   "us": "/klɪr ənd ˌʌnɪˈkwɪvək(ə)l/"
+  },
+  "def": "Expressed so plainly that there can be no doubt about what the person means.",
+  "registers": {
+   "formal": {
+    "uk": "clear and unequivocal",
+    "us": "clear and unequivocal",
+    "ex": "A resignation is valid only where the employee has expressed a [[clear and unequivocal]] intention to leave."
+   },
+   "everyday": {
+    "uk": "to leave no room for doubt",
+    "us": "to leave no room for doubt",
+    "ex": "His email [[leaves no room for doubt]]: he's going, and he says when."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an unequivocal intention to resign",
+   "in unambiguous terms",
+   "to make one's intentions clear",
+   "open to interpretation"
+  ],
+  "note_fr": "Critère commun aux droits français et britannique : une démission ambiguë ou donnée sous la contrainte peut être remise en cause. « Non-equivocal » n'existe pas : c'est « unequivocal » (adverbe : « unequivocally »), ou « unambiguous ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-057",
+  "level": 2,
+  "fr": "revenir sur sa démission",
+  "term": {
+   "uk": "to retract one's resignation",
+   "us": "to rescind one's resignation"
+  },
+  "ipa": {
+   "uk": "/tə rɪˈtrækt wʌnz ˌrezɪɡˈneɪʃ(ə)n/",
+   "us": "/tə rɪˈsɪnd wʌnz ˌrezɪɡˈneɪʃ(ə)n/"
+  },
+  "def": "To tell the employer that one no longer wishes to resign, after having done so.",
+  "registers": {
+   "formal": {
+    "uk": "to withdraw one's resignation",
+    "us": "to rescind one's resignation",
+    "ex": "Once notice has been given, the Employee may [[withdraw his resignation]] only with the Company's consent.",
+    "ex_us": "Once notice has been given, the Employee may [[rescind his resignation]] only with the Company's consent."
+   },
+   "everyday": {
+    "uk": "to take back one's resignation",
+    "us": "to take back one's resignation",
+    "ex": "She rang the next morning asking to [[take back her resignation]].",
+    "ex_us": "She called the next morning asking to [[take back her resignation]]."
+   },
+   "informal": {
+    "uk": "to have second thoughts",
+    "us": "to have second thoughts",
+    "ex": "Apparently he's [[having second thoughts]] about leaving."
+   }
+  },
+  "collocations": [
+   "to reconsider one's decision",
+   "to agree to the withdrawal",
+   "to change one's mind",
+   "a cooling-off conversation"
+  ],
+  "note_fr": "En principe, une démission valablement donnée ne peut être retirée qu'avec l'accord de l'employeur, en France comme au Royaume-Uni. « To come back on » est un calque ; « to go back on » existe mais se dit d'une promesse ou d'une parole donnée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-058",
+  "level": 2,
+  "fr": "démission donnée sous le coup de la colère",
+  "term": {
+   "uk": "heat-of-the-moment resignation",
+   "us": "heat-of-the-moment resignation"
+  },
+  "ipa": {
+   "uk": "/ˌhiːt əv ðə ˈməʊmənt ˌrezɪɡˈneɪʃ(ə)n/",
+   "us": "/ˌhiːt əv ðə ˈmoʊmənt ˌrezɪɡˈneɪʃ(ə)n/"
+  },
+  "def": "A resignation announced in anger or distress, which the employee may not really have meant.",
+  "registers": {
+   "formal": {
+    "uk": "resignation given in the heat of the moment",
+    "us": "resignation given in the heat of the moment",
+    "ex": "An employer should be cautious about relying on a [[resignation given in the heat of the moment]]."
+   },
+   "everyday": {
+    "uk": "to resign in the heat of the moment",
+    "us": "to resign in the heat of the moment",
+    "ex": "He [[resigned in the heat of the moment]] after a row with his manager; give him a day to calm down.",
+    "ex_us": "He [[resigned in the heat of the moment]] after an argument with his manager; give him a day to calm down."
+   },
+   "informal": {
+    "uk": "to storm out",
+    "us": "to storm out",
+    "ex": "She said 'I quit' and [[stormed out]]. Does that count as resigning?"
+   }
+  },
+  "collocations": [
+   "to act on impulse",
+   "to give someone time to cool off",
+   "to check whether they meant it",
+   "words spoken in anger"
+  ],
+  "note_fr": "En France comme au Royaume-Uni, les juges hésitent à tenir pour acquise une démission lancée sous le coup de l'émotion : mieux vaut laisser passer un court délai et demander confirmation par écrit. « A row » (UK, rime avec « now ») = une dispute.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-059",
+  "level": 2,
+  "fr": "avec effet immédiat",
+  "term": {
+   "uk": "with immediate effect",
+   "us": "effective immediately"
+  },
+  "ipa": {
+   "uk": "/wɪð ɪˈmiːdiət ɪˈfekt/",
+   "us": "/ɪˈfektɪv ɪˈmiːdiətli/"
+  },
+  "def": "Starting from now, with no notice period.",
+  "registers": {
+   "formal": {
+    "uk": "with immediate effect",
+    "us": "effective immediately",
+    "ex": "I hereby resign from my position [[with immediate effect]].",
+    "ex_us": "I hereby resign from my position, [[effective immediately]]."
+   },
+   "everyday": {
+    "uk": "straight away",
+    "us": "right away",
+    "ex": "She's asked to leave [[straight away]] rather than work her three months.",
+    "ex_us": "She's asked to leave [[right away]] rather than work out her three months."
+   },
+   "informal": {
+    "uk": "there and then",
+    "us": "on the spot",
+    "ex": "He cleared his desk and walked out [[there and then]].",
+    "ex_us": "He cleared out his desk and walked out [[on the spot]]."
+   }
+  },
+  "collocations": [
+   "to resign with immediate effect",
+   "to take effect immediately",
+   "to leave without notice",
+   "as of today"
+  ],
+  "note_fr": "« With immediate effect » est britannique ; l'américain préfère « effective immediately » ou « effective [date] ». Quitter sans préavis expose en principe le salarié à devoir une indemnité, sauf dispense accordée par l'employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-060",
+  "level": 3,
+  "fr": "présomption de démission (en cas d'abandon de poste)",
+  "term": {
+   "uk": "presumed resignation",
+   "us": "presumed resignation"
+  },
+  "ipa": {
+   "uk": "/prɪˈzjuːmd ˌrezɪɡˈneɪʃ(ə)n/",
+   "us": "/prɪˈzuːmd ˌrezɪɡˈneɪʃ(ə)n/"
+  },
+  "def": "A French rule under which an employee who stops coming to work and does not return after formal notice from the employer is treated as having resigned.",
+  "registers": {
+   "formal": {
+    "uk": "to be presumed to have resigned",
+    "us": "to be presumed to have resigned",
+    "ex": "An employee who fails to return to work within the time limit set in the formal notice shall [[be presumed to have resigned]]."
+   },
+   "everyday": {
+    "uk": "to be treated as having resigned",
+    "us": "to be treated as having resigned",
+    "ex": "If he doesn't come back by the deadline, he'll [[be treated as having resigned]], which means no unemployment benefit.",
+    "ex_us": "If he doesn't come back by the deadline, he'll [[be treated as having resigned]], which means no unemployment benefits."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "job abandonment",
+   "to send a formal notice to return to work",
+   "to rebut the presumption",
+   "unauthorised absence"
+  ],
+  "note_fr": "Aux États-Unis, beaucoup de règlements intérieurs prévoient qu'une absence injustifiée de quelques jours vaut « job abandonment », traité comme une démission. Au Royaume-Uni, rien de tel : l'employeur doit en principe licencier. « To rebut a presumption » = renverser une présomption. « Mise en demeure » = « formal notice ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Under the French présomption de démission, an employee who abandons his or her post and fails to return within the time limit set in a formal notice from the employer is presumed to have resigned, unless he or she shows a legitimate reason for the absence.",
+   "spoken": "In France, if someone simply stops turning up and ignores a formal letter asking them to come back, the law treats them as having resigned."
+  }
+ },
+ {
+  "id": "ex-061",
+  "level": 2,
+  "fr": "rupture imputable à l'employeur à la suite d'une démission contrainte (« constructive dismissal »)",
+  "term": {
+   "uk": "constructive dismissal",
+   "us": "constructive discharge"
+  },
+  "ipa": {
+   "uk": "/kənˌstrʌktɪv dɪsˈmɪs(ə)l/",
+   "us": "/kənˌstrʌktɪv ˈdɪstʃɑːrdʒ/"
+  },
+  "def": "A situation in which an employee resigns because the employer's conduct has made it impossible to stay, and the law treats the resignation as a dismissal.",
+  "registers": {
+   "formal": {
+    "uk": "constructive dismissal",
+    "us": "constructive discharge",
+    "ex": "The Claimant resigned and brought a claim for [[constructive dismissal]], alleging a fundamental breach of contract.",
+    "ex_us": "Plaintiff resigned and brought a claim for [[constructive discharge]], alleging that working conditions had become intolerable."
+   },
+   "everyday": {
+    "uk": "to resign and claim constructive dismissal",
+    "us": "to quit and claim constructive discharge",
+    "ex": "If we cut her pay without her agreement, she could [[resign and claim constructive dismissal]].",
+    "ex_us": "If we cut her pay without her agreement, she could [[quit and claim constructive discharge]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to claim constructive dismissal",
+   "a fundamental breach of contract",
+   "intolerable working conditions",
+   "to resign in response to the breach"
+  ],
+  "note_fr": "« Constructive » ne veut pas dire « constructif » : en droit, c'est « réputé tel par interprétation ». Au Royaume-Uni, il faut une violation fondamentale du contrat par l'employeur ; aux États-Unis, des conditions de travail objectivement intolérables. Les notions françaises les plus proches sont la prise d'acte et la résiliation judiciaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-062",
+  "level": 3,
+  "fr": "prise d'acte de la rupture",
+  "term": {
+   "uk": "termination by the employee for the employer's breach",
+   "us": "termination by the employee for the employer's breach"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmɪˈneɪʃ(ə)n baɪ ði ɪmˈplɔɪiː fə ði ɪmˈplɔɪəz briːtʃ/",
+   "us": "/ˌtɜːrmɪˈneɪʃ(ə)n baɪ ði ɪmˈplɔɪiː fər ði ɪmˈplɔɪərz briːtʃ/"
+  },
+  "def": "A French mechanism by which an employee ends the contract immediately, blaming serious breaches by the employer, and then asks the court to rule on the consequences.",
+  "registers": {
+   "formal": {
+    "uk": "to terminate the contract on the grounds of the employer's breach",
+    "us": "to terminate the contract on the grounds of the employer's breach",
+    "ex": "By letter of 12 January, the Employee [[terminated the contract on the grounds of the employer's breach]] of its obligations.",
+    "ex_us": "By letter of January 12, the Employee [[terminated the contract on the grounds of the employer's breach]] of its obligations."
+   },
+   "everyday": {
+    "uk": "to walk out and blame the employer",
+    "us": "to walk out and blame the employer",
+    "ex": "In effect, she [[walked out and blamed the employer]]; now a court decides whether she was right to."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take note of the termination",
+   "sufficiently serious breaches",
+   "to rule on the consequences",
+   "to have the effects of a resignation"
+  ],
+  "note_fr": "Ne traduisez pas mot à mot (« taking of act »). Pour un Britannique, dites : « it works rather like constructive dismissal ». Différence clé : si les manquements ne sont pas jugés assez graves, la prise d'acte produit les effets d'une démission, et le salarié peut devoir le préavis.",
+  "french_concept": true,
+  "explain": {
+   "written": "The prise d'acte is a form of termination by which the employee ends the contract with immediate effect on account of the employer's serious breaches; the labour court then decides whether it takes effect as an unfair dismissal or as a resignation.",
+   "spoken": "It's the French cousin of constructive dismissal: the employee leaves at once, saying the employer is at fault, and a court later decides whether that counts as a dismissal or a resignation."
+  }
+ },
+ {
+  "id": "ex-063",
+  "level": 3,
+  "fr": "résiliation judiciaire du contrat de travail",
+  "term": {
+   "uk": "judicial termination of the contract",
+   "us": "judicial termination of the contract"
+  },
+  "ipa": {
+   "uk": "/dʒuːˈdɪʃ(ə)l ˌtɜːmɪˈneɪʃ(ə)n əv ðə ˈkɒntrækt/",
+   "us": "/dʒuːˈdɪʃ(ə)l ˌtɜːrmɪˈneɪʃ(ə)n əv ðə ˈkɑːntrækt/"
+  },
+  "def": "A French procedure in which an employee who is still in post asks the labour court to end the contract because of the employer's serious breaches.",
+  "registers": {
+   "formal": {
+    "uk": "to apply to the court for termination of the contract",
+    "us": "to petition the court for termination of the contract",
+    "ex": "The Employee has [[applied to the court for termination of the contract]] on the ground of unpaid overtime.",
+    "ex_us": "The Employee has [[petitioned the court for termination of the contract]] on the ground of unpaid overtime."
+   },
+   "everyday": {
+    "uk": "to ask the court to end the contract",
+    "us": "to ask the court to end the contract",
+    "ex": "He's still working for us, but he's [[asked the court to end the contract]] and award him damages."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to remain in post pending the decision",
+   "to grant the application",
+   "at the employer's expense",
+   "to dismiss the application"
+  ],
+  "note_fr": "« Resiliation » n'existe pas ; « rescission » désigne l'anéantissement rétroactif d'un contrat, ce qui est autre chose. Aucun équivalent en common law, où le salarié doit d'abord démissionner pour agir. Le salarié continue de travailler pendant la procédure, ce qui surprend toujours un client anglo-saxon.",
+  "french_concept": true,
+  "explain": {
+   "written": "Résiliation judiciaire is an action by which an employee, while remaining in post, asks the labour court to terminate the employment contract on account of the employer's serious breaches; if granted, it takes effect as an unfair dismissal.",
+   "spoken": "Here the employee doesn't resign. They stay in the job and ask the court to end the contract because the employer hasn't kept its side of the bargain."
+  }
+ },
+ {
+  "id": "ex-064",
+  "level": 3,
+  "fr": "manquement suffisamment grave (pour empêcher la poursuite du contrat)",
+  "term": {
+   "uk": "repudiatory breach",
+   "us": "material breach"
+  },
+  "ipa": {
+   "uk": "/rɪˈpjuːdiət(ə)ri briːtʃ/",
+   "us": "/məˈtɪriəl briːtʃ/"
+  },
+  "def": "A breach of contract so serious that the other party is entitled to treat the contract as ended.",
+  "registers": {
+   "formal": {
+    "uk": "repudiatory breach",
+    "us": "material breach",
+    "ex": "A unilateral reduction in pay will ordinarily amount to a [[repudiatory breach]] of the contract of employment.",
+    "ex_us": "A unilateral reduction in pay may constitute a [[material breach]] of the employment agreement."
+   },
+   "everyday": {
+    "uk": "to go to the root of the contract",
+    "us": "to go to the heart of the contract",
+    "ex": "Changing someone's hours slightly is one thing; halving their pay [[goes to the root of the contract]].",
+    "ex_us": "Changing someone's hours slightly is one thing; cutting their pay in half [[goes to the heart of the contract]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a fundamental breach",
+   "to accept the breach",
+   "the implied term of mutual trust and confidence",
+   "the last straw"
+  ],
+  "note_fr": "« Repudiatory » est du pur droit anglais ; l'Américain parle de « material breach ». En droit français, le critère est un manquement suffisamment grave pour empêcher la poursuite du contrat. « The last straw » (la goutte d'eau) est aussi une notion juridique britannique : le dernier d'une série d'incidents.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-065",
+  "level": 3,
+  "fr": "produire les effets d'un licenciement sans cause réelle et sérieuse",
+  "term": {
+   "uk": "to take effect as an unfair dismissal",
+   "us": "to take effect as a wrongful termination"
+  },
+  "ipa": {
+   "uk": "/tə teɪk ɪˈfekt əz ən ʌnˈfeə dɪsˈmɪs(ə)l/",
+   "us": "/tə teɪk ɪˈfekt əz ə ˈrɔːŋf(ə)l ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "To have the same legal consequences as a dismissal without a valid reason, in particular an award of compensation.",
+  "registers": {
+   "formal": {
+    "uk": "to take effect as an unfair dismissal",
+    "us": "to take effect as a dismissal without valid cause",
+    "ex": "Where the breaches are established, the termination shall [[take effect as an unfair dismissal]].",
+    "ex_us": "Where the breaches are established, the termination shall [[take effect as a dismissal without valid cause]]."
+   },
+   "everyday": {
+    "uk": "to count as an unfair dismissal",
+    "us": "to count as an unfair dismissal",
+    "ex": "If the court sides with her, it [[counts as an unfair dismissal]] and we pay compensation."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be treated as a dismissal",
+   "to be reclassified as",
+   "to award compensation",
+   "to have the effects of a resignation"
+  ],
+  "note_fr": "« Unfair dismissal » est une notion légale britannique, employée par commodité pour le licenciement sans cause réelle et sérieuse. Aux États-Unis, l'expression n'a pas de sens général du fait de l'emploi « at-will » ; « wrongful termination » y vise une rupture illégale (discrimination, représailles). Explicitez toujours.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-066",
+  "level": 2,
+  "fr": "être poussé(e) vers la sortie",
+  "term": {
+   "uk": "to be forced out",
+   "us": "to be forced out"
+  },
+  "ipa": {
+   "uk": "/tə bi fɔːst aʊt/",
+   "us": "/tə bi fɔːrst aʊt/"
+  },
+  "def": "To be made to leave a job by pressure rather than by an open decision to dismiss.",
+  "registers": {
+   "formal": {
+    "uk": "to be compelled to resign",
+    "us": "to be compelled to resign",
+    "ex": "The Claimant maintains that she was [[compelled to resign]] by the conduct of her line manager.",
+    "ex_us": "Plaintiff maintains that she was [[compelled to resign]] by the conduct of her supervisor."
+   },
+   "everyday": {
+    "uk": "to be forced out",
+    "us": "to be forced out",
+    "ex": "He didn't jump; he was [[forced out]] after the reorganisation.",
+    "ex_us": "He didn't quit; he was [[forced out]] after the reorganization."
+   },
+   "informal": {
+    "uk": "to be managed out",
+    "us": "to be managed out",
+    "ex": "Everyone could see she was being [[managed out]]."
+   }
+  },
+  "collocations": [
+   "to be eased out",
+   "to be sidelined",
+   "to jump before being pushed",
+   "to be shown the door"
+  ],
+  "note_fr": "« Pushed to the exit » est un calque. « To be managed out » est du jargon RH : écarter quelqu'un par la gestion (objectifs, mise à l'écart) sans licenciement franc. « Did he jump or was he pushed? » est la question rituelle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-067",
+  "level": 1,
+  "fr": "quitter l'entreprise",
+  "term": {
+   "uk": "to leave the company",
+   "us": "to leave the company"
+  },
+  "ipa": {
+   "uk": "/tə liːv ðə ˈkʌmp(ə)ni/",
+   "us": "/tə liːv ðə ˈkʌmp(ə)ni/"
+  },
+  "def": "To stop working for an employer, for whatever reason.",
+  "registers": {
+   "formal": {
+    "uk": "to cease to be employed by the Company",
+    "us": "to cease to be employed by the Company",
+    "ex": "Upon [[ceasing to be employed by the Company]], the Employee shall return all Company property."
+   },
+   "everyday": {
+    "uk": "to leave the company",
+    "us": "to leave the company",
+    "ex": "She's [[leaving the company]] at the end of June after twelve years.",
+    "ex_us": "She's [[leaving the company]] at the end of June after twelve years here."
+   },
+   "informal": {
+    "uk": "to move on",
+    "us": "to move on",
+    "ex": "I've had six good years here, but it's time to [[move on]]."
+   }
+  },
+  "collocations": [
+   "to leave one's job",
+   "to leave for a competitor",
+   "to leave of one's own accord",
+   "to be leaving us"
+  ],
+  "note_fr": "« To quit the company » se comprend surtout aux États-Unis et signifie démissionner, pas simplement partir. « To leave » est transitif : « she left the company », jamais « she left from the company ». « Of one's own accord » = de son propre chef.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-068",
+  "level": 1,
+  "fr": "salarié(e) sortant(e)",
+  "term": {
+   "uk": "leaver",
+   "us": "departing employee"
+  },
+  "ipa": {
+   "uk": "/ˈliːvə/",
+   "us": "/dɪˈpɑːrtɪŋ ɪmˈplɔɪiː/"
+  },
+  "def": "A person who is leaving or has just left an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "departing employee",
+    "us": "departing employee",
+    "ex": "A [[departing employee]] must return all equipment on or before the last day of employment."
+   },
+   "everyday": {
+    "uk": "leaver",
+    "us": "departing employee",
+    "ex": "Payroll needs the list of this month's [[leavers]] by the 20th.",
+    "ex_us": "Payroll needs the list of this month's [[departing employees]] by the 20th."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a leavers' checklist",
+   "joiners and leavers",
+   "a leaver form",
+   "the outgoing manager"
+  ],
+  "note_fr": "« Leaver » est britannique ; l'Américain dit « departing employee » ou, en jargon RH, « separating employee ». « Joiners and leavers » = entrées et sorties. « Outgoing » se dit du titulaire sortant d'un poste (« the outgoing CFO »), « incoming » de son successeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-069",
+  "level": 2,
+  "fr": "rupture du contrat de travail (terme neutre, quel qu'en soit le motif)",
+  "term": {
+   "uk": "termination of employment",
+   "us": "separation from employment"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmɪˈneɪʃ(ə)n əv ɪmˈplɔɪmənt/",
+   "us": "/ˌsepəˈreɪʃ(ə)n frəm ɪmˈplɔɪmənt/"
+  },
+  "def": "The ending of the working relationship, whether by dismissal, resignation, retirement or agreement.",
+  "registers": {
+   "formal": {
+    "uk": "termination of employment",
+    "us": "separation from employment",
+    "ex": "Upon [[termination of employment]], howsoever arising, the following provisions shall apply.",
+    "ex_us": "Upon [[separation from employment]] for any reason, the following provisions shall apply."
+   },
+   "everyday": {
+    "uk": "when someone leaves",
+    "us": "when someone leaves",
+    "ex": "The policy sets out what happens [[when someone leaves]], whatever the reason."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "voluntary and involuntary separation",
+   "howsoever arising",
+   "a separation agreement",
+   "the reason for leaving"
+  ],
+  "note_fr": "Aux États-Unis, « termination » employé seul évoque le licenciement (« he was terminated »), d'où le mot neutre « separation », avec la distinction « voluntary / involuntary separation ». Au Royaume-Uni, « termination » reste neutre. Évitez « rupture », qui évoque en anglais une hernie ou une canalisation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-070",
+  "level": 1,
+  "fr": "dernier jour de travail",
+  "term": {
+   "uk": "last working day",
+   "us": "last day of work"
+  },
+  "ipa": {
+   "uk": "/lɑːst ˈwɜːkɪŋ deɪ/",
+   "us": "/læst deɪ əv wɜːrk/"
+  },
+  "def": "The final day on which a departing employee actually comes to work.",
+  "registers": {
+   "formal": {
+    "uk": "last day of employment",
+    "us": "last day of employment",
+    "ex": "Your [[last day of employment]] will be Friday 28 March.",
+    "ex_us": "Your [[last day of employment]] will be Friday, March 28."
+   },
+   "everyday": {
+    "uk": "last day",
+    "us": "last day",
+    "ex": "My [[last day]] is the 28th, but I'm using up holiday from the 14th.",
+    "ex_us": "My [[last day]] is the 28th, but I'm using up vacation from the 14th."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to use up one's remaining holiday",
+   "to count down the days",
+   "one's last day in the office",
+   "to leave at the end of the month"
+  ],
+  "note_fr": "Le dernier jour travaillé et la date de fin du contrat ne coïncident pas toujours (congés soldés, dispense de préavis) : précisez « last day in the office » ou « last day of employment ». Format des dates : « 28 March » (UK), « March 28 » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-071",
+  "level": 2,
+  "fr": "se faire débaucher / être approché(e) par un chasseur de têtes",
+  "term": {
+   "uk": "to be headhunted",
+   "us": "to be recruited away"
+  },
+  "ipa": {
+   "uk": "/tə bi ˈhedhʌntɪd/",
+   "us": "/tə bi rɪˈkruːtɪd əˈweɪ/"
+  },
+  "def": "To be approached and persuaded to leave one's job for another employer.",
+  "registers": {
+   "formal": {
+    "uk": "to be approached by a competitor",
+    "us": "to be approached by a competitor",
+    "ex": "The Employee informed the Company that she had [[been approached by a competitor]]."
+   },
+   "everyday": {
+    "uk": "to be headhunted",
+    "us": "to be recruited away",
+    "ex": "She wasn't looking; she was [[headhunted]] by one of the big consultancies.",
+    "ex_us": "She wasn't looking; she was [[recruited away]] by one of the big consulting firms."
+   },
+   "informal": {
+    "uk": "to be poached",
+    "us": "to be poached",
+    "ex": "That's the third engineer we've had [[poached]] this year."
+   }
+  },
+  "collocations": [
+   "to poach staff",
+   "a headhunter",
+   "to make a counter-offer",
+   "to jump ship"
+  ],
+  "note_fr": "« To debauch » signifie « débaucher » au sens moral : à proscrire absolument. « To poach » (braconner) est le mot familier, des deux côtés de l'Atlantique. « To jump ship » = quitter le navire pour la concurrence.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-072",
+  "level": 2,
+  "fr": "quitter ses fonctions (poste de direction)",
+  "term": {
+   "uk": "to step down",
+   "us": "to step down"
+  },
+  "ipa": {
+   "uk": "/tə step ˈdaʊn/",
+   "us": "/tə step ˈdaʊn/"
+  },
+  "def": "To leave an important position, usually voluntarily or by agreement.",
+  "registers": {
+   "formal": {
+    "uk": "to relinquish one's position",
+    "us": "to relinquish one's position",
+    "ex": "Mr Laurent will [[relinquish his position]] as Managing Director on 31 December.",
+    "ex_us": "Mr. Laurent will [[relinquish his position]] as Chief Executive Officer on December 31."
+   },
+   "everyday": {
+    "uk": "to step down",
+    "us": "to step down",
+    "ex": "The finance director is [[stepping down]] at the end of the year.",
+    "ex_us": "The CFO is [[stepping down]] at the end of the year."
+   },
+   "informal": {
+    "uk": "to bow out",
+    "us": "to bow out",
+    "ex": "After twenty years at the top, he's decided to [[bow out]]."
+   }
+  },
+  "collocations": [
+   "to step down as chair",
+   "to step down from the board",
+   "to stand down",
+   "to step aside"
+  ],
+  "note_fr": "« To step down » se dit d'un dirigeant ou d'un élu, pas d'un salarié ordinaire. « To stand down » en est la variante britannique. « To step aside » suggère qu'on laisse la place, parfois provisoirement. Ne confondez pas avec « to step back » (prendre du recul).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-073",
+  "level": 1,
+  "fr": "partir à la retraite",
+  "term": {
+   "uk": "to retire",
+   "us": "to retire"
+  },
+  "ipa": {
+   "uk": "/tə rɪˈtaɪə/",
+   "us": "/tə rɪˈtaɪər/"
+  },
+  "def": "To stop working permanently, usually because one has reached a certain age.",
+  "registers": {
+   "formal": {
+    "uk": "to take retirement",
+    "us": "to retire",
+    "ex": "The Employee has informed the Company of her intention to [[take retirement]] on 30 September.",
+    "ex_us": "The Employee has informed the Company of her intention to [[retire]] on September 30."
+   },
+   "everyday": {
+    "uk": "to retire",
+    "us": "to retire",
+    "ex": "He's [[retiring]] next spring after thirty years with the firm.",
+    "ex_us": "He's [[retiring]] next spring after thirty years with the company."
+   },
+   "informal": {
+    "uk": "to call it a day",
+    "us": "to call it a day",
+    "ex": "I'll be sixty-four in May, and I think it's time to [[call it a day]]."
+   }
+  },
+  "collocations": [
+   "to retire from the company",
+   "to be due to retire",
+   "a retirement party",
+   "a retiree"
+  ],
+  "note_fr": "« To retire » et non « to go to retirement » ; « to retreat » signifie battre en retraite. Le retraité est « a retired person », « a pensioner » (UK) ou « a retiree » (US). Le départ à la retraite à l'initiative du salarié se dit simplement « voluntary retirement ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-074",
+  "level": 2,
+  "fr": "mise à la retraite (par l'employeur)",
+  "term": {
+   "uk": "compulsory retirement",
+   "us": "mandatory retirement"
+  },
+  "ipa": {
+   "uk": "/kəmˈpʌls(ə)ri rɪˈtaɪəmənt/",
+   "us": "/ˈmændətɔːri rɪˈtaɪərmənt/"
+  },
+  "def": "Retirement that the employer imposes on an employee because of age.",
+  "registers": {
+   "formal": {
+    "uk": "compulsory retirement",
+    "us": "mandatory retirement",
+    "ex": "Under French law, [[compulsory retirement]] may be imposed without the employee's consent only from the age of seventy.",
+    "ex_us": "Under French law, [[mandatory retirement]] may be imposed without the employee's consent only from the age of seventy."
+   },
+   "everyday": {
+    "uk": "to make someone retire",
+    "us": "to make someone retire",
+    "ex": "You can't just [[make someone retire]] at sixty-five; in most cases that would be age discrimination."
+   },
+   "informal": {
+    "uk": "to put someone out to grass",
+    "us": "to put someone out to pasture",
+    "ex": "He's sixty-six and has no intention of being [[put out to grass]].",
+    "ex_us": "He's sixty-six and has no intention of being [[put out to pasture]]."
+   }
+  },
+  "collocations": [
+   "a compulsory retirement age",
+   "to retire an employee",
+   "age discrimination",
+   "to be objectively justified"
+  ],
+  "note_fr": "Grande différence entre systèmes. France : mise à la retraite d'office possible à partir de 70 ans, et avant cet âge seulement avec l'accord du salarié. Royaume-Uni : plus d'âge de retraite par défaut ; imposer un départ suppose une justification objective. États-Unis : la loi fédérale interdit en principe la retraite obligatoire, sauf exceptions étroites.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-075",
+  "level": 1,
+  "fr": "âge légal de départ à la retraite",
+  "term": {
+   "uk": "state pension age",
+   "us": "full retirement age"
+  },
+  "ipa": {
+   "uk": "/steɪt ˈpenʃ(ə)n eɪdʒ/",
+   "us": "/fʊl rɪˈtaɪərmənt eɪdʒ/"
+  },
+  "def": "The age from which a person may claim the public retirement pension.",
+  "registers": {
+   "formal": {
+    "uk": "statutory retirement age",
+    "us": "statutory retirement age",
+    "ex": "The Employee will reach the French [[statutory retirement age]] in the course of next year."
+   },
+   "everyday": {
+    "uk": "state pension age",
+    "us": "full retirement age",
+    "ex": "She's two years off [[state pension age]] and would rather not leave before then.",
+    "ex_us": "She's two years away from [[full retirement age]] and would rather not leave before then."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to reach retirement age",
+   "to raise the retirement age",
+   "to work beyond retirement age",
+   "to be approaching retirement"
+  ],
+  "note_fr": "Les notions ne se recouvrent pas : en France, l'âge légal ouvre le droit de partir, pas forcément à taux plein ; au Royaume-Uni, la « State Pension age » est l'âge de perception de la pension publique, sans lien avec le contrat de travail ; aux États-Unis, la « full retirement age » est celle de la pension fédérale complète.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-076",
+  "level": 2,
+  "fr": "retraite à taux plein",
+  "term": {
+   "uk": "full pension",
+   "us": "full pension"
+  },
+  "ipa": {
+   "uk": "/fʊl ˈpenʃ(ə)n/",
+   "us": "/fʊl ˈpenʃ(ə)n/"
+  },
+  "def": "A retirement pension paid at the maximum rate, without any reduction for missing contribution periods.",
+  "registers": {
+   "formal": {
+    "uk": "full-rate pension",
+    "us": "full retirement benefits",
+    "ex": "The Employee will qualify for a [[full-rate pension]] once she has completed the required number of contribution quarters.",
+    "ex_us": "The Employee will qualify for [[full retirement benefits]] once she has completed the required contribution period."
+   },
+   "everyday": {
+    "uk": "full pension",
+    "us": "full pension",
+    "ex": "If he hangs on another eighteen months, he'll get his [[full pension]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to qualify for a full pension",
+   "a reduced pension",
+   "contribution record",
+   "to make up missing contributions"
+  ],
+  "note_fr": "« Full rate retirement » est un calque. En France, le taux plein dépend de la durée d'assurance (trimestres) ou de l'âge ; expliquez-le, car la logique des « quarters » est inconnue ailleurs. Aux États-Unis, « benefits » désigne ici la pension fédérale (Social Security).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-077",
+  "level": 2,
+  "fr": "indemnité de départ à la retraite",
+  "term": {
+   "uk": "retirement payment",
+   "us": "retirement payment"
+  },
+  "ipa": {
+   "uk": "/rɪˈtaɪəmənt ˈpeɪmənt/",
+   "us": "/rɪˈtaɪərmənt ˈpeɪmənt/"
+  },
+  "def": "In France, a lump sum that the employer pays to an employee who retires, the amount of which depends on length of service.",
+  "registers": {
+   "formal": {
+    "uk": "retirement payment",
+    "us": "retirement payment",
+    "ex": "On retirement, the Employee shall receive the [[retirement payment]] provided for by law or, if more favourable, by the applicable collective agreement.",
+    "ex_us": "On retirement, the Employee shall receive the [[retirement payment]] provided for by law or, if more favorable, by the applicable collective agreement."
+   },
+   "everyday": {
+    "uk": "lump sum on retirement",
+    "us": "lump sum at retirement",
+    "ex": "After twenty-five years' service, she's entitled to a [[lump sum on retirement]] from the company.",
+    "ex_us": "After twenty-five years of service, she's entitled to a [[lump sum at retirement]] from the company."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a lump sum",
+   "depending on length of service",
+   "to be payable on retirement",
+   "to set aside a provision"
+  ],
+  "note_fr": "Ne dites pas « retirement indemnity ». Rien d'équivalent n'est imposé par la loi au Royaume-Uni ou aux États-Unis, où l'employeur finance plutôt un régime de retraite pendant la carrière. À ne pas confondre avec la pension elle-même (« pension »), versée par les caisses.",
+  "french_concept": true,
+  "explain": {
+   "written": "The indemnité de départ à la retraite is a one-off payment made by the employer to an employee who retires; its amount is set by law or by the collective agreement and increases with length of service.",
+   "spoken": "In France the employer pays a one-off lump sum when someone retires. It's separate from the pension, and it grows with length of service."
+  }
+ },
+ {
+  "id": "ex-078",
+  "level": 1,
+  "fr": "retraite anticipée",
+  "term": {
+   "uk": "early retirement",
+   "us": "early retirement"
+  },
+  "ipa": {
+   "uk": "/ˈɜːli rɪˈtaɪəmənt/",
+   "us": "/ˈɜːrli rɪˈtaɪərmənt/"
+  },
+  "def": "Retirement before the usual age.",
+  "registers": {
+   "formal": {
+    "uk": "early retirement",
+    "us": "early retirement",
+    "ex": "Employees with long careers may be eligible for [[early retirement]] under the conditions laid down by law."
+   },
+   "everyday": {
+    "uk": "to retire early",
+    "us": "to retire early",
+    "ex": "He'd love to [[retire early]], but he can't afford to yet."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take early retirement",
+   "an early retirement scheme",
+   "on grounds of ill health",
+   "to be offered early retirement"
+  ],
+  "note_fr": "« Anticipated retirement » signifie « la retraite que l'on prévoit », pas « anticipée ». « To take early retirement » est la collocation usuelle. Au Royaume-Uni, « ill-health retirement » désigne le départ anticipé pour raison de santé prévu par certains régimes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-079",
+  "level": 3,
+  "fr": "retraite progressive",
+  "term": {
+   "uk": "phased retirement",
+   "us": "phased retirement"
+  },
+  "ipa": {
+   "uk": "/feɪzd rɪˈtaɪəmənt/",
+   "us": "/feɪzd rɪˈtaɪərmənt/"
+  },
+  "def": "An arrangement under which an employee nearing retirement reduces working hours gradually, sometimes while drawing part of the pension.",
+  "registers": {
+   "formal": {
+    "uk": "phased retirement",
+    "us": "phased retirement",
+    "ex": "Under the [[phased retirement]] arrangement, the Employee will work part-time and receive a proportion of her pension."
+   },
+   "everyday": {
+    "uk": "to wind down",
+    "us": "to wind down",
+    "ex": "She'd like to [[wind down]] gradually: four days a week next year, then three."
+   },
+   "informal": {
+    "uk": "to ease into retirement",
+    "us": "to ease into retirement",
+    "ex": "Going part-time is a nice way to [[ease into retirement]]."
+   }
+  },
+  "collocations": [
+   "flexible retirement",
+   "to reduce one's hours",
+   "to move to part-time working",
+   "a gradual transition"
+  ],
+  "note_fr": "« Progressive retirement » se comprend mais n'est pas idiomatique : dites « phased » ou, au Royaume-Uni, « flexible retirement ». « To wind down » (prononcé « waɪnd ») = ralentir progressivement son activité ; à ne pas confondre avec « to wind up » (liquider, clôturer).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-080",
+  "level": 2,
+  "fr": "liquider / faire valoir ses droits à la retraite",
+  "term": {
+   "uk": "to draw one's pension",
+   "us": "to collect one's pension"
+  },
+  "ipa": {
+   "uk": "/tə drɔː wʌnz ˈpenʃ(ə)n/",
+   "us": "/tə kəˈlekt wʌnz ˈpenʃ(ə)n/"
+  },
+  "def": "To start receiving one's retirement pension.",
+  "registers": {
+   "formal": {
+    "uk": "to claim one's pension",
+    "us": "to claim one's retirement benefits",
+    "ex": "The Employee has informed the Company that he intends to [[claim his pension]] with effect from 1 October.",
+    "ex_us": "The Employee has informed the Company that he intends to [[claim his retirement benefits]] effective October 1."
+   },
+   "everyday": {
+    "uk": "to draw one's pension",
+    "us": "to collect one's pension",
+    "ex": "She could [[draw her pension]] now, but it would be reduced.",
+    "ex_us": "She could [[collect her pension]] now, but it would be reduced."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for one's pension",
+   "to start drawing a pension",
+   "pension entitlement",
+   "to defer one's pension"
+  ],
+  "note_fr": "« To liquidate one's pension » voudrait dire la convertir en liquidités, voire la dilapider : faux ami. « To draw » est britannique, « to collect » américain. « Pension » en anglais désigne la retraite versée, jamais une pension de famille ni une pension alimentaire (« maintenance », « alimony »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-081",
+  "level": 3,
+  "fr": "cumul emploi-retraite",
+  "term": {
+   "uk": "working while drawing a pension",
+   "us": "working while collecting a pension"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkɪŋ waɪl ˈdrɔːɪŋ ə ˈpenʃ(ə)n/",
+   "us": "/ˈwɜːrkɪŋ waɪl kəˈlektɪŋ ə ˈpenʃ(ə)n/"
+  },
+  "def": "The French rules allowing a retired person to take up paid work again while continuing to receive a pension.",
+  "registers": {
+   "formal": {
+    "uk": "combining employment with a retirement pension",
+    "us": "combining employment with a retirement pension",
+    "ex": "The rules on [[combining employment with a retirement pension]] allow a retiree to be re-engaged by a former employer, subject to certain conditions."
+   },
+   "everyday": {
+    "uk": "to carry on working after retiring",
+    "us": "to keep working after retiring",
+    "ex": "Plenty of consultants [[carry on working after retiring]] and draw their pension at the same time.",
+    "ex_us": "Plenty of consultants [[keep working after retiring]] and collect their pension at the same time."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to return to work after retirement",
+   "to be re-engaged",
+   "a working pensioner",
+   "to top up one's pension"
+  ],
+  "note_fr": "« Cumulation » n'a pas ce sens. La notion intrigue les Anglo-Saxons, chez qui travailler en percevant une pension privée ne pose en général aucune question particulière : expliquez qu'en France le contrat est rompu au départ à la retraite et qu'il faut en conclure un nouveau.",
+  "french_concept": true,
+  "explain": {
+   "written": "Cumul emploi-retraite is the set of French rules under which a person who has claimed a retirement pension may resume paid employment and receive both the pension and a salary.",
+   "spoken": "In France you can retire, start drawing your pension and then go back to work, but there are rules about how you do it."
+  }
+ },
+ {
+  "id": "ex-082",
+  "level": 1,
+  "fr": "solde de tout compte (sommes versées à la fin du contrat)",
+  "term": {
+   "uk": "final pay",
+   "us": "final paycheck"
+  },
+  "ipa": {
+   "uk": "/ˈfaɪn(ə)l peɪ/",
+   "us": "/ˈfaɪn(ə)l ˈpeɪtʃek/"
+  },
+  "def": "Everything the employer still owes an employee when the job ends: salary, untaken holiday, bonus and any termination payment.",
+  "registers": {
+   "formal": {
+    "uk": "final payment of salary and accrued entitlements",
+    "us": "final wages",
+    "ex": "The [[final payment of salary and accrued entitlements]] will be made on the Termination Date.",
+    "ex_us": "[[Final wages]], including accrued and unused vacation where required by law, will be paid on the Separation Date."
+   },
+   "everyday": {
+    "uk": "final pay",
+    "us": "final paycheck",
+    "ex": "Your [[final pay]] will include eight days of untaken holiday.",
+    "ex_us": "Your [[final paycheck]] will include eight days of unused vacation."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a final payslip",
+   "all sums due",
+   "to be paid up to and including",
+   "outstanding expenses"
+  ],
+  "note_fr": "Aux États-Unis, le délai de remise du « final paycheck » dépend de chaque État, et il est parfois très court. « Payslip » (UK) / « pay stub » (US) = bulletin de paie. « Balance of all accounts » est un calque incompréhensible.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-083",
+  "level": 2,
+  "fr": "reçu pour solde de tout compte",
+  "term": {
+   "uk": "receipt for final payment",
+   "us": "receipt for final payment"
+  },
+  "ipa": {
+   "uk": "/rɪˈsiːt fə ˈfaɪn(ə)l ˈpeɪmənt/",
+   "us": "/rɪˈsiːt fər ˈfaɪn(ə)l ˈpeɪmənt/"
+  },
+  "def": "A French document, drawn up by the employer and signed by the departing employee, listing the sums paid at the end of the contract.",
+  "registers": {
+   "formal": {
+    "uk": "receipt for final payment",
+    "us": "receipt for final payment",
+    "ex": "The Employee may challenge the [[receipt for final payment]] within six months of signing it; thereafter it discharges the employer in respect of the sums listed."
+   },
+   "everyday": {
+    "uk": "to sign for one's final pay",
+    "us": "to sign for one's final pay",
+    "ex": "You'll be asked to [[sign for your final pay]], but that doesn't stop you querying the figures later."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to itemise the sums paid",
+   "to sign a receipt",
+   "to challenge the receipt",
+   "to discharge the employer"
+  ],
+  "note_fr": "Prononciation : le « p » de « receipt » est muet. Ce reçu n'est pas une transaction : il ne libère l'employeur que pour les sommes qui y figurent. Aucun équivalent britannique ou américain ; n'employez pas « full and final settlement », qui désigne un véritable accord de règlement.",
+  "french_concept": true,
+  "explain": {
+   "written": "The reçu pour solde de tout compte is a statement of the sums paid to the employee on termination, which the employee signs by way of receipt and may challenge within six months.",
+   "spoken": "It's simply a signed receipt listing what the employee was paid on leaving. It isn't a waiver of claims."
+  }
+ },
+ {
+  "id": "ex-084",
+  "level": 1,
+  "fr": "certificat de travail",
+  "term": {
+   "uk": "certificate of employment",
+   "us": "certificate of employment"
+  },
+  "ipa": {
+   "uk": "/səˈtɪfɪkət əv ɪmˈplɔɪmənt/",
+   "us": "/sərˈtɪfɪkət əv ɪmˈplɔɪmənt/"
+  },
+  "def": "A document the French employer must give every departing employee, stating the dates of employment and the positions held.",
+  "registers": {
+   "formal": {
+    "uk": "certificate of employment",
+    "us": "certificate of employment",
+    "ex": "The Company shall issue the Employee with a [[certificate of employment]] on the last day of the contract.",
+    "ex_us": "The Company shall issue the Employee a [[certificate of employment]] on the last day of the contract."
+   },
+   "everyday": {
+    "uk": "proof of employment",
+    "us": "proof of employment",
+    "ex": "It's just [[proof of employment]]: dates and job titles, with no comment on performance."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a certificate",
+   "dates of employment",
+   "positions held",
+   "to be available for collection"
+  ],
+  "note_fr": "« Work certificate » évoque plutôt un diplôme professionnel. Rien de tel au Royaume-Uni (où le salarié reçoit un formulaire fiscal, le P45) ni aux États-Unis, où l'on demande au besoin une « employment verification letter ». Ce n'est pas une « reference » : aucune appréciation n'y figure.",
+  "french_concept": true,
+  "explain": {
+   "written": "The certificat de travail is a mandatory document issued by the employer at the end of any employment contract, stating the dates of employment and the nature of the positions held.",
+   "spoken": "Every employee who leaves a French company gets a certificate confirming when they worked there and in what role. It's purely factual."
+  }
+ },
+ {
+  "id": "ex-085",
+  "level": 2,
+  "fr": "attestation destinée à France Travail (attestation employeur)",
+  "term": {
+   "uk": "employer's certificate for the unemployment agency",
+   "us": "employer's certificate for the unemployment agency"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪəz səˈtɪfɪkət fə ði ˌʌnɪmˈplɔɪmənt ˈeɪdʒ(ə)nsi/",
+   "us": "/ɪmˈplɔɪərz sərˈtɪfɪkət fər ði ˌʌnɪmˈplɔɪmənt ˈeɪdʒ(ə)nsi/"
+  },
+  "def": "A document the French employer must give the departing employee and send to the public employment service, so that entitlement to unemployment benefit can be assessed.",
+  "registers": {
+   "formal": {
+    "uk": "employer's certificate for the unemployment agency",
+    "us": "employer's certificate for the unemployment agency",
+    "ex": "The [[employer's certificate for the unemployment agency]] states the reason for termination and the remuneration paid over the reference period."
+   },
+   "everyday": {
+    "uk": "the form for the jobcentre",
+    "us": "the form for the unemployment office",
+    "ex": "Without [[the form for the jobcentre]], she can't get her claim started.",
+    "ex_us": "Without [[the form for the unemployment office]], she can't get her claim started."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to state the reason for termination",
+   "to issue the certificate without delay",
+   "the public employment service",
+   "to process a claim"
+  ],
+  "note_fr": "France Travail (ex-Pôle emploi) se présente comme « the French public employment service ». « Attestation » existe en anglais mais désigne un acte de certification solennel : préférez « certificate » ou « form ». « Jobcentre » est britannique.",
+  "french_concept": true,
+  "explain": {
+   "written": "The attestation France Travail is a certificate which the employer must provide at the end of every contract, to the employee and to the public employment service, recording the reason for termination and the pay on which unemployment benefit is calculated.",
+   "spoken": "It's the form the employer fills in for the unemployment agency. The employee needs it to claim benefit."
+  }
+ },
+ {
+  "id": "ex-086",
+  "level": 1,
+  "fr": "documents de fin de contrat",
+  "term": {
+   "uk": "leaving paperwork",
+   "us": "separation paperwork"
+  },
+  "ipa": {
+   "uk": "/ˈliːvɪŋ ˈpeɪpəwɜːk/",
+   "us": "/ˌsepəˈreɪʃ(ə)n ˈpeɪpərwɜːrk/"
+  },
+  "def": "The documents an employer gives an employee when the job ends.",
+  "registers": {
+   "formal": {
+    "uk": "termination documents",
+    "us": "separation documents",
+    "ex": "The [[termination documents]] will be handed to the Employee on the Termination Date.",
+    "ex_us": "The [[separation documents]] will be provided to the Employee on the Separation Date."
+   },
+   "everyday": {
+    "uk": "leaving paperwork",
+    "us": "separation paperwork",
+    "ex": "HR will send you all your [[leaving paperwork]] with your final payslip.",
+    "ex_us": "HR will send you all your [[separation paperwork]] with your final pay stub."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue the documents",
+   "to collect one's documents",
+   "a P45",
+   "to chase up the paperwork"
+  ],
+  "note_fr": "« Paperwork » est indénombrable : « the paperwork is ready », jamais « the paperworks ». En France, trois documents sont obligatoires : certificat de travail, attestation France Travail et reçu pour solde de tout compte. Au Royaume-Uni, l'essentiel se résume au P45.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-087",
+  "level": 1,
+  "fr": "indemnité compensatrice de congés payés",
+  "term": {
+   "uk": "payment in lieu of untaken holiday",
+   "us": "payout of unused vacation"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪmənt ɪn ljuː əv ʌnˈteɪkən ˈhɒlədeɪ/",
+   "us": "/ˈpeɪaʊt əv ʌnˈjuːzd veɪˈkeɪʃ(ə)n/"
+  },
+  "def": "Money paid at the end of the contract for paid leave the employee has earned but not taken.",
+  "registers": {
+   "formal": {
+    "uk": "payment in lieu of accrued but untaken holiday",
+    "us": "payment for accrued but unused vacation",
+    "ex": "The Employee shall receive a [[payment in lieu of accrued but untaken holiday]] as at the Termination Date.",
+    "ex_us": "The Employee shall receive [[payment for accrued but unused vacation]] as of the Separation Date."
+   },
+   "everyday": {
+    "uk": "to be paid for untaken holiday",
+    "us": "to be paid out for unused vacation",
+    "ex": "You've got six days left, so you'll [[be paid for untaken holiday]] in your final salary.",
+    "ex_us": "You have six days left, so you'll [[be paid out for unused vacation]] in your final paycheck."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "accrued holiday",
+   "to carry over leave",
+   "to use up one's leave",
+   "holiday pay"
+  ],
+  "note_fr": "« In lieu of » (à la place de) se prononce « in lyou » ou « in loo ». « To accrue » = acquérir progressivement (des droits). Aux États-Unis, le paiement des congés non pris dépend de la loi de chaque État et de la politique de l'entreprise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-088",
+  "level": 1,
+  "fr": "passation (de dossiers, de fonctions)",
+  "term": {
+   "uk": "handover",
+   "us": "transition"
+  },
+  "ipa": {
+   "uk": "/ˈhændəʊvə/",
+   "us": "/trænˈzɪʃ(ə)n/"
+  },
+  "def": "The process of passing one's work, files and responsibilities to the person taking over.",
+  "registers": {
+   "formal": {
+    "uk": "orderly handover",
+    "us": "orderly transition",
+    "ex": "The Employee shall cooperate in ensuring an [[orderly handover]] of his duties and files.",
+    "ex_us": "The Employee shall cooperate in ensuring an [[orderly transition]] of his duties and files."
+   },
+   "everyday": {
+    "uk": "handover",
+    "us": "handoff",
+    "ex": "Let's block out his last two weeks for the [[handover]].",
+    "ex_us": "Let's block out his last two weeks for the [[handoff]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "handover notes",
+   "a handover period",
+   "a smooth handover",
+   "to do a handover with one's successor"
+  ],
+  "note_fr": "« Handover » (nom, en un mot) est surtout britannique ; l'Américain parle de « transition » ou de « handoff ». Le verbe s'écrit en deux mots : « to hand over ». « Passation » n'existe pas en anglais.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-089",
+  "level": 1,
+  "fr": "transmettre ses dossiers",
+  "term": {
+   "uk": "to hand over one's work",
+   "us": "to hand off one's work"
+  },
+  "ipa": {
+   "uk": "/tə hænd ˈəʊvə wʌnz wɜːk/",
+   "us": "/tə hænd ˈɔːf wʌnz wɜːrk/"
+  },
+  "def": "To give one's files and responsibilities to a colleague or successor before leaving.",
+  "registers": {
+   "formal": {
+    "uk": "to transfer one's responsibilities",
+    "us": "to transfer one's responsibilities",
+    "ex": "During the notice period, the Employee shall [[transfer his responsibilities]] to the person designated by the Company."
+   },
+   "everyday": {
+    "uk": "to hand over to",
+    "us": "to hand off to",
+    "ex": "I'm [[handing over to]] Priya, so please copy her in from now on.",
+    "ex_us": "I'm [[handing off to]] Priya, so please copy her from now on."
+   },
+   "informal": {
+    "uk": "to pass the baton",
+    "us": "to pass the baton",
+    "ex": "Right, time to [[pass the baton]]. She's all yours, Priya."
+   }
+  },
+  "collocations": [
+   "to bring someone up to speed",
+   "to take over from someone",
+   "to copy someone in",
+   "to leave detailed notes"
+  ],
+  "note_fr": "Symétrie utile : « to hand over TO someone » (transmettre à) / « to take over FROM someone » (reprendre de). « To bring someone up to speed » = mettre quelqu'un au courant. « To copy someone in » (UK) / « to copy someone » ou « to cc » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-090",
+  "level": 1,
+  "fr": "entretien de départ",
+  "term": {
+   "uk": "exit interview",
+   "us": "exit interview"
+  },
+  "ipa": {
+   "uk": "/ˈeksɪt ˈɪntəvjuː/",
+   "us": "/ˈeɡzɪt ˈɪntərvjuː/"
+  },
+  "def": "A conversation with a departing employee to understand why he or she is leaving and what the organisation could improve.",
+  "registers": {
+   "formal": {
+    "uk": "exit interview",
+    "us": "exit interview",
+    "ex": "All departing employees are invited to attend an [[exit interview]] with a member of the HR team."
+   },
+   "everyday": {
+    "uk": "exit interview",
+    "us": "exit interview",
+    "ex": "Nothing surprising came out of her [[exit interview]]: pay, and no prospect of promotion."
+   },
+   "informal": {
+    "uk": "exit chat",
+    "us": "exit chat",
+    "ex": "It's not a formal thing, just a quick [[exit chat]] over coffee."
+   }
+  },
+  "collocations": [
+   "to conduct an exit interview",
+   "reasons for leaving",
+   "candid feedback",
+   "to spot a pattern"
+  ],
+  "note_fr": "Seul cas, hors recrutement, où « interview » convient en RH. On « conducts » ou « holds » un entretien, on ne le « makes » pas. « Candid » signifie « franc », non « candide ». Pratique facultative dans les trois pays.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-091",
+  "level": 1,
+  "fr": "restitution du matériel de l'entreprise",
+  "term": {
+   "uk": "return of company property",
+   "us": "return of company property"
+  },
+  "ipa": {
+   "uk": "/rɪˈtɜːn əv ˈkʌmp(ə)ni ˈprɒpəti/",
+   "us": "/rɪˈtɜːrn əv ˈkʌmp(ə)ni ˈprɑːpərti/"
+  },
+  "def": "Giving back everything that belongs to the employer, such as a laptop, phone, access badge, car and documents.",
+  "registers": {
+   "formal": {
+    "uk": "to return all property belonging to the Company",
+    "us": "to return all property belonging to the Company",
+    "ex": "On or before the Termination Date, the Employee shall [[return all property belonging to the Company]], including any copies of documents.",
+    "ex_us": "On or before the Separation Date, the Employee shall [[return all property belonging to the Company]], including any copies of documents."
+   },
+   "everyday": {
+    "uk": "to hand back",
+    "us": "to turn in",
+    "ex": "Don't forget to [[hand back]] your laptop and security pass on your last day.",
+    "ex_us": "Don't forget to [[turn in]] your laptop and badge on your last day."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "company equipment",
+   "a security pass",
+   "to delete company data from personal devices",
+   "in good condition"
+  ],
+  "note_fr": "« Material » est un faux ami : c'est la matière ou la documentation, pas le matériel ; dites « equipment » (indénombrable) ou « property ». « Restitution » existe mais relève du droit des obligations. Badge : « pass » (UK), « badge » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-092",
+  "level": 2,
+  "fr": "désactiver les accès informatiques",
+  "term": {
+   "uk": "to revoke access",
+   "us": "to revoke access"
+  },
+  "ipa": {
+   "uk": "/tə rɪˈvəʊk ˈækses/",
+   "us": "/tə rɪˈvoʊk ˈækses/"
+  },
+  "def": "To stop a departing employee from being able to use the company's IT systems and premises.",
+  "registers": {
+   "formal": {
+    "uk": "to revoke access rights",
+    "us": "to revoke access rights",
+    "ex": "The Company reserves the right to [[revoke access rights]] to its systems at close of business on the Termination Date.",
+    "ex_us": "The Company reserves the right to [[revoke access rights]] to its systems at close of business on the Separation Date."
+   },
+   "everyday": {
+    "uk": "to cut off someone's access",
+    "us": "to cut off someone's access",
+    "ex": "IT will [[cut off his access]] at six o'clock on Friday, so make sure the handover's done by then."
+   },
+   "informal": {
+    "uk": "to lock someone out",
+    "us": "to lock someone out",
+    "ex": "They [[locked her out]] of her email before she'd even left the building."
+   }
+  },
+  "collocations": [
+   "to deactivate an account",
+   "to disable a login",
+   "to set up an out-of-office message",
+   "to forward emails to"
+  ],
+  "note_fr": "« Access » est indénombrable dans ce sens : « to revoke access », pas « the accesses ». « To deactivate / disable an account » ; « to desactivate » n'existe pas. Couper les accès sans prévenir pendant une négociation peut être interprété comme une pression.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-093",
+  "level": 1,
+  "fr": "allocations chômage",
+  "term": {
+   "uk": "unemployment benefit",
+   "us": "unemployment benefits"
+  },
+  "ipa": {
+   "uk": "/ˌʌnɪmˈplɔɪmənt ˈbenɪfɪt/",
+   "us": "/ˌʌnɪmˈplɔɪmənt ˈbenəfɪts/"
+  },
+  "def": "Money paid by the state or an insurance scheme to people who have lost their job and are looking for work.",
+  "registers": {
+   "formal": {
+    "uk": "unemployment benefit",
+    "us": "unemployment insurance benefits",
+    "ex": "A mutual termination agreement gives access to [[unemployment benefit]] on the same terms as a dismissal.",
+    "ex_us": "A mutual termination agreement gives access to [[unemployment insurance benefits]] on the same terms as a dismissal."
+   },
+   "everyday": {
+    "uk": "unemployment benefit",
+    "us": "unemployment",
+    "ex": "Will she get [[unemployment benefit]] if she leaves by agreement?",
+    "ex_us": "Will she get [[unemployment]] if she leaves by agreement?"
+   },
+   "informal": {
+    "uk": "the dole",
+    "us": "unemployment",
+    "ex": "He was on [[the dole]] for six months before he found something.",
+    "ex_us": "He was on [[unemployment]] for six months before he found something."
+   }
+  },
+  "collocations": [
+   "to claim unemployment benefit",
+   "to be on benefits",
+   "to collect unemployment",
+   "the unemployment insurance scheme"
+  ],
+  "note_fr": "« Unemployment allocations » est un calque. Singulier indénombrable au Royaume-Uni (« unemployment benefit »), pluriel aux États-Unis. Les systèmes diffèrent beaucoup : assurance généreuse et proportionnelle au salaire en France, allocation forfaitaire modeste au Royaume-Uni, régime propre à chaque État aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-094",
+  "level": 2,
+  "fr": "ouvrir droit aux allocations chômage",
+  "term": {
+   "uk": "to be eligible for unemployment benefit",
+   "us": "to be eligible for unemployment benefits"
+  },
+  "ipa": {
+   "uk": "/tə bi ˈelɪdʒəb(ə)l fər ˌʌnɪmˈplɔɪmənt ˈbenɪfɪt/",
+   "us": "/tə bi ˈelɪdʒəb(ə)l fər ˌʌnɪmˈplɔɪmənt ˈbenəfɪts/"
+  },
+  "def": "To meet the conditions for receiving payments while out of work.",
+  "registers": {
+   "formal": {
+    "uk": "to give rise to entitlement to unemployment benefit",
+    "us": "to give rise to entitlement to unemployment benefits",
+    "ex": "Resignation does not ordinarily [[give rise to entitlement to unemployment benefit]] under the French scheme.",
+    "ex_us": "Resignation does not ordinarily [[give rise to entitlement to unemployment benefits]] under the French system."
+   },
+   "everyday": {
+    "uk": "to qualify for unemployment benefit",
+    "us": "to qualify for unemployment",
+    "ex": "If you resign, you won't normally [[qualify for unemployment benefit]]; with a mutual termination, you will.",
+    "ex_us": "If you quit, you won't normally [[qualify for unemployment]]; with a mutual termination, you will."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to lose one's entitlement",
+   "involuntary loss of employment",
+   "to leave voluntarily without good reason",
+   "to meet the conditions"
+  ],
+  "note_fr": "« To open rights » est un calque. C'est souvent l'argument décisif pour le salarié français : la rupture conventionnelle ouvre droit au chômage, la démission en principe non. Aux États-Unis aussi, celui qui démissionne sans motif légitime est en général exclu ; au Royaume-Uni, il risque une suspension de ses allocations.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-095",
+  "level": 2,
+  "fr": "s'inscrire comme demandeur d'emploi",
+  "term": {
+   "uk": "to register as a jobseeker",
+   "us": "to file for unemployment"
+  },
+  "ipa": {
+   "uk": "/tə ˈredʒɪstər əz ə ˈdʒɒbˌsiːkə/",
+   "us": "/tə faɪl fər ˌʌnɪmˈplɔɪmənt/"
+  },
+  "def": "To sign up officially with the public employment service in order to look for work and claim benefit.",
+  "registers": {
+   "formal": {
+    "uk": "to register as a jobseeker",
+    "us": "to file a claim for unemployment benefits",
+    "ex": "Benefit is payable only once the former employee has [[registered as a jobseeker]] with the public employment service.",
+    "ex_us": "Benefits are payable only once the former employee has [[filed a claim for unemployment benefits]] with the state agency."
+   },
+   "everyday": {
+    "uk": "to register with the jobcentre",
+    "us": "to file for unemployment",
+    "ex": "[[Register with the jobcentre]] as soon as your contract ends; don't wait for the paperwork.",
+    "ex_us": "[[File for unemployment]] as soon as your employment ends; don't wait for the paperwork."
+   },
+   "informal": {
+    "uk": "to sign on",
+    "us": "to go on unemployment",
+    "ex": "I never thought I'd have to [[sign on]] at fifty-two.",
+    "ex_us": "I never thought I'd have to [[go on unemployment]] at fifty-two."
+   }
+  },
+  "collocations": [
+   "a jobseeker",
+   "to be actively seeking work",
+   "to make a claim",
+   "to be between jobs"
+  ],
+  "note_fr": "« Job demander » et « to inscribe oneself » n'existent pas. « To sign on » est britannique et familier (à ne pas confondre avec « to sign up », s'inscrire à un service). « To be between jobs » est l'euphémisme élégant pour « être au chômage ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-096",
+  "level": 3,
+  "fr": "différé d'indemnisation / délai de carence",
+  "term": {
+   "uk": "waiting period",
+   "us": "waiting period"
+  },
+  "ipa": {
+   "uk": "/ˈweɪtɪŋ ˌpɪəriəd/",
+   "us": "/ˈweɪtɪŋ ˌpɪriəd/"
+  },
+  "def": "A period after the end of the contract during which unemployment benefit is not yet paid.",
+  "registers": {
+   "formal": {
+    "uk": "deferral period",
+    "us": "deferral period",
+    "ex": "Any payment in excess of the statutory minimum will extend the [[deferral period]] before benefit becomes payable.",
+    "ex_us": "Any payment in excess of the statutory minimum will extend the [[deferral period]] before benefits become payable."
+   },
+   "everyday": {
+    "uk": "waiting period",
+    "us": "waiting period",
+    "ex": "The bigger the payment, the longer the [[waiting period]] before her benefit kicks in.",
+    "ex_us": "The bigger the payment, the longer the [[waiting period]] before her benefits kick in."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to defer payment of benefit",
+   "to kick in",
+   "to factor in the waiting period",
+   "payments above the statutory minimum"
+  ],
+  "note_fr": "« Carence » ne se traduit ni par « deficiency » ni par « lack ». Point à signaler dans toute négociation française : la part de l'indemnité qui dépasse le minimum légal retarde le versement des allocations, dans une limite fixée par la réglementation. « To kick in » = commencer à s'appliquer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-097",
+  "level": 2,
+  "fr": "outplacement / accompagnement au reclassement externe",
+  "term": {
+   "uk": "outplacement support",
+   "us": "outplacement services"
+  },
+  "ipa": {
+   "uk": "/ˈaʊtpleɪsmənt səˈpɔːt/",
+   "us": "/ˈaʊtpleɪsmənt ˈsɜːrvɪsɪz/"
+  },
+  "def": "Professional help, paid for by the former employer, to assist a departing employee in finding a new job.",
+  "registers": {
+   "formal": {
+    "uk": "outplacement support",
+    "us": "outplacement services",
+    "ex": "The Company shall fund [[outplacement support]] from a provider of the Employee's choice, up to a maximum of EUR 6,000 excluding VAT.",
+    "ex_us": "The Company shall pay for [[outplacement services]] from a provider of the Employee's choice, up to a maximum of USD 6,000."
+   },
+   "everyday": {
+    "uk": "help with finding a new job",
+    "us": "help finding a new job",
+    "ex": "The package includes six months' [[help with finding a new job]].",
+    "ex_us": "The package includes six months of [[help finding a new job]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "career transition coaching",
+   "an outplacement provider",
+   "to fund outplacement",
+   "to brush up one's CV"
+  ],
+  "note_fr": "Le mot est anglais, mais il s'emploie surtout avec « support », « services » ou « programme / program ». « Reclassement » n'est pas « reclassification » (qui signifie changement de catégorie). CV : « CV » (UK), « résumé » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-098",
+  "level": 3,
+  "fr": "portabilité de la mutuelle et de la prévoyance",
+  "term": {
+   "uk": "continuation of health and welfare cover",
+   "us": "continuation of health coverage"
+  },
+  "ipa": {
+   "uk": "/kənˌtɪnjuˈeɪʃ(ə)n əv helθ ənd ˈwelfeə ˈkʌvə/",
+   "us": "/kənˌtɪnjuˈeɪʃ(ə)n əv helθ ˈkʌvərɪdʒ/"
+  },
+  "def": "The right of a former employee who is receiving unemployment benefit to remain covered, for a limited time, by the employer's health and welfare insurance.",
+  "registers": {
+   "formal": {
+    "uk": "continuation of health and welfare cover",
+    "us": "continuation of health coverage",
+    "ex": "The Employee shall benefit from [[continuation of health and welfare cover]], free of charge, for the period provided for by law.",
+    "ex_us": "The Employee shall benefit from [[continuation of health coverage]], at no cost, for the period provided for by law."
+   },
+   "everyday": {
+    "uk": "to stay on the company health plan",
+    "us": "to stay on the company health plan",
+    "ex": "As long as you're claiming benefit, you [[stay on the company health plan]] for up to a year at no cost.",
+    "ex_us": "As long as you're collecting unemployment, you [[stay on the company health plan]] for up to a year at no cost."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to remain covered",
+   "at no cost to the employee",
+   "to lapse",
+   "COBRA coverage"
+  ],
+  "note_fr": "« Portability » se comprend, mais il faut expliquer le mécanisme. Comparaison utile pour un Américain : c'est l'esprit du dispositif COBRA, sauf qu'en France le maintien est gratuit pour l'ancien salarié, alors qu'aux États-Unis il paie en général la totalité de la prime. « Cover » (UK) / « coverage » (US).",
+  "french_concept": true,
+  "explain": {
+   "written": "Portabilité is the statutory right of a former employee who qualifies for unemployment benefit to retain, free of charge and for a limited period, the health and welfare insurance cover provided by the former employer.",
+   "spoken": "If you leave and you're entitled to unemployment benefit, you keep the company's health cover for a while, at no cost."
+  }
+ },
+ {
+  "id": "ex-099",
+  "level": 1,
+  "fr": "pot de départ",
+  "term": {
+   "uk": "leaving do",
+   "us": "farewell party"
+  },
+  "ipa": {
+   "uk": "/ˈliːvɪŋ duː/",
+   "us": "/ˌferˈwel ˈpɑːrti/"
+  },
+  "def": "An informal gathering at which colleagues say goodbye to someone who is leaving.",
+  "registers": {
+   "formal": {
+    "uk": "farewell reception",
+    "us": "farewell reception",
+    "ex": "A [[farewell reception]] will be held in the boardroom on Thursday at 5 p.m."
+   },
+   "everyday": {
+    "uk": "leaving drinks",
+    "us": "farewell party",
+    "ex": "Are you coming to Marc's [[leaving drinks]] on Thursday?",
+    "ex_us": "Are you coming to Marc's [[farewell party]] on Thursday?"
+   },
+   "informal": {
+    "uk": "leaving do",
+    "us": "send-off",
+    "ex": "We're having a little [[leaving do]] for her at the pub.",
+    "ex_us": "We're giving her a little [[send-off]] at the bar down the street."
+   }
+  },
+  "collocations": [
+   "to have a whip-round",
+   "a leaving card",
+   "to say a few words",
+   "to give someone a good send-off"
+  ],
+  "note_fr": "« A do » (UK, familier) = une fête. « A whip-round » (UK) = une collecte entre collègues ; aux États-Unis, « to take up a collection » ou « to chip in ». « Departure pot » n'a aucun sens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ex-100",
+  "level": 3,
+  "fr": "« good leaver » / « bad leaver » (sort des actions et stock-options selon les circonstances du départ)",
+  "term": {
+   "uk": "good leaver / bad leaver",
+   "us": "good leaver / bad leaver"
+  },
+  "ipa": {
+   "uk": "/ɡʊd ˈliːvə bæd ˈliːvə/",
+   "us": "/ɡʊd ˈliːvər bæd ˈliːvər/"
+  },
+  "def": "Categories used in share and incentive plans to decide what a departing employee keeps, depending on why he or she is leaving.",
+  "registers": {
+   "formal": {
+    "uk": "to be treated as a good leaver",
+    "us": "to be treated as a good leaver",
+    "ex": "For the purposes of the share plan, the Employee shall [[be treated as a good leaver]] and shall retain his vested options.",
+    "ex_us": "For purposes of the equity plan, the Employee shall [[be treated as a good leaver]] and shall retain his vested options."
+   },
+   "everyday": {
+    "uk": "good leaver",
+    "us": "good leaver",
+    "ex": "Her adviser's main demand is [[good leaver]] status, so that she keeps her shares.",
+    "ex_us": "Her attorney's main demand is [[good leaver]] status, so that she keeps her equity."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "good leaver status",
+   "vested and unvested options",
+   "to forfeit one's shares",
+   "to lapse on termination"
+  ],
+  "note_fr": "Point de négociation fréquent pour les cadres dirigeants : le « bad leaver » (démission, faute) perd tout ou partie de ses titres ; le « good leaver » (retraite, invalidité, départ négocié selon le plan) les conserve. « Vested » = définitivement acquis ; « to forfeit » = perdre (un droit). Vocabulaire d'origine britannique, compris aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ }
+]

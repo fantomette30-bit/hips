@@ -1,0 +1,1662 @@
+{
+ "reading": [
+  {
+   "id": "rd-eq-1",
+   "title": "If someone tells you about harassment",
+   "kind": "long email",
+   "level": 1,
+   "paragraphs": [
+    "Subject: If someone tells you about harassment - what to do",
+    "Dear all,",
+    "Following last month's training, several of you asked me for a short reminder of what to do if a member of your team tells you they are being harassed or bullied. Here it is.",
+    "First, listen. Find a quiet room, let the person speak and take what they say seriously, even if it surprises you. Do not defend the colleague they are complaining about, and do not suggest that it was probably just banter. You are not there to decide who is right.",
+    "Second, do not promise to keep it secret. I know this feels unkind, but once a manager is aware of possible harassment, the company has a duty to act. What you can promise is that the matter will be handled on a need-to-know basis and that nobody will be punished for speaking up in good faith.",
+    "Third, write down what you were told as soon as the conversation is over: dates, places, the exact words used and the names of any witnesses. Stick to facts and leave your opinions out.",
+    "Finally, contact me or the harassment officer the same day. Please do not start your own investigation, speak to the person accused or try to sort it out between the two of them. However well meant, this can make things worse and may put the complainant at risk of retaliation.",
+    "If you are unsure whether something is serious enough to report, report it anyway. I would much rather hear about ten concerns that turn out to be nothing than miss the one that matters.",
+    "Thank you for your help with this.",
+    "Kind regards,",
+    "Helen Marsh, HR Director"
+   ],
+   "glossary": [
+    {
+     "term": "bullied",
+     "plain": "treated in a repeated, unkind way that wears a person down",
+     "fr": "victime de harcèlement moral, malmené(e)"
+    },
+    {
+     "term": "banter",
+     "plain": "joking and teasing between colleagues",
+     "fr": "plaisanteries, taquineries"
+    },
+    {
+     "term": "on a need-to-know basis",
+     "plain": "shared only with the people who really have to be told",
+     "fr": "en limitant l'information aux seules personnes qui doivent la connaître"
+    },
+    {
+     "term": "in good faith",
+     "plain": "honestly believing that what you say is true",
+     "fr": "de bonne foi"
+    },
+    {
+     "term": "witnesses",
+     "plain": "people who saw or heard what happened",
+     "fr": "témoins"
+    },
+    {
+     "term": "harassment officer",
+     "plain": "the person appointed to advise and support staff on harassment",
+     "fr": "référent harcèlement"
+    },
+    {
+     "term": "complainant",
+     "plain": "the person who makes the complaint",
+     "fr": "plaignant(e), auteur(e) du signalement"
+    },
+    {
+     "term": "retaliation",
+     "plain": "punishing someone because they complained",
+     "fr": "représailles"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "has a duty to act",
+     "plain": "is legally obliged to do something about it"
+    },
+    {
+     "phrase": "However well meant",
+     "plain": "even if your intentions are good"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What should a manager do first when an employee reports harassment?",
+     "options": [
+      "Ask the accused colleague for his or her version",
+      "Listen and take the person seriously",
+      "Decide whether the complaint is true",
+      "Suggest that it was probably a joke"
+     ],
+     "answer": 1,
+     "explain_fr": "« First, listen... take what they say seriously » : le manager écoute, il ne juge pas et ne minimise pas."
+    },
+    {
+     "q": "What may the manager promise the employee?",
+     "options": [
+      "That nobody else will ever be told",
+      "That the colleague will be disciplined",
+      "That the matter will only be shared with those who need to know",
+      "That there will be no investigation"
+     ],
+     "answer": 2,
+     "explain_fr": "« On a need-to-know basis » : on ne promet pas le secret absolu, seulement une diffusion limitée et l'absence de sanction pour qui parle de bonne foi."
+    },
+    {
+     "q": "Why should the manager not speak to the person accused?",
+     "options": [
+      "It could make things worse and expose the complainant to retaliation",
+      "Only the works council may do so",
+      "The person accused has the right to remain silent",
+      "It would take too much time"
+     ],
+     "answer": 0,
+     "explain_fr": "« This can make things worse and may put the complainant at risk of retaliation » : une initiative isolée fragilise la suite et expose la personne plaignante."
+    },
+    {
+     "q": "What does Helen Marsh say about minor concerns?",
+     "options": [
+      "They should be handled within the team",
+      "They should be reported only if they happen again",
+      "They should be written down but not passed on",
+      "They should be reported in any case"
+     ],
+     "answer": 3,
+     "explain_fr": "« Report it anyway » : mieux vaut dix signalements sans suite qu'un seul fait grave passé sous silence."
+    }
+   ]
+  },
+  {
+   "id": "rd-eq-2",
+   "title": "Dignity at Work Policy (extract)",
+   "kind": "policy extract",
+   "level": 2,
+   "paragraphs": [
+    "3. WHAT IS HARASSMENT?",
+    "3.1 Harassment is any unwanted conduct which has the purpose or effect of violating a person's dignity or of creating an intimidating, hostile, degrading, humiliating or offensive environment for that person. It may be related to sex, age, disability, origin, religion, sexual orientation or any other protected ground.",
+    "3.2 Under French law, which applies to our employees in France, repeated acts which degrade an employee's working conditions may constitute moral harassment whether or not they are related to a protected ground.",
+    "3.3 A person may be harassed even if the conduct was not directed at them, and even if the person responsible did not intend to cause offence.",
+    "4. RAISING A CONCERN",
+    "4.1 If you feel able to do so, you may first tell the person concerned that their behaviour is unwelcome and ask them to stop.",
+    "4.2 If this is not appropriate, or if the behaviour continues, you should report the matter to your line manager, the Human Resources Department or the harassment officer appointed by the works council. Reports may also be made through the internal reporting channel.",
+    "4.3 All reports shall be treated in confidence, save to the extent that disclosure is necessary for the purposes of the investigation.",
+    "5. PROTECTION AGAINST VICTIMISATION",
+    "5.1 No employee shall suffer any detriment for having reported harassment in good faith or for having given evidence in an investigation, irrespective of the outcome.",
+    "5.2 Any act of retaliation will be treated as a disciplinary matter. The same applies to any complaint which is shown to have been made maliciously, that is to say in the knowledge that it was untrue."
+   ],
+   "glossary": [
+    {
+     "term": "unwanted conduct",
+     "plain": "behaviour that the person has not invited and does not want",
+     "fr": "comportement non désiré"
+    },
+    {
+     "term": "protected ground",
+     "plain": "a personal characteristic on which the law forbids discrimination",
+     "fr": "motif de discrimination prohibé"
+    },
+    {
+     "term": "moral harassment",
+     "plain": "the French legal notion of repeated acts that degrade a person's working conditions; roughly, workplace bullying",
+     "fr": "harcèlement moral"
+    },
+    {
+     "term": "line manager",
+     "plain": "the person you report to directly",
+     "fr": "supérieur(e) hiérarchique direct(e)"
+    },
+    {
+     "term": "internal reporting channel",
+     "plain": "the official route for reporting wrongdoing inside the company",
+     "fr": "dispositif interne de signalement"
+    },
+    {
+     "term": "victimisation",
+     "plain": "treating someone badly because they complained or gave evidence",
+     "fr": "représailles (sens juridique britannique)"
+    },
+    {
+     "term": "detriment",
+     "plain": "any disadvantage or harm at work",
+     "fr": "préjudice, mesure défavorable"
+    },
+    {
+     "term": "maliciously",
+     "plain": "with the intention of harming someone",
+     "fr": "avec l'intention de nuire, de mauvaise foi"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "has the purpose or effect of",
+     "plain": "is intended to, or in practice does"
+    },
+    {
+     "phrase": "whether or not",
+     "plain": "regardless of whether"
+    },
+    {
+     "phrase": "save to the extent that",
+     "plain": "except in so far as; except where"
+    },
+    {
+     "phrase": "irrespective of the outcome",
+     "plain": "whatever the result turns out to be"
+    },
+    {
+     "phrase": "that is to say",
+     "plain": "in other words"
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to clause 3.3, when can conduct amount to harassment?",
+     "options": [
+      "Only if it was aimed directly at the person",
+      "Only if the person responsible meant to offend",
+      "Even where no offence was intended",
+      "Only if it was repeated"
+     ],
+     "answer": 2,
+     "explain_fr": "« Even if the person responsible did not intend to cause offence » : c'est l'effet du comportement qui compte, pas l'intention."
+    },
+    {
+     "q": "What is specific to French law according to clause 3.2?",
+     "options": [
+      "Moral harassment need not be linked to a protected ground",
+      "A single act is always sufficient",
+      "Harassment must be related to sex",
+      "Only managers can commit moral harassment"
+     ],
+     "answer": 0,
+     "explain_fr": "« Whether or not they are related to a protected ground » : le harcèlement moral français n'exige aucun lien avec un critère de discrimination, mais il suppose des agissements répétés."
+    },
+    {
+     "q": "What does clause 4.3 say about confidentiality?",
+     "options": [
+      "Reports are always anonymous",
+      "The accused person is never told anything",
+      "Confidentiality ends when the investigation starts",
+      "Information is disclosed only where the investigation requires it"
+     ],
+     "answer": 3,
+     "explain_fr": "« Save to the extent that disclosure is necessary » : la confidentialité est la règle, la divulgation l'exception strictement nécessaire à l'enquête."
+    },
+    {
+     "q": "An employee reports harassment in good faith, but the complaint is not upheld. What follows from clause 5?",
+     "options": [
+      "The employee may be disciplined for a false complaint",
+      "The employee remains protected against any detriment",
+      "The employee must apologise to the colleague",
+      "The employee loses the right to complain again"
+     ],
+     "answer": 1,
+     "explain_fr": "« Irrespective of the outcome » : la protection vaut quelle que soit l'issue. Seule la plainte faite « maliciously », en sachant les faits faux, est sanctionnable."
+    }
+   ]
+  },
+  {
+   "id": "rd-eq-3",
+   "title": "Discrimination claims in France: who has to prove what?",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Karen Doyle, VP People (Chicago)",
+    "From: Claire Morel",
+    "Re: Pay discrimination claim - Lyon office",
+    "You asked why I am taking seriously a claim that, in your words, 'rests on a hunch'. The short answer is that the French rules of evidence are much kinder to the employee than you might expect.",
+    "The employee does not have to prove discrimination. She only has to present facts from which discrimination may be presumed. Here, she points to two things: she is paid nine per cent less than the two men who do the same job, and her last pay rise was refused a few weeks after she announced her pregnancy. In my view, that is enough to establish a prima facie case.",
+    "The burden of proof then shifts to the company. We must show that the difference is justified by objective factors unrelated to any discrimination, such as experience, qualifications or measurable performance. Good intentions are not a defence, and neither is the fact that her manager is a woman.",
+    "Please also bear in mind that she has referred the matter to the Défenseur des droits, the independent authority that deals with discrimination. Unlike a charge filed with the EEOC, this step is optional and free of charge, and it does not prevent her from going to the labour court. The authority may, however, ask us for explanations and submit its own observations to the court.",
+    "I would therefore suggest three steps. First, pull together the pay history and appraisal records of all three employees. Secondly, ask the manager to set out in writing the reasons for the refusal. Thirdly, and above all, make sure that nothing changes for the worse in her working conditions in the meantime: any such change would look like retaliation.",
+    "I am happy to go through the file with you on Thursday."
+   ],
+   "glossary": [
+    {
+     "term": "rests on a hunch",
+     "plain": "is based on a feeling rather than on facts",
+     "fr": "repose sur une simple intuition"
+    },
+    {
+     "term": "prima facie case",
+     "plain": "enough facts for discrimination to be presumed unless the employer explains them",
+     "fr": "éléments laissant supposer l'existence d'une discrimination"
+    },
+    {
+     "term": "burden of proof",
+     "plain": "the obligation to prove something",
+     "fr": "charge de la preuve"
+    },
+    {
+     "term": "objective factors",
+     "plain": "real, verifiable reasons such as experience or results",
+     "fr": "éléments objectifs"
+    },
+    {
+     "term": "referred the matter to",
+     "plain": "formally asked (an authority) to deal with the case",
+     "fr": "a saisi"
+    },
+    {
+     "term": "charge",
+     "plain": "in the US, the formal complaint of discrimination filed with the EEOC",
+     "fr": "plainte déposée auprès de l'EEOC"
+    },
+    {
+     "term": "appraisal records",
+     "plain": "the written results of performance reviews",
+     "fr": "comptes rendus d'entretiens d'évaluation"
+    },
+    {
+     "term": "retaliation",
+     "plain": "punishing someone because they complained",
+     "fr": "représailles"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "facts from which discrimination may be presumed",
+     "plain": "facts that suggest there has been discrimination"
+    },
+    {
+     "phrase": "unrelated to any discrimination",
+     "plain": "which have nothing to do with a prohibited ground"
+    },
+    {
+     "phrase": "submit its own observations to the court",
+     "plain": "give the court its own written opinion on the case"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What must the employee do under the French rules of evidence?",
+     "options": [
+      "Prove that her manager intended to discriminate",
+      "Present facts suggesting that discrimination took place",
+      "Obtain a decision from the Défenseur des droits first",
+      "Show that all women in the company are paid less"
+     ],
+     "answer": 1,
+     "explain_fr": "« She only has to present facts from which discrimination may be presumed » : le salarié n'a pas à prouver la discrimination, seulement à présenter des éléments qui la laissent supposer."
+    },
+    {
+     "q": "What does the company then have to show?",
+     "options": [
+      "That the manager acted in good faith",
+      "That the employee's manager is a woman",
+      "That the pay gap is small",
+      "That objective reasons explain the difference"
+     ],
+     "answer": 3,
+     "explain_fr": "La charge se déplace : l'employeur doit prouver que la différence repose sur des « objective factors unrelated to any discrimination ». La bonne foi ne suffit pas."
+    },
+    {
+     "q": "How does referring a matter to the Défenseur des droits differ from filing an EEOC charge?",
+     "options": [
+      "It is optional and does not stand in the way of court proceedings",
+      "It is compulsory before going to court",
+      "It costs the employee a fee",
+      "It prevents the employer from defending itself"
+     ],
+     "answer": 0,
+     "explain_fr": "« This step is optional and free of charge, and it does not prevent her from going to the labour court » : à l'inverse de la « charge » américaine, ce n'est pas un préalable obligatoire."
+    },
+    {
+     "q": "Why does Claire insist that nothing should change in the employee's working conditions?",
+     "options": [
+      "Because French law freezes contracts during a dispute",
+      "Because the employee is on maternity leave",
+      "Because a change for the worse would look like retaliation",
+      "Because the Défenseur des droits has ordered it"
+     ],
+     "answer": 2,
+     "explain_fr": "« Any such change would look like retaliation » : toute mesure défavorable prise après la plainte serait interprétée comme une mesure de représailles."
+    }
+   ]
+  },
+  {
+   "id": "rd-eq-4",
+   "title": "Investigation report: findings",
+   "kind": "report extract",
+   "level": 3,
+   "paragraphs": [
+    "4. FINDINGS",
+    "4.1 Standard of proof. The findings below have been reached on the balance of probabilities, that is to say on the basis of what is more likely than not to have occurred.",
+    "4.2 Allegation 1: remarks about the complainant's appearance. The complainant states that, between September and January, the respondent commented on her clothes and figure on an almost weekly basis. The respondent denies this and describes their exchanges as 'friendly banter'. Three of the five witnesses interviewed recall remarks of this kind, and two say that the complainant was visibly uncomfortable. Their accounts are consistent with one another and with the notes the complainant kept at the time. This allegation is upheld.",
+    "4.3 Allegation 2: the message of 14 December. The respondent accepts that he sent the message but maintains that it was intended as a joke. Having regard to its wording, and to the fact that the complainant had already asked him to stop, I find that the message constituted unwanted conduct of a sexual nature. This allegation is upheld.",
+    "4.4 Allegation 3: exclusion from the client meeting of 9 January. The complainant believes she was left out in retaliation for having rejected the respondent's advances. The respondent states that attendance was decided by the client. An email from the client corroborates his account. In the absence of any evidence to the contrary, this allegation is not upheld. I should stress that this finding does not call the complainant's good faith into question.",
+    "4.5 Credibility. I found the complainant's account to be detailed and measured. The respondent's account changed on two points between his first and second interviews.",
+    "5. RECOMMENDATIONS",
+    "It is for the Company, and not for the investigator, to decide what action should follow. I recommend that the interim measures remain in place until that decision has been taken."
+   ],
+   "glossary": [
+    {
+     "term": "on the balance of probabilities",
+     "plain": "judged by whether something is more likely than not to have happened",
+     "fr": "selon le critère de la plus grande probabilité (preuve civile)"
+    },
+    {
+     "term": "complainant",
+     "plain": "the person who made the complaint",
+     "fr": "plaignante"
+    },
+    {
+     "term": "respondent",
+     "plain": "the person the complaint is about",
+     "fr": "personne mise en cause"
+    },
+    {
+     "term": "upheld",
+     "plain": "found to be well founded",
+     "fr": "retenue, jugée établie"
+    },
+    {
+     "term": "unwanted conduct",
+     "plain": "behaviour the other person has not invited and does not want",
+     "fr": "comportement non désiré"
+    },
+    {
+     "term": "advances",
+     "plain": "attempts to start a sexual or romantic relationship",
+     "fr": "avances"
+    },
+    {
+     "term": "corroborates",
+     "plain": "confirms by independent evidence",
+     "fr": "corrobore"
+    },
+    {
+     "term": "interim measures",
+     "plain": "temporary steps taken while the matter is being dealt with",
+     "fr": "mesures conservatoires"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "that is to say",
+     "plain": "in other words"
+    },
+    {
+     "phrase": "Having regard to",
+     "plain": "taking into account"
+    },
+    {
+     "phrase": "In the absence of any evidence to the contrary",
+     "plain": "as nothing has been produced to show otherwise"
+    },
+    {
+     "phrase": "does not call the complainant's good faith into question",
+     "plain": "does not suggest that the complainant was dishonest"
+    },
+    {
+     "phrase": "It is for the Company, and not for the investigator, to decide",
+     "plain": "the decision belongs to the Company, not to the investigator"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What standard has the investigator applied?",
+     "options": [
+      "Proof beyond reasonable doubt",
+      "The complainant's word is accepted unless disproved",
+      "Whether the facts are more likely than not to have occurred",
+      "Only facts admitted by the respondent are retained"
+     ],
+     "answer": 2,
+     "explain_fr": "« On the balance of probabilities » : le critère civil du plus probable que le contraire, et non la certitude exigée en matière pénale."
+    },
+    {
+     "q": "Why is Allegation 1 upheld?",
+     "options": [
+      "The respondent admitted the remarks",
+      "Witness accounts and the complainant's notes support each other",
+      "All five witnesses confirmed the remarks",
+      "The remarks were made in writing"
+     ],
+     "answer": 1,
+     "explain_fr": "Trois témoins sur cinq se souviennent des propos, et leurs récits sont « consistent with one another and with the notes » : c'est la concordance des éléments qui emporte la conviction."
+    },
+    {
+     "q": "Why is Allegation 3 not upheld?",
+     "options": [
+      "The complainant withdrew it",
+      "The investigator believes the complainant lied",
+      "The meeting never took place",
+      "A client email supports the respondent's explanation"
+     ],
+     "answer": 3,
+     "explain_fr": "« An email from the client corroborates his account » : faute d'élément contraire, le grief n'est pas retenu, sans que la bonne foi de la plaignante soit mise en doute."
+    },
+    {
+     "q": "What does the investigator say about the action to be taken?",
+     "options": [
+      "That decision belongs to the Company",
+      "The respondent should be dismissed",
+      "The interim measures should be lifted at once",
+      "The complainant should be moved to another team"
+     ],
+     "answer": 0,
+     "explain_fr": "« It is for the Company, and not for the investigator, to decide » : l'enquêteur établit les faits ; la décision relève de l'employeur."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-eq-1",
+   "title": "Acknowledging a harassment complaint",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Ms Leila Haddad, a project manager, has emailed you a complaint about repeated humiliating remarks from her line manager. Write the email acknowledging receipt: thank her, say the complaint is taken seriously, announce the investigation, explain confidentiality and protection against retaliation, and propose a first meeting.",
+   "brief_fr": "Mme Leila Haddad, cheffe de projet, vous a adressé par e-mail une plainte visant les remarques humiliantes répétées de son supérieur hiérarchique. Rédigez l'accusé de réception : remerciez-la, indiquez que la plainte est prise au sérieux, annoncez l'enquête, expliquez la confidentialité et la protection contre les représailles, et proposez un premier entretien.",
+   "gaps": [
+    {
+     "text": "Thank you for your email of 3 June, in which you ___ a number of concerns about the conduct of your line manager.",
+     "answer": "raise",
+     "accept": [
+      "raised",
+      "set out"
+     ],
+     "explain_fr": "'To raise a concern' est la collocation naturelle pour un signalement. On évite 'expose' ou 'signal', qui sont des calques."
+    },
+    {
+     "text": "I want to assure you that the Company takes your complaint very ___.",
+     "answer": "seriously",
+     "accept": [],
+     "explain_fr": "'To take something seriously' : adverbe, sans préposition. 'In serious' ou 'with serious' n'existent pas."
+    },
+    {
+     "text": "We have decided to open an investigation ___ the matters you describe.",
+     "answer": "into",
+     "accept": [],
+     "explain_fr": "'An investigation INTO something' : c'est la seule préposition possible. 'On' et 'about' sont des erreurs fréquentes."
+    },
+    {
+     "text": "Your complaint will be handled on a ___ basis: only those directly involved in the investigation will be informed.",
+     "answer": "need-to-know",
+     "accept": [
+      "confidential",
+      "strictly confidential"
+     ],
+     "explain_fr": "'On a need-to-know basis' = en limitant l'information aux personnes qui doivent la connaître. Plus honnête qu'une promesse de secret absolu."
+    },
+    {
+     "text": "You will not suffer any ___ for having raised these concerns in good faith.",
+     "answer": "detriment",
+     "accept": [
+      "retaliation",
+      "disadvantage"
+     ],
+     "explain_fr": "'To suffer a detriment' : formule juridique britannique pour toute mesure défavorable. 'Retaliation' est l'équivalent américain."
+    },
+    {
+     "text": "I would like to meet you to hear your ___ of events in more detail.",
+     "answer": "account",
+     "accept": [
+      "version"
+     ],
+     "explain_fr": "'Your account of events' = votre récit des faits. Terme neutre, préférable à 'story', qui peut sembler mettre la parole en doute."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Your email of 3 June\n\nDear Ms Haddad,\n\nThank you for your email of 3 June, in which you raise a number of concerns about the conduct of your line manager. I appreciate that writing it cannot have been easy.\n\nI want to assure you that the Company takes your complaint very seriously. We have decided to open an investigation into the matters you describe, which I will conduct together with a member of the works council.\n\nYour complaint will be handled on a need-to-know basis: only those directly involved in the investigation will be informed. You will not suffer any detriment for having raised these concerns in good faith.\n\nI would like to meet you to hear your account of events in more detail. Would Thursday 6 June at 2 p.m. suit you? You are welcome to be accompanied by a colleague or a staff representative.\n\nIn the meantime, please do not hesitate to call me if anything further happens or if you have any questions.\n\nKind regards,\nClaire Morel",
+   "model_us": "Subject: Your email of June 3\n\nDear Ms. Haddad,\n\nThank you for your email of June 3, in which you raise a number of concerns about your manager's conduct. I appreciate that writing it cannot have been easy.\n\nI want to assure you that the Company takes your complaint very seriously. We have decided to open an investigation into the matters you describe, which I will conduct together with a member of the works council.\n\nYour complaint will be handled on a need-to-know basis: only those directly involved in the investigation will be informed. You will not face retaliation of any kind for having raised these concerns in good faith.\n\nI would like to meet with you to hear your account of events in more detail. Would Thursday, June 6, at 2 p.m. work for you? You are welcome to bring a co-worker or an employee representative with you.\n\nIn the meantime, please don't hesitate to call me if anything further happens or if you have any questions.\n\nBest regards,\nClaire Morel",
+   "commentary": [
+    {
+     "quote": "I appreciate that writing it cannot have been easy.",
+     "note_fr": "Une phrase d'empathie, sans se prononcer sur les faits. 'I appreciate that' = je mesure que ; 'cannot have been' exprime une déduction sur le passé."
+    },
+    {
+     "quote": "the matters you describe",
+     "note_fr": "Formule neutre : on ne qualifie pas les faits de 'harassment' tant que l'enquête n'a pas conclu."
+    },
+    {
+     "quote": "on a need-to-know basis",
+     "note_fr": "On promet une diffusion limitée, jamais un secret absolu : la personne mise en cause devra connaître les faits reprochés."
+    },
+    {
+     "quote": "You will not suffer any detriment",
+     "note_fr": "Engagement de non-représailles, formulé au futur simple : c'est une garantie, pas une intention. Version américaine : 'You will not face retaliation'."
+    },
+    {
+     "quote": "Would Thursday 6 June at 2 p.m. suit you?",
+     "note_fr": "'To suit someone' = convenir à quelqu'un (UK) ; aux États-Unis, 'work for you'. Proposer un créneau précis fait avancer les choses."
+    },
+    {
+     "quote": "You are welcome to be accompanied",
+     "note_fr": "'You are welcome to' = vous pouvez, si vous le souhaitez. Plus chaleureux que 'you may'. Ne dites pas 'to be assisted'."
+    }
+   ],
+   "checklist": [
+    "Have I thanked the employee and acknowledged how difficult it was to write?",
+    "Have I avoided describing the facts as proven harassment?",
+    "Have I announced the investigation and said who will conduct it?",
+    "Have I explained confidentiality honestly, without promising secrecy?",
+    "Have I stated clearly that there will be no retaliation?",
+    "Have I proposed a specific date for the first meeting?"
+   ],
+   "phrasebank": [
+    "Thank you for your email of [date], in which you raise a number of concerns about...",
+    "I want to assure you that the Company takes your complaint very seriously.",
+    "We have decided to open an investigation into the matters you describe.",
+    "Your complaint will be handled on a need-to-know basis.",
+    "You will not suffer any detriment for having raised these concerns in good faith.",
+    "I would like to meet you to hear your account of events in more detail.",
+    "You are welcome to be accompanied by a colleague or a staff representative."
+   ]
+  },
+  {
+   "id": "wr-eq-2",
+   "title": "Inviting a witness to an investigation interview",
+   "stage": 1,
+   "kind": "formal letter",
+   "brief": "You are conducting an internal investigation. Write to Mr Daniel Reeves, a member of the team concerned, inviting him to an interview as a witness: purpose, date and place, his status (not accused of anything), confidentiality, notes of the interview and protection against retaliation.",
+   "brief_fr": "Vous menez une enquête interne. Écrivez à M. Daniel Reeves, membre de l'équipe concernée, pour le convoquer à un entretien en qualité de témoin : objet, date et lieu, son statut (rien ne lui est reproché), confidentialité, compte rendu de l'entretien et protection contre les représailles.",
+   "gaps": [
+    {
+     "text": "I am writing to invite you to ___ an interview as part of an internal investigation.",
+     "answer": "attend",
+     "accept": [],
+     "explain_fr": "'To attend an interview' = se présenter à un entretien, sans préposition. Faux ami : 'to assist' signifie aider."
+    },
+    {
+     "text": "I should make it clear that no allegation has been made ___ you.",
+     "answer": "against",
+     "accept": [],
+     "explain_fr": "'An allegation AGAINST someone'. La précision rassure le témoin sur son statut."
+    },
+    {
+     "text": "You are being interviewed solely as a ___, because you may have relevant information.",
+     "answer": "witness",
+     "accept": [],
+     "explain_fr": "'Witness' = témoin. 'Solely' (uniquement) est plus soutenu que 'only' et convient à une lettre."
+    },
+    {
+     "text": "The interview will ___ place on Tuesday 11 June at 10 a.m. in meeting room 2.",
+     "answer": "take",
+     "accept": [],
+     "explain_fr": "'To take place' = avoir lieu. On ne dit pas 'to have place' ni 'to take part' (participer)."
+    },
+    {
+     "text": "You will be given the opportunity to read the notes of the interview and to ___ any inaccuracies.",
+     "answer": "correct",
+     "accept": [
+      "point out",
+      "amend"
+     ],
+     "explain_fr": "Le témoin relit et corrige le compte rendu : garantie d'exactitude. 'Inaccuracies' = inexactitudes."
+    },
+    {
+     "text": "I must ask you to ___ the existence and content of this investigation strictly confidential.",
+     "answer": "keep",
+     "accept": [
+      "treat as"
+     ],
+     "explain_fr": "'To keep something confidential' : verbe + complément + adjectif. 'I must ask you to' est une consigne ferme mais polie."
+    }
+   ],
+   "outline": [],
+   "model": "5 June 2024\n\nPrivate and confidential\n\nDear Mr Reeves,\n\nInternal investigation - invitation to interview\n\nI am writing to invite you to attend an interview as part of an internal investigation which the Company has asked me to conduct into concerns raised by a member of your team.\n\nI should make it clear that no allegation has been made against you. You are being interviewed solely as a witness, because you may have relevant information.\n\nThe interview will take place on Tuesday 11 June at 10 a.m. in meeting room 2 and should last about forty-five minutes. Your manager has been informed that you will be away from your desk, but not of the reason.\n\nI will take notes during our conversation. You will be given the opportunity to read the notes of the interview and to correct any inaccuracies before signing them.\n\nI must ask you to keep the existence and content of this investigation strictly confidential, including from your colleagues. In return, I can assure you that no one may be penalised in any way for taking part in an investigation in good faith.\n\nIf the proposed time is inconvenient, please let me know by Friday.\n\nYours sincerely,\nClaire Morel\nInvestigator",
+   "model_us": "June 5, 2024\n\nPersonal and Confidential\n\nDear Mr. Reeves:\n\nRe: Workplace investigation - request for interview\n\nI am writing to ask you to attend an interview as part of a workplace investigation that the Company has asked me to conduct into concerns raised by a member of your team.\n\nI want to make clear that no allegation has been made against you. You are being interviewed solely as a witness, because you may have relevant information.\n\nThe interview will take place on Tuesday, June 11, at 10 a.m. in meeting room 2 and should last about forty-five minutes. Your manager has been told that you will be away from your desk, but not why.\n\nI will take notes during our conversation. You will have the opportunity to review the notes of the interview and to correct any inaccuracies before signing them.\n\nI must ask you to keep the existence and content of this investigation strictly confidential, including from your co-workers. In return, I can assure you that no one may be retaliated against in any way for taking part in an investigation in good faith.\n\nIf the proposed time does not work for you, please let me know by Friday.\n\nSincerely,\nClaire Morel\nInvestigator",
+   "commentary": [
+    {
+     "quote": "Private and confidential",
+     "note_fr": "Mention d'usage en tête de lettre au Royaume-Uni ; aux États-Unis, 'Personal and Confidential'."
+    },
+    {
+     "quote": "I should make it clear that no allegation has been made against you.",
+     "note_fr": "Le passif évite de nommer quiconque. 'I should make it clear' est une façon courtoise d'insister."
+    },
+    {
+     "quote": "but not of the reason",
+     "note_fr": "Détail qui montre que la confidentialité est organisée concrètement, et non simplement proclamée."
+    },
+    {
+     "quote": "before signing them",
+     "note_fr": "Le témoin relit, corrige puis signe : le compte rendu aura ainsi davantage de poids s'il est produit en justice."
+    },
+    {
+     "quote": "In return, I can assure you that",
+     "note_fr": "L'obligation de discrétion est équilibrée par une garantie : structure donnant-donnant qui favorise la coopération."
+    },
+    {
+     "quote": "Yours sincerely,",
+     "note_fr": "Avec 'Dear Mr Reeves' (nom connu), on termine par 'Yours sincerely' au Royaume-Uni ; 'Sincerely' aux États-Unis. 'Yours faithfully' suit 'Dear Sir or Madam'."
+    }
+   ],
+   "checklist": [
+    "Is the purpose of the letter stated in the first sentence?",
+    "Have I made the witness's status clear and reassuring?",
+    "Have I given the date, time, place and likely length of the interview?",
+    "Have I explained how the notes will be checked?",
+    "Have I asked for confidentiality and mentioned protection against retaliation?",
+    "Is the tone formal without being intimidating?"
+   ],
+   "phrasebank": [
+    "I am writing to invite you to attend an interview as part of an internal investigation.",
+    "I should make it clear that no allegation has been made against you.",
+    "You are being interviewed solely as a witness.",
+    "The interview will take place on [date] at [time] in [place].",
+    "You will be given the opportunity to read the notes and to correct any inaccuracies.",
+    "I must ask you to keep the existence and content of this investigation strictly confidential.",
+    "If the proposed time is inconvenient, please let me know by [date]."
+   ]
+  },
+  {
+   "id": "wr-eq-3",
+   "title": "Explaining moral harassment to a British client",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "Your client, the UK-based HR Director of a group with a French subsidiary, asks why a complaint about a 'tough manager' in Lyon is being treated as a legal matter. Write one substantial paragraph, from the outline, explaining the French notion of moral harassment and what the employer must do.",
+   "brief_fr": "Votre cliente, DRH basée au Royaume-Uni d'un groupe doté d'une filiale française, demande pourquoi une plainte visant un « manager exigeant » à Lyon est traitée comme une question juridique. Rédigez, à partir du plan, un paragraphe développé expliquant la notion française de harcèlement moral et les obligations de l'employeur.",
+   "gaps": [],
+   "outline": [
+    "The British reflex: bullying is a management issue unless it is linked to a protected characteristic",
+    "The French definition: repeated acts, purpose or effect, working conditions, dignity / health / career",
+    "No intention required; firm management is not harassment",
+    "What the employer must do once it knows: prevent, act promptly, investigate",
+    "Practical consequence for this case"
+   ],
+   "model": "In the UK, bullying by a demanding manager is usually treated as a management issue unless it is linked to a protected characteristic, so I quite understand why this complaint may look like an overreaction. French law takes a different view. It recognises a specific wrong, known as moral harassment, which consists of repeated acts that have the purpose or effect of degrading an employee's working conditions in a way likely to infringe her rights and dignity, damage her health or jeopardise her career. Two points are worth stressing. First, no intention to harm is required: what matters is the effect of the conduct, not what the manager meant by it. Secondly, the notion does not prevent managers from managing; setting targets, giving critical feedback or refusing a request is not harassment, provided it is done in a way that respects the person. Where the line is crossed, however, the employer is expected to act: it has a duty to prevent harassment, and once it becomes aware of a possible case it must respond promptly, which in practice means carrying out a fair and impartial investigation. In the present case, the complaint describes weekly public criticism over eight months, which is precisely the kind of pattern the law has in mind. That is why I would recommend opening an investigation now rather than waiting to see whether matters settle down.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "so I quite understand why this complaint may look like an overreaction",
+     "note_fr": "On commence par le point de vue du lecteur avant de le corriger. 'I quite understand' : 'quite' signifie ici 'tout à fait' (UK)."
+    },
+    {
+     "quote": "French law takes a different view.",
+     "note_fr": "Phrase courte, placée après une phrase longue : elle marque le tournant du paragraphe. Variez ainsi le rythme."
+    },
+    {
+     "quote": "Two points are worth stressing.",
+     "note_fr": "Annonce de plan en une ligne, plus légère que 'It is important to underline that'."
+    },
+    {
+     "quote": "what matters is the effect of the conduct, not what the manager meant by it",
+     "note_fr": "Structure 'what matters is X, not Y' : opposition nette et idiomatique. 'To mean something by it' = avoir telle intention."
+    },
+    {
+     "quote": "Where the line is crossed, however,",
+     "note_fr": "'To cross the line' = franchir la limite. 'However' placé après le premier groupe de mots, entre virgules, est plus élégant qu'en tête de phrase."
+    },
+    {
+     "quote": "rather than waiting to see whether matters settle down",
+     "note_fr": "'Rather than' + -ing. 'To settle down' = se calmer : la recommandation se termine sur le risque de l'inaction, sans dramatiser."
+    }
+   ],
+   "checklist": [
+    "Did I start from the reader's own legal frame of reference?",
+    "Is the French definition accurate and free of article numbers I cannot verify?",
+    "Did I distinguish harassment from legitimate management?",
+    "Did I say clearly what the employer has to do?",
+    "Does the paragraph end with a practical recommendation?",
+    "Have I varied sentence length and avoided 'moreover' and 'indeed'?"
+   ],
+   "phrasebank": [
+    "I quite understand why this may look like an overreaction.",
+    "French law takes a different view.",
+    "It consists of repeated acts that have the purpose or effect of...",
+    "Two points are worth stressing.",
+    "What matters is the effect of the conduct, not the intention behind it.",
+    "Once the employer becomes aware of a possible case, it must respond promptly.",
+    "That is why I would recommend opening an investigation now."
+   ]
+  },
+  {
+   "id": "wr-eq-4",
+   "title": "Recording a finding in an investigation report",
+   "stage": 2,
+   "kind": "report",
+   "brief": "You are drafting the findings section of an investigation report. Write the paragraph dealing with one allegation: that Mr B. (the respondent) repeatedly made remarks about the accent and origin of Ms K. (the complainant) in team meetings. Follow the outline and reach a conclusion.",
+   "brief_fr": "Vous rédigez la partie « constatations » d'un rapport d'enquête. Écrivez le paragraphe consacré à un grief : M. B. (mis en cause) aurait fait à plusieurs reprises, en réunion d'équipe, des remarques sur l'accent et l'origine de Mme K. (plaignante). Suivez le plan et concluez.",
+   "gaps": [],
+   "outline": [
+    "State the allegation precisely",
+    "The complainant's account",
+    "The respondent's account",
+    "What the witnesses and documents show",
+    "Assessment of the evidence",
+    "Finding"
+   ],
+   "model": "Allegation 2: remarks about the complainant's accent and origin. It is alleged that, between October and February, Mr B. repeatedly mocked Ms K.'s accent and referred to her origin during the weekly team meetings. Ms K. states that this happened 'at almost every meeting' and gave three dated examples, including an occasion on which Mr B. asked whether 'anyone could translate'. Mr B. accepts that he made that remark once, but describes it as a light-hearted joke and denies that there was any pattern. Four members of the team were interviewed on this point. Three of them recall similar remarks on several occasions, and two independently mentioned the word 'translate'; the fourth has no recollection either way. In addition, a message sent by Ms K. to a colleague on the evening of 12 December refers to 'another accent joke'. I attach particular weight to that message, since it was written at the time and long before any complaint was contemplated. Taken together, the evidence supports Ms K.'s account that the remarks were frequent rather than isolated. I therefore find, on the balance of probabilities, that Mr B. made repeated remarks about Ms K.'s accent and origin in the presence of the team. This allegation is upheld.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "It is alleged that",
+     "note_fr": "Tournure impersonnelle indispensable : on rapporte un grief sans le reprendre à son compte."
+    },
+    {
+     "quote": "Mr B. accepts that he made that remark once, but describes it as a light-hearted joke and denies that there was any pattern.",
+     "note_fr": "Trois verbes de parole précis : 'accepts', 'describes', 'denies'. Évitez de répéter 'says'. 'Pattern' rend l'idée de caractère répété."
+    },
+    {
+     "quote": "the fourth has no recollection either way",
+     "note_fr": "On mentionne aussi ce qui ne confirme rien : c'est la marque d'un rapport impartial. 'Either way' = ni dans un sens ni dans l'autre."
+    },
+    {
+     "quote": "I attach particular weight to that message, since it was written at the time",
+     "note_fr": "L'enquêteur explique pourquoi une preuve compte davantage. 'To attach weight to' = accorder du poids à ; 'at the time' = sur le moment."
+    },
+    {
+     "quote": "frequent rather than isolated",
+     "note_fr": "Opposition concise avec 'rather than', qui répond directement à la défense du fait isolé."
+    },
+    {
+     "quote": "This allegation is upheld.",
+     "note_fr": "Conclusion en une phrase courte, au présent. Aux États-Unis : 'This allegation is substantiated.'"
+    }
+   ],
+   "checklist": [
+    "Is the allegation stated precisely, with dates?",
+    "Have I reported both accounts in neutral language?",
+    "Have I used varied reporting verbs (states, accepts, denies, recalls)?",
+    "Have I explained why I prefer one piece of evidence to another?",
+    "Is the standard of proof mentioned?",
+    "Is the finding stated in one clear sentence?"
+   ],
+   "phrasebank": [
+    "It is alleged that...",
+    "The complainant states that... and gave three dated examples.",
+    "The respondent accepts that... but denies that...",
+    "Three of the witnesses recall...; the fourth has no recollection either way.",
+    "I attach particular weight to..., since...",
+    "Taken together, the evidence supports...",
+    "I therefore find, on the balance of probabilities, that...",
+    "This allegation is upheld / is not upheld."
+   ]
+  },
+  {
+   "id": "wr-eq-5",
+   "title": "Outcome letter to the complainant",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "The investigation into Ms Leila Haddad's complaint is complete. Two of her three allegations have been upheld; the third (that she was denied training in retaliation) was not, for lack of evidence. Write the outcome letter: thank her, summarise the process, give the findings, explain what you can and cannot say about the action taken, and set out the support and protection available.",
+   "brief_fr": "L'enquête consécutive à la plainte de Mme Leila Haddad est terminée. Deux de ses trois griefs sont retenus ; le troisième (refus de formation à titre de représailles) ne l'est pas, faute de preuves. Rédigez la lettre de restitution : remerciez-la, résumez la démarche, exposez les conclusions, expliquez ce que vous pouvez dire ou non des suites données, et précisez l'accompagnement et la protection dont elle bénéficie.",
+   "gaps": [],
+   "outline": [
+    "Reference to the complaint and thanks",
+    "How the investigation was conducted",
+    "Findings, allegation by allegation",
+    "Action taken: what can and cannot be shared",
+    "Protection against retaliation, support, point of contact",
+    "Closing"
+   ],
+   "model": "Private and confidential\n\n4 July 2024\n\nDear Ms Haddad,\n\nOutcome of the investigation into your complaint of 3 June\n\nI am writing to let you know the outcome of the investigation into the concerns you raised on 3 June. I should like to begin by thanking you for your cooperation and your patience over the past few weeks.\n\nThe investigation was conducted by Mr Julien Roche, a member of the works council, and me. We interviewed you on two occasions, heard your line manager and six other members of the department, and reviewed the emails and messages you provided.\n\nHaving considered all the evidence, we reached the following conclusions. Your first allegation, concerning repeated humiliating remarks made in team meetings, is upheld. Your second allegation, concerning the tone and frequency of the emails sent to you outside working hours, is also upheld. Your third allegation, that your training request was refused because you had complained, is not upheld: the evidence shows that the budget decision was taken before your manager was aware of your complaint. I would stress that this in no way calls your good faith into question.\n\nThe Company regards the conduct established by the investigation as unacceptable and has taken appropriate action. For reasons of confidentiality, I am not able to give you details of the measures concerning another employee, but I can confirm that you will no longer report to your former line manager.\n\nYou remain fully protected against any form of retaliation. Should you experience any difficulty, however minor it may seem, please contact me directly. I would also remind you that the occupational health service is available to you in complete confidence.\n\nI would be glad to meet you to go through this letter if you would find that helpful.\n\nYours sincerely,\nClaire Morel",
+   "model_us": "Personal and Confidential\n\nJuly 4, 2024\n\nDear Ms. Haddad:\n\nRe: Outcome of the investigation into your complaint of June 3\n\nI am writing to let you know the outcome of the investigation into the concerns you raised on June 3. I would like to begin by thanking you for your cooperation and your patience over the past few weeks.\n\nThe investigation was conducted by Mr. Julien Roche, a member of the works council, and me. We interviewed you on two occasions, spoke with your manager and six other members of the department, and reviewed the emails and messages you provided.\n\nHaving considered all the evidence, we reached the following conclusions. Your first allegation, concerning repeated humiliating remarks made in team meetings, is substantiated. Your second allegation, concerning the tone and frequency of the emails sent to you outside working hours, is also substantiated. Your third allegation, that your training request was denied because you had complained, is not substantiated: the evidence shows that the budget decision was made before your manager was aware of your complaint. I want to emphasize that this in no way calls your good faith into question.\n\nThe Company regards the conduct established by the investigation as unacceptable and has taken appropriate action. For confidentiality reasons, I am not able to give you details of the measures concerning another employee, but I can confirm that you will no longer report to your former manager.\n\nYou remain fully protected against any form of retaliation. If you experience any difficulty, however minor it may seem, please contact me directly. I would also remind you that the occupational health service is available to you in complete confidence.\n\nI would be glad to meet with you to go through this letter if you would find that helpful.\n\nSincerely,\nClaire Morel",
+   "commentary": [
+    {
+     "quote": "I am writing to let you know the outcome of the investigation",
+     "note_fr": "L'objet de la lettre est donné dès la première phrase. 'Outcome' = issue d'une procédure ; 'result' serait moins juste."
+    },
+    {
+     "quote": "Having considered all the evidence, we reached the following conclusions.",
+     "note_fr": "Participe passé composé en tête de phrase : tournure classique des décisions écrites, qui montre que la conclusion découle de l'examen."
+    },
+    {
+     "quote": "is not upheld: the evidence shows that the budget decision was taken before your manager was aware of your complaint",
+     "note_fr": "Le grief écarté est motivé en une phrase factuelle. Les deux-points introduisent l'explication sans alourdir."
+    },
+    {
+     "quote": "I would stress that this in no way calls your good faith into question.",
+     "note_fr": "Phrase essentielle : 'non établi' ne signifie pas 'mensonger'. 'In no way' se place avant le verbe."
+    },
+    {
+     "quote": "has taken appropriate action",
+     "note_fr": "Formule consacrée : on confirme qu'il y a eu des suites sans divulguer la sanction, qui relève de la vie professionnelle d'un autre salarié."
+    },
+    {
+     "quote": "however minor it may seem",
+     "note_fr": "'However' + adjectif + sujet + 'may' : concession élégante, qui encourage à signaler le moindre incident."
+    }
+   ],
+   "checklist": [
+    "Does the first sentence state the purpose of the letter?",
+    "Have I summarised how the investigation was conducted?",
+    "Is there a clear finding for each allegation, with a reason for the one not upheld?",
+    "Have I avoided disclosing the sanction imposed on the other employee?",
+    "Have I restated the protection against retaliation and named a point of contact?",
+    "Is the tone respectful and free of jargon?"
+   ],
+   "phrasebank": [
+    "I am writing to let you know the outcome of the investigation into the concerns you raised on [date].",
+    "The investigation was conducted by... We interviewed... and reviewed...",
+    "Having considered all the evidence, we reached the following conclusions.",
+    "Your first allegation, concerning..., is upheld.",
+    "I would stress that this in no way calls your good faith into question.",
+    "For reasons of confidentiality, I am not able to give you details of...",
+    "You remain fully protected against any form of retaliation.",
+    "Should you experience any difficulty, please contact me directly."
+   ]
+  },
+  {
+   "id": "wr-eq-6",
+   "title": "Client note on the gender equality index",
+   "stage": 3,
+   "kind": "client note",
+   "brief": "The French subsidiary of a British group scored 72 out of 100 on this year's gender equality index. Write a note to the group HR Director, Ms Harriet Collins, explaining what the index is, where points were lost (no pay rise for two employees returning from maternity leave; only two women among the ten highest earners), what the law requires and what you recommend.",
+   "brief_fr": "La filiale française d'un groupe britannique a obtenu 72 sur 100 à l'index de l'égalité professionnelle de cette année. Rédigez une note à la DRH groupe, Mme Harriet Collins : présentez l'index, indiquez où les points ont été perdus (pas d'augmentation pour deux salariées de retour de congé maternité ; deux femmes seulement parmi les dix plus hautes rémunérations), rappelez les exigences légales et formulez vos recommandations.",
+   "gaps": [],
+   "outline": [
+    "Headline: the score and why it matters",
+    "What the index is, compared with UK gender pay gap reporting",
+    "Where the points were lost",
+    "What the law requires below 75",
+    "Recommendations and timetable",
+    "A word on forthcoming changes"
+   ],
+   "model": "To: Harriet Collins, Group HR Director\nFrom: Claire Morel\nDate: 10 February 2025\nSubject: Gender equality index - French subsidiary\n\n1. Summary\nThe French subsidiary scored 72 out of 100 on this year's gender equality index. As this is below the statutory threshold of 75, the company must adopt corrective measures. The good news is that most of the shortfall can be put right quickly.\n\n2. What the index is\nEvery company in France with fifty or more employees must calculate and publish each year a score measuring equality between women and men. You will be familiar with gender pay gap reporting in the UK; the French index goes further, in that it produces a single score and attaches legal consequences to a poor result. It is based on several indicators, including the pay gap, the distribution of pay rises and promotions, pay rises on return from maternity leave and the number of women among the ten highest earners.\n\n3. Where the points were lost\nTwo indicators account for almost all of the shortfall. First, two employees who returned from maternity leave last year did not receive the general pay rise awarded in their absence. This indicator is all or nothing, so a single omission costs every point. Secondly, only two of the ten highest earners are women.\n\n4. What the law requires\nThe score must be published on the company's website by 1 March and shared with the works council. Because it is below 75, corrective measures must be adopted, and the company is expected to bring the score back above the threshold within three years, failing which it may face a financial penalty.\n\n5. Recommendations\nI would suggest that we award the two missing pay rises without delay, backdated to the date of the general increase; that payroll introduce an automatic check whenever an employee returns from maternity leave; and that we review the succession plan for senior roles, which is the only lasting answer to the second indicator. I can prepare a draft action plan for the works council by the end of the month.\n\n6. Looking ahead\nThe index is expected to change as France implements the European directive on pay transparency. I will keep you informed as the new rules are confirmed.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "The good news is that most of the shortfall can be put right quickly.",
+     "note_fr": "Le résumé se termine sur une note constructive. 'Shortfall' = écart par rapport à l'objectif ; 'to put right' = corriger."
+    },
+    {
+     "quote": "You will be familiar with gender pay gap reporting in the UK; the French index goes further, in that it produces a single score",
+     "note_fr": "On part de ce que la lectrice connaît. 'In that' = en ce sens que. Le point-virgule relie deux idées étroitement liées."
+    },
+    {
+     "quote": "This indicator is all or nothing, so a single omission costs every point.",
+     "note_fr": "Phrase simple et concrète pour un mécanisme technique. 'All or nothing' évite une longue explication."
+    },
+    {
+     "quote": "failing which it may face a financial penalty",
+     "note_fr": "'Failing which' = à défaut de quoi : tournure juridique compacte. 'May' reste prudent sur le risque."
+    },
+    {
+     "quote": "I would suggest that we award the two missing pay rises without delay",
+     "note_fr": "Après 'suggest that', le verbe est à la base verbale ('we award', 'payroll introduce') : subjonctif anglais, courant à l'écrit soutenu."
+    },
+    {
+     "quote": "I will keep you informed as the new rules are confirmed.",
+     "note_fr": "On signale une évolution attendue du droit sans avancer de date ni de détail incertain."
+    }
+   ],
+   "checklist": [
+    "Does the summary give the score and its consequence in two or three sentences?",
+    "Have I linked the French index to something the reader already knows?",
+    "Are the two weak indicators explained simply?",
+    "Have I stated the legal consequences without overstating the risk?",
+    "Are my recommendations concrete, with an owner or a deadline?",
+    "Have I flagged that the rules are due to change?"
+   ],
+   "phrasebank": [
+    "The subsidiary scored 72 out of 100 on this year's gender equality index.",
+    "As this is below the statutory threshold, the company must adopt corrective measures.",
+    "You will be familiar with...; the French index goes further, in that...",
+    "Two indicators account for almost all of the shortfall.",
+    "..., failing which it may face a financial penalty.",
+    "I would suggest that we... without delay.",
+    "I can prepare a draft action plan by the end of the month.",
+    "I will keep you informed as the new rules are confirmed."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-eq-1",
+   "title": "'It was only banter'",
+   "variety": "uk",
+   "context": "Claire, a French HR consultant, is on a call with Graham, the British managing director of a subsidiary near Lille. A sales assistant has told HR about repeated comments from the sales manager.",
+   "context_fr": "Claire, consultante RH française, s'entretient par téléphone avec Graham, directeur général britannique d'une filiale près de Lille. Une assistante commerciale a signalé aux RH des remarques répétées du directeur commercial.",
+   "lines": [
+    {
+     "speaker": "Graham",
+     "text": "Claire, thanks for making time. I gather one of the sales assistants has had a bit of a grumble about Philippe.",
+     "note_fr": "'I gather' = je crois comprendre que. 'A bit of a grumble' minimise : litote britannique typique, à repérer car elle révèle l'état d'esprit de Graham."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It's rather more than a grumble, I'm afraid. She says he's been commenting on her appearance for months, and that it's got worse since she asked him to stop.",
+     "note_fr": "'Rather more than' corrige sans brusquer. 'I'm afraid' adoucit une mauvaise nouvelle, il n'exprime pas la peur."
+    },
+    {
+     "speaker": "Graham",
+     "text": "Philippe? He's a bit old school, I'll give you that, but I'm sure it's only banter. He's like that with everyone.",
+     "note_fr": "'Old school' = vieille école. 'I'll give you that' = je vous l'accorde. 'Banter' : plaisanteries, la défense classique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That may well be how he sees it. The difficulty is that the law looks at the effect on her, not at what he meant.",
+     "note_fr": "'That may well be' concède avant d'objecter. 'The difficulty is that' est plus diplomate que 'the problem is'."
+    },
+    {
+     "speaker": "Graham",
+     "text": "Right. Couldn't I just have a quiet word with him and leave it at that?",
+     "note_fr": "'To have a quiet word with someone' = prendre quelqu'un à part pour le recadrer. 'To leave it at that' = en rester là."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'd advise against it. Now that the company knows, it has to look into this properly. If you tip him off before anyone has been interviewed, it could undermine the whole investigation.",
+     "note_fr": "'I'd advise against it' : refus poli mais net. 'To tip someone off' = prévenir, mettre au parfum."
+    },
+    {
+     "speaker": "Graham",
+     "text": "An investigation. That sounds heavy-handed for a few remarks.",
+     "note_fr": "'Heavy-handed' = disproportionné, qui manque de doigté."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I do see why it feels that way. But it needn't be dramatic: two people, a handful of interviews, and a short report within three weeks or so.",
+     "note_fr": "'I do see' : le 'do' d'insistance montre qu'on a entendu l'objection. 'It needn't be' = cela n'a pas à être."
+    },
+    {
+     "speaker": "Graham",
+     "text": "And in the meantime? They sit ten feet apart.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "We'll need to keep them apart, and it shouldn't be her who pays the price. Could Philippe work from the Lyon office for a few weeks?",
+     "note_fr": "'To pay the price' : la mesure provisoire ne doit pas pénaliser la plaignante. Question ouverte avec 'Could' plutôt qu'un impératif."
+    },
+    {
+     "speaker": "Graham",
+     "text": "He won't like it, but yes, that could be arranged. What do I tell him?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "That a concern has been raised, that nothing has been decided, and that he'll have every chance to give his side. I can draft something for you this afternoon.",
+     "note_fr": "Triple structure rassurante. 'To give one's side (of the story)' = donner sa version. Le passif 'a concern has been raised' évite de désigner la plaignante."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How does Graham first describe the complaint?",
+     "options": [
+      "As a serious allegation",
+      "As a minor grumble",
+      "As a misunderstanding between two women",
+      "As a matter for the police"
+     ],
+     "answer": 1,
+     "explain_fr": "« A bit of a grumble » : Graham minimise d'emblée, ce que Claire corrige par « rather more than a grumble »."
+    },
+    {
+     "q": "Why does Claire advise against 'a quiet word' with Philippe?",
+     "options": [
+      "It could undermine the investigation",
+      "Philippe would resign",
+      "Only the works council may speak to him",
+      "The assistant has asked for anonymity"
+     ],
+     "answer": 0,
+     "explain_fr": "« If you tip him off before anyone has been interviewed, it could undermine the whole investigation » : prévenir le mis en cause fragiliserait l'enquête."
+    },
+    {
+     "q": "What interim measure does Claire suggest?",
+     "options": [
+      "Suspending Philippe without pay",
+      "Moving the assistant to another team",
+      "Sending both of them home",
+      "Having Philippe work from another office for a few weeks"
+     ],
+     "answer": 3,
+     "explain_fr": "« It shouldn't be her who pays the price » : c'est le mis en cause, et non la plaignante, que l'on éloigne provisoirement."
+    }
+   ]
+  },
+  {
+   "id": "dl-eq-2",
+   "title": "Why you can't just transfer her",
+   "variety": "us",
+   "context": "Claire is on a video call with Brandon, a US regional director. An employee in the Paris office has complained that her manager bullies her, and Brandon wants a quick fix.",
+   "context_fr": "Claire est en visioconférence avec Brandon, directeur régional américain. Une salariée du bureau de Paris s'est plainte du harcèlement moral de son manager, et Brandon veut une solution rapide.",
+   "lines": [
+    {
+     "speaker": "Brandon",
+     "text": "Okay, so here's my thinking. Sophie and Marc clearly can't work together, so let's move Sophie over to the logistics team. Problem solved.",
+     "note_fr": "'Here's my thinking' annonce une proposition. 'Problem solved' : style direct américain, sans précaution oratoire."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I get the logic, but I'd be careful with that. Sophie is the one who complained. If she's the one who gets moved, it's going to look like retaliation.",
+     "note_fr": "'I get the logic, but' : on reconnaît le raisonnement avant de le contester. 'Retaliation' = représailles, terme clé aux États-Unis."
+    },
+    {
+     "speaker": "Brandon",
+     "text": "It's not a demotion. Same pay, same title.",
+     "note_fr": "'Demotion' = rétrogradation."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure, but she'd lose her clients and her team, and everyone would know why. In France, an employee can't be penalized in any way for reporting harassment in good faith.",
+     "note_fr": "'Penalized' : orthographe américaine. 'In any way' insiste sur la portée générale de l'interdiction."
+    },
+    {
+     "speaker": "Brandon",
+     "text": "We have the same rule back home, to be fair. So what do you suggest? I can't leave things the way they are.",
+     "note_fr": "'To be fair' = il faut le reconnaître. 'Back home' = chez nous (aux États-Unis)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "No, you can't. I'd change the reporting line instead: have Sophie report to Julie for now, and keep Marc out of her reviews until we know what happened.",
+     "note_fr": "'Reporting line' = rattachement hiérarchique. 'For now' souligne le caractère provisoire."
+    },
+    {
+     "speaker": "Brandon",
+     "text": "Marc's going to say we've already decided he's guilty.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's why the wording matters. We tell him it's a temporary, precautionary step, that it isn't a sanction, and that he'll be heard as part of the investigation.",
+     "note_fr": "'Precautionary step' = mesure conservatoire. Ne dites pas 'conservatory measure'."
+    },
+    {
+     "speaker": "Brandon",
+     "text": "Got it. And who runs the investigation? Our HR manager over there hired Marc.",
+     "note_fr": "'Got it' = compris, très courant à l'oral américain."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then she's too close to it. I'd bring in someone from outside, or pair an HR person from another site with a member of the works council.",
+     "note_fr": "'Too close to it' = trop impliquée pour être impartiale. 'To bring in' = faire appel à."
+    },
+    {
+     "speaker": "Brandon",
+     "text": "Fine. Send me a one-pager with the plan and a timeline, and I'll sign off today.",
+     "note_fr": "'A one-pager' = une note d'une page. 'To sign off' = valider."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Will do. You'll have it within the hour.",
+     "note_fr": "'Will do' = entendu, je m'en occupe (sujet sous-entendu)."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does Claire object to moving Sophie to logistics?",
+     "options": [
+      "Sophie's contract contains no mobility clause",
+      "The logistics team is fully staffed",
+      "It would look like retaliation against the person who complained",
+      "Sophie would have to take a pay cut"
+     ],
+     "answer": 2,
+     "explain_fr": "« If she's the one who gets moved, it's going to look like retaliation » : la mesure pénaliserait l'auteure du signalement."
+    },
+    {
+     "q": "What does Claire propose instead?",
+     "options": [
+      "A temporary change of reporting line",
+      "Suspending Marc immediately",
+      "Mediation between Sophie and Marc",
+      "Waiting for the findings before doing anything"
+     ],
+     "answer": 0,
+     "explain_fr": "« I'd change the reporting line instead: have Sophie report to Julie for now » : une mesure provisoire qui sépare sans sanctionner."
+    },
+    {
+     "q": "Why should the local HR manager not run the investigation?",
+     "options": [
+      "She has no training in investigations",
+      "She hired Marc, so she is not impartial",
+      "She is a member of the works council",
+      "She is on leave"
+     ],
+     "answer": 1,
+     "explain_fr": "« She's too close to it » : ayant recruté Marc, elle se trouve en situation de conflit d'intérêts."
+    }
+   ]
+  },
+  {
+   "id": "dl-eq-3",
+   "title": "Interviewing a reluctant witness",
+   "variety": "uk",
+   "context": "Claire is conducting an investigation interview with Daniel, a British engineer in the team concerned. He saw some of the incidents but is uneasy about getting involved.",
+   "context_fr": "Claire mène un entretien d'enquête avec Daniel, ingénieur britannique de l'équipe concernée. Il a assisté à certains faits mais hésite à s'impliquer.",
+   "lines": [
+    {
+     "speaker": "Claire",
+     "text": "Thanks for coming, Daniel. Before we start, I should explain that I'm here to establish the facts, nothing more. I'll take notes, and you'll be able to read them and correct anything I've got wrong.",
+     "note_fr": "Ouverture type d'un entretien d'enquête : rôle, prise de notes, relecture. 'To get something wrong' = se tromper sur quelque chose."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Fine. To be honest, I'd rather not be dragged into this. I have to work with both of them.",
+     "note_fr": "'To be dragged into' = être entraîné malgré soi dans. 'I'd rather not' + base verbale."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I understand, and you're not being asked to take sides. Could you tell me, in your own words, what happened at the team meeting on the fourth?",
+     "note_fr": "'To take sides' = prendre parti. 'In your own words' : question ouverte, qui ne suggère aucune réponse."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Well, Nadia was presenting her figures and Olivier cut her off. He said something like, 'Let's have someone explain it who actually understands it.'",
+     "note_fr": "'To cut someone off' = couper la parole. 'Something like' signale une citation approximative, à noter comme telle."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Were those his exact words, as far as you can remember?",
+     "note_fr": "'As far as you can remember' laisse au témoin la possibilité de nuancer."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "More or less. I remember 'who actually understands it' because a couple of people winced.",
+     "note_fr": "'To wince' = grimacer, tiquer."
+    },
+    {
+     "speaker": "Claire",
+     "text": "And how did Nadia react?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Daniel",
+     "text": "She went quiet and sat down. She didn't say another word for the rest of the meeting.",
+     "note_fr": "'To go quiet' = se taire soudain. 'Go' + adjectif pour un changement d'état."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Was that a one-off, or have you seen that sort of thing before?",
+     "note_fr": "'A one-off' = un fait isolé (UK). La question cherche à établir le caractère répété, sans l'induire."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "It's not a one-off. He does it to her most weeks. He doesn't speak to the rest of us like that.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's helpful, thank you. Is there anything else you think I ought to know?",
+     "note_fr": "'Ought to' = devrais. Question balai indispensable en fin d'entretien."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Only that I don't want this coming back on me. Will he see what I've said?",
+     "note_fr": "'To come back on someone' = se retourner contre quelqu'un."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I can't promise he won't. He's entitled to know what's being said about him, so he may see your statement or a summary of it. What I can tell you is that any retaliation against a witness would be treated very seriously indeed.",
+     "note_fr": "Réponse honnête : pas de promesse de confidentialité absolue. 'What I can tell you is' recentre sur ce qui peut être garanti."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How does Claire describe her role at the start?",
+     "options": [
+      "To decide on a sanction",
+      "To defend Nadia",
+      "To mediate between the two colleagues",
+      "To establish the facts"
+     ],
+     "answer": 3,
+     "explain_fr": "« I'm here to establish the facts, nothing more » : l'enquêtrice ne juge ni ne sanctionne."
+    },
+    {
+     "q": "What does Daniel say about Olivier's behaviour towards Nadia?",
+     "options": [
+      "It happened only once",
+      "It happens most weeks and is aimed at her in particular",
+      "He treats the whole team that way",
+      "He did not notice anything unusual"
+     ],
+     "answer": 1,
+     "explain_fr": "« He does it to her most weeks. He doesn't speak to the rest of us like that » : des faits répétés, visant une seule personne."
+    },
+    {
+     "q": "What does Claire tell Daniel about confidentiality?",
+     "options": [
+      "Olivier may see his statement or a summary of it",
+      "His statement will remain anonymous",
+      "Nobody but Claire will ever read it",
+      "He can withdraw it at any time"
+     ],
+     "answer": 0,
+     "explain_fr": "« I can't promise he won't » : la personne mise en cause a le droit de connaître ce qui est dit contre elle ; Claire ne promet que la protection contre les représailles."
+    }
+   ]
+  },
+  {
+   "id": "dl-eq-4",
+   "title": "The French equality index and the US mindset",
+   "variety": "us",
+   "context": "Claire is briefing Alicia, the US-based head of diversity for an American group, on what its French subsidiary must publish and do on gender equality and disability.",
+   "context_fr": "Claire présente à Alicia, responsable diversité d'un groupe américain basée aux États-Unis, ce que la filiale française doit publier et mettre en œuvre en matière d'égalité femmes-hommes et de handicap.",
+   "lines": [
+    {
+     "speaker": "Alicia",
+     "text": "So walk me through this index. Legal tells me our French entity has to publish a score every year?",
+     "note_fr": "'Walk me through' = expliquez-moi pas à pas. 'Legal' sans article = le service juridique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's right. Any company in France with fifty or more employees has to work out a gender equality score out of a hundred and publish it by March 1.",
+     "note_fr": "'To work out' = calculer. Date à l'américaine : 'March 1', prononcé 'March first'."
+    },
+    {
+     "speaker": "Alicia",
+     "text": "And what goes into the score?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "A handful of indicators: the pay gap between women and men, how raises and promotions are distributed, whether women get a raise when they come back from maternity leave, and how many women are among the top earners.",
+     "note_fr": "'A handful of' = quelques. 'Raise' (US) = 'pay rise' (UK). 'Top earners' = les plus hautes rémunérations."
+    },
+    {
+     "speaker": "Alicia",
+     "text": "Okay. And how did we do?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Seventy-two. Anything under seventy-five means you have to adopt corrective measures, so we need a plan.",
+     "note_fr": "Chiffre donné d'abord, conséquence ensuite : structure directe adaptée à un public américain."
+    },
+    {
+     "speaker": "Alicia",
+     "text": "Got it. Where did we lose points?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Mostly on the maternity indicator. Two women came back from leave last year and missed out on the general raise. That one's all or nothing.",
+     "note_fr": "'To miss out on' = passer à côté de, ne pas bénéficier de. 'All or nothing' = tout ou rien."
+    },
+    {
+     "speaker": "Alicia",
+     "text": "That's an easy fix. Now, somebody also mentioned a disability quota. I have to say, that word makes our lawyers nervous.",
+     "note_fr": "'An easy fix' = un problème simple à régler. 'I have to say' introduit une réserve."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I can imagine. But in France it's the law, not a choice: once you have twenty employees, six percent of your workforce should be workers with disabilities. If you fall short, you pay a contribution.",
+     "note_fr": "'Six percent' en un mot aux États-Unis ('per cent' au Royaume-Uni). 'To fall short' = ne pas atteindre le seuil."
+    },
+    {
+     "speaker": "Alicia",
+     "text": "So it's less affirmative action and more of a compliance requirement.",
+     "note_fr": "'Affirmative action' : terme américain, politiquement chargé. 'Compliance requirement' = obligation de conformité."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Exactly. I'd present it that way to your lawyers: it's a statutory obligation that applies to every employer in France above that size.",
+     "note_fr": "'Statutory' = prévu par la loi. Reformuler dans les catégories de l'interlocuteur facilite l'adhésion."
+    },
+    {
+     "speaker": "Alicia",
+     "text": "That helps. Can you put the index results and the action plan on two slides for Thursday?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure. I'll send you a draft tomorrow so you have time to push back.",
+     "note_fr": "'To push back' = contester, faire part de ses objections ; courant et sans agressivité en anglais des affaires."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which companies must publish the gender equality index?",
+     "options": [
+      "Only listed companies",
+      "Companies with 250 or more employees",
+      "Companies in France with fifty or more employees",
+      "Only subsidiaries of foreign groups"
+     ],
+     "answer": 2,
+     "explain_fr": "« Any company in France with fifty or more employees » : le seuil est de cinquante salariés."
+    },
+    {
+     "q": "Why does the subsidiary need an action plan?",
+     "options": [
+      "Its score of 72 is below the threshold of 75",
+      "It failed to publish its score on time",
+      "The labour inspector has asked for one",
+      "Its score fell compared with last year"
+     ],
+     "answer": 0,
+     "explain_fr": "« Anything under seventy-five means you have to adopt corrective measures » : en dessous de 75 points, des mesures de correction s'imposent."
+    },
+    {
+     "q": "How does Claire suggest presenting the disability quota to the US lawyers?",
+     "options": [
+      "As a voluntary diversity initiative",
+      "As a form of affirmative action",
+      "As a temporary measure",
+      "As a statutory obligation applying to every employer of that size"
+     ],
+     "answer": 3,
+     "explain_fr": "« It's a statutory obligation that applies to every employer in France above that size » : une obligation légale, et non une politique volontaire de discrimination positive."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-eq-1",
+   "title": "Receiving a first disclosure",
+   "situation": "You are the HR consultant on site at a client's Paris office. Emma, a junior analyst, has asked to see you privately. She is upset and has never spoken to anyone about this before. Listen, reassure her without over-promising and explain what happens next.",
+   "situation_fr": "Vous êtes consultant(e) RH en mission dans les bureaux parisiens d'un client. Emma, analyste junior, a demandé à vous voir en privé. Bouleversée, elle n'en a encore parlé à personne. Écoutez-la, rassurez-la sans promettre l'impossible et expliquez-lui la suite.",
+   "turns": [
+    {
+     "say": "Thanks for seeing me. I'm not even sure I should be here. It's about my manager, and I don't want to cause trouble.",
+     "seconds": 30,
+     "model": "I'm glad you came, Emma, and you're not causing trouble. Take your time. Whatever you tell me, I'll take it seriously, and nothing will happen to you for raising it.",
+     "tips_fr": "Commencez par accueillir ('I'm glad you came') avant toute question. Reprenez ses mots ('causing trouble') pour les désamorcer."
+    },
+    {
+     "say": "He keeps texting me late at night. At first it was about work, but now it's comments about how I look, and last week he asked me to go for a drink, just the two of us. I said no and he's been cold with me ever since.",
+     "seconds": 40,
+     "model": "Thank you for telling me; that can't have been easy. Can I check that I've understood? The messages have become personal, you turned down an invitation, and his attitude towards you has changed since then. Have you kept the messages?",
+     "tips_fr": "Reformulez les faits sans les qualifier (ne dites pas encore 'harassment'). 'That can't have been easy' montre de l'empathie sans prendre parti. Terminez par une question factuelle."
+    },
+    {
+     "say": "Yes, I've got them all. But please, can this stay between us? I just wanted someone to know.",
+     "seconds": 40,
+     "model": "I wish I could say yes, but I'd be misleading you. Now that I know, the company has a duty to look into it. What I can promise is that it will only be shared with the few people who need to know, and that you'll be told before anything is done.",
+     "tips_fr": "Le point délicat : ne promettez pas le secret. La structure 'I wish I could... but... What I can promise is...' permet de refuser avec tact puis de rassurer."
+    },
+    {
+     "say": "What if he finds out it was me? He does my appraisal next month.",
+     "seconds": 35,
+     "model": "That's a completely understandable worry. He will be told what's alleged, so he may well work out who raised it. But any form of retaliation is forbidden, and we can make sure he isn't the one doing your appraisal while this is being looked into.",
+     "tips_fr": "Validez l'inquiétude, soyez honnête sur le risque, puis donnez une mesure concrète. 'To work out' = deviner, comprendre."
+    },
+    {
+     "say": "Okay. So what happens now?",
+     "seconds": 40,
+     "model": "Three things. First, I'd ask you to forward me the messages and jot down dates while they're fresh. Second, I'll speak to the HR Director today, and we'll come back to you by Friday with how the investigation will run. And in the meantime, if anything else happens, call me straight away.",
+     "tips_fr": "Annoncez le plan ('Three things') et donnez une échéance précise. 'To jot down' = noter rapidement. 'Straight away' (UK) = 'right away' (US)."
+    }
+   ]
+  },
+  {
+   "id": "rp-eq-2",
+   "title": "Convincing a director to investigate",
+   "situation": "Richard, the British managing director of your client, has heard that two employees have complained informally about a top-performing sales director. Neither wants to make a formal complaint. Richard would prefer to do nothing. Explain why the company must act.",
+   "situation_fr": "Richard, directeur général britannique de votre client, a appris que deux salariées se sont plaintes de manière informelle d'un directeur commercial très performant. Aucune ne souhaite déposer de plainte formelle. Richard préférerait ne rien faire. Expliquez-lui pourquoi l'entreprise doit agir.",
+   "turns": [
+    {
+     "say": "As I understand it, nobody has actually made a formal complaint. So strictly speaking, there's nothing for us to do, is there?",
+     "seconds": 35,
+     "model": "I'm afraid it doesn't quite work like that in France. There's no need for a formal complaint: once the employer is aware of possible harassment, it's expected to act. Doing nothing would itself be a breach of your duty to protect your staff.",
+     "tips_fr": "'It doesn't quite work like that' : désaccord en demi-teinte. Posez tout de suite la règle : c'est la connaissance des faits, non la plainte formelle, qui déclenche l'obligation d'agir."
+    },
+    {
+     "say": "But these two women have said they don't want an investigation. Shouldn't we respect that?",
+     "seconds": 35,
+     "model": "Their wishes matter, and we should certainly listen to them on how it's done. But the decision isn't theirs alone, because there may be others affected. What we can do is explain the process to them, reassure them about retaliation and keep it as discreet as possible.",
+     "tips_fr": "Concédez ('Their wishes matter') puis recadrez. Proposez une solution concrète avec 'What we can do is'."
+    },
+    {
+     "say": "Look, he brings in a third of our revenue. If we start interviewing people, he'll walk.",
+     "seconds": 40,
+     "model": "I understand what's at stake commercially. But consider the alternative: if this comes out later and it turns out the company knew and turned a blind eye, the cost will be far greater. A fair investigation protects him too, if there's nothing in it.",
+     "tips_fr": "Ne niez pas l'enjeu commercial. 'Consider the alternative' invite à peser les risques. 'To turn a blind eye' = fermer les yeux ; 'if there's nothing in it' = si c'est sans fondement."
+    },
+    {
+     "say": "All right. If we must do it, how do we keep it from turning into a circus?",
+     "seconds": 40,
+     "model": "By keeping it tight. A small team of two, clear terms of reference, interviews held off site, and a reminder to everyone that it's confidential. I'd aim to finish within three to four weeks, and I'd keep you informed of progress, though not of the detail, until the report is ready.",
+     "tips_fr": "Rassurez par la méthode : périmètre, lieu, délai. 'Terms of reference' = cadre de la mission. 'To keep it tight' = cadrer strictement."
+    }
+   ]
+  },
+  {
+   "id": "rp-eq-3",
+   "title": "Interviewing the person accused",
+   "situation": "You are interviewing Mark, a team leader accused of bullying a member of his team (constant criticism in public, excluding her from meetings). He is defensive and angry. Stay neutral, put the allegations to him and give him a fair chance to respond.",
+   "situation_fr": "Vous entendez Mark, chef d'équipe mis en cause pour harcèlement moral envers une collaboratrice (critiques constantes en public, mise à l'écart des réunions). Il est sur la défensive et en colère. Restez neutre, exposez-lui les faits reprochés et laissez-lui une réelle possibilité de s'expliquer.",
+   "turns": [
+    {
+     "say": "Before we start, I want it on record that this whole thing is ridiculous. Fifteen years here and now I'm being treated like a criminal.",
+     "seconds": 30,
+     "model": "I've noted that, Mark, and I do understand that this is unpleasant. Nobody has reached any conclusion. My job is to hear both sides, and this meeting is your opportunity to give me your account in full.",
+     "tips_fr": "Accusez réception sans vous justifier ('I've noted that'). Rappelez la neutralité de la démarche : 'Nobody has reached any conclusion'."
+    },
+    {
+     "say": "Fine. So what exactly am I supposed to have done?",
+     "seconds": 40,
+     "model": "I'll take the points one at a time. The first is that, at the team meetings on 4 and 18 March, you criticised Nadia's work in front of the team in terms she found humiliating. Could you tell me what you remember of those two meetings?",
+     "tips_fr": "Exposez un fait à la fois, daté et précis. 'In terms she found humiliating' rapporte le ressenti sans le reprendre à votre compte. Terminez par une question ouverte."
+    },
+    {
+     "say": "I told her the report wasn't good enough, because it wasn't. Am I not allowed to manage my own team any more?",
+     "seconds": 35,
+     "model": "Of course you are, and nobody is questioning your right to give feedback. What I'm trying to understand is how it was said. Do you recall the words you used? And is that how you'd normally raise a problem with someone's work?",
+     "tips_fr": "Distinguez le fond (le droit de critiquer) de la forme (la manière). 'What I'm trying to understand is' recentre sans accuser."
+    },
+    {
+     "say": "She's oversensitive. And frankly, I think she's doing this because I turned her down for the Lyon project.",
+     "seconds": 35,
+     "model": "I've made a note of that, and I'll look into it. Could you tell me more about the Lyon project - when the decision was made, and who else was involved? If there's anyone you think I should speak to, or any document I should see, please let me know.",
+     "tips_fr": "Ne contredisez pas : notez et creusez. Invitez-le à désigner des témoins ou des pièces : c'est la marque d'une enquête contradictoire."
+    },
+    {
+     "say": "And what happens to me while all this is going on?",
+     "seconds": 35,
+     "model": "For the time being, Nadia will report to Helen. That's a precautionary measure, not a sanction, and it says nothing about the outcome. I'd ask you not to discuss this with the team or contact Nadia about it. You'll receive the notes of today's meeting to check, and I expect to finish within three weeks.",
+     "tips_fr": "Expliquez la mesure provisoire et ce qu'elle n'est pas. 'I'd ask you not to' est une consigne ferme mais courtoise. Donnez un calendrier."
+    }
+   ]
+  },
+  {
+   "id": "rp-eq-4",
+   "title": "An accommodation request, explained to a US manager",
+   "situation": "Tyler, a US operations manager who supervises a team in Lyon, calls you. One of his French employees, who has a recognised disability, has asked for adapted hours and a different workstation. Tyler thinks it is unfair to the rest of the team. Explain the employer's duty and help him respond properly.",
+   "situation_fr": "Tyler, responsable des opérations américain qui supervise une équipe à Lyon, vous appelle. Un de ses salariés français, reconnu travailleur handicapé, demande un aménagement d'horaires et un autre poste de travail. Tyler trouve cela injuste pour le reste de l'équipe. Expliquez l'obligation de l'employeur et aidez-le à répondre correctement.",
+   "turns": [
+    {
+     "say": "So Julien wants to start at ten and get a special desk. If I say yes to him, I'll have ten people asking for the same thing.",
+     "seconds": 35,
+     "model": "I hear you, but Julien's situation is different. He has a recognized disability, and the employer has a duty to adapt the job where that's reasonable. It's the same idea as reasonable accommodation under the ADA: treating everyone identically isn't always treating them fairly.",
+     "tips_fr": "Faites le pont avec ce que l'interlocuteur connaît (l'ADA, 'reasonable accommodation'). Orthographe américaine attendue : 'recognized'."
+    },
+    {
+     "say": "Okay, fair point. But do I have to give him exactly what he's asking for?",
+     "seconds": 35,
+     "model": "Not necessarily. The duty is to take appropriate measures unless they'd be a disproportionate burden. So the right approach is to sit down with him, find out what he actually needs, and get the occupational physician's recommendations. There's often more than one way to solve it.",
+     "tips_fr": "'Not necessarily' nuance sans fermer la porte. 'Disproportionate burden' est la formule européenne ; aux États-Unis, 'undue hardship'."
+    },
+    {
+     "say": "And what am I allowed to ask him? I don't want to step on a landmine.",
+     "seconds": 35,
+     "model": "Ask about the work, not the diagnosis. What does he find difficult, and what would help? You shouldn't ask what his condition is; that's between him and the doctor. And keep it confidential: the team doesn't need to know why his hours have changed.",
+     "tips_fr": "Règle simple à formuler : 'the work, not the diagnosis'. 'To step on a landmine' = commettre un impair grave ; reprenez l'idée sans la métaphore."
+    },
+    {
+     "say": "What if I just say no? The ten o'clock start really doesn't work for our morning calls.",
+     "seconds": 40,
+     "model": "Then you'd need a solid, documented reason, and you'd need to show you looked at alternatives - starting at nine thirty, say, or having him join the calls from home. A flat refusal with nothing on file could amount to disability discrimination. I'd much rather we come back with a counter-proposal.",
+     "tips_fr": "Proposez des options plutôt qu'un interdit. 'A flat refusal' = un refus sec. 'Nothing on file' = aucune trace écrite. 'I'd much rather' + sujet + verbe exprime une préférence nette."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Receiving a disclosure without over-promising",
+   "function_fr": "Accueillir un signalement sans promettre l'impossible",
+   "phrases": [
+    {
+     "text": "Thank you for telling me. I know that can't have been easy.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Take your time. There's no rush.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I want you to know that we take this very seriously.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I can't promise to keep this entirely between us, but it will only be shared on a need-to-know basis.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "You will not be treated less favourably in any way for having raised this concern.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Nobody's going to hold this against you. Retaliation is something we don't tolerate.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "Let me explain what happens next, so there are no surprises.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The Company is grateful to you for bringing this matter to its attention.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Asking neutral questions in an investigation interview",
+   "function_fr": "Poser des questions neutres lors d'un entretien d'enquête",
+   "phrases": [
+    {
+     "text": "Could you tell me, in your own words, what happened?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "What exactly was said, as far as you can remember?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Who else was present at the time?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Was that a one-off, or had it happened before?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Was that an isolated incident, or had it happened before?",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "It has been alleged that you made remarks about her appearance. What is your response to that?",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Is there anyone you think I should speak to, or anything you'd like me to look at?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Is there anything you would like to add before we close the interview?",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Reporting findings and outcomes neutrally",
+   "function_fr": "Restituer des conclusions de manière neutre",
+   "phrases": [
+    {
+     "text": "Having considered all the evidence, I find that the allegation is upheld.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Based on the evidence gathered, the allegation is substantiated.",
+     "register": "formal",
+     "variety": "us"
+    },
+    {
+     "text": "On the balance of probabilities, it is more likely than not that the remarks were made.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "There wasn't enough evidence to reach a conclusion either way.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "That doesn't mean we think you weren't telling the truth.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'm not able to share the details, but I can tell you that appropriate action has been taken.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The accounts we heard were consistent with one another on this point.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "If anything like this happens again, please come straight to me.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1630 @@
+{
+ "reading": [
+  {
+   "id": "rd-ex-1",
+   "title": "Mutual Termination Agreement (extract)",
+   "kind": "contract clause",
+   "level": 2,
+   "paragraphs": [
+    "MUTUAL TERMINATION AGREEMENT (extract - English translation for information only)",
+    "1. PRINCIPLE",
+    "1.1 The Company and the Employee have agreed to terminate, by mutual consent, the indefinite-term employment contract entered into on 3 September 2018, in accordance with the provisions of the French Labour Code governing mutual termination.",
+    "1.2 Each party acknowledges that it has entered into this agreement of its own free will, that neither has sought to impose it on the other, and that the Employee was informed of his right to be assisted at each of the meetings held on 6 and 13 May.",
+    "2. SPECIFIC TERMINATION PAYMENT",
+    "2.1 The Company shall pay the Employee a specific termination payment in a gross amount of EUR 18,500, which is not less than the statutory minimum.",
+    "2.2 The payment shall be made together with the Employee's final salary, accrued holiday pay and any other sums outstanding on the Termination Date.",
+    "3. WITHDRAWAL AND APPROVAL",
+    "3.1 Each party shall have a period of fifteen calendar days, starting on the day after signature, in which to exercise its right of withdrawal by letter delivered to the other party by any means evidencing the date of receipt.",
+    "3.2 Upon expiry of that period, whichever party acts first shall submit an application for approval to the competent labour authority. In the absence of a reply within the statutory review period, approval shall be deemed to have been granted.",
+    "4. TERMINATION DATE",
+    "4.1 Subject to approval, the employment contract shall end on 30 June (the 'Termination Date'). Until that date, the contract shall continue to be performed on its normal terms.",
+    "4.2 Should approval be refused, this agreement shall be of no effect and the employment contract shall continue."
+   ],
+   "glossary": [
+    {
+     "term": "by mutual consent",
+     "plain": "because both sides agree, not because one of them decided alone",
+     "fr": "d'un commun accord"
+    },
+    {
+     "term": "of its own free will",
+     "plain": "voluntarily, without being forced",
+     "fr": "de son plein gré"
+    },
+    {
+     "term": "specific termination payment",
+     "plain": "the sum the employee must receive under this French procedure",
+     "fr": "indemnité spécifique de rupture conventionnelle"
+    },
+    {
+     "term": "accrued holiday pay",
+     "plain": "money for paid leave that has been earned but not taken",
+     "fr": "indemnité compensatrice de congés payés"
+    },
+    {
+     "term": "calendar days",
+     "plain": "all days, including weekends and public holidays",
+     "fr": "jours calendaires"
+    },
+    {
+     "term": "right of withdrawal",
+     "plain": "the right to cancel the agreement within a set time",
+     "fr": "droit de rétractation"
+    },
+    {
+     "term": "application for approval",
+     "plain": "the formal request asking the authority to approve the agreement",
+     "fr": "demande d'homologation"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "by any means evidencing the date of receipt",
+     "plain": "in any way that proves when the letter was received"
+    },
+    {
+     "phrase": "whichever party acts first",
+     "plain": "either the employer or the employee, whoever does it first"
+    },
+    {
+     "phrase": "shall be deemed to have been granted",
+     "plain": "will be treated as given, even though nobody actually said yes"
+    },
+    {
+     "phrase": "shall be of no effect",
+     "plain": "will not apply at all; it will be as if it had never been signed"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How was the Employee's contract brought to an end?",
+     "options": [
+      "The Company dismissed him.",
+      "He resigned.",
+      "Both parties agreed to end it.",
+      "A court terminated it."
+     ],
+     "answer": 2,
+     "explain_fr": "« By mutual consent » : la rupture est décidée d'un commun accord, ce qui la distingue du licenciement et de la démission."
+    },
+    {
+     "q": "What does clause 3.1 allow each party to do?",
+     "options": [
+      "Cancel the agreement within fifteen calendar days of signing",
+      "Ask the labour authority for more time",
+      "Renegotiate the amount of the payment",
+      "Bring the termination date forward"
+     ],
+     "answer": 0,
+     "explain_fr": "« To exercise its right of withdrawal » = exercer son droit de rétractation, dans les quinze jours calendaires qui suivent la signature."
+    },
+    {
+     "q": "What happens if the labour authority does not reply within the review period?",
+     "options": [
+      "The agreement lapses.",
+      "The parties must apply again.",
+      "The contract ends immediately.",
+      "The agreement is treated as approved."
+     ],
+     "answer": 3,
+     "explain_fr": "« Approval shall be deemed to have been granted » : le silence de l'administration vaut homologation. « Deemed » = réputé."
+    },
+    {
+     "q": "If approval is refused, what is the position?",
+     "options": [
+      "The Employee keeps the payment but must leave.",
+      "The employment contract simply continues.",
+      "The Company must dismiss the Employee.",
+      "The parties must go to court."
+     ],
+     "answer": 1,
+     "explain_fr": "Clause 4.2 : la convention est privée d'effet (« of no effect ») et le contrat de travail se poursuit."
+    }
+   ]
+  },
+  {
+   "id": "rd-ex-2",
+   "title": "Why a US-style release will not do in France",
+   "kind": "client memo",
+   "level": 3,
+   "paragraphs": [
+    "To: Karen Doyle, VP People (Chicago) | From: Claire Morel | Re: Exit of the Lyon plant manager",
+    "You asked whether we could simply send Mr. Garnier your standard severance agreement and general release. I'm afraid not, and it is worth understanding why before we speak on Thursday.",
+    "In the US, severance is usually offered in exchange for a release, and the employee signs before or on leaving. A French settlement agreement works differently. Where the contract is ended by dismissal, the settlement can only be signed once the dismissal has been notified; a waiver of claims signed earlier is likely to be void. It must also record mutual concessions: the company has to pay something over and above what the employee is already owed.",
+    "The alternative is a mutual termination agreement, which is the route I would recommend here. It is not a settlement and contains no waiver. What it offers instead is a secure procedure: at least one meeting, a fifteen-day cooling-off period for each side and approval by the labor authority. The employee qualifies for unemployment benefits, which is often what persuades him to sign. In practice, challenges are rare, provided nobody has been pressured into signing.",
+    "On figures, the statutory minimum is the floor. Anything above it is negotiable, but bear in mind that a larger payment pushes back the date on which his benefits start, so he will reason in net terms.",
+    "Two points on your draft. The non-disparagement clause should be mutual, and the confidentiality clause needs the usual carve-outs. Neither can stop him from reporting wrongdoing to the authorities.",
+    "My suggestion: let me sound him out informally next week. If he is open to it, we could have signature by mid-month and a termination date about six weeks later."
+   ],
+   "glossary": [
+    {
+     "term": "release",
+     "plain": "a promise not to sue, which frees the employer from liability",
+     "fr": "décharge, renonciation à recours"
+    },
+    {
+     "term": "waiver of claims",
+     "plain": "an undertaking to give up the right to take legal action",
+     "fr": "renonciation à tout recours"
+    },
+    {
+     "term": "mutual concessions",
+     "plain": "something given up by each side",
+     "fr": "concessions réciproques"
+    },
+    {
+     "term": "cooling-off period",
+     "plain": "the time after signing in which either side may change its mind",
+     "fr": "délai de rétractation"
+    },
+    {
+     "term": "the floor",
+     "plain": "the lowest amount allowed",
+     "fr": "le plancher"
+    },
+    {
+     "term": "carve-outs",
+     "plain": "exceptions written into a clause",
+     "fr": "exceptions expressément prévues"
+    },
+    {
+     "term": "sound him out",
+     "plain": "find out discreetly what he thinks",
+     "fr": "le sonder"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "over and above",
+     "plain": "in addition to"
+    },
+    {
+     "phrase": "void",
+     "plain": "having no legal effect"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why can't the American severance agreement simply be used?",
+     "options": [
+      "French law does not allow severance payments.",
+      "Under French law, a settlement following a dismissal cannot validly be signed before the dismissal is notified.",
+      "Mr. Garnier has already refused it.",
+      "It would have to be approved by the labor authority."
+     ],
+     "answer": 1,
+     "explain_fr": "En droit français, la transaction consécutive à un licenciement ne peut être conclue qu'une fois la rupture notifiée ; une renonciation antérieure risque la nullité (« void »)."
+    },
+    {
+     "q": "What does Claire recommend?",
+     "options": [
+      "A dismissal followed by a settlement",
+      "Waiting for Mr. Garnier to resign",
+      "Sending the US draft unchanged",
+      "A mutual termination agreement"
+     ],
+     "answer": 3,
+     "explain_fr": "« The route I would recommend here » : la rupture conventionnelle, plus sûre par sa procédure."
+    },
+    {
+     "q": "According to the memo, what often persuades the employee to sign a mutual termination agreement?",
+     "options": [
+      "Entitlement to unemployment benefits",
+      "The waiver of claims",
+      "The non-disparagement clause",
+      "The speed of the procedure"
+     ],
+     "answer": 0,
+     "explain_fr": "« The employee qualifies for unemployment benefits, which is often what persuades him to sign. »"
+    },
+    {
+     "q": "Why will Mr. Garnier 'reason in net terms'?",
+     "options": [
+      "Because the payment is tax-free",
+      "Because he distrusts gross figures",
+      "Because a higher payment delays the start of his unemployment benefits",
+      "Because the statutory minimum is paid net"
+     ],
+     "answer": 2,
+     "explain_fr": "« A larger payment pushes back the date on which his benefits start » : c'est le différé d'indemnisation. « To push back » = reculer."
+    }
+   ]
+  },
+  {
+   "id": "rd-ex-3",
+   "title": "A without prejudice offer",
+   "kind": "letter",
+   "level": 3,
+   "paragraphs": [
+    "WITHOUT PREJUDICE AND SUBJECT TO CONTRACT",
+    "Dear Mr Hughes,",
+    "Further to our meeting on 9 October, I am writing to set out the terms on which the Company would be prepared to bring your employment to an end by agreement. This proposal is made on a without prejudice basis: should we fail to reach agreement, neither party may refer to it in any subsequent proceedings.",
+    "The principal terms would be as follows. Your employment would end on 30 November. You would receive your salary and contractual benefits up to that date, together with a payment in lieu of accrued but untaken holiday. In addition, the Company would pay you an ex gratia payment of GBP 24,000 by way of compensation for loss of employment, without any admission of liability.",
+    "The Company would provide a reference in the agreed form and would make a contribution of up to GBP 500 plus VAT towards the cost of your taking independent legal advice. As you may know, a settlement agreement is binding only if you have been advised on its terms and effect by a relevant independent adviser.",
+    "In return, you would be asked to accept these terms in full and final settlement of all claims arising out of your employment or its termination, and to keep the existence and terms of the agreement confidential. Both parties would undertake not to make disparaging statements about the other.",
+    "This offer will remain open until 5 p.m. on 24 October, which we hope gives you a reasonable period in which to consider it. Nothing in this letter affects your day-to-day duties in the meantime, and you are under no obligation to accept.",
+    "Yours sincerely,",
+    "Helen Marsh, HR Director"
+   ],
+   "glossary": [
+    {
+     "term": "without prejudice",
+     "plain": "not usable later as evidence if the talks fail",
+     "fr": "sous toutes réserves (échange confidentiel en vue d'un règlement)"
+    },
+    {
+     "term": "subject to contract",
+     "plain": "not binding until a formal agreement is signed",
+     "fr": "sous réserve de la signature d'un accord définitif"
+    },
+    {
+     "term": "payment in lieu",
+     "plain": "money paid instead of something the person was entitled to",
+     "fr": "indemnité compensatrice"
+    },
+    {
+     "term": "ex gratia payment",
+     "plain": "a sum the employer is not legally obliged to pay",
+     "fr": "versement à titre gracieux"
+    },
+    {
+     "term": "reference in the agreed form",
+     "plain": "a reference whose wording both sides have approved in advance",
+     "fr": "références dont le texte a été convenu"
+    },
+    {
+     "term": "independent legal advice",
+     "plain": "advice from a lawyer who does not act for the employer",
+     "fr": "conseil juridique indépendant"
+    },
+    {
+     "term": "disparaging statements",
+     "plain": "remarks that damage someone's reputation",
+     "fr": "propos dénigrants"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "without any admission of liability",
+     "plain": "without accepting that the Company did anything wrong"
+    },
+    {
+     "phrase": "by way of compensation for loss of employment",
+     "plain": "as money to make up for losing the job"
+    },
+    {
+     "phrase": "in full and final settlement of",
+     "plain": "as a complete and permanent end to"
+    },
+    {
+     "phrase": "arising out of",
+     "plain": "resulting from or connected with"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the effect of the words 'without prejudice' here?",
+     "options": [
+      "The offer cannot be relied on in later proceedings if no agreement is reached.",
+      "The offer is binding as soon as it is received.",
+      "Mr Hughes may not discuss the letter with a solicitor.",
+      "The Company admits that it treated him unfairly."
+     ],
+     "answer": 0,
+     "explain_fr": "« Neither party may refer to it in any subsequent proceedings » : l'offre ne pourra pas être produite en justice si la négociation échoue."
+    },
+    {
+     "q": "Which sum is the Company not legally obliged to pay?",
+     "options": [
+      "Salary up to 30 November",
+      "The payment for untaken holiday",
+      "The GBP 24,000",
+      "Contractual benefits"
+     ],
+     "answer": 2,
+     "explain_fr": "« Ex gratia » = à titre gracieux : c'est la somme offerte en plus des droits contractuels."
+    },
+    {
+     "q": "Why does the Company offer to contribute to Mr Hughes's legal costs?",
+     "options": [
+      "Because it accepts that it is at fault",
+      "Because his contract requires it",
+      "Because he asked for it at the meeting",
+      "Because the agreement binds him only if he has received independent advice"
+     ],
+     "answer": 3,
+     "explain_fr": "Condition de validité du « settlement agreement » britannique : le salarié doit avoir été conseillé par un conseiller indépendant, d'où la participation usuelle aux frais."
+    },
+    {
+     "q": "What must Mr Hughes do if he does not want to accept?",
+     "options": [
+      "Resign by 30 November",
+      "Nothing: he is free to refuse",
+      "Reply in writing before 24 October",
+      "Return the GBP 500"
+     ],
+     "answer": 1,
+     "explain_fr": "« You are under no obligation to accept » : l'offre expire simplement le 24 octobre."
+    }
+   ]
+  },
+  {
+   "id": "rd-ex-4",
+   "title": "Leaving the Company: what to expect",
+   "kind": "policy extract",
+   "level": 1,
+   "paragraphs": [
+    "7. LEAVING THE COMPANY",
+    "7.1 Notice. If you decide to leave, please tell your line manager first and then confirm your resignation in writing to HR. We will write back within three working days to confirm your notice period and your last day of employment.",
+    "7.2 Handover. During your notice period you are expected to hand over your work in good order. Please agree a handover plan with your manager, prepare written handover notes and introduce your successor, where there is one, to your main contacts.",
+    "7.3 Company property. On or before your last day, you must return everything that belongs to the Company, including your laptop, phone, security pass and any documents. Your access to our systems will be withdrawn at the end of your last working day. Please make sure that no Company data remains on your personal devices.",
+    "7.4 Final pay. Your final pay will be processed in the normal payroll run. It will include your salary up to your last day and payment for any holiday you have accrued but not taken. Outstanding expenses should be claimed before you leave.",
+    "7.5 Leaving documents. For employees in France, your certificate of employment, the form for the unemployment agency and the receipt for final payment will be available on your last day.",
+    "7.6 Exit interview. HR will invite you to an exit interview. Taking part is voluntary, but we very much value candid feedback, and what you tell us will be treated in confidence.",
+    "7.7 References. Requests for references should be sent to HR. As a rule, we confirm dates of employment and job title only."
+   ],
+   "glossary": [
+    {
+     "term": "line manager",
+     "plain": "the person you report to directly",
+     "fr": "responsable hiérarchique direct"
+    },
+    {
+     "term": "hand over",
+     "plain": "pass your work and files to someone else",
+     "fr": "transmettre (ses dossiers)"
+    },
+    {
+     "term": "handover notes",
+     "plain": "written notes explaining your current work to the person taking over",
+     "fr": "notes de passation"
+    },
+    {
+     "term": "security pass",
+     "plain": "the card that lets you into the building",
+     "fr": "badge d'accès"
+    },
+    {
+     "term": "payroll run",
+     "plain": "the regular monthly processing of salaries",
+     "fr": "traitement de la paie"
+    },
+    {
+     "term": "accrued",
+     "plain": "earned gradually over time",
+     "fr": "acquis"
+    },
+    {
+     "term": "candid",
+     "plain": "honest and direct",
+     "fr": "franc, sincère"
+    },
+    {
+     "term": "in confidence",
+     "plain": "privately, without being passed on",
+     "fr": "à titre confidentiel"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "On or before",
+     "plain": "at the latest on"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who should an employee tell first about a decision to leave?",
+     "options": [
+      "HR, in writing",
+      "Their line manager",
+      "Their successor",
+      "Payroll"
+     ],
+     "answer": 1,
+     "explain_fr": "« Please tell your line manager first and then confirm your resignation in writing to HR. »"
+    },
+    {
+     "q": "When does access to the Company's systems end?",
+     "options": [
+      "At the end of the last working day",
+      "When the resignation is received",
+      "Three working days after the last day",
+      "When the exit interview has taken place"
+     ],
+     "answer": 0,
+     "explain_fr": "« Your access to our systems will be withdrawn at the end of your last working day. » « To withdraw » = retirer."
+    },
+    {
+     "q": "What is true of the exit interview?",
+     "options": [
+      "It is compulsory.",
+      "It is conducted by the line manager.",
+      "It takes place after the employee has left.",
+      "It is optional and confidential."
+     ],
+     "answer": 3,
+     "explain_fr": "« Taking part is voluntary » et les propos sont « treated in confidence ». Attention : « candid » = franc, pas candide."
+    },
+    {
+     "q": "What will the Company normally say in a reference?",
+     "options": [
+      "A detailed assessment of performance",
+      "Nothing at all",
+      "Only the dates of employment and the job title",
+      "The reason for leaving"
+     ],
+     "answer": 2,
+     "explain_fr": "« As a rule, we confirm dates of employment and job title only » : une référence purement factuelle."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-ex-1",
+   "title": "Acknowledging a resignation",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Thomas, a project manager in your client's Paris office, has resigned by letter. Write the email acknowledging his resignation: notice period and last day, handover to Karim, final pay and leaving documents, return of equipment, exit interview.",
+   "brief_fr": "Thomas, chef de projet au bureau parisien de votre client, a démissionné par lettre. Rédigez l'e-mail qui prend acte de sa démission : préavis et dernier jour, passation à Karim, solde de tout compte et documents de fin de contrat, restitution du matériel, entretien de départ.",
+   "gaps": [
+    {
+     "text": "Thank you for your letter of 2 June, in which you ___ of your resignation.",
+     "answer": "gave notice",
+     "accept": [
+      "gave us notice",
+      "gave formal notice"
+     ],
+     "explain_fr": "'To give notice of one's resignation' : notifier sa démission. On ne dit pas 'to announce your demission' ('demission' n'existe pas dans ce sens)."
+    },
+    {
+     "text": "I am sorry to ___, but I quite understand your reasons.",
+     "answer": "see you go",
+     "accept": [
+      "see you leave",
+      "lose you"
+     ],
+     "explain_fr": "'I'm sorry to see you go' : formule chaleureuse et standard. 'I quite understand' = je comprends tout à fait (understatement britannique)."
+    },
+    {
+     "text": "If you would like to be ___ early, please let me know.",
+     "answer": "released",
+     "accept": [
+      "let go"
+     ],
+     "explain_fr": "'To be released early' : être libéré(e) avant la fin du préavis. 'Liberated' serait comique."
+    },
+    {
+     "text": "Karim will be ___ from you, so it would make sense to bring him up to speed.",
+     "answer": "taking over",
+     "accept": [],
+     "explain_fr": "'To take over from someone' = reprendre le poste ou les dossiers de quelqu'un ; son symétrique est 'to hand over to someone'."
+    },
+    {
+     "text": "Your final pay will include any holiday you have ___ but not taken.",
+     "answer": "accrued",
+     "accept": [
+      "earned",
+      "built up"
+     ],
+     "explain_fr": "'Accrued but not taken' (ou 'untaken') : congés acquis et non pris. 'To accrue' = s'accumuler progressivement."
+    },
+    {
+     "text": "We will also ask you to ___ your laptop and security pass.",
+     "answer": "hand back",
+     "accept": [
+      "return",
+      "hand in",
+      "give back"
+     ],
+     "explain_fr": "'To hand back' = restituer. 'To render' ou 'to restitute' ne conviennent pas."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Your resignation\n\nDear Thomas,\n\nThank you for your letter of 2 June, in which you gave notice of your resignation. I am sorry to see you go, but I quite understand your reasons.\n\nIn line with your contract, your notice period is three months, which means that your last day of employment will be Monday 1 September. If you would like to be released early, please let me know and I will raise it with Sophie.\n\nOver the coming weeks, I would be grateful if you could prepare handover notes on your current projects. Karim will be taking over from you, so it would make sense to bring him up to speed as soon as possible.\n\nYour final pay will include any holiday you have accrued but not taken. You will receive your certificate of employment and the other leaving documents on your last day, when we will also ask you to hand back your laptop and security pass.\n\nFinally, I would like to invite you to an exit interview before you leave; I will be in touch to arrange a time.\n\nWith best wishes for the future,\n\nClaire Morel",
+   "model_us": "Subject: Your resignation\n\nDear Thomas,\n\nThank you for your letter of June 2, in which you gave notice of your resignation. I am sorry to see you go, but I fully understand your reasons.\n\nIn line with your contract, your notice period is three months, which means that your last day of employment will be Monday, September 1. If you would like to be released early, please let me know and I will raise it with Sophie.\n\nOver the coming weeks, I would appreciate it if you could prepare transition notes on your current projects. Karim will be taking over from you, so it would make sense to bring him up to speed as soon as possible.\n\nYour final paycheck will include any vacation you have accrued but not used. You will receive your certificate of employment and the other separation documents on your last day, when we will also ask you to turn in your laptop and badge.\n\nFinally, I would like to invite you to an exit interview before you leave; I will be in touch to set up a time.\n\nBest wishes for the future,\n\nClaire Morel",
+   "commentary": [
+    {
+     "quote": "I am sorry to see you go, but I quite understand your reasons.",
+     "note_fr": "Une phrase de regret sobre suffit. Dans la version américaine, 'quite' devient 'fully' : aux États-Unis, 'quite' est plus rare et peut sembler affecté."
+    },
+    {
+     "quote": "In line with your contract",
+     "note_fr": "'In line with' = conformément à, moins lourd que 'in accordance with' dans un e-mail."
+    },
+    {
+     "quote": "I will raise it with Sophie",
+     "note_fr": "'To raise something with someone' = en parler à quelqu'un, soumettre la question. Sans 'about'."
+    },
+    {
+     "quote": "bring him up to speed",
+     "note_fr": "'To bring someone up to speed' = mettre quelqu'un au courant, le rendre opérationnel sur un dossier."
+    },
+    {
+     "quote": "I will be in touch to arrange a time",
+     "note_fr": "'To be in touch' annonce un prochain contact sans date précise. US : 'to set up a time'."
+    }
+   ],
+   "checklist": [
+    "Ai-je accusé réception en rappelant la date de la lettre ?",
+    "Le dernier jour est-il indiqué sans ambiguïté (jour, date, mois) ?",
+    "Ai-je employé 'hand over' et 'take over' dans le bon sens ?",
+    "Les dates suivent-elles le format britannique (2 June) ou américain (June 2) de façon cohérente ?",
+    "Le ton est-il cordial sans être familier ?"
+   ],
+   "phrasebank": [
+    "Thank you for your letter of [date], in which you gave notice of your resignation.",
+    "I am sorry to see you go.",
+    "Your last day of employment will be [date].",
+    "I would be grateful if you could prepare handover notes.",
+    "Your final pay will include any holiday you have accrued but not taken.",
+    "I will be in touch to arrange a time.",
+    "With best wishes for the future,"
+   ]
+  },
+  {
+   "id": "wr-ex-2",
+   "title": "Explaining the timeline of a mutual termination to a US client",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Mark, your American client, wants to know when Ms. Lefevre will actually leave now that the mutual termination agreement has been signed. Explain the timeline in a short email: cooling-off period, application for approval, review period, earliest termination date, and a warning not to announce anything yet. Use American spelling and date format.",
+   "brief_fr": "Mark, votre client américain, veut savoir quand Mme Lefevre partira effectivement, maintenant que la convention de rupture est signée. Expliquez le calendrier dans un e-mail court : délai de rétractation, demande d'homologation, délai d'instruction, date de rupture au plus tôt, et mise en garde contre toute annonce prématurée. Orthographe et format de date américains.",
+   "gaps": [
+    {
+     "text": "From today, each side has fifteen calendar days to ___ its mind.",
+     "answer": "change",
+     "accept": [],
+     "explain_fr": "'To change one's mind' : la façon naturelle d'expliquer la rétractation à l'oral ou dans un e-mail."
+    },
+    {
+     "text": "The cooling-off period ___ until March 18.",
+     "answer": "runs",
+     "accept": [
+      "lasts"
+     ],
+     "explain_fr": "Un délai 'runs from... until...' (court de... à...). Notez la date à l'américaine : March 18."
+    },
+    {
+     "text": "Once that period has ___, I will file the application for approval.",
+     "answer": "expired",
+     "accept": [
+      "elapsed",
+      "ended",
+      "passed"
+     ],
+     "explain_fr": "'To expire' ou 'to elapse' pour un délai. Present perfect après 'once' : pas de futur dans la subordonnée de temps."
+    },
+    {
+     "text": "If we hear nothing by the end of that period, the agreement is ___ approved.",
+     "answer": "deemed",
+     "accept": [
+      "considered",
+      "treated as"
+     ],
+     "explain_fr": "'Deemed approved' = réputée homologuée. 'Deemed' est le terme juridique ; 'considered' est acceptable dans un e-mail."
+    },
+    {
+     "text": "Please ___ on any announcement until approval has come through.",
+     "answer": "hold off",
+     "accept": [],
+     "explain_fr": "'To hold off on something' = attendre avant de faire quelque chose. 'To come through' = arriver, être accordé."
+    },
+    {
+     "text": "If the authority ___ the agreement down, the contract simply carries on.",
+     "answer": "turns",
+     "accept": [
+      "turned"
+     ],
+     "explain_fr": "'To turn down' = refuser. 'To carry on' = se poursuivre."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Mutual termination - timeline for Ms. Lefevre\n\nHi Mark,\n\nHere is how the timeline looks, now that Ms. Lefevre has agreed in principle.\n\nWe signed the agreement yesterday, March 3. From today, each side has fifteen calendar days to change its mind, so the cooling-off period runs until March 18. Neither side needs to give a reason for withdrawing.\n\nOnce that period has expired, I will file the application for approval with the labor authority, which then has fifteen working days to review it. If we hear nothing by the end of that period, the agreement is deemed approved.\n\nRealistically, then, the contract cannot end before the second week of April; to be on the safe side, we have written April 15 into the agreement. Until then she remains an employee on full pay, and she should not be asked to leave early.\n\nOne word of caution: please hold off on any announcement until approval has come through. If the authority turns the agreement down, the contract simply carries on.\n\nI'll keep you posted.\n\nBest,\nClaire",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "Here is how the timeline looks",
+     "note_fr": "Entrée en matière directe, à l'américaine : pas de longue formule d'introduction."
+    },
+    {
+     "quote": "to be on the safe side",
+     "note_fr": "'Par précaution'. Expression idiomatique qui justifie une marge de sécurité sans dramatiser."
+    },
+    {
+     "quote": "One word of caution:",
+     "note_fr": "Formule courte pour introduire une mise en garde, plus naturelle que 'I draw your attention to the fact that'."
+    },
+    {
+     "quote": "the contract simply carries on",
+     "note_fr": "Verbe à particule simple pour dire que le contrat se poursuit ; 'simply' rassure le client sur les conséquences."
+    },
+    {
+     "quote": "I'll keep you posted.",
+     "note_fr": "'Je vous tiens au courant.' Familier mais parfaitement professionnel avec un client américain."
+    }
+   ],
+   "checklist": [
+    "Chaque étape a-t-elle une date ou une durée ?",
+    "Ai-je distingué 'calendar days' et 'working days' ?",
+    "Les dates sont-elles au format américain (March 3) et 'labor' écrit sans 'u' ?",
+    "Ai-je expliqué ce qui se passe en cas de silence et en cas de refus de l'administration ?",
+    "La mise en garde finale est-elle claire et courtoise ?"
+   ],
+   "phrasebank": [
+    "Here is how the timeline looks.",
+    "Each side has fifteen calendar days to change its mind.",
+    "The cooling-off period runs until [date].",
+    "Once that period has expired, I will file the application for approval.",
+    "To be on the safe side, we have written [date] into the agreement.",
+    "One word of caution: ...",
+    "Please hold off on any announcement until approval has come through.",
+    "I'll keep you posted."
+   ]
+  },
+  {
+   "id": "wr-ex-3",
+   "title": "Resignation or mutual termination? A note to a British managing director",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "Julie Perrin, a marketing manager, wants to leave to set up her own business and has asked for a mutual termination agreement. Your client's British managing director asks: 'Why should we pay her to leave when she can just resign?' Write a short note (180-220 words) answering him and giving your recommendation.",
+   "brief_fr": "Julie Perrin, responsable marketing, veut partir créer son entreprise et demande une rupture conventionnelle. Le directeur général britannique de votre client s'étonne : « Pourquoi la payer pour partir alors qu'elle peut démissionner ? » Rédigez une note courte (180 à 220 mots) qui lui répond et formule votre recommandation.",
+   "gaps": [],
+   "outline": [
+    "Answer the question directly: in practice she will not resign",
+    "What resignation means for her: no payment, no unemployment benefit",
+    "What a mutual termination costs the company and what it brings in return",
+    "Two caveats: no obligation to accept; risk of setting a precedent",
+    "Your recommendation and next step"
+   ],
+   "model": "Julie Perrin - resignation or mutual termination?\n\nYou asked why we should agree to a mutual termination when Ms Perrin could simply resign. The short answer is that she almost certainly won't.\n\nIf she resigns, she receives no termination payment and, as a rule, does not qualify for unemployment benefit. For someone about to set up her own business, that safety net matters a great deal. She therefore has every reason to stay until we agree, and a manager who has mentally left is rarely good news for a team.\n\nA mutual termination would cost the company the statutory minimum, roughly EUR 9,000 on her length of service, plus whatever we choose to add. In return, we get an agreed leaving date, a proper handover and a procedure that is very rarely challenged.\n\nThere are two things to bear in mind. First, we are under no obligation to accept: this is a negotiation, not a right. Second, saying yes may encourage similar requests, so it would be wise to decide in advance how we would respond to them.\n\nOn balance, I would recommend agreeing, at the statutory minimum and with a leaving date that gives us time to recruit. I would be happy to talk it through on Friday.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "The short answer is that she almost certainly won't.",
+     "note_fr": "Répondez d'abord à la question posée, en une phrase. 'The short answer is...' annonce que le détail suit."
+    },
+    {
+     "quote": "that safety net matters a great deal",
+     "note_fr": "'Safety net' (filet de sécurité) : image immédiatement comprise. 'A great deal' est plus élégant que 'a lot' à l'écrit."
+    },
+    {
+     "quote": "a manager who has mentally left is rarely good news for a team",
+     "note_fr": "Understatement britannique : 'rarely good news' pour dire que c'est franchement néfaste."
+    },
+    {
+     "quote": "this is a negotiation, not a right",
+     "note_fr": "Formule brève et symétrique pour un point juridique essentiel : la rupture conventionnelle ne s'impose à aucune des parties."
+    },
+    {
+     "quote": "On balance, I would recommend agreeing",
+     "note_fr": "'On balance' = tout bien pesé. 'To recommend' est suivi du gérondif, jamais de 'to + verbe'."
+    }
+   ],
+   "checklist": [
+    "La première phrase répond-elle à la question du client ?",
+    "Ai-je expliqué l'enjeu des allocations chômage sans jargon français ?",
+    "Le coût et les contreparties pour l'entreprise sont-ils chiffrés ou au moins qualifiés ?",
+    "Ai-je signalé les réserves avant de conclure ?",
+    "La recommandation est-elle nette, avec une prochaine étape ?"
+   ],
+   "phrasebank": [
+    "The short answer is that ...",
+    "As a rule, she does not qualify for unemployment benefit.",
+    "In return, we get an agreed leaving date and a proper handover.",
+    "There are two things to bear in mind.",
+    "We are under no obligation to accept.",
+    "On balance, I would recommend ...",
+    "I would be happy to talk it through on Friday."
+   ]
+  },
+  {
+   "id": "wr-ex-4",
+   "title": "Minutes of a negotiation meeting",
+   "stage": 2,
+   "kind": "meeting minutes",
+   "brief": "You represented the Company at the second meeting with Olivier Roche, a sales manager with fourteen years' service, to discuss a mutual termination. He was accompanied by a staff representative. Write concise minutes (170-220 words): purpose, payment (offer, request, figure agreed), termination date, other points, next steps.",
+   "brief_fr": "Vous représentiez la société au second entretien avec Olivier Roche, responsable commercial comptant quatorze ans d'ancienneté, en vue d'une rupture conventionnelle. Il était assisté d'un représentant du personnel. Rédigez un compte rendu concis (170 à 220 mots) : objet, indemnité (offre, demande, montant convenu), date de rupture, autres points, prochaines étapes.",
+   "gaps": [],
+   "outline": [
+    "Who was present and in what capacity",
+    "Purpose of the meeting and reminder that both parties are free to stop",
+    "The payment: offer, request, figure agreed",
+    "The termination date, subject to approval",
+    "Other points (non-compete, handover) and next steps with dates"
+   ],
+   "model": "Minutes of the meeting held on 14 May - proposed mutual termination\n\nPresent: Mr Olivier Roche (Employee), accompanied by Ms Nadia Benali (staff representative); Ms Claire Morel (HR consultant, for the Company).\n\n1. Purpose of the meeting\nMs Morel explained that the meeting was the second of two held to discuss a possible mutual termination, and reminded both parties that either was free to end the discussions at any time.\n\n2. Termination payment\nThe Company confirmed its offer of EUR 22,000 gross. Mr Roche said that he had hoped for EUR 30,000, in view of his fourteen years' service. After discussion, the parties agreed on a figure of EUR 26,000 gross.\n\n3. Termination date\nMr Roche asked to leave before the summer. It was agreed that the contract would end on 30 June, subject to approval by the labour authority.\n\n4. Other points\nThe Company agreed to release Mr Roche from his non-compete clause. Mr Roche undertook to complete the handover of his client files by 15 June.\n\n5. Next steps\nThe agreement will be signed on 16 May. The cooling-off period will then run for fifteen calendar days, after which the Company will submit the application for approval.\n\nThe meeting closed at 3.40 p.m.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "reminded both parties that either was free to end the discussions at any time",
+     "note_fr": "Mention utile : elle montre que le consentement est libre. Discours indirect, donc verbes au passé."
+    },
+    {
+     "quote": "in view of his fourteen years' service",
+     "note_fr": "'In view of' = compte tenu de. Notez l'apostrophe du génitif de durée : 'fourteen years' service'."
+    },
+    {
+     "quote": "After discussion, the parties agreed on a figure of EUR 26,000 gross.",
+     "note_fr": "Un compte rendu consigne le résultat, pas le détail des échanges. 'To agree on a figure' ; précisez toujours 'gross'."
+    },
+    {
+     "quote": "It was agreed that the contract would end on 30 June, subject to approval by the labour authority.",
+     "note_fr": "Passif impersonnel typique des comptes rendus ('It was agreed that'). 'Subject to' rappelle la condition suspensive."
+    },
+    {
+     "quote": "Mr Roche undertook to complete the handover",
+     "note_fr": "'To undertake to do something' = s'engager à faire quelque chose ; plus formel que 'promised'."
+    }
+   ],
+   "checklist": [
+    "Les présents et leur qualité sont-ils indiqués ?",
+    "Le compte rendu est-il au passé et à la troisième personne ?",
+    "Les montants sont-ils précisés en brut ?",
+    "Chaque décision est-elle distinguée de la discussion qui l'a précédée ?",
+    "Les prochaines étapes sont-elles datées ?"
+   ],
+   "phrasebank": [
+    "Present: ...",
+    "Ms Morel explained that ...",
+    "The Company confirmed its offer of ...",
+    "After discussion, the parties agreed on a figure of ...",
+    "It was agreed that ...",
+    "Mr Roche undertook to ...",
+    "subject to approval by the labour authority",
+    "The meeting closed at ..."
+   ]
+  },
+  {
+   "id": "wr-ex-5",
+   "title": "Confirming exit arrangements after approval",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "The labour authority has approved the mutual termination agreement signed with Ms Lambert, a finance manager with eleven years' service. Write the formal letter confirming the practical arrangements for her departure: termination date, final pay and its components, leaving documents, return of equipment, continued health cover, outplacement, and a closing word of thanks (220-280 words).",
+   "brief_fr": "L'administration a homologué la rupture conventionnelle signée avec Mme Lambert, responsable financière comptant onze ans d'ancienneté. Rédigez la lettre officielle confirmant les modalités pratiques de son départ : date de rupture, solde de tout compte et ses composantes, documents de fin de contrat, restitution du matériel, maintien de la mutuelle, outplacement, et remerciements (220 à 280 mots).",
+   "gaps": [],
+   "outline": [
+    "Confirm approval and the termination date",
+    "Final pay: salary, untaken holiday, termination payment",
+    "Leaving documents, including what signing the receipt means",
+    "Return of equipment and withdrawal of access",
+    "Health cover and outplacement",
+    "Thanks and good wishes"
+   ],
+   "model": "Dear Ms Lambert,\n\nTermination of your employment by mutual agreement\n\nI am pleased to confirm that the labour authority has approved the mutual termination agreement which we signed on 12 March. Your employment with Halden France SAS will therefore end on Friday 25 April, as agreed.\n\nYour final pay will be credited to your account on that date. It will comprise your salary up to and including 25 April, a payment in lieu of the nine days' holiday you have accrued but not taken, and the specific termination payment of EUR 31,000 gross provided for in the agreement.\n\nOn your last day, you will be given your certificate of employment, the form you will need in order to claim unemployment benefit and a receipt for final payment, which we will ask you to sign. Should you wish to query any of the figures, signing the receipt does not prevent you from doing so afterwards.\n\nI would be grateful if you could return your laptop, mobile phone and security pass to the IT desk by noon on 25 April. Your access to our systems will be withdrawn at close of business that day.\n\nYou will remain covered by the company health plan, free of charge, for as long as you receive unemployment benefit, up to the limit laid down by law. As agreed, you will also have access to six months' outplacement support; the provider will contact you directly.\n\nFinally, may I thank you on behalf of the Company for your contribution over the past eleven years, and wish you every success in the future.\n\nYours sincerely,\n\nClaire Morel\nHR Consultant, for and on behalf of Halden France SAS",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I am pleased to confirm that the labour authority has approved the mutual termination agreement",
+     "note_fr": "Ouverture classique d'une lettre porteuse d'une nouvelle attendue. 'Mutual termination agreement' et 'labour authority' rendent les notions françaises sans jargon."
+    },
+    {
+     "quote": "up to and including 25 April",
+     "note_fr": "'Up to and including' lève toute ambiguïté sur l'inclusion du dernier jour."
+    },
+    {
+     "quote": "Should you wish to query any of the figures, signing the receipt does not prevent you from doing so afterwards.",
+     "note_fr": "Inversion 'Should you wish' (registre soutenu). 'To query' = contester ou demander des précisions sur un chiffre. La phrase explique en clair la portée du reçu pour solde de tout compte."
+    },
+    {
+     "quote": "at close of business that day",
+     "note_fr": "'À la fermeture des bureaux' : expression figée, souvent abrégée COB dans les e-mails."
+    },
+    {
+     "quote": "for as long as you receive unemployment benefit, up to the limit laid down by law",
+     "note_fr": "Renvoyer à 'the limit laid down by law' évite de citer un chiffre susceptible de changer."
+    },
+    {
+     "quote": "may I thank you on behalf of the Company for your contribution",
+     "note_fr": "Formule de remerciement soutenue. 'On behalf of' = au nom de."
+    }
+   ],
+   "checklist": [
+    "L'objet de la lettre figure-t-il en titre après la formule d'appel ?",
+    "Chaque composante du solde de tout compte est-elle nommée ?",
+    "Ai-je expliqué les documents français en anglais clair plutôt que de les laisser en français ?",
+    "Les échéances pratiques (matériel, accès) sont-elles datées ?",
+    "La formule finale correspond-elle à la formule d'appel ('Dear Ms Lambert' / 'Yours sincerely') ?"
+   ],
+   "phrasebank": [
+    "I am pleased to confirm that ...",
+    "Your employment will therefore end on [date], as agreed.",
+    "Your final pay will comprise ...",
+    "a payment in lieu of the holiday you have accrued but not taken",
+    "I would be grateful if you could return ... by [date].",
+    "Your access to our systems will be withdrawn at close of business that day.",
+    "May I thank you on behalf of the Company for your contribution.",
+    "I wish you every success in the future."
+   ]
+  },
+  {
+   "id": "wr-ex-6",
+   "title": "Drafting the key clauses of a settlement agreement",
+   "stage": 3,
+   "kind": "contract clause",
+   "brief": "Your client wants an English version of a French settlement agreement (transaction) concluded with a former sales director after her dismissal. Draft three clauses: settlement payment and waiver of claims, confidentiality (with the usual exceptions), and non-disparagement (binding both sides, with a whistleblowing carve-out). British legal style, 200-260 words.",
+   "brief_fr": "Votre client souhaite une version anglaise d'une transaction conclue avec une ancienne directrice commerciale après son licenciement. Rédigez trois clauses : indemnité transactionnelle et renonciation à recours, confidentialité (avec les exceptions d'usage) et non-dénigrement (réciproque, avec réserve pour les signalements). Style juridique britannique, 200 à 260 mots.",
+   "gaps": [],
+   "outline": [
+    "Payment: amount, gross, in addition to sums already due, time limit",
+    "Waiver: full and final settlement, scope of the claims covered",
+    "No admission of liability",
+    "Confidentiality and its exceptions (spouse, advisers, authorities, legal requirement)",
+    "Non-disparagement on both sides",
+    "Carve-out: reporting wrongdoing, giving evidence"
+   ],
+   "model": "5. SETTLEMENT PAYMENT AND WAIVER\n\n5.1 In consideration of the undertakings given by the Employee in this agreement, the Company shall pay the Employee a settlement payment of EUR 40,000 gross, over and above the sums due to her on termination, within fifteen days of signature.\n\n5.2 The Employee accepts the settlement payment in full and final settlement of all claims, whether present or future, arising out of the performance or termination of her employment contract, and waives her right to bring any proceedings against the Company in that respect.\n\n5.3 This agreement is entered into without any admission of liability on the part of the Company.\n\n6. CONFIDENTIALITY\n\n6.1 Each party shall keep the existence and terms of this agreement confidential and shall not disclose them to any third party.\n\n6.2 Clause 6.1 shall not prevent disclosure to a party's spouse or professional advisers, or to the tax, social security and unemployment insurance authorities, nor any disclosure required by law.\n\n7. NON-DISPARAGEMENT\n\n7.1 The Employee shall not make any disparaging statement about the Company, its officers or its employees, and the Company shall use its best endeavours to ensure that its officers make no such statement about the Employee.\n\n7.2 Nothing in this agreement shall prevent the Employee from reporting wrongdoing to a competent authority or from giving evidence in any proceedings.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "In consideration of the undertakings given by the Employee",
+     "note_fr": "'In consideration of' = en contrepartie de. La 'consideration' est la contrepartie qui rend le contrat valable en common law ; ici, elle fait écho aux concessions réciproques du droit français."
+    },
+    {
+     "quote": "over and above the sums due to her on termination",
+     "note_fr": "Précision essentielle : l'indemnité transactionnelle s'ajoute aux sommes déjà dues, ce qui matérialise la concession de l'employeur."
+    },
+    {
+     "quote": "in full and final settlement of all claims, whether present or future",
+     "note_fr": "Doublet figé 'full and final'. 'Whether present or future' rend 'nés ou à naître'."
+    },
+    {
+     "quote": "without any admission of liability",
+     "note_fr": "Clause de style : payer n'est pas reconnaître une faute. 'Liability', pas 'responsibility'."
+    },
+    {
+     "quote": "shall use its best endeavours to ensure",
+     "note_fr": "Une société ne peut pas garantir le silence de chacun : elle promet de faire tout son possible. US : 'best efforts'."
+    },
+    {
+     "quote": "Nothing in this agreement shall prevent the Employee from reporting wrongdoing",
+     "note_fr": "Réserve indispensable : aucune clause ne peut interdire un signalement aux autorités. 'Nothing in this agreement shall...' est la formule d'exception classique."
+    }
+   ],
+   "checklist": [
+    "Ai-je utilisé 'shall' pour les obligations et numéroté chaque sous-clause ?",
+    "Le montant est-il indiqué en brut, avec son délai de paiement ?",
+    "La renonciation précise-t-elle son périmètre (exécution et rupture du contrat) ?",
+    "Les exceptions à la confidentialité sont-elles complètes ?",
+    "La clause de non-dénigrement lie-t-elle les deux parties ?",
+    "Ai-je prévu la réserve relative aux signalements ?"
+   ],
+   "phrasebank": [
+    "In consideration of the undertakings given by the Employee, ...",
+    "in full and final settlement of all claims",
+    "arising out of the performance or termination of the employment contract",
+    "without any admission of liability on the part of the Company",
+    "Each party shall keep the existence and terms of this agreement confidential.",
+    "Clause 6.1 shall not prevent disclosure to ...",
+    "shall use its best endeavours to ensure that ...",
+    "Nothing in this agreement shall prevent the Employee from ..."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-ex-1",
+   "title": "Not quite a settlement agreement",
+   "variety": "uk",
+   "context": "A call between Helen, HR Director of a British group, and Claire, a French HR consultant. Helen wants to agree an exit with the manager of the Nantes office and assumes it works as it does in the UK.",
+   "context_fr": "Appel entre Helen, DRH d'un groupe britannique, et Claire, consultante RH française. Helen souhaite négocier le départ du directeur du bureau de Nantes et pense que les choses se passent comme au Royaume-Uni.",
+   "lines": [
+    {
+     "speaker": "Helen",
+     "text": "Claire, thanks for making the time. It's about Julien in Nantes. Between you and me, it isn't working, and I'd like to have a protected conversation with him next week.",
+     "note_fr": "'Between you and me' = entre nous. 'Protected conversation' : notion britannique, sans équivalent français."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I see. I should say straight away that there's no such thing as a protected conversation in France, so anything you say to him could be quoted later.",
+     "note_fr": "'I should say straight away' : annonce franche mais polie d'une mauvaise nouvelle."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Ah. That's rather awkward. So how do people here broach the subject?",
+     "note_fr": "'Rather awkward' : understatement britannique pour 'très gênant'. 'To broach the subject' = aborder le sujet."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Carefully. You'd raise the possibility of a mutual termination, make it clear he's free to say no, and avoid anything that sounds like 'agree, or else'.",
+     "note_fr": "'Or else' = sinon... (menace sous-entendue)."
+    },
+    {
+     "speaker": "Helen",
+     "text": "And if he's interested, we send him a settlement agreement and pay for his solicitor?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not quite. It's a statutory procedure: at least one meeting, then you both sign a standard form, and each side has fifteen days to change its mind.",
+     "note_fr": "'Not quite' corrige en douceur. 'To change its mind' explique la rétractation sans jargon."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Fifteen days? And then it's done?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then it goes to the labour authority for approval, which takes roughly another three weeks. No news is good news: if they stay silent, it's approved.",
+     "note_fr": "'No news is good news' : façon imagée d'expliquer l'homologation tacite."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Goodness. So we're looking at six weeks at the very least. And does he waive his claims?",
+     "note_fr": "'We're looking at' = il faut compter. 'To waive' = renoncer à."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'm afraid not. A mutual termination isn't a waiver. In practice these agreements are very seldom challenged, as long as nobody was pressured into signing.",
+     "note_fr": "'Very seldom' = très rarement (soutenu)."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Right. And what would it cost us?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "There's a legal floor based on his length of service, and you can go above it. I'll work out the figure and send you a range by tomorrow.",
+     "note_fr": "'A legal floor' = un plancher légal. 'To work out' = calculer."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Perfect. Let's hold off on speaking to him until I've seen it.",
+     "note_fr": "'To hold off on' + -ing = attendre avant de."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does Claire advise against a 'protected conversation'?",
+     "options": [
+      "Because Julien would refuse to attend",
+      "Because the notion does not exist in French law",
+      "Because it is too expensive",
+      "Because the labour authority must be present"
+     ],
+     "answer": 1,
+     "explain_fr": "Notion propre au droit britannique : en France, les propos tenus pourraient être invoqués ensuite."
+    },
+    {
+     "q": "What happens once the fifteen days are over?",
+     "options": [
+      "The contract ends at once.",
+      "Julien receives his payment.",
+      "The parties sign a settlement.",
+      "The agreement is sent to the labour authority for approval."
+     ],
+     "answer": 3,
+     "explain_fr": "« Then it goes to the labour authority for approval » : c'est l'homologation."
+    },
+    {
+     "q": "What does Claire say about claims?",
+     "options": [
+      "A mutual termination does not include a waiver, but challenges are rare.",
+      "Julien waives all his claims by signing.",
+      "Claims are impossible after approval.",
+      "Julien must take legal advice first."
+     ],
+     "answer": 0,
+     "explain_fr": "« A mutual termination isn't a waiver » ; en pratique, les contestations sont rares si le consentement est libre."
+    }
+   ]
+  },
+  {
+   "id": "dl-ex-2",
+   "title": "An exit interview",
+   "variety": "uk",
+   "context": "Priya, an HR business partner in London, holds an exit interview with Daniel, a senior analyst who is leaving after six years.",
+   "context_fr": "Priya, HR business partner à Londres, mène l'entretien de départ de Daniel, analyste senior qui quitte l'entreprise après six ans.",
+   "lines": [
+    {
+     "speaker": "Priya",
+     "text": "Thanks for coming in, Daniel. This isn't a formal thing. I'd just like to understand what's behind your decision, and whatever you say stays in confidence.",
+     "note_fr": "'What's behind your decision' = ce qui motive votre décision. 'In confidence' = à titre confidentiel."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "That's fine. To be honest, I wasn't looking to leave. I was headhunted, and the offer was hard to turn down.",
+     "note_fr": "'To be headhunted' = être approché par un chasseur de têtes. 'To turn down' = refuser."
+    },
+    {
+     "speaker": "Priya",
+     "text": "I can imagine. Was it mainly the money, or something else?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Partly the money. But mostly I couldn't see where I'd be in two years' time. I'd asked about promotion twice and never got a straight answer.",
+     "note_fr": "'A straight answer' = une réponse franche."
+    },
+    {
+     "speaker": "Priya",
+     "text": "That's useful to hear, if a little uncomfortable. Is there anything we could have done that would have changed your mind?",
+     "note_fr": "'If a little uncomfortable' : concession élégante ('même si c'est un peu gênant')."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "A clear path, I suppose. When I handed in my notice, the counter-offer came within a day. It felt a bit late by then.",
+     "note_fr": "'Counter-offer' : ici, l'offre faite pour retenir un démissionnaire."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Point taken. And how's the handover going?",
+     "note_fr": "'Point taken' = c'est noté, je prends la remarque."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Pretty well. Amira's taking over my accounts, and I've written up notes on everything. There are just a few loose ends to tie up.",
+     "note_fr": "'To take over' = reprendre. 'To tie up loose ends' = régler les derniers détails."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Good. Your last day's the 28th, isn't it? You'll need to hand back your laptop and pass by then, and your final pay will include your untaken holiday.",
+     "note_fr": "Question tag ('isn't it?') pour vérifier une information."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Yes, the 28th. Could I ask about a reference?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Priya",
+     "text": "Of course. Officially we only confirm dates and job title, but I know your manager would be happy to speak to anyone who rings.",
+     "note_fr": "'To ring' (UK) = téléphoner ; US : 'to call'."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "That's kind. I've enjoyed it here, and I'd like to leave on good terms.",
+     "note_fr": "'To leave on good terms' = partir en bons termes."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What was Daniel's main reason for leaving?",
+     "options": [
+      "A conflict with his manager",
+      "The salary alone",
+      "The lack of a clear career path",
+      "The workload"
+     ],
+     "answer": 2,
+     "explain_fr": "« Mostly I couldn't see where I'd be in two years' time » : l'absence de perspectives."
+    },
+    {
+     "q": "What does Daniel say about the counter-offer?",
+     "options": [
+      "It came too late.",
+      "It was too low.",
+      "He never received one.",
+      "He is still considering it."
+     ],
+     "answer": 0,
+     "explain_fr": "« It felt a bit late by then » : understatement pour dire que c'était trop tard."
+    },
+    {
+     "q": "What is the company's official policy on references?",
+     "options": [
+      "It never gives any.",
+      "The manager writes a detailed letter.",
+      "HR writes an agreed reference.",
+      "It confirms dates and job title only."
+     ],
+     "answer": 3,
+     "explain_fr": "« Officially we only confirm dates and job title » : référence purement factuelle."
+    }
+   ]
+  },
+  {
+   "id": "dl-ex-3",
+   "title": "The release that isn't one",
+   "variety": "us",
+   "context": "A video call between Rachel, in-house counsel at a US software company, and Claire, a French HR consultant. The company has just dismissed its French sales director and Rachel wants him to sign a release.",
+   "context_fr": "Visioconférence entre Rachel, juriste d'une société américaine de logiciels, et Claire, consultante RH française. La société vient de licencier son directeur commercial France et Rachel veut lui faire signer une renonciation à recours.",
+   "lines": [
+    {
+     "speaker": "Rachel",
+     "text": "Hi Claire. So, the termination letter went out Monday. I'd like to get a release signed this week and close this out.",
+     "note_fr": "'Went out Monday' : l'américain omet souvent 'on'. 'To close something out' = clore un dossier."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Good timing, actually. In France you can only sign a settlement once the dismissal has been notified, so we're now free to talk.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Great. I'll send over our standard severance agreement and general release.",
+     "note_fr": "'To send over' = faire parvenir."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'd hold off on that. A French settlement has to show concessions on both sides. If he only gets what he's already owed, the waiver won't stand up in court.",
+     "note_fr": "'To stand up in court' = tenir devant un tribunal."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Meaning we have to pay him more than his statutory severance?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Exactly. Something on top, and it has to be more than a token amount. What's your exposure if he sues?",
+     "note_fr": "'A token amount' = une somme symbolique. 'Exposure' = risque financier."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Outside counsel says maybe eight months' salary, worst case.",
+     "note_fr": "'Outside counsel' = l'avocat externe. 'Worst case' = dans le pire des cas."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then an opening offer of three months leaves you room to maneuver. He'll come back with a higher number, and you'll probably end up meeting somewhere in the middle.",
+     "note_fr": "'To come back with' = répondre par (une contre-proposition)."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Okay. And do we need the twenty-one days to consider and the seven days to revoke?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "No, those are US rules. There's no cooling-off period for a settlement here. Once it's signed, it's final.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Rachel",
+     "text": "I like that. What about confidentiality and non-disparagement?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Both are fine, as long as they're mutual and he can still talk to his lawyer, the tax office and the unemployment agency.",
+     "note_fr": "'As long as' = à condition que."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Got it. Can you get me a draft by Thursday?",
+     "note_fr": "'Got it' = compris (familier, très courant aux États-Unis)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure. I'll send you a term sheet tomorrow so you can sign off on the number first.",
+     "note_fr": "'Term sheet' = résumé des points clés. 'To sign off on' = valider."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is this a good moment to negotiate, according to Claire?",
+     "options": [
+      "The dismissal has already been notified.",
+      "The employee has asked for a meeting.",
+      "The limitation period is about to expire.",
+      "The labor authority has given its approval."
+     ],
+     "answer": 0,
+     "explain_fr": "En droit français, la transaction ne peut être signée qu'après la notification du licenciement."
+    },
+    {
+     "q": "Why won't the standard US release work as it stands?",
+     "options": [
+      "It is written in English.",
+      "It lacks a confidentiality clause.",
+      "The company must give something beyond what is already owed.",
+      "It needs a twenty-one-day consideration period."
+     ],
+     "answer": 2,
+     "explain_fr": "La transaction suppose des concessions réciproques : l'employeur doit verser davantage que les sommes déjà dues."
+    },
+    {
+     "q": "What does Claire say about the US consideration and revocation periods?",
+     "options": [
+      "They apply in France too.",
+      "They are replaced by a fifteen-day period.",
+      "They apply only to executives.",
+      "They do not apply; a French settlement is final once signed."
+     ],
+     "answer": 3,
+     "explain_fr": "« There's no cooling-off period for a settlement here » : à ne pas confondre avec la rupture conventionnelle."
+    }
+   ]
+  },
+  {
+   "id": "dl-ex-4",
+   "title": "You can't just retire him",
+   "variety": "us",
+   "context": "A call between Mike, VP of Operations at a US manufacturer, and Claire, a French HR consultant. Mike would like the 64-year-old manager of the French plant to retire.",
+   "context_fr": "Appel entre Mike, vice-président des opérations d'un industriel américain, et Claire, consultante RH française. Mike voudrait que le directeur de l'usine française, âgé de 64 ans, parte à la retraite.",
+   "lines": [
+    {
+     "speaker": "Mike",
+     "text": "Claire, quick question. Bernard's sixty-four. Back home I couldn't touch this, but I'm told France has a retirement age. Can we just retire him?",
+     "note_fr": "'To retire someone' (transitif) = mettre quelqu'un à la retraite. 'I couldn't touch this' = je ne pourrais rien faire."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not at sixty-four, no. An employer can only impose retirement at seventy. Before that, it's his call.",
+     "note_fr": "'It's his call' = c'est à lui de décider."
+    },
+    {
+     "speaker": "Mike",
+     "text": "Seventy? Okay, so what are my options?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "First, find out what he wants. Do you know whether he qualifies for a full pension yet?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Mike",
+     "text": "No idea. Is that something I can ask him?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "You can ask about his plans, but tread carefully. If it sounds like you're pushing him out because of his age, that's discrimination.",
+     "note_fr": "'To tread carefully' = avancer avec précaution. 'To push someone out' = pousser vers la sortie."
+    },
+    {
+     "speaker": "Mike",
+     "text": "Understood. Say he's open to leaving. Then what?",
+     "note_fr": "'Say he's open to...' = supposons qu'il soit ouvert à..."
+    },
+    {
+     "speaker": "Claire",
+     "text": "If he retires of his own accord, he gets a retirement payment from the company, which is fairly modest. If you want him to go sooner, a mutual termination usually costs more, but he may find it more attractive.",
+     "note_fr": "'Of his own accord' = de son propre chef."
+    },
+    {
+     "speaker": "Mike",
+     "text": "Could he phase out? Maybe three days a week for a year while we bring in a successor?",
+     "note_fr": "'To phase out' = se retirer progressivement."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's worth exploring. France has a phased retirement arrangement where he works part-time and draws part of his pension.",
+     "note_fr": "'That's worth exploring' : accueille l'idée sans s'engager."
+    },
+    {
+     "speaker": "Mike",
+     "text": "I like that. It gives us a real transition.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Agreed. Let me check where he stands on his pension, and then I'd suggest you have an open conversation with him. No pressure, no deadlines.",
+     "note_fr": "'Where he stands' = où il en est."
+    }
+   ],
+   "questions": [
+    {
+     "q": "At what age can a French employer impose retirement without the employee's consent?",
+     "options": [
+      "Sixty-four",
+      "Sixty-seven",
+      "Seventy",
+      "Never"
+     ],
+     "answer": 2,
+     "explain_fr": "La mise à la retraite d'office n'est possible qu'à partir de 70 ans."
+    },
+    {
+     "q": "What risk does Claire point out?",
+     "options": [
+      "Bernard may resign.",
+      "Pressure linked to his age would be discrimination.",
+      "The pension fund may refuse.",
+      "The plant may go on strike."
+     ],
+     "answer": 1,
+     "explain_fr": "« If it sounds like you're pushing him out because of his age, that's discrimination. »"
+    },
+    {
+     "q": "Which option appeals most to Mike?",
+     "options": [
+      "A gradual move to part-time work before retirement",
+      "A dismissal",
+      "Waiting until Bernard is seventy",
+      "A settlement with a release"
+     ],
+     "answer": 0,
+     "explain_fr": "La retraite progressive (« phased retirement ») permet une vraie transition avec le successeur."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-ex-1",
+   "title": "Walking a British director through the procedure",
+   "situation": "You are advising Andrew, the British managing director of a French subsidiary. He has agreed in principle with an employee that she will leave under a mutual termination agreement, and he wants her gone by the end of next week. Explain the procedure and the timing.",
+   "situation_fr": "Vous conseillez Andrew, directeur général britannique d'une filiale française. Il s'est mis d'accord sur le principe d'une rupture conventionnelle avec une salariée et voudrait qu'elle soit partie à la fin de la semaine prochaine. Expliquez-lui la procédure et le calendrier.",
+   "turns": [
+    {
+     "say": "We've shaken hands on it, so can she finish next Friday?",
+     "seconds": 35,
+     "model": "I'm afraid not. A handshake isn't enough here: there's a set procedure, and the contract can't end until the labour authority has approved the agreement. Realistically, we're looking at five to six weeks from signature.",
+     "tips_fr": "Refusez nettement mais poliment ('I'm afraid not'), puis donnez tout de suite l'ordre de grandeur."
+    },
+    {
+     "say": "Six weeks! What on earth takes so long?",
+     "seconds": 40,
+     "model": "Two things. Once you've both signed, each side has fifteen calendar days to change its mind. After that, the agreement goes to the labour authority, which has about three weeks to review it. If they say nothing, it's approved.",
+     "tips_fr": "Annoncez le plan ('Two things'), puis une phrase par étape. 'To change its mind' vaut mieux que 'retractation'."
+    },
+    {
+     "say": "Can't we just backdate the paperwork to speed things up?",
+     "seconds": 30,
+     "model": "I'd strongly advise against that. If the dates are wrong, the authority can refuse approval, and a court could later treat the termination as an unfair dismissal. It simply isn't worth the risk.",
+     "tips_fr": "'I'd strongly advise against that' : ferme, sans faire la morale. Donnez la conséquence concrète."
+    },
+    {
+     "say": "All right. And what if she changes her mind halfway through?",
+     "seconds": 30,
+     "model": "Then the agreement falls away and her contract carries on as before. That's why I'd hold off on any announcement, and on recruiting her replacement, until approval has come through.",
+     "tips_fr": "'To fall away' = devenir caduc. Terminez par un conseil pratique."
+    },
+    {
+     "say": "Fine. What do you need from me this week?",
+     "seconds": 30,
+     "model": "Three things: her exact start date, her last twelve months' payslips so that I can work out the minimum payment, and a date for the signing meeting. I'll then send you the draft form and a timeline.",
+     "tips_fr": "Liste courte et chiffrée. 'To work out' = calculer."
+    }
+   ]
+  },
+  {
+   "id": "rp-ex-2",
+   "title": "A negotiation meeting with the employee",
+   "situation": "You represent the employer at a meeting with Marc, a logistics manager with nine years' service, to discuss a mutual termination agreement. Your mandate: the statutory minimum plus up to three months' salary. Answer his questions honestly and move towards an agreement.",
+   "situation_fr": "Vous représentez l'employeur lors d'un entretien avec Marc, responsable logistique comptant neuf ans d'ancienneté, en vue d'une rupture conventionnelle. Votre mandat : le minimum légal, plus trois mois de salaire au maximum. Répondez franchement à ses questions et progressez vers un accord.",
+   "turns": [
+    {
+     "say": "Before we start: am I being pushed out? Because that's what it feels like.",
+     "seconds": 35,
+     "model": "I understand why you'd ask, and I'd rather be straightforward with you. Nobody can force you to sign anything. This is a discussion, and if we don't reach an agreement, your contract simply continues.",
+     "tips_fr": "Accueillez l'inquiétude, puis rassurez sur la liberté du consentement, qui est aussi une exigence juridique."
+    },
+    {
+     "say": "So what's on the table?",
+     "seconds": 30,
+     "model": "The company is offering the statutory minimum plus one month's salary on top. You'd leave at the end of June, which gives you time to hand over properly.",
+     "tips_fr": "Commencez sous votre plafond. 'On top' = en plus. Donnez la date en même temps que le montant."
+    },
+    {
+     "say": "One month? After nine years? I was thinking of six.",
+     "seconds": 40,
+     "model": "I hear you, and I know nine years counts for something. Six is beyond what I'm able to offer, I'm afraid, but there is some room for manoeuvre. Could we meet halfway, say, at three months?",
+     "tips_fr": "Reconnaissez l'ancienneté, fermez la porte à six mois, puis ouvrez : 'Could we meet halfway?'"
+    },
+    {
+     "say": "And will I get unemployment benefit? That's what really worries me.",
+     "seconds": 35,
+     "model": "Yes, you will. A mutual termination gives you the same entitlement as a dismissal. One thing to be aware of: the part of the payment above the legal minimum delays the date your benefit starts, so do check the figures with the unemployment agency.",
+     "tips_fr": "Réponse nette d'abord, réserve ensuite ('One thing to be aware of'). Ne promettez aucun chiffre."
+    },
+    {
+     "say": "Okay. I'd like to think about it and talk to my wife.",
+     "seconds": 30,
+     "model": "Of course. Take the time you need; there's no pressure to decide today. Shall we meet again on Thursday? And remember that even after signing, you'd have fifteen days to change your mind.",
+     "tips_fr": "Laissez du temps : c'est élégant et juridiquement prudent. Proposez une date précise."
+    }
+   ]
+  },
+  {
+   "id": "rp-ex-3",
+   "title": "Explaining prise d'acte to an American general counsel",
+   "situation": "Sarah, general counsel of a US group, calls you. An employee of the French subsidiary has just sent a letter saying she is terminating her contract with immediate effect because her bonuses have gone unpaid for a year. Sarah thinks she has simply resigned. Explain what has happened and what to do.",
+   "situation_fr": "Sarah, directrice juridique d'un groupe américain, vous appelle. Une salariée de la filiale française vient d'écrire qu'elle rompt son contrat avec effet immédiat parce que ses primes sont impayées depuis un an. Sarah pense qu'il s'agit d'une simple démission. Expliquez la situation et la marche à suivre.",
+   "turns": [
+    {
+     "say": "So she quit. That's good news, isn't it? No severance.",
+     "seconds": 35,
+     "model": "Not exactly. She hasn't simply resigned: she's ended the contract and blamed the company for it. In France that's a specific mechanism, and a court will decide whether it counts as a resignation or as a dismissal.",
+     "tips_fr": "'Not exactly' corrige sans brusquer. Expliquez le mécanisme avant de donner son nom français."
+    },
+    {
+     "say": "That sounds like constructive discharge.",
+     "seconds": 30,
+     "model": "It's the closest equivalent, yes. The difference is the outcome: if the court finds the breaches serious enough, the termination takes effect as an unfair dismissal, with compensation. If not, it's treated as a resignation, and she may even owe us her notice.",
+     "tips_fr": "Validez la comparaison, puis précisez la différence. Structure 'If... If not...' très claire à l'oral."
+    },
+    {
+     "say": "And are unpaid bonuses serious enough?",
+     "seconds": 35,
+     "model": "Quite possibly. Pay is at the heart of the contract, so failing to pay a contractual bonus for a year is the kind of breach courts take seriously. It depends on whether the bonus was actually due, so I need to see her contract and the bonus plan.",
+     "tips_fr": "'Quite possibly' : prudence d'expert. Dites ce dont dépend la réponse et ce qu'il vous faut."
+    },
+    {
+     "say": "Can we just ask her to come back and fix it?",
+     "seconds": 30,
+     "model": "Unfortunately not. Once she's sent that letter, the contract is over and she can't take it back. What you can do is issue her leaving documents promptly and then consider whether to settle before this reaches court.",
+     "tips_fr": "'Unfortunately not' puis 'What you can do is...' : fermez une porte, ouvrez-en une autre."
+    },
+    {
+     "say": "What would a settlement look like?",
+     "seconds": 35,
+     "model": "You'd pay the outstanding bonuses plus an amount reflecting your litigation risk, and she'd waive her claims in full and final settlement. I can give you a range once I've assessed the exposure.",
+     "tips_fr": "Vocabulaire clé : 'outstanding', 'litigation risk', 'waive her claims', 'exposure'."
+    }
+   ]
+  },
+  {
+   "id": "rp-ex-4",
+   "title": "Handling a resignation and an early release",
+   "situation": "Léa, a key account manager, tells you she is resigning to join a competitor and wants to leave in two weeks instead of working her three months' notice. You are the HR consultant acting for her employer. Respond to her, protect the company's interests and keep the relationship cordial.",
+   "situation_fr": "Léa, responsable grands comptes, vous annonce qu'elle démissionne pour rejoindre un concurrent et souhaite partir dans deux semaines au lieu d'effectuer ses trois mois de préavis. Vous êtes le consultant RH de son employeur. Répondez-lui, préservez les intérêts de l'entreprise et gardez une relation cordiale.",
+   "turns": [
+    {
+     "say": "I wanted to tell you in person: I'm resigning. I've accepted another offer.",
+     "seconds": 30,
+     "model": "Thank you for telling me face to face; I appreciate it. I'm sorry to see you go. Could you confirm it in writing today, so that we're clear about when your notice starts?",
+     "tips_fr": "Remerciez, exprimez un regret sobre, puis demandez l'écrit qui fait courir le préavis."
+    },
+    {
+     "say": "I'd like to leave in two weeks. My new employer wants me to start as soon as possible.",
+     "seconds": 40,
+     "model": "I understand, but your contract provides for three months' notice, and we're not obliged to shorten it. That said, I'm happy to raise it with your manager. It would help if you could tell me what a realistic handover would look like.",
+     "tips_fr": "Rappelez la règle sans raideur, puis 'That said' pour ouvrir. Demandez une contrepartie concrète : la passation."
+    },
+    {
+     "say": "I could hand everything over to Hugo in a month, I suppose.",
+     "seconds": 30,
+     "model": "A month sounds more workable. If you can bring Hugo up to speed and introduce him to your main clients, I think we could agree to release you at that point. I'll confirm once I've spoken to your manager.",
+     "tips_fr": "'More workable' = plus réaliste. Engagement conditionnel : 'If you can..., I think we could...'"
+    },
+    {
+     "say": "And my non-compete? The new company is a competitor.",
+     "seconds": 40,
+     "model": "I'm glad you've raised it. The clause remains in force unless the company decides to waive it, and that decision isn't mine to make. I'd suggest you don't sign anything with your new employer on that point until you've heard from us in writing.",
+     "tips_fr": "Ne tranchez pas ce qui ne relève pas de vous : 'that decision isn't mine to make'. Conseil prudent pour finir."
+    },
+    {
+     "say": "Fair enough. Will I get my bonus for this year?",
+     "seconds": 30,
+     "model": "It depends on the plan rules, which usually require you to be employed on the payment date. Let me check and come back to you by Friday, along with the details of your final pay.",
+     "tips_fr": "'It depends on...' puis un engagement daté : 'come back to you by Friday'."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Raising the possibility of an exit",
+   "function_fr": "Évoquer l'éventualité d'un départ",
+   "phrases": [
+    {
+     "text": "I'd like to have an open conversation about where things stand, and where they might go.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The Company would be prepared to explore a mutually agreed termination, should that be of interest to you.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Have you given any thought to what you'd like to do next?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Would you be open to a without prejudice conversation?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "I want to stress that nothing has been decided and that you are entirely free to say no.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Can we talk off the record for a minute?",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "One option, and it is only an option, would be to part ways by agreement.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'd like to put something to you, and I'd ask you to take your time before answering.",
+     "register": "everyday",
+     "variety": "uk"
+    }
+   ]
+  },
+  {
+   "function": "Making, improving and declining an offer",
+   "function_fr": "Faire, améliorer et décliner une offre",
+   "phrases": [
+    {
+     "text": "The Company is prepared to offer the statutory minimum plus three months' salary.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "That's some way short of what my client had in mind.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "We're pretty far apart on the number.",
+     "register": "informal",
+     "variety": "us"
+    },
+    {
+     "text": "There is some room for manoeuvre on the date, rather less on the amount.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "If you could move on the leaving date, we might be able to improve the figure.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Could we meet halfway?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'm afraid that is our best and final offer.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Let me take that back to my client and come back to you.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Setting out timing and conditions",
+   "function_fr": "Exposer le calendrier et les conditions",
+   "phrases": [
+    {
+     "text": "Nothing is final until the labour authority has approved the agreement.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Each side then has fifteen calendar days in which to change its mind.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The offer remains open until close of business on Friday.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Realistically, we're looking at six weeks from signature.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "This is all subject to board approval, of course.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Payment will be made within fifteen days of signature, provided the equipment has been returned.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Let's pencil in the 30th as her last day and firm it up once approval comes through.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "To be on the safe side, I'd build in an extra week.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  }
+ ]
+}

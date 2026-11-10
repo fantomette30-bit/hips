@@ -1,0 +1,3819 @@
+[
+ {
+  "id": "hs-001",
+  "level": 1,
+  "fr": "santé et sécurité au travail",
+  "term": {
+   "uk": "health and safety at work",
+   "us": "workplace safety and health"
+  },
+  "ipa": {
+   "uk": "/ˌhelθ ən ˈseɪfti ət ˈwɜːk/",
+   "us": "/ˌwɜːrkpleɪs ˈseɪfti ən ˈhelθ/"
+  },
+  "def": "The rules, measures and practices that protect people from being injured or made ill by their work.",
+  "registers": {
+   "formal": {
+    "uk": "occupational health and safety",
+    "us": "occupational safety and health",
+    "ex": "The Company attaches the utmost importance to [[occupational health and safety]] at all of its sites.",
+    "ex_us": "The Company attaches the utmost importance to [[occupational safety and health]] at all of its sites."
+   },
+   "everyday": {
+    "uk": "health and safety",
+    "us": "safety",
+    "ex": "Who looks after [[health and safety]] on the Lyon site?",
+    "ex_us": "Who handles [[safety]] at the Lyon site?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a health and safety policy",
+   "health and safety regulations",
+   "to take health and safety seriously",
+   "on health and safety grounds"
+  ],
+  "note_fr": "L'ordre des mots s'inverse : « health and safety » au Royaume-Uni, « safety and health » dans les textes américains (d'où OSHA). « Security » désigne la sûreté (vols, intrusions), jamais la sécurité au travail : « safety ». On dit « at work », pas « at the work ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-002",
+  "level": 3,
+  "fr": "obligation de sécurité (de l'employeur)",
+  "term": {
+   "uk": "employer's safety duty",
+   "us": "employer's safety duty"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪəz ˈseɪfti ˌdjuːti/",
+   "us": "/ɪmˈplɔɪərz ˈseɪfti ˌduːti/"
+  },
+  "def": "The employer's legal duty to take the measures needed to keep employees safe and to protect their physical and mental health.",
+  "registers": {
+   "formal": {
+    "uk": "duty to ensure the health and safety of employees",
+    "us": "duty to ensure the health and safety of employees",
+    "ex": "The employer is under a [[duty to ensure the health and safety of employees]] in every aspect of their work."
+   },
+   "everyday": {
+    "uk": "duty of care",
+    "us": "duty of care",
+    "ex": "We have a [[duty of care]] towards him, so we can't simply ignore what the doctor said.",
+    "ex_us": "We have a [[duty of care]] toward him, so we can't just ignore what the doctor said."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to owe a duty of care to someone",
+   "to be in breach of one's safety duty",
+   "to discharge a duty"
+  ],
+  "note_fr": "« Duty of care » est une notion de common law (devoir de prudence), commode à l'oral mais moins exigeante que l'obligation de sécurité française, qui porte aussi sur la santé mentale et que l'employeur ne satisfait qu'en prouvant avoir pris toutes les mesures de prévention nécessaires. Ne traduisez pas par « security obligation ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law, the employer owes its employees a safety duty (obligation de sécurité): it must take all necessary measures to prevent risks and to protect their physical and mental health, and it bears the burden of proving that it has done so.",
+   "spoken": "In France the employer has a very strict duty to keep people safe, and that includes their mental health. If something goes wrong, it's for the employer to show it did everything it should have."
+  }
+ },
+ {
+  "id": "hs-003",
+  "level": 1,
+  "fr": "danger (source de risque)",
+  "term": {
+   "uk": "hazard",
+   "us": "hazard"
+  },
+  "ipa": {
+   "uk": "/ˈhæzəd/",
+   "us": "/ˈhæzərd/"
+  },
+  "def": "Something that has the potential to cause harm, such as a wet floor, a chemical or an unguarded machine.",
+  "registers": {
+   "formal": {
+    "uk": "hazard",
+    "us": "hazard",
+    "ex": "All employees are required to report any [[hazard]] they identify to their line manager without delay.",
+    "ex_us": "All employees are required to report any [[hazard]] they identify to their supervisor without delay."
+   },
+   "everyday": {
+    "uk": "hazard",
+    "us": "hazard",
+    "ex": "Those boxes in the corridor are a real trip [[hazard]].",
+    "ex_us": "Those boxes in the hallway are a real trip [[hazard]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a fire hazard",
+   "a trip hazard",
+   "to identify hazards",
+   "to remove a hazard"
+  ],
+  "note_fr": "Distinguez « hazard » (la source de danger) et « risk » (la probabilité qu'elle cause un dommage, et sa gravité). « Danger » existe mais s'emploie surtout dans « in danger », « serious and imminent danger » ou sur les panneaux. « Hazardous » = dangereux (produit, travail).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-004",
+  "level": 1,
+  "fr": "évaluation des risques",
+  "term": {
+   "uk": "risk assessment",
+   "us": "risk assessment"
+  },
+  "ipa": {
+   "uk": "/ˈrɪsk əˌsesmənt/",
+   "us": "/ˈrɪsk əˌsesmənt/"
+  },
+  "def": "A systematic examination of what could cause harm at work and of the measures needed to prevent it.",
+  "registers": {
+   "formal": {
+    "uk": "risk assessment",
+    "us": "hazard assessment",
+    "ex": "A suitable and sufficient [[risk assessment]] shall be carried out before any new equipment is brought into service.",
+    "ex_us": "A written [[hazard assessment]] shall be completed before any new equipment is placed in service."
+   },
+   "everyday": {
+    "uk": "risk assessment",
+    "us": "risk assessment",
+    "ex": "Has anyone done a [[risk assessment]] for the new night shift?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out a risk assessment",
+   "to review a risk assessment",
+   "to assess the risks",
+   "a job hazard analysis (US)"
+  ],
+  "note_fr": "On dit « to carry out / to do a risk assessment », jamais « to make ». « Evaluation » est possible mais « assessment » est le terme consacré. Aux États-Unis, on rencontre aussi « hazard assessment » et « job hazard analysis » (JHA) pour l'analyse poste par poste.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-005",
+  "level": 3,
+  "fr": "DUERP (document unique d'évaluation des risques professionnels)",
+  "term": {
+   "uk": "single risk assessment document",
+   "us": "single risk assessment document"
+  },
+  "ipa": {
+   "uk": "/ˈsɪŋɡ(ə)l ˈrɪsk əˌsesmənt ˌdɒkjumənt/",
+   "us": "/ˈsɪŋɡ(ə)l ˈrɪsk əˌsesmənt ˌdɑːkjəmənt/"
+  },
+  "def": "The document in which every French employer must record the results of its assessment of workplace risks, and which it must keep up to date.",
+  "registers": {
+   "formal": {
+    "uk": "single occupational risk assessment document",
+    "us": "single occupational risk assessment document",
+    "ex": "The [[single occupational risk assessment document]] must be updated whenever a significant change affects working conditions."
+   },
+   "everyday": {
+    "uk": "risk register",
+    "us": "risk register",
+    "ex": "The inspector will ask to see the [[risk register]] first, so let's make sure it's up to date."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep the document up to date",
+   "to record the findings of a risk assessment",
+   "to make the document available to employees"
+  ],
+  "note_fr": "N'employez pas le sigle seul face à un interlocuteur étranger : glosez-le. Au Royaume-Uni, l'employeur doit consigner par écrit les « significant findings » de son évaluation à partir d'un certain effectif ; aux États-Unis, il n'existe pas de document unique général comparable. « Risk register » est une approximation orale commode, non un terme juridique.",
+  "french_concept": true,
+  "explain": {
+   "written": "The DUERP (document unique d'évaluation des risques professionnels) is the single document in which every employer in France is required to record its assessment of the risks to which employees are exposed, and which it must keep up to date.",
+   "spoken": "It's a mandatory written risk assessment. Every employer in France has to have one, whatever its size, and it's the first thing an inspector asks for."
+  }
+ },
+ {
+  "id": "hs-006",
+  "level": 2,
+  "fr": "mesures de prévention",
+  "term": {
+   "uk": "preventive measures",
+   "us": "preventive measures"
+  },
+  "ipa": {
+   "uk": "/prɪˈventɪv ˈmeʒəz/",
+   "us": "/prɪˈventɪv ˈmeʒərz/"
+  },
+  "def": "Actions taken to stop accidents or ill health from happening, or to reduce the risk of them.",
+  "registers": {
+   "formal": {
+    "uk": "control measures",
+    "us": "hazard controls",
+    "ex": "The assessment shall specify the [[control measures]] required to reduce each risk to an acceptable level.",
+    "ex_us": "The assessment shall specify the [[hazard controls]] required to reduce each risk to an acceptable level."
+   },
+   "everyday": {
+    "uk": "precautions",
+    "us": "precautions",
+    "ex": "We've taken every sensible [[precaution]], but I'd still like someone to check the scaffolding."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to put control measures in place",
+   "to take precautions",
+   "to eliminate a risk at source",
+   "the hierarchy of controls"
+  ],
+  "note_fr": "« Preventive » est plus courant que « preventative » (les deux existent). En vocabulaire technique britannique, « control measures » ; américain, « controls ». « Prevention measures » est un calque acceptable mais moins idiomatique. Prévenir un risque : « to prevent », jamais « to prevent of ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-007",
+  "level": 1,
+  "fr": "accident du travail",
+  "term": {
+   "uk": "workplace accident",
+   "us": "workplace accident"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkpleɪs ˌæksɪdənt/",
+   "us": "/ˈwɜːrkpleɪs ˌæksɪdənt/"
+  },
+  "def": "An accident that happens to an employee in the course of, or because of, their work.",
+  "registers": {
+   "formal": {
+    "uk": "accident at work",
+    "us": "work-related injury",
+    "ex": "Any [[accident at work]], however minor, must be recorded on the day on which it occurs.",
+    "ex_us": "Any [[work-related injury]], however minor, must be recorded on the day on which it occurs."
+   },
+   "everyday": {
+    "uk": "accident at work",
+    "us": "on-the-job injury",
+    "ex": "He's been off for three weeks following an [[accident at work]].",
+    "ex_us": "He's been out for three weeks with an [[on-the-job injury]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have an accident at work",
+   "an industrial accident",
+   "to be injured in the course of one's employment",
+   "an accident arising out of work"
+  ],
+  "note_fr": "« Work accident » se comprend mais sonne traduit ; préférez « accident at work » (UK) ou « workplace accident ». L'américain raisonne en « injury » plutôt qu'en « accident ». En France, la présomption d'imputabilité (l'accident survenu au temps et au lieu du travail est présumé professionnel) n'a pas d'équivalent exact en common law : expliquez-la.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-008",
+  "level": 2,
+  "fr": "accident de trajet",
+  "term": {
+   "uk": "commuting accident",
+   "us": "commuting accident"
+  },
+  "ipa": {
+   "uk": "/kəˈmjuːtɪŋ ˌæksɪdənt/",
+   "us": "/kəˈmjuːtɪŋ ˌæksɪdənt/"
+  },
+  "def": "An accident that happens to an employee on the normal journey between home and work.",
+  "registers": {
+   "formal": {
+    "uk": "commuting accident",
+    "us": "commuting accident",
+    "ex": "A [[commuting accident]] is covered by the French social security system on terms similar to those applying to a workplace accident."
+   },
+   "everyday": {
+    "uk": "accident on the way to work",
+    "us": "accident on the way to work",
+    "ex": "She had an [[accident on the way to work]], and in France that's treated very much like an accident at work."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on the way to or from work",
+   "one's commute",
+   "the journey between home and work"
+  ],
+  "note_fr": "Notion à expliquer : au Royaume-Uni comme aux États-Unis, le trajet domicile-travail n'est en principe pas considéré comme du travail (aux États-Unis, la « going and coming rule » exclut généralement ces accidents du workers' compensation). « Trajet » = « commute » ou « journey to work », pas « travel accident ».",
+  "french_concept": true,
+  "explain": {
+   "written": "A commuting accident (accident de trajet) is an accident occurring on the employee's normal journey between home and the workplace; in France it is covered by the social security system in much the same way as a workplace accident, although the protection against dismissal is not the same.",
+   "spoken": "In France, if you're hurt on your way to or from work, social security treats it more or less like an accident at work. That usually surprises British and American clients."
+  }
+ },
+ {
+  "id": "hs-009",
+  "level": 1,
+  "fr": "maladie professionnelle",
+  "term": {
+   "uk": "occupational disease",
+   "us": "occupational illness"
+  },
+  "ipa": {
+   "uk": "/ˌɒkjuˈpeɪʃ(ə)nəl dɪˈziːz/",
+   "us": "/ˌɑːkjəˈpeɪʃ(ə)nəl ˈɪlnəs/"
+  },
+  "def": "An illness caused by a person's work or working conditions, usually through exposure over time.",
+  "registers": {
+   "formal": {
+    "uk": "occupational disease",
+    "us": "occupational illness",
+    "ex": "The claimant's condition has been recognised as an [[occupational disease]].",
+    "ex_us": "The claimant's condition has been recognized as an [[occupational illness]]."
+   },
+   "everyday": {
+    "uk": "work-related illness",
+    "us": "work-related illness",
+    "ex": "Back problems are by far the most common [[work-related illness]] in the warehouse."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to contract an occupational disease",
+   "work-related ill health",
+   "an industrial disease (UK)",
+   "to be caused by exposure to"
+  ],
+  "note_fr": "« Professional disease » est un calque : « professional » renvoie aux professions libérales ou au sérieux, pas au travail en général. Le système français des tableaux de maladies professionnelles, avec présomption d'origine, n'a pas d'équivalent direct ; au Royaume-Uni, on parle de « prescribed diseases » pour certaines prestations.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-010",
+  "level": 1,
+  "fr": "blessure / lésion",
+  "term": {
+   "uk": "injury",
+   "us": "injury"
+  },
+  "ipa": {
+   "uk": "/ˈɪndʒəri/",
+   "us": "/ˈɪndʒəri/"
+  },
+  "def": "Physical harm done to a person's body, for example in an accident.",
+  "registers": {
+   "formal": {
+    "uk": "injury",
+    "us": "injury",
+    "ex": "The employee sustained an [[injury]] to his left hand while operating the press."
+   },
+   "everyday": {
+    "uk": "injury",
+    "us": "injury",
+    "ex": "It's a nasty [[injury]], and she won't be driving for a while."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sustain an injury",
+   "a minor injury",
+   "a back injury",
+   "personal injury"
+  ],
+  "note_fr": "« Wound » ne s'emploie que pour une plaie (coupure, arme) ; la blessure accidentelle est « injury ». Faux ami : « to injure » = blesser, alors qu'injurier se dit « to insult ». « Lesion » est un terme strictement médical. Dommage corporel : « personal injury ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-011",
+  "level": 1,
+  "fr": "se blesser",
+  "term": {
+   "uk": "to be injured",
+   "us": "to be injured"
+  },
+  "ipa": {
+   "uk": "/bi ˈɪndʒəd/",
+   "us": "/bi ˈɪndʒərd/"
+  },
+  "def": "To suffer physical harm, especially in an accident.",
+  "registers": {
+   "formal": {
+    "uk": "to sustain an injury",
+    "us": "to sustain an injury",
+    "ex": "Any employee who [[sustains an injury]] at work must inform his or her manager immediately."
+   },
+   "everyday": {
+    "uk": "to get hurt",
+    "us": "to get hurt",
+    "ex": "Somebody is going to [[get hurt]] if we don't fix that step."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be seriously injured",
+   "to hurt one's back",
+   "to injure oneself",
+   "to be hurt in a fall"
+  ],
+  "note_fr": "On dit « he hurt his back » ou « he injured his back », pas « he hurt himself the back ». « To get injured » et « to get hurt » sont naturels à l'oral ; « to sustain / suffer an injury » appartient à l'écrit. « Hurt » sert aussi pour la douleur : « my back hurts ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-012",
+  "level": 1,
+  "fr": "presqu'accident",
+  "term": {
+   "uk": "near miss",
+   "us": "near miss"
+  },
+  "ipa": {
+   "uk": "/ˌnɪə ˈmɪs/",
+   "us": "/ˌnɪr ˈmɪs/"
+  },
+  "def": "An unplanned event that did not cause injury or damage but could easily have done so.",
+  "registers": {
+   "formal": {
+    "uk": "near miss",
+    "us": "near miss",
+    "ex": "Every [[near miss]] shall be reported and investigated in the same way as an accident."
+   },
+   "everyday": {
+    "uk": "near miss",
+    "us": "close call",
+    "ex": "We had a [[near miss]] on the loading bay this morning: a pallet came down a metre from the driver.",
+    "ex_us": "We had a [[close call]] on the loading dock this morning: a pallet came down three feet from the driver."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to report a near miss",
+   "a near-miss report",
+   "to learn from near misses"
+  ],
+  "note_fr": "Paradoxe apparent : « near miss » désigne bien l'accident évité de justesse, pas un accident « presque manqué ». N'essayez pas « almost accident ». « Close call » et « close shave » sont les équivalents familiers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-013",
+  "level": 1,
+  "fr": "signaler un incident",
+  "term": {
+   "uk": "to report an incident",
+   "us": "to report an incident"
+  },
+  "ipa": {
+   "uk": "/rɪˈpɔːt ən ˈɪnsɪdənt/",
+   "us": "/rɪˈpɔːrt ən ˈɪnsɪdənt/"
+  },
+  "def": "To tell the employer, formally, that something unsafe or harmful has happened.",
+  "registers": {
+   "formal": {
+    "uk": "to report an incident",
+    "us": "to report an incident",
+    "ex": "Employees must [[report any incident]] to their line manager before the end of the shift.",
+    "ex_us": "Employees must [[report any incident]] to their supervisor before the end of the shift."
+   },
+   "everyday": {
+    "uk": "to flag",
+    "us": "to flag",
+    "ex": "Thanks for [[flagging]] it. I'll get maintenance to take a look today."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an incident report",
+   "to fill in an incident report form (UK) / to fill out (US)",
+   "to log an incident",
+   "incident reporting"
+  ],
+  "note_fr": "« To report » se construit sans préposition devant la chose signalée et avec « to » devant la personne : « report it to your manager ». « To signal » ne convient pas. « To declare » est réservé aux déclarations officielles (douane, revenus). Rappel : « to report to someone » peut aussi vouloir dire lui être rattaché.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-014",
+  "level": 3,
+  "fr": "accident à déclaration obligatoire (aux autorités)",
+  "term": {
+   "uk": "reportable incident",
+   "us": "recordable injury"
+  },
+  "ipa": {
+   "uk": "/rɪˈpɔːtəb(ə)l ˈɪnsɪdənt/",
+   "us": "/rɪˈkɔːrdəb(ə)l ˈɪndʒəri/"
+  },
+  "def": "An accident, illness or dangerous event serious enough that the law requires the employer to report it to, or record it for, the safety authorities.",
+  "registers": {
+   "formal": {
+    "uk": "reportable incident",
+    "us": "recordable injury",
+    "ex": "A fracture sustained at work is a [[reportable incident]] and must be notified to the enforcing authority.",
+    "ex_us": "A fracture sustained at work is a [[recordable injury]] and must be entered on the injury and illness log."
+   },
+   "everyday": {
+    "uk": "reportable",
+    "us": "recordable",
+    "ex": "Is this one [[reportable]], or do we just put it in the accident book?",
+    "ex_us": "Is this one [[recordable]], or is it just first aid?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to notify the enforcing authority",
+   "a dangerous occurrence (UK)",
+   "to report an injury to the HSE (UK)",
+   "to record a case on the log (US)"
+  ],
+  "note_fr": "Les logiques diffèrent. Au Royaume-Uni, certains accidents, maladies et « dangerous occurrences » doivent être déclarés à l'autorité (HSE). Aux États-Unis, on distingue « recordable » (à inscrire au registre de l'employeur) et « reportable » (les cas les plus graves, à signaler à OSHA dans des délais très courts). En France, tout accident du travail est déclaré à la caisse d'assurance maladie.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-015",
+  "level": 2,
+  "fr": "registre des accidents",
+  "term": {
+   "uk": "accident book",
+   "us": "injury and illness log"
+  },
+  "ipa": {
+   "uk": "/ˈæksɪdənt bʊk/",
+   "us": "/ˈɪndʒəri ən ˈɪlnəs lɔːɡ/"
+  },
+  "def": "The record in which an employer writes down the accidents and injuries that happen at work.",
+  "registers": {
+   "formal": {
+    "uk": "accident book",
+    "us": "injury and illness log",
+    "ex": "Details of the incident were entered in the [[accident book]] on the same day.",
+    "ex_us": "Details of the incident were entered on the [[injury and illness log]] the same day."
+   },
+   "everyday": {
+    "uk": "accident book",
+    "us": "injury log",
+    "ex": "Did anyone put it in the [[accident book]]?",
+    "ex_us": "Did anyone put it on the [[injury log]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to enter an accident in the book",
+   "to keep a record of accidents",
+   "to log an injury"
+  ],
+  "note_fr": "En France, le « registre des accidents du travail bénins » permet de consigner les accidents sans arrêt ni soins médicaux importants au lieu de les déclarer un par un. « Register » existe (« a register of accidents ») mais « accident book » est le terme britannique courant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-016",
+  "level": 2,
+  "fr": "enquête après accident",
+  "term": {
+   "uk": "accident investigation",
+   "us": "accident investigation"
+  },
+  "ipa": {
+   "uk": "/ˈæksɪdənt ɪnˌvestɪˈɡeɪʃ(ə)n/",
+   "us": "/ˈæksɪdənt ɪnˌvestɪˈɡeɪʃ(ə)n/"
+  },
+  "def": "The process of finding out how and why an accident happened so that it does not happen again.",
+  "registers": {
+   "formal": {
+    "uk": "accident investigation",
+    "us": "accident investigation",
+    "ex": "The findings of the [[accident investigation]] will be presented to the health and safety committee.",
+    "ex_us": "The findings of the [[accident investigation]] will be presented to the safety committee."
+   },
+   "everyday": {
+    "uk": "to look into",
+    "us": "to look into",
+    "ex": "We're still [[looking into]] what happened, so I'd rather not speculate."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to investigate an accident",
+   "to establish the facts",
+   "to take witness statements",
+   "the findings of an investigation"
+  ],
+  "note_fr": "« Enquête » = « investigation » (« inquiry » pour une enquête publique ; « survey » pour une enquête d'opinion). « To investigate » est transitif : « to investigate an accident », sans « on ». « To look into » en est l'équivalent courant à l'oral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-017",
+  "level": 3,
+  "fr": "analyse des causes profondes (arbre des causes)",
+  "term": {
+   "uk": "root cause analysis",
+   "us": "root cause analysis"
+  },
+  "ipa": {
+   "uk": "/ˌruːt ˈkɔːz əˌnæləsɪs/",
+   "us": "/ˌruːt ˈkɔːz əˌnæləsɪs/"
+  },
+  "def": "A structured method for identifying the underlying reasons for an accident rather than just its immediate cause.",
+  "registers": {
+   "formal": {
+    "uk": "root cause analysis",
+    "us": "root cause analysis",
+    "ex": "A [[root cause analysis]] identified inadequate training and poor lighting as contributing factors."
+   },
+   "everyday": {
+    "uk": "to get to the bottom of",
+    "us": "to get to the bottom of",
+    "ex": "Blaming the driver is easy. I'd rather we [[got to the bottom of]] why it keeps happening.",
+    "ex_us": "Blaming the driver is easy. I'd rather we [[get to the bottom of]] why it keeps happening."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the immediate cause",
+   "the underlying cause",
+   "a contributing factor",
+   "to identify the root cause"
+  ],
+  "note_fr": "L'« arbre des causes » se rend par « root cause analysis » ou, littéralement, « causal tree analysis » (peu courant). « Contributing factor » = facteur contributif. Pluriel irrégulier : « analysis » → « analyses ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-018",
+  "level": 3,
+  "fr": "accident avec arrêt",
+  "term": {
+   "uk": "lost-time injury",
+   "us": "lost-time injury"
+  },
+  "ipa": {
+   "uk": "/ˌlɒst taɪm ˈɪndʒəri/",
+   "us": "/ˌlɔːst taɪm ˈɪndʒəri/"
+  },
+  "def": "A work injury serious enough for the person to be unable to work for at least one full day or shift afterwards.",
+  "registers": {
+   "formal": {
+    "uk": "lost-time injury",
+    "us": "lost-time injury",
+    "ex": "The site has recorded no [[lost-time injury]] since the beginning of the financial year.",
+    "ex_us": "The site has recorded no [[lost-time injury]] since the beginning of the fiscal year."
+   },
+   "everyday": {
+    "uk": "lost-time accident",
+    "us": "lost-time accident",
+    "ex": "That's our first [[lost-time accident]] in two years, which is why head office is asking questions.",
+    "ex_us": "That's our first [[lost-time accident]] in two years, which is why corporate is asking questions."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "days lost through injury",
+   "days away from work (US)",
+   "an LTI",
+   "a lost-time incident"
+  ],
+  "note_fr": "Abrégé « LTI » dans les tableaux de bord. Les définitions varient selon les entreprises et les pays (prise en compte ou non du jour de l'accident) : vérifiez toujours la convention retenue avant de comparer des chiffres français et étrangers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-019",
+  "level": 3,
+  "fr": "taux de fréquence (des accidents)",
+  "term": {
+   "uk": "accident frequency rate",
+   "us": "injury incidence rate"
+  },
+  "ipa": {
+   "uk": "/ˈæksɪdənt ˈfriːkwənsi reɪt/",
+   "us": "/ˈɪndʒəri ˈɪnsɪdəns reɪt/"
+  },
+  "def": "A figure showing how often accidents happen in relation to the number of hours worked or people employed.",
+  "registers": {
+   "formal": {
+    "uk": "accident frequency rate",
+    "us": "injury incidence rate",
+    "ex": "The [[accident frequency rate]] fell for the third consecutive year.",
+    "ex_us": "The [[injury incidence rate]] fell for the third consecutive year."
+   },
+   "everyday": {
+    "uk": "accident rate",
+    "us": "injury rate",
+    "ex": "Our [[accident rate]] is well below the industry average.",
+    "ex_us": "Our [[injury rate]] is well below the industry average."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the severity rate",
+   "per million hours worked",
+   "to benchmark against the industry average",
+   "a downward trend"
+  ],
+  "note_fr": "Les bases de calcul diffèrent : le taux de fréquence français rapporte les accidents avec arrêt au million d'heures travaillées, alors que les indicateurs américains sont calculés sur une autre base horaire. Ne comparez jamais les chiffres bruts sans préciser la formule. Taux de gravité : « severity rate ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-020",
+  "level": 2,
+  "fr": "accident mortel",
+  "term": {
+   "uk": "fatal accident",
+   "us": "fatal accident"
+  },
+  "ipa": {
+   "uk": "/ˌfeɪt(ə)l ˈæksɪdənt/",
+   "us": "/ˌfeɪt(ə)l ˈæksɪdənt/"
+  },
+  "def": "An accident in which someone is killed.",
+  "registers": {
+   "formal": {
+    "uk": "fatality",
+    "us": "fatality",
+    "ex": "Any workplace [[fatality]] must be reported to the authorities immediately."
+   },
+   "everyday": {
+    "uk": "fatal accident",
+    "us": "fatal accident",
+    "ex": "There was a [[fatal accident]] at one of their subcontractors' sites last year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a workplace fatality",
+   "fatal injuries",
+   "to be killed at work",
+   "a life-threatening injury"
+  ],
+  "note_fr": "Faux ami : « fatal » signifie mortel, non « inévitable » ; « a fatal error » est une erreur aux conséquences irréparables. « Fatality » désigne le décès lui-même (ou la victime dans les statistiques), pas la fatalité (« fate »). « Mortal » ne s'emploie pas pour un accident.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-021",
+  "level": 1,
+  "fr": "soulever un problème de sécurité",
+  "term": {
+   "uk": "to raise a safety concern",
+   "us": "to raise a safety concern"
+  },
+  "ipa": {
+   "uk": "/reɪz ə ˈseɪfti kənˌsɜːn/",
+   "us": "/reɪz ə ˈseɪfti kənˌsɜːrn/"
+  },
+  "def": "To tell a manager or the employer that you think something at work is unsafe.",
+  "registers": {
+   "formal": {
+    "uk": "to raise a concern",
+    "us": "to raise a concern",
+    "ex": "Employees may [[raise a concern]] about health and safety at any time without fear of reprisal.",
+    "ex_us": "Employees may [[raise a concern]] about safety at any time without fear of retaliation."
+   },
+   "everyday": {
+    "uk": "to speak up",
+    "us": "to speak up",
+    "ex": "If something doesn't look right, please [[speak up]]. Nobody will hold it against you."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to raise an issue with one's manager",
+   "to voice a concern",
+   "to escalate a concern",
+   "without fear of reprisal (UK) / retaliation (US)"
+  ],
+  "note_fr": "« To raise » (transitif : soulever) et non « to rise » (intransitif : s'élever). « Concern » est plus feutré que « problem » et très employé. Représailles : « reprisal » ou « detriment » au Royaume-Uni, « retaliation » aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-022",
+  "level": 1,
+  "fr": "mettre quelqu'un en danger",
+  "term": {
+   "uk": "to put someone at risk",
+   "us": "to put someone at risk"
+  },
+  "ipa": {
+   "uk": "/pʊt ˈsʌmwʌn ət ˈrɪsk/",
+   "us": "/pʊt ˈsʌmwʌn ət ˈrɪsk/"
+  },
+  "def": "To create a situation in which someone could be harmed.",
+  "registers": {
+   "formal": {
+    "uk": "to endanger",
+    "us": "to endanger",
+    "ex": "Any conduct liable to [[endanger]] the health or safety of others may give rise to disciplinary action."
+   },
+   "everyday": {
+    "uk": "to put someone at risk",
+    "us": "to put someone at risk",
+    "ex": "Taking the guard off that machine [[puts everyone at risk]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be at risk of injury",
+   "to expose someone to a risk",
+   "to pose a risk to",
+   "a risk to health"
+  ],
+  "note_fr": "« At risk », sans article : « to put in danger » se dit, mais « to put at the risk » est faux. « To endanger » appartient à l'écrit. « To risk » se construit avec un gérondif : « you risk falling », pas « you risk to fall ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-023",
+  "level": 2,
+  "fr": "indemnisation des accidents du travail (régime américain)",
+  "term": {
+   "uk": "workers' compensation",
+   "us": "workers' compensation"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːkəz ˌkɒmpənˈseɪʃ(ə)n/",
+   "us": "/ˌwɜːrkərz ˌkɑːmpənˈseɪʃ(ə)n/"
+  },
+  "def": "In the US, a state-regulated insurance system that pays medical costs and part of the lost wages of employees injured at work, whoever was at fault.",
+  "registers": {
+   "formal": {
+    "uk": "workers' compensation",
+    "us": "workers' compensation",
+    "ex": "Employees injured in the course of their employment are covered by the Company's [[workers' compensation]] insurance."
+   },
+   "everyday": {
+    "uk": "workers' comp",
+    "us": "workers' comp",
+    "ex": "She's filed a [[workers' comp]] claim for the shoulder injury."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to file a workers' compensation claim",
+   "workers' compensation benefits",
+   "a no-fault system",
+   "employer's liability insurance (UK)"
+  ],
+  "note_fr": "Régime américain, propre à chaque État : assurance sans égard à la faute, en contrepartie de laquelle le salarié ne peut en principe pas poursuivre son employeur. Proche dans l'esprit de la branche accidents du travail de la sécurité sociale française. Au Royaume-Uni, le salarié agit en responsabilité contre l'employeur, tenu de souscrire une « employer's liability insurance ». Faux ami : « compensation » = indemnisation (et, aux États-Unis, rémunération).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-024",
+  "level": 3,
+  "fr": "faute inexcusable de l'employeur",
+  "term": {
+   "uk": "employer's inexcusable fault",
+   "us": "employer's inexcusable fault"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪəz ˌɪnɪkˈskjuːzəb(ə)l ˈfɔːlt/",
+   "us": "/ɪmˈplɔɪərz ˌɪnɪkˈskjuːzəb(ə)l ˈfɔːlt/"
+  },
+  "def": "In French law, a serious failure by the employer to protect an employee from a danger it knew or should have known about, which entitles the victim to additional compensation.",
+  "registers": {
+   "formal": {
+    "uk": "inexcusable fault on the part of the employer",
+    "us": "inexcusable fault on the part of the employer",
+    "ex": "The court found [[inexcusable fault on the part of the employer]] and awarded the victim additional compensation."
+   },
+   "everyday": {
+    "uk": "gross negligence by the employer",
+    "us": "gross negligence by the employer",
+    "ex": "If the risk was known and nothing was done, he could well argue [[gross negligence by the employer]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to establish inexcusable fault",
+   "to be aware of the danger",
+   "to fail to take the necessary measures",
+   "additional compensation"
+  ],
+  "note_fr": "Notion française sans équivalent : gardez une traduction littérale et expliquez-la. « Gross negligence » n'en est qu'une approximation, et ses effets diffèrent (aux États-Unis, le workers' compensation exclut en principe l'action contre l'employeur). Faux ami : « inexcusable » se dit bien en anglais, mais « fault » est ici un terme juridique, pas une simple « erreur ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Inexcusable fault (faute inexcusable) is established under French law where the employer was, or ought to have been, aware of the danger to which the employee was exposed and failed to take the measures necessary to protect him or her; it entitles the victim of a workplace accident or occupational disease to additional compensation.",
+   "spoken": "It means the employer knew about the danger, or should have known, and didn't do what was needed. If a court finds that, the employee gets extra compensation on top of the normal social security cover."
+  }
+ },
+ {
+  "id": "hs-025",
+  "level": 3,
+  "fr": "reconnaissance du caractère professionnel (d'un accident, d'une maladie)",
+  "term": {
+   "uk": "recognition as work-related",
+   "us": "recognition as work-related"
+  },
+  "ipa": {
+   "uk": "/ˌrekəɡˈnɪʃ(ə)n əz ˈwɜːk rɪˌleɪtɪd/",
+   "us": "/ˌrekəɡˈnɪʃ(ə)n əz ˈwɜːrk rɪˌleɪtɪd/"
+  },
+  "def": "The official decision that an accident or illness was caused by work, which opens the right to specific benefits and protection.",
+  "registers": {
+   "formal": {
+    "uk": "to be recognised as work-related",
+    "us": "to be recognized as work-related",
+    "ex": "The condition was [[recognised as work-related]] by the health insurance fund.",
+    "ex_us": "The condition was [[recognized as work-related]] by the health insurance fund."
+   },
+   "everyday": {
+    "uk": "to be accepted as work-related",
+    "us": "to be accepted as work-related",
+    "ex": "Her burnout hasn't been [[accepted as work-related]] yet, and the fund is still looking into it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to dispute that an accident is work-related",
+   "to express reservations",
+   "a work-related condition",
+   "to accept a claim"
+  ],
+  "note_fr": "En France, c'est la caisse d'assurance maladie qui statue, et l'employeur peut émettre des réserves motivées : « to express reservations about whether the accident was work-related ». Aux États-Unis, on dira que la demande est « compensable » ou que l'assureur a « accepted the claim ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-026",
+  "level": 3,
+  "fr": "incapacité permanente",
+  "term": {
+   "uk": "permanent disability",
+   "us": "permanent disability"
+  },
+  "ipa": {
+   "uk": "/ˈpɜːmənənt ˌdɪsəˈbɪləti/",
+   "us": "/ˈpɜːrmənənt ˌdɪsəˈbɪləti/"
+  },
+  "def": "A lasting reduction in a person's physical or mental capacity following an accident or illness.",
+  "registers": {
+   "formal": {
+    "uk": "permanent incapacity",
+    "us": "permanent impairment",
+    "ex": "The claimant was assessed as suffering from a [[permanent incapacity]] following the accident.",
+    "ex_us": "The claimant was assessed as having a [[permanent impairment]] following the accident."
+   },
+   "everyday": {
+    "uk": "permanent disability",
+    "us": "permanent disability",
+    "ex": "He's been left with a [[permanent disability]] in his right hand."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a disability rating",
+   "an impairment rating (US)",
+   "partial or total incapacity",
+   "to be left with a disability"
+  ],
+  "note_fr": "« Incapacity », « disability » et « impairment » ne se recouvrent pas exactement : « impairment » est l'atteinte médicale, « disability » sa conséquence sur la vie et le travail. Le « taux d'incapacité permanente » français se rend par « permanent disability rating ». Ne confondez pas avec l'invalidité de la sécurité sociale (« long-term incapacity for work »), sans lien nécessaire avec le travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-027",
+  "level": 3,
+  "fr": "consolidation (de l'état de santé)",
+  "term": {
+   "uk": "stabilisation of the condition",
+   "us": "maximum medical improvement"
+  },
+  "ipa": {
+   "uk": "/ˌsteɪbəlaɪˈzeɪʃ(ə)n əv ðə kənˈdɪʃ(ə)n/",
+   "us": "/ˈmæksɪməm ˈmedɪk(ə)l ɪmˈpruːvmənt/"
+  },
+  "def": "The point at which an injury or illness has stopped changing, so that any lasting damage can be assessed.",
+  "registers": {
+   "formal": {
+    "uk": "stabilisation of the condition",
+    "us": "maximum medical improvement",
+    "ex": "Compensation for permanent incapacity is assessed at the date of [[stabilisation of the condition]].",
+    "ex_us": "Permanent impairment is rated once the employee has reached [[maximum medical improvement]]."
+   },
+   "everyday": {
+    "uk": "to have stabilised",
+    "us": "to have plateaued",
+    "ex": "The doctors say his back [[has stabilised]], so they can now assess the long-term damage.",
+    "ex_us": "The doctors say his back [[has plateaued]], so they can now rate the long-term damage."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the date of stabilisation",
+   "to reach MMI (US)",
+   "no further improvement is expected",
+   "lasting after-effects"
+  ],
+  "note_fr": "Faux ami majeur : « consolidation » en anglais évoque le regroupement (de sociétés, de comptes), jamais l'état de santé. Aux États-Unis, la notion voisine en workers' compensation est « maximum medical improvement » (MMI). Séquelles : « lasting after-effects » ou « residual impairment ».",
+  "french_concept": true,
+  "explain": {
+   "written": "In French social security law, 'consolidation' is the date on which the victim's condition is regarded as stable, so that no further improvement is expected from treatment and any permanent incapacity can be assessed.",
+   "spoken": "It's the point where the doctors say the injury isn't going to get any better or any worse. That's when they work out whether there's any permanent damage."
+  }
+ },
+ {
+  "id": "hs-028",
+  "level": 2,
+  "fr": "être tenu(e) pour responsable (d'un accident)",
+  "term": {
+   "uk": "to be held liable",
+   "us": "to be held liable"
+  },
+  "ipa": {
+   "uk": "/bi ˌheld ˈlaɪəb(ə)l/",
+   "us": "/bi ˌheld ˈlaɪəb(ə)l/"
+  },
+  "def": "To be found legally responsible for harm or loss and for compensating it.",
+  "registers": {
+   "formal": {
+    "uk": "to be held liable",
+    "us": "to be held liable",
+    "ex": "The Company may [[be held liable]] for any injury resulting from a failure to maintain its equipment."
+   },
+   "everyday": {
+    "uk": "to be on the hook",
+    "us": "to be on the hook",
+    "ex": "If we knew about the leak and did nothing, we'll [[be on the hook]] for it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to incur liability",
+   "criminal liability",
+   "to be liable for damages",
+   "to accept liability"
+  ],
+  "note_fr": "« Liable » (responsable en droit, tenu de réparer) ne se confond pas avec « responsible » (chargé de, à l'origine de). « Liable to » + verbe signifie aussi « susceptible de ». En France, le dirigeant peut engager sa responsabilité pénale personnelle en matière de sécurité, d'où la délégation de pouvoirs : « delegation of authority ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-029",
+  "level": 3,
+  "fr": "dans toute la mesure de ce qui est raisonnablement possible (critère britannique)",
+  "term": {
+   "uk": "so far as is reasonably practicable",
+   "us": "to the extent feasible"
+  },
+  "ipa": {
+   "uk": "/səʊ ˌfɑːr əz ɪz ˈriːz(ə)nəbli ˈpræktɪkəb(ə)l/",
+   "us": "/tə ði ɪkˈstent ˈfiːzəb(ə)l/"
+  },
+  "def": "The British legal standard under which an employer must reduce a risk unless the cost and effort of doing so would be grossly out of proportion to the benefit.",
+  "registers": {
+   "formal": {
+    "uk": "so far as is reasonably practicable",
+    "us": "to the extent feasible",
+    "ex": "The employer shall ensure, [[so far as is reasonably practicable]], the health, safety and welfare at work of its employees.",
+    "ex_us": "The employer shall, [[to the extent feasible]], eliminate or control each recognized hazard."
+   },
+   "everyday": {
+    "uk": "within reason",
+    "us": "within reason",
+    "ex": "We have to do everything we can, [[within reason]], to bring the noise level down."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take all reasonable steps",
+   "as low as reasonably practicable (ALARP)",
+   "grossly disproportionate",
+   "feasible means of abatement (US)"
+  ],
+  "note_fr": "Critère central du droit britannique de la sécurité : mise en balance du risque et du coût de sa réduction. « Practicable » (réalisable) n'est pas « practical » (pratique). L'obligation de sécurité française est en général présentée comme plus exigeante : c'est un point de comparaison utile avec un client britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-030",
+  "level": 2,
+  "fr": "service de prévention et de santé au travail (médecine du travail)",
+  "term": {
+   "uk": "occupational health service",
+   "us": "occupational health service"
+  },
+  "ipa": {
+   "uk": "/ˌɒkjuˈpeɪʃ(ə)nəl ˈhelθ ˌsɜːvɪs/",
+   "us": "/ˌɑːkjəˈpeɪʃ(ə)nəl ˈhelθ ˌsɜːrvɪs/"
+  },
+  "def": "A service of doctors, nurses and other specialists that advises employers and employees on the effects of work on health.",
+  "registers": {
+   "formal": {
+    "uk": "occupational health service",
+    "us": "occupational health service",
+    "ex": "The employer shall refer the employee to the [[occupational health service]] before he or she resumes work."
+   },
+   "everyday": {
+    "uk": "occupational health",
+    "us": "occupational health",
+    "ex": "I'd get [[occupational health]] involved before we change her hours."
+   },
+   "informal": {
+    "uk": "OH",
+    "us": "occ health",
+    "ex": "Have you heard back from [[OH]] yet?",
+    "ex_us": "Have you heard back from [[occ health]] yet?"
+   }
+  },
+  "collocations": [
+   "to refer someone to occupational health",
+   "an occupational health referral",
+   "an occupational health report",
+   "an occupational health nurse"
+  ],
+  "note_fr": "« Work medicine » et « labour medicine » n'existent pas. Différence de fond : en France, l'adhésion à un service de santé au travail est obligatoire pour tout employeur ; au Royaume-Uni et aux États-Unis, l'« occupational health » est un prestataire auquel l'employeur recourt s'il le souhaite, et dont l'avis ne le lie pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-031",
+  "level": 2,
+  "fr": "médecin du travail",
+  "term": {
+   "uk": "occupational health physician",
+   "us": "occupational health physician"
+  },
+  "ipa": {
+   "uk": "/ˌɒkjuˈpeɪʃ(ə)nəl ˈhelθ fɪˌzɪʃ(ə)n/",
+   "us": "/ˌɑːkjəˈpeɪʃ(ə)nəl ˈhelθ fɪˌzɪʃ(ə)n/"
+  },
+  "def": "A doctor specialised in the relationship between work and health, who in France monitors employees' health and alone decides whether they are medically fit for their job.",
+  "registers": {
+   "formal": {
+    "uk": "occupational health physician",
+    "us": "occupational health physician",
+    "ex": "Only the [[occupational health physician]] is empowered to declare an employee unfit for his or her position."
+   },
+   "everyday": {
+    "uk": "occupational health doctor",
+    "us": "company doctor",
+    "ex": "The [[occupational health doctor]] wants to see the workstation before she signs anything off.",
+    "ex_us": "The [[company doctor]] wants to see the workstation before she signs off on anything."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be seen by the occupational health physician",
+   "the physician's recommendations",
+   "to challenge the physician's opinion"
+  ],
+  "note_fr": "« Work doctor » ne se dit pas. « Company doctor » est trompeur pour un médecin du travail français, qui est indépendant de l'employeur, ne soigne pas et ne communique jamais le diagnostic. Autre piège : « physician » = médecin ; le physicien est « physicist ». Le médecin traitant est le « GP » (UK) ou « primary care physician » (US).",
+  "french_concept": true,
+  "explain": {
+   "written": "The médecin du travail is an independent occupational health physician whose role is exclusively preventive: he or she monitors employees' health in relation to their work, advises the employer on adjustments, and has sole authority to declare an employee medically unfit for a position.",
+   "spoken": "It's an independent doctor who checks that the job isn't harming the employee's health. They don't treat people and they don't tell us the diagnosis, but what they say about fitness for work is binding on us."
+  }
+ },
+ {
+  "id": "hs-032",
+  "level": 2,
+  "fr": "visite d'information et de prévention (ancienne visite médicale d'embauche)",
+  "term": {
+   "uk": "initial occupational health check",
+   "us": "initial occupational health check"
+  },
+  "ipa": {
+   "uk": "/ɪˈnɪʃ(ə)l ˌɒkjuˈpeɪʃ(ə)nəl ˈhelθ tʃek/",
+   "us": "/ɪˈnɪʃ(ə)l ˌɑːkjəˈpeɪʃ(ə)nəl ˈhelθ tʃek/"
+  },
+  "def": "The appointment that every new employee in France has with the occupational health service shortly after starting work.",
+  "registers": {
+   "formal": {
+    "uk": "initial occupational health appointment",
+    "us": "initial occupational health appointment",
+    "ex": "Each new employee shall attend an [[initial occupational health appointment]] arranged by the Company."
+   },
+   "everyday": {
+    "uk": "health check",
+    "us": "health check",
+    "ex": "Your [[health check]] with the occupational health nurse is booked for the 14th."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to attend an appointment",
+   "to book a health check",
+   "a pre-employment medical (UK)",
+   "a post-offer physical (US)"
+  ],
+  "note_fr": "Elle a lieu après l'embauche et ne conditionne pas celle-ci (sauf postes à risques, soumis à un examen d'aptitude). Elle se distingue donc du « pre-employment medical » britannique ou du « post-offer physical » américain, organisés avant la prise de poste. « Medical visit » est un calque : on dit « medical », « medical examination » ou « health check ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The visite d'information et de prévention is a mandatory appointment with a member of the occupational health service, held shortly after the employee starts work; its purpose is to inform the employee about workplace risks and to open his or her occupational health file, not to decide whether he or she should be hired.",
+   "spoken": "Every new starter in France has to see the occupational health service in their first few months. It's mainly an information session, not a medical test you can pass or fail."
+  }
+ },
+ {
+  "id": "hs-033",
+  "level": 2,
+  "fr": "visite de reprise",
+  "term": {
+   "uk": "return-to-work medical examination",
+   "us": "return-to-work medical examination"
+  },
+  "ipa": {
+   "uk": "/rɪˌtɜːn tə ˈwɜːk ˈmedɪk(ə)l ɪɡˌzæmɪˈneɪʃ(ə)n/",
+   "us": "/rɪˌtɜːrn tə ˈwɜːrk ˈmedɪk(ə)l ɪɡˌzæmɪˈneɪʃ(ə)n/"
+  },
+  "def": "In France, the compulsory examination by the occupational health physician when an employee comes back after certain absences, to check that they are fit to resume their job.",
+  "registers": {
+   "formal": {
+    "uk": "return-to-work medical examination",
+    "us": "return-to-work medical examination",
+    "ex": "The employee shall undergo a [[return-to-work medical examination]] at the end of his or her absence."
+   },
+   "everyday": {
+    "uk": "return-to-work medical",
+    "us": "return-to-work physical",
+    "ex": "We can't put him back on the line until he's had his [[return-to-work medical]].",
+    "ex_us": "We can't put him back on the line until he's had his [[return-to-work physical]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to arrange the examination",
+   "to undergo a medical examination",
+   "to be cleared to return",
+   "a fitness-for-duty examination (US)"
+  ],
+  "note_fr": "C'est à l'employeur de l'organiser, après un congé de maternité, une absence pour maladie professionnelle ou certains arrêts longs ; tant qu'elle n'a pas eu lieu, le contrat reste en principe suspendu. Ne la confondez pas avec le « return-to-work interview », simple entretien avec le manager. Aux États-Unis, la notion voisine est le « fitness-for-duty examination ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The visite de reprise is a medical examination by the occupational health physician which the employer must arrange when an employee returns from certain absences, such as maternity leave, an occupational disease or a long period of sick leave, in order to confirm that he or she is fit to resume the position.",
+   "spoken": "After a long absence, the employee has to be seen by the occupational health doctor before really going back to the job. It's our responsibility to book it, not theirs."
+  }
+ },
+ {
+  "id": "hs-034",
+  "level": 3,
+  "fr": "visite de préreprise",
+  "term": {
+   "uk": "pre-return medical examination",
+   "us": "pre-return medical examination"
+  },
+  "ipa": {
+   "uk": "/ˌpriː rɪˈtɜːn ˈmedɪk(ə)l ɪɡˌzæmɪˈneɪʃ(ə)n/",
+   "us": "/ˌpriː rɪˈtɜːrn ˈmedɪk(ə)l ɪɡˌzæmɪˈneɪʃ(ə)n/"
+  },
+  "def": "In France, an optional appointment with the occupational health physician during a long absence, to prepare the employee's return.",
+  "registers": {
+   "formal": {
+    "uk": "pre-return medical examination",
+    "us": "pre-return medical examination",
+    "ex": "A [[pre-return medical examination]] may be requested by the employee, the treating doctor or the occupational health physician."
+   },
+   "everyday": {
+    "uk": "pre-return check-up",
+    "us": "pre-return checkup",
+    "ex": "It might be worth her having a [[pre-return check-up]], so that we know what adjustments to plan for.",
+    "ex_us": "It might be worth her having a [[pre-return checkup]], so that we know what accommodations to plan for."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to prepare someone's return to work",
+   "to anticipate adjustments",
+   "while still on sick leave"
+  ],
+  "note_fr": "Elle a lieu pendant l'arrêt de travail, sans y mettre fin, et ne peut être imposée par l'employeur, qui doit seulement informer le salarié de cette possibilité. Elle ne remplace pas la visite de reprise. Aucun équivalent institutionnel au Royaume-Uni ni aux États-Unis, où l'on parlerait d'un « occupational health referral » en cours d'absence.",
+  "french_concept": true,
+  "explain": {
+   "written": "The visite de préreprise is an optional appointment with the occupational health physician which takes place while the employee is still on long-term sick leave, with a view to identifying in advance the adjustments, training or change of role that could facilitate his or her return.",
+   "spoken": "It's a meeting with the occupational health doctor while the person is still off sick, just to plan ahead. It's voluntary, and the employee can ask for it."
+  }
+ },
+ {
+  "id": "hs-035",
+  "level": 3,
+  "fr": "suivi médical renforcé (postes à risques)",
+  "term": {
+   "uk": "health surveillance",
+   "us": "medical surveillance"
+  },
+  "ipa": {
+   "uk": "/ˈhelθ səˌveɪləns/",
+   "us": "/ˈmedɪk(ə)l sərˌveɪləns/"
+  },
+  "def": "Regular medical checks for employees exposed to particular risks, in order to detect early signs of work-related ill health.",
+  "registers": {
+   "formal": {
+    "uk": "health surveillance",
+    "us": "medical surveillance",
+    "ex": "Employees exposed to hazardous substances shall be placed under appropriate [[health surveillance]].",
+    "ex_us": "Employees exposed to hazardous chemicals shall be enrolled in a [[medical surveillance]] program."
+   },
+   "everyday": {
+    "uk": "regular health checks",
+    "us": "regular health checks",
+    "ex": "Anyone working with solvents gets [[regular health checks]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be under health surveillance",
+   "a safety-critical role",
+   "a hearing test",
+   "to detect early signs of ill health"
+  ],
+  "note_fr": "« Surveillance » n'a pas ici de connotation policière : c'est le terme technique. Ne dites pas « reinforced medical follow-up », calque du « suivi individuel renforcé » français, lequel comporte en outre un examen médical d'aptitude avant l'affectation au poste.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-036",
+  "level": 1,
+  "fr": "arrêt maladie (absence)",
+  "term": {
+   "uk": "sick leave",
+   "us": "sick leave"
+  },
+  "ipa": {
+   "uk": "/ˈsɪk liːv/",
+   "us": "/ˈsɪk liːv/"
+  },
+  "def": "Time away from work because of illness or injury.",
+  "registers": {
+   "formal": {
+    "uk": "sickness absence",
+    "us": "medical leave",
+    "ex": "Any period of [[sickness absence]] must be notified to the Company on the first day.",
+    "ex_us": "Any period of [[medical leave]] must be reported to the Company on the first day."
+   },
+   "everyday": {
+    "uk": "to be off sick",
+    "us": "to be out sick",
+    "ex": "Tom's [[off sick]] again, so can you cover the ten o'clock?",
+    "ex_us": "Tom's [[out sick]] again, so can you cover the ten o'clock?"
+   },
+   "informal": {
+    "uk": "on the sick",
+    "us": "out sick",
+    "ex": "He's been [[on the sick]] for months.",
+    "ex_us": "He's been [[out sick]] for months."
+   }
+  },
+  "collocations": [
+   "to be on sick leave",
+   "to go on sick leave",
+   "to take a sick day",
+   "a period of sickness absence"
+  ],
+  "note_fr": "« Illness leave » ou « disease leave » ne se disent pas. « To be ill » (UK) correspond à « to be sick » (US) ; au Royaume-Uni, « to be sick » peut vouloir dire vomir. « On the sick » est familier et un peu péjoratif. Attention : en France l'arrêt est prescrit par le médecin, alors qu'aux États-Unis le « sick leave » désigne souvent un crédit de jours accordé par l'employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-037",
+  "level": 1,
+  "fr": "arrêt de travail (certificat médical)",
+  "term": {
+   "uk": "sick note",
+   "us": "doctor's note"
+  },
+  "ipa": {
+   "uk": "/ˈsɪk nəʊt/",
+   "us": "/ˈdɑːktərz noʊt/"
+  },
+  "def": "A document from a doctor stating that a person is unable to work for medical reasons.",
+  "registers": {
+   "formal": {
+    "uk": "medical certificate",
+    "us": "medical certification",
+    "ex": "Absences of more than seven days must be supported by a [[medical certificate]].",
+    "ex_us": "Absences of more than three days must be supported by a [[medical certification]] from a health care provider."
+   },
+   "everyday": {
+    "uk": "sick note",
+    "us": "doctor's note",
+    "ex": "Could you send me your [[sick note]] by the end of the week?",
+    "ex_us": "Could you send me your [[doctor's note]] by the end of the week?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to send in a sick note",
+   "to self-certify (UK)",
+   "to be covered by a medical certificate",
+   "to extend a sick note"
+  ],
+  "note_fr": "« Work stoppage » désigne une grève ou un arrêt de production, jamais un arrêt maladie. En France, le certificat est exigé dès le premier jour ; au Royaume-Uni, le salarié s'auto-déclare (« self-certification ») pendant la première semaine ; aux États-Unis, tout dépend de la politique de l'employeur et de la loi de l'État. Les durées citées dans les exemples sont de simples illustrations de clause.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-038",
+  "level": 2,
+  "fr": "avis d'aptitude du médecin traitant (certificat britannique)",
+  "term": {
+   "uk": "fit note",
+   "us": "return-to-work note"
+  },
+  "ipa": {
+   "uk": "/ˈfɪt nəʊt/",
+   "us": "/rɪˌtɜːrn tə ˈwɜːrk noʊt/"
+  },
+  "def": "In the UK, the certificate in which a doctor or other healthcare professional states either that a person is not fit for work or that they may be fit for work with certain changes.",
+  "registers": {
+   "formal": {
+    "uk": "statement of fitness for work",
+    "us": "work status report",
+    "ex": "The employee submitted a [[statement of fitness for work]] recommending amended duties for four weeks.",
+    "ex_us": "The employee submitted a [[work status report]] recommending modified duty for four weeks."
+   },
+   "everyday": {
+    "uk": "fit note",
+    "us": "return-to-work note",
+    "ex": "Her [[fit note]] says she may be fit for work if we can reduce her hours.",
+    "ex_us": "Her [[return-to-work note]] says she can come back if we cut her hours."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "may be fit for work",
+   "not fit for work",
+   "to issue a fit note",
+   "to be cleared for work (US)"
+  ],
+  "note_fr": "Le « fit note » britannique a remplacé le « sick note » officiel (le mot reste courant à l'oral). Sa particularité : le praticien peut cocher « may be fit for work » et suggérer des aménagements, que l'employeur n'est pas tenu d'accepter. Ne le confondez ni avec l'arrêt de travail français ni avec l'avis du médecin du travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-039",
+  "level": 1,
+  "fr": "prévenir de son absence pour maladie",
+  "term": {
+   "uk": "to phone in sick",
+   "us": "to call in sick"
+  },
+  "ipa": {
+   "uk": "/ˌfəʊn ɪn ˈsɪk/",
+   "us": "/ˌkɔːl ɪn ˈsɪk/"
+  },
+  "def": "To contact your employer to say that you are ill and will not be coming to work.",
+  "registers": {
+   "formal": {
+    "uk": "to report one's absence",
+    "us": "to report one's absence",
+    "ex": "Employees must [[report their absence]] to their line manager by 9.00 am on the first day of sickness.",
+    "ex_us": "Employees must [[report their absence]] to their supervisor by 9:00 a.m. on the first day of illness."
+   },
+   "everyday": {
+    "uk": "to phone in sick",
+    "us": "to call in sick",
+    "ex": "Two people have [[phoned in sick]] this morning, so we're a bit stretched.",
+    "ex_us": "Two people [[called in sick]] this morning, so we're stretched a little thin."
+   },
+   "informal": {
+    "uk": "to pull a sickie",
+    "us": "to play hooky",
+    "ex": "Nobody believes he was ill on Friday. He [[pulled a sickie]].",
+    "ex_us": "Nobody believes he was sick on Friday. He was [[playing hooky]]."
+   }
+  },
+  "collocations": [
+   "to ring in sick (UK)",
+   "to call out sick (US)",
+   "to notify one's manager",
+   "on the first day of absence"
+  ],
+  "note_fr": "« To call in sick » est compris partout ; « to phone in / ring in sick » est britannique, « to call out sick » américain. « To pull a sickie » (UK, familier) = se faire porter pâle sans être malade : à comprendre, pas à écrire. Notez la ponctuation de l'heure : « 9.00 am » (UK), « 9:00 a.m. » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-040",
+  "level": 1,
+  "fr": "être arrêté(e) par son médecin",
+  "term": {
+   "uk": "to be signed off work",
+   "us": "to be put on medical leave"
+  },
+  "ipa": {
+   "uk": "/bi ˌsaɪnd ɒf ˈwɜːk/",
+   "us": "/bi ˌpʊt ɑːn ˈmedɪk(ə)l liːv/"
+  },
+  "def": "To be told by a doctor that you must not work for a period of time.",
+  "registers": {
+   "formal": {
+    "uk": "to be certified unfit for work",
+    "us": "to be certified unable to work",
+    "ex": "The employee has been [[certified unfit for work]] until 30 June.",
+    "ex_us": "The employee has been [[certified unable to work]] through June 30."
+   },
+   "everyday": {
+    "uk": "to be signed off",
+    "us": "to be out on medical leave",
+    "ex": "She's been [[signed off]] for a month with stress.",
+    "ex_us": "She's [[out on medical leave]] for a month because of stress."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be signed off sick",
+   "to be signed off with stress",
+   "the doctor has signed her off",
+   "to take someone off work (US)"
+  ],
+  "note_fr": "« To be signed off » est strictement britannique : un Américain comprendra « approuvé, validé » (cf. « to sign off on »). Ne dites pas « she is stopped » ni « she is arrested » (= elle est en état d'arrestation !). Notez « with stress » (UK) pour indiquer le motif, et « through June 30 » (US) = jusqu'au 30 juin inclus.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-041",
+  "level": 2,
+  "fr": "absence de longue durée pour maladie",
+  "term": {
+   "uk": "long-term sickness absence",
+   "us": "extended medical leave"
+  },
+  "ipa": {
+   "uk": "/ˌlɒŋ tɜːm ˈsɪknəs ˌæbsəns/",
+   "us": "/ɪkˌstendɪd ˈmedɪk(ə)l liːv/"
+  },
+  "def": "A period of sick leave lasting many weeks or months.",
+  "registers": {
+   "formal": {
+    "uk": "long-term sickness absence",
+    "us": "extended medical leave",
+    "ex": "Cases of [[long-term sickness absence]] are reviewed monthly by Human Resources.",
+    "ex_us": "Employees on [[extended medical leave]] are contacted monthly by Human Resources."
+   },
+   "everyday": {
+    "uk": "long-term sick",
+    "us": "long-term leave",
+    "ex": "We've got three people on [[long-term sick]] at the moment.",
+    "ex_us": "We've got three people on [[long-term leave]] right now."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on long-term sick leave",
+   "to keep in touch during absence",
+   "a keeping-in-touch call",
+   "long-term disability benefits (US)"
+  ],
+  "note_fr": "En France, la maladie suspend le contrat et l'employeur doit se garder de solliciter le salarié pour travailler pendant l'arrêt ; garder un contact courtois (« keeping in touch ») reste possible. Aux États-Unis, « long-term disability » désigne une assurance de prévoyance, pas l'absence elle-même.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-042",
+  "level": 2,
+  "fr": "absentéisme",
+  "term": {
+   "uk": "absenteeism",
+   "us": "absenteeism"
+  },
+  "ipa": {
+   "uk": "/ˌæbsənˈtiːɪz(ə)m/",
+   "us": "/ˌæbsənˈtiːɪz(ə)m/"
+  },
+  "def": "The fact of employees being frequently away from work, especially when the absences are unplanned.",
+  "registers": {
+   "formal": {
+    "uk": "absenteeism",
+    "us": "absenteeism",
+    "ex": "The audit points to a marked rise in [[absenteeism]] in the logistics department."
+   },
+   "everyday": {
+    "uk": "absence levels",
+    "us": "absence levels",
+    "ex": "[[Absence levels]] in the call centre have doubled since January, and that tells you something.",
+    "ex_us": "[[Absence levels]] in the call center have doubled since January, and that tells you something."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the absence rate",
+   "frequent short-term absences",
+   "to tackle absenteeism",
+   "unplanned absence"
+  ],
+  "note_fr": "« Absenteeism » a une nuance de reproche ; pour rester neutre, préférez « sickness absence » ou « absence levels ». Orthographe : « absenteeism », avec deux « e ». Taux d'absentéisme : « absence rate » ou « absenteeism rate ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-043",
+  "level": 2,
+  "fr": "présentéisme",
+  "term": {
+   "uk": "presenteeism",
+   "us": "presenteeism"
+  },
+  "ipa": {
+   "uk": "/ˌprezənˈtiːɪz(ə)m/",
+   "us": "/ˌprezənˈtiːɪz(ə)m/"
+  },
+  "def": "The practice of coming to work when ill, or of staying at work longer than necessary, with a resulting loss of effectiveness.",
+  "registers": {
+   "formal": {
+    "uk": "presenteeism",
+    "us": "presenteeism",
+    "ex": "The survey suggests that [[presenteeism]] is widespread among managers."
+   },
+   "everyday": {
+    "uk": "to come in ill",
+    "us": "to come in sick",
+    "ex": "Please don't [[come in ill]]. You'll only pass it on to the rest of the team.",
+    "ex_us": "Please don't [[come in sick]]. You'll only give it to the rest of the team."
+   },
+   "informal": {
+    "uk": "to soldier on",
+    "us": "to tough it out",
+    "ex": "She had flu all week but [[soldiered on]] regardless.",
+    "ex_us": "She had the flu all week but [[toughed it out]] anyway."
+   }
+  },
+  "collocations": [
+   "a culture of presenteeism",
+   "to struggle into work",
+   "to work while unwell"
+  ],
+  "note_fr": "Le mot existe dans les deux langues avec le même sens ; il désigne le fait de venir travailler malade, ou de rester tard pour être vu. « To soldier on » (UK) et « to tough it out » (US) = tenir bon malgré tout.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-044",
+  "level": 3,
+  "fr": "contre-visite médicale (à l'initiative de l'employeur)",
+  "term": {
+   "uk": "employer-requested medical check",
+   "us": "employer-requested medical check"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪə rɪˌkwestɪd ˈmedɪk(ə)l tʃek/",
+   "us": "/ɪmˈplɔɪər rɪˌkwestɪd ˈmedɪk(ə)l tʃek/"
+  },
+  "def": "In France, a home visit by a doctor appointed by the employer to verify that an employee on sick leave is genuinely unable to work.",
+  "registers": {
+   "formal": {
+    "uk": "medical verification visit",
+    "us": "medical verification visit",
+    "ex": "The Company reserves the right to arrange a [[medical verification visit]] by a doctor of its choosing."
+   },
+   "everyday": {
+    "uk": "to have the absence checked",
+    "us": "to have the absence checked",
+    "ex": "If you have real doubts, you can [[have the absence checked]] by an independent doctor."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a doctor appointed by the employer",
+   "to verify that the absence is medically justified",
+   "to stop topping up sick pay"
+  ],
+  "note_fr": "Contrepartie du maintien de salaire versé par l'employeur : si le médecin mandaté estime l'arrêt injustifié, l'employeur peut suspendre le complément de salaire, mais non sanctionner le salarié. Au Royaume-Uni, on demanderait plutôt un rapport à l'occupational health ; aux États-Unis, une « second opinion » dans le cadre du congé médical. « Counter-visit » ne veut rien dire.",
+  "french_concept": true,
+  "explain": {
+   "written": "Where the employer tops up the employee's pay during sick leave, French law allows it to arrange a medical verification visit (contre-visite) by a doctor of its choosing; if that doctor finds that the absence is not medically justified, the employer may stop paying the top-up.",
+   "spoken": "Because we top up his sick pay, we're allowed to send an independent doctor to check that he's really unable to work. If the doctor disagrees with the sick note, we can stop the top-up, but that's all."
+  }
+ },
+ {
+  "id": "hs-045",
+  "level": 2,
+  "fr": "secret médical",
+  "term": {
+   "uk": "medical confidentiality",
+   "us": "medical confidentiality"
+  },
+  "ipa": {
+   "uk": "/ˈmedɪk(ə)l ˌkɒnfɪdenʃiˈæləti/",
+   "us": "/ˈmedɪk(ə)l ˌkɑːnfɪdenʃiˈæləti/"
+  },
+  "def": "The rule that information about a person's health must not be disclosed without their consent.",
+  "registers": {
+   "formal": {
+    "uk": "medical confidentiality",
+    "us": "medical confidentiality",
+    "ex": "The occupational health physician is bound by [[medical confidentiality]] and will not disclose the diagnosis to the Company."
+   },
+   "everyday": {
+    "uk": "confidential",
+    "us": "confidential",
+    "ex": "Whatever you tell the nurse stays [[confidential]]. We only hear about the adjustments you need.",
+    "ex_us": "Whatever you tell the nurse stays [[confidential]]. We only hear about the accommodations you need."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be bound by medical confidentiality",
+   "to disclose a diagnosis",
+   "medical records",
+   "on a need-to-know basis"
+  ],
+  "note_fr": "« Medical secret » est un calque à éviter. Dossier médical : « medical records ». En France, l'employeur n'a pas à connaître la pathologie et ne doit pas interroger le salarié à ce sujet. Aux États-Unis, les informations médicales obtenues par l'employeur doivent être conservées à part du dossier du personnel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-046",
+  "level": 1,
+  "fr": "reprendre le travail",
+  "term": {
+   "uk": "to return to work",
+   "us": "to return to work"
+  },
+  "ipa": {
+   "uk": "/rɪˌtɜːn tə ˈwɜːk/",
+   "us": "/rɪˌtɜːrn tə ˈwɜːrk/"
+  },
+  "def": "To start working again after a period of absence.",
+  "registers": {
+   "formal": {
+    "uk": "to resume work",
+    "us": "to resume work",
+    "ex": "The employee is expected to [[resume work]] on Monday 3 March.",
+    "ex_us": "The employee is expected to [[resume work]] on Monday, March 3."
+   },
+   "everyday": {
+    "uk": "to come back to work",
+    "us": "to come back to work",
+    "ex": "There's no rush. [[Come back to work]] when you're properly better."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be back at work",
+   "a return-to-work plan",
+   "to ease back into work",
+   "a return date"
+  ],
+  "note_fr": "« To return back » est un pléonasme : « to return » ou « to come / go back ». « To resume » est transitif (« to resume work », « to resume one's duties ») et faux ami : il ne veut jamais dire résumer (« to summarise »). Notez l'écriture des dates : « Monday 3 March » (UK), « Monday, March 3 » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-047",
+  "level": 1,
+  "fr": "entretien de retour (après une absence)",
+  "term": {
+   "uk": "return-to-work interview",
+   "us": "return-to-work meeting"
+  },
+  "ipa": {
+   "uk": "/rɪˌtɜːn tə ˈwɜːk ˌɪntəvjuː/",
+   "us": "/rɪˌtɜːrn tə ˈwɜːrk ˌmiːtɪŋ/"
+  },
+  "def": "A short conversation between a manager and an employee who has just come back from sick leave, to welcome them and discuss any support they need.",
+  "registers": {
+   "formal": {
+    "uk": "return-to-work interview",
+    "us": "return-to-work meeting",
+    "ex": "A [[return-to-work interview]] will be held on the employee's first day back.",
+    "ex_us": "A [[return-to-work meeting]] will be held on the employee's first day back."
+   },
+   "everyday": {
+    "uk": "catch-up",
+    "us": "check-in",
+    "ex": "Let's have a quick [[catch-up]] on your first morning back, nothing formal.",
+    "ex_us": "Let's have a quick [[check-in]] your first morning back, nothing formal."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold a return-to-work interview",
+   "on someone's first day back",
+   "to bring someone up to speed",
+   "to agree a return-to-work plan"
+  ],
+  "note_fr": "Pratique managériale très répandue au Royaume-Uni, sans caractère médical : le manager ne doit pas demander le diagnostic. À distinguer de la visite de reprise française, qui relève du médecin du travail. « Interview » n'évoque pas ici un entretien d'embauche, mais « meeting » ou « conversation » paraît souvent moins intimidant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-048",
+  "level": 2,
+  "fr": "temps partiel thérapeutique (reprise progressive)",
+  "term": {
+   "uk": "phased return to work",
+   "us": "gradual return to work"
+  },
+  "ipa": {
+   "uk": "/ˌfeɪzd rɪˈtɜːn tə ˈwɜːk/",
+   "us": "/ˌɡrædʒuəl rɪˈtɜːrn tə ˈwɜːrk/"
+  },
+  "def": "An arrangement under which someone coming back from illness works reduced hours or lighter duties at first, building up gradually.",
+  "registers": {
+   "formal": {
+    "uk": "phased return to work",
+    "us": "gradual return to work",
+    "ex": "The occupational health report recommends a [[phased return to work]] over six weeks.",
+    "ex_us": "The health care provider recommends a [[gradual return to work]] over six weeks."
+   },
+   "everyday": {
+    "uk": "phased return",
+    "us": "reduced schedule",
+    "ex": "She's on a [[phased return]], three mornings a week for now.",
+    "ex_us": "She's on a [[reduced schedule]], three mornings a week for now."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to come back on a phased return",
+   "to build up one's hours gradually",
+   "to work reduced hours",
+   "to return on a part-time basis for medical reasons"
+  ],
+  "note_fr": "« Therapeutic part-time » est littéral et opaque : dites « phased return » puis expliquez. Particularité française : le temps partiel thérapeutique est prescrit par le médecin traitant et s'accompagne d'indemnités journalières qui compensent en partie la perte de salaire ; le « phased return » britannique est un simple accord avec l'employeur.",
+  "french_concept": true,
+  "explain": {
+   "written": "Temps partiel thérapeutique is a part-time return to work on medical grounds, prescribed by the employee's own doctor and agreed with the employer, during which the social security system pays daily benefits that partly make up for the reduction in salary.",
+   "spoken": "It's a phased return prescribed by the doctor. The employee works part-time for a while, and social security makes up part of the difference in pay."
+  }
+ },
+ {
+  "id": "hs-049",
+  "level": 1,
+  "fr": "apte (au poste)",
+  "term": {
+   "uk": "fit for work",
+   "us": "fit for duty"
+  },
+  "ipa": {
+   "uk": "/ˌfɪt fə ˈwɜːk/",
+   "us": "/ˌfɪt fər ˈduːti/"
+  },
+  "def": "Well enough, physically and mentally, to do one's job.",
+  "registers": {
+   "formal": {
+    "uk": "fit for work",
+    "us": "fit for duty",
+    "ex": "The employee has been declared [[fit for work]] without restriction.",
+    "ex_us": "The employee has been declared [[fit for duty]] without restrictions."
+   },
+   "everyday": {
+    "uk": "well enough to work",
+    "us": "well enough to work",
+    "ex": "Do you feel [[well enough to work]] full days yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "fitness for work",
+   "to be declared fit",
+   "to be fit to return",
+   "to be cleared for full duty (US)"
+  ],
+  "note_fr": "« Apt » signifie « approprié, pertinent » (« an apt remark »), jamais apte médicalement. « Fit » veut aussi dire « en forme » : le contexte tranche. Aptitude médicale : « fitness for work » (UK), « fitness for duty » (US) ; « aptitude » en anglais désigne une disposition naturelle (« aptitude test »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-050",
+  "level": 2,
+  "fr": "apte avec réserves / avec aménagements",
+  "term": {
+   "uk": "fit for work with adjustments",
+   "us": "fit for duty with restrictions"
+  },
+  "ipa": {
+   "uk": "/ˌfɪt fə ˈwɜːk wɪð əˈdʒʌstmənts/",
+   "us": "/ˌfɪt fər ˈduːti wɪð rɪˈstrɪkʃ(ə)nz/"
+  },
+  "def": "Able to work provided that certain changes are made to the job or that certain tasks are avoided.",
+  "registers": {
+   "formal": {
+    "uk": "fit for work subject to adjustments",
+    "us": "fit for duty with restrictions",
+    "ex": "The physician declared the employee [[fit for work subject to adjustments]] to her workstation.",
+    "ex_us": "The physician released the employee as [[fit for duty with restrictions]] on lifting."
+   },
+   "everyday": {
+    "uk": "fine to work as long as",
+    "us": "cleared to work as long as",
+    "ex": "He's [[fine to work as long as]] he doesn't lift anything heavy.",
+    "ex_us": "He's [[cleared to work as long as]] he doesn't lift anything heavy."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "medical restrictions",
+   "no heavy lifting",
+   "no night work",
+   "to comply with the physician's recommendations"
+  ],
+  "note_fr": "« With reserves » est un calque : on parle de « restrictions », « recommendations » ou « adjustments ». En France, l'employeur doit prendre en considération les préconisations du médecin du travail et, s'il ne peut les suivre, s'en expliquer par écrit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-051",
+  "level": 2,
+  "fr": "inaptitude (médicale au poste)",
+  "term": {
+   "uk": "unfitness for work",
+   "us": "unfitness for work"
+  },
+  "ipa": {
+   "uk": "/ʌnˈfɪtnəs fə ˈwɜːk/",
+   "us": "/ʌnˈfɪtnəs fər ˈwɜːrk/"
+  },
+  "def": "The situation in which an employee's state of health no longer allows them to do their job.",
+  "registers": {
+   "formal": {
+    "uk": "medical unfitness for the position",
+    "us": "medical unfitness for the position",
+    "ex": "A finding of [[medical unfitness for the position]] may only be made by the occupational health physician."
+   },
+   "everyday": {
+    "uk": "no longer able to do the job",
+    "us": "no longer able to do the job",
+    "ex": "The doctor says he's [[no longer able to do the job]], so we need to look at what else we can offer him."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be declared unfit for one's position",
+   "unfitness of occupational origin",
+   "a finding of unfitness",
+   "medical incapacity (UK)"
+  ],
+  "note_fr": "Ni « inaptitude » (inexistant dans ce sens) ni « incompetence » ou « inability » : l'inaptitude est médicale et vise le poste, pas la valeur du salarié. Ne confondez pas avec l'insuffisance professionnelle (« poor performance », « lack of capability »). Au Royaume-Uni, la notion voisine est le licenciement pour « capability (ill health) » ; aux États-Unis, on raisonne en « inability to perform the essential functions of the job ».",
+  "french_concept": true,
+  "explain": {
+   "written": "In French law, 'inaptitude' is a formal finding by the occupational health physician that an employee is medically unfit for his or her position; it obliges the employer to look for a suitable alternative role before any dismissal can be contemplated.",
+   "spoken": "It's when the occupational health doctor formally says the person can't do their job any more for health reasons. From then on we have to look for another role for them."
+  }
+ },
+ {
+  "id": "hs-052",
+  "level": 3,
+  "fr": "avis d'inaptitude",
+  "term": {
+   "uk": "certificate of unfitness",
+   "us": "certificate of unfitness"
+  },
+  "ipa": {
+   "uk": "/səˈtɪfɪkət əv ʌnˈfɪtnəs/",
+   "us": "/sərˈtɪfɪkət əv ʌnˈfɪtnəs/"
+  },
+  "def": "The written opinion in which the French occupational health physician declares an employee unfit for their position and indicates what other work they could do.",
+  "registers": {
+   "formal": {
+    "uk": "certificate of unfitness",
+    "us": "certificate of unfitness",
+    "ex": "The [[certificate of unfitness]] states that the employee could hold a sedentary position without any carrying of loads."
+   },
+   "everyday": {
+    "uk": "unfitness opinion",
+    "us": "unfitness opinion",
+    "ex": "Have we received the doctor's [[unfitness opinion]] in writing yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a certificate of unfitness",
+   "to challenge the opinion before the employment tribunal",
+   "the physician's written findings",
+   "a workplace study"
+  ],
+  "note_fr": "« Avis » ne se traduit pas par « advice » (conseil) ni « notice » : c'est un « opinion », un « finding » ou un « certificate ». L'avis s'impose à l'employeur comme au salarié, sauf contestation devant le conseil de prud'hommes. Il peut comporter une mention dispensant l'employeur de toute recherche de reclassement.",
+  "french_concept": true,
+  "explain": {
+   "written": "The avis d'inaptitude is the written opinion by which the occupational health physician, after examining the employee and studying the position, declares the employee unfit for it and sets out his or her findings as to the kind of work the employee could still perform.",
+   "spoken": "It's the doctor's official written opinion that the employee can't do this job any more. It also tells us what kind of work they could still do, and that's our starting point for finding another role."
+  }
+ },
+ {
+  "id": "hs-053",
+  "level": 2,
+  "fr": "reclassement (obligation de)",
+  "term": {
+   "uk": "redeployment",
+   "us": "reassignment"
+  },
+  "ipa": {
+   "uk": "/ˌriːdɪˈplɔɪmənt/",
+   "us": "/ˌriːəˈsaɪnmənt/"
+  },
+  "def": "Moving an employee who can no longer do their job to a different job within the company or group.",
+  "registers": {
+   "formal": {
+    "uk": "redeployment",
+    "us": "reassignment",
+    "ex": "The Company is required to make a genuine search for [[redeployment]] opportunities within the group.",
+    "ex_us": "The Company is required to make a genuine search for [[reassignment]] opportunities within the group."
+   },
+   "everyday": {
+    "uk": "to find someone another role",
+    "us": "to find someone another position",
+    "ex": "Before we talk about anything else, we have to try to [[find her another role]].",
+    "ex_us": "Before we talk about anything else, we have to try to [[find her another position]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to redeploy an employee",
+   "the duty to seek redeployment",
+   "a redeployment offer",
+   "reassignment to a vacant position (US)"
+  ],
+  "note_fr": "« Reclassification » veut dire changement de catégorie ou requalification, pas reclassement. L'obligation française est étendue (recherche dans l'entreprise et, le cas échéant, le groupe ; consultation du CSE) et s'impose sauf dispense expresse du médecin du travail. Aux États-Unis, la réaffectation à un poste vacant n'est qu'une forme possible de « reasonable accommodation ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Where an employee has been declared medically unfit, French law places the employer under a redeployment duty (obligation de reclassement): it must make a genuine, documented search for another position suited to the employee's capacities before it may consider dismissal.",
+   "spoken": "Once someone's been declared unfit, we can't just let them go. We first have to look seriously for another job they could do, and keep a record of that search."
+  }
+ },
+ {
+  "id": "hs-054",
+  "level": 2,
+  "fr": "poste de reclassement adapté",
+  "term": {
+   "uk": "suitable alternative role",
+   "us": "suitable alternative position"
+  },
+  "ipa": {
+   "uk": "/ˌsuːtəb(ə)l ɔːlˈtɜːnətɪv rəʊl/",
+   "us": "/ˌsuːtəb(ə)l ɔːlˈtɜːrnətɪv pəˈzɪʃ(ə)n/"
+  },
+  "def": "A different job that matches the employee's skills and medical restrictions and can be offered in place of the one they can no longer do.",
+  "registers": {
+   "formal": {
+    "uk": "suitable alternative employment",
+    "us": "suitable alternative position",
+    "ex": "The Company has identified no [[suitable alternative employment]] compatible with the physician's findings.",
+    "ex_us": "The Company has identified no [[suitable alternative position]] compatible with the physician's findings."
+   },
+   "everyday": {
+    "uk": "another role that would suit",
+    "us": "another job that would work for",
+    "ex": "We've found [[another role that would suit]] him in the planning team.",
+    "ex_us": "We've found [[another job that would work for]] him on the planning team."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to offer an alternative role",
+   "to turn down an offer",
+   "comparable to the previous position",
+   "compatible with the medical restrictions"
+  ],
+  "note_fr": "« Alternative » = de remplacement ; « alternate » (US) signifie plutôt « un sur deux » ou « suppléant ». « Adapted post » est un calque. Notez « in the team » (UK) et « on the team » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-055",
+  "level": 2,
+  "fr": "poste aménagé / travaux légers",
+  "term": {
+   "uk": "light duties",
+   "us": "light duty"
+  },
+  "ipa": {
+   "uk": "/ˌlaɪt ˈdjuːtiz/",
+   "us": "/ˌlaɪt ˈduːti/"
+  },
+  "def": "Temporary work that is less physically or mentally demanding, given to someone recovering from illness or injury.",
+  "registers": {
+   "formal": {
+    "uk": "amended duties",
+    "us": "modified duty",
+    "ex": "The employee will be assigned to [[amended duties]] until he has fully recovered.",
+    "ex_us": "The employee will be assigned to [[modified duty]] until he has fully recovered."
+   },
+   "everyday": {
+    "uk": "light duties",
+    "us": "light duty",
+    "ex": "He's on [[light duties]] until the physio gives the all-clear.",
+    "ex_us": "He's on [[light duty]] until the physical therapist gives the all-clear."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be put on light duties",
+   "restricted duties",
+   "transitional work (US)",
+   "until fully recovered"
+  ],
+  "note_fr": "Pluriel au Royaume-Uni (« light duties »), singulier aux États-Unis (« light duty »). « Amended duties » est la formule du fit note britannique. Kinésithérapeute : « physiotherapist / physio » (UK), « physical therapist » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-056",
+  "level": 1,
+  "fr": "aménagement du poste de travail",
+  "term": {
+   "uk": "workplace adjustments",
+   "us": "workplace accommodations"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkpleɪs əˌdʒʌstmənts/",
+   "us": "/ˈwɜːrkpleɪs əˌkɑːməˈdeɪʃ(ə)nz/"
+  },
+  "def": "Changes made to a job, a workstation or working arrangements so that a person with a health condition or disability can do their work.",
+  "registers": {
+   "formal": {
+    "uk": "reasonable adjustments",
+    "us": "reasonable accommodation",
+    "ex": "The employer is under a duty to make [[reasonable adjustments]] for disabled employees.",
+    "ex_us": "The employer must provide [[reasonable accommodation]] to qualified employees with disabilities."
+   },
+   "everyday": {
+    "uk": "adjustments",
+    "us": "accommodations",
+    "ex": "What [[adjustments]] would make the biggest difference to you day to day?",
+    "ex_us": "What [[accommodations]] would make the biggest difference for you day to day?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make reasonable adjustments",
+   "to request an accommodation (US)",
+   "an adjustable desk",
+   "to adapt a workstation"
+  ],
+  "note_fr": "Différence UK/US nette : « reasonable adjustments » au Royaume-Uni, « reasonable accommodation » aux États-Unis, où « accommodation » ne désigne pas ici un logement. Ces deux notions relèvent du droit du handicap ; en France, l'aménagement de poste résulte aussi, plus largement, des préconisations du médecin du travail. « Arrangement of the post » est un calque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-057",
+  "level": 1,
+  "fr": "poste de travail",
+  "term": {
+   "uk": "workstation",
+   "us": "workstation"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkˌsteɪʃ(ə)n/",
+   "us": "/ˈwɜːrkˌsteɪʃ(ə)n/"
+  },
+  "def": "The place where a person does their job, with its desk, equipment or machine.",
+  "registers": {
+   "formal": {
+    "uk": "workstation",
+    "us": "workstation",
+    "ex": "Each [[workstation]] shall be assessed by a competent person before first use."
+   },
+   "everyday": {
+    "uk": "desk set-up",
+    "us": "desk setup",
+    "ex": "Your [[desk set-up]] is all wrong: the screen's far too low.",
+    "ex_us": "Your [[desk setup]] is all wrong: the screen's way too low."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a workstation assessment",
+   "to adapt a workstation",
+   "a sit-stand desk",
+   "a shared workstation"
+  ],
+  "note_fr": "« Post » désigne l'emploi (surtout UK), pas l'emplacement physique : pour le lieu et l'équipement, « workstation ». « Work post » est un calque. Sur une chaîne de production, on parle aussi de « station ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-058",
+  "level": 3,
+  "fr": "pénibilité (facteurs de risques professionnels)",
+  "term": {
+   "uk": "arduous working conditions",
+   "us": "arduous working conditions"
+  },
+  "ipa": {
+   "uk": "/ˌɑːdʒuəs ˈwɜːkɪŋ kənˌdɪʃ(ə)nz/",
+   "us": "/ˌɑːrdʒuəs ˈwɜːrkɪŋ kənˌdɪʃ(ə)nz/"
+  },
+  "def": "Working conditions that are physically demanding or harmful enough to leave lasting effects on health over a career.",
+  "registers": {
+   "formal": {
+    "uk": "exposure to occupational risk factors",
+    "us": "exposure to occupational risk factors",
+    "ex": "Employees whose [[exposure to occupational risk factors]] exceeds the statutory thresholds acquire points on a personal prevention account."
+   },
+   "everyday": {
+    "uk": "physically demanding work",
+    "us": "physically demanding work",
+    "ex": "Twenty years of nights and [[physically demanding work]] take their toll."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "night work",
+   "repetitive work",
+   "to take its toll on health",
+   "to be exposed above the threshold"
+  ],
+  "note_fr": "« Penibility » n'existe pas ; « hardship » évoque plutôt les difficultés matérielles ou l'expatriation. Le dispositif français (compte professionnel de prévention, points ouvrant droit à formation, temps partiel ou départ anticipé à la retraite) n'a pas d'équivalent britannique ou américain : décrivez-le.",
+  "french_concept": true,
+  "explain": {
+   "written": "French law recognises 'pénibilité', that is, lasting exposure to certain occupational risk factors such as night work or repetitive work; employees exposed above statutory thresholds earn points on a personal account, which they may use for training, part-time work or earlier retirement.",
+   "spoken": "It's the French way of recognising that some jobs wear people out, like night work or repetitive work. People in those jobs build up points they can use to retrain, go part-time or retire a bit earlier."
+  }
+ },
+ {
+  "id": "hs-059",
+  "level": 2,
+  "fr": "risques psychosociaux (RPS)",
+  "term": {
+   "uk": "psychosocial risks",
+   "us": "psychosocial hazards"
+  },
+  "ipa": {
+   "uk": "/ˌsaɪkəʊˈsəʊʃ(ə)l ˈrɪsks/",
+   "us": "/ˌsaɪkoʊˈsoʊʃ(ə)l ˈhæzərdz/"
+  },
+  "def": "Risks to mental and physical health arising from the way work is organised and managed, such as excessive pressure, lack of control or poor relationships.",
+  "registers": {
+   "formal": {
+    "uk": "psychosocial risks",
+    "us": "psychosocial hazards",
+    "ex": "The assessment of [[psychosocial risks]] forms an integral part of the employer's risk assessment.",
+    "ex_us": "The assessment of [[psychosocial hazards]] forms an integral part of the employer's hazard assessment."
+   },
+   "everyday": {
+    "uk": "stress risks",
+    "us": "workplace stressors",
+    "ex": "We've mapped the physical hazards, but nobody's looked at the [[stress risks]].",
+    "ex_us": "We've mapped the physical hazards, but nobody's looked at the [[workplace stressors]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to assess psychosocial risks",
+   "a stress risk assessment",
+   "excessive work pressure",
+   "lack of control over one's work"
+  ],
+  "note_fr": "Le terme est compris des spécialistes (c'est le vocabulaire européen), mais un manager britannique dira « work-related stress » et un Américain « workplace stress ». N'utilisez pas le sigle « RPS » en anglais. En France, ces risques doivent figurer dans l'évaluation des risques au même titre que les risques physiques.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-060",
+  "level": 1,
+  "fr": "stress au travail",
+  "term": {
+   "uk": "work-related stress",
+   "us": "workplace stress"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːk rɪˌleɪtɪd ˈstres/",
+   "us": "/ˌwɜːrkpleɪs ˈstres/"
+  },
+  "def": "The harmful reaction people have to excessive pressure or demands placed on them at work.",
+  "registers": {
+   "formal": {
+    "uk": "work-related stress",
+    "us": "workplace stress",
+    "ex": "Managers are expected to identify the early signs of [[work-related stress]] in their teams.",
+    "ex_us": "Managers are expected to identify the early signs of [[workplace stress]] on their teams."
+   },
+   "everyday": {
+    "uk": "to be under pressure",
+    "us": "to be under pressure",
+    "ex": "The whole team has [[been under a lot of pressure]] since the reorganisation.",
+    "ex_us": "The whole team has [[been under a lot of pressure]] since the reorganization."
+   },
+   "informal": {
+    "uk": "stressed out",
+    "us": "stressed out",
+    "ex": "Everyone's completely [[stressed out]] at the moment.",
+    "ex_us": "Everyone's completely [[stressed out]] right now."
+   }
+  },
+  "collocations": [
+   "to suffer from stress",
+   "to be off with stress (UK)",
+   "to cope with pressure",
+   "a stressful job"
+  ],
+  "note_fr": "Distinguez « stressful » (stressant : a stressful job) et « stressed » (stressé : I feel stressed). « Stressing » ne s'emploie pas comme adjectif. Les Britanniques distinguent volontiers « pressure » (qui peut être stimulante) et « stress » (qui est nocif).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-061",
+  "level": 1,
+  "fr": "épuisement professionnel (burn-out)",
+  "term": {
+   "uk": "burnout",
+   "us": "burnout"
+  },
+  "ipa": {
+   "uk": "/ˈbɜːnaʊt/",
+   "us": "/ˈbɜːrnaʊt/"
+  },
+  "def": "A state of physical and emotional exhaustion caused by prolonged stress at work.",
+  "registers": {
+   "formal": {
+    "uk": "occupational burnout",
+    "us": "occupational burnout",
+    "ex": "The programme aims to prevent [[occupational burnout]] among care staff.",
+    "ex_us": "The program aims to prevent [[occupational burnout]] among care staff."
+   },
+   "everyday": {
+    "uk": "to burn out",
+    "us": "to burn out",
+    "ex": "If she carries on at this pace, she'll [[burn out]] before the summer.",
+    "ex_us": "If she keeps up this pace, she'll [[burn out]] before the summer."
+   },
+   "informal": {
+    "uk": "fried",
+    "us": "fried",
+    "ex": "I'm completely [[fried]]. I need a proper break.",
+    "ex_us": "I'm completely [[fried]]. I need a real break."
+   }
+  },
+  "collocations": [
+   "to suffer from burnout",
+   "to be burnt out (UK) / burned out (US)",
+   "to be on the verge of burnout",
+   "signs of burnout"
+  ],
+  "note_fr": "Le nom s'écrit en un mot (« burnout »), le verbe en deux (« to burn out »). On ne dit pas « to make a burnout » : « to burn out », « to suffer from burnout ». Participe : « burnt out » (UK), « burned out » (US). En France, le burn-out ne figure pas dans les tableaux de maladies professionnelles ; sa reconnaissance passe par une procédure spécifique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-062",
+  "level": 1,
+  "fr": "charge de travail",
+  "term": {
+   "uk": "workload",
+   "us": "workload"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkləʊd/",
+   "us": "/ˈwɜːrkloʊd/"
+  },
+  "def": "The amount of work that a person or team has to do.",
+  "registers": {
+   "formal": {
+    "uk": "workload",
+    "us": "workload",
+    "ex": "The employee's [[workload]] shall be reviewed regularly with his or her line manager.",
+    "ex_us": "The employee's [[workload]] shall be reviewed regularly with his or her supervisor."
+   },
+   "everyday": {
+    "uk": "how much someone has on",
+    "us": "how much someone has on their plate",
+    "ex": "I had no idea [[how much she had on]] until I saw her to-do list.",
+    "ex_us": "I had no idea [[how much she had on her plate]] until I saw her to-do list."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a heavy workload",
+   "to manage one's workload",
+   "to reduce someone's workload",
+   "to spread the workload"
+  ],
+  "note_fr": "« Charge of work » et « work charge » sont des calques : « charge » signifie frais ou accusation. « Workload » s'écrit en un mot. « To have a lot on » (UK) et « to have a lot on one's plate » = avoir beaucoup à faire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-063",
+  "level": 1,
+  "fr": "être surchargé(e) de travail",
+  "term": {
+   "uk": "to be overworked",
+   "us": "to be overworked"
+  },
+  "ipa": {
+   "uk": "/bi ˌəʊvəˈwɜːkt/",
+   "us": "/bi ˌoʊvərˈwɜːrkt/"
+  },
+  "def": "To have more work than one can reasonably do.",
+  "registers": {
+   "formal": {
+    "uk": "to carry an excessive workload",
+    "us": "to carry an excessive workload",
+    "ex": "Several members of the team [[carry an excessive workload]], which the Company undertakes to address."
+   },
+   "everyday": {
+    "uk": "to be overstretched",
+    "us": "to be stretched thin",
+    "ex": "The team's [[overstretched]] as it is. We can't take on another project.",
+    "ex_us": "The team's [[stretched thin]] as it is. We can't take on another project."
+   },
+   "informal": {
+    "uk": "to be snowed under",
+    "us": "to be swamped",
+    "ex": "Sorry for the slow reply, I've [[been snowed under]] all week.",
+    "ex_us": "Sorry for the slow reply, I've [[been swamped]] all week."
+   }
+  },
+  "collocations": [
+   "to be overloaded with work",
+   "to be run off one's feet (UK)",
+   "to be up to one's eyes in work",
+   "to take on too much"
+  ],
+  "note_fr": "« Overbooked » ne s'applique qu'aux réservations ; « I'm charged » ne veut rien dire. « Snowed under » et « run off one's feet » sont britanniques, « swamped » et « slammed » plutôt américains. « Busy » reste neutre, voire positif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-064",
+  "level": 1,
+  "fr": "bien-être au travail (qualité de vie au travail)",
+  "term": {
+   "uk": "wellbeing at work",
+   "us": "employee well-being"
+  },
+  "ipa": {
+   "uk": "/ˌwelˈbiːɪŋ ət ˈwɜːk/",
+   "us": "/ɪmˈplɔɪiː ˌwelˈbiːɪŋ/"
+  },
+  "def": "The state of feeling healthy, comfortable and reasonably happy in one's job.",
+  "registers": {
+   "formal": {
+    "uk": "employee wellbeing",
+    "us": "employee well-being",
+    "ex": "The Company is committed to promoting [[employee wellbeing]] at every level of the organisation.",
+    "ex_us": "The Company is committed to promoting [[employee well-being]] at every level of the organization."
+   },
+   "everyday": {
+    "uk": "wellbeing",
+    "us": "wellness",
+    "ex": "We've done a lot on [[wellbeing]] this year, but a fruit basket doesn't fix a staffing problem.",
+    "ex_us": "We've done a lot on [[wellness]] this year, but a fruit basket doesn't fix a staffing problem."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a wellbeing policy",
+   "a wellness program (US)",
+   "quality of working life",
+   "to look after one's wellbeing"
+  ],
+  "note_fr": "Graphie : « wellbeing » en un mot est aujourd'hui courant au Royaume-Uni, « well-being » avec trait d'union domine aux États-Unis, où « wellness » désigne les programmes d'entreprise. « Welfare » relève d'un autre registre : conditions matérielles (sanitaires, repos) au Royaume-Uni, aides sociales aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-065",
+  "level": 1,
+  "fr": "santé mentale",
+  "term": {
+   "uk": "mental health",
+   "us": "mental health"
+  },
+  "ipa": {
+   "uk": "/ˌment(ə)l ˈhelθ/",
+   "us": "/ˌment(ə)l ˈhelθ/"
+  },
+  "def": "A person's psychological and emotional condition.",
+  "registers": {
+   "formal": {
+    "uk": "mental health",
+    "us": "mental health",
+    "ex": "The employer's duty extends to the protection of employees' physical and [[mental health]]."
+   },
+   "everyday": {
+    "uk": "how someone is coping",
+    "us": "how someone is doing",
+    "ex": "I'm less worried about the deadline than about [[how he's coping]].",
+    "ex_us": "I'm less worried about the deadline than about [[how he's doing]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a mental health condition",
+   "mental health problems",
+   "to struggle with one's mental health",
+   "a mental health first aider (UK)"
+  ],
+  "note_fr": "« Mental » employé seul est une insulte familière au Royaume-Uni (« he's mental » = il est cinglé) : dites toujours « mental health ». Préférez « a mental health condition » à « a mental illness », plus lourd. « To struggle » = avoir du mal, sans idée de lutte physique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-066",
+  "level": 2,
+  "fr": "programme d'aide aux salariés (cellule d'écoute)",
+  "term": {
+   "uk": "employee assistance programme",
+   "us": "employee assistance program"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪiː əˈsɪstəns ˌprəʊɡræm/",
+   "us": "/ɪmˈplɔɪiː əˈsɪstəns ˌproʊɡræm/"
+  },
+  "def": "A confidential service, paid for by the employer, offering employees counselling and advice on personal or work-related problems.",
+  "registers": {
+   "formal": {
+    "uk": "employee assistance programme",
+    "us": "employee assistance program",
+    "ex": "All staff have access to a confidential [[employee assistance programme]], available round the clock.",
+    "ex_us": "All staff have access to a confidential [[employee assistance program]], available around the clock."
+   },
+   "everyday": {
+    "uk": "EAP",
+    "us": "EAP",
+    "ex": "Have you thought about calling the [[EAP]]? It's free and nobody here will know."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a confidential helpline",
+   "to offer counselling (UK) / counseling (US)",
+   "to signpost someone to support",
+   "free of charge"
+  ],
+  "note_fr": "« Programme » (UK) / « program » (US) ; « counselling » (UK) / « counseling » (US). « Assistance » est ici correct, mais « to assist to a meeting » reste un faux ami (assister à = « to attend »). « To signpost someone to » (UK) = orienter quelqu'un vers un dispositif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-067",
+  "level": 1,
+  "fr": "équipement de protection individuelle (EPI)",
+  "term": {
+   "uk": "personal protective equipment",
+   "us": "personal protective equipment"
+  },
+  "ipa": {
+   "uk": "/ˈpɜːs(ə)nəl prəˈtektɪv ɪˌkwɪpmənt/",
+   "us": "/ˈpɜːrs(ə)nəl prəˈtektɪv ɪˌkwɪpmənt/"
+  },
+  "def": "Clothing and equipment worn to protect a person from hazards at work, such as helmets, gloves, goggles and safety boots.",
+  "registers": {
+   "formal": {
+    "uk": "personal protective equipment",
+    "us": "personal protective equipment",
+    "ex": "The Company shall provide all necessary [[personal protective equipment]] free of charge."
+   },
+   "everyday": {
+    "uk": "PPE",
+    "us": "PPE",
+    "ex": "Nobody goes onto the shop floor without [[PPE]], and that includes visitors."
+   },
+   "informal": {
+    "uk": "safety gear",
+    "us": "safety gear",
+    "ex": "Grab your [[safety gear]] and I'll show you round.",
+    "ex_us": "Grab your [[safety gear]] and I'll show you around."
+   }
+  },
+  "collocations": [
+   "to wear PPE",
+   "to issue PPE",
+   "safety boots",
+   "hearing protection"
+  ],
+  "note_fr": "« Equipment » est indénombrable : jamais « equipments » ni « an equipment » ; on dit « a piece of equipment ». Le sigle se prononce lettre à lettre : P-P-E. « Individual protection equipment » est un calque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-068",
+  "level": 1,
+  "fr": "casque de chantier",
+  "term": {
+   "uk": "hard hat",
+   "us": "hard hat"
+  },
+  "ipa": {
+   "uk": "/ˈhɑːd hæt/",
+   "us": "/ˈhɑːrd hæt/"
+  },
+  "def": "A rigid helmet worn on building sites and in factories to protect the head.",
+  "registers": {
+   "formal": {
+    "uk": "safety helmet",
+    "us": "protective helmet",
+    "ex": "A [[safety helmet]] must be worn at all times beyond this point.",
+    "ex_us": "A [[protective helmet]] must be worn at all times beyond this point."
+   },
+   "everyday": {
+    "uk": "hard hat",
+    "us": "hard hat",
+    "ex": "You'll need a [[hard hat]] and a hi-vis jacket for the site visit.",
+    "ex_us": "You'll need a [[hard hat]] and a hi-vis vest for the site visit."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a hi-vis jacket (UK) / vest (US)",
+   "safety goggles",
+   "ear defenders (UK) / earmuffs (US)",
+   "steel-toe boots"
+  ],
+  "note_fr": "« Casque » a plusieurs traductions : « hard hat / safety helmet » (chantier), « helmet » (moto, vélo), « headset » (casque téléphonique), « headphones » (audio). Gilet haute visibilité : « hi-vis jacket » (UK), « hi-vis vest » ou « safety vest » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-069",
+  "level": 1,
+  "fr": "consignes de sécurité",
+  "term": {
+   "uk": "safety instructions",
+   "us": "safety instructions"
+  },
+  "ipa": {
+   "uk": "/ˈseɪfti ɪnˌstrʌkʃ(ə)nz/",
+   "us": "/ˈseɪfti ɪnˌstrʌkʃ(ə)nz/"
+  },
+  "def": "The rules that tell people how to behave and work so as to avoid accidents.",
+  "registers": {
+   "formal": {
+    "uk": "safety procedures",
+    "us": "safety procedures",
+    "ex": "Failure to follow the Company's [[safety procedures]] may result in disciplinary action."
+   },
+   "everyday": {
+    "uk": "safety rules",
+    "us": "safety rules",
+    "ex": "The [[safety rules]] are there for a reason, even when they slow us down."
+   },
+   "informal": {
+    "uk": "the dos and don'ts",
+    "us": "the dos and don'ts",
+    "ex": "Sam will take you through [[the dos and don'ts]] before you start."
+   }
+  },
+  "collocations": [
+   "to follow safety procedures",
+   "to ignore a safety rule",
+   "a safety notice",
+   "safe working practices"
+  ],
+  "note_fr": "« Consigne » ne se traduit ni par « consign » ni par « order ». On « suit » les règles avec « to follow », « to observe » ou « to comply with » ; « to respect the rules » est compris mais moins idiomatique. Affichage obligatoire : « safety notices ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-070",
+  "level": 2,
+  "fr": "formation à la sécurité (accueil sécurité des nouveaux arrivants)",
+  "term": {
+   "uk": "safety induction",
+   "us": "safety orientation"
+  },
+  "ipa": {
+   "uk": "/ˈseɪfti ɪnˌdʌkʃ(ə)n/",
+   "us": "/ˈseɪfti ˌɔːriənˈteɪʃ(ə)n/"
+  },
+  "def": "The safety training given to new employees, temporary workers or visitors before they start work on a site.",
+  "registers": {
+   "formal": {
+    "uk": "health and safety induction",
+    "us": "safety orientation",
+    "ex": "No contractor may start work on site before completing the [[health and safety induction]].",
+    "ex_us": "No contractor may start work on site before completing the [[safety orientation]]."
+   },
+   "everyday": {
+    "uk": "safety briefing",
+    "us": "safety briefing",
+    "ex": "It's a twenty-minute [[safety briefing]], and then you'll get your badge."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to attend a safety induction",
+   "refresher training",
+   "to be trained in",
+   "a site induction (UK)"
+  ],
+  "note_fr": "« Formation » est un faux ami (= disposition, constitution) : la formation se dit « training », indénombrable (« a training course », jamais « a training » dans un écrit soigné, ni « trainings »). « Induction » (UK) correspond à « orientation » (US). Recyclage : « refresher training ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-071",
+  "level": 2,
+  "fr": "responsable sécurité (HSE)",
+  "term": {
+   "uk": "health and safety officer",
+   "us": "safety manager"
+  },
+  "ipa": {
+   "uk": "/ˌhelθ ən ˈseɪfti ˌɒfɪsə/",
+   "us": "/ˈseɪfti ˌmænɪdʒər/"
+  },
+  "def": "The person in an organisation responsible for making sure that health and safety rules are applied.",
+  "registers": {
+   "formal": {
+    "uk": "health and safety manager",
+    "us": "environmental health and safety manager",
+    "ex": "The [[health and safety manager]] reports directly to the site director.",
+    "ex_us": "The [[environmental health and safety manager]] reports directly to the plant manager."
+   },
+   "everyday": {
+    "uk": "health and safety officer",
+    "us": "safety manager",
+    "ex": "I'll check with our [[health and safety officer]] and come back to you.",
+    "ex_us": "I'll check with our [[safety manager]] and get back to you."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the EHS team",
+   "the competent person (UK)",
+   "a safety adviser",
+   "to be in charge of safety on site"
+  ],
+  "note_fr": "Piège de sigle : au Royaume-Uni, « the HSE » désigne l'autorité publique (Health and Safety Executive), pas le service de l'entreprise ; dire « our HSE manager » peut donc dérouter. On dit « health and safety » (UK), « EHS » ou « EH&S » (US). « Responsible » n'est pas un nom : « the person responsible for safety », « the safety manager ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-072",
+  "level": 2,
+  "fr": "comité santé et sécurité (CSSCT)",
+  "term": {
+   "uk": "health and safety committee",
+   "us": "safety committee"
+  },
+  "ipa": {
+   "uk": "/ˌhelθ ən ˈseɪfti kəˌmɪti/",
+   "us": "/ˈseɪfti kəˌmɪti/"
+  },
+  "def": "A group of management and employee representatives that meets regularly to discuss health and safety matters.",
+  "registers": {
+   "formal": {
+    "uk": "health and safety committee",
+    "us": "joint safety committee",
+    "ex": "The matter will be placed on the agenda of the next meeting of the [[health and safety committee]].",
+    "ex_us": "The matter will be placed on the agenda of the next meeting of the [[joint safety committee]]."
+   },
+   "everyday": {
+    "uk": "safety committee",
+    "us": "safety committee",
+    "ex": "It came up at the [[safety committee]] last month, and nothing's been done since."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a safety representative",
+   "to sit on the committee",
+   "to consult employee representatives",
+   "to raise an item at the committee"
+  ],
+  "note_fr": "En France, les attributions santé-sécurité appartiennent au CSE, qui peut les confier à une commission spécialisée (la CSSCT) : évitez les sigles et parlez de « the works council's health and safety committee ». Au Royaume-Uni, les « safety representatives » sont désignés par les syndicats reconnus ou élus par le personnel. Orthographe : « committee », deux m, deux t, deux e.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-073",
+  "level": 2,
+  "fr": "causerie sécurité (quart d'heure sécurité)",
+  "term": {
+   "uk": "toolbox talk",
+   "us": "tailgate meeting"
+  },
+  "ipa": {
+   "uk": "/ˈtuːlbɒks tɔːk/",
+   "us": "/ˈteɪlɡeɪt ˌmiːtɪŋ/"
+  },
+  "def": "A short, informal safety discussion held with a team at the workplace, usually at the start of a shift.",
+  "registers": {
+   "formal": {
+    "uk": "safety briefing",
+    "us": "safety briefing",
+    "ex": "A [[safety briefing]] is held at the start of every shift."
+   },
+   "everyday": {
+    "uk": "toolbox talk",
+    "us": "tailgate meeting",
+    "ex": "This morning's [[toolbox talk]] is about working near forklifts.",
+    "ex_us": "This morning's [[tailgate meeting]] is about working near forklifts."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give a toolbox talk",
+   "a safety moment",
+   "at the start of the shift",
+   "a safety stand-down (US)"
+  ],
+  "note_fr": "« Toolbox talk » s'emploie dans les deux pays ; « tailgate meeting » (littéralement : réunion autour du hayon du pick-up) est américain. Dans les groupes anglo-saxons, beaucoup de réunions s'ouvrent par un « safety moment » d'une minute : mieux vaut le savoir avant sa première visioconférence.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-074",
+  "level": 1,
+  "fr": "premiers secours",
+  "term": {
+   "uk": "first aid",
+   "us": "first aid"
+  },
+  "ipa": {
+   "uk": "/ˌfɜːst ˈeɪd/",
+   "us": "/ˌfɜːrst ˈeɪd/"
+  },
+  "def": "Basic medical help given to an injured or sick person before professional treatment is available.",
+  "registers": {
+   "formal": {
+    "uk": "first aid",
+    "us": "first aid",
+    "ex": "Adequate [[first aid]] facilities shall be available on every site."
+   },
+   "everyday": {
+    "uk": "first aid",
+    "us": "first aid",
+    "ex": "She was given [[first aid]] on the spot and then taken to A&E.",
+    "ex_us": "She was given [[first aid]] on the spot and then taken to the ER."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give first aid",
+   "a first-aid kit",
+   "a first-aid box (UK)",
+   "a first-aid room"
+  ],
+  "note_fr": "Singulier indénombrable : « first aid », jamais « first aids » ni « first helps ». « To give / administer first aid ». Urgences hospitalières : « A&E » (UK), « the ER » (US). Numéros d'urgence : 999 au Royaume-Uni, 911 aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-075",
+  "level": 1,
+  "fr": "sauveteur secouriste du travail",
+  "term": {
+   "uk": "first aider",
+   "us": "first aid responder"
+  },
+  "ipa": {
+   "uk": "/ˌfɜːst ˈeɪdə/",
+   "us": "/ˌfɜːrst ˈeɪd rɪˌspɑːndər/"
+  },
+  "def": "An employee trained to give first aid at work.",
+  "registers": {
+   "formal": {
+    "uk": "appointed first aider",
+    "us": "designated first aid provider",
+    "ex": "The names of the [[appointed first aiders]] are displayed on each floor.",
+    "ex_us": "The names of the [[designated first aid providers]] are posted on each floor."
+   },
+   "everyday": {
+    "uk": "first aider",
+    "us": "first aid responder",
+    "ex": "Who's the [[first aider]] on this floor?",
+    "ex_us": "Who's the [[first aid responder]] on this floor?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a trained first aider",
+   "a first-aid certificate",
+   "to be first-aid trained",
+   "a fire warden (UK) / fire marshal"
+  ],
+  "note_fr": "« First aider » est très courant au Royaume-Uni, moins aux États-Unis, où l'on dira « someone trained in first aid and CPR ». « Rescuer » évoque le sauvetage en montagne ou en mer. « First responder » (US) désigne les services de secours professionnels.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-076",
+  "level": 1,
+  "fr": "ergonomie",
+  "term": {
+   "uk": "ergonomics",
+   "us": "ergonomics"
+  },
+  "ipa": {
+   "uk": "/ˌɜːɡəˈnɒmɪks/",
+   "us": "/ˌɜːrɡəˈnɑːmɪks/"
+  },
+  "def": "The study and design of equipment and work so that they fit the people who use them.",
+  "registers": {
+   "formal": {
+    "uk": "ergonomics",
+    "us": "ergonomics",
+    "ex": "[[Ergonomics]] is taken into account in the design of every new production line."
+   },
+   "everyday": {
+    "uk": "ergonomic",
+    "us": "ergonomic",
+    "ex": "These chairs are supposed to be [[ergonomic]], but half the team has back pain."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an ergonomic assessment",
+   "an ergonomic chair",
+   "poor posture",
+   "an ergonomist"
+  ],
+  "note_fr": "« Ergonomics » prend un s mais s'accorde au singulier quand il désigne la discipline (comme « economics »). L'accent tonique tombe sur la troisième syllabe. « Ergonomy » est rare : évitez-le. Ergonome : « ergonomist ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-077",
+  "level": 2,
+  "fr": "troubles musculosquelettiques (TMS)",
+  "term": {
+   "uk": "musculoskeletal disorders",
+   "us": "musculoskeletal disorders"
+  },
+  "ipa": {
+   "uk": "/ˌmʌskjʊləʊˈskelɪt(ə)l dɪsˈɔːdəz/",
+   "us": "/ˌmʌskjəloʊˈskelət(ə)l dɪsˈɔːrdərz/"
+  },
+  "def": "Injuries and pains affecting muscles, joints, tendons and the back, often caused by repetitive or awkward work.",
+  "registers": {
+   "formal": {
+    "uk": "musculoskeletal disorders",
+    "us": "musculoskeletal disorders",
+    "ex": "[[Musculoskeletal disorders]] account for the majority of recognised occupational diseases at the plant.",
+    "ex_us": "[[Musculoskeletal disorders]] account for the majority of recognized occupational illnesses at the plant."
+   },
+   "everyday": {
+    "uk": "aches and strains",
+    "us": "aches and strains",
+    "ex": "Most of what we see is [[aches and strains]]: backs, shoulders, wrists."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "repetitive strain injury (RSI)",
+   "lower back pain",
+   "awkward postures",
+   "repetitive movements"
+  ],
+  "note_fr": "Le sigle anglais est « MSDs », pas « TMS ». Le grand public britannique parle de « RSI » (repetitive strain injury) pour les atteintes liées aux gestes répétitifs. « Trouble » ne convient pas ici : « disorder ». « Strain » = élongation, tension ; « sprain » = entorse.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-078",
+  "level": 2,
+  "fr": "travail sur écran",
+  "term": {
+   "uk": "display screen equipment work",
+   "us": "computer workstation use"
+  },
+  "ipa": {
+   "uk": "/dɪˌspleɪ ˈskriːn ɪˌkwɪpmənt wɜːk/",
+   "us": "/kəmˌpjuːtər ˈwɜːrkˌsteɪʃ(ə)n juːs/"
+  },
+  "def": "Work that involves using a computer screen for a significant part of the day.",
+  "registers": {
+   "formal": {
+    "uk": "display screen equipment",
+    "us": "computer workstations",
+    "ex": "Users of [[display screen equipment]] are entitled to a workstation assessment.",
+    "ex_us": "Employees who use [[computer workstations]] may request an ergonomic evaluation."
+   },
+   "everyday": {
+    "uk": "screen work",
+    "us": "screen time",
+    "ex": "After eight hours of [[screen work]], my eyes are finished.",
+    "ex_us": "After eight hours of [[screen time]], my eyes are shot."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a DSE assessment (UK)",
+   "to take regular screen breaks",
+   "eye strain",
+   "an eye test (UK) / eye exam (US)"
+  ],
+  "note_fr": "« Display screen equipment » (DSE) est le terme réglementaire britannique ; il n'a pas cours aux États-Unis, où l'on parle simplement de « computer workstation ergonomics ». « Work on screen » est un calque. Fatigue visuelle : « eye strain ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-079",
+  "level": 2,
+  "fr": "manutention manuelle",
+  "term": {
+   "uk": "manual handling",
+   "us": "manual material handling"
+  },
+  "ipa": {
+   "uk": "/ˌmænjuəl ˈhændlɪŋ/",
+   "us": "/ˌmænjuəl məˈtɪriəl ˌhændlɪŋ/"
+  },
+  "def": "Lifting, carrying, pushing or pulling loads by hand or by bodily force.",
+  "registers": {
+   "formal": {
+    "uk": "manual handling",
+    "us": "manual material handling",
+    "ex": "[[Manual handling]] operations must be avoided wherever a mechanical aid can be used.",
+    "ex_us": "[[Manual material handling]] must be avoided wherever a mechanical aid can be used."
+   },
+   "everyday": {
+    "uk": "lifting",
+    "us": "lifting",
+    "ex": "There's far too much [[lifting]] in that job for someone with a bad back.",
+    "ex_us": "There's way too much [[lifting]] in that job for someone with a bad back."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "manual handling training",
+   "to lift a heavy load",
+   "a lifting aid",
+   "to carry loads"
+  ],
+  "note_fr": "« Manutention » n'existe pas en anglais. « Handling » seul = manipulation ou traitement (« handling of complaints »). « To lift » = soulever ; « to carry » = porter ; chariot élévateur : « forklift (truck) ». Charge : « load ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-080",
+  "level": 1,
+  "fr": "glissades, trébuchements et chutes",
+  "term": {
+   "uk": "slips, trips and falls",
+   "us": "slips, trips, and falls"
+  },
+  "ipa": {
+   "uk": "/ˌslɪps ˌtrɪps ən ˈfɔːlz/",
+   "us": "/ˌslɪps ˌtrɪps ən ˈfɔːlz/"
+  },
+  "def": "Accidents in which people lose their footing, stumble over something or fall.",
+  "registers": {
+   "formal": {
+    "uk": "slips, trips and falls",
+    "us": "slips, trips, and falls",
+    "ex": "[[Slips, trips and falls]] remain the most common cause of injury on the site.",
+    "ex_us": "[[Slips, trips, and falls]] remain the most common cause of injury at the site."
+   },
+   "everyday": {
+    "uk": "to trip over",
+    "us": "to trip over",
+    "ex": "Someone's going to [[trip over]] that cable."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to slip on a wet floor",
+   "to trip over a cable",
+   "to fall down the stairs",
+   "a fall on the same level"
+  ],
+  "note_fr": "Trois verbes à distinguer : « to slip » (glisser), « to trip » (trébucher), « to fall » (tomber). « To trip over something », « to slip on something », « to fall off a ladder », « to fall down the stairs ». Chute de plain-pied : « fall on the same level ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-081",
+  "level": 2,
+  "fr": "travail en hauteur",
+  "term": {
+   "uk": "working at height",
+   "us": "working at heights"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːkɪŋ ət ˈhaɪt/",
+   "us": "/ˌwɜːrkɪŋ ət ˈhaɪts/"
+  },
+  "def": "Work in any place from which a person could fall and be injured, for example on a roof, a ladder or scaffolding.",
+  "registers": {
+   "formal": {
+    "uk": "work at height",
+    "us": "work at heights",
+    "ex": "[[Work at height]] may only be carried out by employees who have received appropriate training.",
+    "ex_us": "[[Work at heights]] may only be performed by employees who have received appropriate training."
+   },
+   "everyday": {
+    "uk": "working up a ladder",
+    "us": "working up on a ladder",
+    "ex": "I'm not happy about him [[working up a ladder]] on his own.",
+    "ex_us": "I'm not comfortable with him [[working up on a ladder]] by himself."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a fall from height",
+   "scaffolding",
+   "a safety harness",
+   "fall protection (US)"
+  ],
+  "note_fr": "Singulier au Royaume-Uni (« at height »), pluriel aux États-Unis (« at heights »), où l'on parle surtout de « fall protection ». Prononciation : « height » rime avec « light », pas avec « eight ». Échafaudage : « scaffolding », indénombrable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-082",
+  "level": 2,
+  "fr": "travailleur isolé",
+  "term": {
+   "uk": "lone worker",
+   "us": "lone worker"
+  },
+  "ipa": {
+   "uk": "/ˌləʊn ˈwɜːkə/",
+   "us": "/ˌloʊn ˈwɜːrkər/"
+  },
+  "def": "A person who works by themselves, without close or direct supervision and with nobody nearby to help in an emergency.",
+  "registers": {
+   "formal": {
+    "uk": "lone worker",
+    "us": "lone worker",
+    "ex": "A specific risk assessment shall be carried out for every [[lone worker]].",
+    "ex_us": "A specific hazard assessment shall be completed for every [[lone worker]]."
+   },
+   "everyday": {
+    "uk": "to work on one's own",
+    "us": "to work alone",
+    "ex": "She [[works on her own]] in that building after six, and that worries me.",
+    "ex_us": "She [[works alone]] in that building after six, and that worries me."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "lone working",
+   "a lone worker alarm",
+   "to check in at regular intervals",
+   "a buddy system"
+  ],
+  "note_fr": "« Isolated worker » se comprend, mais le terme consacré est « lone worker », et l'activité « lone working ». « Alone » ne s'emploie pas devant un nom : « a lone worker », jamais « an alone worker ». « Lonely » = qui souffre de la solitude.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-083",
+  "level": 2,
+  "fr": "substances dangereuses",
+  "term": {
+   "uk": "hazardous substances",
+   "us": "hazardous chemicals"
+  },
+  "ipa": {
+   "uk": "/ˌhæzədəs ˈsʌbstənsɪz/",
+   "us": "/ˌhæzərdəs ˈkemɪk(ə)lz/"
+  },
+  "def": "Materials that can harm people's health, such as chemicals, fumes, dusts and biological agents.",
+  "registers": {
+   "formal": {
+    "uk": "substances hazardous to health",
+    "us": "hazardous chemicals",
+    "ex": "Exposure to [[substances hazardous to health]] must be prevented or, where that is not reasonably practicable, adequately controlled.",
+    "ex_us": "Employees must be informed of the [[hazardous chemicals]] present in their work area."
+   },
+   "everyday": {
+    "uk": "chemicals",
+    "us": "chemicals",
+    "ex": "All the [[chemicals]] are kept in a locked store at the back.",
+    "ex_us": "All the [[chemicals]] are kept in a locked storeroom in the back."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to handle hazardous substances",
+   "asbestos",
+   "fumes and dust",
+   "to store chemicals safely"
+  ],
+  "note_fr": "« Dangerous products » se comprend, mais le terme technique est « hazardous substances » (UK) ou « hazardous chemicals / materials » (US ; « hazmat » dans le transport). Amiante : « asbestos ». « Chemical » est aussi un nom : « a chemical », « chemicals ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-084",
+  "level": 3,
+  "fr": "fiche de données de sécurité (FDS)",
+  "term": {
+   "uk": "safety data sheet",
+   "us": "safety data sheet"
+  },
+  "ipa": {
+   "uk": "/ˈseɪfti ˌdeɪtə ʃiːt/",
+   "us": "/ˈseɪfti ˌdeɪtə ʃiːt/"
+  },
+  "def": "A document supplied with a chemical product describing its hazards and how to handle, store and dispose of it safely.",
+  "registers": {
+   "formal": {
+    "uk": "safety data sheet",
+    "us": "safety data sheet",
+    "ex": "The supplier's [[safety data sheet]] must be available to every employee who handles the product."
+   },
+   "everyday": {
+    "uk": "data sheet",
+    "us": "data sheet",
+    "ex": "Check the [[data sheet]] before you mix those two."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to consult the safety data sheet",
+   "hazard labelling (UK) / labeling (US)",
+   "to dispose of a product safely",
+   "an SDS"
+  ],
+  "note_fr": "Sigle anglais : « SDS » (autrefois « MSDS », material safety data sheet, que beaucoup d'Américains emploient encore). « Data » se prononce /ˈdeɪtə/ ; la variante /ˈdætə/ s'entend surtout aux États-Unis. « Fiche » ne se traduit pas par « file » mais par « sheet ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-085",
+  "level": 2,
+  "fr": "exposition (à un risque)",
+  "term": {
+   "uk": "exposure",
+   "us": "exposure"
+  },
+  "ipa": {
+   "uk": "/ɪkˈspəʊʒə/",
+   "us": "/ɪkˈspoʊʒər/"
+  },
+  "def": "The fact of being in contact with something harmful, such as noise, dust or chemicals, over a period of time.",
+  "registers": {
+   "formal": {
+    "uk": "exposure",
+    "us": "exposure",
+    "ex": "The employer shall measure employees' [[exposure]] to noise at regular intervals."
+   },
+   "everyday": {
+    "uk": "to be exposed to",
+    "us": "to be exposed to",
+    "ex": "He was [[exposed to]] asbestos for years without knowing it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "exposure to noise",
+   "an exposure limit",
+   "prolonged exposure",
+   "to limit exposure"
+  ],
+  "note_fr": "« Exposition » en anglais = exposition artistique ou salon ; l'exposition à un risque est toujours « exposure ». Valeur limite d'exposition : « exposure limit ». Notez la préposition : « exposure to », « exposed to ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-086",
+  "level": 2,
+  "fr": "exercice d'évacuation",
+  "term": {
+   "uk": "fire drill",
+   "us": "fire drill"
+  },
+  "ipa": {
+   "uk": "/ˈfaɪə drɪl/",
+   "us": "/ˈfaɪər drɪl/"
+  },
+  "def": "A practice of what to do if there is a fire, in which everyone leaves the building.",
+  "registers": {
+   "formal": {
+    "uk": "evacuation drill",
+    "us": "evacuation drill",
+    "ex": "An [[evacuation drill]] shall be conducted on each site at regular intervals."
+   },
+   "everyday": {
+    "uk": "fire drill",
+    "us": "fire drill",
+    "ex": "There's a [[fire drill]] at eleven, so don't schedule any calls."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold a fire drill",
+   "to evacuate the building",
+   "the assembly point",
+   "the fire alarm"
+  ],
+  "note_fr": "« Exercise » ne convient pas : un exercice de sécurité est un « drill ». Point de rassemblement : « assembly point » (UK), « assembly area » ou « muster point » (US, industrie). Guide-file, serre-file : « fire warden » (UK), « floor warden » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-087",
+  "level": 1,
+  "fr": "issue de secours",
+  "term": {
+   "uk": "emergency exit",
+   "us": "emergency exit"
+  },
+  "ipa": {
+   "uk": "/ɪˈmɜːdʒənsi ˌeksɪt/",
+   "us": "/ɪˈmɜːrdʒənsi ˌeɡzɪt/"
+  },
+  "def": "A door or way out of a building to be used in case of fire or other danger.",
+  "registers": {
+   "formal": {
+    "uk": "emergency exit",
+    "us": "emergency exit",
+    "ex": "Every [[emergency exit]] must be kept clear and unlocked during working hours."
+   },
+   "everyday": {
+    "uk": "fire exit",
+    "us": "fire exit",
+    "ex": "You can't leave those boxes there. They're blocking the [[fire exit]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to block a fire exit",
+   "to keep the exits clear",
+   "an escape route",
+   "emergency lighting"
+  ],
+  "note_fr": "« Issue » en anglais = problème, question ou numéro d'une revue, jamais une sortie. « Emergency » = urgence ; « emergence » = apparition, émergence. « Rescue exit » ne se dit pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-088",
+  "level": 2,
+  "fr": "droit de retrait",
+  "term": {
+   "uk": "right to withdraw from a dangerous situation",
+   "us": "right to refuse dangerous work"
+  },
+  "ipa": {
+   "uk": "/ˌraɪt tə wɪðˈdrɔː frəm ə ˈdeɪndʒərəs ˌsɪtʃuˈeɪʃ(ə)n/",
+   "us": "/ˌraɪt tə rɪˈfjuːz ˈdeɪndʒərəs ˌwɜːrk/"
+  },
+  "def": "An employee's right to stop working and move away from a situation that they reasonably believe to be seriously and immediately dangerous.",
+  "registers": {
+   "formal": {
+    "uk": "right to withdraw from a dangerous work situation",
+    "us": "right to refuse dangerous work",
+    "ex": "An employee who exercises the [[right to withdraw from a dangerous work situation]] may suffer neither a penalty nor a deduction from pay.",
+    "ex_us": "An employee who exercises the [[right to refuse dangerous work]] in good faith may not be disciplined for doing so."
+   },
+   "everyday": {
+    "uk": "to stop work",
+    "us": "to stop work",
+    "ex": "The drivers have [[stopped work]] until the brakes are checked, and frankly I can see why."
+   },
+   "informal": {
+    "uk": "to down tools",
+    "us": "to walk off the job",
+    "ex": "The whole night shift [[downed tools]] when the alarm failed again.",
+    "ex_us": "The whole night shift [[walked off the job]] when the alarm failed again."
+   }
+  },
+  "collocations": [
+   "to exercise the right to withdraw",
+   "to have reasonable grounds to believe",
+   "to alert the employer immediately",
+   "a stop-work authority (US)"
+  ],
+  "note_fr": "Ne le présentez pas comme une grève : c'est un droit individuel, sans préavis, qui suppose un motif raisonnable de croire à un danger grave et imminent. Au Royaume-Uni, le salarié est protégé contre tout « detriment » s'il quitte son poste dans de telles circonstances ; aux États-Unis, le droit de refuser un travail dangereux est admis à des conditions nettement plus strictes. « To down tools » (UK) et « to walk off the job » (US) évoquent plutôt un arrêt collectif.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under the French droit de retrait, an employee who has reasonable grounds to believe that a work situation presents a serious and imminent danger to his or her life or health may withdraw from it, after alerting the employer, without incurring any penalty or loss of pay.",
+   "spoken": "In France, if someone reasonably believes there's a serious and immediate danger, they can stop work and step away, and we can't discipline them or dock their pay for it. It isn't a strike. It's an individual safety right."
+  }
+ },
+ {
+  "id": "hs-089",
+  "level": 3,
+  "fr": "danger grave et imminent",
+  "term": {
+   "uk": "serious and imminent danger",
+   "us": "imminent danger"
+  },
+  "ipa": {
+   "uk": "/ˌsɪəriəs ənd ˈɪmɪnənt ˌdeɪndʒə/",
+   "us": "/ˌɪmɪnənt ˈdeɪndʒər/"
+  },
+  "def": "A danger that could cause death or serious harm and that is likely to materialise very soon.",
+  "registers": {
+   "formal": {
+    "uk": "serious and imminent danger",
+    "us": "imminent danger",
+    "ex": "The procedure applies wherever employees are exposed to [[serious and imminent danger]].",
+    "ex_us": "The procedure applies wherever employees are exposed to [[imminent danger]]."
+   },
+   "everyday": {
+    "uk": "a real and immediate danger",
+    "us": "a real and immediate danger",
+    "ex": "Was there [[a real and immediate danger]], or was it more of a general worry about the equipment?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to present a serious and imminent danger",
+   "a threat to life or health",
+   "an immediate risk of serious injury",
+   "to believe on reasonable grounds"
+  ],
+  "note_fr": "Ne confondez pas « imminent » (sur le point de se produire) et « eminent » (éminent). « Grave » existe en anglais mais relève du registre soutenu (« grave concern ») : on dit « serious danger ». Le droit français n'exige pas que le danger soit réel, seulement que le salarié ait eu un motif raisonnable d'y croire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-090",
+  "level": 3,
+  "fr": "droit d'alerte (du CSE en cas de danger grave et imminent)",
+  "term": {
+   "uk": "danger alert procedure",
+   "us": "danger alert procedure"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪndʒər əˌlɜːt prəˌsiːdʒə/",
+   "us": "/ˈdeɪndʒər əˌlɜːrt prəˌsiːdʒər/"
+  },
+  "def": "In France, the procedure by which an employee representative who identifies a serious and imminent danger formally alerts the employer, who must then investigate at once.",
+  "registers": {
+   "formal": {
+    "uk": "alert procedure in the event of serious and imminent danger",
+    "us": "alert procedure in the event of serious and imminent danger",
+    "ex": "A member of the works council initiated the [[alert procedure in the event of serious and imminent danger]] on 4 May.",
+    "ex_us": "A member of the works council initiated the [[alert procedure in the event of serious and imminent danger]] on May 4."
+   },
+   "everyday": {
+    "uk": "to raise a formal alert",
+    "us": "to raise a formal alert",
+    "ex": "One of the staff reps has [[raised a formal alert]], so we have to investigate with him today.",
+    "ex_us": "One of the employee reps has [[raised a formal alert]], so we have to investigate with him today."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to record the alert in a register",
+   "a joint investigation",
+   "to alert the employer without delay",
+   "to refer the matter to the labour inspector"
+  ],
+  "note_fr": "Pas d'équivalent exact : au Royaume-Uni, les safety representatives peuvent inspecter et formuler des « representations » ; aux États-Unis, le salarié ou son représentant peut saisir OSHA d'une plainte. Faux ami : « to alert » est correct, mais « alert right » ne veut rien dire ; parlez d'« alert procedure ». Ne confondez pas avec le « whistleblowing » (lanceur d'alerte).",
+  "french_concept": true,
+  "explain": {
+   "written": "Under the French alert procedure (droit d'alerte), a member of the works council who becomes aware of a serious and imminent danger must alert the employer and record the alert in a dedicated register; the employer is then required to carry out an immediate joint investigation and to take the measures needed to remove the danger.",
+   "spoken": "If an employee rep spots a serious and immediate danger, they can formally alert us, in writing. We then have to investigate with them straight away and fix the problem."
+  }
+ },
+ {
+  "id": "hs-091",
+  "level": 2,
+  "fr": "inspection du travail",
+  "term": {
+   "uk": "labour inspectorate",
+   "us": "labor inspectorate"
+  },
+  "ipa": {
+   "uk": "/ˈleɪbər ɪnˌspektərət/",
+   "us": "/ˈleɪbər ɪnˌspektərət/"
+  },
+  "def": "The French public body responsible for checking that employers comply with employment law, including health and safety rules.",
+  "registers": {
+   "formal": {
+    "uk": "labour inspectorate",
+    "us": "labor inspectorate",
+    "ex": "A copy of the internal rules must be filed with the [[labour inspectorate]].",
+    "ex_us": "A copy of the internal rules must be filed with the [[labor inspectorate]]."
+   },
+   "everyday": {
+    "uk": "the labour inspectors",
+    "us": "the labor inspectors",
+    "ex": "If we ignore this, [[the labour inspectors]] will be at the door within a month.",
+    "ex_us": "If we ignore this, [[the labor inspectors]] will be at the door within a month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to notify the labour inspectorate",
+   "to refer a matter to the inspectorate",
+   "the Health and Safety Executive (UK)",
+   "the Occupational Safety and Health Administration (US)"
+  ],
+  "note_fr": "Il n'existe pas d'inspection généraliste comparable : au Royaume-Uni, la sécurité relève du HSE (ou des collectivités locales) et les autres règles d'organismes distincts ; aux États-Unis, d'OSHA pour la sécurité et d'autres services du Department of Labor pour les salaires et la durée du travail. « Work inspection » est un calque. Orthographe : « labour » (UK), « labor » (US).",
+  "french_concept": true,
+  "explain": {
+   "written": "The inspection du travail is the French labour inspectorate, a state body whose inspectors monitor compliance with the whole of employment law, from working time to health and safety, and may enter any workplace without notice.",
+   "spoken": "It's the government body that checks employers follow employment law, safety included. Think of it as the HSE and a wage-and-hour regulator rolled into one."
+  }
+ },
+ {
+  "id": "hs-092",
+  "level": 2,
+  "fr": "inspecteur du travail",
+  "term": {
+   "uk": "labour inspector",
+   "us": "labor inspector"
+  },
+  "ipa": {
+   "uk": "/ˈleɪbər ɪnˌspektə/",
+   "us": "/ˈleɪbər ɪnˌspektər/"
+  },
+  "def": "An official who visits workplaces to check that employment and safety law is being followed.",
+  "registers": {
+   "formal": {
+    "uk": "labour inspector",
+    "us": "labor inspector",
+    "ex": "The [[labour inspector]] may enter the premises at any time and interview any member of staff.",
+    "ex_us": "The [[labor inspector]] may enter the premises at any time and interview any member of staff."
+   },
+   "everyday": {
+    "uk": "the inspector",
+    "us": "the inspector",
+    "ex": "[[The inspector]] wants the working-time records by Friday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an HSE inspector (UK)",
+   "an OSHA compliance officer (US)",
+   "to show the inspector round (UK) / around (US)",
+   "to cooperate with the inspector"
+  ],
+  "note_fr": "Équivalents fonctionnels en matière de sécurité : « HSE inspector » (UK), « OSHA compliance officer » ou « OSHA inspector » (US). L'inspecteur du travail français a toutefois une compétence bien plus large, et faire obstacle à son contrôle est un délit : « obstructing an inspector is a criminal offence ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-093",
+  "level": 2,
+  "fr": "contrôle de l'inspection (visite inopinée)",
+  "term": {
+   "uk": "inspection visit",
+   "us": "inspection"
+  },
+  "ipa": {
+   "uk": "/ɪnˈspekʃ(ə)n ˌvɪzɪt/",
+   "us": "/ɪnˈspekʃ(ə)n/"
+  },
+  "def": "A visit by an official to check whether a workplace complies with the law.",
+  "registers": {
+   "formal": {
+    "uk": "unannounced inspection",
+    "us": "unannounced inspection",
+    "ex": "The site was the subject of an [[unannounced inspection]] on 12 March.",
+    "ex_us": "The site was the subject of an [[unannounced inspection]] on March 12."
+   },
+   "everyday": {
+    "uk": "spot check",
+    "us": "surprise inspection",
+    "ex": "We had a [[spot check]] from the inspector yesterday, and it went better than I'd feared.",
+    "ex_us": "We had a [[surprise inspection]] yesterday, and it went better than I'd feared."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out an inspection",
+   "to turn up unannounced",
+   "an inspection report",
+   "a follow-up visit"
+  ],
+  "note_fr": "Faux ami classique : « to control » = maîtriser, diriger ; contrôler au sens de vérifier se dit « to inspect », « to check », « to audit ». N'écrivez donc pas « the inspector controlled the site ». Inopiné : « unannounced », « without notice ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-094",
+  "level": 2,
+  "fr": "infraction aux règles de sécurité",
+  "term": {
+   "uk": "breach of health and safety regulations",
+   "us": "safety violation"
+  },
+  "ipa": {
+   "uk": "/ˌbriːtʃ əv ˌhelθ ən ˈseɪfti ˌreɡjuˌleɪʃ(ə)nz/",
+   "us": "/ˈseɪfti ˌvaɪəˌleɪʃ(ə)n/"
+  },
+  "def": "A failure to comply with a legal rule on health and safety.",
+  "registers": {
+   "formal": {
+    "uk": "breach of health and safety regulations",
+    "us": "violation of safety standards",
+    "ex": "The inspector recorded a [[breach of health and safety regulations]] in respect of the unguarded machine.",
+    "ex_us": "The inspector cited the Company for a [[violation of safety standards]] in respect of the unguarded machine."
+   },
+   "everyday": {
+    "uk": "safety breach",
+    "us": "safety violation",
+    "ex": "It's a clear [[safety breach]], and we need to deal with it today.",
+    "ex_us": "It's a clear [[safety violation]], and we need to deal with it today."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be in breach of the regulations",
+   "to commit an offence (UK) / offense (US)",
+   "to be cited for a violation (US)",
+   "to be prosecuted"
+  ],
+  "note_fr": "« Infraction » existe en anglais mais désigne une entorse mineure. Le Royaume-Uni dit « breach », les États-Unis « violation ». « To be cited » (US) = se voir notifier une infraction ; au Royaume-Uni, l'employeur est « prosecuted » ou reçoit un « notice ». « Offence » (UK) / « offense » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-095",
+  "level": 3,
+  "fr": "mise en demeure (de l'inspection du travail)",
+  "term": {
+   "uk": "improvement notice",
+   "us": "citation"
+  },
+  "ipa": {
+   "uk": "/ɪmˈpruːvmənt ˌnəʊtɪs/",
+   "us": "/saɪˈteɪʃ(ə)n/"
+  },
+  "def": "A formal document from a safety inspector requiring an employer to put right a breach of the law within a set time.",
+  "registers": {
+   "formal": {
+    "uk": "improvement notice",
+    "us": "citation",
+    "ex": "The Company was served with an [[improvement notice]] requiring it to guard the machine within twenty-one days.",
+    "ex_us": "The Company was issued a [[citation]] requiring it to guard the machine by the abatement date."
+   },
+   "everyday": {
+    "uk": "formal notice to put something right",
+    "us": "formal notice to fix something",
+    "ex": "We've had a [[formal notice to put it right]], and the clock's ticking.",
+    "ex_us": "We've gotten a [[formal notice to fix it]], and the clock's ticking."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to serve a notice on an employer",
+   "to comply with a notice",
+   "the abatement date (US)",
+   "to appeal against a notice (UK) / to contest a citation (US)"
+  ],
+  "note_fr": "« Improvement notice » est l'outil du HSE britannique ; « citation » celui d'OSHA, généralement assortie d'une amende (« penalty ») et d'un délai de mise en conformité (« abatement date »). Pour la mise en demeure française, dites « formal notice to comply » et expliquez. Faux ami : « citation » ne signifie pas ici une citation littéraire (« quotation »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-096",
+  "level": 3,
+  "fr": "arrêt temporaire de travaux ou d'activité",
+  "term": {
+   "uk": "prohibition notice",
+   "us": "stop-work order"
+  },
+  "ipa": {
+   "uk": "/ˌprəʊɪˈbɪʃ(ə)n ˌnəʊtɪs/",
+   "us": "/ˌstɑːp ˈwɜːrk ˌɔːrdər/"
+  },
+  "def": "An order from an inspector that an activity must stop immediately because it involves a risk of serious injury.",
+  "registers": {
+   "formal": {
+    "uk": "prohibition notice",
+    "us": "stop-work order",
+    "ex": "The inspector served a [[prohibition notice]] halting all work on the roof with immediate effect.",
+    "ex_us": "The inspector issued a [[stop-work order]] halting all work on the roof with immediate effect."
+   },
+   "everyday": {
+    "uk": "to shut something down",
+    "us": "to shut something down",
+    "ex": "The inspector has [[shut the roof work down]] until proper edge protection is in place.",
+    "ex_us": "The inspector has [[shut the roof work down]] until proper fall protection is in place."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "with immediate effect",
+   "to halt work",
+   "to lift a notice",
+   "a risk of serious personal injury"
+  ],
+  "note_fr": "Au Royaume-Uni, l'inspecteur du HSE peut délivrer lui-même une « prohibition notice ». Aux États-Unis, « stop-work order » s'emploie surtout pour les autorités locales ou d'État ; l'OSHA fédérale doit en principe saisir un juge pour faire cesser une activité en cas de danger imminent. En France, l'inspecteur du travail peut ordonner l'arrêt temporaire de certains travaux dangereux.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-097",
+  "level": 3,
+  "fr": "plan de prévention (intervention d'entreprises extérieures)",
+  "term": {
+   "uk": "contractor safety plan",
+   "us": "contractor safety plan"
+  },
+  "ipa": {
+   "uk": "/kənˈtræktə ˈseɪfti plæn/",
+   "us": "/ˈkɑːntræktər ˈseɪfti plæn/"
+  },
+  "def": "In France, the written document drawn up jointly by a host company and an outside contractor, setting out the risks arising from their working on the same site and the measures to control them.",
+  "registers": {
+   "formal": {
+    "uk": "joint prevention plan",
+    "us": "joint prevention plan",
+    "ex": "A [[joint prevention plan]] shall be drawn up with each contractor before any hazardous work begins on the site."
+   },
+   "everyday": {
+    "uk": "contractor safety plan",
+    "us": "contractor safety plan",
+    "ex": "Has the cleaning company signed the [[contractor safety plan]] yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the host company",
+   "an outside contractor",
+   "a joint site inspection",
+   "risks arising from the interaction of activities"
+  ],
+  "note_fr": "Dispositif français : inspection commune préalable, puis plan écrit pour les travaux dangereux ou d'une certaine durée. Les Britanniques parleraient de « risk assessments and method statements » (RAMS) exigés du prestataire ; les Américains d'un « contractor safety program ». Entreprise utilisatrice : « host company » ou « client ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Where an outside contractor carries out work on a company's premises, French law requires the two businesses to inspect the site together and, for hazardous or lengthy work, to draw up a written joint prevention plan (plan de prévention) setting out the risks created by their working side by side and the measures agreed to control them.",
+   "spoken": "When a contractor comes to work on our site, we have to walk round with them first and write down together what could go wrong and who does what about it."
+  }
+ },
+ {
+  "id": "hs-098",
+  "level": 3,
+  "fr": "permis de travail (permis de feu)",
+  "term": {
+   "uk": "permit to work",
+   "us": "work permit"
+  },
+  "ipa": {
+   "uk": "/ˌpɜːmɪt tə ˈwɜːk/",
+   "us": "/ˈwɜːrk ˌpɜːrmɪt/"
+  },
+  "def": "A written authorisation that must be obtained before a particularly dangerous task, such as welding or entering a tank, can begin.",
+  "registers": {
+   "formal": {
+    "uk": "permit to work",
+    "us": "safe work permit",
+    "ex": "No hot work shall be undertaken without a valid [[permit to work]].",
+    "ex_us": "No hot work shall be performed without a valid [[safe work permit]]."
+   },
+   "everyday": {
+    "uk": "permit",
+    "us": "permit",
+    "ex": "Have they got a [[permit]] for that welding job?",
+    "ex_us": "Do they have a [[permit]] for that welding job?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a hot work permit",
+   "confined space entry",
+   "to issue a permit",
+   "to sign off a permit"
+  ],
+  "note_fr": "Ambiguïté à lever : « work permit » désigne d'abord l'autorisation de travail d'un étranger. En sécurité, précisez « permit to work » (UK), « hot work permit », « safe work permit ». Permis de feu : « hot work permit ». Espace confiné : « confined space ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-099",
+  "level": 3,
+  "fr": "consignation (des énergies)",
+  "term": {
+   "uk": "lock-off",
+   "us": "lockout/tagout"
+  },
+  "ipa": {
+   "uk": "/ˈlɒk ɒf/",
+   "us": "/ˌlɑːkaʊt ˈtæɡaʊt/"
+  },
+  "def": "The procedure of cutting off and locking a machine's energy sources so that it cannot start while someone is repairing or cleaning it.",
+  "registers": {
+   "formal": {
+    "uk": "isolation and lock-off",
+    "us": "lockout/tagout",
+    "ex": "Maintenance may begin only once [[isolation and lock-off]] of the equipment has been completed.",
+    "ex_us": "Maintenance may begin only once [[lockout/tagout]] of the equipment has been completed."
+   },
+   "everyday": {
+    "uk": "to lock off",
+    "us": "to lock out",
+    "ex": "Did anyone [[lock off]] the conveyor before he went in?",
+    "ex_us": "Did anyone [[lock out]] the conveyor before he went in?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to isolate a machine",
+   "to apply a lock and a tag",
+   "an energy source",
+   "LOTO (US)"
+  ],
+  "note_fr": "Faux ami : « consignment » = envoi de marchandises. Le terme américain « lockout/tagout » (LOTO) est connu partout dans l'industrie, y compris au Royaume-Uni, où l'on dit aussi « isolation ». Attention : « isolation » = mise hors énergie ; l'isolation thermique se dit « insulation ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "hs-100",
+  "level": 2,
+  "fr": "dépistage d'alcool et de stupéfiants",
+  "term": {
+   "uk": "drug and alcohol testing",
+   "us": "drug and alcohol testing"
+  },
+  "ipa": {
+   "uk": "/ˌdrʌɡ ənd ˈælkəhɒl ˌtestɪŋ/",
+   "us": "/ˌdrʌɡ ənd ˈælkəhɔːl ˌtestɪŋ/"
+  },
+  "def": "Checks carried out to detect whether an employee is under the influence of drugs or alcohol at work.",
+  "registers": {
+   "formal": {
+    "uk": "drug and alcohol testing",
+    "us": "drug and alcohol testing",
+    "ex": "[[Drug and alcohol testing]] may be carried out on employees holding safety-critical positions, as provided by the internal rules.",
+    "ex_us": "[[Drug and alcohol testing]] may be conducted on employees in safety-sensitive positions, as provided by the internal rules."
+   },
+   "everyday": {
+    "uk": "to breathalyse",
+    "us": "to breathalyze",
+    "ex": "They [[breathalyse]] the forklift drivers at random.",
+    "ex_us": "They [[breathalyze]] the forklift drivers at random."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a random test",
+   "to be under the influence",
+   "a safety-critical role (UK) / safety-sensitive position (US)",
+   "to test positive"
+  ],
+  "note_fr": "« Drug » désigne aussi bien un médicament qu'un stupéfiant : le contexte tranche. En France, le dépistage doit être prévu par le règlement intérieur, réservé aux postes où l'état du salarié peut créer un danger, et pouvoir être contesté ; les pratiques américaines sont nettement plus larges. Éthylotest : « breathalyser » (UK), « breathalyzer » (US).",
+  "french_concept": false,
+  "explain": null
+ }
+]

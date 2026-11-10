@@ -485,42 +485,6 @@
  {
   "id": "cl-014",
   "level": 2,
-  "fr": "taux de participation",
-  "term": {
-   "uk": "turnout",
-   "us": "turnout"
-  },
-  "ipa": {
-   "uk": "/ˈtɜːnaʊt/",
-   "us": "/ˈtɜːrnaʊt/"
-  },
-  "def": "The proportion of people entitled to vote who actually vote.",
-  "registers": {
-   "formal": {
-    "uk": "voter turnout",
-    "us": "voter turnout",
-    "ex": "[[Voter turnout]] in the first round was 62 per cent of registered voters.",
-    "ex_us": "[[Voter turnout]] in the first round was 62 percent of registered voters."
-   },
-   "everyday": {
-    "uk": "turnout",
-    "us": "turnout",
-    "ex": "[[Turnout]] was poor on the night shift, as usual."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "a high / low turnout",
-   "to boost turnout",
-   "a turnout of 60 per cent"
-  ],
-  "note_fr": "« Participation rate » se comprend mais sonne traduit. Ne confondez pas « turnout » (participation) et « turnover » (rotation du personnel ou chiffre d'affaires).",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-015",
-  "level": 2,
   "fr": "heures de délégation",
   "term": {
    "uk": "time off for representative duties",
@@ -559,7 +523,7 @@
   }
  },
  {
-  "id": "cl-016",
+  "id": "cl-015",
   "level": 2,
   "fr": "salarié(e) protégé(e)",
   "term": {
@@ -599,7 +563,7 @@
   }
  },
  {
-  "id": "cl-017",
+  "id": "cl-016",
   "level": 3,
   "fr": "autorisation de l'inspecteur du travail",
   "term": {
@@ -639,7 +603,7 @@
   }
  },
  {
-  "id": "cl-018",
+  "id": "cl-017",
   "level": 3,
   "fr": "délit d'entrave",
   "term": {
@@ -678,7 +642,7 @@
   }
  },
  {
-  "id": "cl-019",
+  "id": "cl-018",
   "level": 1,
   "fr": "ordre du jour",
   "term": {
@@ -714,7 +678,7 @@
   "explain": null
  },
  {
-  "id": "cl-020",
+  "id": "cl-019",
   "level": 1,
   "fr": "procès-verbal (de réunion)",
   "term": {
@@ -746,6 +710,43 @@
    "to circulate the minutes"
   ],
   "note_fr": "Toujours au pluriel ; « to minute something » = consigner au procès-verbal. « Process verbal » n'existe pas et « report » est trop vague. Prononciation /ˈmɪnɪts/, à ne pas confondre avec l'adjectif « minute » /maɪˈnjuːt/ (minuscule).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cl-020",
+  "level": 2,
+  "fr": "mettre aux voix",
+  "term": {
+   "uk": "to put to the vote",
+   "us": "to put to a vote"
+  },
+  "ipa": {
+   "uk": "/tə ˌpʊt tə ðə ˈvəʊt/",
+   "us": "/tə ˌpʊt tu ə ˈvoʊt/"
+  },
+  "def": "To ask the members of a meeting to decide a question by voting on it.",
+  "registers": {
+   "formal": {
+    "uk": "to put the resolution to the vote",
+    "us": "to put the resolution to a vote",
+    "ex": "The chair [[put the resolution to the vote]]; it was carried by eight votes to three, with one abstention.",
+    "ex_us": "The chair [[put the resolution to a vote]]; it was carried by eight votes to three, with one abstention."
+   },
+   "everyday": {
+    "uk": "to take a vote",
+    "us": "to take a vote",
+    "ex": "Shall we [[take a vote]], or does anyone need more time?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry / defeat a resolution",
+   "to abstain",
+   "a majority of members present",
+   "to pass a resolution"
+  ],
+  "note_fr": "Une voix = « a vote », jamais « a voice ». Une résolution est « carried » ou « passed » (adoptée), « defeated » (rejetée). À rappeler à un interlocuteur étranger : le président ne vote pas lorsqu'il consulte les élus en tant que délégation du personnel.",
   "french_concept": false,
   "explain": null
  },
@@ -1200,6 +1201,160 @@
  },
  {
   "id": "cl-033",
+  "level": 3,
+  "fr": "CSE central (CSEC)",
+  "term": {
+   "uk": "central works council",
+   "us": "central works council"
+  },
+  "ipa": {
+   "uk": "/ˌsentrəl ˌwɜːks ˈkaʊns(ə)l/",
+   "us": "/ˌsentrəl ˌwɜːrks ˈkaʊns(ə)l/"
+  },
+  "def": "In a French company with several establishments, the works council at company level, made up of delegates from the site councils.",
+  "registers": {
+   "formal": {
+    "uk": "Central Social and Economic Committee",
+    "us": "Central Social and Economic Committee",
+    "ex": "Projects decided at company level which affect more than one establishment fall within the remit of the [[Central Social and Economic Committee]]."
+   },
+   "everyday": {
+    "uk": "central works council",
+    "us": "central works council",
+    "ex": "It goes to the [[central works council]] first, then to the two sites affected."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to chair the central works council",
+   "to fall within the remit of",
+   "delegates from each site council",
+   "a two-tier consultation"
+  ],
+  "note_fr": "Expliquez l'articulation : le CSE central est consulté sur les projets décidés au niveau de l'entreprise ; les CSE d'établissement le sont sur les mesures d'adaptation propres à leur site. « Remit » (UK) = champ de compétence ; aux États-Unis, dites plutôt « scope » ou « purview ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The central works council (CSE central) is the company-level body which, in a French company with several establishments, is informed and consulted on projects concerning the company as a whole; its members are drawn from the establishment-level works councils.",
+   "spoken": "We have a works council at each site, and above them a central one for the whole company - anything decided at company level goes to the central council first."
+  }
+ },
+ {
+  "id": "cl-034",
+  "level": 2,
+  "fr": "CSE d'établissement",
+  "term": {
+   "uk": "site works council",
+   "us": "site works council"
+  },
+  "ipa": {
+   "uk": "/ˈsaɪt ˌwɜːks ˌkaʊns(ə)l/",
+   "us": "/ˈsaɪt ˌwɜːrks ˌkaʊns(ə)l/"
+  },
+  "def": "The works council elected at one establishment of a company that has several.",
+  "registers": {
+   "formal": {
+    "uk": "establishment-level works council",
+    "us": "establishment-level works council",
+    "ex": "Each [[establishment-level works council]] is consulted on the measures adapting the project to its own site."
+   },
+   "everyday": {
+    "uk": "site works council",
+    "us": "site works council",
+    "ex": "The [[site works council]] in Nantes is a good deal tougher than the one in Lille."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "at site level",
+   "at establishment level",
+   "the site director chairs the council",
+   "local issues"
+  ],
+  "note_fr": "« Establishment » est juridique et formel ; à l'oral, on dit « site » ou « location » (US). Attention : « the Establishment », avec majuscule, désigne les élites au pouvoir. Chef d'établissement : « site director » ou « site manager ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cl-035",
+  "level": 3,
+  "fr": "établissement distinct",
+  "term": {
+   "uk": "separate establishment",
+   "us": "separate establishment"
+  },
+  "ipa": {
+   "uk": "/ˌsep(ə)rət ɪˈstæblɪʃmənt/",
+   "us": "/ˌsep(ə)rət ɪˈstæblɪʃmənt/"
+  },
+  "def": "In French law, a site or group of sites that is treated as a unit of its own for electing a works council.",
+  "registers": {
+   "formal": {
+    "uk": "separate establishment",
+    "us": "separate establishment",
+    "ex": "The number and boundaries of [[separate establishments]] are fixed by company agreement or, failing that, by the employer, having regard to the autonomy of local management."
+   },
+   "everyday": {
+    "uk": "to count as a separate site",
+    "us": "to count as a separate site",
+    "ex": "The depot doesn't [[count as a separate site]], because its manager has no real say over staffing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the scope of representation",
+   "to define the electoral units",
+   "the autonomy of the site manager",
+   "to redraw the boundaries"
+  ],
+  "note_fr": "« Périmètre » se rend par « scope » ou « boundaries » : « perimeter » ne désigne qu'une limite physique (clôture, enceinte). Le critère à expliquer est l'autonomie de gestion du responsable du site, notamment en matière de personnel.",
+  "french_concept": true,
+  "explain": {
+   "written": "A separate establishment (établissement distinct) is a unit of the company, defined by agreement or, failing that, by the employer on the basis of the management autonomy of the person in charge, within which a works council of its own is elected.",
+   "spoken": "We have to decide how the company is carved up for representation: each 'separate establishment' gets its own works council, and the test is how much real autonomy the local manager has."
+  }
+ },
+ {
+  "id": "cl-036",
+  "level": 3,
+  "fr": "UES (unité économique et sociale)",
+  "term": {
+   "uk": "economic and social unit",
+   "us": "economic and social unit"
+  },
+  "ipa": {
+   "uk": "/ˌiːkəˌnɒmɪk ən ˌsəʊʃ(ə)l ˈjuːnɪt/",
+   "us": "/ˌekəˌnɑːmɪk ən ˌsoʊʃ(ə)l ˈjuːnɪt/"
+  },
+  "def": "A group of legally separate French companies treated as a single company for the purposes of employee representation.",
+  "registers": {
+   "formal": {
+    "uk": "economic and social unit",
+    "us": "economic and social unit",
+    "ex": "The three subsidiaries were recognised by agreement as forming an [[economic and social unit]], with a single works council.",
+    "ex_us": "The three subsidiaries were recognized by agreement as forming an [[economic and social unit]], with a single works council."
+   },
+   "everyday": {
+    "uk": "to be treated as a single company",
+    "us": "to be treated as a single company",
+    "ex": "For representation purposes the three subsidiaries [[are treated as a single company]], even though they're separate legal entities."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be recognised by agreement or by the court",
+   "separate legal entities",
+   "common management",
+   "a single works council"
+  ],
+  "note_fr": "Notion sans équivalent : gardez le sigle UES avec une glose. Les analogies (« associated employers » au Royaume-Uni, « single employer » aux États-Unis) répondent à d'autres finalités : présentez-les comme de simples points de repère. Entité juridique : « legal entity », pas « juridical ».",
+  "french_concept": true,
+  "explain": {
+   "written": "An economic and social unit (unité économique et sociale, or UES) is a group of legally distinct companies which, because they share common management, complementary activities and a single workforce community, are treated as one company for the purposes of employee representation.",
+   "spoken": "Legally they're three companies, but because they're run together and the staff work as one community, French law treats them as one for the works council and the unions."
+  }
+ },
+ {
+  "id": "cl-037",
   "level": 1,
   "fr": "syndicat",
   "term": {
@@ -1236,7 +1391,7 @@
   "explain": null
  },
  {
-  "id": "cl-034",
+  "id": "cl-038",
   "level": 1,
   "fr": "adhérer à un syndicat",
   "term": {
@@ -1276,7 +1431,7 @@
   "explain": null
  },
  {
-  "id": "cl-035",
+  "id": "cl-039",
   "level": 1,
   "fr": "syndiqué(e)",
   "term": {
@@ -1314,45 +1469,7 @@
   "explain": null
  },
  {
-  "id": "cl-036",
-  "level": 2,
-  "fr": "cotisation syndicale",
-  "term": {
-   "uk": "union subscription",
-   "us": "union dues"
-  },
-  "ipa": {
-   "uk": "/ˌjuːnjən səbˈskrɪpʃ(ə)n/",
-   "us": "/ˌjuːnjən ˈduːz/"
-  },
-  "def": "The money that members pay regularly to their union.",
-  "registers": {
-   "formal": {
-    "uk": "union subscriptions",
-    "us": "union dues",
-    "ex": "[[Union subscriptions]] may be deducted from pay only with the member's written authorisation.",
-    "ex_us": "[[Union dues]] may be deducted from pay only with the member's written authorization."
-   },
-   "everyday": {
-    "uk": "union subs",
-    "us": "union dues",
-    "ex": "I've been paying my [[union subs]] for twenty years.",
-    "ex_us": "I've been paying my [[union dues]] for twenty years."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "to pay one's dues",
-   "check-off (deduction at source)",
-   "to be in arrears",
-   "agency fees (US)"
-  ],
-  "note_fr": "« Contribution » évoque un don ou une cotisation sociale. Différence juridique : en France, l'employeur a interdiction de prélever les cotisations syndicales sur le salaire, alors que le « check-off » est courant au Royaume-Uni et aux États-Unis.",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-037",
+  "id": "cl-040",
   "level": 1,
   "fr": "délégué(e) syndical(e)",
   "term": {
@@ -1390,7 +1507,7 @@
   }
  },
  {
-  "id": "cl-038",
+  "id": "cl-041",
   "level": 2,
   "fr": "délégué d'atelier (Royaume-Uni, États-Unis)",
   "term": {
@@ -1427,7 +1544,7 @@
   "explain": null
  },
  {
-  "id": "cl-039",
+  "id": "cl-042",
   "level": 2,
   "fr": "section syndicale",
   "term": {
@@ -1465,7 +1582,7 @@
   "explain": null
  },
  {
-  "id": "cl-040",
+  "id": "cl-043",
   "level": 2,
   "fr": "représentativité syndicale",
   "term": {
@@ -1506,7 +1623,7 @@
   }
  },
  {
-  "id": "cl-041",
+  "id": "cl-044",
   "level": 2,
   "fr": "reconnaissance syndicale (Royaume-Uni)",
   "term": {
@@ -1544,7 +1661,7 @@
   "explain": null
  },
  {
-  "id": "cl-042",
+  "id": "cl-045",
   "level": 2,
   "fr": "unité de négociation",
   "term": {
@@ -1580,7 +1697,7 @@
   "explain": null
  },
  {
-  "id": "cl-043",
+  "id": "cl-046",
   "level": 3,
   "fr": "NLRB (agence fédérale américaine des relations du travail)",
   "term": {
@@ -1616,7 +1733,7 @@
   "explain": null
  },
  {
-  "id": "cl-044",
+  "id": "cl-047",
   "level": 3,
   "fr": "loi « right-to-work » (États-Unis)",
   "term": {
@@ -1652,7 +1769,7 @@
   "explain": null
  },
  {
-  "id": "cl-045",
+  "id": "cl-048",
   "level": 3,
   "fr": "pratique déloyale en matière de relations du travail (États-Unis)",
   "term": {
@@ -1684,117 +1801,6 @@
    "to interfere with employees' rights"
   ],
   "note_fr": "Notion américaine (refus de négocier, représailles, ingérence), sans caractère pénal, à la différence du délit d'entrave. Gardez l'orthographe « labor ». Ne confondez pas avec « unfair dismissal », notion britannique de licenciement abusif.",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-046",
-  "level": 3,
-  "fr": "campagne de syndicalisation",
-  "term": {
-   "uk": "union recruitment drive",
-   "us": "union organizing drive"
-  },
-  "ipa": {
-   "uk": "/ˌjuːnjən rɪˈkruːtmənt draɪv/",
-   "us": "/ˌjuːnjən ˈɔːrɡənaɪzɪŋ draɪv/"
-  },
-  "def": "A campaign by a union to persuade the employees of a workplace to join it and be represented by it.",
-  "registers": {
-   "formal": {
-    "uk": "union organising campaign",
-    "us": "union organizing campaign",
-    "ex": "The company adopted a position of neutrality throughout the [[union organising campaign]].",
-    "ex_us": "The company adopted a position of neutrality throughout the [[union organizing campaign]]."
-   },
-   "everyday": {
-    "uk": "to unionise",
-    "us": "to unionize",
-    "ex": "The delivery riders are trying to [[unionise]], and head office is nervous.",
-    "ex_us": "The delivery drivers are trying to [[unionize]], and corporate is nervous."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "a union organiser",
-   "to sign authorization cards (US)",
-   "to organise a workplace",
-   "a union-free workplace"
-  ],
-  "note_fr": "Aux États-Unis, « to organize » employé seul signifie syndiquer un site (« they organized the warehouse »), et la campagne débouche sur une élection. En France, un syndicat n'a pas à « conquérir » chaque site : la notion s'explique donc dans les deux sens.",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-047",
-  "level": 3,
-  "fr": "élection de représentation (États-Unis)",
-  "term": {
-   "uk": "representation election",
-   "us": "representation election"
-  },
-  "ipa": {
-   "uk": "/ˌreprɪzenˈteɪʃ(ə)n ɪˌlekʃ(ə)n/",
-   "us": "/ˌreprɪzenˈteɪʃ(ə)n ɪˌlekʃ(ə)n/"
-  },
-  "def": "A vote in which the employees of a bargaining unit decide whether they want a union to represent them.",
-  "registers": {
-   "formal": {
-    "uk": "representation election",
-    "us": "representation election",
-    "ex": "The Board will conduct a [[representation election]] to determine whether a majority of employees in the unit wish to be represented by the union."
-   },
-   "everyday": {
-    "uk": "union vote",
-    "us": "union vote",
-    "ex": "The [[union vote]] at the distribution centre is next week, and it's too close to call.",
-    "ex_us": "The [[union vote]] at the distribution center is next week, and it's too close to call."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "to petition for an election",
-   "to certify the union",
-   "to win / lose the vote",
-   "exclusive bargaining representative"
-  ],
-  "note_fr": "Vote par lequel les salariés d'une unité décident d'être ou non représentés par un syndicat (au Royaume-Uni : « recognition ballot »). Rien à voir avec nos élections professionnelles, où l'on choisit des personnes et non le principe même d'une représentation.",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-048",
-  "level": 3,
-  "fr": "monopole syndical d'embauche",
-  "term": {
-   "uk": "closed shop",
-   "us": "closed shop"
-  },
-  "ipa": {
-   "uk": "/ˌkləʊzd ˈʃɒp/",
-   "us": "/ˌkloʊzd ˈʃɑːp/"
-  },
-  "def": "A workplace where only members of a particular union may be employed.",
-  "registers": {
-   "formal": {
-    "uk": "closed shop",
-    "us": "closed shop",
-    "ex": "A [[closed shop]], in which only union members may be hired, is unlawful in France, the United Kingdom and the United States."
-   },
-   "everyday": {
-    "uk": "closed shop",
-    "us": "closed shop",
-    "ex": "The docks used to be a [[closed shop]]: no union card, no job."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "a union shop (US)",
-   "a union security clause",
-   "compulsory membership",
-   "an open shop"
-  ],
-  "note_fr": "Ne confondez pas « closed shop » (embauche réservée aux syndiqués, interdite) et « union shop » (adhésion ou contribution exigée après l'embauche, possible aux États-Unis hors des États « right-to-work »). Sens figuré courant : milieu fermé aux nouveaux venus.",
   "french_concept": false,
   "explain": null
  },
@@ -1878,43 +1884,6 @@
  },
  {
   "id": "cl-051",
-  "level": 2,
-  "fr": "organisation patronale",
-  "term": {
-   "uk": "employers' association",
-   "us": "employers' association"
-  },
-  "ipa": {
-   "uk": "/ɪmˈplɔɪəz əˌsəʊsiˈeɪʃ(ə)n/",
-   "us": "/ɪmˈplɔɪərz əˌsoʊsiˈeɪʃ(ə)n/"
-  },
-  "def": "A body that represents employers in a sector, in particular in negotiations with unions.",
-  "registers": {
-   "formal": {
-    "uk": "employers' organisation",
-    "us": "employers' organization",
-    "ex": "The industry-level agreement was signed by the [[employers' organisation]] and three trade unions.",
-    "ex_us": "The industry-level agreement was signed by the [[employers' organization]] and three labor unions."
-   },
-   "everyday": {
-    "uk": "employers' association",
-    "us": "employers' association",
-    "ex": "Our [[employers' association]] sends out a briefing every time the minimum rates change."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "to be a member of an employers' association",
-   "the employers' side",
-   "a trade body",
-   "an industry federation"
-  ],
-  "note_fr": "« Patronal » n'existe pas en anglais, et « patron » signifie client régulier ou mécène. Le patronat : « employers » ou « the employers' side ». Aux États-Unis, où la négociation de branche est rare, on parle de « trade association » ou de « multiemployer bargaining ».",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-052",
   "level": 1,
   "fr": "partenaires sociaux",
   "term": {
@@ -1950,7 +1919,7 @@
   "explain": null
  },
  {
-  "id": "cl-053",
+  "id": "cl-052",
   "level": 1,
   "fr": "dialogue social",
   "term": {
@@ -1986,7 +1955,7 @@
   "explain": null
  },
  {
-  "id": "cl-054",
+  "id": "cl-053",
   "level": 1,
   "fr": "relations sociales (en entreprise)",
   "term": {
@@ -2023,7 +1992,85 @@
   "explain": null
  },
  {
+  "id": "cl-054",
+  "level": 2,
+  "fr": "climat social",
+  "term": {
+   "uk": "employee relations climate",
+   "us": "labor relations climate"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪˈiː rɪˌleɪʃ(ə)nz ˈklaɪmət/",
+   "us": "/ˈleɪbər rɪˌleɪʃ(ə)nz ˈklaɪmət/"
+  },
+  "def": "The general state of relations between management, employees and their representatives at a given time.",
+  "registers": {
+   "formal": {
+    "uk": "employee relations climate",
+    "us": "labor relations climate",
+    "ex": "The [[employee relations climate]] at the Lyon site has deteriorated markedly since the announcement.",
+    "ex_us": "The [[labor relations climate]] at the Lyon site has deteriorated markedly since the announcement."
+   },
+   "everyday": {
+    "uk": "the mood on the shop floor",
+    "us": "the mood on the floor",
+    "ex": "[[The mood on the shop floor]] is pretty sour at the moment.",
+    "ex_us": "[[The mood on the floor]] is pretty sour right now."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "staff morale",
+   "tensions are running high",
+   "early warning signs",
+   "a pulse survey"
+  ],
+  "note_fr": "« Social climate » est un calque que seuls les habitués de l'Europe continentale décodent. Baromètre social : « employee engagement survey » ou « pulse survey ». Un climat tendu : « tense » ou « strained », pas « tended ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
   "id": "cl-055",
+  "level": 2,
+  "fr": "rétablir la confiance (avec les représentants)",
+  "term": {
+   "uk": "to rebuild trust",
+   "us": "to rebuild trust"
+  },
+  "ipa": {
+   "uk": "/tə ˌriːˈbɪld ˈtrʌst/",
+   "us": "/tə ˌriːˈbɪld ˈtrʌst/"
+  },
+  "def": "To make a relationship reliable again after it has been damaged.",
+  "registers": {
+   "formal": {
+    "uk": "to restore trust",
+    "us": "to restore trust",
+    "ex": "Management's priority is to [[restore trust]] with employee representatives after the events of last spring."
+   },
+   "everyday": {
+    "uk": "to rebuild trust",
+    "us": "to rebuild trust",
+    "ex": "It'll take more than one good meeting to [[rebuild trust]] with the reps."
+   },
+   "informal": {
+    "uk": "to mend fences",
+    "us": "to mend fences",
+    "ex": "She spent her first six months [[mending fences]] with the unions."
+   }
+  },
+  "collocations": [
+   "a breakdown of trust",
+   "to keep one's word",
+   "to make a fresh start",
+   "to clear the air"
+  ],
+  "note_fr": "« Trust » = confiance dans une relation ; « confidence » = assurance, ou confiance dans une capacité (« confidence in the plan »). « To make confidence » est un calque. « To clear the air » : crever l'abcès, expression précieuse après un conflit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cl-056",
   "level": 1,
   "fr": "négociation collective",
   "term": {
@@ -2059,7 +2106,7 @@
   "explain": null
  },
  {
-  "id": "cl-056",
+  "id": "cl-057",
   "level": 1,
   "fr": "négocier",
   "term": {
@@ -2099,7 +2146,7 @@
   "explain": null
  },
  {
-  "id": "cl-057",
+  "id": "cl-058",
   "level": 1,
   "fr": "accord d'entreprise",
   "term": {
@@ -2135,7 +2182,7 @@
   "explain": null
  },
  {
-  "id": "cl-058",
+  "id": "cl-059",
   "level": 1,
   "fr": "accord de branche",
   "term": {
@@ -2175,7 +2222,7 @@
   }
  },
  {
-  "id": "cl-059",
+  "id": "cl-060",
   "level": 3,
   "fr": "extension d'un accord de branche",
   "term": {
@@ -2215,7 +2262,7 @@
   }
  },
  {
-  "id": "cl-060",
+  "id": "cl-061",
   "level": 2,
   "fr": "NAO (négociations annuelles obligatoires)",
   "term": {
@@ -2255,7 +2302,86 @@
   }
  },
  {
-  "id": "cl-061",
+  "id": "cl-062",
+  "level": 3,
+  "fr": "accord de dialogue social (fonctionnement du CSE)",
+  "term": {
+   "uk": "social dialogue agreement",
+   "us": "social dialogue agreement"
+  },
+  "ipa": {
+   "uk": "/ˌsəʊʃ(ə)l ˈdaɪəlɒɡ əˌɡriːmənt/",
+   "us": "/ˌsoʊʃ(ə)l ˈdaɪəlɔːɡ əˌɡriːmənt/"
+  },
+  "def": "A company agreement that organises employee representation: number of bodies, meetings, resources and consultation arrangements.",
+  "registers": {
+   "formal": {
+    "uk": "agreement on social dialogue",
+    "us": "agreement on social dialogue",
+    "ex": "The [[agreement on social dialogue]] fixes the number of meetings, the content of the database and the time limits for consultation."
+   },
+   "everyday": {
+    "uk": "works council agreement",
+    "us": "works council agreement",
+    "ex": "Under our [[works council agreement]], each site council meets every two months and the central council once a quarter."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to adapt the statutory rules by agreement",
+   "the resources allocated to representatives",
+   "the frequency of meetings",
+   "to renegotiate the agreement"
+  ],
+  "note_fr": "Dites à votre siège qu'en France une grande partie des règles du jeu (calendrier, délais, moyens) se négocie : « most of the ground rules can be tailored by agreement ». Équivalent le plus proche au Royaume-Uni : « recognition and procedure agreement ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The social dialogue agreement is a company-level collective agreement which tailors the statutory framework for employee representation, in particular the number and scope of works councils, the frequency of meetings, the resources of representatives and the arrangements for consultation.",
+   "spoken": "It's the agreement where we and the unions set the house rules for representation: how many councils, how often they meet, how much time and budget the reps get."
+  }
+ },
+ {
+  "id": "cl-063",
+  "level": 3,
+  "fr": "accord de méthode",
+  "term": {
+   "uk": "method agreement",
+   "us": "method agreement"
+  },
+  "ipa": {
+   "uk": "/ˈmeθəd əˌɡriːmənt/",
+   "us": "/ˈmeθəd əˌɡriːmənt/"
+  },
+  "def": "An agreement, signed before a negotiation or a major consultation, on how the process itself will be run.",
+  "registers": {
+   "formal": {
+    "uk": "method agreement",
+    "us": "method agreement",
+    "ex": "Before opening talks on working time, the parties signed a [[method agreement]] setting out the timetable, the information to be shared and the resources allocated to the unions."
+   },
+   "everyday": {
+    "uk": "ground rules",
+    "us": "ground rules",
+    "ex": "Let's agree the [[ground rules]] first: how many meetings, what data, and who's in the room.",
+    "ex_us": "Let's agree on the [[ground rules]] first: how many meetings, what data, and who's in the room."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to agree a timetable",
+   "to set the ground rules",
+   "a procedural agreement (UK)",
+   "to frame the negotiations"
+  ],
+  "note_fr": "« Method agreement » demande une glose ; « ground rules » est l'expression naturelle, et même le terme consacré aux États-Unis pour le cadrage d'une négociation collective. On y recourt aussi pour encadrer la consultation lors des grandes restructurations.",
+  "french_concept": true,
+  "explain": {
+   "written": "A method agreement (accord de méthode) is concluded between the employer and the unions ahead of a negotiation or a major consultation in order to fix the timetable, the information to be provided and the resources made available to the negotiators.",
+   "spoken": "Before we get into the substance, we sign a short agreement on the process: the calendar, the documents we'll share and the time the unions get to prepare."
+  }
+ },
+ {
+  "id": "cl-064",
   "level": 1,
   "fr": "conclure un accord",
   "term": {
@@ -2296,7 +2422,7 @@
   "explain": null
  },
  {
-  "id": "cl-062",
+  "id": "cl-065",
   "level": 3,
   "fr": "accord majoritaire",
   "term": {
@@ -2335,7 +2461,7 @@
   }
  },
  {
-  "id": "cl-063",
+  "id": "cl-066",
   "level": 3,
   "fr": "dénoncer un accord",
   "term": {
@@ -2371,7 +2497,7 @@
   "explain": null
  },
  {
-  "id": "cl-064",
+  "id": "cl-067",
   "level": 2,
   "fr": "réviser / renégocier un accord",
   "term": {
@@ -2407,7 +2533,7 @@
   "explain": null
  },
  {
-  "id": "cl-065",
+  "id": "cl-068",
   "level": 1,
   "fr": "revendications",
   "term": {
@@ -2448,7 +2574,7 @@
   "explain": null
  },
  {
-  "id": "cl-066",
+  "id": "cl-069",
   "level": 1,
   "fr": "contre-proposition",
   "term": {
@@ -2486,7 +2612,7 @@
   "explain": null
  },
  {
-  "id": "cl-067",
+  "id": "cl-070",
   "level": 2,
   "fr": "accord salarial",
   "term": {
@@ -2523,7 +2649,7 @@
   "explain": null
  },
  {
-  "id": "cl-068",
+  "id": "cl-071",
   "level": 2,
   "fr": "faire des concessions",
   "term": {
@@ -2563,7 +2689,7 @@
   "explain": null
  },
  {
-  "id": "cl-069",
+  "id": "cl-072",
   "level": 2,
   "fr": "blocage / impasse des négociations",
   "term": {
@@ -2600,7 +2726,7 @@
   "explain": null
  },
  {
-  "id": "cl-070",
+  "id": "cl-073",
   "level": 2,
   "fr": "sortir de l'impasse",
   "term": {
@@ -2637,7 +2763,7 @@
   "explain": null
  },
  {
-  "id": "cl-071",
+  "id": "cl-074",
   "level": 2,
   "fr": "négocier de bonne foi (loyauté de la négociation)",
   "term": {
@@ -2673,7 +2799,7 @@
   "explain": null
  },
  {
-  "id": "cl-072",
+  "id": "cl-075",
   "level": 2,
   "fr": "soumettre l'accord au vote des adhérents",
   "term": {
@@ -2711,7 +2837,7 @@
   "explain": null
  },
  {
-  "id": "cl-073",
+  "id": "cl-076",
   "level": 3,
   "fr": "principe de faveur",
   "term": {
@@ -2751,7 +2877,7 @@
   }
  },
  {
-  "id": "cl-074",
+  "id": "cl-077",
   "level": 3,
   "fr": "déroger à",
   "term": {
@@ -2788,7 +2914,7 @@
   "explain": null
  },
  {
-  "id": "cl-075",
+  "id": "cl-078",
   "level": 2,
   "fr": "consultation collective (Royaume-Uni)",
   "term": {
@@ -2824,45 +2950,7 @@
   "explain": null
  },
  {
-  "id": "cl-076",
-  "level": 2,
-  "fr": "instance de dialogue non syndicale (Royaume-Uni, États-Unis)",
-  "term": {
-   "uk": "staff forum",
-   "us": "employee forum"
-  },
-  "ipa": {
-   "uk": "/ˈstɑːf ˌfɔːrəm/",
-   "us": "/ɪmˌplɔɪˈiː ˌfɔːrəm/"
-  },
-  "def": "A group of employee representatives, with no union role, that an employer meets regularly to exchange information and views.",
-  "registers": {
-   "formal": {
-    "uk": "employee forum",
-    "us": "employee committee",
-    "ex": "The [[employee forum]] is a consultative body and has no authority to negotiate terms and conditions.",
-    "ex_us": "The [[employee committee]] is a consultative body and has no authority to negotiate terms and conditions."
-   },
-   "everyday": {
-    "uk": "staff forum",
-    "us": "employee forum",
-    "ex": "We don't recognise a union, but there's a [[staff forum]] that meets every quarter.",
-    "ex_us": "We're non-union, but there's an [[employee forum]] that meets every quarter."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "a staff council",
-   "a joint consultative committee (UK)",
-   "employee voice",
-   "to sit on the forum"
-  ],
-  "note_fr": "Au Royaume-Uni, « works council » désigne souvent ce type d'instance facultative et purement consultative : rien de comparable aux pouvoirs du CSE. Aux États-Unis, la loi fédérale interdit à l'employeur de dominer ou de financer une organisation représentant les salariés, d'où la prudence des entreprises.",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-077",
+  "id": "cl-079",
   "level": 1,
   "fr": "grève",
   "term": {
@@ -2903,7 +2991,7 @@
   "explain": null
  },
  {
-  "id": "cl-078",
+  "id": "cl-080",
   "level": 1,
   "fr": "appeler à la grève",
   "term": {
@@ -2941,7 +3029,7 @@
   "explain": null
  },
  {
-  "id": "cl-079",
+  "id": "cl-081",
   "level": 1,
   "fr": "mouvement social / action collective",
   "term": {
@@ -2979,7 +3067,7 @@
   "explain": null
  },
  {
-  "id": "cl-080",
+  "id": "cl-082",
   "level": 1,
   "fr": "conflit collectif",
   "term": {
@@ -3017,7 +3105,7 @@
   "explain": null
  },
  {
-  "id": "cl-081",
+  "id": "cl-083",
   "level": 1,
   "fr": "droit de grève",
   "term": {
@@ -3053,7 +3141,7 @@
   "explain": null
  },
  {
-  "id": "cl-082",
+  "id": "cl-084",
   "level": 2,
   "fr": "préavis de grève",
   "term": {
@@ -3091,7 +3179,7 @@
   "explain": null
  },
  {
-  "id": "cl-083",
+  "id": "cl-085",
   "level": 2,
   "fr": "vote sur la grève",
   "term": {
@@ -3129,7 +3217,7 @@
   "explain": null
  },
  {
-  "id": "cl-084",
+  "id": "cl-086",
   "level": 2,
   "fr": "débrayage",
   "term": {
@@ -3170,7 +3258,7 @@
   "explain": null
  },
  {
-  "id": "cl-085",
+  "id": "cl-087",
   "level": 3,
   "fr": "grève du zèle",
   "term": {
@@ -3206,44 +3294,7 @@
   "explain": null
  },
  {
-  "id": "cl-086",
-  "level": 3,
-  "fr": "grève perlée",
-  "term": {
-   "uk": "go-slow",
-   "us": "slowdown"
-  },
-  "ipa": {
-   "uk": "/ˌɡəʊ ˈsləʊ/",
-   "us": "/ˈsloʊdaʊn/"
-  },
-  "def": "A protest in which employees stay at work but deliberately work more slowly or less well than usual.",
-  "registers": {
-   "formal": {
-    "uk": "go-slow",
-    "us": "slowdown",
-    "ex": "A [[go-slow]] is not regarded as a lawful strike under French law, since work is performed defectively rather than stopped.",
-    "ex_us": "A [[slowdown]] is not regarded as a lawful strike under French law, since work is performed defectively rather than stopped."
-   },
-   "everyday": {
-    "uk": "go-slow",
-    "us": "slowdown",
-    "ex": "Output's down a third; it looks like a [[go-slow]] to me.",
-    "ex_us": "Output's down a third; it looks like a [[slowdown]] to me."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "to stage a go-slow",
-   "to slow down production",
-   "a deliberate drop in output"
-  ],
-  "note_fr": "En droit français, la grève suppose un arrêt complet du travail : la grève perlée (travail ralenti ou volontairement défectueux) est une exécution fautive du contrat, non l'exercice du droit de grève. « Pearled strike » n'existe pas.",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-087",
+  "id": "cl-088",
   "level": 2,
   "fr": "piquet de grève",
   "term": {
@@ -3280,7 +3331,7 @@
   "explain": null
  },
  {
-  "id": "cl-088",
+  "id": "cl-089",
   "level": 2,
   "fr": "briseur de grève",
   "term": {
@@ -3321,7 +3372,7 @@
   "explain": null
  },
  {
-  "id": "cl-089",
+  "id": "cl-090",
   "level": 3,
   "fr": "lock-out",
   "term": {
@@ -3357,7 +3408,7 @@
   "explain": null
  },
  {
-  "id": "cl-090",
+  "id": "cl-091",
   "level": 3,
   "fr": "grève sauvage",
   "term": {
@@ -3394,7 +3445,7 @@
   "explain": null
  },
  {
-  "id": "cl-091",
+  "id": "cl-092",
   "level": 3,
   "fr": "grève de solidarité",
   "term": {
@@ -3432,7 +3483,7 @@
   "explain": null
  },
  {
-  "id": "cl-092",
+  "id": "cl-093",
   "level": 2,
   "fr": "retenue sur salaire pour fait de grève",
   "term": {
@@ -3468,7 +3519,7 @@
   "explain": null
  },
  {
-  "id": "cl-093",
+  "id": "cl-094",
   "level": 1,
   "fr": "reprise du travail",
   "term": {
@@ -3505,7 +3556,7 @@
   "explain": null
  },
  {
-  "id": "cl-094",
+  "id": "cl-095",
   "level": 3,
   "fr": "protocole de fin de conflit",
   "term": {
@@ -3537,43 +3588,6 @@
    "to draw a line under the dispute"
   ],
   "note_fr": "« Protocol » ne convient pas (étiquette, procédure technique) : dites « agreement » ou « settlement ». La clause par laquelle l'employeur renonce aux sanctions s'appelle « no-victimisation clause » (UK) ou « no-reprisal clause » (US).",
-  "french_concept": false,
-  "explain": null
- },
- {
-  "id": "cl-095",
-  "level": 3,
-  "fr": "occupation des locaux",
-  "term": {
-   "uk": "sit-in",
-   "us": "sit-in"
-  },
-  "ipa": {
-   "uk": "/ˈsɪt ɪn/",
-   "us": "/ˈsɪt ɪn/"
-  },
-  "def": "A protest in which employees remain inside the workplace and refuse to leave.",
-  "registers": {
-   "formal": {
-    "uk": "occupation of the premises",
-    "us": "occupation of the premises",
-    "ex": "The [[occupation of the premises]] by strikers may be brought to an end by court order where it infringes the freedom to work."
-   },
-   "everyday": {
-    "uk": "sit-in",
-    "us": "sit-in",
-    "ex": "About forty people are staging a [[sit-in]] in the canteen.",
-    "ex_us": "About forty people are staging a [[sit-in]] in the cafeteria."
-   },
-   "informal": null
-  },
-  "collocations": [
-   "to stage a sit-in",
-   "to occupy the site",
-   "to blockade the entrance",
-   "to obtain an eviction order"
-  ],
-  "note_fr": "« Premises » (les locaux) est toujours au pluriel : « the premises are occupied ». « Local » est un adjectif en anglais, ou désigne au Royaume-Uni le pub du coin. Bloquer les accès : « to blockade », plus fort que « to block ».",
   "french_concept": false,
   "explain": null
  },

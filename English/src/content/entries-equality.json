@@ -1,0 +1,3728 @@
+[
+ {
+  "id": "eq-001",
+  "level": 1,
+  "fr": "discrimination",
+  "term": {
+   "uk": "discrimination",
+   "us": "discrimination"
+  },
+  "ipa": {
+   "uk": "/dɪˌskrɪmɪˈneɪʃ(ə)n/",
+   "us": "/dɪˌskrɪmɪˈneɪʃ(ə)n/"
+  },
+  "def": "Treating a person or group worse than others because of who they are, for example their sex, age or origin.",
+  "registers": {
+   "formal": {
+    "uk": "unlawful discrimination",
+    "us": "unlawful discrimination",
+    "ex": "The Company will not tolerate any form of [[unlawful discrimination]] in recruitment, pay or promotion."
+   },
+   "everyday": {
+    "uk": "discrimination",
+    "us": "discrimination",
+    "ex": "She's convinced it was [[discrimination]], pure and simple."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "discrimination on the grounds of age",
+   "to suffer discrimination",
+   "a discrimination claim",
+   "to amount to discrimination"
+  ],
+  "note_fr": "Attention aux prépositions : « discrimination AGAINST women », « on the grounds of sex » (UK) ou « on the basis of sex » (US). Jamais « discrimination towards » ni « discrimination about ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-002",
+  "level": 1,
+  "fr": "discriminer (quelqu'un)",
+  "term": {
+   "uk": "to discriminate against",
+   "us": "to discriminate against"
+  },
+  "ipa": {
+   "uk": "/dɪˈskrɪmɪneɪt əˈɡenst/",
+   "us": "/dɪˈskrɪmɪneɪt əˈɡenst/"
+  },
+  "def": "To treat someone less well than others for a reason the law does not allow.",
+  "registers": {
+   "formal": {
+    "uk": "to discriminate against",
+    "us": "to discriminate against",
+    "ex": "An employer must not [[discriminate against]] a job applicant because of his or her age."
+   },
+   "everyday": {
+    "uk": "to treat someone unfairly",
+    "us": "to treat someone unfairly",
+    "ex": "He feels he's been [[treated unfairly]] ever since he mentioned his health condition."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to discriminate against someone because of their age",
+   "to be discriminated against",
+   "to discriminate on the basis of sex"
+  ],
+  "note_fr": "Le verbe anglais est intransitif : on ne dit pas « to discriminate someone » mais « to discriminate AGAINST someone ». Au passif : « she was discriminated against ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-003",
+  "level": 1,
+  "fr": "motif de discrimination / critère prohibé",
+  "term": {
+   "uk": "ground of discrimination",
+   "us": "basis of discrimination"
+  },
+  "ipa": {
+   "uk": "/ɡraʊnd əv dɪˌskrɪmɪˈneɪʃ(ə)n/",
+   "us": "/ˈbeɪsɪs əv dɪˌskrɪmɪˈneɪʃ(ə)n/"
+  },
+  "def": "One of the personal characteristics, such as sex, age or religion, that the law forbids an employer to take into account.",
+  "registers": {
+   "formal": {
+    "uk": "prohibited ground of discrimination",
+    "us": "prohibited basis of discrimination",
+    "ex": "Trade union activity is a [[prohibited ground of discrimination]] under the French Labour Code.",
+    "ex_us": "Union activity is a [[prohibited basis of discrimination]] under the French Labor Code."
+   },
+   "everyday": {
+    "uk": "on the grounds of",
+    "us": "on the basis of",
+    "ex": "You can't turn someone down [[on the grounds of]] their accent.",
+    "ex_us": "You can't turn someone down [[on the basis of]] their accent."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on the grounds of sex",
+   "on grounds of age",
+   "a ground covered by the law"
+  ],
+  "note_fr": "Le Code du travail français énumère plus d'une vingtaine de critères, bien plus que le droit britannique (neuf « protected characteristics ») ou le droit fédéral américain. « Motive » désigne le mobile d'une personne, pas le critère légal.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-004",
+  "level": 1,
+  "fr": "origine (ethnique) / discrimination raciale",
+  "term": {
+   "uk": "race discrimination",
+   "us": "race discrimination"
+  },
+  "ipa": {
+   "uk": "/reɪs dɪˌskrɪmɪˈneɪʃ(ə)n/",
+   "us": "/reɪs dɪˌskrɪmɪˈneɪʃ(ə)n/"
+  },
+  "def": "Less favourable treatment because of a person's race, colour, nationality or ethnic or national origin.",
+  "registers": {
+   "formal": {
+    "uk": "discrimination on the grounds of race or ethnic origin",
+    "us": "discrimination on the basis of race or national origin",
+    "ex": "The policy prohibits [[discrimination on the grounds of race or ethnic origin]].",
+    "ex_us": "The policy prohibits [[discrimination on the basis of race or national origin]]."
+   },
+   "everyday": {
+    "uk": "race discrimination",
+    "us": "race discrimination",
+    "ex": "He's bringing a [[race discrimination]] claim against his former employer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "racial harassment",
+   "ethnic origin",
+   "national origin",
+   "a racist remark"
+  ],
+  "note_fr": "En anglais juridique, « race » est un terme courant et neutre (« race discrimination », « race relations »), alors que le droit français parle plutôt d'origine ou d'appartenance vraie ou supposée à une ethnie. Ne traduisez pas « origine » par « origin » tout seul : précisez « ethnic » ou « national ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-005",
+  "level": 1,
+  "fr": "discrimination fondée sur l'âge",
+  "term": {
+   "uk": "age discrimination",
+   "us": "age discrimination"
+  },
+  "ipa": {
+   "uk": "/eɪdʒ dɪˌskrɪmɪˈneɪʃ(ə)n/",
+   "us": "/eɪdʒ dɪˌskrɪmɪˈneɪʃ(ə)n/"
+  },
+  "def": "Treating someone less well because they are considered too old or too young.",
+  "registers": {
+   "formal": {
+    "uk": "discrimination on the grounds of age",
+    "us": "discrimination on the basis of age",
+    "ex": "Selecting employees for training by reference to their date of birth may constitute [[discrimination on the grounds of age]].",
+    "ex_us": "Selecting employees for training by reference to their date of birth may constitute [[discrimination on the basis of age]]."
+   },
+   "everyday": {
+    "uk": "age discrimination",
+    "us": "age discrimination",
+    "ex": "Asking for a 'digital native' in a job advert is asking for an [[age discrimination]] claim."
+   },
+   "informal": {
+    "uk": "ageism",
+    "us": "ageism",
+    "ex": "There's a fair bit of [[ageism]] in that team, if I'm honest."
+   }
+  },
+  "collocations": [
+   "an ageist remark",
+   "older workers",
+   "to be passed over because of one's age"
+  ],
+  "note_fr": "Aux États-Unis, la loi fédérale ne protège que les salariés de quarante ans et plus ; en France et au Royaume-Uni, l'âge est protégé dans les deux sens. « Senior » en anglais évoque la hiérarchie, pas l'âge : dites « older workers ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-006",
+  "level": 1,
+  "fr": "handicap",
+  "term": {
+   "uk": "disability",
+   "us": "disability"
+  },
+  "ipa": {
+   "uk": "/ˌdɪsəˈbɪləti/",
+   "us": "/ˌdɪsəˈbɪləti/"
+  },
+  "def": "A long-term physical or mental condition that makes ordinary activities, including work, substantially harder.",
+  "registers": {
+   "formal": {
+    "uk": "disability",
+    "us": "disability",
+    "ex": "The employee has disclosed a [[disability]] within the meaning of the applicable legislation."
+   },
+   "everyday": {
+    "uk": "a health condition",
+    "us": "a health condition",
+    "ex": "He has [[a health condition]] that makes long days at a screen difficult."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to disclose a disability",
+   "disability discrimination",
+   "a hidden disability",
+   "a long-term condition"
+  ],
+  "note_fr": "« Handicap » est aujourd'hui jugé blessant en anglais lorsqu'il s'applique à une personne : dites « disability ». De même, évitez « invalid » et « handicapped ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-007",
+  "level": 1,
+  "fr": "salarié(e) en situation de handicap",
+  "term": {
+   "uk": "disabled employee",
+   "us": "employee with a disability"
+  },
+  "ipa": {
+   "uk": "/dɪsˈeɪb(ə)ld ɪmˈplɔɪiː/",
+   "us": "/ɪmˈplɔɪiː wɪð ə ˌdɪsəˈbɪləti/"
+  },
+  "def": "A member of staff who has a disability.",
+  "registers": {
+   "formal": {
+    "uk": "disabled employee",
+    "us": "employee with a disability",
+    "ex": "The employer shall take appropriate measures to enable a [[disabled employee]] to remain in work.",
+    "ex_us": "The employer shall take appropriate measures to enable an [[employee with a disability]] to remain in work."
+   },
+   "everyday": {
+    "uk": "disabled colleague",
+    "us": "colleague with a disability",
+    "ex": "We've just changed the door system so that our [[disabled colleagues]] can get in on their own.",
+    "ex_us": "We've just changed the door system so that our [[colleagues with disabilities]] can get in on their own."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "disabled people",
+   "people with disabilities",
+   "to recruit disabled candidates"
+  ],
+  "note_fr": "L'usage britannique préfère « disabled people » (modèle social du handicap), l'usage américain « people with disabilities » (la personne d'abord). Dans les deux pays, « the disabled » et « the handicapped » sont à proscrire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-008",
+  "level": 1,
+  "fr": "égalité de traitement",
+  "term": {
+   "uk": "equal treatment",
+   "us": "equal treatment"
+  },
+  "ipa": {
+   "uk": "/ˈiːkwəl ˈtriːtmənt/",
+   "us": "/ˈiːkwəl ˈtriːtmənt/"
+  },
+  "def": "The principle that people in comparable situations must be treated in the same way.",
+  "registers": {
+   "formal": {
+    "uk": "the principle of equal treatment",
+    "us": "the principle of equal treatment",
+    "ex": "The measure is contrary to [[the principle of equal treatment]] between employees in a comparable situation."
+   },
+   "everyday": {
+    "uk": "to treat everyone the same",
+    "us": "to treat everyone the same",
+    "ex": "All we're asking managers to do is [[treat everyone the same]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "equal treatment of men and women",
+   "to be entitled to equal treatment",
+   "a breach of equal treatment"
+  ],
+  "note_fr": "En droit français, l'égalité de traitement est un principe général distinct de la non-discrimination : elle joue même sans critère prohibé. Cette distinction n'existe pas vraiment en droit britannique ou américain, où il faut rattacher la différence à un critère protégé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-009",
+  "level": 1,
+  "fr": "égalité des chances",
+  "term": {
+   "uk": "equal opportunities",
+   "us": "equal opportunity"
+  },
+  "ipa": {
+   "uk": "/ˈiːkwəl ˌɒpəˈtjuːnətiz/",
+   "us": "/ˈiːkwəl ˌɑːpərˈtuːnəti/"
+  },
+  "def": "The principle that everyone should have the same chance of being hired, trained and promoted, whatever their background.",
+  "registers": {
+   "formal": {
+    "uk": "equality of opportunity",
+    "us": "equal employment opportunity",
+    "ex": "The Company is committed to [[equality of opportunity]] at every stage of employment.",
+    "ex_us": "The Company is committed to [[equal employment opportunity]] at every stage of employment."
+   },
+   "everyday": {
+    "uk": "equal opportunities",
+    "us": "equal opportunity",
+    "ex": "We describe ourselves as an [[equal opportunities]] employer, so let's act like one.",
+    "ex_us": "We describe ourselves as an [[equal opportunity]] employer, so let's act like one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an equal opportunities employer",
+   "an equal opportunities policy",
+   "to promote equality of opportunity"
+  ],
+  "note_fr": "Pluriel au Royaume-Uni (« equal opportunities »), singulier aux États-Unis (« equal opportunity », d'où le sigle EEO). Ne traduisez pas « chances » par « chances » : « equal chances » ne se dit pas dans ce sens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-010",
+  "level": 1,
+  "fr": "traiter moins favorablement",
+  "term": {
+   "uk": "to treat less favourably",
+   "us": "to treat less favorably"
+  },
+  "ipa": {
+   "uk": "/triːt les ˈfeɪv(ə)rəbli/",
+   "us": "/triːt les ˈfeɪvərəbli/"
+  },
+  "def": "To give someone worse conditions, chances or treatment than another person in a similar situation.",
+  "registers": {
+   "formal": {
+    "uk": "to treat less favourably",
+    "us": "to treat less favorably",
+    "ex": "A part-time employee must not be [[treated less favourably]] than a comparable full-time employee.",
+    "ex_us": "A part-time employee must not be [[treated less favorably]] than a comparable full-time employee."
+   },
+   "everyday": {
+    "uk": "to treat differently",
+    "us": "to treat differently",
+    "ex": "Has she been [[treated differently]] from the rest of the team since she came back?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "less favourable treatment",
+   "to be treated less favourably than a colleague",
+   "a difference in treatment"
+  ],
+  "note_fr": "« Less favourable treatment » est la formule légale de la discrimination directe ; « different treatment » est neutre et peut être parfaitement licite. Orthographe : favourably (UK), favorably (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-011",
+  "level": 1,
+  "fr": "harcèlement",
+  "term": {
+   "uk": "harassment",
+   "us": "harassment"
+  },
+  "ipa": {
+   "uk": "/ˈhærəsmənt/",
+   "us": "/həˈræsmənt/"
+  },
+  "def": "Unwanted behaviour that offends, humiliates or intimidates another person.",
+  "registers": {
+   "formal": {
+    "uk": "harassment",
+    "us": "harassment",
+    "ex": "Any employee found to have committed an act of [[harassment]] will be subject to disciplinary action."
+   },
+   "everyday": {
+    "uk": "harassment",
+    "us": "harassment",
+    "ex": "What she describes goes well beyond a clash of personalities; it's [[harassment]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to suffer harassment",
+   "an act of harassment",
+   "a harassment complaint",
+   "harassment by a manager"
+  ],
+  "note_fr": "Indénombrable : pas de « a harassment » ni de « harassments » ; dites « an act of harassment », « incidents of harassment ». Accent sur la première syllabe au Royaume-Uni, souvent sur la deuxième aux États-Unis. Au Royaume-Uni, « harassment » doit en droit être lié à un critère protégé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-012",
+  "level": 1,
+  "fr": "harceler",
+  "term": {
+   "uk": "to harass",
+   "us": "to harass"
+  },
+  "ipa": {
+   "uk": "/ˈhærəs/",
+   "us": "/həˈræs/"
+  },
+  "def": "To trouble, pressure or humiliate someone repeatedly.",
+  "registers": {
+   "formal": {
+    "uk": "to subject someone to harassment",
+    "us": "to subject someone to harassment",
+    "ex": "No employee shall [[subject a colleague to harassment]] of any kind."
+   },
+   "everyday": {
+    "uk": "to harass",
+    "us": "to harass",
+    "ex": "She says he's been [[harassing]] her for months."
+   },
+   "informal": {
+    "uk": "to pick on",
+    "us": "to pick on",
+    "ex": "He's always [[picking on]] the new recruits."
+   }
+  },
+  "collocations": [
+   "to harass a colleague",
+   "to be harassed by one's manager",
+   "to feel harassed"
+  ],
+  "note_fr": "« To harass » est plus fort que « to bother » ou « to pester » (importuner). « To pick on someone » = s'en prendre à quelqu'un, registre familier. Attention : « to harass » ne prend qu'un r et deux s.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-013",
+  "level": 1,
+  "fr": "harcèlement moral",
+  "term": {
+   "uk": "workplace bullying",
+   "us": "workplace bullying"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkpleɪs ˈbʊliɪŋ/",
+   "us": "/ˈwɜːrkpleɪs ˈbʊliɪŋ/"
+  },
+  "def": "Repeated behaviour at work that wears a person down, damages their working conditions and may harm their health, dignity or career.",
+  "registers": {
+   "formal": {
+    "uk": "moral harassment",
+    "us": "moral harassment",
+    "ex": "Under French law, [[moral harassment]] consists of repeated acts which have the purpose or effect of degrading an employee's working conditions."
+   },
+   "everyday": {
+    "uk": "bullying",
+    "us": "bullying",
+    "ex": "Three people in his team have now complained about [[bullying]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be bullied at work",
+   "a bullying manager",
+   "a culture of bullying",
+   "bullying and harassment"
+  ],
+  "note_fr": "« Moral harassment » est un calque que seuls comprennent les juristes habitués au droit français : à l'oral, dites « bullying ». Mais « bullying » n'est pas une notion légale au Royaume-Uni ni aux États-Unis : le harcèlement n'y est sanctionné en tant que tel que s'il est lié à un critère protégé.",
+  "french_concept": true,
+  "explain": {
+   "written": "Harcèlement moral ('moral harassment') is a French legal concept covering repeated acts which have the purpose or effect of degrading an employee's working conditions in a way likely to infringe his or her rights and dignity, impair his or her physical or mental health or jeopardise his or her career; it is both a civil wrong and a criminal offence, whatever the reason behind it.",
+   "spoken": "It's what you'd call workplace bullying, except that in France it's a legal concept in its own right: it doesn't need to be linked to sex, race or anything else, and it can be a criminal offence."
+  }
+ },
+ {
+  "id": "eq-014",
+  "level": 1,
+  "fr": "harcèlement sexuel",
+  "term": {
+   "uk": "sexual harassment",
+   "us": "sexual harassment"
+  },
+  "ipa": {
+   "uk": "/ˈsekʃuəl ˈhærəsmənt/",
+   "us": "/ˈsekʃuəl həˈræsmənt/"
+  },
+  "def": "Unwanted behaviour of a sexual nature, such as remarks, touching or pressure for sexual favours.",
+  "registers": {
+   "formal": {
+    "uk": "sexual harassment",
+    "us": "sexual harassment",
+    "ex": "[[Sexual harassment]] is a criminal offence in France and constitutes serious misconduct."
+   },
+   "everyday": {
+    "uk": "sexual harassment",
+    "us": "sexual harassment",
+    "ex": "She came to see me about [[sexual harassment]] by a client."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sexually harass someone",
+   "a sexual harassment complaint",
+   "sexual harassment by a third party",
+   "to prevent sexual harassment"
+  ],
+  "note_fr": "En France, le harcèlement sexuel suppose en principe des propos ou comportements répétés, mais une pression grave exercée une seule fois pour obtenir un acte sexuel y est assimilée. Au Royaume-Uni et aux États-Unis, un seul incident suffisamment grave peut suffire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-015",
+  "level": 1,
+  "fr": "propos déplacés",
+  "term": {
+   "uk": "inappropriate remarks",
+   "us": "inappropriate comments"
+  },
+  "ipa": {
+   "uk": "/ˌɪnəˈprəʊpriət rɪˈmɑːks/",
+   "us": "/ˌɪnəˈproʊpriət ˈkɑːments/"
+  },
+  "def": "Things said that are unsuitable at work because they are offensive, sexual or humiliating.",
+  "registers": {
+   "formal": {
+    "uk": "offensive remarks",
+    "us": "offensive comments",
+    "ex": "Several witnesses confirmed that [[offensive remarks]] had been made about her accent.",
+    "ex_us": "Several witnesses confirmed that [[offensive comments]] had been made about her accent."
+   },
+   "everyday": {
+    "uk": "inappropriate remarks",
+    "us": "inappropriate comments",
+    "ex": "He keeps making [[inappropriate remarks]] about what she wears.",
+    "ex_us": "He keeps making [[inappropriate comments]] about what she wears."
+   },
+   "informal": {
+    "uk": "to be out of order",
+    "us": "to be out of line",
+    "ex": "That joke in the meeting was completely [[out of order]].",
+    "ex_us": "That joke in the meeting was completely [[out of line]]."
+   }
+  },
+  "collocations": [
+   "to make a remark about someone",
+   "a derogatory comment",
+   "a sexist joke",
+   "an off-colour joke"
+  ],
+  "note_fr": "« Déplacé » ne se traduit pas par « displaced » ni « misplaced » : dites « inappropriate ». On « makes » a remark (jamais « does » ni « says »). « Out of order » (UK) / « out of line » (US) = qui dépasse les bornes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-016",
+  "level": 1,
+  "fr": "comportement déplacé",
+  "term": {
+   "uk": "inappropriate behaviour",
+   "us": "inappropriate behavior"
+  },
+  "ipa": {
+   "uk": "/ˌɪnəˈprəʊpriət bɪˈheɪvjə/",
+   "us": "/ˌɪnəˈproʊpriət bɪˈheɪvjər/"
+  },
+  "def": "Conduct that is not acceptable in a professional setting.",
+  "registers": {
+   "formal": {
+    "uk": "inappropriate conduct",
+    "us": "inappropriate conduct",
+    "ex": "The investigation concerns allegations of [[inappropriate conduct]] at the annual sales conference."
+   },
+   "everyday": {
+    "uk": "inappropriate behaviour",
+    "us": "inappropriate behavior",
+    "ex": "There have been a few reports of [[inappropriate behaviour]] at the Christmas party.",
+    "ex_us": "There have been a few reports of [[inappropriate behavior]] at the holiday party."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to behave inappropriately",
+   "unacceptable behaviour",
+   "to call out bad behaviour",
+   "standards of conduct"
+  ],
+  "note_fr": "« Behaviour » est indénombrable dans cet emploi : « this behaviour », pas « these behaviours » (pluriel réservé au jargon RH). « Conduct » est le terme des textes et des rapports ; « agissements » se rend par « acts » ou « conduct ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-017",
+  "level": 2,
+  "fr": "subir (un harcèlement, une discrimination)",
+  "term": {
+   "uk": "to be subjected to",
+   "us": "to be subjected to"
+  },
+  "ipa": {
+   "uk": "/bi səbˈdʒektɪd tuː/",
+   "us": "/bi səbˈdʒektɪd tuː/"
+  },
+  "def": "To be made to experience something unpleasant.",
+  "registers": {
+   "formal": {
+    "uk": "to be subjected to",
+    "us": "to be subjected to",
+    "ex": "No employee shall [[be subjected to]] repeated acts of harassment."
+   },
+   "everyday": {
+    "uk": "to be on the receiving end of",
+    "us": "to be on the receiving end of",
+    "ex": "She's been [[on the receiving end of]] his sarcasm for over a year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be subjected to harassment",
+   "to suffer discrimination",
+   "to experience bullying",
+   "to put up with comments"
+  ],
+  "note_fr": "« Subir » ne se traduit pas par « to undergo » (réservé aux examens, opérations, changements) ni par « to suffer from » (une maladie). Ne confondez pas « to be subjected to » (subir) et « to be subject to » (être soumis à).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-018",
+  "level": 1,
+  "fr": "plainte / signalement (interne)",
+  "term": {
+   "uk": "complaint",
+   "us": "complaint"
+  },
+  "ipa": {
+   "uk": "/kəmˈpleɪnt/",
+   "us": "/kəmˈpleɪnt/"
+  },
+  "def": "A statement, made to the employer, that something wrong or unfair has happened.",
+  "registers": {
+   "formal": {
+    "uk": "formal complaint",
+    "us": "formal complaint",
+    "ex": "On 3 March, the Company received a [[formal complaint]] of harassment from a member of the finance team."
+   },
+   "everyday": {
+    "uk": "complaint",
+    "us": "complaint",
+    "ex": "We've had a [[complaint]] about one of the team leaders."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a complaint of harassment",
+   "to handle a complaint",
+   "to deal with a complaint",
+   "to withdraw a complaint"
+  ],
+  "note_fr": "« Complaint » couvre à la fois le signalement interne et la plainte en justice ; le contexte tranche. « Plainte » au sens pénal français se dit « criminal complaint ». « A complaint OF harassment » (objet), « a complaint ABOUT a manager » (personne visée).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-019",
+  "level": 1,
+  "fr": "faire un signalement / déposer une plainte",
+  "term": {
+   "uk": "to make a complaint",
+   "us": "to file a complaint"
+  },
+  "ipa": {
+   "uk": "/meɪk ə kəmˈpleɪnt/",
+   "us": "/faɪl ə kəmˈpleɪnt/"
+  },
+  "def": "To tell the employer, officially, that you have been treated wrongly.",
+  "registers": {
+   "formal": {
+    "uk": "to lodge a complaint",
+    "us": "to file a complaint",
+    "ex": "Any employee may [[lodge a complaint]] with the Human Resources Department.",
+    "ex_us": "Any employee may [[file a complaint]] with the Human Resources Department."
+   },
+   "everyday": {
+    "uk": "to make a complaint",
+    "us": "to file a complaint",
+    "ex": "She's thinking about [[making a complaint]], but she's worried about how it'll look.",
+    "ex_us": "She's thinking about [[filing a complaint]], but she's worried about how it'll look."
+   },
+   "informal": {
+    "uk": "to put in a complaint",
+    "us": "to put in a complaint",
+    "ex": "In the end he [[put in a complaint]] to HR."
+   }
+  },
+  "collocations": [
+   "to complain to HR about a manager",
+   "to lodge a complaint with the Defender of Rights",
+   "to make a formal complaint"
+  ],
+  "note_fr": "On ne dit pas « to deposit a complaint » ni « to do a complaint ». « To lodge » est britannique et soutenu, « to file » est la forme américaine courante. On « complains TO someone ABOUT something ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-020",
+  "level": 2,
+  "fr": "réclamation formelle du salarié (procédure interne)",
+  "term": {
+   "uk": "grievance",
+   "us": "internal complaint"
+  },
+  "ipa": {
+   "uk": "/ˈɡriːv(ə)ns/",
+   "us": "/ɪnˈtɜːrn(ə)l kəmˈpleɪnt/"
+  },
+  "def": "A formal complaint that an employee raises with the employer about the way he or she has been treated.",
+  "registers": {
+   "formal": {
+    "uk": "formal grievance",
+    "us": "formal internal complaint",
+    "ex": "The employee submitted a [[formal grievance]] under the Company's grievance procedure.",
+    "ex_us": "The employee submitted a [[formal internal complaint]] under the Company's complaint procedure."
+   },
+   "everyday": {
+    "uk": "to raise a grievance",
+    "us": "to file a complaint with HR",
+    "ex": "If the chat with her manager doesn't sort it out, she can always [[raise a grievance]].",
+    "ex_us": "If the talk with her manager doesn't fix it, she can always [[file a complaint with HR]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to raise a grievance",
+   "a grievance procedure",
+   "a grievance hearing",
+   "to uphold a grievance"
+  ],
+  "note_fr": "« Grievance » est le terme britannique consacré : toute entreprise y a une « grievance procedure », avec audition et recours interne. Aux États-Unis, « grievance » évoque surtout la procédure prévue par une convention syndicale. La France n'a pas de procédure légale équivalente.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-021",
+  "level": 1,
+  "fr": "plaignant(e) / auteur(e) du signalement",
+  "term": {
+   "uk": "complainant",
+   "us": "complainant"
+  },
+  "ipa": {
+   "uk": "/kəmˈpleɪnənt/",
+   "us": "/kəmˈpleɪnənt/"
+  },
+  "def": "The person who makes a complaint.",
+  "registers": {
+   "formal": {
+    "uk": "the complainant",
+    "us": "the complainant",
+    "ex": "[[The complainant]] was interviewed on two occasions and given the opportunity to comment on the notes."
+   },
+   "everyday": {
+    "uk": "the person who made the complaint",
+    "us": "the person who filed the complaint",
+    "ex": "Have we told [[the person who made the complaint]] what happens next?",
+    "ex_us": "Have we told [[the person who filed the complaint]] what happens next?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to interview the complainant",
+   "to protect the complainant",
+   "to keep the complainant informed"
+  ],
+  "note_fr": "Préférez « complainant » à « victim » dans un rapport d'enquête : tant que les faits ne sont pas établis, « victim » préjuge de la conclusion (au besoin, « alleged victim »). « Plaintiff » ou « claimant » désignent le demandeur devant un tribunal.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-022",
+  "level": 2,
+  "fr": "personne mise en cause",
+  "term": {
+   "uk": "respondent",
+   "us": "accused employee"
+  },
+  "ipa": {
+   "uk": "/rɪˈspɒndənt/",
+   "us": "/əˈkjuːzd ɪmˈplɔɪiː/"
+  },
+  "def": "The person against whom a complaint has been made.",
+  "registers": {
+   "formal": {
+    "uk": "the respondent",
+    "us": "the respondent",
+    "ex": "[[The respondent]] denied each of the allegations put to him."
+   },
+   "everyday": {
+    "uk": "the person complained about",
+    "us": "the person accused",
+    "ex": "We also have a duty towards [[the person complained about]].",
+    "ex_us": "We also have a duty toward [[the person accused]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the alleged harasser",
+   "the alleged perpetrator",
+   "to hear the respondent's account"
+  ],
+  "note_fr": "Il n'existe pas d'équivalent court de « mis en cause » : selon le document, « the respondent », « the alleged harasser » ou « the person complained about ». Évitez « the accused » (procès pénal) et « the harasser » sans « alleged » tant que rien n'est établi.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-023",
+  "level": 1,
+  "fr": "témoin",
+  "term": {
+   "uk": "witness",
+   "us": "witness"
+  },
+  "ipa": {
+   "uk": "/ˈwɪtnəs/",
+   "us": "/ˈwɪtnəs/"
+  },
+  "def": "A person who saw or heard what happened and can describe it.",
+  "registers": {
+   "formal": {
+    "uk": "witness",
+    "us": "witness",
+    "ex": "Each [[witness]] was reminded that the content of the interview must remain confidential."
+   },
+   "everyday": {
+    "uk": "witness",
+    "us": "witness",
+    "ex": "Were there any [[witnesses]], or is it her word against his?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to interview a witness",
+   "a witness statement",
+   "to witness an incident",
+   "a reluctant witness"
+  ],
+  "note_fr": "« Witness » est aussi un verbe : « Did you witness the incident? ». Ne dites pas « to assist to a scene » : « to assist » signifie aider. « Her word against his » = parole contre parole.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-024",
+  "level": 1,
+  "fr": "allégation / fait dénoncé",
+  "term": {
+   "uk": "allegation",
+   "us": "allegation"
+  },
+  "ipa": {
+   "uk": "/ˌæləˈɡeɪʃ(ə)n/",
+   "us": "/ˌæləˈɡeɪʃ(ə)n/"
+  },
+  "def": "A statement that someone has done something wrong, which has not yet been proved.",
+  "registers": {
+   "formal": {
+    "uk": "allegation",
+    "us": "allegation",
+    "ex": "The [[allegations]] were put to the respondent in writing before the interview."
+   },
+   "everyday": {
+    "uk": "what is being alleged",
+    "us": "what is being alleged",
+    "ex": "Before we go any further, I need to be clear about [[what is being alleged]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make an allegation against someone",
+   "to deny an allegation",
+   "a serious allegation",
+   "to put the allegations to someone"
+  ],
+  "note_fr": "« Allegation » n'a rien de péjoratif : c'est le mot neutre pour des faits dénoncés mais non établis. L'adjectif « alleged » et l'adverbe « allegedly » sont indispensables dans tout écrit d'enquête (« the alleged incident »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-025",
+  "level": 1,
+  "fr": "enquête interne",
+  "term": {
+   "uk": "internal investigation",
+   "us": "workplace investigation"
+  },
+  "ipa": {
+   "uk": "/ɪnˈtɜːn(ə)l ɪnˌvestɪˈɡeɪʃ(ə)n/",
+   "us": "/ˈwɜːrkpleɪs ɪnˌvestɪˈɡeɪʃ(ə)n/"
+  },
+  "def": "A fact-finding process run by or for the employer to establish what happened after a complaint.",
+  "registers": {
+   "formal": {
+    "uk": "internal investigation",
+    "us": "workplace investigation",
+    "ex": "The Company has decided to open an [[internal investigation]] into the matters raised.",
+    "ex_us": "The Company has decided to open a [[workplace investigation]] into the matters raised."
+   },
+   "everyday": {
+    "uk": "investigation",
+    "us": "investigation",
+    "ex": "The [[investigation]] should take about three weeks."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to open an investigation",
+   "to carry out an investigation",
+   "to conduct an investigation",
+   "an investigation into the allegations"
+  ],
+  "note_fr": "Faux ami : « inquiry » ou « enquiry » désigne plutôt une demande de renseignements ou une enquête publique ; pour l'entreprise, dites « investigation ». Préposition : « an investigation INTO », jamais « on » ni « about ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-026",
+  "level": 1,
+  "fr": "enquêter sur",
+  "term": {
+   "uk": "to investigate",
+   "us": "to investigate"
+  },
+  "ipa": {
+   "uk": "/ɪnˈvestɪɡeɪt/",
+   "us": "/ɪnˈvestɪɡeɪt/"
+  },
+  "def": "To try to find out the facts about something.",
+  "registers": {
+   "formal": {
+    "uk": "to investigate",
+    "us": "to investigate",
+    "ex": "The employer is under a duty to [[investigate]] any report of harassment promptly."
+   },
+   "everyday": {
+    "uk": "to look into",
+    "us": "to look into",
+    "ex": "Leave it with me; I'll [[look into]] it this week."
+   },
+   "informal": {
+    "uk": "to get to the bottom of",
+    "us": "to get to the bottom of",
+    "ex": "We need to [[get to the bottom of]] what happened on that trip."
+   }
+  },
+  "collocations": [
+   "to investigate a complaint",
+   "to investigate thoroughly",
+   "to look into the matter"
+  ],
+  "note_fr": "« To investigate » est transitif : « to investigate a complaint », sans préposition (pas « investigate on »). « To look into » est l'équivalent oral naturel ; « to enquire about » signifie seulement se renseigner.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-027",
+  "level": 1,
+  "fr": "enquêteur / enquêtrice",
+  "term": {
+   "uk": "investigator",
+   "us": "investigator"
+  },
+  "ipa": {
+   "uk": "/ɪnˈvestɪɡeɪtə/",
+   "us": "/ɪnˈvestɪɡeɪtər/"
+  },
+  "def": "The person appointed to establish the facts of a complaint.",
+  "registers": {
+   "formal": {
+    "uk": "investigating officer",
+    "us": "investigator",
+    "ex": "The [[investigating officer]] shall have had no prior involvement in the matter.",
+    "ex_us": "The [[investigator]] shall have had no prior involvement in the matter."
+   },
+   "everyday": {
+    "uk": "investigator",
+    "us": "investigator",
+    "ex": "We've brought in an outside [[investigator]] because the manager concerned reports to the HR Director."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an external investigator",
+   "an independent investigator",
+   "to appoint an investigator",
+   "a joint investigation team"
+  ],
+  "note_fr": "« Investigating officer » est l'expression des procédures britanniques. En France, l'enquête est souvent menée en binôme (direction et représentant du personnel) : « a joint investigation ». « Inquisitor » n'est évidemment pas le mot.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-028",
+  "level": 2,
+  "fr": "entretien d'enquête / audition",
+  "term": {
+   "uk": "investigation interview",
+   "us": "investigation interview"
+  },
+  "ipa": {
+   "uk": "/ɪnˌvestɪˈɡeɪʃ(ə)n ˈɪntəvjuː/",
+   "us": "/ɪnˌvestɪˈɡeɪʃ(ə)n ˈɪntərvjuː/"
+  },
+  "def": "A meeting in which the investigator questions the complainant, the respondent or a witness.",
+  "registers": {
+   "formal": {
+    "uk": "investigation interview",
+    "us": "investigatory interview",
+    "ex": "You are invited to attend an [[investigation interview]] on Thursday 14 May at 10 a.m.",
+    "ex_us": "You are asked to attend an [[investigatory interview]] on Thursday, May 14, at 10 a.m."
+   },
+   "everyday": {
+    "uk": "to interview",
+    "us": "to interview",
+    "ex": "We still need to [[interview]] two people from the night shift."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to interview a witness",
+   "to take notes of the interview",
+   "to be accompanied at the interview",
+   "interview notes"
+  ],
+  "note_fr": "N'employez pas « audition » (réservé aux comédiens et musiciens) ni « hearing », qui désigne au Royaume-Uni la réunion où l'on statue (« grievance hearing », « disciplinary hearing »). L'entretien d'enquête sert seulement à établir les faits.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-029",
+  "level": 1,
+  "fr": "preuves / éléments de preuve",
+  "term": {
+   "uk": "evidence",
+   "us": "evidence"
+  },
+  "ipa": {
+   "uk": "/ˈevɪd(ə)ns/",
+   "us": "/ˈevɪd(ə)ns/"
+  },
+  "def": "Facts, documents or statements that help to show whether something is true.",
+  "registers": {
+   "formal": {
+    "uk": "evidence",
+    "us": "evidence",
+    "ex": "The investigator found no [[evidence]] to support the second allegation."
+   },
+   "everyday": {
+    "uk": "something to go on",
+    "us": "something to go on",
+    "ex": "Is there [[something to go on]] - emails, messages, anything in writing?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a piece of evidence",
+   "to gather evidence",
+   "documentary evidence",
+   "to back up a claim with evidence"
+  ],
+  "note_fr": "Indénombrable : jamais « an evidence » ni « evidences » ; dites « a piece of evidence », « some evidence ». « Proof » est plus fort (preuve certaine). Faux ami : « evidence » ne signifie pas « évidence ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-030",
+  "level": 2,
+  "fr": "traiter de manière confidentielle",
+  "term": {
+   "uk": "to treat in confidence",
+   "us": "to treat in confidence"
+  },
+  "ipa": {
+   "uk": "/triːt ɪn ˈkɒnfɪd(ə)ns/",
+   "us": "/triːt ɪn ˈkɑːnfɪd(ə)ns/"
+  },
+  "def": "To make sure that information is shared only with the people who need to know it.",
+  "registers": {
+   "formal": {
+    "uk": "to treat in the strictest confidence",
+    "us": "to treat in the strictest confidence",
+    "ex": "All statements will be [[treated in the strictest confidence]], subject to the requirements of the investigation."
+   },
+   "everyday": {
+    "uk": "to keep something confidential",
+    "us": "to keep something confidential",
+    "ex": "Please [[keep this conversation confidential]] - that includes your team."
+   },
+   "informal": {
+    "uk": "to keep something to oneself",
+    "us": "to keep something to oneself",
+    "ex": "I'd ask you to [[keep this to yourself]] for now."
+   }
+  },
+  "collocations": [
+   "on a need-to-know basis",
+   "to breach confidentiality",
+   "in confidence",
+   "to speak in confidence"
+  ],
+  "note_fr": "Ne promettez jamais une confidentialité absolue : la personne mise en cause doit connaître les faits reprochés. La formule honnête est « on a need-to-know basis ». Faux ami : « confidence » = confiance ; « in confidence » = sous le sceau du secret.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-031",
+  "level": 1,
+  "fr": "signaler (un comportement)",
+  "term": {
+   "uk": "to report",
+   "us": "to report"
+  },
+  "ipa": {
+   "uk": "/rɪˈpɔːt/",
+   "us": "/rɪˈpɔːrt/"
+  },
+  "def": "To tell someone in authority that something wrong has happened.",
+  "registers": {
+   "formal": {
+    "uk": "to report",
+    "us": "to report",
+    "ex": "Employees are encouraged to [[report]] any conduct that may breach this policy."
+   },
+   "everyday": {
+    "uk": "to flag",
+    "us": "to flag",
+    "ex": "Thanks for [[flagging]] this - you did the right thing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to report an incident",
+   "to report a concern to HR",
+   "to report someone for harassment",
+   "to raise a concern"
+  ],
+  "note_fr": "« To signal » ne s'emploie pas dans ce sens. « To report someone » = dénoncer quelqu'un, sans nuance péjorative ; « to denounce » est politique ou moral et sonne faux en entreprise. « To raise a concern » est la formule la plus douce.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-032",
+  "level": 1,
+  "fr": "oser parler / prendre la parole",
+  "term": {
+   "uk": "to speak up",
+   "us": "to speak up"
+  },
+  "ipa": {
+   "uk": "/spiːk ʌp/",
+   "us": "/spiːk ʌp/"
+  },
+  "def": "To say openly that something is wrong instead of staying silent.",
+  "registers": {
+   "formal": {
+    "uk": "to raise a concern",
+    "us": "to raise a concern",
+    "ex": "Employees who [[raise a concern]] in good faith will be supported by the Company."
+   },
+   "everyday": {
+    "uk": "to speak up",
+    "us": "to speak up",
+    "ex": "It took her a year to [[speak up]], which tells you something about the culture."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a speak-up culture",
+   "to speak up about harassment",
+   "to speak out against sexism",
+   "to feel safe to speak up"
+  ],
+  "note_fr": "« To speak up » = oser signaler en interne ; « to speak out » = prendre position publiquement. Les entreprises anglo-saxonnes parlent de « speak-up culture » là où le français dit « libération de la parole ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-033",
+  "level": 1,
+  "fr": "représailles",
+  "term": {
+   "uk": "retaliation",
+   "us": "retaliation"
+  },
+  "ipa": {
+   "uk": "/rɪˌtæliˈeɪʃ(ə)n/",
+   "us": "/rɪˌtæliˈeɪʃ(ə)n/"
+  },
+  "def": "Punishing someone, openly or not, because they complained or helped with a complaint.",
+  "registers": {
+   "formal": {
+    "uk": "retaliation",
+    "us": "retaliation",
+    "ex": "[[Retaliation]] against any person who reports harassment in good faith is strictly prohibited."
+   },
+   "everyday": {
+    "uk": "to take it out on someone",
+    "us": "to take it out on someone",
+    "ex": "I don't want him [[taking it out on her]] once he knows who complained."
+   },
+   "informal": {
+    "uk": "payback",
+    "us": "payback",
+    "ex": "Moving her desk to the basement looks a lot like [[payback]]."
+   }
+  },
+  "collocations": [
+   "to retaliate against someone",
+   "fear of retaliation",
+   "an act of retaliation",
+   "a retaliation claim"
+  ],
+  "note_fr": "Terme central aux États-Unis, où les plaintes pour « retaliation » sont les plus nombreuses devant l'EEOC. Le droit britannique parle de « victimisation ». « Reprisals » existe mais sonne militaire ; « revenge » est personnel et non juridique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-034",
+  "level": 1,
+  "fr": "lanceur / lanceuse d'alerte",
+  "term": {
+   "uk": "whistleblower",
+   "us": "whistleblower"
+  },
+  "ipa": {
+   "uk": "/ˈwɪs(ə)lˌbləʊə/",
+   "us": "/ˈwɪs(ə)lˌbloʊər/"
+  },
+  "def": "A person who reports wrongdoing they have learned about, usually at work.",
+  "registers": {
+   "formal": {
+    "uk": "whistleblower",
+    "us": "whistleblower",
+    "ex": "A [[whistleblower]] who reports in good faith may not be dismissed or penalised for doing so."
+   },
+   "everyday": {
+    "uk": "to blow the whistle",
+    "us": "to blow the whistle",
+    "ex": "He [[blew the whistle]] on the way overtime was being recorded."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to blow the whistle on something",
+   "whistleblower protection",
+   "a whistleblowing policy",
+   "whistleblower status"
+  ],
+  "note_fr": "« To blow the whistle ON something » (préposition « on »). Le mot est neutre, voire positif ; évitez « informer » ou « snitch », qui signifient délateur. Chaque pays a sa propre définition légale : ne présumez pas que le statut français s'applique ailleurs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-035",
+  "level": 1,
+  "fr": "écart de rémunération entre les femmes et les hommes",
+  "term": {
+   "uk": "gender pay gap",
+   "us": "gender pay gap"
+  },
+  "ipa": {
+   "uk": "/ˈdʒendə peɪ ɡæp/",
+   "us": "/ˈdʒendər peɪ ɡæp/"
+  },
+  "def": "The difference between the average pay of men and of women in an organisation or a country.",
+  "registers": {
+   "formal": {
+    "uk": "gender pay gap",
+    "us": "gender pay gap",
+    "ex": "The report shows a median [[gender pay gap]] of eight per cent across the group."
+   },
+   "everyday": {
+    "uk": "pay gap",
+    "us": "pay gap",
+    "ex": "The [[pay gap]] is mostly down to who holds the senior jobs."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to close the gender pay gap",
+   "to narrow the gap",
+   "the mean and median pay gap",
+   "pay gap reporting"
+  ],
+  "note_fr": "Ne confondez pas « gender pay gap » (écart moyen, tous postes confondus) et « equal pay » (même salaire pour un même travail) : une entreprise peut respecter le second et afficher un écart important. Au Royaume-Uni, la publication de l'écart est obligatoire pour les employeurs de 250 salariés et plus.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-036",
+  "level": 1,
+  "fr": "égalité salariale",
+  "term": {
+   "uk": "equal pay",
+   "us": "equal pay"
+  },
+  "ipa": {
+   "uk": "/ˈiːkwəl peɪ/",
+   "us": "/ˈiːkwəl peɪ/"
+  },
+  "def": "The right of men and women to receive the same pay for the same or equivalent work.",
+  "registers": {
+   "formal": {
+    "uk": "equal pay",
+    "us": "equal pay",
+    "ex": "The employer shall ensure [[equal pay]] between women and men for the same work or for work of equal value."
+   },
+   "everyday": {
+    "uk": "to be paid the same",
+    "us": "to be paid the same",
+    "ex": "Are the two of them [[paid the same]] for what is basically the same job?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an equal pay claim",
+   "equal pay for equal work",
+   "an equal pay audit",
+   "pay equity"
+  ],
+  "note_fr": "Aux États-Unis, on parle aussi de « pay equity ». « Equal salary » est compris mais n'est pas l'expression consacrée. En anglais, on dit « women and men » ou « men and women », jamais « the women and the men ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-037",
+  "level": 1,
+  "fr": "diversité et inclusion",
+  "term": {
+   "uk": "diversity and inclusion",
+   "us": "diversity and inclusion"
+  },
+  "ipa": {
+   "uk": "/daɪˈvɜːsəti ənd ɪnˈkluːʒ(ə)n/",
+   "us": "/dɪˈvɜːrsəti ənd ɪnˈkluːʒ(ə)n/"
+  },
+  "def": "Policies aimed at employing people from varied backgrounds and making sure they are all able to contribute and progress.",
+  "registers": {
+   "formal": {
+    "uk": "equality, diversity and inclusion",
+    "us": "diversity, equity and inclusion",
+    "ex": "The Board reviews the Group's [[equality, diversity and inclusion]] strategy once a year.",
+    "ex_us": "The Board reviews the Group's [[diversity, equity and inclusion]] strategy once a year."
+   },
+   "everyday": {
+    "uk": "diversity and inclusion",
+    "us": "diversity and inclusion",
+    "ex": "She heads up [[diversity and inclusion]] for the whole of Europe."
+   },
+   "informal": {
+    "uk": "D&I",
+    "us": "DEI",
+    "ex": "The [[D&I]] team is running a session on inclusive hiring.",
+    "ex_us": "The [[DEI]] team is running a session on inclusive hiring."
+   }
+  },
+  "collocations": [
+   "a diverse workforce",
+   "an inclusive workplace",
+   "a D&I lead",
+   "inclusive language"
+  ],
+  "note_fr": "Sigles : EDI ou D&I au Royaume-Uni, DEI aux États-Unis, où le sujet est devenu politiquement très sensible. « Equity » (équité) n'est pas « equality » (égalité). « Diverse » se dit d'un groupe, jamais d'une personne.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-038",
+  "level": 1,
+  "fr": "tolérance zéro",
+  "term": {
+   "uk": "zero tolerance",
+   "us": "zero tolerance"
+  },
+  "ipa": {
+   "uk": "/ˈzɪərəʊ ˈtɒlərəns/",
+   "us": "/ˈzɪroʊ ˈtɑːlərəns/"
+  },
+  "def": "A policy of acting on every case of unacceptable behaviour, however minor it seems.",
+  "registers": {
+   "formal": {
+    "uk": "zero-tolerance approach",
+    "us": "zero-tolerance approach",
+    "ex": "The Company operates a [[zero-tolerance approach]] to harassment of any kind."
+   },
+   "everyday": {
+    "uk": "zero tolerance",
+    "us": "zero tolerance",
+    "ex": "We say we have [[zero tolerance]], and then we promote the people everyone complains about."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a zero-tolerance policy",
+   "to take a zero-tolerance stance",
+   "to take a firm line on harassment"
+  ],
+  "note_fr": "Trait d'union lorsque l'expression est épithète : « a zero-tolerance policy ». Attention : « zero tolerance » ne signifie pas sanction automatique ; chaque cas doit rester examiné individuellement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-039",
+  "level": 1,
+  "fr": "prendre une plainte au sérieux",
+  "term": {
+   "uk": "to take a complaint seriously",
+   "us": "to take a complaint seriously"
+  },
+  "ipa": {
+   "uk": "/teɪk ə kəmˈpleɪnt ˈsɪəriəsli/",
+   "us": "/teɪk ə kəmˈpleɪnt ˈsɪriəsli/"
+  },
+  "def": "To treat a complaint as important and act on it properly.",
+  "registers": {
+   "formal": {
+    "uk": "to give a complaint due consideration",
+    "us": "to give a complaint due consideration",
+    "ex": "The Company will [[give every complaint due consideration]], regardless of the seniority of the person concerned."
+   },
+   "everyday": {
+    "uk": "to take a complaint seriously",
+    "us": "to take a complaint seriously",
+    "ex": "I want you to know that we [[take your complaint very seriously]]."
+   },
+   "informal": {
+    "uk": "to brush something off",
+    "us": "to brush something off",
+    "ex": "Her manager just [[brushed it off]] and told her not to be so sensitive."
+   }
+  },
+  "collocations": [
+   "to act on a complaint",
+   "to follow up on a complaint",
+   "to dismiss a complaint out of hand",
+   "to sweep something under the carpet"
+  ],
+  "note_fr": "« To brush off » et « to sweep under the carpet » (US : « under the rug ») décrivent l'attitude inverse : balayer, étouffer l'affaire. « To take seriously » se construit sans « in » : pas de « take in serious ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-040",
+  "level": 1,
+  "fr": "médiation",
+  "term": {
+   "uk": "mediation",
+   "us": "mediation"
+  },
+  "ipa": {
+   "uk": "/ˌmiːdiˈeɪʃ(ə)n/",
+   "us": "/ˌmiːdiˈeɪʃ(ə)n/"
+  },
+  "def": "A voluntary process in which a neutral person helps two people in conflict to reach their own solution.",
+  "registers": {
+   "formal": {
+    "uk": "mediation",
+    "us": "mediation",
+    "ex": "With the agreement of both parties, the matter may be referred to [[mediation]]."
+   },
+   "everyday": {
+    "uk": "to sit down with a mediator",
+    "us": "to sit down with a mediator",
+    "ex": "Would the two of them be willing to [[sit down with a mediator]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to offer mediation",
+   "to agree to mediation",
+   "an independent mediator",
+   "to mediate between two colleagues"
+  ],
+  "note_fr": "La médiation suppose l'accord des deux parties et ne convient pas aux faits graves : ne la proposez jamais comme substitut à l'enquête en cas de harcèlement sexuel présumé. En France, le Code du travail prévoit une procédure de médiation en matière de harcèlement moral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-041",
+  "level": 2,
+  "fr": "discrimination directe",
+  "term": {
+   "uk": "direct discrimination",
+   "us": "disparate treatment"
+  },
+  "ipa": {
+   "uk": "/dəˈrekt dɪˌskrɪmɪˈneɪʃ(ə)n/",
+   "us": "/dɪˈspærət ˈtriːtmənt/"
+  },
+  "def": "Treating one person less well than another in a comparable situation because of a protected ground.",
+  "registers": {
+   "formal": {
+    "uk": "direct discrimination",
+    "us": "disparate treatment",
+    "ex": "Refusing to promote an employee because she is pregnant constitutes [[direct discrimination]].",
+    "ex_us": "Refusing to promote an employee because she is pregnant constitutes [[disparate treatment]]."
+   },
+   "everyday": {
+    "uk": "to treat someone worse because of",
+    "us": "to treat someone worse because of",
+    "ex": "Put simply, he was [[treated worse because of]] his age."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to amount to direct discrimination",
+   "a claim of direct discrimination",
+   "intentional discrimination"
+  ],
+  "note_fr": "Le droit français et le droit britannique disent « direct discrimination » ; le droit américain parle de « disparate treatment », qui suppose en principe une intention. Ne confondez pas « disparate treatment » et « disparate impact ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-042",
+  "level": 2,
+  "fr": "discrimination indirecte",
+  "term": {
+   "uk": "indirect discrimination",
+   "us": "disparate impact"
+  },
+  "ipa": {
+   "uk": "/ˌɪndəˈrekt dɪˌskrɪmɪˈneɪʃ(ə)n/",
+   "us": "/dɪˈspærət ˈɪmpækt/"
+  },
+  "def": "A rule that looks neutral and applies to everyone, but in practice puts one protected group at a particular disadvantage without good reason.",
+  "registers": {
+   "formal": {
+    "uk": "indirect discrimination",
+    "us": "disparate impact",
+    "ex": "A requirement to work full time may give rise to [[indirect discrimination]] against women unless it can be objectively justified.",
+    "ex_us": "A requirement to work full time may give rise to a [[disparate impact]] on women unless it is justified by business necessity."
+   },
+   "everyday": {
+    "uk": "to put a group at a disadvantage",
+    "us": "to put a group at a disadvantage",
+    "ex": "The rule is the same for everyone, but it clearly [[puts part-timers at a disadvantage]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an apparently neutral provision",
+   "to put at a particular disadvantage",
+   "a provision, criterion or practice",
+   "an adverse impact"
+  ],
+  "note_fr": "Notion statistique plus que morale : aucune intention n'est requise. Le droit américain parle de « disparate impact » ou d'« adverse impact ». Dites « apparently neutral », pas « neutral in appearance ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-043",
+  "level": 2,
+  "fr": "caractéristiques protégées (droit britannique)",
+  "term": {
+   "uk": "protected characteristics",
+   "us": "protected characteristics"
+  },
+  "ipa": {
+   "uk": "/prəˈtektɪd ˌkærəktəˈrɪstɪks/",
+   "us": "/prəˈtektɪd ˌkerəktəˈrɪstɪks/"
+  },
+  "def": "In British law, the nine personal attributes on which discrimination is prohibited, such as age, disability, race and sex.",
+  "registers": {
+   "formal": {
+    "uk": "protected characteristic",
+    "us": "protected characteristic",
+    "ex": "Harassment is unwanted conduct related to a relevant [[protected characteristic]]."
+   },
+   "everyday": {
+    "uk": "to be covered by the Equality Act",
+    "us": "to be covered by the Equality Act",
+    "ex": "Being a smoker isn't [[covered by the Equality Act]], so it isn't discrimination in the legal sense."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "one of the nine protected characteristics",
+   "to share a protected characteristic",
+   "related to a protected characteristic"
+  ],
+  "note_fr": "Expression propre à l'Equality Act 2010 britannique, qui retient neuf critères : âge, handicap, changement de sexe, mariage et partenariat civil, grossesse et maternité, race, religion ou convictions, sexe, orientation sexuelle. Aux États-Unis, on parle de « protected classes » ; en France, de « critères » ou « motifs » prohibés, nettement plus nombreux.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-044",
+  "level": 3,
+  "fr": "catégories protégées (droit américain)",
+  "term": {
+   "uk": "protected classes",
+   "us": "protected classes"
+  },
+  "ipa": {
+   "uk": "/prəˈtektɪd ˈklɑːsɪz/",
+   "us": "/prəˈtektɪd ˈklæsɪz/"
+  },
+  "def": "In US law, the groups of people whom anti-discrimination statutes protect, defined by characteristics such as race, sex, religion, national origin, age or disability.",
+  "registers": {
+   "formal": {
+    "uk": "protected class",
+    "us": "protected class",
+    "ex": "The plaintiff must show that she is a member of a [[protected class]]."
+   },
+   "everyday": {
+    "uk": "to be in a protected class",
+    "us": "to be in a protected class",
+    "ex": "Everyone [[is in a protected class]] in one way or another - we all have a race and a sex."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a member of a protected class",
+   "protected class status",
+   "federal, state and local protections"
+  ],
+  "note_fr": "Terminologie américaine : la liste fédérale est complétée, parfois très largement, par les lois des États et des villes. « Class » ne renvoie pas ici à la classe sociale. Au Royaume-Uni, on dit « protected characteristics ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-045",
+  "level": 2,
+  "fr": "discrimination liée à la grossesse et à la maternité",
+  "term": {
+   "uk": "pregnancy and maternity discrimination",
+   "us": "pregnancy and maternity discrimination"
+  },
+  "ipa": {
+   "uk": "/ˈpreɡnənsi ənd məˈtɜːnəti dɪˌskrɪmɪˈneɪʃ(ə)n/",
+   "us": "/ˈpreɡnənsi ənd məˈtɜːrnəti dɪˌskrɪmɪˈneɪʃ(ə)n/"
+  },
+  "def": "Unfavourable treatment of a woman because she is pregnant, has given birth or is on maternity leave.",
+  "registers": {
+   "formal": {
+    "uk": "pregnancy and maternity discrimination",
+    "us": "pregnancy discrimination",
+    "ex": "Withholding a pay rise from an employee on maternity leave may amount to [[pregnancy and maternity discrimination]].",
+    "ex_us": "Withholding a raise from an employee on maternity leave may amount to [[pregnancy discrimination]]."
+   },
+   "everyday": {
+    "uk": "to be sidelined after maternity leave",
+    "us": "to be sidelined after maternity leave",
+    "ex": "She came back to find she'd been [[sidelined after maternity leave]]: her best clients had gone to someone else."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to announce a pregnancy",
+   "to return from maternity leave",
+   "a new or expectant mother",
+   "the maternity penalty"
+  ],
+  "note_fr": "« Pregnant » se dit sans détour en anglais ; évitez « in a family way » ou « expecting » dans un écrit. « Pay rise » (UK) = « raise » (US). « To sideline » = mettre sur la touche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-046",
+  "level": 2,
+  "fr": "orientation sexuelle et identité de genre",
+  "term": {
+   "uk": "sexual orientation and gender identity",
+   "us": "sexual orientation and gender identity"
+  },
+  "ipa": {
+   "uk": "/ˈsekʃuəl ˌɔːriənˈteɪʃ(ə)n ənd ˈdʒendər aɪˈdentəti/",
+   "us": "/ˈsekʃuəl ˌɔːriənˈteɪʃ(ə)n ənd ˈdʒendər aɪˈdentəti/"
+  },
+  "def": "Whom a person is attracted to, and a person's own sense of being male, female or neither; both are protected grounds.",
+  "registers": {
+   "formal": {
+    "uk": "sexual orientation and gender identity",
+    "us": "sexual orientation and gender identity",
+    "ex": "The policy prohibits discrimination on the grounds of [[sexual orientation and gender identity]]."
+   },
+   "everyday": {
+    "uk": "LGBT+ colleagues",
+    "us": "LGBTQ+ colleagues",
+    "ex": "We've set up a network for [[LGBT+ colleagues]] and allies.",
+    "ex_us": "We've set up a network for [[LGBTQ+ colleagues]] and allies."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a homophobic remark",
+   "to be out at work",
+   "to misgender someone",
+   "a transgender employee"
+  ],
+  "note_fr": "« Gender » (genre) n'est pas « sex » (sexe) : les textes britanniques distinguent « sex », « sexual orientation » et « gender reassignment ». « Transgender » est un adjectif, jamais un nom : « a transgender employee », pas « a transgender ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-047",
+  "level": 2,
+  "fr": "religion ou convictions",
+  "term": {
+   "uk": "religion or belief",
+   "us": "religion or belief"
+  },
+  "ipa": {
+   "uk": "/rɪˈlɪdʒ(ə)n ɔː bɪˈliːf/",
+   "us": "/rɪˈlɪdʒ(ə)n ɔːr bɪˈliːf/"
+  },
+  "def": "A person's faith or philosophical convictions, or lack of them, as a protected ground.",
+  "registers": {
+   "formal": {
+    "uk": "religion or belief",
+    "us": "religion",
+    "ex": "No employee shall be treated less favourably on the grounds of [[religion or belief]].",
+    "ex_us": "No employee shall be treated less favorably on the basis of [[religion]]."
+   },
+   "everyday": {
+    "uk": "someone's faith",
+    "us": "someone's faith",
+    "ex": "We try to plan team events around [[people's faith]] - not everything has to happen in a bar."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a religious belief",
+   "to manifest one's religion",
+   "religious dress",
+   "a prayer room"
+  ],
+  "note_fr": "La laïcité à la française n'a pas d'équivalent : au Royaume-Uni et plus encore aux États-Unis, l'employeur doit en principe s'adapter aux pratiques religieuses (« religious accommodation ») sauf contrainte excessive. Une clause de neutralité dans un règlement intérieur surprend beaucoup un interlocuteur américain : expliquez-la.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-048",
+  "level": 2,
+  "fr": "agissement sexiste",
+  "term": {
+   "uk": "sexist behaviour",
+   "us": "sexist behavior"
+  },
+  "ipa": {
+   "uk": "/ˈseksɪst bɪˈheɪvjə/",
+   "us": "/ˈseksɪst bɪˈheɪvjər/"
+  },
+  "def": "Any conduct related to a person's sex that undermines their dignity or creates an intimidating, hostile, degrading, humiliating or offensive environment.",
+  "registers": {
+   "formal": {
+    "uk": "sexist conduct",
+    "us": "sexist conduct",
+    "ex": "The internal rules must reproduce the statutory provisions on harassment and [[sexist conduct]]."
+   },
+   "everyday": {
+    "uk": "sexist behaviour",
+    "us": "sexist behavior",
+    "ex": "Calling the women in the team 'the girls' is exactly the kind of [[sexist behaviour]] the policy is aimed at.",
+    "ex_us": "Calling the women on the team 'the girls' is exactly the kind of [[sexist behavior]] the policy is aimed at."
+   },
+   "informal": {
+    "uk": "casual sexism",
+    "us": "casual sexism",
+    "ex": "There's a lot of [[casual sexism]] in that department that nobody ever challenges."
+   }
+  },
+  "collocations": [
+   "a sexist remark",
+   "everyday sexism",
+   "to challenge sexist behaviour",
+   "a sexist joke"
+  ],
+  "note_fr": "L'agissement sexiste est une notion du Code du travail français, distincte du harcèlement sexuel : un acte isolé suffit. Au Royaume-Uni, de tels faits relèvent du « harassment related to sex ». « Casual sexism » = sexisme ordinaire.",
+  "french_concept": true,
+  "explain": {
+   "written": "An agissement sexiste ('sexist conduct') is defined in the French Labour Code as any conduct related to a person's sex which has the purpose or effect of violating that person's dignity or of creating an intimidating, hostile, degrading, humiliating or offensive environment; a single act is sufficient.",
+   "spoken": "French law has a specific category for sexist behaviour that isn't sexual harassment - a single sexist remark can be enough, and the employer has to act on it."
+  }
+ },
+ {
+  "id": "eq-049",
+  "level": 3,
+  "fr": "comportement non désiré",
+  "term": {
+   "uk": "unwanted conduct",
+   "us": "unwelcome conduct"
+  },
+  "ipa": {
+   "uk": "/ʌnˈwɒntɪd ˈkɒndʌkt/",
+   "us": "/ʌnˈwelkəm ˈkɑːndʌkt/"
+  },
+  "def": "Behaviour that the person on the receiving end has not invited and does not want.",
+  "registers": {
+   "formal": {
+    "uk": "unwanted conduct",
+    "us": "unwelcome conduct",
+    "ex": "Harassment is defined as [[unwanted conduct]] which has the purpose or effect of violating a person's dignity.",
+    "ex_us": "Harassment is defined as [[unwelcome conduct]] that is severe or pervasive enough to create an abusive working environment."
+   },
+   "everyday": {
+    "uk": "unwanted attention",
+    "us": "unwelcome attention",
+    "ex": "She's made it clear more than once that it's [[unwanted attention]].",
+    "ex_us": "She's made it clear more than once that it's [[unwelcome attention]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "unwanted physical contact",
+   "unwelcome advances",
+   "to make it clear that the conduct is unwanted"
+  ],
+  "note_fr": "« Unwanted » est le terme de la loi britannique, « unwelcome » celui de la pratique américaine. La victime n'a pas à avoir protesté expressément pour que le comportement soit « unwanted ». « Undesired » ne s'emploie pas ici.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-050",
+  "level": 2,
+  "fr": "avances (sexuelles)",
+  "term": {
+   "uk": "sexual advances",
+   "us": "sexual advances"
+  },
+  "ipa": {
+   "uk": "/ˈsekʃuəl ədˈvɑːnsɪz/",
+   "us": "/ˈsekʃuəl ədˈvænsɪz/"
+  },
+  "def": "Attempts to start a sexual or romantic relationship with someone.",
+  "registers": {
+   "formal": {
+    "uk": "unwelcome sexual advances",
+    "us": "unwelcome sexual advances",
+    "ex": "The complainant states that she was subjected to [[unwelcome sexual advances]] during the business trip."
+   },
+   "everyday": {
+    "uk": "to come on to someone",
+    "us": "to come on to someone",
+    "ex": "He [[came on to her]] at the leaving drinks and wouldn't take no for an answer."
+   },
+   "informal": {
+    "uk": "to make a pass at someone",
+    "us": "to make a pass at someone",
+    "ex": "Apparently he [[made a pass at]] one of the interns."
+   }
+  },
+  "collocations": [
+   "to reject someone's advances",
+   "to make advances to a colleague",
+   "to take no for an answer",
+   "requests for sexual favours"
+  ],
+  "note_fr": "Dans ce sens, toujours au pluriel : « advances ». Rien à voir avec « an advance » (avance sur salaire). « To come on to » et « to make a pass at » sont familiers : ils conviennent pour rapporter des propos, pas pour un rapport.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-051",
+  "level": 3,
+  "fr": "chantage sexuel (avantage contre faveur)",
+  "term": {
+   "uk": "quid pro quo harassment",
+   "us": "quid pro quo harassment"
+  },
+  "ipa": {
+   "uk": "/ˌkwɪd prəʊ ˈkwəʊ ˈhærəsmənt/",
+   "us": "/ˌkwɪd proʊ ˈkwoʊ həˈræsmənt/"
+  },
+  "def": "Sexual harassment in which a job benefit is promised, or a threat made, in exchange for sexual favours.",
+  "registers": {
+   "formal": {
+    "uk": "quid pro quo harassment",
+    "us": "quid pro quo harassment",
+    "ex": "Making a promotion conditional on sexual favours is the classic example of [[quid pro quo harassment]]."
+   },
+   "everyday": {
+    "uk": "to abuse one's position",
+    "us": "to abuse one's position",
+    "ex": "He [[abused his position]] to pressure her into seeing him outside work."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "sexual favours",
+   "to pressure someone into something",
+   "in return for a promotion",
+   "sexual coercion"
+  ],
+  "note_fr": "Expression surtout américaine, opposée au « hostile work environment ». En droit français, l'équivalent est la « pression grave » exercée dans le but d'obtenir un acte de nature sexuelle, constituée même sans répétition.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-052",
+  "level": 3,
+  "fr": "environnement de travail hostile (droit américain)",
+  "term": {
+   "uk": "hostile work environment",
+   "us": "hostile work environment"
+  },
+  "ipa": {
+   "uk": "/ˈhɒstaɪl wɜːk ɪnˈvaɪrənmənt/",
+   "us": "/ˈhɑːst(ə)l wɜːrk ɪnˈvaɪrənmənt/"
+  },
+  "def": "In US law, a workplace where unwelcome conduct based on a protected characteristic is so severe or pervasive that it changes the conditions of employment.",
+  "registers": {
+   "formal": {
+    "uk": "hostile work environment",
+    "us": "hostile work environment",
+    "ex": "To establish a [[hostile work environment]], the conduct must be severe or pervasive."
+   },
+   "everyday": {
+    "uk": "toxic atmosphere",
+    "us": "toxic atmosphere",
+    "ex": "Nobody is being targeted personally; it's the whole [[toxic atmosphere]] on that floor."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "severe or pervasive conduct",
+   "a hostile work environment claim",
+   "to create a hostile environment",
+   "a toxic workplace"
+  ],
+  "note_fr": "Notion juridique américaine précise : la simple mauvaise ambiance ou un chef désagréable ne suffisent pas ; il faut un lien avec un critère protégé et des faits « severe or pervasive ». Les salariés l'emploient souvent à tort. La jurisprudence française connaît une idée voisine, le harcèlement « d'ambiance ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-053",
+  "level": 2,
+  "fr": "plaisanteries / humour (prétendu)",
+  "term": {
+   "uk": "banter",
+   "us": "banter"
+  },
+  "ipa": {
+   "uk": "/ˈbæntə/",
+   "us": "/ˈbæntər/"
+  },
+  "def": "Joking and teasing between colleagues, often used as an excuse for remarks that are in fact offensive.",
+  "registers": {
+   "formal": {
+    "uk": "comments presented as humour",
+    "us": "comments presented as humor",
+    "ex": "The respondent described the remarks as [[comments presented as humour]] which were not intended to offend.",
+    "ex_us": "The respondent described the remarks as [[comments presented as humor]] that were not intended to offend."
+   },
+   "everyday": {
+    "uk": "banter",
+    "us": "joking around",
+    "ex": "He says it was just [[banter]]; she says it happened every single day.",
+    "ex_us": "He says they were just [[joking around]]; she says it happened every single day."
+   },
+   "informal": {
+    "uk": "a bit of a laugh",
+    "us": "just kidding around",
+    "ex": "'It was only [[a bit of a laugh]]' is not a defence.",
+    "ex_us": "'We were [[just kidding around]]' is not a defense."
+   }
+  },
+  "collocations": [
+   "office banter",
+   "just banter",
+   "to laugh something off",
+   "to go along with a joke"
+  ],
+  "note_fr": "« Banter » est très britannique ; la défense « it was just banter » échoue régulièrement devant les tribunaux. C'est l'effet du propos qui compte, pas l'intention affichée. « To laugh it off » = faire mine d'en rire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-054",
+  "level": 2,
+  "fr": "dénigrer / rabaisser",
+  "term": {
+   "uk": "to belittle",
+   "us": "to belittle"
+  },
+  "ipa": {
+   "uk": "/bɪˈlɪt(ə)l/",
+   "us": "/bɪˈlɪt(ə)l/"
+  },
+  "def": "To make someone feel small or unimportant, especially in front of others.",
+  "registers": {
+   "formal": {
+    "uk": "to demean",
+    "us": "to demean",
+    "ex": "The respondent repeatedly [[demeaned]] the complainant in front of clients."
+   },
+   "everyday": {
+    "uk": "to belittle",
+    "us": "to belittle",
+    "ex": "He [[belittles]] her in every team meeting, usually with a smile."
+   },
+   "informal": {
+    "uk": "to put someone down",
+    "us": "to put someone down",
+    "ex": "She's forever [[putting him down]] in front of the juniors."
+   }
+  },
+  "collocations": [
+   "to undermine someone",
+   "to humiliate someone in public",
+   "a put-down",
+   "to talk down to someone"
+  ],
+  "note_fr": "« To undermine » (saper l'autorité ou la confiance) est très fréquent dans les signalements : « I feel constantly undermined ». « To denigrate » existe mais reste littéraire. « To talk down to » = parler avec condescendance.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-055",
+  "level": 3,
+  "fr": "mettre à l'écart / placardiser",
+  "term": {
+   "uk": "to sideline",
+   "us": "to sideline"
+  },
+  "ipa": {
+   "uk": "/ˈsaɪdlaɪn/",
+   "us": "/ˈsaɪdlaɪn/"
+  },
+  "def": "To push someone away from the work, meetings or information that matter.",
+  "registers": {
+   "formal": {
+    "uk": "to exclude",
+    "us": "to exclude",
+    "ex": "The complainant alleges that she was deliberately [[excluded]] from meetings relevant to her role."
+   },
+   "everyday": {
+    "uk": "to sideline",
+    "us": "to sideline",
+    "ex": "Since the reorganisation he's been completely [[sidelined]]."
+   },
+   "informal": {
+    "uk": "to freeze someone out",
+    "us": "to freeze someone out",
+    "ex": "The rest of the team have [[frozen her out]] since she complained."
+   }
+  },
+  "collocations": [
+   "to be left out of meetings",
+   "to ostracise a colleague",
+   "to give someone the cold shoulder",
+   "to strip someone of responsibilities"
+  ],
+  "note_fr": "Le « placard » français n'a pas d'équivalent imagé : « to be sidelined » ou « to be frozen out ». « To ostracise » (US : ostracize) appartient au registre soutenu. Ne dites pas « to put in a cupboard ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-056",
+  "level": 3,
+  "fr": "agissements répétés",
+  "term": {
+   "uk": "pattern of behaviour",
+   "us": "pattern of behavior"
+  },
+  "ipa": {
+   "uk": "/ˈpæt(ə)n əv bɪˈheɪvjə/",
+   "us": "/ˈpætərn əv bɪˈheɪvjər/"
+  },
+  "def": "A series of similar acts over time, as opposed to a single incident.",
+  "registers": {
+   "formal": {
+    "uk": "repeated acts",
+    "us": "repeated acts",
+    "ex": "Moral harassment requires [[repeated acts]]; a single incident, however serious, is not sufficient."
+   },
+   "everyday": {
+    "uk": "pattern of behaviour",
+    "us": "pattern of behavior",
+    "ex": "One sharp email proves nothing, but twelve in a month looks like a [[pattern of behaviour]].",
+    "ex_us": "One sharp email proves nothing, but twelve in a month looks like a [[pattern of behavior]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a one-off incident",
+   "an isolated incident",
+   "a course of conduct",
+   "over a period of months"
+  ],
+  "note_fr": "« A one-off » (UK) ou « an isolated incident » = un fait isolé. « Pattern » est le mot juste là où le français dit « caractère répété » ; « repetition » sonne scolaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-057",
+  "level": 3,
+  "fr": "abus d'autorité",
+  "term": {
+   "uk": "abuse of authority",
+   "us": "abuse of authority"
+  },
+  "ipa": {
+   "uk": "/əˈbjuːs əv ɔːˈθɒrəti/",
+   "us": "/əˈbjuːs əv əˈθɔːrəti/"
+  },
+  "def": "Using a position of power in a way that goes beyond what the job legitimately requires.",
+  "registers": {
+   "formal": {
+    "uk": "abuse of authority",
+    "us": "abuse of authority",
+    "ex": "The acts complained of go beyond the normal exercise of managerial powers and constitute an [[abuse of authority]]."
+   },
+   "everyday": {
+    "uk": "to throw one's weight around",
+    "us": "to throw one's weight around",
+    "ex": "There's firm management, and then there's [[throwing your weight around]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the normal exercise of managerial authority",
+   "a position of power",
+   "a power imbalance",
+   "to overstep the mark"
+  ],
+  "note_fr": "La ligne de partage, dans les trois pays : « firm management » ou « legitimate management action » n'est pas du harcèlement. « Abuse » se prononce avec /s/ pour le nom et /z/ pour le verbe. « To overstep the mark » = dépasser les bornes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-058",
+  "level": 3,
+  "fr": "fermer les yeux sur",
+  "term": {
+   "uk": "to turn a blind eye to",
+   "us": "to turn a blind eye to"
+  },
+  "ipa": {
+   "uk": "/tɜːn ə blaɪnd aɪ tuː/",
+   "us": "/tɜːrn ə blaɪnd aɪ tuː/"
+  },
+  "def": "To know that something wrong is happening and choose to do nothing about it.",
+  "registers": {
+   "formal": {
+    "uk": "to condone",
+    "us": "to condone",
+    "ex": "A manager who fails to act may be regarded as having [[condoned]] the behaviour."
+   },
+   "everyday": {
+    "uk": "to turn a blind eye to",
+    "us": "to turn a blind eye to",
+    "ex": "Management has been [[turning a blind eye to]] this for years because he brings in the big accounts."
+   },
+   "informal": {
+    "uk": "to look the other way",
+    "us": "to look the other way",
+    "ex": "Everybody knew, and everybody [[looked the other way]]."
+   }
+  },
+  "collocations": [
+   "to tolerate misconduct",
+   "an open secret",
+   "to fail to act",
+   "to let something slide"
+  ],
+  "note_fr": "« To condone » = tolérer, cautionner par son silence : mot clé des rapports d'enquête. « An open secret » = un secret de Polichinelle. Ne dites pas « to close the eyes on ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-059",
+  "level": 3,
+  "fr": "témoin passif",
+  "term": {
+   "uk": "bystander",
+   "us": "bystander"
+  },
+  "ipa": {
+   "uk": "/ˈbaɪˌstændə/",
+   "us": "/ˈbaɪˌstændər/"
+  },
+  "def": "Someone who sees unacceptable behaviour without being directly involved in it.",
+  "registers": {
+   "formal": {
+    "uk": "bystander",
+    "us": "bystander",
+    "ex": "The training encourages [[bystanders]] to intervene or to report what they have seen."
+   },
+   "everyday": {
+    "uk": "someone who saw it happen",
+    "us": "someone who saw it happen",
+    "ex": "There must be [[someone who saw it happen]] and is willing to say so."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "bystander intervention training",
+   "an active bystander",
+   "to step in",
+   "to stand by and do nothing"
+  ],
+  "note_fr": "Les formations « active bystander » sont devenues courantes au Royaume-Uni et aux États-Unis. Ne confondez pas avec « witness » (qui témoigne des faits dans l'enquête) ni avec « standby » (attente).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-060",
+  "level": 2,
+  "fr": "se manifester / venir témoigner",
+  "term": {
+   "uk": "to come forward",
+   "us": "to come forward"
+  },
+  "ipa": {
+   "uk": "/kʌm ˈfɔːwəd/",
+   "us": "/kʌm ˈfɔːrwərd/"
+  },
+  "def": "To offer information or make a complaint of one's own accord.",
+  "registers": {
+   "formal": {
+    "uk": "to come forward",
+    "us": "to come forward",
+    "ex": "Employees who have relevant information are invited to [[come forward]] in confidence."
+   },
+   "everyday": {
+    "uk": "to come forward",
+    "us": "to come forward",
+    "ex": "Two more women have [[come forward]] since the investigation started."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to come forward with information",
+   "to come forward as a witness",
+   "to be reluctant to come forward"
+  ],
+  "note_fr": "Verbe à particule valable à l'écrit comme à l'oral. « To manifest oneself » est un calque qui ne veut rien dire ici. « Reluctant to come forward » = qui hésite à parler.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-061",
+  "level": 2,
+  "fr": "faire remonter (à la hiérarchie)",
+  "term": {
+   "uk": "to escalate",
+   "us": "to escalate"
+  },
+  "ipa": {
+   "uk": "/ˈeskəleɪt/",
+   "us": "/ˈeskəleɪt/"
+  },
+  "def": "To pass a problem up to a more senior person or a more formal stage.",
+  "registers": {
+   "formal": {
+    "uk": "to refer the matter to",
+    "us": "to refer the matter to",
+    "ex": "If the concern involves a director, the HR Department shall [[refer the matter to]] the Group Compliance Officer."
+   },
+   "everyday": {
+    "uk": "to escalate",
+    "us": "to escalate",
+    "ex": "If it happens again, [[escalate]] it straight to me."
+   },
+   "informal": {
+    "uk": "to take it higher up",
+    "us": "to take it higher up",
+    "ex": "I've tried talking to him; I'm going to have to [[take it higher up]]."
+   }
+  },
+  "collocations": [
+   "to escalate a concern",
+   "to escalate to senior management",
+   "an escalation route"
+  ],
+  "note_fr": "« To escalate » est transitif dans le jargon d'entreprise : « to escalate an issue ». Pas de calque du type « to make it go up ». Attention, « the situation escalated » signifie aussi que la situation s'est envenimée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-062",
+  "level": 2,
+  "fr": "référent harcèlement sexuel et agissements sexistes",
+  "term": {
+   "uk": "harassment officer",
+   "us": "harassment officer"
+  },
+  "ipa": {
+   "uk": "/ˈhærəsmənt ˈɒfɪsə/",
+   "us": "/həˈræsmənt ˈɑːfɪsər/"
+  },
+  "def": "A person appointed to guide, inform and support employees on sexual harassment and sexist behaviour.",
+  "registers": {
+   "formal": {
+    "uk": "sexual harassment and sexist conduct officer",
+    "us": "sexual harassment and sexist conduct officer",
+    "ex": "The works council shall appoint a [[sexual harassment and sexist conduct officer]] from among its members."
+   },
+   "everyday": {
+    "uk": "harassment officer",
+    "us": "harassment officer",
+    "ex": "If you'd rather not go to your manager, you can talk to the [[harassment officer]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to appoint a harassment officer",
+   "the works council's harassment officer",
+   "a designated point of contact"
+  ],
+  "note_fr": "Notion française. En France, le CSE désigne un référent parmi ses membres, et les entreprises d'au moins 250 salariés en nomment un de leur côté. Les entreprises britanniques ont parfois des « harassment advisers » ou « dignity at work contacts », sans obligation légale.",
+  "french_concept": true,
+  "explain": {
+   "written": "The référent harcèlement is a designated officer, required by the French Labour Code, whose role is to guide, inform and support employees in matters of sexual harassment and sexist conduct; one is appointed by the works council from among its members and, in larger companies, another by the employer.",
+   "spoken": "It's a designated point of contact for sexual harassment - someone on the works council, and in bigger companies someone on the employer's side too, that staff can go to for advice and support."
+  }
+ },
+ {
+  "id": "eq-063",
+  "level": 2,
+  "fr": "Défenseur des droits",
+  "term": {
+   "uk": "Defender of Rights",
+   "us": "Defender of Rights"
+  },
+  "ipa": {
+   "uk": "/dɪˈfendər əv raɪts/",
+   "us": "/dɪˈfendər əv raɪts/"
+  },
+  "def": "The independent French authority that, among other things, helps victims of discrimination and guides whistleblowers.",
+  "registers": {
+   "formal": {
+    "uk": "the Defender of Rights",
+    "us": "the Defender of Rights",
+    "ex": "The employee has referred the matter to [[the Defender of Rights]], which has asked the Company for its observations."
+   },
+   "everyday": {
+    "uk": "the French equality watchdog",
+    "us": "the French equality watchdog",
+    "ex": "She's taken it to [[the French equality watchdog]], so expect a letter asking for our side of the story."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to refer a matter to the Defender of Rights",
+   "to submit observations",
+   "an independent authority"
+  ],
+  "note_fr": "Gardez le nom français à la première mention, suivi de la traduction entre parenthèses. Son rôle se rapproche de celui de l'EHRC britannique ou de l'EEOC américaine, mais sa saisine est gratuite, facultative et n'est jamais un préalable au procès.",
+  "french_concept": true,
+  "explain": {
+   "written": "The Défenseur des droits (Defender of Rights) is an independent French constitutional authority which any person may approach free of charge; it investigates complaints of discrimination, may make recommendations and submit observations to the courts, and also guides and protects whistleblowers.",
+   "spoken": "It's an independent public body - a bit like an ombudsman for discrimination. Anyone can go to it for free; it can investigate, ask the employer for explanations and give its view to the court."
+  }
+ },
+ {
+  "id": "eq-064",
+  "level": 2,
+  "fr": "EEOC (agence fédérale américaine de lutte contre les discriminations au travail)",
+  "term": {
+   "uk": "Equal Employment Opportunity Commission",
+   "us": "Equal Employment Opportunity Commission"
+  },
+  "ipa": {
+   "uk": "/ˈiːkwəl ɪmˈplɔɪmənt ˌɒpəˈtjuːnəti kəˈmɪʃ(ə)n/",
+   "us": "/ˈiːkwəl ɪmˈplɔɪmənt ˌɑːpərˈtuːnəti kəˈmɪʃ(ə)n/"
+  },
+  "def": "The US federal agency that enforces the federal laws against discrimination at work.",
+  "registers": {
+   "formal": {
+    "uk": "the Equal Employment Opportunity Commission",
+    "us": "the Equal Employment Opportunity Commission",
+    "ex": "An employee must generally file a charge with [[the Equal Employment Opportunity Commission]] before bringing a lawsuit under federal law."
+   },
+   "everyday": {
+    "uk": "the EEOC",
+    "us": "the EEOC",
+    "ex": "She's gone to [[the EEOC]], so we need to preserve every document."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to file a charge with the EEOC",
+   "an EEOC charge",
+   "a right-to-sue letter",
+   "EEOC guidance"
+  ],
+  "note_fr": "On épelle le sigle : « the E-E-O-C ». Différence majeure avec la France : aux États-Unis, la saisine de l'agence (« charge ») est en principe un préalable obligatoire à l'action en justice fondée sur le droit fédéral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-065",
+  "level": 2,
+  "fr": "EHRC (autorité britannique de l'égalité et des droits de l'homme)",
+  "term": {
+   "uk": "Equality and Human Rights Commission",
+   "us": "Equality and Human Rights Commission"
+  },
+  "ipa": {
+   "uk": "/ɪˈkwɒləti ənd ˈhjuːmən raɪts kəˈmɪʃ(ə)n/",
+   "us": "/ɪˈkwɑːləti ənd ˈhjuːmən raɪts kəˈmɪʃ(ə)n/"
+  },
+  "def": "The public body that promotes and enforces equality law in Great Britain.",
+  "registers": {
+   "formal": {
+    "uk": "the Equality and Human Rights Commission",
+    "us": "the Equality and Human Rights Commission",
+    "ex": "The policy has been drafted in the light of the guidance published by [[the Equality and Human Rights Commission]]."
+   },
+   "everyday": {
+    "uk": "the EHRC",
+    "us": "the EHRC",
+    "ex": "[[The EHRC]] has published technical guidance on harassment at work that's well worth reading."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "EHRC guidance",
+   "the equality regulator",
+   "a statutory code of practice",
+   "to take enforcement action"
+  ],
+  "note_fr": "À la différence de l'EEOC ou du Défenseur des droits, l'EHRC ne traite pas les réclamations individuelles : le salarié britannique saisit l'employment tribunal, après une tentative de conciliation auprès de l'Acas. L'EHRC publie des guides et peut agir contre les employeurs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-066",
+  "level": 3,
+  "fr": "saisir (une autorité)",
+  "term": {
+   "uk": "to refer a matter to",
+   "us": "to file a charge with"
+  },
+  "ipa": {
+   "uk": "/rɪˈfɜːr ə ˈmætə tuː/",
+   "us": "/faɪl ə tʃɑːrdʒ wɪð/"
+  },
+  "def": "To bring a complaint formally before an official body so that it can deal with it.",
+  "registers": {
+   "formal": {
+    "uk": "to refer a matter to",
+    "us": "to file a charge with",
+    "ex": "Any person who believes they have suffered discrimination may [[refer the matter to]] the Defender of Rights.",
+    "ex_us": "Any person who believes they have suffered discrimination may [[file a charge with]] the EEOC."
+   },
+   "everyday": {
+    "uk": "to take something to",
+    "us": "to take something to",
+    "ex": "If we get this wrong, she'll [[take it to]] the labour inspector.",
+    "ex_us": "If we get this wrong, she'll [[take it to]] the labor inspector."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bring a complaint before an authority",
+   "to refer the matter to the labour inspectorate",
+   "to file a charge of discrimination"
+  ],
+  "note_fr": "« Saisir » n'a pas d'équivalent unique : « to refer a matter to », « to bring a complaint before », « to apply to » selon l'organe. « To seize » signifie saisir au sens matériel (confisquer). « To file a charge » ne vaut que pour l'EEOC et les agences américaines.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-067",
+  "level": 2,
+  "fr": "politique de lutte contre le harcèlement",
+  "term": {
+   "uk": "anti-harassment policy",
+   "us": "anti-harassment policy"
+  },
+  "ipa": {
+   "uk": "/ˌænti ˈhærəsmənt ˈpɒləsi/",
+   "us": "/ˌænti həˈræsmənt ˈpɑːləsi/"
+  },
+  "def": "A written document setting out what behaviour is forbidden, how to complain and what the employer will do.",
+  "registers": {
+   "formal": {
+    "uk": "anti-harassment and bullying policy",
+    "us": "anti-harassment policy",
+    "ex": "This [[anti-harassment and bullying policy]] applies to all employees, contractors and visitors.",
+    "ex_us": "This [[anti-harassment policy]] applies to all employees, contractors and visitors."
+   },
+   "everyday": {
+    "uk": "dignity at work policy",
+    "us": "respectful workplace policy",
+    "ex": "Have a look at the [[dignity at work policy]] - it tells you exactly who to go to.",
+    "ex_us": "Take a look at the [[respectful workplace policy]] - it tells you exactly who to go to."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to breach the policy",
+   "to roll out a policy",
+   "in accordance with the policy",
+   "to review a policy"
+  ],
+  "note_fr": "« Policy » = règle ou charte interne, pas « politique » au sens général, ni « police ». « Dignity at work policy » est l'intitulé britannique usuel. En France, les dispositions légales sur le harcèlement doivent figurer dans le règlement intérieur (« internal rules »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-068",
+  "level": 2,
+  "fr": "dispositif de signalement / ligne d'alerte",
+  "term": {
+   "uk": "reporting channel",
+   "us": "reporting hotline"
+  },
+  "ipa": {
+   "uk": "/rɪˈpɔːtɪŋ ˈtʃæn(ə)l/",
+   "us": "/rɪˈpɔːrtɪŋ ˈhɑːtlaɪn/"
+  },
+  "def": "The route - a person, an email address, a phone line or an online platform - by which staff can report wrongdoing.",
+  "registers": {
+   "formal": {
+    "uk": "internal reporting channel",
+    "us": "internal reporting channel",
+    "ex": "The Company has established an [[internal reporting channel]] for the receipt and handling of reports."
+   },
+   "everyday": {
+    "uk": "speak-up line",
+    "us": "ethics hotline",
+    "ex": "You can also use the [[speak-up line]], which is run by an outside provider.",
+    "ex_us": "You can also use the [[ethics hotline]], which is run by an outside vendor."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to report through the proper channels",
+   "a whistleblowing hotline",
+   "an external reporting channel",
+   "to acknowledge receipt of a report"
+  ],
+  "note_fr": "En France, les entreprises d'au moins cinquante salariés doivent mettre en place une procédure interne de recueil des signalements. « Channel » se prononce /ˈtʃæn(ə)l/. « Alert line » est un calque : dites « hotline », « helpline » ou « speak-up line ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-069",
+  "level": 3,
+  "fr": "signalement anonyme",
+  "term": {
+   "uk": "anonymous report",
+   "us": "anonymous report"
+  },
+  "ipa": {
+   "uk": "/əˈnɒnɪməs rɪˈpɔːt/",
+   "us": "/əˈnɑːnɪməs rɪˈpɔːrt/"
+  },
+  "def": "Information about wrongdoing given by someone who does not reveal their identity.",
+  "registers": {
+   "formal": {
+    "uk": "anonymous report",
+    "us": "anonymous report",
+    "ex": "An [[anonymous report]] will be investigated in so far as it contains sufficiently detailed information."
+   },
+   "everyday": {
+    "uk": "to stay anonymous",
+    "us": "to stay anonymous",
+    "ex": "She's willing to tell us what she saw, but she wants to [[stay anonymous]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to report anonymously",
+   "to remain anonymous",
+   "to protect someone's identity",
+   "an anonymous tip-off"
+  ],
+  "note_fr": "Ne confondez pas « anonymous » (l'employeur ignore qui parle) et « confidential » (il le sait mais ne le divulgue pas). Un témoignage anonyme a une faible valeur probante devant le juge français. « A tip-off » = un tuyau, registre familier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-070",
+  "level": 2,
+  "fr": "de bonne foi",
+  "term": {
+   "uk": "in good faith",
+   "us": "in good faith"
+  },
+  "ipa": {
+   "uk": "/ɪn ɡʊd feɪθ/",
+   "us": "/ɪn ɡʊd feɪθ/"
+  },
+  "def": "Honestly believing that what one reports is true, even if it later turns out to be mistaken.",
+  "registers": {
+   "formal": {
+    "uk": "in good faith",
+    "us": "in good faith",
+    "ex": "No action will be taken against an employee who reports a concern [[in good faith]], even if the concern proves to be unfounded."
+   },
+   "everyday": {
+    "uk": "to genuinely believe",
+    "us": "to genuinely believe",
+    "ex": "Even if she got some of it wrong, she [[genuinely believed]] what she was telling us."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a complaint made in good faith",
+   "to act in good faith",
+   "an honest mistake",
+   "a genuine concern"
+  ],
+  "note_fr": "« In good faith », sans article ; le contraire est « in bad faith ». En droit français, seul le salarié de mauvaise foi, c'est-à-dire qui sait les faits faux, perd la protection : une plainte simplement non établie ne suffit pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-071",
+  "level": 3,
+  "fr": "dénonciation de mauvaise foi / mensongère",
+  "term": {
+   "uk": "malicious complaint",
+   "us": "malicious complaint"
+  },
+  "ipa": {
+   "uk": "/məˈlɪʃəs kəmˈpleɪnt/",
+   "us": "/məˈlɪʃəs kəmˈpleɪnt/"
+  },
+  "def": "A complaint made by someone who knows it to be untrue, in order to harm another person.",
+  "registers": {
+   "formal": {
+    "uk": "malicious or vexatious complaint",
+    "us": "knowingly false complaint",
+    "ex": "The making of a [[malicious or vexatious complaint]] may itself give rise to disciplinary action.",
+    "ex_us": "The filing of a [[knowingly false complaint]] may itself give rise to disciplinary action."
+   },
+   "everyday": {
+    "uk": "to make something up",
+    "us": "to make something up",
+    "ex": "There's nothing to suggest she [[made it up]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a false allegation",
+   "to act in bad faith",
+   "a vexatious complaint",
+   "to make an allegation knowing it to be false"
+  ],
+  "note_fr": "« Malicious » = malveillant (et non malicieux, espiègle). « Vexatious » = abusif, fait pour nuire. Ne laissez pas un client assimiler « unsubstantiated » (non établi) et « malicious » (mensonger) : c'est l'erreur qui coûte le plus cher.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-072",
+  "level": 2,
+  "fr": "mesures conservatoires",
+  "term": {
+   "uk": "interim measures",
+   "us": "interim measures"
+  },
+  "ipa": {
+   "uk": "/ˈɪntərɪm ˈmeʒəz/",
+   "us": "/ˈɪntərɪm ˈmeʒərz/"
+  },
+  "def": "Temporary steps taken to protect the people involved while the investigation is under way.",
+  "registers": {
+   "formal": {
+    "uk": "interim measures",
+    "us": "interim measures",
+    "ex": "The Company may take [[interim measures]] to protect the parties, which shall not constitute a disciplinary sanction."
+   },
+   "everyday": {
+    "uk": "in the meantime",
+    "us": "in the meantime",
+    "ex": "[[In the meantime]], he'll report to Sarah and work from the other site."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "as an interim measure",
+   "pending the outcome of the investigation",
+   "a precautionary measure",
+   "a temporary change of reporting line"
+  ],
+  "note_fr": "« Conservatory » désigne une véranda ou un conservatoire de musique : dites « interim », « precautionary » ou « protective measures ». « Pending » = dans l'attente de. Veillez à ce que la mesure ne pénalise pas la personne qui s'est plainte.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-073",
+  "level": 2,
+  "fr": "éloigner / séparer les protagonistes",
+  "term": {
+   "uk": "to separate the parties",
+   "us": "to separate the parties"
+  },
+  "ipa": {
+   "uk": "/ˈsepəreɪt ðə ˈpɑːtiz/",
+   "us": "/ˈsepəreɪt ðə ˈpɑːrtiz/"
+  },
+  "def": "To arrange work so that the complainant and the respondent are not in contact during the investigation.",
+  "registers": {
+   "formal": {
+    "uk": "to separate the parties",
+    "us": "to separate the parties",
+    "ex": "It was decided to [[separate the parties]] for the duration of the investigation."
+   },
+   "everyday": {
+    "uk": "to keep them apart",
+    "us": "to keep them apart",
+    "ex": "Can we [[keep them apart]] without moving her? She's the one who complained."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to move someone to another team",
+   "to work from home temporarily",
+   "to avoid any contact",
+   "a change of line manager"
+  ],
+  "note_fr": "« The parties » désigne ici la personne plaignante et la personne mise en cause ; « protagonists » est théâtral. Règle d'or à savoir formuler : « It shouldn't be the complainant who pays the price ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-074",
+  "level": 2,
+  "fr": "recueillir un témoignage",
+  "term": {
+   "uk": "to take a statement",
+   "us": "to take a statement"
+  },
+  "ipa": {
+   "uk": "/teɪk ə ˈsteɪtmənt/",
+   "us": "/teɪk ə ˈsteɪtmənt/"
+  },
+  "def": "To record in writing what a person says they saw, heard or experienced.",
+  "registers": {
+   "formal": {
+    "uk": "to take a witness statement",
+    "us": "to take a witness statement",
+    "ex": "The investigator [[took a witness statement]] from each of the six members of the team."
+   },
+   "everyday": {
+    "uk": "to get someone's account",
+    "us": "to get someone's account",
+    "ex": "I'd like to [[get your account]] of what happened at the offsite."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a signed statement",
+   "a written statement",
+   "to give a statement",
+   "in your own words"
+  ],
+  "note_fr": "« Testimony » se dit devant un tribunal ; dans une enquête interne, on parle de « statement » ou d'« account ». En France, l'attestation produite en justice obéit à un formalisme propre, sans équivalent exact : « a formal witness statement in the form required by French civil procedure ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-075",
+  "level": 3,
+  "fr": "corroborer",
+  "term": {
+   "uk": "to corroborate",
+   "us": "to corroborate"
+  },
+  "ipa": {
+   "uk": "/kəˈrɒbəreɪt/",
+   "us": "/kəˈrɑːbəreɪt/"
+  },
+  "def": "To confirm what someone has said by providing independent support for it.",
+  "registers": {
+   "formal": {
+    "uk": "to corroborate",
+    "us": "to corroborate",
+    "ex": "The complainant's account is [[corroborated]] by contemporaneous text messages."
+   },
+   "everyday": {
+    "uk": "to back up",
+    "us": "to back up",
+    "ex": "Is there anything that [[backs up]] her version - emails, messages, a diary?"
+   },
+   "informal": {
+    "uk": "to check out",
+    "us": "to check out",
+    "ex": "His story doesn't [[check out]]: he wasn't even in the office that day."
+   }
+  },
+  "collocations": [
+   "corroborating evidence",
+   "to bear out an account",
+   "to tally with what others said",
+   "uncorroborated allegations"
+  ],
+  "note_fr": "« To back up » se sépare avec un pronom : « back it up ». « It tallies with » = cela concorde avec. « To bear out » (corroborer, confirmer) est un verbe à particule élégant, y compris à l'écrit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-076",
+  "level": 2,
+  "fr": "conclusions (de l'enquête)",
+  "term": {
+   "uk": "findings",
+   "us": "findings"
+  },
+  "ipa": {
+   "uk": "/ˈfaɪndɪŋz/",
+   "us": "/ˈfaɪndɪŋz/"
+  },
+  "def": "What the investigator decides, on the evidence, did or did not happen.",
+  "registers": {
+   "formal": {
+    "uk": "findings of fact",
+    "us": "findings of fact",
+    "ex": "The investigator's [[findings of fact]] are set out in section 4 of the report."
+   },
+   "everyday": {
+    "uk": "findings",
+    "us": "findings",
+    "ex": "We should have the [[findings]] by the end of the month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a finding",
+   "the findings of the investigation",
+   "to reach a conclusion",
+   "key findings"
+  ],
+  "note_fr": "Distinguez « findings » (les faits tenus pour établis) et « recommendations » (les suites proposées). « Conclusions » existe, mais « findings » est le terme des rapports d'enquête. On « makes » ou « reaches » a finding.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-077",
+  "level": 2,
+  "fr": "rapport d'enquête",
+  "term": {
+   "uk": "investigation report",
+   "us": "investigation report"
+  },
+  "ipa": {
+   "uk": "/ɪnˌvestɪˈɡeɪʃ(ə)n rɪˈpɔːt/",
+   "us": "/ɪnˌvestɪˈɡeɪʃ(ə)n rɪˈpɔːrt/"
+  },
+  "def": "The written document recording how the investigation was run, the evidence gathered and the conclusions reached.",
+  "registers": {
+   "formal": {
+    "uk": "investigation report",
+    "us": "investigation report",
+    "ex": "The [[investigation report]] was submitted to the Managing Director on 12 June."
+   },
+   "everyday": {
+    "uk": "to write something up",
+    "us": "to write something up",
+    "ex": "I'll [[write it up]] over the weekend and send you a draft on Monday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draft a report",
+   "to submit a report",
+   "an executive summary",
+   "to share the report on a need-to-know basis"
+  ],
+  "note_fr": "« To write up » = mettre au propre, rédiger à partir de notes. En France, le rapport d'enquête interne peut être produit devant le juge, qui en apprécie librement la valeur probante : rédigez-le en pensant à ce lecteur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-078",
+  "level": 2,
+  "fr": "faire droit à la plainte / reconnaître les faits établis",
+  "term": {
+   "uk": "to uphold a complaint",
+   "us": "to substantiate a complaint"
+  },
+  "ipa": {
+   "uk": "/ʌpˈhəʊld ə kəmˈpleɪnt/",
+   "us": "/səbˈstænʃieɪt ə kəmˈpleɪnt/"
+  },
+  "def": "To decide, after investigation, that the complaint is well founded.",
+  "registers": {
+   "formal": {
+    "uk": "to uphold a complaint",
+    "us": "to substantiate a complaint",
+    "ex": "The complaint was [[upheld]] in part.",
+    "ex_us": "The complaint was [[substantiated]] in part."
+   },
+   "everyday": {
+    "uk": "to find in someone's favour",
+    "us": "to find that the complaint was valid",
+    "ex": "They [[found in her favour]] on two of the three points.",
+    "ex_us": "They [[found that the complaint was valid]] on two of the three points."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to uphold a grievance",
+   "upheld in part",
+   "partially substantiated",
+   "a well-founded complaint"
+  ],
+  "note_fr": "Usage britannique : un grief est « upheld », « partly upheld » ou « not upheld ». Usage américain : une allégation est « substantiated » ou « unsubstantiated ». Dans les deux cas, on se prononce allégation par allégation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-079",
+  "level": 3,
+  "fr": "plainte non établie / non fondée",
+  "term": {
+   "uk": "unsubstantiated complaint",
+   "us": "unsubstantiated complaint"
+  },
+  "ipa": {
+   "uk": "/ˌʌnsəbˈstænʃieɪtɪd kəmˈpleɪnt/",
+   "us": "/ˌʌnsəbˈstænʃieɪtɪd kəmˈpleɪnt/"
+  },
+  "def": "A complaint for which the investigation has not found enough evidence.",
+  "registers": {
+   "formal": {
+    "uk": "not upheld",
+    "us": "unsubstantiated",
+    "ex": "The third allegation was [[not upheld]] for lack of evidence.",
+    "ex_us": "The third allegation was [[unsubstantiated]] for lack of evidence."
+   },
+   "everyday": {
+    "uk": "there isn't enough to go on",
+    "us": "there isn't enough to go on",
+    "ex": "It's not that we don't believe her; [[there isn't enough to go on]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "for lack of evidence",
+   "insufficient evidence",
+   "inconclusive",
+   "an unfounded allegation"
+  ],
+  "note_fr": "Nuance capitale : « unsubstantiated » ou « not upheld » signifie que la preuve manque, pas que la personne a menti. « Unfounded » est plus tranché (dénué de fondement). « Inconclusive » = qui ne permet pas de conclure.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-080",
+  "level": 3,
+  "fr": "lettre de restitution des conclusions",
+  "term": {
+   "uk": "outcome letter",
+   "us": "closure letter"
+  },
+  "ipa": {
+   "uk": "/ˈaʊtkʌm ˈletə/",
+   "us": "/ˈkloʊʒər ˈletər/"
+  },
+  "def": "The letter telling the complainant or the respondent what the investigation concluded and what happens next.",
+  "registers": {
+   "formal": {
+    "uk": "outcome letter",
+    "us": "closure letter",
+    "ex": "The complainant will receive an [[outcome letter]] within seven days of the report being finalised.",
+    "ex_us": "The complainant will receive a [[closure letter]] within seven days of the report being finalized."
+   },
+   "everyday": {
+    "uk": "to let someone know the outcome",
+    "us": "to let someone know the outcome",
+    "ex": "We owe it to her to [[let her know the outcome]], even if we can't share every detail."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the outcome of the investigation",
+   "to notify someone of the outcome",
+   "to appeal against the outcome",
+   "next steps"
+  ],
+  "note_fr": "« Outcome » = issue, résultat d'une procédure ; « result » conviendrait à un examen ou à un match. On ne communique pas à la personne plaignante le détail d'une éventuelle sanction : « appropriate action has been taken » est la formule habituelle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-081",
+  "level": 2,
+  "fr": "résoudre à l'amiable / de manière informelle",
+  "term": {
+   "uk": "to resolve informally",
+   "us": "to resolve informally"
+  },
+  "ipa": {
+   "uk": "/rɪˈzɒlv ɪnˈfɔːməli/",
+   "us": "/rɪˈzɑːlv ɪnˈfɔːrməli/"
+  },
+  "def": "To settle a problem through discussion, without starting a formal procedure.",
+  "registers": {
+   "formal": {
+    "uk": "to resolve informally",
+    "us": "to resolve informally",
+    "ex": "Wherever possible, concerns should be [[resolved informally]] in the first instance."
+   },
+   "everyday": {
+    "uk": "to sort something out between themselves",
+    "us": "to work something out between themselves",
+    "ex": "My first question is whether they can [[sort it out between themselves]].",
+    "ex_us": "My first question is whether they can [[work it out between themselves]]."
+   },
+   "informal": {
+    "uk": "to have a quiet word with",
+    "us": "to have a quiet word with",
+    "ex": "I'll [[have a quiet word with]] him before this goes any further."
+   }
+  },
+  "collocations": [
+   "an informal resolution",
+   "in the first instance",
+   "to clear the air",
+   "a facilitated conversation"
+  ],
+  "note_fr": "« To have a quiet word with someone » = prendre quelqu'un à part pour le recadrer en douceur, très britannique. « Amicably » existe (« to settle amicably ») mais s'emploie surtout pour les litiges. « To clear the air » = crever l'abcès.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-082",
+  "level": 2,
+  "fr": "se faire assister (lors d'un entretien)",
+  "term": {
+   "uk": "to be accompanied",
+   "us": "to be accompanied"
+  },
+  "ipa": {
+   "uk": "/bi əˈkʌmpənid/",
+   "us": "/bi əˈkʌmpənid/"
+  },
+  "def": "To bring another person, such as a colleague or staff representative, to a meeting for support.",
+  "registers": {
+   "formal": {
+    "uk": "to be accompanied",
+    "us": "to be accompanied",
+    "ex": "You are entitled to [[be accompanied]] by a colleague or a staff representative."
+   },
+   "everyday": {
+    "uk": "to bring someone along",
+    "us": "to bring someone along",
+    "ex": "You're welcome to [[bring someone along]] - a colleague or one of the staff reps."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the right to be accompanied",
+   "a companion",
+   "a staff representative",
+   "a support person"
+  ],
+  "note_fr": "« To be assisted » signifie recevoir de l'aide, pas être accompagné. Au Royaume-Uni, le « right to be accompanied » est un droit légal lors des « grievance » et « disciplinary hearings », et la personne s'appelle « the companion ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-083",
+  "level": 3,
+  "fr": "conflit d'intérêts",
+  "term": {
+   "uk": "conflict of interest",
+   "us": "conflict of interest"
+  },
+  "ipa": {
+   "uk": "/ˈkɒnflɪkt əv ˈɪntrəst/",
+   "us": "/ˈkɑːnflɪkt əv ˈɪntrəst/"
+  },
+  "def": "A situation in which a person's own interests or relationships could affect their impartiality.",
+  "registers": {
+   "formal": {
+    "uk": "conflict of interest",
+    "us": "conflict of interest",
+    "ex": "Any person with an actual or potential [[conflict of interest]] must withdraw from the investigation."
+   },
+   "everyday": {
+    "uk": "to be too close to it",
+    "us": "to be too close to it",
+    "ex": "I shouldn't run this one: I hired him, so I'm [[too close to it]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to declare a conflict of interest",
+   "to step aside",
+   "to recuse oneself",
+   "an impartial investigator"
+  ],
+  "note_fr": "Pluriel : « conflicts of interest » (« interest » reste au singulier). « To recuse oneself » est surtout américain ; au Royaume-Uni, on dira plutôt « to step aside » ou « to stand down ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-084",
+  "level": 2,
+  "fr": "représailles contre l'auteur d'une plainte (droit britannique)",
+  "term": {
+   "uk": "victimisation",
+   "us": "retaliation"
+  },
+  "ipa": {
+   "uk": "/ˌvɪktɪmaɪˈzeɪʃ(ə)n/",
+   "us": "/rɪˌtæliˈeɪʃ(ə)n/"
+  },
+  "def": "Treating someone badly because they have complained of discrimination or helped someone else to do so.",
+  "registers": {
+   "formal": {
+    "uk": "victimisation",
+    "us": "retaliation",
+    "ex": "Subjecting a witness to a detriment because she gave evidence in a colleague's grievance amounts to [[victimisation]].",
+    "ex_us": "Taking adverse action against a witness because she gave evidence in a co-worker's complaint amounts to [[retaliation]]."
+   },
+   "everyday": {
+    "uk": "to be punished for complaining",
+    "us": "to be punished for complaining",
+    "ex": "She feels she's being [[punished for complaining]]: no bonus, no projects, nothing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to victimise someone",
+   "a victimisation claim",
+   "a protected act",
+   "to suffer a detriment"
+  ],
+  "note_fr": "Faux ami redoutable : en droit britannique, « victimisation » ne signifie pas « le fait d'être victime » mais les représailles subies après un « protected act » (plainte, témoignage). L'équivalent américain est « retaliation ». Orthographe américaine : victimization.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-085",
+  "level": 2,
+  "fr": "charge de la preuve",
+  "term": {
+   "uk": "burden of proof",
+   "us": "burden of proof"
+  },
+  "ipa": {
+   "uk": "/ˈbɜːd(ə)n əv pruːf/",
+   "us": "/ˈbɜːrd(ə)n əv pruːf/"
+  },
+  "def": "The obligation on one side to prove what it claims.",
+  "registers": {
+   "formal": {
+    "uk": "burden of proof",
+    "us": "burden of proof",
+    "ex": "Once the employee has presented facts suggesting discrimination, the [[burden of proof]] shifts to the employer."
+   },
+   "everyday": {
+    "uk": "it's up to someone to show",
+    "us": "it's up to someone to show",
+    "ex": "At that point [[it's up to us to show]] that the decision had nothing to do with her pregnancy."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the burden of proof lies with the employer",
+   "to bear the burden of proof",
+   "to discharge the burden of proof",
+   "the burden shifts"
+  ],
+  "note_fr": "On dit que la charge « lies with » ou « rests on » une partie, et qu'elle « shifts » (se déplace). « Charge of proof » est un calque. En France comme au Royaume-Uni, la preuve est aménagée en faveur du salarié en matière de discrimination ; il ne s'agit pas d'un renversement complet.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-086",
+  "level": 3,
+  "fr": "présenter des éléments de fait laissant supposer l'existence d'une discrimination",
+  "term": {
+   "uk": "to establish a prima facie case",
+   "us": "to establish a prima facie case"
+  },
+  "ipa": {
+   "uk": "/ɪˈstæblɪʃ ə ˌpraɪmə ˈfeɪʃi keɪs/",
+   "us": "/ɪˈstæblɪʃ ə ˌpraɪmə ˈfeɪʃə keɪs/"
+  },
+  "def": "To put forward enough facts for discrimination to be presumed unless the employer gives a convincing explanation.",
+  "registers": {
+   "formal": {
+    "uk": "to establish a prima facie case",
+    "us": "to establish a prima facie case",
+    "ex": "The claimant has [[established a prima facie case]] of discrimination, which it is for the employer to rebut."
+   },
+   "everyday": {
+    "uk": "to show there is a case to answer",
+    "us": "to show there is a case to answer",
+    "ex": "The pay data alone is enough to [[show there's a case to answer]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "facts from which discrimination may be presumed",
+   "a prima facie case of discrimination",
+   "to rebut a presumption",
+   "a case to answer"
+  ],
+  "note_fr": "« Prima facie » (à première vue) s'emploie tel quel en anglais juridique. Formule utile pour décrire le mécanisme français : « the employee presents facts from which discrimination may be presumed; the employer must then prove that its decision was based on objective factors ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-087",
+  "level": 3,
+  "fr": "éléments objectifs étrangers à toute discrimination",
+  "term": {
+   "uk": "objective justification",
+   "us": "objective justification"
+  },
+  "ipa": {
+   "uk": "/əbˈdʒektɪv ˌdʒʌstɪfɪˈkeɪʃ(ə)n/",
+   "us": "/əbˈdʒektɪv ˌdʒʌstɪfɪˈkeɪʃ(ə)n/"
+  },
+  "def": "A legitimate reason, unrelated to any protected ground, that explains a difference in treatment.",
+  "registers": {
+   "formal": {
+    "uk": "objective factors unrelated to any discrimination",
+    "us": "objective factors unrelated to any discrimination",
+    "ex": "The employer must prove that its decision is justified by [[objective factors unrelated to any discrimination]]."
+   },
+   "everyday": {
+    "uk": "a good reason that stands up",
+    "us": "a good reason that stands up",
+    "ex": "Do we have [[a good reason that stands up]] for paying him more - experience, qualifications, anything on file?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "objectively justified",
+   "a legitimate aim",
+   "a proportionate means of achieving a legitimate aim",
+   "a legitimate, non-discriminatory reason"
+  ],
+  "note_fr": "La formule britannique consacrée est « a proportionate means of achieving a legitimate aim » ; la formule américaine, « a legitimate, non-discriminatory reason ». « To stand up » = résister à l'examen (« it wouldn't stand up in court »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-088",
+  "level": 3,
+  "fr": "degré de preuve requis (enquête interne et procès civil)",
+  "term": {
+   "uk": "balance of probabilities",
+   "us": "preponderance of the evidence"
+  },
+  "ipa": {
+   "uk": "/ˈbæləns əv ˌprɒbəˈbɪlətiz/",
+   "us": "/prɪˈpɑːndərəns əv ði ˈevɪd(ə)ns/"
+  },
+  "def": "The civil standard of proof: something is treated as established if it is more likely than not to have happened.",
+  "registers": {
+   "formal": {
+    "uk": "on the balance of probabilities",
+    "us": "by a preponderance of the evidence",
+    "ex": "The investigator finds, [[on the balance of probabilities]], that the remarks were made.",
+    "ex_us": "The investigator finds, [[by a preponderance of the evidence]], that the remarks were made."
+   },
+   "everyday": {
+    "uk": "more likely than not",
+    "us": "more likely than not",
+    "ex": "I don't need to be certain; I need to decide whether it's [[more likely than not]] that it happened."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the standard of proof",
+   "beyond reasonable doubt",
+   "to weigh the evidence",
+   "to assess credibility"
+  ],
+  "note_fr": "Ne confondez pas « burden of proof » (qui doit prouver) et « standard of proof » (jusqu'à quel point). L'enquête interne applique le critère civil, pas le « beyond reasonable doubt » pénal. Le droit français, lui, parle de l'intime conviction du juge : pas d'équivalent exact.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-089",
+  "level": 2,
+  "fr": "aménagement raisonnable",
+  "term": {
+   "uk": "reasonable adjustment",
+   "us": "reasonable accommodation"
+  },
+  "ipa": {
+   "uk": "/ˈriːz(ə)nəb(ə)l əˈdʒʌstmənt/",
+   "us": "/ˈriːz(ə)nəb(ə)l əˌkɑːməˈdeɪʃ(ə)n/"
+  },
+  "def": "A change to the job, the workplace or working arrangements that enables a disabled person to work on an equal footing.",
+  "registers": {
+   "formal": {
+    "uk": "reasonable adjustment",
+    "us": "reasonable accommodation",
+    "ex": "The employer is under a duty to make [[reasonable adjustments]] for disabled employees.",
+    "ex_us": "The employer has a duty to provide [[reasonable accommodations]] to employees with disabilities."
+   },
+   "everyday": {
+    "uk": "to adapt the job",
+    "us": "to adapt the job",
+    "ex": "What would we need to change to [[adapt the job]] - hours, equipment, where she sits?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make reasonable adjustments",
+   "to request an accommodation",
+   "undue hardship",
+   "a disproportionate burden"
+  ],
+  "note_fr": "Piège majeur : « reasonable adjustments » au Royaume-Uni, « reasonable accommodation » aux États-Unis et dans les textes européens. « Accommodation » signifie aussi logement en anglais britannique. La limite s'appelle « undue hardship » (US) ou « disproportionate burden » (UE) ; en France, « mesures appropriées » sauf « charge disproportionnée ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-090",
+  "level": 3,
+  "fr": "obligation d'emploi des travailleurs handicapés (OETH)",
+  "term": {
+   "uk": "disability employment quota",
+   "us": "disability employment quota"
+  },
+  "ipa": {
+   "uk": "/ˌdɪsəˈbɪləti ɪmˈplɔɪmənt ˈkwəʊtə/",
+   "us": "/ˌdɪsəˈbɪləti ɪmˈplɔɪmənt ˈkwoʊtə/"
+  },
+  "def": "The French rule requiring employers above a certain size to employ a minimum proportion of disabled workers or pay a contribution.",
+  "registers": {
+   "formal": {
+    "uk": "statutory disability employment obligation",
+    "us": "statutory disability employment obligation",
+    "ex": "Employers which do not meet the [[statutory disability employment obligation]] must pay an annual contribution."
+   },
+   "everyday": {
+    "uk": "disability quota",
+    "us": "disability quota",
+    "ex": "We're well short of the [[disability quota]], so we pay the contribution every year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet the quota",
+   "to fall short of the quota",
+   "to pay a contribution in lieu",
+   "recognised disabled worker status"
+  ],
+  "note_fr": "Notion sans équivalent : ni le Royaume-Uni ni les États-Unis n'imposent de quota général aux employeurs privés, et un interlocuteur américain peut y voir une pratique illicite chez lui. En France, l'obligation est de 6 % de l'effectif pour les employeurs d'au moins vingt salariés.",
+  "french_concept": true,
+  "explain": {
+   "written": "The OETH (obligation d'emploi des travailleurs handicapés) is a statutory obligation under which French employers with twenty or more employees must ensure that disabled workers make up six per cent of their workforce, failing which they pay an annual financial contribution.",
+   "spoken": "In France there's a legal quota: once you have twenty staff, six per cent of them should be disabled workers. If you're below that, you pay a contribution every year instead."
+  }
+ },
+ {
+  "id": "eq-091",
+  "level": 2,
+  "fr": "index de l'égalité professionnelle femmes-hommes",
+  "term": {
+   "uk": "gender equality index",
+   "us": "gender equality index"
+  },
+  "ipa": {
+   "uk": "/ˈdʒendər ɪˈkwɒləti ˈɪndeks/",
+   "us": "/ˈdʒendər ɪˈkwɑːləti ˈɪndeks/"
+  },
+  "def": "A score out of 100 that French companies must calculate and publish each year to measure equality between women and men.",
+  "registers": {
+   "formal": {
+    "uk": "gender equality index",
+    "us": "gender equality index",
+    "ex": "The Company's [[gender equality index]] for the previous year must be published on its website by 1 March."
+   },
+   "everyday": {
+    "uk": "equality score",
+    "us": "equality score",
+    "ex": "Our [[equality score]] dropped four points, mostly on pay rises after maternity leave.",
+    "ex_us": "Our [[equality score]] dropped four points, mostly on raises after maternity leave."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to publish the index",
+   "a score out of 100",
+   "to fall below the threshold",
+   "corrective measures"
+  ],
+  "note_fr": "Notion française. L'index concerne les entreprises d'au moins cinquante salariés ; en dessous de 75 points, des mesures de correction s'imposent. Le dispositif est appelé à évoluer avec la transposition de la directive européenne sur la transparence des rémunérations : vérifiez l'état du droit avant d'en parler à un client.",
+  "french_concept": true,
+  "explain": {
+   "written": "The index de l'égalité professionnelle is a score out of 100, based on a set of statutory indicators such as the gender pay gap and the distribution of pay rises and promotions, which French companies with fifty or more employees must calculate and publish each year; a score below 75 triggers an obligation to take corrective measures.",
+   "spoken": "Every French company with fifty or more staff has to publish a gender equality score out of 100 each year. If you score under 75, you have to put a corrective plan in place."
+  }
+ },
+ {
+  "id": "eq-092",
+  "level": 2,
+  "fr": "à travail de valeur égale, salaire égal",
+  "term": {
+   "uk": "equal pay for work of equal value",
+   "us": "equal pay for work of equal value"
+  },
+  "ipa": {
+   "uk": "/ˈiːkwəl peɪ fə wɜːk əv ˈiːkwəl ˈvæljuː/",
+   "us": "/ˈiːkwəl peɪ fər wɜːrk əv ˈiːkwəl ˈvæljuː/"
+  },
+  "def": "The rule that men and women must be paid the same not only for identical jobs but for different jobs that demand comparable skill, effort and responsibility.",
+  "registers": {
+   "formal": {
+    "uk": "equal pay for work of equal value",
+    "us": "equal pay for work of equal value",
+    "ex": "The principle of [[equal pay for work of equal value]] applies to all components of remuneration."
+   },
+   "everyday": {
+    "uk": "like-for-like",
+    "us": "like-for-like",
+    "ex": "On a [[like-for-like]] basis, the women in that grade are still paid three per cent less."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "work of equal value",
+   "like work",
+   "a comparator",
+   "a material difference"
+  ],
+  "note_fr": "« Like-for-like » = à poste comparable. Le salarié auquel on se compare s'appelle « the comparator ». Le droit fédéral américain est plus étroit : il vise l'« equal work », c'est-à-dire des postes en substance identiques.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-093",
+  "level": 2,
+  "fr": "action positive",
+  "term": {
+   "uk": "positive action",
+   "us": "affirmative action"
+  },
+  "ipa": {
+   "uk": "/ˈpɒzətɪv ˈækʃ(ə)n/",
+   "us": "/əˈfɜːrmətɪv ˈækʃ(ə)n/"
+  },
+  "def": "Lawful measures to help an under-represented or disadvantaged group compete on equal terms, such as targeted training or outreach.",
+  "registers": {
+   "formal": {
+    "uk": "positive action",
+    "us": "affirmative action",
+    "ex": "The mentoring scheme is a [[positive action]] measure aimed at women in engineering roles.",
+    "ex_us": "The mentoring program is an [[affirmative action]] measure aimed at women in engineering roles."
+   },
+   "everyday": {
+    "uk": "to level the playing field",
+    "us": "to level the playing field",
+    "ex": "The idea isn't to favour anyone; it's to [[level the playing field]].",
+    "ex_us": "The idea isn't to favor anyone; it's to [[level the playing field]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a positive action measure",
+   "an under-represented group",
+   "targeted outreach",
+   "positive discrimination"
+  ],
+  "note_fr": "Ne traduisez pas « discrimination positive » par « positive discrimination » sans précaution : au Royaume-Uni, la « positive action » est permise mais la « positive discrimination » (préférer un candidat en raison d'un critère protégé) est en principe illicite. Aux États-Unis, l'« affirmative action » fait l'objet d'un encadrement de plus en plus strict.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-094",
+  "level": 2,
+  "fr": "biais inconscients",
+  "term": {
+   "uk": "unconscious bias",
+   "us": "unconscious bias"
+  },
+  "ipa": {
+   "uk": "/ʌnˈkɒnʃəs ˈbaɪəs/",
+   "us": "/ʌnˈkɑːnʃəs ˈbaɪəs/"
+  },
+  "def": "Attitudes or stereotypes that influence decisions about people without the decision-maker being aware of them.",
+  "registers": {
+   "formal": {
+    "uk": "unconscious bias",
+    "us": "implicit bias",
+    "ex": "All hiring managers are required to complete [[unconscious bias]] training.",
+    "ex_us": "All hiring managers are required to complete [[implicit bias]] training."
+   },
+   "everyday": {
+    "uk": "to be biased without realising it",
+    "us": "to be biased without realizing it",
+    "ex": "We all tend to hire people like ourselves; you can [[be biased without realising it]].",
+    "ex_us": "We all tend to hire people like ourselves; you can [[be biased without realizing it]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be biased against someone",
+   "a stereotype",
+   "to challenge one's assumptions",
+   "a blind spot"
+  ],
+  "note_fr": "« Bias » se prononce /ˈbaɪəs/ et reste le plus souvent indénombrable ; l'adjectif est « biased » : « he is biased », jamais « he is bias ». « Prejudice » est plus fort et désigne un préjugé hostile.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-095",
+  "level": 2,
+  "fr": "plafond de verre",
+  "term": {
+   "uk": "glass ceiling",
+   "us": "glass ceiling"
+  },
+  "ipa": {
+   "uk": "/ɡlɑːs ˈsiːlɪŋ/",
+   "us": "/ɡlæs ˈsiːlɪŋ/"
+  },
+  "def": "The invisible barrier that stops women and minorities from reaching the most senior positions.",
+  "registers": {
+   "formal": {
+    "uk": "under-representation of women in senior positions",
+    "us": "under-representation of women in senior positions",
+    "ex": "The action plan addresses the [[under-representation of women in senior positions]]."
+   },
+   "everyday": {
+    "uk": "glass ceiling",
+    "us": "glass ceiling",
+    "ex": "Plenty of women make it to manager; the [[glass ceiling]] is one level up."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to break the glass ceiling",
+   "to hit the glass ceiling",
+   "the leadership pipeline",
+   "women in senior roles"
+  ],
+  "note_fr": "On « hits » le plafond de verre et on le « breaks » ou « shatters ». « Ceiling » : le c se prononce /s/. Variantes à reconnaître : « sticky floor » (plancher collant), « glass cliff » (falaise de verre).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-096",
+  "level": 3,
+  "fr": "alerte protégée / signalement bénéficiant de la protection légale",
+  "term": {
+   "uk": "protected disclosure",
+   "us": "protected activity"
+  },
+  "ipa": {
+   "uk": "/prəˈtektɪd dɪsˈkləʊʒə/",
+   "us": "/prəˈtektɪd ækˈtɪvəti/"
+  },
+  "def": "A report of wrongdoing, or other step, that the law shields from reprisals.",
+  "registers": {
+   "formal": {
+    "uk": "protected disclosure",
+    "us": "protected activity",
+    "ex": "An employee who makes a [[protected disclosure]] must not be subjected to any detriment for having done so.",
+    "ex_us": "An employee who engages in [[protected activity]] must not be subjected to any adverse action for having done so."
+   },
+   "everyday": {
+    "uk": "to be protected for reporting",
+    "us": "to be protected for reporting",
+    "ex": "As long as she acted in good faith, she's [[protected for reporting]] it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a protected disclosure",
+   "a qualifying disclosure",
+   "in the public interest",
+   "to engage in protected activity"
+  ],
+  "note_fr": "« Disclosure » = divulgation, révélation ; c'est le terme technique du droit britannique des lanceurs d'alerte. Aux États-Unis, « protected activity » est plus large et couvre aussi le fait de se plaindre d'une discrimination ou de témoigner. En France, on parle de « signalement » ou de « divulgation publique ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-097",
+  "level": 3,
+  "fr": "subir un préjudice / une mesure défavorable (à titre de représailles)",
+  "term": {
+   "uk": "to suffer a detriment",
+   "us": "to suffer an adverse action"
+  },
+  "ipa": {
+   "uk": "/ˈsʌfər ə ˈdetrɪmənt/",
+   "us": "/ˈsʌfər ən ædˈvɜːrs ˈækʃ(ə)n/"
+  },
+  "def": "To be put at a disadvantage at work, for example by being refused a promotion, moved or disciplined.",
+  "registers": {
+   "formal": {
+    "uk": "to be subjected to a detriment",
+    "us": "to be subjected to an adverse employment action",
+    "ex": "A worker has the right not to [[be subjected to a detriment]] on the ground that he or she has made a protected disclosure.",
+    "ex_us": "An employee may not [[be subjected to an adverse employment action]] because he or she has engaged in protected activity."
+   },
+   "everyday": {
+    "uk": "to lose out",
+    "us": "to lose out",
+    "ex": "Nobody should [[lose out]] because they told the truth in an interview."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a detriment short of dismissal",
+   "adverse treatment",
+   "to be penalised for reporting",
+   "to be passed over for promotion"
+  ],
+  "note_fr": "« Detriment » est le mot du droit britannique, « adverse (employment) action » celui du droit américain. Le droit français énumère les mesures interdites : sanction, licenciement, mesure discriminatoire directe ou indirecte. « Prejudice » en anglais veut dire préjugé, pas préjudice.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-098",
+  "level": 3,
+  "fr": "responsabilité de l'employeur du fait de ses salariés",
+  "term": {
+   "uk": "vicarious liability",
+   "us": "vicarious liability"
+  },
+  "ipa": {
+   "uk": "/vɪˈkeəriəs ˌlaɪəˈbɪləti/",
+   "us": "/vaɪˈkeriəs ˌlaɪəˈbɪləti/"
+  },
+  "def": "The legal responsibility of an employer for wrongful acts committed by its employees in the course of their work.",
+  "registers": {
+   "formal": {
+    "uk": "vicarious liability",
+    "us": "vicarious liability",
+    "ex": "The employer may incur [[vicarious liability]] for acts of harassment committed by its employees in the course of their employment."
+   },
+   "everyday": {
+    "uk": "to be on the hook for",
+    "us": "to be on the hook for",
+    "ex": "If a manager harasses someone, it's the company that's [[on the hook for]] it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be vicariously liable",
+   "in the course of employment",
+   "the reasonable steps defence",
+   "to be held liable"
+  ],
+  "note_fr": "Au Royaume-Uni, l'employeur peut s'exonérer en prouvant qu'il a pris « all reasonable steps » pour prévenir les faits. En France, l'employeur répond du harcèlement au titre de son obligation de sécurité, sauf à justifier avoir pris toutes les mesures de prévention et réagi immédiatement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-099",
+  "level": 3,
+  "fr": "obligation de prévenir le harcèlement sexuel",
+  "term": {
+   "uk": "duty to prevent sexual harassment",
+   "us": "duty to prevent sexual harassment"
+  },
+  "ipa": {
+   "uk": "/ˈdjuːti tə prɪˈvent ˈsekʃuəl ˈhærəsmənt/",
+   "us": "/ˈduːti tə prɪˈvent ˈsekʃuəl həˈræsmənt/"
+  },
+  "def": "The employer's legal obligation to act in advance so that sexual harassment does not occur, and not merely to react to complaints.",
+  "registers": {
+   "formal": {
+    "uk": "to take reasonable steps to prevent",
+    "us": "to take reasonable steps to prevent",
+    "ex": "An employer must [[take reasonable steps to prevent]] sexual harassment of its employees in the course of their employment."
+   },
+   "everyday": {
+    "uk": "to get ahead of the problem",
+    "us": "to get ahead of the problem",
+    "ex": "Training once every five years isn't enough; we need to [[get ahead of the problem]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a preventative duty",
+   "to take all necessary steps",
+   "a risk assessment",
+   "harassment by third parties"
+  ],
+  "note_fr": "Le droit britannique impose désormais à l'employeur une obligation préventive (« to take reasonable steps »). En France, l'employeur doit prendre « toutes dispositions nécessaires » pour prévenir, faire cesser et sanctionner le harcèlement sexuel. « Preventative » et « preventive » sont tous deux corrects.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "eq-100",
+  "level": 3,
+  "fr": "exigence professionnelle essentielle et déterminante",
+  "term": {
+   "uk": "genuine occupational requirement",
+   "us": "bona fide occupational qualification"
+  },
+  "ipa": {
+   "uk": "/ˈdʒenjuɪn ˌɒkjuˈpeɪʃ(ə)n(ə)l rɪˈkwaɪəmənt/",
+   "us": "/ˌboʊnə ˈfaɪd ˌɑːkjuˈpeɪʃ(ə)n(ə)l ˌkwɑːlɪfɪˈkeɪʃ(ə)n/"
+  },
+  "def": "A narrow exception allowing an employer to require a particular characteristic, such as sex, when the nature of the job truly demands it.",
+  "registers": {
+   "formal": {
+    "uk": "genuine occupational requirement",
+    "us": "bona fide occupational qualification",
+    "ex": "A difference of treatment is permitted where it corresponds to a [[genuine occupational requirement]] and is proportionate.",
+    "ex_us": "A difference in treatment is permitted where it corresponds to a [[bona fide occupational qualification]]."
+   },
+   "everyday": {
+    "uk": "the job really requires it",
+    "us": "the job really requires it",
+    "ex": "You can only specify a woman for the role if [[the job really requires it]], and that's very rare."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a genuine and determining occupational requirement",
+   "to rely on an exception",
+   "a BFOQ",
+   "narrowly construed"
+  ],
+  "note_fr": "Exception d'interprétation très stricte dans les trois systèmes : les préférences des clients ne suffisent jamais. Aux États-Unis, on dit couramment « a BFOQ » (en épelant). « Bona fide » = authentique, de bonne foi.",
+  "french_concept": false,
+  "explain": null
+ }
+]

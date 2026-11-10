@@ -1,0 +1,1642 @@
+{
+ "reading": [
+  {
+   "id": "rd-rc-1",
+   "title": "Recruitment and Selection Policy: fair selection",
+   "kind": "policy extract",
+   "level": 2,
+   "paragraphs": [
+    "3. SELECTION",
+    "3.1 The Company is committed to appointing the best person for each role, on merit alone. Every selection decision must be based on the essential and desirable criteria set out in the person specification, and on nothing else.",
+    "3.2 Shortlisting shall be carried out by at least two people, one of whom must be the hiring manager. Each of them shall score the applications independently against the published criteria before comparing notes.",
+    "3.3 Interviews shall be structured. All candidates for the same role shall be asked the same core questions, although interviewers may probe further in the light of the answers given. Questions must relate directly to the requirements of the role. Interviewers shall refrain from asking about a candidate's age, family circumstances, health, origins, religious beliefs or trade union membership.",
+    "3.4 Where a candidate has made the Company aware of a disability, the interview arrangements shall be adapted as far as is reasonably practicable.",
+    "3.5 Candidates must be told in advance of any test or assessment method that will be used. Such methods must be relevant to the role, and the results shall remain confidential.",
+    "3.6 References shall be taken up only after a conditional offer has been made, and only with the candidate's knowledge.",
+    "3.7 Interview notes and scoring matrices shall be returned to Human Resources within two working days of the final interview. They shall be retained for the period set out in the Company's data retention schedule, so that the Company is able to give feedback on request and, if need be, to account for its decision.",
+    "3.8 Unsuccessful candidates shall be informed promptly and courteously. No candidate should learn the outcome from a third party."
+   ],
+   "glossary": [
+    {
+     "term": "on merit alone",
+     "plain": "only because of the person's ability and achievements, not for any other reason",
+     "fr": "sur le seul critère du mérite"
+    },
+    {
+     "term": "person specification",
+     "plain": "the document listing the skills, experience and qualifications the ideal candidate should have",
+     "fr": "profil recherché"
+    },
+    {
+     "term": "Shortlisting",
+     "plain": "choosing the few applicants who will go on to the next stage",
+     "fr": "présélection"
+    },
+    {
+     "term": "hiring manager",
+     "plain": "the manager who has the vacancy in his or her team",
+     "fr": "manager recruteur"
+    },
+    {
+     "term": "probe further",
+     "plain": "ask follow-up questions to get more detail",
+     "fr": "creuser, relancer"
+    },
+    {
+     "term": "taken up",
+     "plain": "requested and obtained (said of references)",
+     "fr": "demandées (références)"
+    },
+    {
+     "term": "scoring matrices",
+     "plain": "tables in which each candidate is given a mark against each criterion",
+     "fr": "grilles d'évaluation"
+    },
+    {
+     "term": "Unsuccessful candidates",
+     "plain": "the people who were not chosen for the job",
+     "fr": "candidats non retenus"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "shall refrain from asking",
+     "plain": "must not ask"
+    },
+    {
+     "phrase": "as far as is reasonably practicable",
+     "plain": "to the extent that it can sensibly be done"
+    },
+    {
+     "phrase": "in the light of",
+     "plain": "taking into account"
+    },
+    {
+     "phrase": "to account for its decision",
+     "plain": "to explain and justify what it decided"
+    }
+   ],
+   "questions": [
+    {
+     "q": "On what basis must selection decisions be made?",
+     "options": [
+      "The hiring manager's overall impression",
+      "The criteria in the person specification",
+      "The candidate's salary expectations",
+      "The opinion of the candidate's referees"
+     ],
+     "answer": 1,
+     "explain_fr": "Le point 3.1 est sans ambiguïté : les critères « essential and desirable » du profil recherché, « and on nothing else »."
+    },
+    {
+     "q": "What does the policy say about interview questions?",
+     "options": [
+      "Every candidate must be asked exactly the same questions and nothing more",
+      "Interviewers are free to ask whatever they think useful",
+      "The core questions are the same, but follow-up questions are allowed",
+      "Questions must be sent to candidates in advance"
+     ],
+     "answer": 2,
+     "explain_fr": "« The same core questions, although interviewers may probe further » : tronc commun identique, relances libres selon les réponses."
+    },
+    {
+     "q": "When may the Company contact a candidate's referees?",
+     "options": [
+      "After a conditional offer, and with the candidate's knowledge",
+      "As soon as the candidate is shortlisted",
+      "Before the first interview, to save time",
+      "Only once the candidate has started work"
+     ],
+     "answer": 0,
+     "explain_fr": "Point 3.6 : « only after a conditional offer has been made, and only with the candidate's knowledge ». « To take up references » = demander les références."
+    },
+    {
+     "q": "Why must interview notes be kept?",
+     "options": [
+      "To build a talent pool",
+      "To assess the interviewers' performance",
+      "To send them to the candidate's current employer",
+      "To give feedback and justify the decision if challenged"
+     ],
+     "answer": 3,
+     "explain_fr": "Point 3.7 : pour pouvoir « give feedback on request » et « account for its decision », c'est-à-dire justifier la décision en cas de contestation."
+    }
+   ]
+  },
+  {
+   "id": "rd-rc-2",
+   "title": "Invitation to an assessment day",
+   "kind": "letter",
+   "level": 1,
+   "paragraphs": [
+    "Dear Mr Okafor,",
+    "Graduate HR Programme - invitation to assessment day",
+    "Thank you for your application and for the time you gave us on the telephone last week. I am delighted to tell you that you have been shortlisted, and we would like to invite you to an assessment day at our Leeds office on Thursday 12 June.",
+    "The day will start at 9.15 a.m. and should finish by 4 p.m. It will consist of a group exercise, a short written case study and a competency-based interview with two members of our HR leadership team. You will not need to prepare a presentation, but you may find it helpful to think of examples from your studies, internships or other activities that show how you work with other people.",
+    "Please bring your passport or another document proving your right to work in the United Kingdom. We are happy to reimburse reasonable travel expenses against receipts. Lunch will be provided, so do let us know if you have any dietary requirements.",
+    "If you have a disability or a health condition and would like us to make adjustments to any part of the day, please tell us as soon as you can; anything you share will be treated in confidence and will play no part in our decision.",
+    "I would be grateful if you could confirm your attendance by replying to this email by Friday 6 June. Should the date be impossible for you, please ring me on the number below and we will do our best to find an alternative.",
+    "We aim to let all candidates know the outcome within five working days.",
+    "We look forward to meeting you.",
+    "Yours sincerely,",
+    "Hannah Whitfield\nTalent Acquisition Partner"
+   ],
+   "glossary": [
+    {
+     "term": "shortlisted",
+     "plain": "chosen from all the applicants to go on to the next stage",
+     "fr": "présélectionné"
+    },
+    {
+     "term": "assessment day",
+     "plain": "a day of tests, exercises and interviews used to select candidates",
+     "fr": "journée d'évaluation"
+    },
+    {
+     "term": "competency-based interview",
+     "plain": "an interview in which you describe real past situations to show your skills",
+     "fr": "entretien comportemental"
+    },
+    {
+     "term": "against receipts",
+     "plain": "if you provide proof of what you paid",
+     "fr": "sur justificatifs"
+    },
+    {
+     "term": "dietary requirements",
+     "plain": "foods you cannot or do not eat",
+     "fr": "régime alimentaire particulier"
+    },
+    {
+     "term": "adjustments",
+     "plain": "changes made so that a disabled person is not at a disadvantage",
+     "fr": "aménagements"
+    },
+    {
+     "term": "confirm your attendance",
+     "plain": "tell us that you will come",
+     "fr": "confirmer votre présence"
+    },
+    {
+     "term": "the outcome",
+     "plain": "the result; the decision",
+     "fr": "le résultat, la décision"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "will be treated in confidence",
+     "plain": "will be kept private"
+    },
+    {
+     "phrase": "Should the date be impossible for you",
+     "plain": "if you cannot come on that date"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What will Mr Okafor NOT have to do on the day?",
+     "options": [
+      "Take part in a group exercise",
+      "Write a case study",
+      "Give a prepared presentation",
+      "Attend an interview"
+     ],
+     "answer": 2,
+     "explain_fr": "« You will not need to prepare a presentation » ; les trois autres épreuves sont annoncées dans le deuxième paragraphe."
+    },
+    {
+     "q": "Why should he bring his passport?",
+     "options": [
+      "To prove he is entitled to work in the UK",
+      "To get into the building",
+      "To claim his travel expenses",
+      "To prove his age"
+     ],
+     "answer": 0,
+     "explain_fr": "« A document proving your right to work in the United Kingdom » : l'employeur britannique doit vérifier le droit de travailler avant l'embauche."
+    },
+    {
+     "q": "What does the company say about disability?",
+     "options": [
+      "Disabled candidates will be interviewed on another day",
+      "It must be declared before the assessment day",
+      "It will be taken into account in the final decision",
+      "It can adapt the day, and the information will not affect the decision"
+     ],
+     "answer": 3,
+     "explain_fr": "La société propose des « adjustments » et précise que l'information « will play no part in our decision »."
+    },
+    {
+     "q": "How should he reply?",
+     "options": [
+      "By ringing Hannah Whitfield in every case",
+      "By email, before 6 June",
+      "By post, within five working days",
+      "He does not need to reply"
+     ],
+     "answer": 1,
+     "explain_fr": "« Confirm your attendance by replying to this email by Friday 6 June » ; le téléphone n'est prévu que si la date est impossible."
+    }
+   ]
+  },
+  {
+   "id": "rd-rc-3",
+   "title": "Hiring your first employee in France: what to do before day one",
+   "kind": "client memo",
+   "level": 3,
+   "paragraphs": [
+    "To: Sarah Lindqvist, COO, Northlight Analytics Ltd\nFrom: Claire Morel\nRe: Your first hire in Lyon - formalities before the start date",
+    "You asked me to set out what has to be in place before your new Sales Manager starts on 1 September. In France, taking someone on is not simply a matter of signing a contract: several formalities fall to the employer, and the first of them must be completed before the employee does any work at all.",
+    "1. Pre-hiring declaration. You must file a declaration (the 'DPAE') with URSSAF, the body that collects social security contributions, shortly before the start date. It is done online and takes a few minutes. Failing to file it exposes the company to penalties for undeclared work, so please do not let anyone start, even for a handover day, until we have confirmation that it has gone through.",
+    "2. Staff register. Every establishment must keep a register listing its employees in order of hiring. The new recruit's details have to be entered on the day he joins.",
+    "3. Occupational health. You will need to sign up with an occupational health service, which will arrange an information and prevention appointment for him after he starts. This is not a pre-employment medical, and the offer cannot be made conditional on it.",
+    "4. Right to work. Your candidate is a Canadian national. Before he starts, we must check that his residence permit allows him to take up salaried employment and have its authenticity verified by the préfecture. I would allow some time for this, as it cannot be done at the last minute.",
+    "None of this is difficult, but the sequence matters. I suggest we deal with points 1 and 4 first; I can handle the filings on your behalf once you have given me a mandate to do so.",
+    "Do call me if anything is unclear."
+   ],
+   "glossary": [
+    {
+     "term": "taking someone on",
+     "plain": "hiring someone",
+     "fr": "embaucher quelqu'un"
+    },
+    {
+     "term": "fall to the employer",
+     "plain": "are the employer's responsibility",
+     "fr": "incombent à l'employeur"
+    },
+    {
+     "term": "Pre-hiring declaration",
+     "plain": "the declaration a French employer files with the social security authorities before a new employee starts",
+     "fr": "déclaration préalable à l'embauche (DPAE)"
+    },
+    {
+     "term": "undeclared work",
+     "plain": "work that has been hidden from the authorities",
+     "fr": "travail dissimulé"
+    },
+    {
+     "term": "Staff register",
+     "plain": "the official list of everyone employed at a site, in order of hiring",
+     "fr": "registre unique du personnel"
+    },
+    {
+     "term": "pre-employment medical",
+     "plain": "a medical examination a candidate must pass before being hired",
+     "fr": "visite médicale d'embauche"
+    },
+    {
+     "term": "residence permit",
+     "plain": "the official document allowing a foreign national to live in a country",
+     "fr": "titre de séjour"
+    },
+    {
+     "term": "on your behalf",
+     "plain": "for you; in your name",
+     "fr": "pour votre compte"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "set out",
+     "plain": "explain in an organised way"
+    },
+    {
+     "phrase": "exposes the company to penalties",
+     "plain": "means the company could be fined or prosecuted"
+    },
+    {
+     "phrase": "cannot be made conditional on it",
+     "plain": "must not depend on it"
+    },
+    {
+     "phrase": "given me a mandate to do so",
+     "plain": "formally authorised me to do it"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which formality must be completed before the employee does any work?",
+     "options": [
+      "The occupational health appointment",
+      "The pre-hiring declaration",
+      "The first payslip",
+      "The induction day"
+     ],
+     "answer": 1,
+     "explain_fr": "La DPAE doit être déposée avant toute prise de poste : « do not let anyone start, even for a handover day »."
+    },
+    {
+     "q": "What does the memo say about the occupational health appointment?",
+     "options": [
+      "It takes place after the employee has started",
+      "It must be passed before the contract is signed",
+      "It is optional for sales staff",
+      "It is arranged by URSSAF"
+     ],
+     "answer": 0,
+     "explain_fr": "Le rendez-vous est organisé « after he starts » par le service de santé au travail ; ce n'est pas une visite d'aptitude préalable."
+    },
+    {
+     "q": "Why is extra time needed for this particular recruit?",
+     "options": [
+      "He has to work out his notice period",
+      "His qualifications must be translated",
+      "The staff register is not ready",
+      "His permit must be checked with the authorities because he is not an EU national"
+     ],
+     "answer": 3,
+     "explain_fr": "Le candidat est canadien : il faut vérifier que son titre autorise le travail salarié et en faire contrôler l'authenticité par la préfecture."
+    },
+    {
+     "q": "What does Claire offer to do?",
+     "options": [
+      "Postpone the start date",
+      "Interview the candidate again",
+      "Carry out the filings herself once authorised",
+      "Negotiate the penalties with URSSAF"
+     ],
+     "answer": 2,
+     "explain_fr": "« I can handle the filings on your behalf once you have given me a mandate » : elle propose d'effectuer les déclarations pour le compte du client."
+    }
+   ]
+  },
+  {
+   "id": "rd-rc-4",
+   "title": "Recruitment agency terms of business: fees and rebate",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "6. FEES",
+    "6.1 In consideration of the Services, the Client shall pay the Agency a fee equal to [twenty] per cent of the Candidate's gross annual basic salary for the first year of the Engagement (the 'Fee').",
+    "6.2 The Fee shall become due upon the Candidate's acceptance of an offer of employment from the Client and shall be payable within [thirty] days of the date of the Agency's invoice.",
+    "6.3 The Fee shall be payable in respect of any Candidate introduced by the Agency who is engaged by the Client, or by any company in the Client's group, within [twelve] months of the Introduction, whether or not the Agency was involved in the final stages of the selection process.",
+    "6.4 For the avoidance of doubt, no fee shall be payable where no Engagement takes place.",
+    "7. REBATE",
+    "7.1 Should the Engagement terminate for any reason other than redundancy within [twelve] weeks of the start date, the Agency shall, at the Client's option, either seek a replacement Candidate at no additional charge or refund the Fee on the sliding scale set out in Schedule 2.",
+    "7.2 The Client shall not be entitled to a rebate unless it has paid the Fee in full by the due date and has notified the Agency in writing within [seven] days of the termination.",
+    "8. NON-SOLICITATION",
+    "8.1 The Agency undertakes not to approach, directly or indirectly, any Candidate placed with the Client under this Agreement with a view to offering him or her alternative employment, for a period of [twelve] months from the start date.",
+    "9. CANDIDATE INFORMATION",
+    "9.1 The Agency shall use reasonable endeavours to verify the accuracy of the information supplied by a Candidate. The Client nevertheless remains responsible for taking up references and for satisfying itself that the Candidate is suitable and is entitled to work in the relevant country."
+   ],
+   "glossary": [
+    {
+     "term": "gross annual basic salary",
+     "plain": "the fixed yearly pay before tax and deductions, not counting bonuses",
+     "fr": "salaire annuel brut de base"
+    },
+    {
+     "term": "Engagement",
+     "plain": "the hiring of the candidate by the client",
+     "fr": "embauche, engagement"
+    },
+    {
+     "term": "Introduction",
+     "plain": "the moment when the agency presents a candidate to the client",
+     "fr": "présentation (d'un candidat)"
+    },
+    {
+     "term": "REBATE",
+     "plain": "a partial refund of money already paid",
+     "fr": "remboursement partiel, ristourne"
+    },
+    {
+     "term": "sliding scale",
+     "plain": "a rate that goes down (or up) step by step as circumstances change",
+     "fr": "barème dégressif"
+    },
+    {
+     "term": "placed with the Client",
+     "plain": "hired by the client through the agency",
+     "fr": "placé chez le client"
+    },
+    {
+     "term": "taking up references",
+     "plain": "contacting the people named by the candidate to confirm his or her background",
+     "fr": "prise de références"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "In consideration of",
+     "plain": "in return for"
+    },
+    {
+     "phrase": "For the avoidance of doubt",
+     "plain": "to make this completely clear"
+    },
+    {
+     "phrase": "at the Client's option",
+     "plain": "whichever the client chooses"
+    },
+    {
+     "phrase": "shall use reasonable endeavours to",
+     "plain": "must make a sensible, genuine effort to"
+    },
+    {
+     "phrase": "with a view to",
+     "plain": "with the aim of"
+    }
+   ],
+   "questions": [
+    {
+     "q": "When does the fee become due?",
+     "options": [
+      "When the agency sends the shortlist",
+      "On the candidate's first day of work",
+      "When the candidate accepts the client's offer",
+      "At the end of the probationary period"
+     ],
+     "answer": 2,
+     "explain_fr": "Clause 6.2 : « upon the Candidate's acceptance of an offer of employment ». « Due » = exigible ; « payable within thirty days » = délai de paiement."
+    },
+    {
+     "q": "The client hires a candidate eight months after the agency introduced him, without telling the agency. Is the fee payable?",
+     "options": [
+      "No, because the agency did not take part in the final interviews",
+      "No, because more than six months have passed",
+      "Only half of it",
+      "Yes, because the hire took place within twelve months of the introduction"
+     ],
+     "answer": 3,
+     "explain_fr": "Clause 6.3 : les honoraires sont dus pour tout candidat présenté et embauché dans les douze mois, « whether or not the Agency was involved in the final stages »."
+    },
+    {
+     "q": "What happens if the recruit resigns after six weeks?",
+     "options": [
+      "The client may choose between a free replacement and a partial refund",
+      "The agency keeps the whole fee in every case",
+      "The agency must refund the whole fee automatically",
+      "The client must pay a second fee for a replacement"
+     ],
+     "answer": 0,
+     "explain_fr": "Clause 7.1 : « at the Client's option », remplacement sans frais ou remboursement selon un barème dégressif (« sliding scale »), sous réserve des conditions de la clause 7.2."
+    },
+    {
+     "q": "Who is responsible for checking the candidate's right to work?",
+     "options": [
+      "The agency alone",
+      "The client",
+      "The candidate's previous employer",
+      "Nobody, once the candidate has been placed"
+     ],
+     "answer": 1,
+     "explain_fr": "Clause 9.1 : l'agence fait des efforts raisonnables de vérification, mais le client « remains responsible » pour les références et le droit de travailler."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-rc-1",
+   "title": "Inviting a candidate to interview",
+   "stage": 1,
+   "kind": "email",
+   "brief": "You are recruiting an HR Adviser for a client. Write to a shortlisted candidate, Ms Daniels, inviting her to a first interview: date and place, who she will meet, how long it will last, what to bring, and how to confirm.",
+   "brief_fr": "Vous recrutez un(e) HR Adviser pour un client. Écrivez à une candidate présélectionnée, Mme Daniels, pour l'inviter à un premier entretien : date et lieu, interlocuteurs, durée, documents à apporter et modalités de confirmation.",
+   "gaps": [
+    {
+     "text": "Thank you for ___ for the position of HR Adviser.",
+     "answer": "applying",
+     "accept": [],
+     "explain_fr": "« To apply for a position » : après « thank you for », le verbe prend -ing. Ni « postulating » ni « candidating »."
+    },
+    {
+     "text": "We were impressed by your application and would like to ___ you to an interview.",
+     "answer": "invite",
+     "accept": [],
+     "explain_fr": "En anglais, on « invite » un candidat ; « convoke » et « summon » sont à proscrire."
+    },
+    {
+     "text": "The interview will ___ place at our offices on Tuesday 3 June at 10 a.m.",
+     "answer": "take",
+     "accept": [],
+     "explain_fr": "« To take place » = avoir lieu. « To have place » est un calque."
+    },
+    {
+     "text": "You will meet Mark Ellis, the ___ manager, and myself, and the conversation should last about an hour.",
+     "answer": "hiring",
+     "accept": [
+      "recruiting"
+     ],
+     "explain_fr": "« The hiring manager » = le responsable opérationnel qui recrute pour son équipe."
+    },
+    {
+     "text": "Please ___ proof of your right to work in the UK with you.",
+     "answer": "bring",
+     "accept": [],
+     "explain_fr": "« To bring » (apporter vers le lieu où se trouve le destinataire), et non « to take » ni « to carry »."
+    },
+    {
+     "text": "I would be grateful if you could confirm your ___ by Friday.",
+     "answer": "attendance",
+     "accept": [
+      "availability"
+     ],
+     "explain_fr": "« To confirm one's attendance » = confirmer sa présence. « Presence » ne s'emploie pas dans ce contexte."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Interview - HR Adviser\n\nDear Ms Daniels,\n\nThank you for applying for the position of HR Adviser. We were impressed by your application and would like to invite you to an interview.\n\nThe interview will take place at our offices on Tuesday 3 June at 10 a.m. You will meet Mark Ellis, the hiring manager, and myself, and the conversation should last about an hour.\n\nPlease bring proof of your right to work in the UK with you. I would be grateful if you could confirm your attendance by Friday. If the time doesn't suit you, do let me know and I will try to find an alternative.\n\nWe look forward to meeting you.\n\nKind regards,\nClaire Morel",
+   "model_us": "Subject: Interview - HR Advisor\n\nDear Ms. Daniels,\n\nThank you for applying for the position of HR Advisor. We were impressed by your application and would like to invite you to an interview.\n\nThe interview will take place at our offices on Tuesday, June 3, at 10 a.m. You will meet with Mark Ellis, the hiring manager, and me, and the conversation should last about an hour.\n\nPlease bring documents showing that you are authorized to work in the United States. I would appreciate it if you could confirm that you can attend by Friday. If the time doesn't work for you, just let me know and I will try to find an alternative.\n\nWe look forward to meeting you.\n\nBest regards,\nClaire Morel",
+   "commentary": [
+    {
+     "quote": "We were impressed by your application",
+     "note_fr": "Un compliment sobre en ouverture donne le ton : le candidat est aussi quelqu'un à convaincre."
+    },
+    {
+     "quote": "the conversation should last about an hour",
+     "note_fr": "« Should » exprime ici une prévision raisonnable, sans engagement ferme. « Conversation » est plus engageant que « interview » répété."
+    },
+    {
+     "quote": "If the time doesn't suit you, do let me know",
+     "note_fr": "« To suit someone » = convenir à quelqu'un (UK) ; un Américain dira « doesn't work for you ». Le « do » d'insistance rend l'invitation chaleureuse."
+    },
+    {
+     "quote": "We look forward to meeting you.",
+     "note_fr": "« To » est une préposition : verbe en -ing obligatoire. Formule de clôture standard avant un rendez-vous."
+    },
+    {
+     "quote": "Kind regards,",
+     "note_fr": "Formule de politesse courante dans un e-mail professionnel britannique ; « Yours sincerely » serait réservé à une lettre."
+    }
+   ],
+   "checklist": [
+    "Have I named the position in the first sentence?",
+    "Are the date, time, place and length of the interview all stated?",
+    "Does the candidate know whom she will meet and what to bring?",
+    "Have I said how and by when to confirm?",
+    "Is the tone warm without being familiar?"
+   ],
+   "phrasebank": [
+    "Thank you for applying for the position of...",
+    "We would like to invite you to an interview.",
+    "The interview will take place at... on... at...",
+    "You will meet..., the hiring manager.",
+    "I would be grateful if you could confirm your attendance by...",
+    "If the time doesn't suit you, do let me know.",
+    "We look forward to meeting you."
+   ]
+  },
+  {
+   "id": "wr-rc-2",
+   "title": "Turning down a candidate after interview",
+   "stage": 1,
+   "kind": "email",
+   "brief": "After final interviews for a Payroll Manager position, write to Mr Hughes, who came second. Thank him, tell him he has not been selected, give one piece of honest feedback, and ask whether you may keep his details for future vacancies.",
+   "brief_fr": "À l'issue des entretiens finaux pour un poste de Payroll Manager, écrivez à M. Hughes, arrivé deuxième. Remerciez-le, annoncez-lui qu'il n'est pas retenu, donnez-lui un élément de retour sincère et demandez-lui si vous pouvez conserver son dossier pour de futurs postes.",
+   "gaps": [
+    {
+     "text": "Thank you for taking the time to ___ us last week.",
+     "answer": "meet",
+     "accept": [
+      "meet with",
+      "come and meet"
+     ],
+     "explain_fr": "« To meet someone » est transitif direct en anglais britannique ; « to meet with » est plutôt américain."
+    },
+    {
+     "text": "I am ___ to say that we will not be taking your application any further on this occasion.",
+     "answer": "sorry",
+     "accept": [
+      "afraid"
+     ],
+     "explain_fr": "« I am sorry to say that » ou « I am afraid that » adoucit l'annonce. Notez « on this occasion », qui laisse la porte ouverte."
+    },
+    {
+     "text": "The panel was impressed by your technical knowledge; ___, another candidate had more experience of managing a team, which is central to this role.",
+     "answer": "however",
+     "accept": [
+      "unfortunately"
+     ],
+     "explain_fr": "« However », après un point-virgule et suivi d'une virgule, introduit la restriction. « But » ne peut pas occuper cette place."
+    },
+    {
+     "text": "We would be happy to keep your details on ___ for future vacancies.",
+     "answer": "file",
+     "accept": [
+      "record"
+     ],
+     "explain_fr": "« To keep something on file » = conserver au dossier. C'est la formule consacrée pour un vivier de candidats."
+    },
+    {
+     "text": "With your ___, we would contact you should a suitable role arise; just let me know whether you are comfortable with that.",
+     "answer": "consent",
+     "accept": [
+      "permission",
+      "agreement"
+     ],
+     "explain_fr": "Conserver un CV suppose l'accord du candidat : « with your consent ». « Accord » existe en anglais, mais pas dans ce sens."
+    },
+    {
+     "text": "I wish you every ___ in your search.",
+     "answer": "success",
+     "accept": [],
+     "explain_fr": "« I wish you every success » : formule de clôture élégante. « Good luck » serait trop familier, « all the success » incorrect."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Payroll Manager - outcome of your interview\n\nDear Mr Hughes,\n\nThank you for taking the time to meet us last week. It was a pleasure to talk to you.\n\nI am sorry to say that we will not be taking your application any further on this occasion. The panel was impressed by your technical knowledge; however, another candidate had more experience of managing a team, which is central to this role. It was a close decision.\n\nWe would be happy to keep your details on file for future vacancies. With your consent, we would contact you should a suitable role arise; just let me know whether you are comfortable with that.\n\nI wish you every success in your search.\n\nKind regards,\nClaire Morel",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "we will not be taking your application any further on this occasion",
+     "note_fr": "La formule évite « rejected » et « refused ». Le futur progressif (« will not be taking ») présente la décision comme un fait, sans brutalité."
+    },
+    {
+     "quote": "which is central to this role",
+     "note_fr": "Le retour porte sur un critère du poste, non sur la personne : c'est ce qui le rend à la fois utile et inattaquable."
+    },
+    {
+     "quote": "It was a close decision.",
+     "note_fr": "Phrase courte, sincère, qui valorise le candidat sans rien promettre. À n'écrire que si c'est vrai."
+    },
+    {
+     "quote": "should a suitable role arise",
+     "note_fr": "Inversion soutenue pour « if a suitable role arises ». « To arise » se dit d'un poste, d'une occasion, d'un problème."
+    },
+    {
+     "quote": "just let me know whether you are comfortable with that",
+     "note_fr": "On demande un accord explicite pour la conservation des données ; « comfortable with » est la tournure naturelle pour « d'accord avec »."
+    }
+   ],
+   "checklist": [
+    "Have I thanked the candidate before giving the news?",
+    "Is the decision stated clearly, in the second paragraph at the latest?",
+    "Is my feedback linked to a requirement of the role rather than to the person?",
+    "Have I avoided any comment that could suggest a discriminatory reason?",
+    "Have I asked for consent before keeping his details?"
+   ],
+   "phrasebank": [
+    "Thank you for taking the time to meet us.",
+    "I am sorry to say that we will not be taking your application any further.",
+    "On this occasion, another candidate more closely matched the requirements of the role.",
+    "It was a close decision.",
+    "We would be happy to keep your details on file.",
+    "Should a suitable role arise, we would be in touch.",
+    "I wish you every success in your search."
+   ]
+  },
+  {
+   "id": "wr-rc-3",
+   "title": "Explaining French internships to a British client",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "A British client wants to take on 'a couple of unpaid interns' in its Paris office to cover for an employee on maternity leave. Write one paragraph of a client note explaining why this is not possible as described and what the rules are.",
+   "brief_fr": "Un client britannique souhaite prendre « deux ou trois stagiaires non rémunérés » dans son bureau parisien pour remplacer une salariée en congé de maternité. Rédigez un paragraphe de note au client expliquant pourquoi ce n'est pas possible en l'état et quelles sont les règles.",
+   "gaps": [],
+   "outline": [
+    "An internship in France requires a three-party agreement with the student's school",
+    "The intern is not an employee and must have a learning purpose",
+    "An intern cannot replace an absent employee or fill a permanent job",
+    "Beyond a minimum length, a monthly allowance is compulsory",
+    "The risk, and the alternative: a fixed-term contract"
+   ],
+   "model": "Internships are tightly regulated in France, and I am afraid the arrangement you have in mind would not be lawful as it stands. An intern can only be taken on under a three-party agreement signed by the student, his or her school or university and the host company; without an educational institution, there is no internship. The intern is not an employee: the placement must serve a learning purpose linked to the course, and a supervisor has to be appointed within the team. It follows that an intern may not be used to cover for an absent employee or to fill a permanent position, which rules out your maternity cover. Nor can the internship be unpaid if it lasts beyond the minimum period laid down by law, since a monthly allowance then becomes compulsory. The risk is real: a court could treat the relationship as an employment contract, with back pay and social security contributions to match. For the maternity leave, a fixed-term contract is the appropriate tool, and I would be glad to prepare one. If you would also like to welcome a student, we can set up a genuine internship alongside it.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I am afraid the arrangement you have in mind would not be lawful as it stands",
+     "note_fr": "Refus poli et précis : « I am afraid » adoucit, « as it stands » (en l'état) laisse entendre qu'une solution existe."
+    },
+    {
+     "quote": "without an educational institution, there is no internship",
+     "note_fr": "Une phrase brève et symétrique fixe la règle dans l'esprit du lecteur mieux qu'une longue explication."
+    },
+    {
+     "quote": "which rules out your maternity cover",
+     "note_fr": "« To rule out » = exclure. La relative ramène la règle générale au cas concret du client."
+    },
+    {
+     "quote": "Nor can the internship be unpaid",
+     "note_fr": "« Nor » en tête de phrase entraîne l'inversion auxiliaire-sujet : tournure soignée pour ajouter une seconde interdiction."
+    },
+    {
+     "quote": "with back pay and social security contributions to match",
+     "note_fr": "« Back pay » = rappel de salaire ; « to match » = à l'avenant. Le risque est chiffré en nature, sans montant inventé."
+    },
+    {
+     "quote": "I would be glad to prepare one",
+     "note_fr": "Après le refus, une proposition : la note se termine sur ce que le consultant peut faire, pas sur l'interdit."
+    }
+   ],
+   "checklist": [
+    "Have I said clearly, and politely, that the plan does not work as described?",
+    "Is the three-party agreement explained in plain words?",
+    "Have I linked each rule to the client's actual plan?",
+    "Is the risk stated without inventing figures?",
+    "Does the paragraph end with a practical alternative?"
+   ],
+   "phrasebank": [
+    "I am afraid the arrangement you have in mind would not be lawful as it stands.",
+    "An intern can only be taken on under...",
+    "It follows that...",
+    "..., which rules out...",
+    "Nor can...",
+    "The risk is real: a court could treat the relationship as...",
+    "... is the appropriate tool, and I would be glad to prepare one."
+   ]
+  },
+  {
+   "id": "wr-rc-4",
+   "title": "Minutes of a selection panel meeting",
+   "stage": 2,
+   "kind": "meeting minutes",
+   "brief": "You took the notes at the panel's meeting after final interviews for a Finance Business Partner. Write the 'Decision' section of the minutes: three candidates (A, B and C), the panel's assessment, the decision, the reserve candidate and the next steps.",
+   "brief_fr": "Vous avez pris les notes de la réunion du jury à l'issue des entretiens finaux pour un poste de Finance Business Partner. Rédigez la section « Décision » du compte rendu : trois candidats (A, B et C), l'appréciation du jury, la décision, le candidat de réserve et les prochaines étapes.",
+   "gaps": [],
+   "outline": [
+    "How the candidates were assessed (scores against the criteria)",
+    "Candidate A: strongest overall, one reservation",
+    "Candidate B: close second, kept in reserve",
+    "Candidate C: did not meet one essential criterion",
+    "Decision and next steps, with owners and dates"
+   ],
+   "model": "4. Decision\n\nThe panel compared the scores awarded independently by its three members against the six criteria in the person specification. Candidate A obtained the highest overall score and was particularly strong on stakeholder management and commercial awareness. One reservation was noted: she has not yet worked in a listed company. The panel took the view that this could be addressed during induction. Candidate B was a close second, with excellent technical skills but less evidence of influencing senior managers. Candidate C, although an engaging interviewee, did not meet the essential criterion relating to a professional accounting qualification.\n\nIt was agreed unanimously to offer the position to Candidate A, subject to satisfactory references, and to hold Candidate B in reserve until the offer has been accepted. No candidate is to be turned down before then.\n\nActions: JP to telephone Candidate A with a verbal offer by 14 May. CM to take up references once the offer has been accepted in principle. CM to give feedback to Candidate C by 16 May. All panel members to return their scoring matrices to HR by 13 May.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "The panel took the view that",
+     "note_fr": "Tournure impersonnelle typique des comptes rendus : on rapporte la position collective, pas les échanges."
+    },
+    {
+     "quote": "was a close second",
+     "note_fr": "« A close second » = deuxième de peu. Formule sobre, utile pour justifier la mise en réserve."
+    },
+    {
+     "quote": "did not meet the essential criterion relating to",
+     "note_fr": "Le motif d'écartement est rattaché à un critère publié : c'est ce qui rend la décision défendable."
+    },
+    {
+     "quote": "It was agreed unanimously to offer the position to Candidate A, subject to satisfactory references",
+     "note_fr": "Passif impersonnel (« It was agreed ») et réserve juridique (« subject to ») : le style même du procès-verbal."
+    },
+    {
+     "quote": "JP to telephone Candidate A",
+     "note_fr": "Dans les actions, on écrit « initiales + to + verbe » : l'infinitif exprime ce qui reste à faire, avec une échéance."
+    }
+   ],
+   "checklist": [
+    "Have I reported decisions and reasons rather than who said what?",
+    "Is each assessment tied to a criterion in the person specification?",
+    "Are the candidates anonymised consistently?",
+    "Is the decision recorded with its condition (references)?",
+    "Does every action have an owner and a date?"
+   ],
+   "phrasebank": [
+    "The panel compared the scores awarded against the criteria.",
+    "One reservation was noted: ...",
+    "The panel took the view that...",
+    "Candidate B was a close second.",
+    "It was agreed unanimously to..., subject to...",
+    "... to hold Candidate B in reserve until...",
+    "Actions: [initials] to... by [date]."
+   ]
+  },
+  {
+   "id": "wr-rc-5",
+   "title": "A recommendation report on the final candidates",
+   "stage": 3,
+   "kind": "report",
+   "brief": "You have run a search for a Head of HR for a British client's French subsidiary. Write the short report that goes with your shortlist of two finalists, Ms Laurent and Mr Bernard: summary of the search, a profile of each, your recommendation and the next steps.",
+   "brief_fr": "Vous avez mené la recherche d'un(e) Head of HR pour la filiale française d'un client britannique. Rédigez le bref rapport accompagnant votre présélection de deux finalistes, Mme Laurent et M. Bernard : bilan de la recherche, portrait de chacun, recommandation et prochaines étapes.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the report and summary of the search (numbers, stages)",
+    "Ms Laurent: strengths, one point to explore, availability",
+    "Mr Bernard: strengths, one point to explore, availability",
+    "Recommendation, with reasons tied to the brief",
+    "Proposed next steps and timetable"
+   ],
+   "model": "Head of HR, France - shortlist report\n\n1. Purpose\nThis report presents the two candidates we recommend for final interview and sets out our assessment of each against the brief agreed in March.\n\n2. The search\nWe approached forty-two people, most of whom were not actively looking, and received eighteen applications in response to the advertisement. Eleven candidates were interviewed by telephone and five in person. Two stand out.\n\n3. Ms Laurent\nMs Laurent has led the HR function of a 400-strong industrial site for six years. She has a strong track record in dealing with employee representatives and negotiated two company-level agreements last year. Her English is fluent. The point to explore at interview is her limited exposure to a matrix organisation. She is on three months' notice.\n\n4. Mr Bernard\nMr Bernard is currently HR Business Partner in a listed services group and is used to reporting to a head office abroad. He is an excellent communicator and would get up to speed quickly on your systems. He has, however, less first-hand experience of collective bargaining, which the brief treats as essential. He could start within six weeks.\n\n5. Recommendation\nBoth candidates meet the essential criteria. On balance, we would put Ms Laurent slightly ahead, given the negotiations planned for next year. Mr Bernard would nevertheless be a very credible choice, particularly if an early start is your priority.\n\n6. Next steps\nWe suggest that both candidates meet your Managing Director in Paris in the week of 16 June. With your agreement, we would then take up references on the preferred candidate before any offer is made.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "most of whom were not actively looking",
+     "note_fr": "Relative avec quantifieur (« most of whom ») : très utile, et impossible à calquer du français. « Not actively looking » = candidats passifs."
+    },
+    {
+     "quote": "Two stand out.",
+     "note_fr": "Une phrase de trois mots après une série de chiffres : le changement de rythme met la conclusion en valeur."
+    },
+    {
+     "quote": "The point to explore at interview is",
+     "note_fr": "Plutôt que « weakness », on nomme « a point to explore » : factuel, et tourné vers l'action du client."
+    },
+    {
+     "quote": "which the brief treats as essential",
+     "note_fr": "La réserve est rattachée au cahier des charges convenu avec le client, non à une impression."
+    },
+    {
+     "quote": "On balance, we would put Ms Laurent slightly ahead",
+     "note_fr": "« On balance » (tout bien pesé) et « slightly » : une recommandation nette, formulée avec la retenue britannique."
+    },
+    {
+     "quote": "With your agreement, we would then take up references",
+     "note_fr": "« To take up references » (UK). Le conditionnel et « with your agreement » laissent la décision au client."
+    }
+   ],
+   "checklist": [
+    "Does the opening say what the report is for?",
+    "Are the two profiles built in the same way, so that they can be compared?",
+    "Is every judgement linked to the brief or to evidence?",
+    "Is my recommendation clear but appropriately cautious?",
+    "Have I avoided any reference to age, family or other personal characteristics?",
+    "Do the next steps include dates?"
+   ],
+   "phrasebank": [
+    "This report presents... and sets out our assessment of each against the brief.",
+    "We approached... people, most of whom...",
+    "She has a strong track record in...",
+    "The point to explore at interview is...",
+    "Both candidates meet the essential criteria.",
+    "On balance, we would put... slightly ahead, given...",
+    "With your agreement, we would then..."
+   ]
+  },
+  {
+   "id": "wr-rc-6",
+   "title": "A welcome email before the first day",
+   "stage": 3,
+   "kind": "email",
+   "brief": "A new HR Coordinator, Tom Reilly, starts on Monday 1 September. Write the email he receives the week before: welcome, arrangements for the first morning, documents to bring, what the first week looks like, his buddy, and whom to contact.",
+   "brief_fr": "Un nouveau HR Coordinator, Tom Reilly, arrive le lundi 1er septembre. Rédigez l'e-mail qu'il reçoit la semaine précédente : mot de bienvenue, organisation de la première matinée, documents à apporter, déroulement de la première semaine, son parrain d'intégration et la personne à contacter.",
+   "gaps": [],
+   "outline": [
+    "Welcome and purpose of the email",
+    "First morning: time, place, who will meet him",
+    "Documents to bring",
+    "Outline of the first week (induction, meetings, equipment)",
+    "His buddy; contact before Monday; warm close"
+   ],
+   "model": "Subject: Your first day on Monday 1 September\n\nDear Tom,\n\nWe are all looking forward to welcoming you next week, and I wanted to let you know what to expect.\n\nPlease come to reception at 9.30 a.m. on Monday; there is no need to be earlier on your first day. I will meet you there and show you round before introducing you to the team.\n\nCould you bring your passport or identity card, your bank details and your social security number? We need them to finalise your registration, which has to be completed for every new starter.\n\nYour first week is deliberately light. Monday and Tuesday are set aside for your induction, including a health and safety briefing and a session on our HR systems. Your laptop and access rights will be ready when you arrive. From Wednesday you will sit in on a few meetings and spend time with each member of the team, so that you can get up to speed at your own pace.\n\nSophie Martin, who joined us two years ago, will be your buddy for the first three months. Do ask her anything, however small; she remembers what it is like to be new.\n\nIf you have any questions before Monday, just give me a ring on 01 23 45 67 89.\n\nSee you next week.\n\nBest wishes,\nClaire",
+   "model_us": "Subject: Your first day on Monday, September 1\n\nHi Tom,\n\nWe are all looking forward to welcoming you next week, and I wanted to let you know what to expect.\n\nPlease come to the front desk at 9:30 a.m. on Monday; there is no need to be earlier on your first day. I will meet you there and show you around before introducing you to the team.\n\nCould you bring your passport or ID card, your bank details, and your social security number? We need them to finalize your registration, which has to be completed for every new hire.\n\nYour first week is deliberately light. Monday and Tuesday are set aside for your orientation, including a health and safety briefing and a session on our HR systems. Your laptop and access rights will be ready when you arrive. Starting Wednesday, you will sit in on a few meetings and spend time with each member of the team, so that you can get up to speed at your own pace.\n\nSophie Martin, who joined us two years ago, will be your buddy for the first three months. Feel free to ask her anything, however small; she remembers what it is like to be new.\n\nIf you have any questions before Monday, just give me a call at 01 23 45 67 89.\n\nSee you next week.\n\nBest,\nClaire",
+   "commentary": [
+    {
+     "quote": "I wanted to let you know what to expect",
+     "note_fr": "Le prétérit « I wanted » est un adoucisseur courant, plus naturel que « I am writing to inform you » entre futurs collègues."
+    },
+    {
+     "quote": "show you round",
+     "note_fr": "« To show someone round » (UK) / « around » (US) = faire visiter les lieux. Verbe à particule typique de l'accueil."
+    },
+    {
+     "quote": "Your first week is deliberately light.",
+     "note_fr": "Phrase courte qui rassure. « Deliberately » montre que l'intégration est pensée, pas improvisée."
+    },
+    {
+     "quote": "are set aside for your induction",
+     "note_fr": "« To set aside » = réserver (du temps). « Induction » est britannique ; la version américaine dit « orientation »."
+    },
+    {
+     "quote": "Do ask her anything, however small",
+     "note_fr": "Le « do » d'insistance encourage sans familiarité excessive ; « however small » = si minime soit-elle."
+    },
+    {
+     "quote": "just give me a ring on",
+     "note_fr": "« To give someone a ring on » un numéro (UK) ; aux États-Unis : « give me a call at »."
+    }
+   ],
+   "checklist": [
+    "Does the email sound like a person, not a form?",
+    "Are the time and place of arrival unambiguous?",
+    "Is the list of documents complete and justified?",
+    "Does the new starter know what the first week holds?",
+    "Have I named a buddy and a contact?",
+    "Is the register friendly but still professional?"
+   ],
+   "phrasebank": [
+    "We are all looking forward to welcoming you next week.",
+    "I wanted to let you know what to expect.",
+    "Please come to reception at... on...",
+    "I will meet you there and show you round.",
+    "Monday and Tuesday are set aside for your induction.",
+    "... will be your buddy for the first three months.",
+    "If you have any questions before Monday, just give me a ring.",
+    "See you next week."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-rc-1",
+   "title": "Taking the brief from a hiring manager",
+   "variety": "uk",
+   "context": "Claire, an HR consultant, meets Oliver, Head of Operations at a logistics company in Birmingham, to take the brief for a new Site HR Manager.",
+   "context_fr": "Claire, consultante RH, rencontre Oliver, directeur des opérations d'une société de logistique à Birmingham, pour recueillir le besoin concernant un poste de Site HR Manager.",
+   "lines": [
+    {
+     "speaker": "Claire",
+     "text": "Thanks for making the time, Oliver. Before I draft anything, could you talk me through why the role has come up?",
+     "note_fr": "« To talk someone through something » = expliquer pas à pas. « To come up » se dit d'un poste qui se libère ou se crée."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Of course. It's a backfill, really. Sandra's moving to head office in September, and frankly I'd like someone in before she goes.",
+     "note_fr": "« A backfill » = un remplacement, par opposition à une création de poste. « Someone in » : sous-entendu « in post »."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's tight, but not impossible. Is there an up-to-date job description, or are we starting from scratch?",
+     "note_fr": "« That's tight » : litote britannique pour un délai très court. « From scratch » = de zéro."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "There's one from 2019. I wouldn't trust it. The job's changed a lot since we went to three shifts.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then let's rewrite it. What would you say are the two or three things this person absolutely must have?",
+     "note_fr": "Question clé pour distinguer les critères « essential » des « desirable »."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Someone who can hold their own with the union reps, for a start. And they need to be on the shop floor, not hiding in an office.",
+     "note_fr": "« To hold one's own » = tenir tête, ne pas se laisser impressionner. « The shop floor » = l'atelier, le terrain."
+    },
+    {
+     "speaker": "Claire",
+     "text": "So solid employee relations experience in an operational setting. Is a professional HR qualification essential, or just nice to have?",
+     "note_fr": "Claire reformule la demande familière en critère de sélection. « Nice to have » = souhaitable, non indispensable."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Nice to have. I'd rather have the right person than the right certificate.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Fair enough. And the salary - what have you got approval for?",
+     "note_fr": "« To have approval for » = disposer d'un budget validé."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Up to fifty-five, but I'd rather not put that in the advert.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'd gently push back on that. Adverts with a salary range tend to attract far more applicants, and it saves everyone's time.",
+     "note_fr": "« I'd gently push back on that » : désaccord courtois et assumé. « To push back » = exprimer une réserve."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Hmm. Go on, then - put a range in. When could I see a shortlist?",
+     "note_fr": "« Go on, then » : accord donné à contrecœur, typiquement britannique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "If we advertise this week and I approach a few people directly, I'd hope to have four or five candidates for you by mid-July.",
+     "note_fr": "« I'd hope to » : engagement prudent. « To approach someone directly » = approche directe."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is the company recruiting?",
+     "options": [
+      "The site is opening a third shift",
+      "The current HR manager is moving to another job in the company",
+      "The current HR manager has resigned",
+      "A new role has been created"
+     ],
+     "answer": 1,
+     "explain_fr": "« It's a backfill » : Sandra rejoint le siège en septembre, il s'agit donc d'un remplacement."
+    },
+    {
+     "q": "What does Oliver consider essential?",
+     "options": [
+      "A professional HR qualification",
+      "Experience of working at head office",
+      "The ability to deal firmly with union representatives",
+      "Fluency in French"
+     ],
+     "answer": 2,
+     "explain_fr": "« Someone who can hold their own with the union reps » ; le diplôme n'est que « nice to have »."
+    },
+    {
+     "q": "What does Claire persuade Oliver to do?",
+     "options": [
+      "Publish a salary range in the advert",
+      "Raise the salary to fifty-five thousand",
+      "Postpone Sandra's move",
+      "Use a headhunter"
+     ],
+     "answer": 0,
+     "explain_fr": "Elle « pushes back » sur le refus d'afficher le salaire, et Oliver cède : « put a range in »."
+    }
+   ]
+  },
+  {
+   "id": "dl-rc-2",
+   "title": "The wash-up after final interviews",
+   "variety": "uk",
+   "context": "After a morning of panel interviews for a Learning and Development Manager, Claire reviews the three candidates with Priya, the HR Director, and Daniel, the hiring manager.",
+   "context_fr": "Après une matinée d'entretiens devant jury pour un poste de Learning and Development Manager, Claire fait le point sur les trois candidats avec Priya, DRH, et Daniel, le manager recruteur.",
+   "lines": [
+    {
+     "speaker": "Priya",
+     "text": "Right, shall we do the wash-up while it's all fresh? Has everyone finished their score sheets?",
+     "note_fr": "« The wash-up » (UK, familier) = le débriefing à chaud. « Score sheet » = grille de notation individuelle."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Just about. I have to say, I really warmed to James. He'd fit in with the team straight away.",
+     "note_fr": "« To warm to someone » = éprouver de la sympathie pour quelqu'un. « Straight away » (UK) = tout de suite."
+    },
+    {
+     "speaker": "Claire",
+     "text": "He was very likeable, I agree. Can I ask what you scored him on programme design, though?",
+     "note_fr": "Claire ramène la discussion aux critères, sans contredire. « Though » en fin de phrase = cependant."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Ah. A two, to be honest. He was a bit vague when we pressed him.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Priya",
+     "text": "I had the same. Lots of 'we', not much 'I'. I couldn't work out what he'd actually done himself.",
+     "note_fr": "Remarque classique en entretien comportemental : le candidat se cache derrière le « nous ». « To work out » = parvenir à comprendre."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Whereas Amara gave us two very concrete examples, with numbers. I've got her top on four of the six criteria.",
+     "note_fr": "« Whereas » oppose deux éléments. « I've got her top on » = je la classe première sur."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "She was impressive, no question. I just wondered whether she might be a bit... serious for us?",
+     "note_fr": "« No question » = sans conteste. L'hésitation annonce un jugement subjectif."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'd be careful there. 'Serious' isn't on the person specification, and I wouldn't want to have to defend it if she asked for feedback.",
+     "note_fr": "« I'd be careful there » : mise en garde feutrée. On ne peut écarter un candidat sur un critère absent du profil."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Claire's right. On the evidence, it's Amara. Daniel, could you live with that?",
+     "note_fr": "« On the evidence » = au vu des éléments. « Could you live with that? » = cela vous irait-il ?"
+    },
+    {
+     "speaker": "Daniel",
+     "text": "I could. She's clearly the strongest. I suppose I was thinking about Friday drinks rather than the job.",
+     "note_fr": "Autodérision britannique : il reconnaît son biais avec humour."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Happens to all of us. And the third candidate?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Good, but short on budget experience. I'd keep James as our reserve and let the third one know once Amara has accepted.",
+     "note_fr": "« Short on » = un peu juste en. « Reserve » = candidat de réserve ; on attend l'acceptation avant d'envoyer les refus."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Agreed. I'll ring Amara this afternoon.",
+     "note_fr": "« To ring » (UK) = téléphoner à ; aux États-Unis : « to call »."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does Daniel first prefer James?",
+     "options": [
+      "He gave the best examples",
+      "He has the most budget experience",
+      "He scored highest on programme design",
+      "He found him likeable and a natural fit for the team"
+     ],
+     "answer": 3,
+     "explain_fr": "« I really warmed to James. He'd fit in with the team » : une préférence de sympathie, non fondée sur les critères."
+    },
+    {
+     "q": "What was the problem with James's answers?",
+     "options": [
+      "He was too serious",
+      "It was unclear what he had done personally",
+      "He had no relevant experience",
+      "He criticised his former employer"
+     ],
+     "answer": 1,
+     "explain_fr": "« Lots of 'we', not much 'I' » : impossible de savoir ce qu'il avait fait lui-même."
+    },
+    {
+     "q": "Why does Claire object to the word 'serious'?",
+     "options": [
+      "It is not a criterion in the person specification",
+      "It is rude",
+      "Amara was in fact very funny",
+      "Priya had already decided"
+     ],
+     "answer": 0,
+     "explain_fr": "Un motif absent du profil recherché ne pourrait pas être défendu si la candidate demandait un retour."
+    }
+   ]
+  },
+  {
+   "id": "dl-rc-3",
+   "title": "A phone screen",
+   "variety": "us",
+   "context": "Megan, a recruiter at a software company in Austin, calls Luis, who has applied for a People Operations Specialist position.",
+   "context_fr": "Megan, recruteuse dans une société de logiciels à Austin, appelle Luis, qui a postulé à un poste de People Operations Specialist.",
+   "lines": [
+    {
+     "speaker": "Megan",
+     "text": "Hi Luis, this is Megan from Brightline. Is now still a good time?",
+     "note_fr": "« Is now still a good time? » : vérification d'usage en début d'appel."
+    },
+    {
+     "speaker": "Luis",
+     "text": "Hi Megan. Yes, absolutely. Thanks for reaching out.",
+     "note_fr": "« To reach out » (surtout US) = prendre contact."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Great. So this is just a quick phone screen, twenty minutes or so. I'll tell you a little about the role, ask you a few questions, and leave time for yours. Sound good?",
+     "note_fr": "Megan annonce le déroulé : c'est la norme. « Sound good? » = « Does that sound good? », ellipse courante à l'oral."
+    },
+    {
+     "speaker": "Luis",
+     "text": "Sounds great.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Megan",
+     "text": "I see you've been at Corvo for about three years. What's prompting you to look right now?",
+     "note_fr": "« What's prompting you to look? » : manière neutre de demander les raisons du départ."
+    },
+    {
+     "speaker": "Luis",
+     "text": "I've learned a lot there, but the team is small and there's not much room to grow. I'm looking for a bigger scope, especially on the systems side.",
+     "note_fr": "Bonne réponse : positive sur l'employeur actuel, tournée vers l'avenir. « Room to grow » = perspectives d'évolution."
+    },
+    {
+     "speaker": "Megan",
+     "text": "That makes sense. This role owns onboarding end to end, so there'd be plenty of that. Have you worked with an applicant tracking system?",
+     "note_fr": "« To own » un processus = en être responsable. « End to end » = de bout en bout."
+    },
+    {
+     "speaker": "Luis",
+     "text": "Yes, I was the admin for ours. I also rebuilt our new hire orientation last year, which cut the paperwork on day one in half.",
+     "note_fr": "« New hire orientation » (US) = « induction » (UK). Un résultat chiffré vaut mieux qu'un adjectif."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Nice. Two practical questions. First, are you authorized to work in the U.S., and would you need sponsorship now or in the future?",
+     "note_fr": "Question standard et licite aux États-Unis ; on ne demande ni la nationalité ni le lieu de naissance."
+    },
+    {
+     "speaker": "Luis",
+     "text": "I'm a permanent resident, so no sponsorship needed.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Megan",
+     "text": "Perfect. And what are you looking for in terms of compensation?",
+     "note_fr": "On demande les attentes, pas le salaire actuel : dans de nombreux États, interroger sur l'historique salarial est interdit."
+    },
+    {
+     "speaker": "Luis",
+     "text": "Based on what I've seen for similar roles, somewhere in the mid-seventies. But I'd want to understand the whole package.",
+     "note_fr": "« The mid-seventies » = environ 75 000 dollars. Luis donne une fourchette et garde une marge de négociation."
+    },
+    {
+     "speaker": "Megan",
+     "text": "That's within our range. I'd like to move you forward to an interview with the hiring manager. I'll send over some times this afternoon.",
+     "note_fr": "« To move someone forward » = faire passer à l'étape suivante. « To send over » = envoyer."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does Luis want to leave his current job?",
+     "options": [
+      "He was laid off",
+      "He wants more scope and room to grow",
+      "He dislikes his manager",
+      "He wants to work remotely"
+     ],
+     "answer": 1,
+     "explain_fr": "« The team is small and there's not much room to grow. I'm looking for a bigger scope. »"
+    },
+    {
+     "q": "What does Megan ask about Luis's immigration status?",
+     "options": [
+      "His country of birth",
+      "His nationality",
+      "Whether he is authorized to work and needs sponsorship",
+      "When his visa expires"
+     ],
+     "answer": 2,
+     "explain_fr": "Elle demande seulement s'il est autorisé à travailler et s'il aura besoin d'un « sponsorship »."
+    },
+    {
+     "q": "How does the call end?",
+     "options": [
+      "Megan will set up an interview with the hiring manager",
+      "Megan makes him an offer",
+      "Luis withdraws his application",
+      "Megan says the salary is too high"
+     ],
+     "answer": 0,
+     "explain_fr": "« I'd like to move you forward to an interview with the hiring manager. »"
+    }
+   ]
+  },
+  {
+   "id": "dl-rc-4",
+   "title": "An intern by Monday?",
+   "variety": "us",
+   "context": "Brad, VP of Marketing at a US company, calls Claire, the French HR consultant who looks after the Paris office. His niece's friend is in Paris and he wants her to start as an intern right away.",
+   "context_fr": "Brad, vice-président marketing d'une société américaine, appelle Claire, la consultante RH française qui suit le bureau de Paris. Une amie de sa nièce est à Paris et il voudrait qu'elle commence un stage immédiatement.",
+   "lines": [
+    {
+     "speaker": "Brad",
+     "text": "Claire, quick one. I've got a great kid in Paris, Emma, just finished her junior year. Can we get her started as an intern on Monday?",
+     "note_fr": "« Quick one » = une question rapide. « Junior year » = troisième année d'université américaine."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'd love to help, Brad, but Monday isn't going to happen. In France you can't bring in an intern without an agreement signed with her school.",
+     "note_fr": "« Isn't going to happen » : refus direct, à l'américaine, adouci par « I'd love to help »."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Her school? She's on summer break. It's just a few weeks of helping out with the campaign.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "I know it sounds like red tape. But here an internship has to be part of a course of study. No school, no internship. That's the rule.",
+     "note_fr": "« Red tape » = la paperasserie administrative. La formule « No school, no internship » résume la règle."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Okay. And if her college signs whatever you need?",
+     "note_fr": "« College » (US) = université."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then we're in business. It's a three-way agreement: Emma, her college, and us. We also need to name someone on the team as her supervisor.",
+     "note_fr": "« We're in business » = c'est faisable, on peut y aller."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Fine, I'll supervise her myself. It's unpaid, by the way. She just wants the experience.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "That depends on how long she stays. Past a certain length, we have to pay her a monthly stipend. It's not a salary, but it's not optional either.",
+     "note_fr": "« Stipend » (US) rend bien la gratification. « Past a certain length » : Claire reste générale plutôt que de citer un seuil de mémoire."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Got it. What if we skip all that and just call her a volunteer?",
+     "note_fr": "« To skip » = faire l'impasse sur."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I really wouldn't. If she's doing actual work for the business, a court can treat her as an employee, and then we're looking at undeclared work.",
+     "note_fr": "« I really wouldn't » : mise en garde ferme en trois mots. « We're looking at » = nous risquons."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Wow. Okay, I don't want that on my desk. What do you need from me?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Just her college's contact details and her dates. I'll send them our template today and, with luck, she could start the week after next.",
+     "note_fr": "« The week after next » = dans deux semaines. « Template » = modèle de document."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Perfect. Thanks for keeping me out of trouble.",
+     "note_fr": "« To keep someone out of trouble » = éviter des ennuis à quelqu'un."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why can't Emma start on Monday?",
+     "options": [
+      "She has no work permit",
+      "Brad has no budget",
+      "There is no agreement signed with her school yet",
+      "The Paris office is closed in summer"
+     ],
+     "answer": 2,
+     "explain_fr": "En France, un stage suppose une convention tripartite signée avec l'établissement d'enseignement."
+    },
+    {
+     "q": "What does Claire say about paying Emma?",
+     "options": [
+      "Interns are never paid in France",
+      "She must receive the minimum wage from day one",
+      "It is up to Brad",
+      "A monthly stipend becomes compulsory beyond a certain length"
+     ],
+     "answer": 3,
+     "explain_fr": "« Past a certain length, we have to pay her a monthly stipend » : la gratification devient obligatoire au-delà d'une durée minimale."
+    },
+    {
+     "q": "What is the risk of calling Emma a 'volunteer'?",
+     "options": [
+      "She could be treated as an employee and the work as undeclared",
+      "She would lose her student status",
+      "Her college would refuse to sign",
+      "The company would have to sponsor her visa"
+     ],
+     "answer": 0,
+     "explain_fr": "Si elle effectue un vrai travail, un juge peut y voir un contrat de travail, avec un risque de travail dissimulé."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-rc-1",
+   "title": "Making a verbal offer",
+   "situation": "You are calling Amara Okoye, the preferred candidate for a Learning and Development Manager position at your client's Paris office, to make her a verbal offer: 62,000 euros, starting 1 September. She is pleased but wants to negotiate.",
+   "situation_fr": "Vous appelez Amara Okoye, la candidate retenue pour un poste de Learning and Development Manager au bureau parisien de votre client, pour lui faire une offre orale : 62 000 euros, prise de poste le 1er septembre. Elle est ravie mais souhaite négocier.",
+   "turns": [
+    {
+     "say": "Hello, Amara speaking.",
+     "seconds": 30,
+     "model": "Hello Amara, it's Claire Morel. I have some good news: the panel was very impressed, and we'd like to offer you the position. Is this a good moment to run through the main terms?",
+     "tips_fr": "Annoncez la bonne nouvelle tout de suite, puis demandez si le moment convient. « To run through » = passer en revue."
+    },
+    {
+     "say": "That's wonderful, thank you! Yes, please go ahead.",
+     "seconds": 40,
+     "model": "The offer is a permanent contract as Learning and Development Manager, at a basic salary of 62,000 euros a year, with a start date of 1 September. It's subject to satisfactory references, and I'll confirm everything in writing by tomorrow.",
+     "tips_fr": "Trois éléments, dans l'ordre : contrat, salaire, date. N'oubliez pas la réserve « subject to satisfactory references »."
+    },
+    {
+     "say": "Thank you. I'll be honest: I was hoping for something closer to 68. Is there any flexibility?",
+     "seconds": 40,
+     "model": "I appreciate your being direct. I can't promise anything on the spot, but I do know how keen they are to have you. Let me take it back to the client and see what room there is. Is the salary the only sticking point?",
+     "tips_fr": "Ne cédez ni ne refusez à chaud. « Let me take it back to the client » fait gagner du temps ; « sticking point » = point de blocage."
+    },
+    {
+     "say": "Mostly, yes. Though I'm on three months' notice, so 1 September might be difficult.",
+     "seconds": 35,
+     "model": "That's helpful to know. I think they'd rather wait for the right person than rush, so I'm fairly confident the date can move. I'll raise both points and get back to you by Thursday at the latest.",
+     "tips_fr": "Rassurez sur ce qui est négociable et engagez-vous sur un délai précis : « I'll get back to you by Thursday »."
+    },
+    {
+     "say": "That sounds fair. Should I wait before saying anything to my employer?",
+     "seconds": 30,
+     "model": "Yes, I'd hold off until you have the written offer and you're happy with it. Please don't resign on the strength of a phone call. I'll be in touch on Thursday, and congratulations again.",
+     "tips_fr": "Conseil essentiel : ne pas démissionner sur une simple offre orale. « On the strength of » = sur la seule foi de."
+    }
+   ]
+  },
+  {
+   "id": "rp-rc-2",
+   "title": "Giving feedback to an unsuccessful candidate",
+   "situation": "James Carter, who was interviewed for a Learning and Development Manager position and not selected, calls you to ask for feedback. He is disappointed and a little defensive. Be honest, specific and kind.",
+   "situation_fr": "James Carter, reçu en entretien pour un poste de Learning and Development Manager et non retenu, vous appelle pour avoir un retour. Il est déçu et un peu sur la défensive. Soyez sincère, précis et bienveillant.",
+   "turns": [
+    {
+     "say": "Hi Claire, it's James Carter. I got your email. I'm disappointed, obviously, and I'd like to understand what went wrong.",
+     "seconds": 35,
+     "model": "Hello James, and thank you for calling. I understand your disappointment, and I'm happy to give you some feedback. First of all, nothing went wrong as such: you interviewed well, and it was a close decision.",
+     "tips_fr": "Accueillez la déception avant d'expliquer. « As such » (à proprement parler) nuance sans nier."
+    },
+    {
+     "say": "So why didn't I get it? I thought the interview went really well.",
+     "seconds": 40,
+     "model": "It did, in many ways. The panel liked your energy and the way you'd fit in with the team. Where the other candidate was stronger was on programme design: her examples were more detailed, with clear results.",
+     "tips_fr": "Commencez par un point positif réel, puis nommez le critère décisif. Comparez sur un critère, jamais sur la personne."
+    },
+    {
+     "say": "I've designed plenty of programmes. I told you about the leadership academy.",
+     "seconds": 40,
+     "model": "You did, and it's clearly a strong project. The difficulty was that you described what the team did, and the panel couldn't quite see your own contribution. Next time, I'd spell out exactly what you decided and delivered yourself.",
+     "tips_fr": "Reconnaissez le fait, puis formulez un conseil concret. « To spell out » = expliciter."
+    },
+    {
+     "say": "Right. That's fair, I suppose. Is it worth my applying again in the future?",
+     "seconds": 35,
+     "model": "Absolutely. With your agreement, I'd like to keep your details on file, because I can think of roles where you'd be a very good fit. And if it would help, I'm happy to send you a couple of lines summarising this feedback.",
+     "tips_fr": "Terminez sur une ouverture sincère et demandez l'accord pour conserver son dossier : « with your agreement »."
+    }
+   ]
+  },
+  {
+   "id": "rp-rc-3",
+   "title": "Hiring a non-EU national in France",
+   "situation": "Rachel, HR Director of a British company, wants its small French subsidiary to hire Arjun, an Indian engineer who has just finished a master's degree in Lyon. She wants him to start next Monday. Explain what has to be done first.",
+   "situation_fr": "Rachel, DRH d'une société britannique, souhaite que sa petite filiale française embauche Arjun, un ingénieur indien qui vient de terminer un master à Lyon. Elle voudrait qu'il commence lundi prochain. Expliquez-lui ce qu'il faut faire au préalable.",
+   "turns": [
+    {
+     "say": "We've found a brilliant engineer, Arjun, and he's free straight away. Can we get him started on Monday?",
+     "seconds": 35,
+     "model": "That's good news, and I'd like to make it happen quickly. But I'm afraid Monday is too soon. Arjun isn't an EU national, so before he starts we have to check what his residence permit allows him to do.",
+     "tips_fr": "Positif d'abord, puis l'obstacle : « I'm afraid Monday is too soon ». Donnez la raison en une phrase."
+    },
+    {
+     "say": "He's been living in France for two years as a student. Surely he already has the right to work?",
+     "seconds": 40,
+     "model": "Not necessarily on a full-time basis. A student permit only allows a limited amount of work. To take a permanent job he'll need a status that authorises employment, and we'll have to see which route applies to someone who has just graduated in France.",
+     "tips_fr": "« Not necessarily » corrige sans brusquer. Restez général : vous n'êtes pas tenu de citer le nom exact du titre de mémoire."
+    },
+    {
+     "say": "And who sorts that out - him or us?",
+     "seconds": 35,
+     "model": "Both, in practice. He applies for the change of status, and we support the application as his employer. We also have to have his document checked by the préfecture before the contract starts. I'd allow several weeks rather than several days.",
+     "tips_fr": "Répartissez clairement les rôles. « I'd allow several weeks » = prévoyez plusieurs semaines : estimation prudente, sans chiffre inventé."
+    },
+    {
+     "say": "What if we just let him start and tidy up the paperwork afterwards?",
+     "seconds": 40,
+     "model": "I'd strongly advise against it. Employing a foreign national without the right authorisation is a criminal offence in France, and it would put Arjun's status at risk too. It's simply not worth it for the sake of a few weeks.",
+     "tips_fr": "« I'd strongly advise against it » : la formule du conseil ferme. Mentionnez le risque pour l'entreprise et pour le salarié."
+    },
+    {
+     "say": "Understood. So what can we do in the meantime?",
+     "seconds": 35,
+     "model": "Quite a lot. We can make him a written offer conditional on his obtaining the right to work, so he knows we're committed. I'll check his current permit this week, and once the authorisation is through I'll file the pre-hiring declaration so he can start the next day.",
+     "tips_fr": "Finissez sur un plan d'action en trois temps. « Conditional on his obtaining » : gérondif avec possessif, tournure soignée."
+    }
+   ]
+  },
+  {
+   "id": "rp-rc-4",
+   "title": "Steering a manager away from risky interview questions",
+   "situation": "You are preparing final interviews with Greg, a sales director at a US client with a team in France. He tells you what he plans to ask a female candidate in her early thirties. Steer him towards lawful, job-related questions without lecturing him.",
+   "situation_fr": "Vous préparez les entretiens finaux avec Greg, directeur commercial d'un client américain disposant d'une équipe en France. Il vous indique ce qu'il compte demander à une candidate d'une trentaine d'années. Orientez-le vers des questions licites, en lien avec le poste, sans lui faire la leçon.",
+   "turns": [
+    {
+     "say": "This job is sixty percent travel. So I'm going to ask her straight out whether she has kids or plans to have any. I need to know.",
+     "seconds": 40,
+     "model": "I understand what you're trying to find out, and it's a legitimate concern. But that question would land us in trouble, in France and at home. What you really need to know is whether she can travel, so let's ask her exactly that.",
+     "tips_fr": "Validez le besoin, écartez la question, proposez l'alternative. « To land someone in trouble » = attirer des ennuis."
+    },
+    {
+     "say": "Okay, but how do I ask that without it sounding like the same thing?",
+     "seconds": 35,
+     "model": "Describe the reality of the job and ask everyone the same question. Something like: 'This role involves being away two or three nights most weeks. Is that something you can commit to?' It's about the job, not her private life.",
+     "tips_fr": "Donnez-lui la phrase toute faite : c'est le plus utile. Insistez sur « ask everyone the same question »."
+    },
+    {
+     "say": "Fine. And she's got a two-year gap on her résumé. Can I at least ask about that?",
+     "seconds": 35,
+     "model": "Yes, you can ask what she did during that time, in a neutral way. If she says it was for family reasons, just note it and move on. Don't dig any further, and don't let it weigh in your scoring.",
+     "tips_fr": "« In a neutral way », « move on », « don't dig » : trois consignes courtes et concrètes."
+    },
+    {
+     "say": "Honestly, this feels like walking on eggshells. Back home I'd just go with my gut.",
+     "seconds": 40,
+     "model": "I know it feels restrictive. But a structured interview actually gives you better information than a gut feeling, and it protects you if a candidate ever challenges the decision. Let's take ten minutes now to write five solid questions together.",
+     "tips_fr": "Répondez à l'agacement par un bénéfice concret. « To go with one's gut » = se fier à son instinct ; « to walk on eggshells » = marcher sur des œufs."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Opening an interview and putting the candidate at ease",
+   "function_fr": "Ouvrir un entretien et mettre le candidat à l'aise",
+   "phrases": [
+    {
+     "text": "Thank you for coming in today. Did you find us all right?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Thanks for making the time. Can I get you some water before we start?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Let me begin by introducing the members of the panel.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "We've got about forty-five minutes. I'll start with a few questions, and there'll be time for yours at the end.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Feel free to take a moment to think before you answer.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "We'll both be taking notes, so please don't be put off by that.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "So, to kick things off, why don't you walk me through your background?",
+     "register": "informal",
+     "variety": "us"
+    },
+    {
+     "text": "Perhaps you could start by telling us what attracted you to this role.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Probing a candidate's answer",
+   "function_fr": "Creuser la réponse d'un candidat",
+   "phrases": [
+    {
+     "text": "Could you give me a specific example of that?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Tell me about a time when you had to deal with a difficult manager.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "What exactly was your own role in that project?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "And what was the outcome?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "With hindsight, is there anything you would have done differently?",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Could I take you back to something you said earlier?",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Help me understand what that looked like day to day.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "You said 'we' - which part of it was down to you?",
+     "register": "informal",
+     "variety": "uk"
+    }
+   ]
+  },
+  {
+   "function": "Telling a candidate the outcome",
+   "function_fr": "Annoncer le résultat à un candidat",
+   "phrases": [
+    {
+     "text": "I'm delighted to say that we'd like to offer you the position.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Good news - we'd love to have you on board.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "We'd like to take your application forward to the next stage.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "We'd like to move you forward to a final interview.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "I'm afraid it isn't the news you were hoping for.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I regret to inform you that your application has been unsuccessful on this occasion.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "It was a very close decision, and I'd be glad to give you some feedback.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "We've decided to go with another candidate, but I'd like to stay in touch.",
+     "register": "everyday",
+     "variety": "us"
+    }
+   ]
+  }
+ ]
+}

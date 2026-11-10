@@ -1,0 +1,1640 @@
+{
+ "reading": [
+  {
+   "id": "rd-cr-1",
+   "title": "Annual Appraisal Policy",
+   "kind": "policy extract",
+   "level": 2,
+   "paragraphs": [
+    "3. ANNUAL APPRAISAL",
+    "3.1 Every employee who has completed their probationary period will have an annual appraisal with their line manager between January and March. The appraisal is a two-way conversation: it looks back at the year just ended and forward to the year ahead.",
+    "3.2 At least one week before the meeting, the employee completes a self-assessment and the line manager gathers feedback from colleagues who have worked closely with the employee. Comments must be based on specific, observed examples rather than on general impressions.",
+    "3.3 Performance is assessed against the objectives agreed at the start of the year and against the behaviours described in the competency framework. The line manager then proposes an overall performance rating on the four-point rating scale set out in Appendix A.",
+    "3.4 Proposed ratings are reviewed at a calibration meeting so that standards are applied consistently across teams. The Company does not operate a forced distribution; the indicative ranges in Appendix B are for guidance only. Ratings are confirmed to employees once calibration is complete.",
+    "3.5 The appraisal ends with a personal development plan listing no more than three development areas, the action to be taken on each and the support the employee can expect.",
+    "3.6 An employee who disagrees with their rating may add written comments to the form and may ask for a meeting with their manager's manager, whose decision is final.",
+    "3.7 For employees in France, the appraisal is separate from the statutory career development interview, which deals with career prospects and training needs and not with the assessment of performance. The two conversations must be kept distinct and recorded on separate forms."
+   ],
+   "glossary": [
+    {
+     "term": "line manager",
+     "plain": "the person you report to directly",
+     "fr": "responsable hiérarchique (N+1)"
+    },
+    {
+     "term": "self-assessment",
+     "plain": "your own written view of how well you have done",
+     "fr": "auto-évaluation"
+    },
+    {
+     "term": "competency framework",
+     "plain": "the document describing the skills and behaviours expected at each level",
+     "fr": "référentiel de compétences"
+    },
+    {
+     "term": "rating scale",
+     "plain": "the list of possible grades, from lowest to highest",
+     "fr": "échelle de notation"
+    },
+    {
+     "term": "calibration meeting",
+     "plain": "a meeting where managers compare their proposed ratings to make them consistent",
+     "fr": "réunion de calibration / d'harmonisation"
+    },
+    {
+     "term": "forced distribution",
+     "plain": "a rule obliging managers to put fixed percentages of people in each grade",
+     "fr": "distribution forcée (quotas)"
+    },
+    {
+     "term": "personal development plan",
+     "plain": "a short list of skills to work on and how",
+     "fr": "plan de développement individuel"
+    },
+    {
+     "term": "career development interview",
+     "plain": "the French compulsory meeting about career prospects and training",
+     "fr": "entretien professionnel"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "set out in",
+     "plain": "described in; given in"
+    },
+    {
+     "phrase": "for guidance only",
+     "plain": "they help managers but are not binding"
+    },
+    {
+     "phrase": "whose decision is final",
+     "plain": "there is no further appeal after that person decides"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What must feedback from colleagues be based on?",
+     "options": [
+      "The colleague's overall impression of the employee",
+      "Concrete examples that were actually observed",
+      "The employee's own self-assessment",
+      "The rating proposed by the line manager"
+     ],
+     "answer": 1,
+     "explain_fr": "Clause 3.2 : « specific, observed examples rather than general impressions ». L'opposition « rather than » signale ce qui est exclu."
+    },
+    {
+     "q": "What does clause 3.4 say about the indicative ranges?",
+     "options": [
+      "Managers may use them as a guide but are not bound by them",
+      "Managers must respect them in every team",
+      "They replace the calibration meeting",
+      "They apply only to employees in France"
+     ],
+     "answer": 0,
+     "explain_fr": "« For guidance only » = à titre indicatif. La société précise qu'elle n'applique pas de distribution forcée."
+    },
+    {
+     "q": "When does an employee learn his or her final rating?",
+     "options": [
+      "During the self-assessment",
+      "At the appraisal meeting itself",
+      "At the mid-year review",
+      "After the calibration process has finished"
+     ],
+     "answer": 3,
+     "explain_fr": "« Ratings are confirmed to employees once calibration is complete » : « once » = une fois que. La note proposée en entretien n'est donc pas définitive."
+    },
+    {
+     "q": "Why does clause 3.7 keep the two meetings apart for employees in France?",
+     "options": [
+      "Because French employees have no appraisal",
+      "Because the career development interview replaces the rating",
+      "Because the career development interview is not about assessing performance",
+      "Because the works council conducts the appraisal"
+     ],
+     "answer": 2,
+     "explain_fr": "L'entretien professionnel porte sur les perspectives d'évolution et la formation, non sur l'évaluation du travail : les deux échanges doivent rester distincts."
+    }
+   ]
+  },
+  {
+   "id": "rd-cr-2",
+   "title": "The French career development interview: what US managers need to know",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Dana Whitfield, VP People, Northbrook Software Inc.",
+    "Re: Career development interviews in your Paris office",
+    "You asked why your French managers cannot simply add a 'career' section to the annual performance review. The short answer is that French law treats the two conversations as different in kind.",
+    "The performance review is a management tool. No statute requires it, although once you have one, employees must be told in advance how they will be assessed. The career development interview, by contrast, is a legal obligation. It must be offered to every employee at intervals laid down by law, and again when an employee returns from certain long absences such as maternity or parental leave. Its purpose is to discuss career prospects and training needs. It is expressly not an assessment of the employee's work.",
+    "A written record must be kept, and the employee must receive a copy. At longer intervals, the employer also has to carry out a formal review of the employee's career path, checking that the interviews have taken place and that the employee has had access to training. In companies above a certain size, failing that check can trigger a corrective top-up to the employee's personal training account, a cost that quickly adds up across a workforce.",
+    "My recommendation is therefore twofold. First, keep the two meetings separate, with separate forms, even if they are held in the same week. Second, give your managers a one-hour briefing before the next round, so that they understand what they are being asked to do and why.",
+    "The legislation in this area was recently amended, so I will confirm the exact intervals that now apply before you update your policy."
+   ],
+   "glossary": [
+    {
+     "term": "performance review",
+     "plain": "the yearly meeting about how well an employee has done (US term)",
+     "fr": "entretien annuel d'évaluation"
+    },
+    {
+     "term": "career development interview",
+     "plain": "the compulsory French meeting about career prospects and training",
+     "fr": "entretien professionnel"
+    },
+    {
+     "term": "career prospects",
+     "plain": "the chances of moving on to better jobs in the future",
+     "fr": "perspectives d'évolution"
+    },
+    {
+     "term": "training needs",
+     "plain": "the skills someone lacks and could learn through training",
+     "fr": "besoins en formation"
+    },
+    {
+     "term": "written record",
+     "plain": "a document noting what was said and agreed",
+     "fr": "compte rendu écrit"
+    },
+    {
+     "term": "corrective top-up",
+     "plain": "an extra payment into the employee's training account, imposed as a penalty",
+     "fr": "abondement correctif"
+    },
+    {
+     "term": "personal training account",
+     "plain": "the individual account every French worker has to pay for training",
+     "fr": "compte personnel de formation (CPF)"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "laid down by law",
+     "plain": "fixed by legislation"
+    },
+    {
+     "phrase": "by contrast",
+     "plain": "on the other hand; this is the opposite case"
+    },
+    {
+     "phrase": "It is expressly not",
+     "plain": "the law says clearly that it is not"
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to the memo, which statement about the performance review is correct?",
+     "options": [
+      "It must be held at intervals laid down by law",
+      "It is not legally required, but employees must know in advance how they will be assessed",
+      "It must be recorded on the same form as the career development interview",
+      "It is compulsory after maternity leave"
+     ],
+     "answer": 1,
+     "explain_fr": "« No statute requires it, although... » : l'entretien d'évaluation n'est pas obligatoire, mais les méthodes d'évaluation doivent être portées à la connaissance des salariés au préalable."
+    },
+    {
+     "q": "What is the career development interview for?",
+     "options": [
+      "Rating the employee's performance",
+      "Deciding the employee's pay rise",
+      "Reviewing the employee's objectives",
+      "Discussing career prospects and training needs"
+     ],
+     "answer": 3,
+     "explain_fr": "« Its purpose is to discuss career prospects and training needs. It is expressly not an assessment. »"
+    },
+    {
+     "q": "What may happen if the periodic check shows the obligations were not met?",
+     "options": [
+      "The company may have to pay extra money into the employee's training account",
+      "The employee's performance rating is cancelled",
+      "The employee is automatically promoted",
+      "The manager must repeat the performance review"
+     ],
+     "answer": 0,
+     "explain_fr": "« Failing that check can trigger a corrective top-up » : « to trigger » = déclencher. Il s'agit de l'abondement correctif du CPF, dans les entreprises d'une certaine taille."
+    },
+    {
+     "q": "Why does the writer not give the exact intervals?",
+     "options": [
+      "Because they vary from one manager to another",
+      "Because the client already knows them",
+      "Because the law has recently changed and she wants to check first",
+      "Because they are set by the works council"
+     ],
+     "answer": 2,
+     "explain_fr": "Dernier paragraphe : « The legislation in this area was recently amended, so I will confirm... ». Bon réflexe professionnel : ne pas avancer un chiffre sans l'avoir vérifié."
+    }
+   ]
+  },
+  {
+   "id": "rd-cr-3",
+   "title": "Agreement on Workforce and Skills Planning: Training and Mobility",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "ARTICLE 6 - ACCESS TO TRAINING",
+    "6.1 The Company reaffirms its duty to ensure that employees are adapted to their jobs and remain capable of holding a job, having regard in particular to changes in technology and organisation.",
+    "6.2 Training undertaken at the Company's initiative under the skills development plan shall be treated as working time and shall give rise to the maintenance of remuneration.",
+    "6.3 Where an employee wishes to use his or her personal training account for a course appearing on the list in Schedule 2, the Company shall make an additional contribution covering any shortfall between the cost of the course and the rights accrued in the account, provided that the request is submitted no later than three months before the course begins.",
+    "6.4 Employees holding a job identified in Schedule 1 as being at risk shall have priority access to reskilling programmes and may, at their request, undergo a skills assessment at the Company's expense.",
+    "ARTICLE 7 - INTERNAL MOBILITY",
+    "7.1 All vacancies shall be advertised internally for a period of not less than ten working days before any external recruitment is initiated.",
+    "7.2 An employee appointed to a new position by way of internal mobility shall serve an adaptation period of [three] months, during which either party may request that the employee return to his or her former position or, failing that, to an equivalent position.",
+    "7.3 Nothing in this Article shall be construed as conferring on any employee a right to be appointed to a given position.",
+    "ARTICLE 8 - MONITORING",
+    "8.1 A joint committee composed of representatives of the signatory trade unions and of management shall meet twice a year to review the implementation of this Agreement on the basis of the indicators listed in Schedule 3."
+   ],
+   "glossary": [
+    {
+     "term": "skills development plan",
+     "plain": "the training the employer decides to provide (the French 'plan de développement des compétences')",
+     "fr": "plan de développement des compétences"
+    },
+    {
+     "term": "personal training account",
+     "plain": "the individual account used to pay for training of one's own choice",
+     "fr": "compte personnel de formation (CPF)"
+    },
+    {
+     "term": "additional contribution",
+     "plain": "extra money paid into the account by the employer",
+     "fr": "abondement"
+    },
+    {
+     "term": "shortfall",
+     "plain": "the amount that is missing",
+     "fr": "différence manquante / reste à financer"
+    },
+    {
+     "term": "reskilling programmes",
+     "plain": "courses that prepare people for a different job",
+     "fr": "programmes de reconversion"
+    },
+    {
+     "term": "skills assessment",
+     "plain": "a structured review of one's skills and motivations with an outside adviser",
+     "fr": "bilan de compétences"
+    },
+    {
+     "term": "adaptation period",
+     "plain": "a trial period in the new internal job, after which the employee can go back",
+     "fr": "période probatoire / d'adaptation"
+    },
+    {
+     "term": "joint committee",
+     "plain": "a committee with members from both the unions and management",
+     "fr": "commission paritaire de suivi"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "having regard in particular to",
+     "plain": "taking into account, especially"
+    },
+    {
+     "phrase": "shall give rise to",
+     "plain": "will result in; will entitle the employee to"
+    },
+    {
+     "phrase": "provided that",
+     "plain": "on condition that; only if"
+    },
+    {
+     "phrase": "failing that",
+     "plain": "if that is not possible"
+    },
+    {
+     "phrase": "Nothing in this Article shall be construed as",
+     "plain": "this Article must not be understood as"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Under clause 6.2, what happens when the Company sends an employee on a course?",
+     "options": [
+      "The employee uses his or her personal training account",
+      "The time counts as working time and pay continues as normal",
+      "The employee must attend outside working hours",
+      "The joint committee must give its approval first"
+     ],
+     "answer": 1,
+     "explain_fr": "« Shall be treated as working time and shall give rise to the maintenance of remuneration » : formation à l'initiative de l'employeur = temps de travail effectif avec maintien de la rémunération."
+    },
+    {
+     "q": "What is the condition for the Company's additional contribution under clause 6.3?",
+     "options": [
+      "The employee must hold a job at risk",
+      "The course must last less than three months",
+      "The request must be made at least three months before the course starts",
+      "The employee must first undergo a skills assessment"
+     ],
+     "answer": 2,
+     "explain_fr": "« Provided that the request is submitted no later than three months before » : « no later than » = au plus tard ; il faut aussi que la formation figure sur la liste de l'annexe 2."
+    },
+    {
+     "q": "What does the adaptation period in clause 7.2 allow?",
+     "options": [
+      "Either side can ask for the employee to go back to the former job or an equivalent one",
+      "The Company can dismiss the employee without notice",
+      "The employee can claim a higher grade",
+      "Only the Company can end the new appointment"
+     ],
+     "answer": 0,
+     "explain_fr": "« Either party may request » : la faculté est ouverte aux deux parties. « Failing that » introduit la solution de repli (un poste équivalent)."
+    },
+    {
+     "q": "What is the effect of clause 7.3?",
+     "options": [
+      "Employees at risk are guaranteed a new position",
+      "Internal candidates must always be preferred to external ones",
+      "Vacancies need not be advertised internally",
+      "No employee can claim an automatic right to a particular job"
+     ],
+     "answer": 3,
+     "explain_fr": "« Nothing in this Article shall be construed as conferring... a right » : clause de sauvegarde classique. La priorité d'information n'est pas un droit au poste."
+    }
+   ]
+  },
+  {
+   "id": "rd-cr-4",
+   "title": "Engagement Survey: Summary of Findings",
+   "kind": "report extract",
+   "level": 1,
+   "paragraphs": [
+    "2. KEY FINDINGS",
+    "The survey was open for three weeks in October. The response rate was 78 per cent, up from 64 per cent last year, which gives us a reliable picture of how people feel.",
+    "Overall, the results are encouraging. Most employees say they are proud to work for the company and would recommend it to a friend. Scores for teamwork and for the relationship with the line manager are well above the sector benchmark.",
+    "Two areas stand out as needing attention. The first is career progression. Fewer than half of respondents agree that they can see a clear career path for themselves here, and the figure is lower still among employees with between three and five years' service. In the free-text comments, many people say that internal vacancies are filled before they hear about them.",
+    "The second is feedback. Although most people had an appraisal last year, only one in three says they receive regular feedback between appraisals. Several comments describe the appraisal as 'a box-ticking exercise'.",
+    "These two points matter because they are closely linked to retention. Exit interviews over the past twelve months tell the same story: lack of career prospects is the reason most often given for leaving, well ahead of pay.",
+    "3. RECOMMENDED ACTIONS",
+    "We recommend three actions: advertising all vacancies on the intranet for at least two weeks; introducing a monthly one-to-one between each manager and each team member; and training all managers in how to hold a career conversation. Progress will be measured through a short pulse survey in April."
+   ],
+   "glossary": [
+    {
+     "term": "response rate",
+     "plain": "the percentage of people who answered the survey",
+     "fr": "taux de participation"
+    },
+    {
+     "term": "benchmark",
+     "plain": "a standard figure used for comparison",
+     "fr": "référence / point de comparaison"
+    },
+    {
+     "term": "career path",
+     "plain": "the series of jobs someone could move through",
+     "fr": "parcours professionnel"
+    },
+    {
+     "term": "box-ticking exercise",
+     "plain": "something done only because it is required, with no real value",
+     "fr": "simple formalité"
+    },
+    {
+     "term": "retention",
+     "plain": "keeping employees in the company",
+     "fr": "fidélisation"
+    },
+    {
+     "term": "exit interviews",
+     "plain": "conversations with employees who are leaving, about their reasons",
+     "fr": "entretiens de départ"
+    },
+    {
+     "term": "one-to-one",
+     "plain": "a private meeting between a manager and one team member",
+     "fr": "point individuel"
+    },
+    {
+     "term": "pulse survey",
+     "plain": "a very short survey used to check progress",
+     "fr": "enquête flash"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "Why does the report consider the results reliable?",
+     "options": [
+      "Because the survey was open for three weeks",
+      "Because scores are above the benchmark",
+      "Because a large share of employees took part",
+      "Because the comments were anonymous"
+     ],
+     "answer": 2,
+     "explain_fr": "Le taux de participation (78 %, en hausse) « gives us a reliable picture ». « Up from 64 per cent » = contre 64 % l'an dernier."
+    },
+    {
+     "q": "Which group is least likely to see a clear career path?",
+     "options": [
+      "Employees with three to five years' service",
+      "New joiners",
+      "Line managers",
+      "Employees who had no appraisal"
+     ],
+     "answer": 0,
+     "explain_fr": "« The figure is lower still among employees with between three and five years' service » : « lower still » = encore plus bas."
+    },
+    {
+     "q": "What do employees say about feedback?",
+     "options": [
+      "Most never have an appraisal",
+      "They get too much feedback from their managers",
+      "Feedback is the main reason people leave",
+      "Appraisals take place, but regular feedback in between is rare"
+     ],
+     "answer": 3,
+     "explain_fr": "« Although most people had an appraisal... only one in three says they receive regular feedback between appraisals. »"
+    },
+    {
+     "q": "According to exit interviews, what is the most common reason for leaving?",
+     "options": [
+      "Pay",
+      "A lack of career prospects",
+      "The relationship with the line manager",
+      "Poor teamwork"
+     ],
+     "answer": 1,
+     "explain_fr": "« Lack of career prospects is the reason most often given for leaving, well ahead of pay » : « well ahead of » = loin devant."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-cr-1",
+   "title": "Inviting an employee to the annual appraisal",
+   "stage": 1,
+   "kind": "email",
+   "brief": "You manage a small team. Write the email inviting Tom, one of your direct reports, to his annual appraisal: date and place, what he must prepare, what the meeting will cover and how to reschedule.",
+   "brief_fr": "Vous encadrez une petite équipe. Rédigez l'e-mail invitant Tom, l'un de vos collaborateurs, à son entretien annuel : date et lieu, ce qu'il doit préparer, le contenu de l'entretien et la marche à suivre pour le reporter.",
+   "gaps": [
+    {
+     "text": "Your annual appraisal is ___ for Tuesday 14 January at 10 a.m. in meeting room 3.",
+     "answer": "scheduled",
+     "accept": [
+      "set",
+      "booked",
+      "arranged",
+      "planned"
+     ],
+     "explain_fr": "'To be scheduled for' + date = être programmé le. Attention à la préposition : 'scheduled for Tuesday', et non 'planned on'."
+    },
+    {
+     "text": "Could you please ___ the self-assessment form and send it back to me by Friday?",
+     "answer": "fill in",
+     "accept": [
+      "complete",
+      "fill out"
+     ],
+     "explain_fr": "'To fill in' (UK) ou 'to fill out' (US) a form ; 'to complete' est un peu plus soutenu. Jamais 'to fulfil a form'."
+    },
+    {
+     "text": "We'll start by looking ___ on the past year and then turn to your objectives for the next one.",
+     "answer": "back",
+     "accept": [],
+     "explain_fr": "'To look back on' = revenir sur (une période écoulée). Son pendant est 'to look ahead to'."
+    },
+    {
+     "text": "I'd also like to hear where you would like to take your career, so do have a ___ about that beforehand.",
+     "answer": "think",
+     "accept": [],
+     "explain_fr": "'To have a think about something' : tournure britannique très naturelle pour 'réfléchir à'. Le 'do' d'insistance adoucit l'injonction."
+    },
+    {
+     "text": "If there is anything in particular you would like to ___, just let me know and I'll add it to the agenda.",
+     "answer": "raise",
+     "accept": [
+      "discuss",
+      "bring up",
+      "cover"
+     ],
+     "explain_fr": "'To raise' a point ou an issue = soulever une question. 'To evoke' est un faux ami : il signifie susciter (un souvenir, une émotion)."
+    },
+    {
+     "text": "If the date doesn't ___ you, let me know and we'll find another slot.",
+     "answer": "suit",
+     "accept": [
+      "work for"
+     ],
+     "explain_fr": "'To suit someone' = convenir à quelqu'un (verbe transitif, sans préposition). 'To convene' signifie convoquer une réunion."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Your annual appraisal - Tuesday 14 January\n\nHi Tom,\n\nYour annual appraisal is scheduled for Tuesday 14 January at 10 a.m. in meeting room 3. I've put an hour and a half in the diary so that we aren't rushed.\n\nCould you please fill in the self-assessment form and send it back to me by Friday? It needn't be long; a few specific examples are worth more than a page of generalities.\n\nWe'll start by looking back on the past year and then turn to your objectives for the next one. I'd also like to hear where you would like to take your career, so do have a think about that beforehand.\n\nIf there is anything in particular you would like to raise, just let me know and I'll add it to the agenda. And if the date doesn't suit you, let me know and we'll find another slot.\n\nBest regards,\nHelen",
+   "model_us": "Subject: Your annual performance review - Tuesday, January 14\n\nHi Tom,\n\nYour annual performance review is scheduled for Tuesday, January 14, at 10 a.m. in conference room 3. I've blocked an hour and a half on the calendar so we aren't rushed.\n\nCould you please fill out the self-evaluation form and send it back to me by Friday? It doesn't need to be long; a few specific examples are worth more than a page of generalities.\n\nWe'll start by looking back on the past year and then turn to your goals for the next one. I'd also like to hear where you want to take your career, so please give that some thought beforehand.\n\nIf there is anything in particular you would like to raise, just let me know and I'll add it to the agenda. And if the date doesn't work for you, let me know and we'll find another time.\n\nBest,\nHelen",
+   "commentary": [
+    {
+     "quote": "I've put an hour and a half in the diary so that we aren't rushed.",
+     "note_fr": "Détail qui change le ton : on montre que l'entretien compte. 'Diary' (UK) devient 'calendar' aux États-Unis."
+    },
+    {
+     "quote": "It needn't be long",
+     "note_fr": "'Needn't' = 'doesn't need to be', forme britannique élégante. Elle dédramatise l'exercice."
+    },
+    {
+     "quote": "a few specific examples are worth more than a page of generalities",
+     "note_fr": "Consigne utile donnée sous forme de maxime plutôt que d'ordre : c'est plus engageant qu'un 'please be specific'."
+    },
+    {
+     "quote": "so do have a think about that beforehand",
+     "note_fr": "'Do' + impératif : insistance aimable, typiquement britannique. La version américaine préfère 'please give that some thought'."
+    },
+    {
+     "quote": "we'll find another slot",
+     "note_fr": "'A slot' = un créneau. Proposer d'emblée un report évite que l'entretien soit vécu comme une convocation."
+    }
+   ],
+   "checklist": [
+    "Ai-je donné la date, l'heure, le lieu et la durée prévue ?",
+    "Ai-je dit clairement ce que le salarié doit préparer, et pour quand ?",
+    "Ai-je annoncé le contenu de l'entretien (bilan, objectifs, évolution) ?",
+    "Le ton est-il celui d'une invitation à un échange, et non d'une convocation ?",
+    "Ai-je évité 'a feedback', 'evaluation interview' et 'to fix objectives' ?"
+   ],
+   "phrasebank": [
+    "Your appraisal is scheduled for ... at ...",
+    "Could you please fill in the self-assessment form by ...?",
+    "We'll start by looking back on the past year.",
+    "We'll then turn to your objectives for next year.",
+    "Do have a think about where you would like to take your career.",
+    "If there is anything you would like to raise, just let me know.",
+    "If the date doesn't suit you, we'll find another slot."
+   ]
+  },
+  {
+   "id": "wr-cr-2",
+   "title": "Replying to a training request",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Sofia has asked to attend a three-day project management course in March. The training budget for the first quarter is spent. Reply: you support the request, explain the constraint, offer two alternatives (a place on the June session, or using her personal training account with a company top-up) and propose a short call.",
+   "brief_fr": "Sofia a demandé à suivre une formation de trois jours en gestion de projet en mars. Le budget formation du premier trimestre est épuisé. Répondez : vous soutenez la demande, expliquez la contrainte, proposez deux solutions (une place à la session de juin, ou la mobilisation de son CPF avec un abondement de l'entreprise) et suggérez un court échange.",
+   "gaps": [
+    {
+     "text": "Thank you for your request to ___ the project management course in March.",
+     "answer": "attend",
+     "accept": [
+      "go on",
+      "take"
+     ],
+     "explain_fr": "'To attend a course' = suivre une formation ; à l'oral 'to go on a course' (UK), 'to take a course' (US). 'To assist' signifie aider, et 'to follow a training' est un calque."
+    },
+    {
+     "text": "I fully support it: it is exactly the kind of development we ___ in your appraisal.",
+     "answer": "discussed",
+     "accept": [
+      "talked about",
+      "agreed on",
+      "agreed"
+     ],
+     "explain_fr": "'To discuss' est transitif direct : 'we discussed it', jamais 'discussed about it'."
+    },
+    {
+     "text": "___, the training budget for the first quarter has already been allocated.",
+     "answer": "Unfortunately",
+     "accept": [
+      "I'm afraid",
+      "Regrettably"
+     ],
+     "explain_fr": "'Unfortunately' en tête de phrase annonce la mauvaise nouvelle sans détour. 'I'm afraid' joue le même rôle, sur un ton plus personnel."
+    },
+    {
+     "text": "One option ___ be to book you on the June session, which I can confirm today.",
+     "answer": "would",
+     "accept": [
+      "might",
+      "could"
+     ],
+     "explain_fr": "'Would' rend la proposition moins abrupte que 'is'. C'est le conditionnel de courtoisie, indispensable quand on suggère."
+    },
+    {
+     "text": "Alternatively, you could use your personal training account, and the company would ___ up the difference.",
+     "answer": "top",
+     "accept": [
+      "make"
+     ],
+     "explain_fr": "'To top up' = compléter, abonder. 'To make up the difference' = combler l'écart. 'To complete the difference' est un calque."
+    },
+    {
+     "text": "Shall we have a quick call tomorrow to talk it ___?",
+     "answer": "through",
+     "accept": [
+      "over"
+     ],
+     "explain_fr": "'To talk something through' = examiner une question en détail ; 'to talk it over' = en discuter. Le pronom se place avant la particule."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Your request for the project management course\n\nHi Sofia,\n\nThank you for your request to attend the project management course in March. I fully support it: it is exactly the kind of development we discussed in your appraisal.\n\nUnfortunately, the training budget for the first quarter has already been allocated, so I can't approve the March dates. That said, I don't want this to wait until next year, and there are two ways round the problem.\n\nOne option would be to book you on the June session, which I can confirm today. Alternatively, you could use your personal training account, and the company would top up the difference. That would let you keep the March dates.\n\nShall we have a quick call tomorrow to talk it through? I'm free any time after two.\n\nBest wishes,\nMarc",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I fully support it",
+     "note_fr": "On commence par l'accord de principe : la mauvaise nouvelle qui suit porte sur le calendrier, pas sur la personne."
+    },
+    {
+     "quote": "That said, I don't want this to wait until next year",
+     "note_fr": "'That said' = cela dit. Charnière concise qui fait passer du problème à la solution."
+    },
+    {
+     "quote": "there are two ways round the problem",
+     "note_fr": "'A way round a problem' (UK ; US : 'a way around') = un moyen de contourner la difficulté. Plus naturel que 'two solutions'."
+    },
+    {
+     "quote": "Alternatively, you could use your personal training account",
+     "note_fr": "'Alternatively' introduit la seconde option ; 'you could' laisse le choix à la salariée, ce qui convient puisque le CPF relève de son initiative."
+    },
+    {
+     "quote": "I'm free any time after two.",
+     "note_fr": "Terminer par une disponibilité précise rend la proposition d'échange concrète."
+    }
+   ],
+   "checklist": [
+    "Ai-je exprimé mon soutien avant d'annoncer la contrainte ?",
+    "La raison du refus des dates est-elle factuelle et brève ?",
+    "Ai-je proposé au moins une solution concrète ?",
+    "Ai-je laissé le choix à la salariée pour l'utilisation de son compte de formation ?",
+    "Ai-je écrit 'training' sans article ni pluriel ?"
+   ],
+   "phrasebank": [
+    "Thank you for your request to attend ...",
+    "I fully support it.",
+    "Unfortunately, the budget has already been allocated.",
+    "That said, there are two ways round the problem.",
+    "One option would be to ...",
+    "Alternatively, you could ...",
+    "Shall we have a quick call to talk it through?"
+   ]
+  },
+  {
+   "id": "wr-cr-3",
+   "title": "Explaining the personal training account to a British client",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "A British client who has just taken over a French subsidiary asks what the 'CPF' is and whether the company has to do anything about it. Write one clear paragraph (130-170 words).",
+   "brief_fr": "Un client britannique qui vient de reprendre une filiale française demande ce qu'est le « CPF » et si l'entreprise a quelque chose à faire. Rédigez un paragraphe clair (130 à 170 mots).",
+   "gaps": [],
+   "outline": [
+    "What it is: an individual account, credited in euros each year",
+    "Who it belongs to: the person, not the job; it follows them from employer to employer",
+    "How it is used: at the employee's initiative, for approved training",
+    "When the employer's consent is needed: only for absence during working hours",
+    "What the employer may do: top up the account; what it should not do: treat it as its own budget",
+    "Contrast with the company's own training plan"
+   ],
+   "model": "The CPF, or personal training account, is an individual account that every working person in France holds. It is credited in euros each year and belongs to the person rather than to the job, so it follows employees from one employer to the next. They can use it, on their own initiative, to pay for approved training of their choice, whether or not it has anything to do with their present role. Your consent is needed only if the course takes place during working hours, since the employee then has to ask for time off. The company may choose to top up the account, which is a good way of co-funding a course that benefits both sides, but it cannot decide how the money is spent. In short, the CPF is the employee's budget, not yours. It sits alongside the company's own training plan, which you draw up and pay for, and it should not be confused with it.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "The CPF, or personal training account,",
+     "note_fr": "Le sigle français d'abord, puis sa glose : le client retrouvera 'CPF' dans tous les documents et doit pouvoir le reconnaître."
+    },
+    {
+     "quote": "belongs to the person rather than to the job",
+     "note_fr": "'Rather than' oppose deux idées avec élégance. C'est le point que les interlocuteurs étrangers ont le plus de mal à saisir."
+    },
+    {
+     "quote": "whether or not it has anything to do with their present role",
+     "note_fr": "'Whether or not' = que... ou non. On anticipe l'objection du client ('pourquoi financerait-elle autre chose que son poste ?')."
+    },
+    {
+     "quote": "which is a good way of co-funding a course that benefits both sides",
+     "note_fr": "Une relative suffit pour glisser un conseil sans alourdir l'explication."
+    },
+    {
+     "quote": "In short, the CPF is the employee's budget, not yours.",
+     "note_fr": "Phrase brève qui résume tout le paragraphe en une formule facile à retenir."
+    },
+    {
+     "quote": "It sits alongside the company's own training plan",
+     "note_fr": "'To sit alongside' = coexister avec. Verbe imagé, très courant pour articuler deux dispositifs."
+    }
+   ],
+   "checklist": [
+    "Ai-je donné un équivalent anglais du sigle dès la première phrase ?",
+    "Est-il clair que le compte appartient au salarié et le suit ?",
+    "Ai-je précisé dans quel cas l'accord de l'employeur est nécessaire ?",
+    "Ai-je distingué le CPF du plan de formation de l'entreprise ?",
+    "Ai-je évité tout chiffre ou plafond que je n'ai pas vérifié ?"
+   ],
+   "phrasebank": [
+    "The CPF, or personal training account, is ...",
+    "It belongs to the person rather than to the job.",
+    "Employees can use it on their own initiative.",
+    "Your consent is needed only if ...",
+    "The company may choose to top up the account.",
+    "In short, ...",
+    "It sits alongside ... and should not be confused with it."
+   ]
+  },
+  {
+   "id": "wr-cr-4",
+   "title": "Summarising engagement survey findings",
+   "stage": 2,
+   "kind": "report",
+   "brief": "Write the 'key findings' paragraph (130-170 words) of a report to the management committee on this year's engagement survey: good participation, strong pride and teamwork, two weak points (career prospects, feedback), the link with retention, and what you propose next.",
+   "brief_fr": "Rédigez le paragraphe « principaux enseignements » (130 à 170 mots) d'un rapport au comité de direction sur l'enquête d'engagement de l'année : bonne participation, fierté d'appartenance et esprit d'équipe élevés, deux points faibles (perspectives d'évolution, feedback), le lien avec la fidélisation et la suite proposée.",
+   "gaps": [],
+   "outline": [
+    "Participation: four out of five employees responded, more than last year",
+    "Strengths: pride in the company, teamwork",
+    "First concern: fewer than half see a clear career path",
+    "Second concern: little feedback between appraisals",
+    "Why it matters: exit interviews point to the same causes",
+    "Next step: action plan to the committee next month"
+   ],
+   "model": "Four out of five employees took part in this year's survey, a marked improvement on last year, so the results can be read with some confidence. The overall picture is positive: a large majority say they are proud to work here, and teamwork is once again our highest-scoring area. Two findings, however, give cause for concern. Fewer than half of respondents can see a clear career path for themselves within the company, and only a third say they receive regular feedback outside the annual appraisal. Neither result is new, but both have slipped since last year. They matter all the more because our exit interviews point in the same direction: people who leave rarely mention pay, and almost always mention prospects. We would therefore suggest treating career development and feedback as the two priorities for the coming year, and we will bring a detailed action plan to the committee next month.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "a marked improvement on last year",
+     "note_fr": "'A marked improvement on' (UK ; US : 'over') = une nette amélioration par rapport à. Apposition qui évite une phrase supplémentaire."
+    },
+    {
+     "quote": "so the results can be read with some confidence",
+     "note_fr": "Prudence mesurée : 'some confidence' est plus crédible que 'total confidence' dans un rapport."
+    },
+    {
+     "quote": "Two findings, however, give cause for concern.",
+     "note_fr": "'However' placé après le sujet, entre virgules : plus élégant qu'en tête de phrase. 'To give cause for concern' = être préoccupant."
+    },
+    {
+     "quote": "Neither result is new, but both have slipped since last year.",
+     "note_fr": "'Neither... but both' : construction concise. 'To slip' = reculer légèrement, verbe précis pour un indicateur."
+    },
+    {
+     "quote": "They matter all the more because",
+     "note_fr": "'All the more because' = d'autant plus que. Ne dites pas 'even more that'."
+    },
+    {
+     "quote": "We would therefore suggest treating",
+     "note_fr": "'Suggest' + verbe en -ing, jamais 'suggest to treat'. 'Would' adoucit la recommandation adressée à la direction."
+    }
+   ],
+   "checklist": [
+    "Ai-je commencé par la participation, qui fonde la fiabilité des résultats ?",
+    "Ai-je présenté les points forts avant les points faibles ?",
+    "Chaque constat est-il étayé par un ordre de grandeur ?",
+    "Ai-je expliqué pourquoi ces résultats comptent (fidélisation) ?",
+    "Le paragraphe se termine-t-il par une proposition et une échéance ?"
+   ],
+   "phrasebank": [
+    "Four out of five employees took part in the survey.",
+    "The overall picture is positive.",
+    "Two findings, however, give cause for concern.",
+    "Fewer than half of respondents ...",
+    "They matter all the more because ...",
+    "Our exit interviews point in the same direction.",
+    "We would therefore suggest treating ... as a priority.",
+    "We will bring a detailed action plan to the committee next month."
+   ]
+  },
+  {
+   "id": "wr-cr-5",
+   "title": "Letter confirming a promotion",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "Write the letter confirming to Ms Camille Renaud her promotion from HR Officer to HR Manager for the Lyon site with effect from 1 September: new role and reporting line, an adaptation period of three months, the leadership programme she will attend, the amendment to her contract enclosed for signature, and congratulations.",
+   "brief_fr": "Rédigez la lettre confirmant à Mme Camille Renaud sa promotion de chargée de RH à responsable RH du site de Lyon à compter du 1er septembre : nouveau poste et rattachement, période probatoire de trois mois, programme de développement managérial qu'elle suivra, avenant joint pour signature, félicitations.",
+   "gaps": [],
+   "outline": [
+    "Opening: good news first, with the new title and effective date",
+    "Role: main responsibilities and reporting line",
+    "Adaptation period: length, purpose, what happens if it does not work out",
+    "Development support: leadership programme and mentor",
+    "Formalities: amendment enclosed, date for return",
+    "Warm close"
+   ],
+   "model": "Dear Ms Renaud,\n\nI am delighted to confirm your promotion to the position of HR Manager for our Lyon site, with effect from 1 September.\n\nIn your new role you will be responsible for all HR matters on the site and will manage a team of three. You will report to me as HR Director, France.\n\nAs is our usual practice for internal appointments, the promotion is subject to an adaptation period of three months. Its purpose is to give both you and the company time to make sure that the role is the right fit. Should either of us conclude during that period that it is not, you would return to your present position, or to an equivalent one, on your previous terms.\n\nTo support you in taking up your first management role, you will join the next intake of our leadership development programme, which begins in October. I have also asked Julien Faure, HR Manager at our Nantes site, to act as your mentor during your first year.\n\nThe enclosed amendment to your contract of employment sets out your new title, grade and remuneration. I would be grateful if you could sign both copies and return one to me by 15 July.\n\nThis promotion is a recognition of the quality of your work over the past four years, and I very much look forward to working with you in your new capacity.\n\nYours sincerely,\n\nAnne Delmas\nHR Director, France",
+   "model_us": "Dear Ms. Renaud:\n\nI am delighted to confirm your promotion to the position of HR Manager for our Lyon site, effective September 1.\n\nIn your new role you will be responsible for all HR matters at the site and will manage a team of three. You will report to me as HR Director, France.\n\nAs is our usual practice for internal appointments, the promotion is subject to an adaptation period of three months. Its purpose is to give both you and the company time to make sure that the role is the right fit. Should either of us conclude during that period that it is not, you would return to your present position, or to an equivalent one, on your previous terms.\n\nTo support you as you take on your first management role, you will join the next cohort of our leadership development program, which begins in October. I have also asked Julien Faure, HR Manager at our Nantes site, to serve as your mentor during your first year.\n\nThe enclosed amendment to your employment contract sets out your new title, grade and compensation. I would be grateful if you could sign both copies and return one to me by July 15.\n\nThis promotion recognizes the quality of your work over the past four years, and I very much look forward to working with you in your new capacity.\n\nSincerely,\n\nAnne Delmas\nHR Director, France",
+   "commentary": [
+    {
+     "quote": "I am delighted to confirm your promotion to the position of HR Manager",
+     "note_fr": "La bonne nouvelle dès la première phrase. 'Promotion to' (jamais 'as') ; 'delighted' est la formule d'usage, plus chaleureuse que 'pleased'."
+    },
+    {
+     "quote": "As is our usual practice for internal appointments",
+     "note_fr": "Présenter la période probatoire comme une pratique générale évite qu'elle soit perçue comme un doute sur la personne."
+    },
+    {
+     "quote": "to make sure that the role is the right fit",
+     "note_fr": "'The right fit' = l'adéquation entre la personne et le poste. Formule neutre, qui vaut pour les deux parties."
+    },
+    {
+     "quote": "Should either of us conclude during that period that it is not",
+     "note_fr": "Inversion 'Should' + sujet = 'if' en registre soutenu. 'Either of us' souligne la réciprocité. Le retour au poste antérieur distingue la période probatoire d'une période d'essai."
+    },
+    {
+     "quote": "you will join the next intake of our leadership development programme",
+     "note_fr": "'Intake' (UK) = promotion, groupe d'entrants ; un Américain dirait 'cohort'. Le mot 'promotion' ne s'emploie jamais dans ce sens."
+    },
+    {
+     "quote": "in your new capacity",
+     "note_fr": "'In your new capacity' = dans vos nouvelles fonctions. Clôture sobre et élégante."
+    }
+   ],
+   "checklist": [
+    "L'intitulé du poste et la date d'effet figurent-ils dans la première phrase ?",
+    "Le rattachement hiérarchique est-il précisé ?",
+    "Ai-je expliqué le but de la période probatoire et l'issue en cas d'échec ?",
+    "Ai-je mentionné l'accompagnement (programme, mentor) ?",
+    "L'avenant est-il annoncé, avec une date de retour ?",
+    "Le ton reste-t-il chaleureux sans devenir familier ?"
+   ],
+   "phrasebank": [
+    "I am delighted to confirm your promotion to the position of ...",
+    "with effect from 1 September",
+    "In your new role you will be responsible for ...",
+    "The promotion is subject to an adaptation period of ...",
+    "To support you in taking up your new role, ...",
+    "The enclosed amendment sets out ...",
+    "I would be grateful if you could sign both copies and return one to me by ...",
+    "I very much look forward to working with you in your new capacity."
+   ]
+  },
+  {
+   "id": "wr-cr-6",
+   "title": "Advising a US head office against forced ranking in France",
+   "stage": 3,
+   "kind": "client note",
+   "brief": "The US head office of your client wants to extend its 'stack ranking' system to the French subsidiary: every manager would have to rate 10% of the team 'below expectations'. Write a short memo to the Chief People Officer explaining the legal risk in France, what is permitted, and what you recommend instead.",
+   "brief_fr": "Le siège américain de votre client veut étendre à la filiale française son système de « stack ranking » : chaque manager devrait classer 10 % de son équipe en « below expectations ». Rédigez une courte note à la Chief People Officer expliquant le risque juridique en France, ce qui est permis et ce que vous recommandez à la place.",
+   "gaps": [],
+   "outline": [
+    "Bottom line first: mandatory quotas are not advisable in France",
+    "The legal principle: assessment must rest on objective, relevant criteria linked to the work",
+    "Why quotas fail that test; what the courts accept (indicative ranges)",
+    "Procedural requirements: informing employees, consulting the works council",
+    "Recommendation: guided distribution plus calibration and manager training",
+    "Next step"
+   ],
+   "model": "To: Karen Mills, Chief People Officer\nRe: Extending the ranking system to France\n\nKaren,\n\nYou asked whether the forced distribution used in the US can be rolled out in France next year. My advice is not to apply it in its present form.\n\nFrench law allows an employer to assess its employees, but the method must rest on criteria that are objective, relevant and linked to the work actually done. A mandatory quota fails that test almost by definition: if a manager with eight strong performers must still rate one of them 'below expectations', that rating reflects the quota rather than the person. The French courts have drawn the line accordingly. Indicative ranges, which guide managers without binding them, are accepted; fixed percentages that must be met are not.\n\nThe practical exposure is real. A rating produced by a quota is of little use as evidence if the company later relies on it, and the system as a whole could be challenged by the works council or the unions.\n\nThere are also two procedural points. Employees must be told in advance how they will be assessed, and the works council has to be consulted before any new assessment system is introduced. Both take time, so they need to be built into the project plan.\n\nWhat I would recommend instead is a guided distribution: publish the expected ranges, ask managers to explain significant departures from them at a calibration meeting, and train them to back each rating with specific examples. In my experience this achieves most of what head office is looking for, namely consistent standards and honest differentiation, without the legal risk.\n\nI would be happy to walk your team through this on a call next week.\n\nBest regards,\nClaire Morel",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "My advice is not to apply it in its present form.",
+     "note_fr": "La conclusion d'abord : un dirigeant américain veut la réponse dans le premier paragraphe. 'In its present form' laisse la porte ouverte à une version adaptée."
+    },
+    {
+     "quote": "A mandatory quota fails that test almost by definition",
+     "note_fr": "'To fail a test' = ne pas satisfaire à un critère juridique. 'Almost by definition' nuance sans affaiblir l'argument."
+    },
+    {
+     "quote": "that rating reflects the quota rather than the person",
+     "note_fr": "L'exemple concret (huit bons collaborateurs) puis la formule : c'est ce dont le lecteur se souviendra."
+    },
+    {
+     "quote": "The French courts have drawn the line accordingly.",
+     "note_fr": "'To draw the line' = fixer la limite. On évoque la jurisprudence sans citer d'arrêt, ce qui suffit dans une note de ce type."
+    },
+    {
+     "quote": "so they need to be built into the project plan",
+     "note_fr": "'To build something into a plan' = l'intégrer dès la conception. On traduit la contrainte juridique en conséquence pratique."
+    },
+    {
+     "quote": "What I would recommend instead is a guided distribution",
+     "note_fr": "Phrase clivée ('What I would recommend is...') : elle met en relief la solution après l'exposé du problème."
+    },
+    {
+     "quote": "I would be happy to walk your team through this",
+     "note_fr": "'To walk someone through something' = expliquer pas à pas. Offre de suivi concrète, sans formule creuse."
+    }
+   ],
+   "checklist": [
+    "Ma réponse figure-t-elle dans le premier paragraphe ?",
+    "Ai-je énoncé le principe juridique en termes généraux, sans inventer de référence ?",
+    "Ai-je distingué ce qui est admis (fourchettes indicatives) de ce qui ne l'est pas (quotas imposés) ?",
+    "Ai-je mentionné l'information des salariés et la consultation du CSE ?",
+    "Ai-je proposé une solution de remplacement réaliste ?",
+    "Le ton est-il direct, adapté à un lecteur américain ?"
+   ],
+   "phrasebank": [
+    "You asked whether ... My advice is not to ...",
+    "French law allows ..., but ...",
+    "... fails that test almost by definition.",
+    "The French courts have drawn the line accordingly.",
+    "The practical exposure is real.",
+    "There are also two procedural points.",
+    "What I would recommend instead is ...",
+    "I would be happy to walk your team through this."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-cr-1",
+   "title": "An appraisal with a mixed message",
+   "variety": "uk",
+   "context": "Helen, a team manager in a London consultancy, is holding the annual appraisal of Tom, a capable analyst whose reports are often late.",
+   "context_fr": "Helen, responsable d'équipe dans un cabinet de conseil londonien, mène l'entretien annuel de Tom, analyste compétent dont les rapports arrivent souvent en retard.",
+   "lines": [
+    {
+     "speaker": "Helen",
+     "text": "Thanks for the self-assessment, Tom. It was very honest, which makes my job a good deal easier. Shall we start with what's gone well?",
+     "note_fr": "'A good deal easier' = nettement plus facile. Commencer par le positif n'est pas qu'une politesse : c'est la structure attendue."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Sure. I think the retail project was probably my best piece of work this year.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Helen",
+     "text": "I'd agree. The client singled you out by name, and your analysis was first-rate. That's a real strength and I'd like you to build on it.",
+     "note_fr": "'To single someone out' = citer nommément. 'To build on a strength' = capitaliser sur un point fort."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Thanks. That's good to hear.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Helen",
+     "text": "There is one area I'd like us to look at, though, and you touched on it yourself. Three of your last five reports came in after the deadline.",
+     "note_fr": "'Though' en fin de proposition = cependant, à l'oral. Helen donne un fait chiffré, pas un jugement ('you're always late')."
+    },
+    {
+     "speaker": "Tom",
+     "text": "I know. To be fair, two of those were because the data arrived late.",
+     "note_fr": "'To be fair' introduit une circonstance atténuante sans agressivité."
+    },
+    {
+     "speaker": "Helen",
+     "text": "That's a fair point, and I've taken it into account. But when a report slips, the rest of the team ends up working the weekend. What do you think is getting in the way?",
+     "note_fr": "'To slip' = prendre du retard. Elle décrit l'effet sur l'équipe, puis pose une question ouverte au lieu d'imposer une solution."
+    },
+    {
+     "speaker": "Tom",
+     "text": "Honestly? I keep polishing things. I find it hard to let a report go until it's perfect.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Helen",
+     "text": "I thought it might be something like that. Would it help if we agreed a point where you send me a draft, even a rough one?",
+     "note_fr": "'Would it help if...' : proposition formulée comme une question. 'A rough draft' = un premier jet."
+    },
+    {
+     "speaker": "Tom",
+     "text": "It would, actually. Two days before the deadline, say?",
+     "note_fr": "'Say' en fin de phrase = disons, par exemple."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Perfect. Let's make that one of your objectives, then: drafts to me two days ahead, every time. And we'll see where we are at the mid-year review.",
+     "note_fr": "L'objectif est précis et vérifiable. 'To see where we are' = faire le point."
+    },
+    {
+     "speaker": "Tom",
+     "text": "That sounds fair. And I'd rather you told me sooner if it starts slipping again.",
+     "note_fr": "'I'd rather you told me' : 'would rather' + prétérit pour exprimer un souhait concernant autrui."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How does Helen raise the problem of late reports?",
+     "options": [
+      "She says Tom is always late",
+      "She gives a precise fact: three of his last five reports were late",
+      "She reads out a complaint from the client",
+      "She waits for Tom to mention it"
+     ],
+     "answer": 1,
+     "explain_fr": "Un retour constructif s'appuie sur un fait précis et observable, non sur une généralisation."
+    },
+    {
+     "q": "What does Tom give as the real cause of the delays?",
+     "options": [
+      "He has too many projects",
+      "The client keeps changing the brief",
+      "He finds it hard to release work that isn't perfect",
+      "The team doesn't help him"
+     ],
+     "answer": 2,
+     "explain_fr": "« I keep polishing things... I find it hard to let a report go » : 'to polish' = peaufiner."
+    },
+    {
+     "q": "What do they agree?",
+     "options": [
+      "Tom will send a draft two days before each deadline",
+      "Tom will stop working on client reports",
+      "Helen will write the reports herself",
+      "The deadlines will all be extended by two days"
+     ],
+     "answer": 0,
+     "explain_fr": "« Drafts to me two days ahead, every time » : l'objectif est fixé d'un commun accord et sera revu à mi-année."
+    }
+   ]
+  },
+  {
+   "id": "dl-cr-2",
+   "title": "Before the talent review",
+   "variety": "uk",
+   "context": "Priya, HR business partner, and Graham, operations director of a British manufacturer, prepare the talent review and discuss who could succeed the Leeds plant manager.",
+   "context_fr": "Priya, HR business partner, et Graham, directeur des opérations d'un industriel britannique, préparent la revue des talents et s'interrogent sur la succession du directeur de l'usine de Leeds.",
+   "lines": [
+    {
+     "speaker": "Priya",
+     "text": "The one that worries me is Leeds. Alan retires in eighteen months and, as things stand, we've no one ready to step into his shoes.",
+     "note_fr": "'As things stand' = en l'état actuel. 'To step into someone's shoes' = prendre la succession de quelqu'un."
+    },
+    {
+     "speaker": "Graham",
+     "text": "I'd have said Rachel was the obvious choice. She's been his deputy for four years.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Priya",
+     "text": "She's a very solid performer, no question. I'm just not sure she wants it. Has anyone actually asked her?",
+     "note_fr": "'A solid performer' : compliment mesuré. 'No question' = sans aucun doute. La vraie objection vient ensuite."
+    },
+    {
+     "speaker": "Graham",
+     "text": "Not in so many words, no.",
+     "note_fr": "'Not in so many words' = pas explicitement. Litote très britannique."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Then that's the first thing to do. The other name I'd put forward is Dev, in Coventry. He's younger, but his potential rating has been high two years running.",
+     "note_fr": "'To put a name forward' = proposer un nom. 'Two years running' = deux années de suite."
+    },
+    {
+     "speaker": "Graham",
+     "text": "Dev's good, but he's never run anything bigger than a shift. It'd be a big ask.",
+     "note_fr": "'A big ask' = beaucoup demander (familier)."
+    },
+    {
+     "speaker": "Priya",
+     "text": "It would be today. That's rather the point of having eighteen months. What if we gave him the line-three upgrade to lead?",
+     "note_fr": "'That's rather the point' : contradiction polie, adoucie par 'rather'. 'What if we...' pour avancer une idée."
+    },
+    {
+     "speaker": "Graham",
+     "text": "As a stretch assignment? Hm. He'd be dealing with the unions, the budget, the lot.",
+     "note_fr": "'The lot' (UK, familier) = tout le reste."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Exactly. And I'd pair him with Alan as a mentor, so he isn't thrown in at the deep end.",
+     "note_fr": "'To pair someone with' = mettre en binôme. 'To be thrown in at the deep end' = être jeté dans le grand bain."
+    },
+    {
+     "speaker": "Graham",
+     "text": "All right, I can live with that. And Rachel?",
+     "note_fr": "'I can live with that' = cela me convient, sans enthousiasme excessif."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Have the career conversation first. If she does want the job, we've got two candidates, which is a much better position to be in.",
+     "note_fr": "Le 'does' d'insistance : si elle veut vraiment le poste."
+    },
+    {
+     "speaker": "Graham",
+     "text": "Fair enough. I'll see her next week and we can firm things up at the review.",
+     "note_fr": "'To firm things up' = arrêter, préciser les choses."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is Priya unsure about Rachel as successor?",
+     "options": [
+      "Her performance has been poor",
+      "Nobody knows whether she actually wants the job",
+      "She is about to retire",
+      "She has never worked in Leeds"
+     ],
+     "answer": 1,
+     "explain_fr": "« I'm just not sure she wants it. Has anyone actually asked her? » Priya ne conteste pas la performance ('a very solid performer')."
+    },
+    {
+     "q": "What does Graham mean by 'It'd be a big ask'?",
+     "options": [
+      "Dev would ask for a large pay rise",
+      "Dev would have many questions",
+      "It would take a long time to decide",
+      "It would be a lot to expect of Dev"
+     ],
+     "answer": 3,
+     "explain_fr": "'A big ask' = une exigence lourde. Graham doute que Dev soit prêt pour un tel saut."
+    },
+    {
+     "q": "How does Priya propose to prepare Dev?",
+     "options": [
+      "By sending him on an external course",
+      "By promoting him to deputy plant manager at once",
+      "By giving him a demanding project to lead, with Alan as mentor",
+      "By moving him to Leeds immediately"
+     ],
+     "answer": 2,
+     "explain_fr": "Une 'stretch assignment' (le projet de la ligne trois) accompagnée d'un mentorat par le titulaire actuel."
+    }
+   ]
+  },
+  {
+   "id": "dl-cr-3",
+   "title": "Why can't we just use the performance review?",
+   "variety": "us",
+   "context": "Dana, VP People at a US software company, calls Claire, a French HR consultant, after an internal audit found that career development interviews are overdue in the Paris office.",
+   "context_fr": "Dana, VP People d'un éditeur de logiciels américain, appelle Claire, consultante RH française, après un audit interne révélant que les entretiens professionnels du bureau de Paris sont en retard.",
+   "lines": [
+    {
+     "speaker": "Dana",
+     "text": "Claire, I'll get right to it. Audit flagged that we're behind on something called career development interviews in Paris. We do performance reviews every year. Isn't that the same thing?",
+     "note_fr": "'I'll get right to it' = j'en viens directement au fait. 'To flag' = signaler."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It's a common assumption, but no. The performance review looks at how someone did. The career interview is about where they're headed, what training they need, that kind of thing. And the second one is required by law.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Dana",
+     "text": "Okay. So what happens if we just add a career section to the review form?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'd advise against it. The law says the career interview isn't about evaluating the person's work, so you want a separate conversation and a separate record.",
+     "note_fr": "'I'd advise against it' : déconseiller nettement, sans brutalité."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Got it. And how exposed are we, realistically?",
+     "note_fr": "'How exposed are we?' = quel est notre niveau de risque ?"
+    },
+    {
+     "speaker": "Claire",
+     "text": "It depends on how far behind you are. For a company your size, if the periodic review shows someone hasn't had their interviews or any real training, you can end up having to pay into their training account.",
+     "note_fr": "'To end up having to' = se retrouver contraint de. Claire reste générale sur les montants : elle ne cite aucun chiffre non vérifié."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Per employee?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Per employee. Which is why I'd deal with it now rather than wait.",
+     "note_fr": "Reprise en écho, puis conséquence pratique. 'Rather than wait' : base verbale après 'rather than'."
+    },
+    {
+     "speaker": "Dana",
+     "text": "All right. What do you need from me?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Three things. A list of who's had an interview and when. Sign-off on a short form I'll draft. And an hour with your Paris managers so I can show them how to run the conversation.",
+     "note_fr": "Annoncer le nombre de points structure la réponse. 'Sign-off' = validation."
+    },
+    {
+     "speaker": "Dana",
+     "text": "You'll have the list by Friday. Can we get everyone caught up this quarter?",
+     "note_fr": "'To get caught up' = rattraper le retard."
+    },
+    {
+     "speaker": "Claire",
+     "text": "If the managers block out the time, yes. I'll also double-check the current intervals, because the rules changed recently.",
+     "note_fr": "'To block out time' = réserver un créneau. 'To double-check' = revérifier."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How does Claire distinguish the two meetings?",
+     "options": [
+      "One looks at past performance; the other at future career and training",
+      "One is for managers; the other for all employees",
+      "One is annual; the other is optional",
+      "One is written; the other is oral"
+     ],
+     "answer": 0,
+     "explain_fr": "« The performance review looks at how someone did. The career interview is about where they're headed. »"
+    },
+    {
+     "q": "What risk does Claire describe?",
+     "options": [
+      "Employees could refuse their performance review",
+      "The Paris office could be closed",
+      "The company may have to pay into employees' training accounts",
+      "Managers could be personally fined"
+     ],
+     "answer": 2,
+     "explain_fr": "Il s'agit de l'abondement correctif du CPF, dû par salarié concerné dans les entreprises d'une certaine taille."
+    },
+    {
+     "q": "Which of these does Claire NOT ask Dana for?",
+     "options": [
+      "A list of interviews already held",
+      "Approval of a short form",
+      "An hour with the Paris managers",
+      "A bigger training budget"
+     ],
+     "answer": 3,
+     "explain_fr": "Elle demande trois choses : la liste, la validation du formulaire et une heure avec les managers. Le budget n'est pas évoqué."
+    }
+   ]
+  },
+  {
+   "id": "dl-cr-4",
+   "title": "A career conversation",
+   "variety": "us",
+   "context": "Maya, a senior analyst in a Boston firm, has asked her manager, Jordan, for a meeting about her future. She wants to become a team lead.",
+   "context_fr": "Maya, analyste senior dans un cabinet de Boston, a demandé à son manager, Jordan, un rendez-vous pour parler de son avenir. Elle souhaite devenir team lead.",
+   "lines": [
+    {
+     "speaker": "Maya",
+     "text": "Thanks for making time, Jordan. I wanted to talk about where I'm going here. I've been a senior analyst for three years, and I'd like to move into a team lead role.",
+     "note_fr": "'Thanks for making time' = merci de m'accorder du temps. Elle formule sa demande clairement dès la première réplique."
+    },
+    {
+     "speaker": "Jordan",
+     "text": "I'm glad you brought it up. Tell me more. What is it about the lead role that appeals to you?",
+     "note_fr": "'To bring something up' = aborder un sujet. Jordan explore la motivation avant de répondre."
+    },
+    {
+     "speaker": "Maya",
+     "text": "Honestly, I like developing people. I've been mentoring the two new hires, and that's been the best part of my year.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Jordan",
+     "text": "It shows. They both mentioned you in their check-ins. So here's where I think you are: on the technical side, you're ready. Where you haven't been tested yet is managing performance, having the tough conversations.",
+     "note_fr": "'It shows' = cela se voit. 'Here's where I think you are' : franchise typiquement américaine, mais équilibrée (un acquis, un manque)."
+    },
+    {
+     "speaker": "Maya",
+     "text": "That's fair. I haven't had the chance to.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Jordan",
+     "text": "Right, and I can't promise you a lead role this year. There's no opening, and I don't want to tell you something that isn't true.",
+     "note_fr": "Gérer les attentes : ne rien promettre que l'on ne puisse tenir."
+    },
+    {
+     "speaker": "Maya",
+     "text": "I appreciate that. So what would it take?",
+     "note_fr": "'What would it take?' = que faudrait-il ? Question directe et constructive."
+    },
+    {
+     "speaker": "Jordan",
+     "text": "Two things. I'd like you to lead the Q3 client project, with two analysts reporting to you. And I'll get you into the new manager program in the fall.",
+     "note_fr": "'To get someone into a program' = inscrire quelqu'un. 'Fall' (US) = 'autumn' (UK)."
+    },
+    {
+     "speaker": "Maya",
+     "text": "I'd love that. And if it goes well?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Jordan",
+     "text": "Then when a lead position opens up, you're a strong candidate, and I'll say so. I can't guarantee the outcome, but I can make sure you're ready.",
+     "note_fr": "'To open up' = se libérer (un poste). Distinction nette entre ce qu'il maîtrise et ce qu'il ne maîtrise pas."
+    },
+    {
+     "speaker": "Maya",
+     "text": "That works for me. Can we put it in my development plan so it doesn't get lost?",
+     "note_fr": "'So it doesn't get lost' = pour que cela ne tombe pas dans l'oubli."
+    },
+    {
+     "speaker": "Jordan",
+     "text": "Absolutely. I'll write it up today and we'll check in on it every month.",
+     "note_fr": "'To write something up' = mettre par écrit. 'To check in on' = faire un point régulier sur."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Jordan say Maya still needs to prove?",
+     "options": [
+      "Her technical skills",
+      "Her ability to manage performance and have difficult conversations",
+      "Her commitment to the firm",
+      "Her relationship with clients"
+     ],
+     "answer": 1,
+     "explain_fr": "« Where you haven't been tested yet is managing performance, having the tough conversations. »"
+    },
+    {
+     "q": "Why doesn't Jordan promise her the role this year?",
+     "options": [
+      "He thinks she will never be ready",
+      "The firm does not promote from within",
+      "She has not asked clearly enough",
+      "There is no vacancy, and he doesn't want to mislead her"
+     ],
+     "answer": 3,
+     "explain_fr": "« There's no opening, and I don't want to tell you something that isn't true. »"
+    },
+    {
+     "q": "What does Maya ask for at the end?",
+     "options": [
+      "That the plan be written into her development plan",
+      "A pay rise",
+      "A transfer to another team",
+      "A meeting with HR"
+     ],
+     "answer": 0,
+     "explain_fr": "« Can we put it in my development plan so it doesn't get lost? » : elle veut une trace écrite et un suivi."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-cr-1",
+   "title": "Giving feedback to a defensive team member",
+   "situation": "You are holding the annual appraisal of Daniel, an experienced salesman who meets his targets but is curt with colleagues in support functions. Two of them have complained. Give him the feedback and agree a way forward.",
+   "situation_fr": "Vous menez l'entretien annuel de Daniel, commercial expérimenté qui atteint ses objectifs mais se montre cassant avec ses collègues des fonctions support. Deux d'entre eux se sont plaints. Faites-lui ce retour et convenez d'une suite.",
+   "turns": [
+    {
+     "say": "So, I hit a hundred and eight per cent of target. I assume this is going to be a short meeting.",
+     "seconds": 30,
+     "model": "Your numbers are excellent, and I want to say that clearly before anything else. There is one other thing I'd like us to talk about, though, and it's the way you work with the support teams.",
+     "tips_fr": "Reconnaissez d'abord le résultat, sans réserve. Annoncez ensuite le sujet avec 'There is one other thing... though' : ferme, mais sans 'but' qui annulerait le compliment."
+    },
+    {
+     "say": "What's that supposed to mean? Has someone been complaining about me?",
+     "seconds": 35,
+     "model": "Let me give you a specific example. Last month, when the contract for the Hartley account was late, you told the legal assistant in front of the whole office that she was useless. She was very upset, and it's not the first time something like that has been reported to me.",
+     "tips_fr": "Ne répondez pas à la question 'qui ?'. Décrivez un fait précis, daté, puis son effet. Évitez tout adjectif sur la personne ('you are aggressive')."
+    },
+    {
+     "say": "Oh, come on. I was under pressure. If they did their jobs properly, I wouldn't have to chase them.",
+     "seconds": 35,
+     "model": "I understand the pressure, and you may well have a point about the delays. I'm happy to look into that separately. But the way it was said isn't acceptable, whatever the reason, and it makes people less willing to help you, not more.",
+     "tips_fr": "'You may well have a point' concède sans céder. Séparez les deux sujets (les retards / le comportement) et montrez son intérêt à changer."
+    },
+    {
+     "say": "Fine. So what do you want me to do?",
+     "seconds": 35,
+     "model": "Two things. When something's late, come to me or to their manager rather than taking it up with them in the open office. And I'd like to add a behavioural objective for next year on working with support functions, which we'll review together at mid-year. How does that sound?",
+     "tips_fr": "Proposez des actions concrètes et un objectif vérifiable. Terminez par une question ouverte ('How does that sound?') pour obtenir son adhésion."
+    },
+    {
+     "say": "I suppose that's reasonable. Is this going to affect my rating?",
+     "seconds": 30,
+     "model": "I'll be straight with you: the rating looks at how you get results as well as what you achieve, so yes, it will be reflected. Your results still count for a great deal, and if this improves, there's no reason it should hold you back next year.",
+     "tips_fr": "'I'll be straight with you' annonce une réponse franche. Ne minimisez pas, mais ouvrez une perspective."
+    }
+   ]
+  },
+  {
+   "id": "rp-cr-2",
+   "title": "Explaining French training rights to a British employee",
+   "situation": "Emma, a British marketing manager who joined your client's Paris office a year ago, comes to see you. She has heard colleagues talk about the 'CPF' and a 'bilan de compétences' and wants to know what she is entitled to.",
+   "situation_fr": "Emma, responsable marketing britannique arrivée il y a un an au bureau parisien de votre client, vient vous voir. Elle a entendu ses collègues parler du « CPF » et du « bilan de compétences » et veut savoir à quoi elle a droit.",
+   "turns": [
+    {
+     "say": "Everyone keeps mentioning their CPF. What is it, exactly? Do I have one?",
+     "seconds": 35,
+     "model": "You do. It stands for personal training account, and everyone who works in France has one. Money is credited to it each year, and you can spend it on approved training of your own choice. It's yours, not the company's, so it stays with you if you change jobs.",
+     "tips_fr": "Répondez d'abord à la question ('You do'), puis développez. 'It stands for' = cela signifie (pour un sigle). Insistez sur l'appartenance au salarié."
+    },
+    {
+     "say": "So I could use it for anything? A course that has nothing to do with marketing?",
+     "seconds": 35,
+     "model": "Within limits, yes. The course has to be on the approved list, but it doesn't have to be linked to your current role. The only time you need the company's agreement is if it takes place during working hours, because then you're asking for time off.",
+     "tips_fr": "'Within limits, yes' : un oui nuancé. Donnez la seule vraie contrainte côté employeur : l'autorisation d'absence."
+    },
+    {
+     "say": "And this skills assessment thing, the bilan? A colleague said it changed her life.",
+     "seconds": 40,
+     "model": "It can be very useful. It's a structured review of your skills and what motivates you, done with an outside adviser over several weeks. You come out with a clear plan for your next move. And it's confidential: the findings belong to you, and we only see them if you choose to share them.",
+     "tips_fr": "Décrivez le dispositif en trois temps : quoi, avec qui, pour quel résultat. La confidentialité est le point qui rassure le plus un salarié."
+    },
+    {
+     "say": "That sounds almost too good. Would the company think I'm planning to leave if I did one?",
+     "seconds": 35,
+     "model": "I can see why you'd wonder, but honestly, no. Plenty of people do one simply to take stock, and stay. If you'd rather keep it private, you can do it outside working hours with your training account and we wouldn't even know.",
+     "tips_fr": "'I can see why you'd wonder' valide l'inquiétude avant de rassurer. Offrez une solution discrète plutôt qu'une promesse."
+    },
+    {
+     "say": "That's really helpful. Where do I start?",
+     "seconds": 30,
+     "model": "The simplest thing is to log on to the official training account website and see what's in your account. There's also a free, confidential career advice service you can use before deciding anything. I'll send you both links this afternoon.",
+     "tips_fr": "Terminez par une action simple et un engagement précis de votre part. 'To log on to' = se connecter à."
+    }
+   ]
+  },
+  {
+   "id": "rp-cr-3",
+   "title": "Pushing back on forced ranking",
+   "situation": "On a video call, Brad, global head of HR operations at your client's US head office, insists that France must apply the same forced ranking as every other country: 10% of each team rated 'below expectations'. Explain why this will not work in France and propose an alternative.",
+   "situation_fr": "En visioconférence, Brad, responsable mondial des opérations RH au siège américain de votre client, exige que la France applique le même classement forcé que les autres pays : 10 % de chaque équipe en « below expectations ». Expliquez pourquoi cela ne peut pas fonctionner en France et proposez une autre solution.",
+   "turns": [
+    {
+     "say": "Look, every other country has signed up to the ten percent rule. I don't see why France should be the exception.",
+     "seconds": 35,
+     "model": "I understand you want one system worldwide, and most of it can apply in France as it stands. The piece that can't is the mandatory ten percent. Under French law, a rating has to reflect the person's actual work, and a fixed quota can't guarantee that.",
+     "tips_fr": "Commencez par ce qui est acceptable pour isoler le seul point de blocage. Avec un interlocuteur américain, soyez direct : 'The piece that can't is...'."
+    },
+    {
+     "say": "But it's just a guideline for managers. Nobody gets fired because of it.",
+     "seconds": 35,
+     "model": "If it really is a guideline, we're fine. French courts accept indicative ranges. The problem is the word 'must'. Your policy says each manager must place ten percent in the bottom category, and that's exactly what the courts have refused to accept.",
+     "tips_fr": "Reprenez son mot ('guideline') pour tracer la frontière : fourchette indicative admise, quota obligatoire refusé. Restez général sur la jurisprudence, sans citer d'arrêt."
+    },
+    {
+     "say": "And what's the actual risk? A fine?",
+     "seconds": 35,
+     "model": "It's less about a fine and more about what the ratings are worth. The works council or the unions could challenge the system in court, and any rating produced by a quota would be very weak evidence if you ever needed to rely on it. You'd also have to consult the works council before launching, and they'd oppose this.",
+     "tips_fr": "'It's less about X and more about Y' recadre la question. Donnez deux ou trois conséquences concrètes plutôt qu'un exposé de droit."
+    },
+    {
+     "say": "Okay. So what can you give me? I need differentiation, not everybody rated 'meets'.",
+     "seconds": 40,
+     "model": "You can have that. Keep the ranges, but call them expected rather than required. Then run calibration sessions where managers have to justify any big departure from the range with specific examples. In practice, you get very close to the same spread, and every rating can be defended.",
+     "tips_fr": "'You can have that' : montrez que vous répondez à son besoin réel (la différenciation). Proposez un mécanisme, pas seulement un refus."
+    },
+    {
+     "say": "All right. Put it in writing and I'll take it to Karen.",
+     "seconds": 25,
+     "model": "Will do. You'll have a one-page memo by Thursday with the legal position and the proposed wording for France. If it helps, I can join the call with Karen to answer questions.",
+     "tips_fr": "'Will do' = entendu (oral, efficace). Engagez-vous sur un livrable, une date et une offre de suivi."
+    }
+   ]
+  },
+  {
+   "id": "rp-cr-4",
+   "title": "Talking to someone who was passed over for promotion",
+   "situation": "You are HR manager. Nadia, a finance controller with six years' service, applied for the vacant Head of Finance Control role. An external candidate was appointed. She has asked to see you and is clearly disappointed. Give her honest feedback and discuss what comes next.",
+   "situation_fr": "Vous êtes responsable RH. Nadia, contrôleuse financière depuis six ans dans l'entreprise, a postulé au poste vacant de Head of Finance Control. Un candidat externe a été retenu. Elle a demandé à vous voir et sa déception est manifeste. Faites-lui un retour honnête et évoquez la suite.",
+   "turns": [
+    {
+     "say": "I'll be honest, I'm struggling with this. Six years here, and you give the job to someone from outside.",
+     "seconds": 35,
+     "model": "I appreciate you coming to tell me, and I'm not going to pretend it isn't disappointing. You were a serious candidate and the panel took your application seriously. I'd like to explain how the decision was made, if you're willing to hear it.",
+     "tips_fr": "Accueillez l'émotion sans vous justifier trop vite. 'I'm not going to pretend...' montre de la sincérité. Demandez la permission avant d'expliquer."
+    },
+    {
+     "say": "Go on, then. What did he have that I don't?",
+     "seconds": 40,
+     "model": "Mainly one thing: he has already led a team of fifteen through a system migration, and that's the big challenge of the next two years. On technical knowledge and understanding of the business, you were at least as strong. Where the panel hesitated was your experience of managing people at that scale.",
+     "tips_fr": "Donnez le critère décisif, concret et lié au poste. Équilibrez : ce qui était solide, ce qui manquait. Jamais de comparaison de personnalités."
+    },
+    {
+     "say": "Nobody ever told me I needed management experience. How was I supposed to get it?",
+     "seconds": 35,
+     "model": "That's a fair criticism, and I think we let you down there. It should have come up in your career interview long before now. What I can do is make sure it's addressed from today.",
+     "tips_fr": "Reconnaissez la part de responsabilité de l'entreprise ('we let you down there') : c'est ce qui rétablit la confiance. Puis tournez-vous vers l'avenir."
+    },
+    {
+     "say": "So what are you actually proposing? Because frankly I've started looking elsewhere.",
+     "seconds": 40,
+     "model": "I'd rather you didn't leave, and I'll tell you what I can offer. The new head will need a deputy to run the reporting team of five. I'd like to put you forward for that, with a place on the leadership programme this autumn. It isn't the job you wanted, but it's the experience you were missing.",
+     "tips_fr": "'I'd rather you didn't leave' : 'would rather' + prétérit. Soyez précis sur ce que vous proposez et honnête sur ce que ce n'est pas."
+    },
+    {
+     "say": "I need to think about it. I'm not going to say yes today.",
+     "seconds": 25,
+     "model": "Of course, take the time you need. I'll confirm the proposal in writing tomorrow so that you have something concrete to consider. Shall we talk again at the end of next week?",
+     "tips_fr": "N'insistez pas. Laissez du temps, confirmez par écrit et fixez un prochain rendez-vous."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Giving constructive feedback",
+   "function_fr": "Formuler un retour constructif",
+   "phrases": [
+    {
+     "text": "I'd like to share an observation about the way the meeting was handled.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Can I give you some feedback on the presentation?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "What worked really well was the way you opened.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "One thing I'd do differently next time is send the figures in advance.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "When the report came in late, the team had to work over the weekend.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "It might be worth involving the client a little earlier.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Here's what I'd change: get the client involved sooner.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "Just a quick thought on that email, if you've got a second.",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Responding to feedback",
+   "function_fr": "Accueillir un retour et y répondre",
+   "phrases": [
+    {
+     "text": "Thank you for raising this; I would welcome some specific examples.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "That's fair, and I'll take it on board.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "That's fair. I'll work on it.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "Could you give me an example, so I can see what you mean?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I hadn't looked at it that way. Let me think about it.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I see it slightly differently. May I explain what happened?",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "What would 'good' look like, in your view?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Point taken.",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Discussing career aspirations and managing expectations",
+   "function_fr": "Parler d'évolution de carrière et gérer les attentes",
+   "phrases": [
+    {
+     "text": "I would be keen to take on greater responsibility in due course.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Longer term, I see myself moving into a management role.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "What would it take for me to get to the next level?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Where would you like to be in two or three years' time?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Where do you want to be two or three years from now?",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "I can't promise you a promotion, but I can help you get ready for one.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "There is no vacancy at present; however, I would like to explore other ways of broadening your experience.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Let's be realistic about the timing.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  }
+ ]
+}
