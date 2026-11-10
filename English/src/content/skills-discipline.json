@@ -1,0 +1,1668 @@
+{
+ "reading": [
+  {
+   "id": "rd-ds-1",
+   "title": "Staff Handbook: Disciplinary Procedure",
+   "kind": "policy extract",
+   "level": 1,
+   "paragraphs": [
+    "12. Disciplinary procedure",
+    "12.1 The purpose of this procedure is to help employees whose conduct falls below the standard we expect to put matters right. It is not primarily a means of punishment. Minor issues will normally be dealt with informally, by a quiet word from your line manager.",
+    "12.2 Where an informal approach has not worked, or the matter is more serious, we will investigate without unreasonable delay. If there is a case to answer, you will be invited in writing to a disciplinary hearing. The letter will set out the allegations against you and enclose any evidence on which we intend to rely.",
+    "12.3 You have the right to be accompanied at the hearing by a colleague or a trade union representative. You will be given a full opportunity to state your case before any decision is reached.",
+    "12.4 Depending on the seriousness of the misconduct, the outcome may be no further action, a first written warning, a final written warning or dismissal. A first written warning will normally remain in force for six months and a final written warning for twelve months, after which it will be disregarded for disciplinary purposes.",
+    "12.5 No employee will be dismissed for a first offence, save in cases of gross misconduct, where the usual outcome is summary dismissal. A non-exhaustive list of examples is set out in Appendix B.",
+    "12.6 You may appeal against any disciplinary sanction by writing to the HR Director within five working days of receiving the outcome letter. The appeal will be heard, wherever possible, by a manager who has not previously been involved in the matter. The decision on appeal is final."
+   ],
+   "glossary": [
+    {
+     "term": "a quiet word",
+     "plain": "a short, private and informal conversation to tell someone to change their behaviour",
+     "fr": "une remarque faite en privé, un rappel à l'ordre informel"
+    },
+    {
+     "term": "a case to answer",
+     "plain": "enough evidence to justify holding a formal hearing",
+     "fr": "des éléments suffisants pour engager la procédure"
+    },
+    {
+     "term": "state your case",
+     "plain": "explain your side of things",
+     "fr": "présenter vos explications"
+    },
+    {
+     "term": "remain in force",
+     "plain": "continue to count",
+     "fr": "rester en vigueur"
+    },
+    {
+     "term": "summary dismissal",
+     "plain": "dismissal without notice",
+     "fr": "licenciement sans préavis"
+    },
+    {
+     "term": "outcome letter",
+     "plain": "the letter telling you what has been decided",
+     "fr": "lettre notifiant la décision"
+    },
+    {
+     "term": "appeal against",
+     "plain": "formally ask for a decision to be reviewed",
+     "fr": "former un recours contre"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "without unreasonable delay",
+     "plain": "reasonably quickly"
+    },
+    {
+     "phrase": "on which we intend to rely",
+     "plain": "that we plan to use to support our case"
+    },
+    {
+     "phrase": "save in cases of",
+     "plain": "except in cases of"
+    },
+    {
+     "phrase": "non-exhaustive list",
+     "plain": "a list of examples that does not cover every possible case"
+    },
+    {
+     "phrase": "disregarded for disciplinary purposes",
+     "plain": "no longer taken into account if there is a new problem"
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to the policy, what is the main aim of the disciplinary procedure?",
+     "options": [
+      "To punish employees who break the rules",
+      "To help employees bring their conduct back up to standard",
+      "To prepare the ground for dismissal",
+      "To protect the company against tribunal claims"
+     ],
+     "answer": 1,
+     "explain_fr": "Le point 12.1 précise que la procédure vise à aider le salarié à « put matters right » et qu'elle n'est pas « primarily a means of punishment »."
+    },
+    {
+     "q": "What must the letter inviting the employee to a hearing contain?",
+     "options": [
+      "The allegations and the evidence the employer will rely on",
+      "The sanction the manager has in mind",
+      "The name of the employee's companion",
+      "A copy of Appendix B"
+     ],
+     "answer": 0,
+     "explain_fr": "12.2 : la lettre « will set out the allegations » et « enclose any evidence on which we intend to rely ». La sanction n'est décidée qu'après l'audience."
+    },
+    {
+     "q": "An employee received a first written warning eight months ago. What is its status today?",
+     "options": [
+      "It is still in force for another four months",
+      "It has become a final written warning",
+      "It remains on file permanently",
+      "It is no longer taken into account"
+     ],
+     "answer": 3,
+     "explain_fr": "Un « first written warning » reste en vigueur six mois, puis il est « disregarded for disciplinary purposes »."
+    },
+    {
+     "q": "In which situation can an employee be dismissed for a first offence?",
+     "options": [
+      "When the line manager requests it",
+      "When the employee refuses to be accompanied",
+      "When the offence amounts to gross misconduct",
+      "When the employee does not appeal"
+     ],
+     "answer": 2,
+     "explain_fr": "12.5 : « save in cases of gross misconduct » = sauf en cas de faute grave, où l'issue habituelle est le « summary dismissal »."
+    }
+   ]
+  },
+  {
+   "id": "rd-ds-2",
+   "title": "Invitation to a pre-dismissal meeting (English translation for the parent company)",
+   "kind": "letter",
+   "level": 2,
+   "paragraphs": [
+    "By registered post with acknowledgement of receipt",
+    "Lyon, 3 March 2025",
+    "Dear Mr Morel,",
+    "We are writing to inform you that we are considering taking a disciplinary measure against you, which may go as far as dismissal.",
+    "In accordance with the applicable provisions of the French Labour Code, you are invited to a pre-dismissal meeting, which will take place on Wednesday 12 March 2025 at 10.00 a.m. at our offices, 14 rue de la République, Lyon, with Ms Hélène Garnier, HR Director.",
+    "The purpose of this meeting is to explain to you the reasons for the measure under consideration and to hear your explanations. No decision will be taken until the meeting has been held.",
+    "You may be assisted at the meeting by a person of your choice who is a member of the company's staff.",
+    "In view of the seriousness of the matters of which we have become aware, we hereby confirm the precautionary suspension notified to you orally this morning. You are therefore released from attending work, with immediate effect, pending the outcome of the procedure. This suspension is a holding measure and not a sanction.",
+    "Should you be unable to attend on the date stated above, please contact the undersigned as soon as possible.",
+    "Yours sincerely,",
+    "Hélène Garnier, HR Director"
+   ],
+   "glossary": [
+    {
+     "term": "which may go as far as dismissal",
+     "plain": "which could even be dismissal",
+     "fr": "pouvant aller jusqu'au licenciement"
+    },
+    {
+     "term": "pre-dismissal meeting",
+     "plain": "the compulsory meeting held before an employer in France decides whether to dismiss",
+     "fr": "entretien préalable"
+    },
+    {
+     "term": "the measure under consideration",
+     "plain": "the step the employer is thinking of taking",
+     "fr": "la mesure envisagée"
+    },
+    {
+     "term": "be assisted",
+     "plain": "have someone with you to support you",
+     "fr": "vous faire assister"
+    },
+    {
+     "term": "precautionary suspension",
+     "plain": "being told to stay away from work while the employer decides what to do",
+     "fr": "mise à pied conservatoire"
+    },
+    {
+     "term": "pending the outcome",
+     "plain": "until the result is known",
+     "fr": "dans l'attente de l'issue"
+    },
+    {
+     "term": "holding measure",
+     "plain": "a temporary step taken while waiting for a decision",
+     "fr": "mesure d'attente, mesure conservatoire"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "In accordance with the applicable provisions of",
+     "plain": "as required by the relevant rules of"
+    },
+    {
+     "phrase": "we hereby confirm",
+     "plain": "this letter confirms"
+    },
+    {
+     "phrase": "released from attending work",
+     "plain": "told not to come to work"
+    },
+    {
+     "phrase": "the undersigned",
+     "plain": "the person who has signed this letter"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What has the employer decided at this stage?",
+     "options": [
+      "To dismiss Mr Morel for gross misconduct",
+      "To give Mr Morel a written warning",
+      "Nothing yet: a measure is only being considered",
+      "To suspend Mr Morel without pay as a sanction"
+     ],
+     "answer": 2,
+     "explain_fr": "« We are considering » et « No decision will be taken until the meeting has been held » : rien n'est décidé avant l'entretien, conformément au droit français."
+    },
+    {
+     "q": "Who may come to the meeting with Mr Morel?",
+     "options": [
+      "His lawyer",
+      "Another employee of the company",
+      "A family member",
+      "Nobody: he must attend alone"
+     ],
+     "answer": 1,
+     "explain_fr": "« A person of your choice who is a member of the company's staff » : une personne appartenant au personnel de l'entreprise."
+    },
+    {
+     "q": "How does the letter describe the precautionary suspension?",
+     "options": [
+      "As a temporary measure that is not a punishment",
+      "As the first stage of the sanction",
+      "As unpaid leave requested by the employee",
+      "As a three-day disciplinary suspension"
+     ],
+     "answer": 0,
+     "explain_fr": "« This suspension is a holding measure and not a sanction » : la mise à pied conservatoire n'est pas une sanction, à la différence de la mise à pied disciplinaire."
+    },
+    {
+     "q": "What should Mr Morel do if he cannot attend on 12 March?",
+     "options": [
+      "Send a written explanation instead",
+      "Wait for a second invitation",
+      "Ask a colleague to attend in his place",
+      "Get in touch with Ms Garnier as soon as he can"
+     ],
+     "answer": 3,
+     "explain_fr": "« Please contact the undersigned as soon as possible » : « the undersigned » désigne la signataire, Mme Garnier."
+    }
+   ]
+  },
+  {
+   "id": "rd-ds-3",
+   "title": "Degrees of misconduct under French law",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Karen Doyle, VP People (Boston)\nFrom: Claire Besson\nRe: Paris warehouse incident - what 'misconduct' means in France",
+    "Karen, you asked whether the incident last Friday would allow us to terminate for cause. The short answer is: probably, but French law does not think in terms of 'cause' as defined by contract. It grades misconduct on a three-step scale, and the grade determines what the employee walks away with.",
+    "The first level is ordinary misconduct. It can justify dismissal, but the employee works, or is paid for, the notice period and receives statutory severance pay. The second level, faute grave, is close to what you would call gross misconduct: conduct so serious that the employee cannot remain in the business, even during the notice period. Here the employee forfeits both notice and severance. The third level, faute lourde, requires proof of intent to harm the company and is rarely upheld by the courts.",
+    "Two practical points follow. First, if we rely on faute grave we must act quickly; an employer who leaves the employee at his desk for three weeks will struggle to argue that keeping him on was impossible. That is why a precautionary suspension is usually notified at the outset. Second, the burden of proof is on us. If the court downgrades the misconduct, we will owe notice and severance after all.",
+    "Whatever the grade, accrued holiday pay remains due, and the usual procedure applies: an invitation letter, a meeting and a reasoned dismissal letter. I would suggest we speak on Monday before anything is said to the employee."
+   ],
+   "glossary": [
+    {
+     "term": "terminate for cause",
+     "plain": "dismiss someone for a reason that is their own fault, as defined in a contract or policy",
+     "fr": "licencier pour motif valable (notion contractuelle américaine)"
+    },
+    {
+     "term": "walks away with",
+     "plain": "receives when leaving",
+     "fr": "repart avec, perçoit à son départ"
+    },
+    {
+     "term": "forfeits",
+     "plain": "loses as a result of his or her own conduct",
+     "fr": "perd le bénéfice de"
+    },
+    {
+     "term": "intent to harm",
+     "plain": "a deliberate wish to cause damage",
+     "fr": "intention de nuire"
+    },
+    {
+     "term": "upheld",
+     "plain": "confirmed as correct",
+     "fr": "confirmée, retenue (par le juge)"
+    },
+    {
+     "term": "at the outset",
+     "plain": "right at the beginning",
+     "fr": "dès le départ"
+    },
+    {
+     "term": "burden of proof",
+     "plain": "the responsibility for proving something",
+     "fr": "charge de la preuve"
+    },
+    {
+     "term": "downgrades",
+     "plain": "moves to a lower, less serious category",
+     "fr": "requalifie à la baisse"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "statutory severance pay",
+     "plain": "the minimum leaving payment fixed by law"
+    },
+    {
+     "phrase": "a reasoned dismissal letter",
+     "plain": "a dismissal letter that explains the reasons"
+    },
+    {
+     "phrase": "accrued holiday pay",
+     "plain": "pay for holiday earned but not yet taken"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does the author say that the grade of misconduct matters?",
+     "options": [
+      "It decides which court hears the case",
+      "It decides whether a meeting must be held",
+      "It decides whether a lawyer must be present",
+      "It decides what payments the employee receives on leaving"
+     ],
+     "answer": 3,
+     "explain_fr": "« The grade determines what the employee walks away with » : préavis et indemnité de licenciement dépendent de la qualification de la faute."
+    },
+    {
+     "q": "What does an employee dismissed for faute grave lose?",
+     "options": [
+      "Notice and severance pay",
+      "Accrued holiday pay only",
+      "All sums, including accrued holiday pay",
+      "Nothing, unless intent to harm is proved"
+     ],
+     "answer": 0,
+     "explain_fr": "« The employee forfeits both notice and severance », mais « accrued holiday pay remains due » quelle que soit la faute."
+    },
+    {
+     "q": "Why is a precautionary suspension usually notified at the start?",
+     "options": [
+      "Because the law requires it in every disciplinary case",
+      "Because keeping the employee at work would contradict the claim that he cannot stay",
+      "Because it reduces the severance pay due",
+      "Because it replaces the pre-dismissal meeting"
+     ],
+     "answer": 1,
+     "explain_fr": "La faute grave rend impossible le maintien du salarié dans l'entreprise : le laisser à son poste affaiblit cet argument."
+    },
+    {
+     "q": "What happens if the court decides the misconduct was not faute grave?",
+     "options": [
+      "The employee must be taken back",
+      "The procedure has to start again",
+      "The employer has to pay notice and severance",
+      "The employer may rely on faute lourde instead"
+     ],
+     "answer": 2,
+     "explain_fr": "« If the court downgrades the misconduct, we will owe notice and severance after all » : requalification en faute simple, donc préavis et indemnité dus."
+    }
+   ]
+  },
+  {
+   "id": "rd-ds-4",
+   "title": "Notice of dismissal for unsatisfactory performance (English translation)",
+   "kind": "letter",
+   "level": 3,
+   "paragraphs": [
+    "By registered post with acknowledgement of receipt",
+    "Dear Ms Laurent,",
+    "Further to our meeting of 6 May 2025, at which you were assisted by Mr Paul Vidal, we regret to inform you that we have decided to dismiss you on the ground of unsatisfactory performance. The explanations you gave during the meeting have not led us to alter our assessment.",
+    "You joined the Company on 2 September 2019 as Key Account Manager. Since early 2024 your results have fallen consistently short of the objectives agreed with you each year, which were in line with those of your colleagues and which you did not dispute. By way of example, you achieved 58% of your sales target in 2024, against a team average of 97%, and three long-standing accounts were lost following complaints about delays in responding to clients.",
+    "These shortcomings were drawn to your attention in writing in March and September 2024. You were given additional product training and fortnightly coaching from your manager, and a six-month improvement plan was put in place. Notwithstanding this support, no sustained improvement has been recorded.",
+    "This situation, which is not disciplinary in nature, is detrimental to the proper running of the sales department and makes it impossible to continue your employment.",
+    "Your three-month notice period will begin on the date on which this letter is first presented to your home address. You will be paid your statutory or collectively agreed severance pay, whichever is the higher, together with pay in lieu of any accrued but untaken leave. Your end-of-contract documents will be made available to you on your last day.",
+    "Yours sincerely,",
+    "Marc Aubry, Managing Director"
+   ],
+   "glossary": [
+    {
+     "term": "alter our assessment",
+     "plain": "change our view of the situation",
+     "fr": "modifier notre appréciation"
+    },
+    {
+     "term": "fallen consistently short of",
+     "plain": "regularly failed to reach",
+     "fr": "été régulièrement en deçà de"
+    },
+    {
+     "term": "did not dispute",
+     "plain": "did not challenge or argue against",
+     "fr": "n'avez pas contestés"
+    },
+    {
+     "term": "shortcomings",
+     "plain": "weaknesses, failures to reach the standard",
+     "fr": "insuffisances, lacunes"
+    },
+    {
+     "term": "drawn to your attention",
+     "plain": "pointed out to you",
+     "fr": "portées à votre connaissance"
+    },
+    {
+     "term": "sustained improvement",
+     "plain": "progress that lasts",
+     "fr": "amélioration durable"
+    },
+    {
+     "term": "detrimental to",
+     "plain": "harmful to",
+     "fr": "préjudiciable à"
+    },
+    {
+     "term": "whichever is the higher",
+     "plain": "the larger of the two amounts",
+     "fr": "le montant le plus élevé des deux"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "Further to",
+     "plain": "following"
+    },
+    {
+     "phrase": "on the ground of",
+     "plain": "because of"
+    },
+    {
+     "phrase": "By way of example",
+     "plain": "for example"
+    },
+    {
+     "phrase": "Notwithstanding this support",
+     "plain": "in spite of this support"
+    },
+    {
+     "phrase": "not disciplinary in nature",
+     "plain": "not a matter of misconduct"
+    }
+   ],
+   "questions": [
+    {
+     "q": "On what basis is Ms Laurent being dismissed?",
+     "options": [
+      "Gross misconduct",
+      "Poor performance, with no fault alleged",
+      "An economic reorganisation of the sales team",
+      "Refusal to follow an improvement plan"
+     ],
+     "answer": 1,
+     "explain_fr": "« Unsatisfactory performance » et « not disciplinary in nature » : il s'agit d'une insuffisance professionnelle, non fautive."
+    },
+    {
+     "q": "Why does the letter mention that the objectives were in line with those of her colleagues?",
+     "options": [
+      "To show that the targets were realistic and fair",
+      "To show that the whole team underperformed",
+      "To justify a pay cut",
+      "To explain why she was not promoted"
+     ],
+     "answer": 0,
+     "explain_fr": "En droit français, l'insuffisance de résultats suppose des objectifs réalistes : la comparaison avec l'équipe (97 % en moyenne) le démontre."
+    },
+    {
+     "q": "What did the employer do before deciding to dismiss?",
+     "options": [
+      "It suspended her on full pay",
+      "It issued two disciplinary warnings",
+      "It transferred her to another department",
+      "It warned her in writing, trained and coached her, and set up an improvement plan"
+     ],
+     "answer": 3,
+     "explain_fr": "Troisième paragraphe du corps de la lettre : alertes écrites, formation, coaching et plan d'amélioration de six mois."
+    },
+    {
+     "q": "When does the notice period start?",
+     "options": [
+      "On the date of the meeting",
+      "On the date the letter was written",
+      "On the date the letter is first presented at her address",
+      "On her last day at work"
+     ],
+     "answer": 2,
+     "explain_fr": "« The date on which this letter is first presented to your home address » : la première présentation de la lettre recommandée."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-ds-1",
+   "title": "A first written warning",
+   "stage": 1,
+   "kind": "formal letter",
+   "brief": "You are HR adviser at a UK subsidiary. Tom Reid, a warehouse operative, has been late six times in a month despite an informal word. After a disciplinary hearing, write the letter confirming a first written warning: reference to the hearing, the conduct, the improvement expected, how long the warning lasts, the consequence of further lateness and the right of appeal.",
+   "brief_fr": "Vous êtes chargé(e) de RH dans une filiale britannique. Tom Reid, magasinier, est arrivé six fois en retard en un mois malgré un rappel informel. Après l'audience disciplinaire, rédigez la lettre confirmant un premier avertissement écrit : rappel de l'audience, faits, amélioration attendue, durée de validité, conséquence d'un nouveau retard et droit de recours.",
+   "gaps": [
+    {
+     "text": "___ the disciplinary hearing held on 9 April, I am writing to confirm the outcome.",
+     "answer": "Further to",
+     "accept": [
+      "Following"
+     ],
+     "explain_fr": "« Further to » introduit la référence à un échange antérieur. « Following » est possible ; « Following to » est fautif."
+    },
+    {
+     "text": "You accepted that you had arrived late on six occasions and did not put ___ any explanation.",
+     "answer": "forward",
+     "accept": [],
+     "explain_fr": "« To put forward an explanation » = avancer, présenter une explication. Verbe à particule courant à l'écrit soutenu."
+    },
+    {
+     "text": "I have therefore decided to ___ you with a first written warning.",
+     "answer": "issue",
+     "accept": [],
+     "explain_fr": "Au Royaume-Uni : « to issue someone with a warning ». On ne dit pas « to notify a warning »."
+    },
+    {
+     "text": "This warning will remain in ___ for six months from the date of this letter.",
+     "answer": "force",
+     "accept": [
+      "effect"
+     ],
+     "explain_fr": "« To remain in force » = rester en vigueur. « In vigour » est un calque."
+    },
+    {
+     "text": "Any further lateness during that period is ___ to result in a final written warning.",
+     "answer": "likely",
+     "accept": [],
+     "explain_fr": "« Is likely to result in » : formule prudente et consacrée. Elle annonce la conséquence sans la présenter comme automatique."
+    },
+    {
+     "text": "You have the right to appeal ___ this decision within five working days.",
+     "answer": "against",
+     "accept": [],
+     "explain_fr": "Anglais britannique : « to appeal against a decision ». Les Américains disent « to appeal a decision », sans préposition."
+    }
+   ],
+   "outline": [],
+   "model": "Dear Tom,\n\nFurther to the disciplinary hearing held on 9 April, at which you chose not to be accompanied, I am writing to confirm the outcome.\n\nThe hearing was arranged to consider your timekeeping. Between 3 and 28 March you arrived late for your shift on six occasions, by between fifteen and forty minutes, although your supervisor had spoken to you informally about this in February. At the hearing you accepted that this was the case and did not put forward any explanation.\n\nI have therefore decided to issue you with a first written warning. From now on, we expect you to be at your workstation at the start of every shift and to let your supervisor know before the shift begins if you are going to be delayed.\n\nThis warning will remain in force for six months from the date of this letter. Any further lateness during that period is likely to result in a final written warning.\n\nYou have the right to appeal against this decision. If you wish to do so, please write to Sarah Hughes, Operations Director, within five working days, setting out your grounds of appeal.\n\nI hope that we can now put this behind us. If there is anything making it difficult for you to get to work on time, do come and talk to me.\n\nYours sincerely,\n\nPriya Shah\nHR Adviser",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "at which you chose not to be accompanied",
+     "note_fr": "Préciser que le salarié a renoncé à être accompagné montre que ce droit lui a bien été proposé : réflexe de sécurisation typique d'une lettre britannique."
+    },
+    {
+     "quote": "by between fifteen and forty minutes",
+     "note_fr": "Des faits précis et datés plutôt que des appréciations (« often late »). C'est ce qui donne sa valeur probante à l'avertissement."
+    },
+    {
+     "quote": "From now on, we expect you to",
+     "note_fr": "L'avertissement ne se borne pas à reprocher : il fixe l'attente pour l'avenir, en termes concrets et vérifiables."
+    },
+    {
+     "quote": "is likely to result in",
+     "note_fr": "Formule mesurée : la conséquence est annoncée clairement, sans engager l'employeur à une sanction automatique."
+    },
+    {
+     "quote": "I hope that we can now put this behind us.",
+     "note_fr": "« To put something behind you » = tourner la page. Une note humaine en fin de lettre, très britannique, qui rappelle que le but est l'amélioration."
+    }
+   ],
+   "checklist": [
+    "Have I referred to the hearing and to the right to be accompanied?",
+    "Are the facts specific (dates, number of occasions)?",
+    "Have I said exactly what improvement is expected?",
+    "Have I stated how long the warning lasts and what happens if the conduct is repeated?",
+    "Have I explained how and by when to appeal?",
+    "Is the tone firm but not hostile?"
+   ],
+   "phrasebank": [
+    "Further to the disciplinary hearing held on..., I am writing to confirm the outcome.",
+    "At the hearing you accepted that...",
+    "I have therefore decided to issue you with a first written warning.",
+    "This warning will remain in force for... from the date of this letter.",
+    "Any further misconduct during that period is likely to result in...",
+    "You have the right to appeal against this decision.",
+    "If you wish to do so, please write to... within five working days."
+   ]
+  },
+  {
+   "id": "wr-ds-2",
+   "title": "Slowing down a US manager",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Brad, a US sales director, has emailed you: he intends to tell a Paris employee tomorrow, at the pre-dismissal meeting, that she is fired. Reply by email: explain that no decision can be announced at the meeting, what the meeting is for, when the letter can go out, and what he should and should not say.",
+   "brief_fr": "Brad, directeur commercial américain, vous a écrit : il compte annoncer demain à une salariée parisienne, lors de l'entretien préalable, qu'elle est licenciée. Répondez par e-mail : aucune décision ne peut être annoncée à l'entretien ; à quoi sert l'entretien ; quand la lettre peut partir ; ce qu'il doit dire et ne pas dire.",
+   "gaps": [
+    {
+     "text": "Before tomorrow's meeting, I wanted to ___ one point that could cause us a real problem.",
+     "answer": "flag",
+     "accept": [
+      "raise",
+      "highlight"
+     ],
+     "explain_fr": "« To flag a point » = signaler un point. Plus direct et plus naturel que « to draw your attention on » (qui est d'ailleurs fautif : « attention to »)."
+    },
+    {
+     "text": "Under French law, the decision cannot be announced, or even ___, at the meeting itself.",
+     "answer": "taken",
+     "accept": [
+      "made"
+     ],
+     "explain_fr": "« To take a decision » (plutôt britannique) ou « to make a decision » (universel). L'essentiel : la décision est postérieure à l'entretien."
+    },
+    {
+     "text": "The meeting is there so that you can explain your concerns and hear her ___ of the story.",
+     "answer": "side",
+     "accept": [
+      "version"
+     ],
+     "explain_fr": "« Her side of the story » = sa version des faits. Expression idiomatique et neutre."
+    },
+    {
+     "text": "The dismissal letter can go out no ___ than two working days after the meeting.",
+     "answer": "earlier",
+     "accept": [
+      "sooner"
+     ],
+     "explain_fr": "« No earlier than » = pas avant. Ne confondez pas avec « no later than » (au plus tard)."
+    },
+    {
+     "text": "If she asks whether she is being dismissed, simply say that no decision has been made ___.",
+     "answer": "yet",
+     "accept": [
+      "at this stage"
+     ],
+     "explain_fr": "« Not... yet » avec le present perfect : la décision reste à prendre. « At this stage » convient aussi."
+    },
+    {
+     "text": "I'd be happy to ___ you through the meeting step by step if that would help.",
+     "answer": "walk",
+     "accept": [
+      "talk",
+      "take"
+     ],
+     "explain_fr": "« To walk someone through something » = expliquer pas à pas. Très courant en anglais professionnel américain."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Tomorrow's meeting with Sophie - please read before 10 a.m.\n\nHi Brad,\n\nBefore tomorrow's meeting, I wanted to flag one point that could cause us a real problem.\n\nUnder French law, the decision cannot be announced, or even taken, at the meeting itself. I know that feels strange when your mind is made up, but a dismissal that is announced on the spot is treated as having no valid cause, however strong the underlying reasons.\n\nThe meeting is there so that you can explain your concerns and hear her side of the story. So: set out the facts, give her time to respond, take notes, and close by saying that you will consider what she has said.\n\nThe dismissal letter can go out no earlier than two working days after the meeting. I will have a draft ready for you by Friday.\n\nIf she asks whether she is being dismissed, simply say that no decision has been made yet. Please avoid phrases like \"we're letting you go\" or \"this is your last day.\"\n\nI'd be happy to walk you through the meeting step by step if that would help. I'm free any time after 3 p.m. Paris time today.\n\nBest,\nClaire",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I wanted to flag one point that could cause us a real problem.",
+     "note_fr": "Le passé (« I wanted to ») adoucit l'entrée en matière, mais l'enjeu est nommé d'emblée : un lecteur américain attend que l'on aille droit au but."
+    },
+    {
+     "quote": "I know that feels strange when your mind is made up",
+     "note_fr": "On reconnaît le point de vue de l'interlocuteur avant d'exposer la contrainte : le message passe mieux qu'un simple rappel de la règle."
+    },
+    {
+     "quote": "however strong the underlying reasons",
+     "note_fr": "« However + adjectif » = aussi... que soient. Tournure concessive élégante, qui évite « even if the reasons are very strong »."
+    },
+    {
+     "quote": "So: set out the facts, give her time to respond, take notes",
+     "note_fr": "Série d'impératifs courts : des consignes immédiatement applicables. « So: » marque le passage de l'explication à l'action."
+    },
+    {
+     "quote": "Please avoid phrases like",
+     "note_fr": "Donner les formules exactes à proscrire est plus efficace qu'une consigne abstraite."
+    }
+   ],
+   "checklist": [
+    "Does the subject line tell Brad that he must read this before the meeting?",
+    "Have I stated the rule in one clear sentence?",
+    "Have I explained the risk without lecturing him?",
+    "Have I told him what to say as well as what not to say?",
+    "Have I given the timing of the next step?",
+    "Is the style direct enough for a US reader?"
+   ],
+   "phrasebank": [
+    "I wanted to flag one point that could cause us a real problem.",
+    "I know that feels strange, but...",
+    "The meeting is there so that you can...",
+    "The letter can go out no earlier than...",
+    "If she asks..., simply say that no decision has been made yet.",
+    "Please avoid phrases like...",
+    "I'd be happy to walk you through it step by step."
+   ]
+  },
+  {
+   "id": "wr-ds-3",
+   "title": "Explaining faute grave to a British HR director",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "A British HR director asks whether 'faute grave' is simply the French for gross misconduct. Write one paragraph (130-170 words) explaining the notion, its consequences and the two practical precautions it calls for.",
+   "brief_fr": "Une DRH britannique vous demande si la « faute grave » est simplement l'équivalent français de « gross misconduct ». Rédigez un paragraphe (130 à 170 mots) expliquant la notion, ses conséquences et les deux précautions pratiques qu'elle impose.",
+   "gaps": [],
+   "outline": [
+    "Faute grave is close to gross misconduct, but it is a legal category rather than a contractual one",
+    "Definition: the employee cannot be kept on, even during the notice period",
+    "Consequences: no notice, no severance pay; accrued holiday pay still due",
+    "Precaution 1: act quickly, usually with a precautionary suspension",
+    "Precaution 2: the employer bears the burden of proof; risk of the court downgrading the misconduct",
+    "Still no dismissal on the spot: the usual procedure applies"
+   ],
+   "model": "Faute grave is the closest French equivalent to gross misconduct, but the two are not quite the same thing. Whereas gross misconduct is largely defined by your own disciplinary policy, faute grave is a legal category: misconduct so serious that the employee cannot be kept on, even for the notice period. The consequences are significant. The employee leaves without notice and without severance pay, although accrued holiday pay remains due. Two precautions follow from this. First, you need to move quickly once you know the facts, usually by placing the employee on precautionary suspension, because any delay undermines the argument that he could not stay. Secondly, it is for the employer to prove the misconduct, and a court that is not convinced may downgrade it, in which case notice and severance become payable after all. One last point: faute grave does not mean dismissal on the spot. The meeting and the letter are still required.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "but the two are not quite the same thing",
+     "note_fr": "« Not quite » : litote britannique qui annonce une vraie nuance sans dramatiser. Bien plus naturel que « there is a difference »."
+    },
+    {
+     "quote": "Whereas gross misconduct is largely defined by your own disciplinary policy",
+     "note_fr": "« Whereas » en tête de phrase construit le contraste entre les deux systèmes en une seule phrase, en partant de ce que la lectrice connaît."
+    },
+    {
+     "quote": "Two precautions follow from this.",
+     "note_fr": "Phrase d'annonce courte : elle donne le plan de la suite et relie les conseils à la définition (« follow from »)."
+    },
+    {
+     "quote": "any delay undermines the argument that he could not stay",
+     "note_fr": "« To undermine an argument » = fragiliser un argument. La raison est donnée, pas seulement la consigne."
+    },
+    {
+     "quote": "in which case notice and severance become payable after all",
+     "note_fr": "« In which case » et « after all » : la conséquence est rattachée avec fluidité, sans nouvelle phrase ni « consequently »."
+    },
+    {
+     "quote": "One last point:",
+     "note_fr": "Formule simple pour ajouter une mise en garde finale ; elle évite « moreover » ou « furthermore »."
+    }
+   ],
+   "checklist": [
+    "Did I start from the notion my reader already knows?",
+    "Have I given a one-sentence definition of faute grave?",
+    "Are the financial consequences clear, including what remains due?",
+    "Have I explained why speed matters, not just said that it does?",
+    "Have I avoided 'moreover' and 'indeed'?",
+    "Is the paragraph within 130-170 words?"
+   ],
+   "phrasebank": [
+    "... is the closest French equivalent to..., but the two are not quite the same thing.",
+    "Whereas X is defined by..., Y is a legal category.",
+    "The consequences are significant.",
+    "Two precautions follow from this.",
+    "It is for the employer to prove...",
+    "..., in which case... becomes payable after all.",
+    "One last point: ..."
+   ]
+  },
+  {
+   "id": "wr-ds-4",
+   "title": "Record of a PIP review meeting",
+   "stage": 2,
+   "kind": "meeting minutes",
+   "brief": "You sat in on the mid-point review of a performance improvement plan between Daniel Costa (account manager) and his manager, Ruth Evans. Write the 'Discussion and outcome' paragraph of the record (120-160 words): progress on each of the three objectives, Daniel's comments, the support agreed and the next step.",
+   "brief_fr": "Vous avez assisté au point d'étape à mi-parcours d'un plan d'amélioration des performances entre Daniel Costa (chargé de comptes) et sa responsable, Ruth Evans. Rédigez le paragraphe « Discussion and outcome » du compte rendu (120 à 160 mots) : avancement sur chacun des trois objectifs, observations de Daniel, soutien convenu et prochaine étape.",
+   "gaps": [],
+   "outline": [
+    "Objective 1 (response time to client queries): met",
+    "Objective 2 (weekly pipeline report): met since week 3",
+    "Objective 3 (new business: four meetings a month): not met, two meetings",
+    "Daniel's comments: territory change in May; asks for help with prospecting",
+    "Support agreed: joint calls with a senior colleague; target unchanged",
+    "Next step: final review on a given date; possible outcomes"
+   ],
+   "model": "RE noted that DC had met the first objective: all client queries logged since 2 June had been answered within one working day. The second objective had been met from week three onwards, the weekly pipeline report having been submitted on time on each occasion since then. The third objective had not been met; DC had held two new-business meetings in June against a target of four. DC said that the change of territory in May had left him with few warm contacts and asked for help with prospecting. RE acknowledged this but explained that the target would remain unchanged. It was agreed that DC would make joint calls with Lucy Grant on two afternoons a week until the end of the plan. The final review will take place on 31 July. RE reminded DC that, if all three objectives are not met by that date, the matter may proceed to a formal capability meeting.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "RE noted that DC had met the first objective",
+     "note_fr": "Style du compte rendu : initiales, discours indirect, concordance des temps (« noted that... had met »). On rapporte, on ne commente pas."
+    },
+    {
+     "quote": "the weekly pipeline report having been submitted on time",
+     "note_fr": "Proposition participiale (« having been submitted ») : registre écrit soutenu, qui évite une nouvelle phrase commençant par « because »."
+    },
+    {
+     "quote": "against a target of four",
+     "note_fr": "« Against a target of » : la préposition idiomatique pour comparer un résultat à un objectif."
+    },
+    {
+     "quote": "RE acknowledged this but explained that the target would remain unchanged.",
+     "note_fr": "« To acknowledge » = prendre acte, reconnaître. Le compte rendu consigne à la fois l'écoute et la fermeté."
+    },
+    {
+     "quote": "It was agreed that",
+     "note_fr": "Tournure impersonnelle classique pour consigner une décision commune ; elle évite d'attribuer l'initiative à l'un ou à l'autre."
+    },
+    {
+     "quote": "the matter may proceed to a formal capability meeting",
+     "note_fr": "« May » et non « will » : l'issue reste ouverte. Le compte rendu prouve que le salarié a été averti des conséquences possibles."
+    }
+   ],
+   "checklist": [
+    "Have I reported each objective with a fact or a figure?",
+    "Is everything in reported speech and in the past?",
+    "Have I recorded the employee's comments fairly?",
+    "Is the support agreed stated precisely (who, what, how often)?",
+    "Have I given the date of the next review and the possible consequences?",
+    "Have I kept my own opinions out of the record?"
+   ],
+   "phrasebank": [
+    "RE noted that...",
+    "... against a target of...",
+    "DC said that... and asked for...",
+    "RE acknowledged this but explained that...",
+    "It was agreed that... would...",
+    "The final review will take place on...",
+    "..., the matter may proceed to a formal... meeting."
+   ]
+  },
+  {
+   "id": "wr-ds-5",
+   "title": "Dismissal letter for gross misconduct (French law, in English)",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "Write the English version, for the group's UK headquarters, of a French dismissal letter for faute grave. Facts: Julien Morel, store manager in Lyon, recorded fictitious product returns on eleven occasions between 6 January and 21 February 2025 and kept the refunds in cash (2,340 euros in total); the facts were discovered during a stock audit on 28 February; pre-dismissal meeting on 12 March, at which he was assisted by a colleague and admitted the facts; precautionary suspension since 3 March.",
+   "brief_fr": "Rédigez la version anglaise, destinée au siège britannique du groupe, d'une lettre de licenciement pour faute grave de droit français. Faits : Julien Morel, directeur de magasin à Lyon, a enregistré onze retours de marchandises fictifs entre le 6 janvier et le 21 février 2025 et conservé les remboursements en espèces (2 340 euros au total) ; faits découverts lors d'un audit de stock le 28 février ; entretien préalable le 12 mars, où il était assisté d'un collègue et a reconnu les faits ; mise à pied conservatoire depuis le 3 mars.",
+   "gaps": [],
+   "outline": [
+    "Reference to the pre-dismissal meeting and to the assistance he received",
+    "The decision and its legal basis: dismissal for gross misconduct (faute grave)",
+    "The facts: precise, dated, with figures, and how they came to light",
+    "Why they make continued employment impossible",
+    "Consequences: immediate effect, no notice or severance, suspension period unpaid",
+    "Practical matters: final pay, end-of-contract documents, return of company property"
+   ],
+   "model": "By registered post with acknowledgement of receipt\n\nLyon, 17 March 2025\n\nDear Mr Morel,\n\nFurther to the pre-dismissal meeting held on 12 March 2025, at which you were assisted by Mr Karim Haddad, we write to inform you of our decision to dismiss you for gross misconduct (faute grave).\n\nThe reasons for this decision are as follows. A stock audit carried out at the Lyon store on 28 February 2025 revealed that, between 6 January and 21 February 2025, eleven product returns had been recorded on the till under your personal login although no goods had been brought back. On each occasion the corresponding refund was withdrawn in cash. The total amount involved is 2,340 euros.\n\nDuring the meeting you admitted that you had recorded these returns yourself and had kept the money. You explained that you were in financial difficulty and intended to repay it.\n\nWe have given careful consideration to your explanations. They cannot, however, alter our assessment of conduct which, on the part of a store manager entrusted with the Company's cash and with the supervision of his team, amounts to a serious and repeated breach of your duty of honesty and makes it impossible for you to remain in the business, even for the duration of a notice period.\n\nYour dismissal therefore takes effect on the date on which this letter is sent, without notice or severance pay. The period of precautionary suspension notified to you on 3 March 2025 will not be paid.\n\nYour final pay, including pay in lieu of accrued but untaken leave, and your end-of-contract documents will be available from the HR department from 20 March 2025. Please return your keys, access badge and laptop on that occasion.\n\nYours sincerely,\n\nHélène Garnier\nHR Director",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "we write to inform you of our decision to dismiss you for gross misconduct (faute grave)",
+     "note_fr": "La décision et sa qualification figurent dès le premier paragraphe. Le terme français entre parenthèses évite toute ambiguïté pour le lecteur britannique."
+    },
+    {
+     "quote": "The reasons for this decision are as follows.",
+     "note_fr": "Phrase charnière sobre. En droit français, les motifs énoncés fixent les limites du litige : ils doivent être précis, datés et vérifiables."
+    },
+    {
+     "quote": "although no goods had been brought back",
+     "note_fr": "Past perfect passif : les faits sont décrits de manière factuelle, sans adjectifs ni jugement moral (« fraudulent », « dishonest »)."
+    },
+    {
+     "quote": "We have given careful consideration to your explanations.",
+     "note_fr": "La lettre montre que les explications du salarié ont été entendues ; « to give consideration to » est plus soutenu que « to consider »."
+    },
+    {
+     "quote": "makes it impossible for you to remain in the business, even for the duration of a notice period",
+     "note_fr": "C'est la définition même de la faute grave, reprise en anglais : elle justifie l'absence de préavis."
+    },
+    {
+     "quote": "without notice or severance pay",
+     "note_fr": "« Without A or B » (et non « without A and B ») : après une négation, l'anglais coordonne par « or »."
+    }
+   ],
+   "checklist": [
+    "Have I referred to the meeting, its date and the person who assisted the employee?",
+    "Is the decision stated at the start, with its legal characterisation?",
+    "Are the facts precise, dated and free of emotional language?",
+    "Have I explained why the employee cannot be kept on?",
+    "Are the consequences (date of effect, notice, severance, suspension) all covered?",
+    "Have I dealt with final pay, documents and company property?"
+   ],
+   "phrasebank": [
+    "Further to the pre-dismissal meeting held on..., at which you were assisted by...",
+    "we write to inform you of our decision to dismiss you for...",
+    "The reasons for this decision are as follows.",
+    "During the meeting you admitted that...",
+    "We have given careful consideration to your explanations.",
+    "... makes it impossible for you to remain in the business.",
+    "Your dismissal therefore takes effect on..., without notice or severance pay.",
+    "Your final pay and end-of-contract documents will be available from..."
+   ]
+  },
+  {
+   "id": "wr-ds-6",
+   "title": "Advising a US client on dismissing for poor performance in France",
+   "stage": 3,
+   "kind": "client note",
+   "brief": "Megan Brooks, COO of a US software company, wants to dismiss Antoine, a Paris-based sales engineer (four years' service) who has missed his targets for two quarters. Nothing has been put in writing so far. Write a client note (220-280 words): can she dismiss now, what must be done first, the procedure and timeline, the cost, and your recommendation.",
+   "brief_fr": "Megan Brooks, directrice des opérations d'un éditeur de logiciels américain, veut licencier Antoine, ingénieur avant-vente à Paris (quatre ans d'ancienneté), qui n'a pas atteint ses objectifs depuis deux trimestres. Rien n'a été écrit jusqu'ici. Rédigez une note client (220 à 280 mots) : peut-elle licencier maintenant, que faire d'abord, procédure et calendrier, coût, recommandation.",
+   "gaps": [],
+   "outline": [
+    "Bottom line first: not yet, and why",
+    "What French law requires for a performance dismissal: realistic targets, written alerts, support, time to improve",
+    "The procedure once the file is ready: invitation, meeting, letter, notice",
+    "What it costs: notice, statutory or collectively agreed severance, accrued vacation",
+    "Recommendation and next step"
+   ],
+   "model": "Megan,\n\nThe bottom line: I would not dismiss Antoine now. The reason is sound in principle, but on today's file we could not prove it, and in France the employer has to.\n\nThere is no at-will employment here. A dismissal for poor performance must rest on facts we can document: targets that were realistic, shortfalls that were pointed out to him in writing, and a fair chance to improve with proper support. At present we have two missed quarters and nothing on paper. A French court would almost certainly find the dismissal to be without valid cause and award him damages.\n\nWhat I suggest is a three-month improvement plan, starting next week. His manager should set out the gaps in writing, agree three measurable objectives with him, offer training or coaching, and hold a review every two weeks. If he turns things around, the problem is solved. If he does not, we will have the file we need.\n\nThe procedure itself is short. We send a letter inviting him to a pre-dismissal meeting, hold the meeting at least five working days later, and send the dismissal letter no earlier than two working days after that. Nothing may be announced before the letter goes out.\n\nAs for cost, he would be entitled to his notice period, to severance pay under the statute or the collective agreement, whichever is higher, and to payment for accrued vacation. I will send you exact figures once I have his contract and pay slips.\n\nCould we speak on Thursday to agree the objectives? I can draft the plan for his manager by Monday.\n\nBest regards,\nClaire",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "The bottom line: I would not dismiss Antoine now.",
+     "note_fr": "« The bottom line » = l'essentiel, la conclusion. Un dirigeant américain veut la réponse d'abord, les raisons ensuite."
+    },
+    {
+     "quote": "and in France the employer has to",
+     "note_fr": "Ellipse du verbe (« has to [prove it] ») : chute brève et naturelle, qui donne du rythme après une phrase plus longue."
+    },
+    {
+     "quote": "At present we have two missed quarters and nothing on paper.",
+     "note_fr": "Le constat est posé sans reproche : « we » associe le conseil et le client. « Nothing on paper » = aucun écrit."
+    },
+    {
+     "quote": "If he turns things around, the problem is solved. If he does not, we will have the file we need.",
+     "note_fr": "Deux phrases parallèles présentent le plan comme gagnant dans les deux hypothèses : argument décisif pour un client pressé."
+    },
+    {
+     "quote": "Nothing may be announced before the letter goes out.",
+     "note_fr": "« May » d'interdiction, registre écrit. Rappel indispensable pour un manager habitué à annoncer la décision en réunion."
+    },
+    {
+     "quote": "As for cost,",
+     "note_fr": "« As for » introduit un nouveau point sans connecteur lourd. Les montants ne sont pas inventés : on annonce un chiffrage sur pièces."
+    }
+   ],
+   "checklist": [
+    "Does my first sentence answer her question?",
+    "Have I explained the French rule by contrast with what she knows (at-will)?",
+    "Have I said what is missing from the file and how to fix it?",
+    "Is the timeline accurate and easy to follow?",
+    "Have I avoided giving figures I cannot back up?",
+    "Does the note end with a concrete next step?"
+   ],
+   "phrasebank": [
+    "The bottom line: ...",
+    "The reason is sound in principle, but...",
+    "There is no at-will employment here.",
+    "At present we have... and nothing on paper.",
+    "What I suggest is...",
+    "The procedure itself is short.",
+    "As for cost, he would be entitled to...",
+    "Could we speak on Thursday to agree...?"
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-ds-1",
+   "title": "Suspend first, decide later",
+   "context": "A phone call between Helen, HR director of a British retail group, and Claire, a French HR consultant. A store manager in Lyon appears to have been taking cash from the till.",
+   "context_fr": "Conversation téléphonique entre Helen, DRH d'un groupe de distribution britannique, et Claire, consultante RH française. Un directeur de magasin lyonnais aurait détourné de l'argent de la caisse.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Helen",
+     "text": "Claire, thanks for ringing back so quickly. I take it you've seen the audit report?",
+     "note_fr": "« To ring back » (UK) = rappeler ; un Américain dirait « to call back ». « I take it (that)... » = je suppose que..."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I have, and it doesn't look good. Eleven refunds with no goods coming back, all under his login.",
+     "note_fr": "« I have » : réponse courte par l'auxiliaire. « It doesn't look good » : euphémisme typiquement britannique pour une situation grave."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Quite. Over here I'd suspend him on full pay this afternoon and get an investigation going. Can I do the same in Lyon?",
+     "note_fr": "« Quite. » = tout à fait (approbation sobre). « To get something going » = lancer quelque chose."
+    },
+    {
+     "speaker": "Claire",
+     "text": "You can suspend him, yes, but it works slightly differently. We'd use what's called a precautionary suspension, and it's normally unpaid if we end up dismissing for gross misconduct.",
+     "note_fr": "« What's called... » introduit le terme technique. « To end up doing » = finir par faire."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Unpaid? That would raise a few eyebrows in the UK.",
+     "note_fr": "« To raise eyebrows » = surprendre, faire tiquer. Au Royaume-Uni, la suspension pendant l'enquête est en principe rémunérée."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I can imagine. The logic is that it isn't a sanction, just a holding measure. If we decide in the end that it wasn't gross misconduct, he gets paid for the whole period.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Helen",
+     "text": "Right. And how long have we got? I'd rather not rush this.",
+     "note_fr": "« How long have we got? » (UK) ; aux États-Unis : « How long do we have? ». « I'd rather not » = je préférerais ne pas."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'm afraid we can't hang about. If we're saying he can't stay a day longer, we need to start the procedure more or less straight away, so the invitation letter should go out with the suspension.",
+     "note_fr": "« To hang about » (UK, familier) = traîner. « I'm afraid » adoucit la contrainte. « Straight away » = « right away » (US)."
+    },
+    {
+     "speaker": "Helen",
+     "text": "And the meeting itself, is that the equivalent of our disciplinary hearing?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "More or less. We put the facts to him and listen to what he has to say. The one big difference is that we mustn't announce anything at the meeting. The letter follows a few days later.",
+     "note_fr": "« To put the facts to someone » = exposer les faits à quelqu'un pour recueillir sa réaction. « Mustn't » : interdiction."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Understood. Does he get an appeal?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not an internal one, no. If he wants to challenge it, he goes to the employment tribunal. So the letter has to be watertight.",
+     "note_fr": "« Watertight » = inattaquable (littéralement : étanche). En France, pas de recours interne obligatoire, contrairement à la pratique britannique."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Then let's get it right. Could you let me have a draft by tomorrow morning?",
+     "note_fr": "« Could you let me have... » : demande polie et très britannique, plus douce que « send me »."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is Helen surprised by the French precautionary suspension?",
+     "options": [
+      "Because it lasts longer than in the UK",
+      "Because it may be unpaid",
+      "Because it requires a judge's approval",
+      "Because it counts as a first warning"
+     ],
+     "answer": 1,
+     "explain_fr": "« Unpaid? That would raise a few eyebrows in the UK » : au Royaume-Uni, la suspension pendant l'enquête est normalement rémunérée."
+    },
+    {
+     "q": "Why does Claire say they 'can't hang about'?",
+     "options": [
+      "The audit report expires after a week",
+      "The employee has already contacted a lawyer",
+      "The tribunal has set a deadline",
+      "Delay would contradict the claim that he cannot stay in the business"
+     ],
+     "answer": 3,
+     "explain_fr": "La faute grave suppose l'impossibilité de maintenir le salarié : l'employeur doit donc agir sans tarder."
+    },
+    {
+     "q": "What does Claire mean by saying the letter has to be 'watertight'?",
+     "options": [
+      "It must leave no room for challenge",
+      "It must be confidential",
+      "It must be short",
+      "It must be sent by email"
+     ],
+     "answer": 0,
+     "explain_fr": "« Watertight » = sans faille : faute de recours interne, la lettre sera examinée directement par le juge."
+    }
+   ]
+  },
+  {
+   "id": "dl-ds-2",
+   "title": "You can't fire her on Friday",
+   "context": "A video call between Brad, a US sales director who manages a small team in Paris, and Claire, a French HR consultant. Brad has lost patience with an account executive.",
+   "context_fr": "Visioconférence entre Brad, directeur commercial américain qui encadre une petite équipe à Paris, et Claire, consultante RH française. Brad a perdu patience avec une commerciale.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Brad",
+     "text": "Claire, I'll be straight with you. Sophie blew off the client meeting again on Tuesday. I'm in Paris Friday, and I want to terminate her then.",
+     "note_fr": "« To blow off » (US, familier) = sécher, faire faux bond. « I'm in Paris Friday » : l'américain omet souvent « on » devant le jour."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I hear you, and missing a client meeting twice is a real issue. But Friday won't work, and I'd rather tell you why now than after the fact.",
+     "note_fr": "« I hear you » = je comprends votre point de vue (sans forcément l'approuver). « After the fact » = après coup."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Okay. Why not?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Because in France you can't just have the conversation and hand over the paperwork. There's a required meeting first, and she has to get written notice of it at least five working days ahead.",
+     "note_fr": "« Ahead » = à l'avance. « Paperwork » = les documents, les formalités."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Five days' notice of a meeting? What does she do in the meantime, clean out the client database?",
+     "note_fr": "Ironie directe, typique du style américain. « To clean out » = vider."
+    },
+    {
+     "speaker": "Claire",
+     "text": "If that's a genuine concern, we can put her on leave until the meeting. Otherwise she just keeps working.",
+     "note_fr": "« To put someone on leave » : formulation américaine pour la mise à pied conservatoire ou la dispense d'activité."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Fine. So I meet with her the following week and tell her then.",
+     "note_fr": "« To meet with someone » : usage américain ; un Britannique dirait plutôt « to meet someone »."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not quite. At the meeting you lay out the problem and you listen. You can't tell her she's being let go, even if you've made up your mind. The letter goes out a couple of days later.",
+     "note_fr": "« Not quite » = pas tout à fait : manière polie de corriger. « To lay out » = exposer. « To make up one's mind » = se décider."
+    },
+    {
+     "speaker": "Brad",
+     "text": "That seems kind of artificial.",
+     "note_fr": "« Kind of » = un peu, plutôt (atténuateur familier, surtout US)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I get that. But if you announce it in the room, a judge will treat the dismissal as having no valid cause, however good your reasons are. It's an expensive shortcut.",
+     "note_fr": "« I get that » = je comprends. « An expensive shortcut » : image concrète, plus parlante pour un manager qu'une référence juridique."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Got it. And do two missed meetings actually count as a valid reason over there?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "They might, especially if she was warned after the first one. Was she? In writing?",
+     "note_fr": "Questions courtes et directes : on vérifie l'existence d'un écrit, élément clé du dossier."
+    },
+    {
+     "speaker": "Brad",
+     "text": "I chewed her out on the phone. Nothing in writing.",
+     "note_fr": "« To chew someone out » (US, familier) = passer un savon à quelqu'un."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then let's look at the whole picture before we pick the route. Send me whatever you have, emails, calendar invites, the client's complaint, and I'll come back to you tomorrow with a plan.",
+     "note_fr": "« To look at the whole picture » = examiner la situation dans son ensemble. « To come back to someone » = revenir vers quelqu'un (« to revert » est à éviter)."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why can't Brad dismiss Sophie on Friday?",
+     "options": [
+      "Because he is not her legal employer",
+      "Because she must first receive a written warning",
+      "Because a meeting must be held first, with several working days' written notice",
+      "Because dismissals cannot be announced on a Friday"
+     ],
+     "answer": 2,
+     "explain_fr": "L'entretien préalable est obligatoire et la convocation doit être reçue au moins cinq jours ouvrables avant."
+    },
+    {
+     "q": "What is Brad allowed to do at the meeting?",
+     "options": [
+      "Explain the problem and listen to Sophie",
+      "Tell her that she is dismissed",
+      "Hand her the dismissal letter",
+      "Negotiate her severance"
+     ],
+     "answer": 0,
+     "explain_fr": "« You lay out the problem and you listen » : l'entretien sert à exposer les griefs et à recueillir les explications, pas à annoncer la décision."
+    },
+    {
+     "q": "What weakness in the file does Claire identify at the end?",
+     "options": [
+      "Sophie has too much seniority",
+      "The client has not complained",
+      "Brad was not in Paris at the time",
+      "The earlier reprimand was only oral"
+     ],
+     "answer": 3,
+     "explain_fr": "« I chewed her out on the phone. Nothing in writing » : aucun écrit ne prouve que la salariée a été alertée."
+    }
+   ]
+  },
+  {
+   "id": "dl-ds-3",
+   "title": "Opening a performance improvement plan",
+   "context": "A meeting in a London office between Ruth, a sales manager, and Daniel, an account manager whose results have slipped. Ruth is introducing a performance improvement plan.",
+   "context_fr": "Entretien dans un bureau londonien entre Ruth, responsable commerciale, et Daniel, chargé de comptes dont les résultats se sont dégradés. Ruth lui présente un plan d'amélioration des performances.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Ruth",
+     "text": "Thanks for coming in, Daniel. I wanted us to have a proper conversation about how things have been going, because I don't think either of us is happy with the last couple of quarters.",
+     "note_fr": "« A proper conversation » (UK) = une vraie discussion. « Either of us » associe les deux interlocuteurs et dédramatise l'ouverture."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "No, fair enough. I know the numbers aren't where they should be.",
+     "note_fr": "« Fair enough » = c'est juste, je le reconnais. Très fréquent à l'oral britannique."
+    },
+    {
+     "speaker": "Ruth",
+     "text": "I appreciate you saying that. There are three things I'm concerned about: response times to clients, the weekly pipeline report, and new business.",
+     "note_fr": "« I appreciate you saying that » valorise la franchise de l'autre. Annoncer « three things » structure la suite."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "The new business I'd dispute a bit, to be honest. I lost half my contacts when the territories changed.",
+     "note_fr": "« I'd dispute that a bit » : désaccord poli. « To be honest » adoucit l'objection."
+    },
+    {
+     "speaker": "Ruth",
+     "text": "That's a fair point, and I'll take it into account. All the same, two new meetings in a quarter isn't enough, and we need to find a way of getting that up.",
+     "note_fr": "« All the same » = malgré tout : on concède, puis on maintient l'exigence. « To get something up » = faire remonter."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "So what happens now? Is this a disciplinary?",
+     "note_fr": "« A disciplinary » (UK, familier) = une procédure ou un entretien disciplinaire."
+    },
+    {
+     "speaker": "Ruth",
+     "text": "No, it isn't. Nobody's suggesting you've done anything wrong. What I'd like to do is put a three-month improvement plan in place, with clear targets and some support behind it.",
+     "note_fr": "Distinction essentielle : insuffisance n'est pas faute. « To put a plan in place » = mettre en place un plan."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "And if I don't hit the targets?",
+     "note_fr": "« To hit a target » = atteindre un objectif."
+    },
+    {
+     "speaker": "Ruth",
+     "text": "I'd rather be straight with you. If there's no real improvement by the end of the plan, we'd have to move to the formal capability procedure, and that can ultimately lead to dismissal. But that's not where I want this to go.",
+     "note_fr": "« I'd rather be straight with you » annonce une information difficile avec respect. « Ultimately » = en dernier ressort (faux ami : ne signifie pas « dernièrement »)."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Right. What sort of support are we talking about?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Ruth",
+     "text": "Joint calls with Lucy twice a week, for a start, and a catch-up with me every other Friday. If there's anything else that would help, now's the time to say.",
+     "note_fr": "« For a start » = pour commencer. « Every other Friday » = un vendredi sur deux. « A catch-up » = un point d'étape."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "The joint calls would help, actually. Could I have a look at the targets before I sign anything?",
+     "note_fr": "« Actually » = en fait (faux ami : jamais « actuellement »)."
+    },
+    {
+     "speaker": "Ruth",
+     "text": "Of course. Take it away, sleep on it, and we'll go through it together on Monday.",
+     "note_fr": "« To sleep on it » = prendre la nuit pour réfléchir. « To go through » = passer en revue."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How does Ruth react when Daniel disputes the new-business point?",
+     "options": [
+      "She drops the objective",
+      "She accepts his point but keeps the requirement",
+      "She tells him the decision is not open to discussion",
+      "She postpones the meeting"
+     ],
+     "answer": 1,
+     "explain_fr": "« That's a fair point... All the same, two new meetings in a quarter isn't enough » : concession suivie du maintien de l'exigence."
+    },
+    {
+     "q": "Is the meeting a disciplinary one?",
+     "options": [
+      "Yes, it is a first warning",
+      "Yes, because targets were missed",
+      "No, but Daniel is suspended",
+      "No, it concerns performance, not wrongdoing"
+     ],
+     "answer": 3,
+     "explain_fr": "« Nobody's suggesting you've done anything wrong » : la démarche relève de la « capability », non de la discipline."
+    },
+    {
+     "q": "What could happen if there is no improvement by the end of the plan?",
+     "options": [
+      "A formal capability procedure, which may end in dismissal",
+      "An automatic pay cut",
+      "An immediate transfer to another team",
+      "Nothing: the plan would simply be renewed"
+     ],
+     "answer": 0,
+     "explain_fr": "« We'd have to move to the formal capability procedure, and that can ultimately lead to dismissal »."
+    }
+   ]
+  },
+  {
+   "id": "dl-ds-4",
+   "title": "Building the file",
+   "context": "A call between Dana, in-house employment counsel at a US company in Chicago, and Claire, a French HR consultant. They are reviewing the planned dismissal of a Paris-based engineer for poor performance.",
+   "context_fr": "Échange téléphonique entre Dana, juriste en droit social d'une société américaine à Chicago, et Claire, consultante RH française. Elles examinent le projet de licenciement pour insuffisance professionnelle d'un ingénieur basé à Paris.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Dana",
+     "text": "So, Claire, I've read your note. In Chicago I'd say he's at-will, document the conversation, and we're done. Walk me through why Paris is different.",
+     "note_fr": "« We're done » = c'est réglé. « Walk me through » = expliquez-moi pas à pas."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure. The starting point is the opposite. In France every dismissal needs a real and serious cause, and if he sues, it's on us to show it.",
+     "note_fr": "« It's on us to... » (US) = c'est à nous de... ; « to sue » = attaquer en justice."
+    },
+    {
+     "speaker": "Dana",
+     "text": "So it's a just-cause standard, like under a union contract.",
+     "note_fr": "Dana rattache la notion à ce qu'elle connaît : la « just cause » des conventions collectives américaines."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's a good way to think about it, except it applies to everyone, by law. And poor performance isn't treated as misconduct. It's a separate track.",
+     "note_fr": "« That's a good way to think about it, except... » : on valide l'analogie avant de la nuancer. « A separate track » = une voie distincte."
+    },
+    {
+     "speaker": "Dana",
+     "text": "What does a judge want to see on that track?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Three things, basically. That the goals were realistic, that he was told in writing he was falling short, and that he got time and support to fix it.",
+     "note_fr": "« To fall short » = être en deçà. « To fix » (surtout US) = corriger, régler."
+    },
+    {
+     "speaker": "Dana",
+     "text": "We have a PIP from last fall. Does that help?",
+     "note_fr": "« Fall » (US) = « autumn » (UK)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It helps a lot, as long as it was a real one. If the targets were raised halfway through, his lawyer will say he was set up to fail.",
+     "note_fr": "« As long as » = à condition que. « To be set up to fail » = être mis en situation d'échec."
+    },
+    {
+     "speaker": "Dana",
+     "text": "They weren't. Same quota as the rest of the team. One more question: he's on the works council. Does that change anything?",
+     "note_fr": "« Quota » (US) = objectif commercial chiffré."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It changes a great deal, I'm afraid. He's a protected employee, so on top of the usual procedure we need the labor inspector's authorization before we can dismiss.",
+     "note_fr": "« I'm afraid » introduit la mauvaise nouvelle. « On top of » = en plus de. Orthographe américaine : « labor », « authorization »."
+    },
+    {
+     "speaker": "Dana",
+     "text": "A government sign-off on an individual termination. Okay. How long does that take?",
+     "note_fr": "« A sign-off » = une validation. Réaction sobre, mais la surprise est perceptible."
+    },
+    {
+     "speaker": "Claire",
+     "text": "A couple of months is typical, and the inspector can say no. I'd plan on that from the start rather than hope for the best.",
+     "note_fr": "« To plan on something » (US) = tabler sur. « To hope for the best » = espérer que tout se passe bien."
+    },
+    {
+     "speaker": "Dana",
+     "text": "Understood. Send me the timeline and I'll brief the business.",
+     "note_fr": "« To brief the business » = informer les opérationnels. « The business » désigne ici les dirigeants non juristes."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What analogy does Dana use to understand the French rule?",
+     "options": [
+      "At-will employment",
+      "A probationary period",
+      "The just-cause standard found in union contracts",
+      "A non-compete clause"
+     ],
+     "answer": 2,
+     "explain_fr": "« So it's a just-cause standard, like under a union contract » ; Claire précise qu'en France la règle vaut pour tous, de par la loi."
+    },
+    {
+     "q": "Under what condition does the earlier PIP help the employer?",
+     "options": [
+      "If it was signed by a lawyer",
+      "If it was genuine, with targets that were not changed along the way",
+      "If it lasted at least a year",
+      "If the employee refused to sign it"
+     ],
+     "answer": 1,
+     "explain_fr": "« As long as it was a real one. If the targets were raised halfway through, his lawyer will say he was set up to fail. »"
+    },
+    {
+     "q": "What difference does the employee's seat on the works council make?",
+     "options": [
+      "None, for a performance dismissal",
+      "He cannot be dismissed at all",
+      "He is entitled to double severance",
+      "The labour inspector must authorise the dismissal beforehand"
+     ],
+     "answer": 3,
+     "explain_fr": "Salarié protégé : l'autorisation préalable de l'inspecteur du travail s'ajoute à la procédure habituelle."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-ds-1",
+   "title": "Explaining the pre-dismissal meeting to a US manager",
+   "situation": "Brad, a US sales director, must hold a pre-dismissal meeting in Paris next week with an employee who has repeatedly missed client appointments. He has never done this before and calls you for a briefing.",
+   "situation_fr": "Brad, directeur commercial américain, doit tenir la semaine prochaine à Paris un entretien préalable avec une salariée qui a manqué plusieurs rendez-vous clients. C'est une première pour lui : il vous appelle pour être préparé.",
+   "turns": [
+    {
+     "say": "OK, so what exactly is this meeting for? Back home I'd just tell her and be done with it.",
+     "seconds": 30,
+     "model": "I understand, but here the meeting comes before the decision, not after. Its purpose is to tell her what the concerns are and to hear what she has to say. You only decide once you've listened.",
+     "tips_fr": "Commencez par reconnaître son point de vue (« I understand, but... »), puis donnez la fonction de l'entretien en deux verbes simples : « tell » et « hear »."
+    },
+    {
+     "say": "She's bringing a colleague with her. Is that normal? What does that person do?",
+     "seconds": 30,
+     "model": "Yes, that's her right, and it's perfectly normal. The colleague is there to support her and may ask questions or make comments. Just treat them courteously; you don't have to debate with them.",
+     "tips_fr": "Rassurez d'abord (« perfectly normal »), puis décrivez le rôle. « Just » + impératif donne un conseil simple et direct."
+    },
+    {
+     "say": "And what do I actually say? Give me the outline.",
+     "seconds": 40,
+     "model": "Three steps, really. Start by saying that the company is considering a measure that could go as far as dismissal. Then set out the facts, with dates: the appointments she missed and the client's complaint. Finally, ask for her explanations and take careful notes of what she says.",
+     "tips_fr": "Annoncez le nombre d'étapes, puis enchaînez « Start by... Then... Finally... ». Restez concret : « with dates »."
+    },
+    {
+     "say": "What if she asks me straight out, 'Am I fired?'",
+     "seconds": 30,
+     "model": "Then you say, quite honestly, that no decision has been made and that you'll think over what she's told you. I know that may feel awkward, but announcing it in the room would undermine the whole procedure.",
+     "tips_fr": "Donnez la phrase exacte à prononcer. « I know that may feel awkward, but... » : on anticipe sa gêne avant de rappeler l'enjeu."
+    },
+    {
+     "say": "All right. And after the meeting, how soon can we send the letter?",
+     "seconds": 30,
+     "model": "Not before two working days have passed, and in a disciplinary case no later than a month after the meeting. In practice I'd aim for the following week, which gives us time to review her explanations and get the wording right.",
+     "tips_fr": "Donnez la règle (« not before... no later than... »), puis votre recommandation pratique introduite par « In practice I'd aim for... »."
+    }
+   ]
+  },
+  {
+   "id": "rp-ds-2",
+   "title": "Faute grave or not? A British HR director wants to know",
+   "situation": "Helen, HR director of a British group, calls you about a French employee who insulted his manager in front of the team after being refused a day off. He has twelve years' service and a clean record. She wants to dismiss him for gross misconduct.",
+   "situation_fr": "Helen, DRH d'un groupe britannique, vous appelle au sujet d'un salarié français qui a insulté son responsable devant l'équipe après un refus de congé. Il a douze ans d'ancienneté et un dossier vierge. Elle veut le licencier pour faute grave.",
+   "turns": [
+    {
+     "say": "He swore at his manager in front of six people. Surely that's gross misconduct in any country?",
+     "seconds": 35,
+     "model": "It's certainly misconduct, and nobody would argue otherwise. Whether a French court would call it faute grave is less clear-cut. It will look at the context, and twelve years without a single warning will weigh heavily in his favour.",
+     "tips_fr": "Accordez l'évidence (« It's certainly misconduct »), puis nuancez avec « less clear-cut » (moins tranché). « To weigh in someone's favour » = jouer en sa faveur."
+    },
+    {
+     "say": "So what are my options, realistically?",
+     "seconds": 40,
+     "model": "There are three, I'd say. A written warning or a short disciplinary suspension, which would be hard to challenge. Dismissal for ordinary misconduct, with notice and severance. Or dismissal for faute grave, which is the riskiest, because if the court downgrades it you pay notice and severance anyway, plus damages if it finds no valid cause at all.",
+     "tips_fr": "Présentez les options de la moins risquée à la plus risquée. « I'd say » adoucit ; « hard to challenge » = difficilement contestable."
+    },
+    {
+     "say": "If we do go for dismissal, do I need to suspend him in the meantime?",
+     "seconds": 30,
+     "model": "Only if you're going for faute grave. In that case a precautionary suspension is consistent with saying he can't stay. If you're thinking of a warning or ordinary misconduct, I'd leave him at work.",
+     "tips_fr": "Réponse conditionnelle en deux temps : « Only if... In that case... If..., I'd... ». « Consistent with » = cohérent avec."
+    },
+    {
+     "say": "And how long have I got to make up my mind?",
+     "seconds": 30,
+     "model": "Two months from the day the company found out, to start the procedure. That said, if you have faute grave in mind, I wouldn't leave it more than a few days. A long wait suggests the situation wasn't so unbearable after all.",
+     "tips_fr": "« That said » = cela dit : introduit la réserve pratique. « I wouldn't leave it » : conseil formulé au conditionnel, à la britannique."
+    },
+    {
+     "say": "What would you do in my position?",
+     "seconds": 35,
+     "model": "Honestly, I'd hold the meeting first and listen to him before choosing. If he apologises and there's nothing else on file, a disciplinary suspension sends a strong message at very little risk. If he shows no regret at all, dismissal for ordinary misconduct is defensible.",
+     "tips_fr": "« Honestly, I'd... » : donnez un avis net mais conditionnel. « Defensible » = défendable devant un juge ; « at very little risk » chiffre le risque sans jargon."
+    }
+   ]
+  },
+  {
+   "id": "rp-ds-3",
+   "title": "Starting a difficult performance conversation",
+   "situation": "You are the HR consultant sitting alongside a line manager. You open a meeting with Emma, a project manager whose last three projects were delivered late. You must explain the concerns, present an improvement plan and answer her questions. Emma is defensive.",
+   "situation_fr": "Vous êtes la consultante RH aux côtés du responsable hiérarchique. Vous ouvrez un entretien avec Emma, cheffe de projet dont les trois derniers projets ont été livrés en retard. Vous devez exposer les difficultés, présenter un plan d'amélioration et répondre à ses questions. Emma est sur la défensive.",
+   "turns": [
+    {
+     "say": "I've a feeling I know what this is about. Am I in trouble?",
+     "seconds": 30,
+     "model": "You're not in trouble, Emma, and this isn't a disciplinary meeting. We do have some concerns about how the last few projects have gone, though, and we'd like to talk them through with you and agree on a way forward.",
+     "tips_fr": "Répondez d'abord à l'inquiétude, puis nommez le sujet. « Though » en fin de proposition nuance sans opposer frontalement. « A way forward » = une solution pour la suite."
+    },
+    {
+     "say": "The delays weren't my fault. The developers were pulled onto other work every time.",
+     "seconds": 35,
+     "model": "That's useful to know, and we'll look into it. At the same time, the client told us they only heard about the delays at the last minute. Whatever the cause, keeping the client informed is part of the project manager's role, and that's one of the things we'd like to work on.",
+     "tips_fr": "Accueillez l'objection (« That's useful to know »), puis recentrez avec « At the same time ». Séparez ce qui lui échappe de ce qui relève de son rôle."
+    },
+    {
+     "say": "So what is this plan, exactly?",
+     "seconds": 40,
+     "model": "It's a three-month plan with three objectives: a realistic schedule agreed at the start of each project, a weekly status update to the client, and an early warning to your manager as soon as a deadline is at risk. You'll have a review with him every two weeks, and we can arrange planning training if you'd find it helpful.",
+     "tips_fr": "Soyez concret : durée, nombre d'objectifs, fréquence des points, soutien. « If you'd find it helpful » présente la formation comme une aide, non comme une sanction."
+    },
+    {
+     "say": "And if it doesn't work out? Are you going to dismiss me?",
+     "seconds": 35,
+     "model": "I'd rather be honest with you. If things haven't improved by the end of the plan, the company would have to consider its options, and dismissal is one of them. But the whole point of the plan is to avoid that, and we wouldn't be doing this if we didn't think you could turn it around.",
+     "tips_fr": "Ne niez pas le risque : « I'd rather be honest with you ». Terminez sur la confiance. « To turn it around » = redresser la situation."
+    },
+    {
+     "say": "Fine. Do I have to sign it today?",
+     "seconds": 25,
+     "model": "Not at all. Take it home, read it carefully and come back to us with any comments by Friday. If you think an objective is unrealistic, say so, and we'll discuss it.",
+     "tips_fr": "Trois impératifs brefs, ton rassurant. Inviter à contester un objectif montre la bonne foi de la démarche, et renforce le dossier."
+    }
+   ]
+  },
+  {
+   "id": "rp-ds-4",
+   "title": "Redundancy is not a shortcut",
+   "situation": "Megan, COO of a US company, has an underperforming marketing manager in Paris. To avoid a long improvement plan, she suggests 'laying him off' and hiring someone better into the same job a month later. Explain why this will not work and what the real options are.",
+   "situation_fr": "Megan, directrice des opérations d'une société américaine, a un responsable marketing peu performant à Paris. Pour éviter un long plan d'amélioration, elle propose de le « licencier économiquement » puis de recruter quelqu'un de meilleur au même poste un mois plus tard. Expliquez pourquoi cela ne tiendra pas et quelles sont les vraies options.",
+   "turns": [
+    {
+     "say": "Here's my idea: we call it a layoff. No drama about his performance, he gets his severance, everybody moves on.",
+     "seconds": 35,
+     "model": "I can see the appeal, but I'm afraid it wouldn't hold up. In France a dismissal on economic grounds means the job itself is going, for reasons that have nothing to do with the person. If the real problem is his performance, a court would see the economic reason as a pretext.",
+     "tips_fr": "« I can see the appeal, but... » : reconnaissez l'attrait de l'idée avant de l'écarter. « To hold up » = tenir (devant un juge)."
+    },
+    {
+     "say": "How would anyone ever know what the real reason was?",
+     "seconds": 35,
+     "model": "Quite easily, in practice. If you advertise the same job a month later, that's the proof. He would also have priority for re-hiring if the position reopened, so he'd be the first person to find out.",
+     "tips_fr": "Réponse brève et factuelle, puis deux éléments concrets. « That's the proof » : phrase courte, style direct adapté à une interlocutrice américaine."
+    },
+    {
+     "say": "OK, so say we do eliminate the position for real. What's involved?",
+     "seconds": 40,
+     "model": "Then you need a genuine economic reason you can document, such as real financial difficulties or a reorganization the business actually needs. You also have to look for another position for him before dismissing. And the meeting and the letter still apply, even for a single job.",
+     "tips_fr": "Enchaînez trois exigences avec « Then... You also have to... And... ». Orthographe américaine dans un contexte US : « reorganization »."
+    },
+    {
+     "say": "That's a lot of process for one person. What's the alternative?",
+     "seconds": 40,
+     "model": "There are two honest routes. One is the improvement plan: three months, clear goals, and at the end either he's performing or we have a solid file. The other is a negotiated exit, which is quicker but depends on his agreement. I can take you through that separately if you like.",
+     "tips_fr": "« Two honest routes » : formule qui recadre sans accuser. Renvoyez la rupture négociée à une discussion distincte plutôt que de la détailler."
+    },
+    {
+     "say": "If you had to pick one, which would it be?",
+     "seconds": 30,
+     "model": "I'd start the improvement plan now. It keeps both doors open: if he improves, great, and if he doesn't, you're in a much stronger position, whether you dismiss or negotiate. Doing nothing for three more months is the only bad option.",
+     "tips_fr": "Répondez nettement (« I'd start... now »), justifiez en une image (« keeps both doors open ») et terminez par une phrase courte qui pousse à l'action."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Putting concerns or allegations to an employee",
+   "function_fr": "Exposer des griefs ou des faits reprochés à un salarié",
+   "phrases": [
+    {
+     "text": "The purpose of this meeting is to discuss a number of concerns about your conduct.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "It is alleged that on 4 March you left the site without permission.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'd like to take you through what we've been told and then hear your side.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Can you talk me through what happened on Tuesday?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I have to put it to you that the figures don't match your account.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Is there anything you'd like to add before we move on?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Help me understand why the report went out without sign-off.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "I want to be clear that no decision has been made at this stage.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Delivering a difficult decision",
+   "function_fr": "Annoncer une décision difficile",
+   "phrases": [
+    {
+     "text": "I'm afraid I have some difficult news.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Having considered everything you said, we have decided to issue you with a final written warning.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "We regret to inform you that we have decided to terminate your employment.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "There's no easy way to say this: we're going to have to let you go.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I realise this isn't what you were hoping to hear.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "I want to walk you through what happens next.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "You'll receive written confirmation of this, including your right of appeal.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Take whatever time you need; we can go over the details when you're ready.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Flagging legal risk and slowing a decision down",
+   "function_fr": "Signaler un risque juridique et freiner une décision hâtive",
+   "phrases": [
+    {
+     "text": "Before we go any further, there's a procedural point I need to flag.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'd strongly advise against announcing anything at the meeting.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'm afraid that isn't an option under French law.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "We'd be on much firmer ground if we had something in writing.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I can see why you'd want to move quickly, but it might be worth waiting a few days.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "If we skip that step, we're handing his lawyer an easy win.",
+     "register": "informal",
+     "variety": "us"
+    },
+    {
+     "text": "As things stand, we would struggle to prove it.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "May I suggest that we take this one step at a time?",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  }
+ ]
+}
