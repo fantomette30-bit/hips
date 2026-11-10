@@ -189,3 +189,15 @@ input.ok{border-color:var(--ok);background:var(--ok-bg)} input.ko{border-color:v
 .doc .reglabel{font-family:var(--sans);text-align:left}
 details.fold{margin:0 0 10px} details.fold>summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:52px;padding:8px 16px;border-radius:16px;background:var(--surface2);margin-bottom:8px}
 details.fold>summary::-webkit-details-marker{display:none} details.fold>summary small{color:var(--muted);font-size:.8rem;font-variant-numeric:tabular-nums} details.fold[open]>summary{background:transparent;border:1px solid var(--line)}
+/* online correction */
+ins{text-decoration:none;background:color-mix(in srgb,var(--ok) 16%,transparent);border-bottom:1.5px solid var(--ok);padding:0 1px} ins::after{content:attr(data-n);font-family:var(--sans);font-size:.6rem;vertical-align:super;color:var(--ok);font-weight:800;margin-left:1px}
+del{color:var(--bad);text-decoration-thickness:1px}
+.warnline{display:flex;gap:8px;align-items:center;color:var(--bad);font-size:.86rem;margin:.6em 0}
+.sheet-card textarea{margin:10px 0 0;min-height:7em}
+.spinner{width:28px;height:28px;border-radius:50%;border:3px solid var(--surface2);border-top-color:var(--brand2);animation:spin .8s linear infinite;margin:6px auto 12px} .spinner.small{width:18px;height:18px;border-width:2px;margin:2px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.conv{display:flex;flex-direction:column;gap:10px;max-height:58vh;overflow-y:auto}
+.bubble{max-width:86%;padding:10px 14px;border-radius:18px;background:var(--surface2)} .bubble p{margin:0} .bubble.me{align-self:flex-end;background:var(--btn);color:var(--btn-ink)} .bubble.them{align-self:flex-start}
+.bubble .tip{margin-top:6px;font-size:.82rem;opacity:.85;font-style:italic}
+.online-fold{margin-top:12px} .online-fold textarea{margin-top:8px}
+.center{text-align:center}

@@ -24,6 +24,12 @@
   "blurb": "Carve-outs, LBOs, integrations, transfers of staff and reporting to the board."
  },
  {
+  "id": "strategy",
+  "title": "HR strategy and advising managers",
+  "title_fr": "Stratégie RH, management et conseil aux managers",
+  "blurb": "HR roadmap, KPIs, the executive committee, and advice to managers and leaders."
+ },
+ {
   "id": "discipline",
   "title": "Discipline and dismissal",
   "title_fr": "Discipline et licenciement",

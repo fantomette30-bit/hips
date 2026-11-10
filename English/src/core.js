@@ -26,13 +26,14 @@ const DEFAULTS = () => ({
   v: 1,
   settings: { variety: 'uk', theme: 'auto', scale: 1, rate: 1, frHelp: false, goal: 15, voiceUk: '', voiceUs: '' },
   srs: {}, seen: {}, levels: {}, done: {}, drafts: {}, notebook: [], days: {}, errors: {}, answers: { ok: 0, ko: 0 },
-  placement: null, welcomed: false, lastTheme: ''
+  placement: null, welcomed: false, lastTheme: '',
+  online: { code: '', quality: 'best', converse: false, warned: '' }, queue: [], corrections: []
 });
 let S = DEFAULTS();
 function load() {
   try {
     const raw = localStorage.getItem(STORE_KEY);
-    if (raw) { const o = JSON.parse(raw); S = Object.assign(DEFAULTS(), o); S.settings = Object.assign(DEFAULTS().settings, o.settings || {}); }
+    if (raw) { const o = JSON.parse(raw); S = Object.assign(DEFAULTS(), o); S.settings = Object.assign(DEFAULTS().settings, o.settings || {}); S.online = Object.assign(DEFAULTS().online, o.online || {}); }
   } catch (e) { /* stockage indisponible : l'app fonctionne, sans mémoire */ }
 }
 let saveTimer = 0;

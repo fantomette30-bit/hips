@@ -254,6 +254,7 @@ VIEWS.practise = () => {
   const stage = ['', 'Complete the sentences', 'Write a paragraph', 'Write the whole document'];
   return head('Practise', 'Produce English, then measure it against a model.') +
     section('Writing', byTheme('writing', x => '<a href="#/write/' + x.id + '"><span><b>' + esc(x.title) + '</b><small>Stage ' + x.stage + ' · ' + stage[x.stage] + ' · ' + esc(x.kind) + '</small></span>' + doneTick(x.id) + '</a>'), 'Three stages in each theme: sentences, a paragraph, then the whole document.') +
+    onlinePractiseSection() +
     section('Speaking', byTheme('roleplays', x => '<a href="#/roleplay/' + x.id + '"><span><b>' + esc(x.title) + '</b><small>Timed role play · ' + x.turns.length + ' turns</small></span>' + doneTick(x.id) + '</a>') +
       '<div class="grid"><a class="card tile" href="#/functional">' + icon('chat') + '<b>Meetings and calls</b><small>Phrases for every move</small></a><a class="card tile" href="#/toolkit/pron">' + icon('mic') + '<b>Pronunciation</b><small>Listen, record, compare</small></a></div>');
 };
@@ -289,7 +290,6 @@ ACT.checkGaps = () => {
   toast(ok + ' of ' + w.gaps.length + ' correct'); markDone(w.id, pct(ok, w.gaps.length)); ACT.showModel();
 };
 ACT.copyDraft = async () => { const t = ($('#draft') || {}).value || ''; if (!t.trim()) { toast('Nothing to copy yet.'); return; } try { await navigator.clipboard.writeText(t); toast('Copied'); } catch (e) { $('#draft').select(); document.execCommand('copy'); toast('Copied'); } };
-ACT.online = () => sheet('<span class="reglabel">Online correction</span><h2>Arriving with the last stage</h2><p>Your text will be corrected by Claude: tracked changes, explanations in French, a native-sounding rewrite in British or American English, and two or three priorities.</p><p class="frline" lang="fr">Cette fonction sera activée à la troisième étape, une fois les contenus validés. En attendant : « Copy my text », puis collez-le dans Claude en retirant tout nom de personne ou de société.</p><button class="btn wide" data-act="closeSheet">Understood</button>');
 ACT.keep = el => { addNote(el.dataset.t, el.dataset.n || ''); toast('Added to your notebook'); };
 
 VIEWS.functional = () => head('Meetings and calls', 'The moves of a conversation, from the most formal to the most relaxed.', 'practise') +
@@ -317,7 +317,7 @@ VIEWS.roleplay = id => {
     };
     return intro + '<div class="card center"><div class="ring live" style="--p:100"><b id="rpCount">' + t.seconds + '</b></div><p class="sub">Speak now. Do not aim for perfect: aim for natural.</p><button class="btn wide" data-act="rpStop">' + icon('stop') + ' I have finished</button></div>';
   }
-  return intro + '<div class="card"><span class="reglabel">Your answer</span>' + (RP.url ? '<audio controls src="' + RP.url + '"></audio>' : '<p class="sub">No recording on this device: compare from memory.</p>') + '</div>' +
+  return intro + '<div class="card"><span class="reglabel">Your answer</span>' + (RP.url ? '<audio controls src="' + RP.url + '"></audio>' : '<p class="sub">No recording on this device: compare from memory.</p>') + spokenFeedbackBox(t.say) + '</div>' +
     '<div class="card"><span class="reglabel">A native professional might say</span><p>' + esc(t.model) + ' ' + sayBtn(t.model, V()) + sayBtn(t.model, V(), true) + '</p>' + fr(esc(t.tips_fr), 'Conseils') + '</div>' +
     '<div class="two"><button class="btn ghost" data-act="rpRetry">Try again</button><button class="btn" data-act="rpNext">' + (RP.i + 1 >= r.turns.length ? 'Finish' : 'Next turn') + '</button></div>';
 };
@@ -403,26 +403,22 @@ VIEWS.settings = () => {
     fr('<p>Pour un rendu naturel, téléchargez une voix « améliorée » ou « premium » : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p>', 'Améliorer les voix') + '</div>' +
     '<div class="card set"><span class="reglabel">Your progress</span><p class="sub">Stored on this device only. Export it to carry it to another device.</p><div class="row"><button class="btn ghost" data-act="exportData">Export</button><label class="btn ghost filebtn">Import<input type="file" accept="application/json,.json" data-chg="importData" hidden></label></div>' +
     '<button class="btn ghost wide" data-act="go" data-to="placement">Placement test</button><button class="btn danger wide" data-act="resetAsk">Erase all progress</button></div>' +
-    '<div class="card set"><span class="reglabel">Online correction</span><p class="sub">Off in this stage. It will use the API credit included in your Claude Max plan.</p></div>' +
+    onlineSettingsCard() +
     '<p class="foot">Parlance ' + APP_VERSION + ' · ' + ALL_ENTRIES.length + ' expressions · works offline</p>';
 };
 ACT.set = el => { let v = el.dataset.v; const k = el.dataset.k; if (v === 'true' || v === 'false') v = v === 'true'; else if (!isNaN(+v) && k !== 'variety' && k !== 'theme') v = +v; S.settings[k] = v; save(); applySettings(); render(); };
 ACT.voice = el => { S.settings[el.dataset.k] = el.value; save(); };
 ACT.exportData = async () => {
-  saveNow(); const name = 'parlance-progress-' + dayKey() + '.json', text = JSON.stringify(S);
+  saveNow(); const name = 'parlance-progress-' + dayKey() + '.json', text = JSON.stringify(Object.assign({}, S, { online: Object.assign({}, S.online, { code: '' }) }));
   try { const file = new File([text], name, { type: 'application/json' }); if (navigator.canShare && navigator.canShare({ files: [file] })) { await navigator.share({ files: [file], title: 'Parlance progress' }); return; } } catch (e) { if (e && e.name === 'AbortError') return; }
   const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([text], { type: 'application/json' })); a.download = name; document.body.appendChild(a); a.click(); a.remove(); toast('Progress exported');
 };
 ACT.importData = el => {
   const f = el.files && el.files[0]; if (!f) return;
   const rd = new FileReader();
-  rd.onload = () => { try { const o = JSON.parse(rd.result); if (!o || o.v !== 1 || !o.settings || !o.srs) throw 0; S = Object.assign(DEFAULTS(), o); S.settings = Object.assign(DEFAULTS().settings, o.settings); saveNow(); applySettings(); toast('Progress imported'); render(); } catch (e) { toast('This file is not a Parlance export.'); } };
+  rd.onload = () => { try { const o = JSON.parse(rd.result); if (!o || o.v !== 1 || !o.settings || !o.srs) throw 0; const code = S.online.code; S = Object.assign(DEFAULTS(), o); S.settings = Object.assign(DEFAULTS().settings, o.settings); S.online = Object.assign(DEFAULTS().online, o.online || {}, { code }); saveNow(); applySettings(); toast('Progress imported'); render(); } catch (e) { toast('This file is not a Parlance export.'); } };
   rd.readAsText(f);
 };
 ACT.resetAsk = () => sheet('<h2>Erase all progress?</h2><p>Reviews, notebook, drafts and results will be removed from this device. This cannot be undone.</p><div class="two"><button class="btn ghost" data-act="closeSheet">Keep everything</button><button class="btn danger" data-act="resetDo">Erase</button></div>');
 ACT.resetDo = () => { S = DEFAULTS(); saveNow(); closeSheet(); applySettings(); go(''); };
 
-/* ================= start ================= */
-load(); applySettings(); Speech.init();
-if (!location.hash) location.hash = '#/';
-render(); netLabel();

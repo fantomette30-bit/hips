@@ -143,7 +143,7 @@ if errors:
 
 data = {'themes': themes, 'entries': entries, 'skills': skills, 'language': language}
 blob = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/').replace('\u2028', '\\u2028').replace('\u2029', '\\u2029')
-js = '\n'.join(read(SRC, f) for f in ('core.js', 'ui.js', 'views.js'))
+js = '\n'.join(read(SRC, f) for f in ('core.js', 'ui.js', 'views.js', 'online.js', 'start.js'))
 html = read(SRC, 'index.html')
 html = html.replace('/*CSS*/', read(SRC, 'app.css'), 1)
 html = html.replace('/*DATA*/', blob, 1).replace('/*JS*/', js.replace('</script', '<\\/script'), 1)
@@ -176,7 +176,7 @@ self.addEventListener('activate', e => e.waitUntil(
   caches.keys().then(ks => Promise.all(ks.filter(k => k.startsWith('parlance-') && k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())));
 self.addEventListener('fetch', e => {
   const req = e.request;
-  if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
+  if (req.method !== 'GET' || new URL(req.url).origin !== location.origin || new URL(req.url).pathname.includes('/api/')) return;
   e.respondWith(caches.match(req, { ignoreSearch: true }).then(hit => {
     const fresh = fetch(req, { cache: 'no-cache' }).then(res => {
       if (res && res.ok) { const copy = res.clone(); caches.open(CACHE).then(c => c.put(req, copy)); }

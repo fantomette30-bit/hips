@@ -1,0 +1,3671 @@
+[
+ {
+  "id": "sg-001",
+  "level": 1,
+  "fr": "stratégie RH",
+  "term": {
+   "uk": "HR strategy",
+   "us": "HR strategy"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑː ˈstrætədʒi/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈstrætədʒi/"
+  },
+  "def": "A long-term plan setting out how the organisation will attract, develop, organise and keep the people it needs to deliver its business goals.",
+  "registers": {
+   "formal": {
+    "uk": "people strategy",
+    "us": "people strategy",
+    "ex": "The Board approved the three-year [[people strategy]] at its March meeting."
+   },
+   "everyday": {
+    "uk": "HR strategy",
+    "us": "HR strategy",
+    "ex": "Our [[HR strategy]] has to follow the business plan, not the other way round."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set the HR strategy",
+   "to underpin the business strategy",
+   "a three-year people strategy",
+   "to deliver on the strategy"
+  ],
+  "note_fr": "« People strategy » est de plus en plus courant dans les groupes anglo-saxons, surtout là où la DRH s'appelle « Chief People Officer ». « Strategy » se prononce avec l'accent sur la première syllabe : /ˈstræt-/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-002",
+  "level": 1,
+  "fr": "aligner la stratégie RH sur la stratégie de l'entreprise",
+  "term": {
+   "uk": "to align HR with the business strategy",
+   "us": "to align HR with the business strategy"
+  },
+  "ipa": {
+   "uk": "/tu əˈlaɪn ˌeɪtʃ ˈɑː wɪð ðə ˈbɪznəs ˈstrætədʒi/",
+   "us": "/tu əˈlaɪn ˌeɪtʃ ˈɑːr wɪð ðə ˈbɪznəs ˈstrætədʒi/"
+  },
+  "def": "To make sure that HR priorities, budgets and programmes directly support what the business is trying to achieve.",
+  "registers": {
+   "formal": {
+    "uk": "to ensure alignment with the business strategy",
+    "us": "to ensure alignment with the business strategy",
+    "ex": "Each initiative in the roadmap has been reviewed [[to ensure alignment with the business strategy]]."
+   },
+   "everyday": {
+    "uk": "to align HR with the business",
+    "us": "to align HR with the business",
+    "ex": "If we don't [[align HR with the business]], we'll keep running programmes nobody asked for."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be aligned with",
+   "strategic alignment",
+   "to be out of step with",
+   "to link HR objectives to business goals"
+  ],
+  "note_fr": "On dit « align with » (et non « align on », sauf dans « to align on a decision » = se mettre d'accord). « Alignment » s'écrit sans « e » après le « g ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-003",
+  "level": 1,
+  "fr": "feuille de route RH",
+  "term": {
+   "uk": "HR roadmap",
+   "us": "HR roadmap"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑː ˈrəʊdmæp/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈroʊdmæp/"
+  },
+  "def": "A plan showing the main HR projects, their order and their timing over a given period, usually one to three years.",
+  "registers": {
+   "formal": {
+    "uk": "HR roadmap",
+    "us": "HR roadmap",
+    "ex": "The [[HR roadmap]] for 2027 comprises four workstreams, each with a named executive sponsor."
+   },
+   "everyday": {
+    "uk": "roadmap",
+    "us": "roadmap",
+    "ex": "I'll walk you through the [[roadmap]] and then we can discuss what drops off if the budget is cut."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to build a roadmap",
+   "to be on the roadmap",
+   "to sequence the roadmap",
+   "to drop off the roadmap"
+  ],
+  "note_fr": "« Roadmap » s'écrit en un seul mot. « Is it on the roadmap? » signifie « est-ce prévu ? » : expression très fréquente dans les réunions.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-004",
+  "level": 1,
+  "fr": "priorités stratégiques",
+  "term": {
+   "uk": "strategic priorities",
+   "us": "strategic priorities"
+  },
+  "ipa": {
+   "uk": "/strəˈtiːdʒɪk praɪˈɒrətiz/",
+   "us": "/strəˈtiːdʒɪk praɪˈɔːrətiz/"
+  },
+  "def": "The small number of objectives an organisation has decided to focus its effort and money on.",
+  "registers": {
+   "formal": {
+    "uk": "strategic priorities",
+    "us": "strategic priorities",
+    "ex": "The proposal is consistent with the Group's [[strategic priorities]] for the coming year."
+   },
+   "everyday": {
+    "uk": "top priorities",
+    "us": "top priorities",
+    "ex": "Retention and manager capability are our two [[top priorities]] this year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set priorities",
+   "to reprioritise",
+   "a top priority",
+   "competing priorities"
+  ],
+  "note_fr": "En anglais, trop de priorités n'en sont plus : « if everything is a priority, nothing is ». Évitez « the first priority » ; dites « the top priority » ou « our number-one priority ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-005",
+  "level": 1,
+  "fr": "prioriser, hiérarchiser",
+  "term": {
+   "uk": "to prioritise",
+   "us": "to prioritize"
+  },
+  "ipa": {
+   "uk": "/praɪˈɒrətaɪz/",
+   "us": "/praɪˈɔːrətaɪz/"
+  },
+  "def": "To decide which tasks or projects are most important and deal with them first.",
+  "registers": {
+   "formal": {
+    "uk": "to prioritise",
+    "us": "to prioritize",
+    "ex": "Resources will be allocated to [[prioritise]] initiatives with a measurable business impact.",
+    "ex_us": "Resources will be allocated to [[prioritize]] initiatives with a measurable business impact."
+   },
+   "everyday": {
+    "uk": "to put something first",
+    "us": "to put something first",
+    "ex": "Given the budget, I'd [[put retention first]] and park the new HRIS until next year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to prioritise ruthlessly",
+   "to deprioritise",
+   "to park something",
+   "to put something on the back burner"
+  ],
+  "note_fr": "Orthographe UK « prioritise » / US « prioritize ». « Hiérarchiser » se traduit aussi par « to rank ». « To park something » = mettre de côté pour plus tard.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-006",
+  "level": 1,
+  "fr": "HRBP, partenaire RH",
+  "term": {
+   "uk": "HR business partner",
+   "us": "HR business partner"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑː ˈbɪznəs ˈpɑːtnə/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈbɪznəs ˈpɑːrtnər/"
+  },
+  "def": "A senior HR professional attached to a business unit who advises its leaders on all people matters.",
+  "registers": {
+   "formal": {
+    "uk": "HR business partner",
+    "us": "HR business partner",
+    "ex": "Each business unit is supported by a dedicated [[HR business partner]] reporting to the HR Director."
+   },
+   "everyday": {
+    "uk": "HRBP",
+    "us": "HRBP",
+    "ex": "Speak to your [[HRBP]] before you have that conversation."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to act as a business partner",
+   "to partner with the business",
+   "the HRBP model",
+   "a strategic business partner"
+  ],
+  "note_fr": "Le sigle se prononce lettre par lettre : « aitch-ar-bee-pee ». En France on garde souvent le terme anglais ; ne le traduisez pas par « partenaire d'affaires RH ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-007",
+  "level": 1,
+  "fr": "budget RH",
+  "term": {
+   "uk": "HR budget",
+   "us": "HR budget"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑː ˈbʌdʒɪt/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈbʌdʒɪt/"
+  },
+  "def": "The money allocated to the HR function and to people costs for a given year.",
+  "registers": {
+   "formal": {
+    "uk": "HR budget",
+    "us": "HR budget",
+    "ex": "The [[HR budget]] for the coming financial year is presented in Appendix 2.",
+    "ex_us": "The [[HR budget]] for the coming fiscal year is presented in Appendix 2."
+   },
+   "everyday": {
+    "uk": "budget",
+    "us": "budget",
+    "ex": "We're already over [[budget]] on agency fees, so the training spend will have to wait."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on budget",
+   "to be over / under budget",
+   "to draw up the budget",
+   "budget cuts"
+  ],
+  "note_fr": "« Financial year » (UK) / « fiscal year » (US) pour l'exercice. « To be over budget » = dépasser le budget ; « under budget » = rester en deçà.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-008",
+  "level": 1,
+  "fr": "gel des recrutements",
+  "term": {
+   "uk": "hiring freeze",
+   "us": "hiring freeze"
+  },
+  "ipa": {
+   "uk": "/ˈhaɪərɪŋ friːz/",
+   "us": "/ˈhaɪərɪŋ friːz/"
+  },
+  "def": "A decision to stop recruiting new staff, except for a few authorised exceptions, usually to control costs.",
+  "registers": {
+   "formal": {
+    "uk": "recruitment freeze",
+    "us": "hiring freeze",
+    "ex": "A [[recruitment freeze]] will apply from 1 October, save for business-critical roles approved by the CFO.",
+    "ex_us": "A [[hiring freeze]] will apply from October 1, except for business-critical roles approved by the CFO."
+   },
+   "everyday": {
+    "uk": "hiring freeze",
+    "us": "hiring freeze",
+    "ex": "We're under a [[hiring freeze]] until Q2, so any replacement needs a business case."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to impose a hiring freeze",
+   "to lift the freeze",
+   "a partial freeze",
+   "exceptions to the freeze"
+  ],
+  "note_fr": "« Freeze » s'emploie aussi pour « pay freeze ». On « impose » ou « lift » un gel. Un gel ne signifie pas un licenciement : rassurez les équipes en le précisant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-009",
+  "level": 1,
+  "fr": "tableau de bord RH",
+  "term": {
+   "uk": "HR dashboard",
+   "us": "HR dashboard"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑː ˈdæʃbɔːd/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈdæʃbɔːrd/"
+  },
+  "def": "A regular report, often on one page, showing the main HR indicators and how they are changing.",
+  "registers": {
+   "formal": {
+    "uk": "HR dashboard",
+    "us": "HR dashboard",
+    "ex": "The monthly [[HR dashboard]] is circulated to the executive team on the fifth working day."
+   },
+   "everyday": {
+    "uk": "dashboard",
+    "us": "dashboard",
+    "ex": "If it isn't on the [[dashboard]], nobody on the board will look at it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to build a dashboard",
+   "a one-page dashboard",
+   "to share the dashboard",
+   "a red/amber/green status"
+  ],
+  "note_fr": "« Tableau de bord » ne se traduit pas par « board » ni « table ». « RAG status » (red/amber/green) est le code couleur classique des tableaux de bord britanniques.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-010",
+  "level": 1,
+  "fr": "indicateurs RH",
+  "term": {
+   "uk": "HR metrics",
+   "us": "HR metrics"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑː ˈmetrɪks/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈmetrɪks/"
+  },
+  "def": "Figures used to measure the workforce and the effectiveness of HR, such as turnover, absence or time to hire.",
+  "registers": {
+   "formal": {
+    "uk": "HR metrics",
+    "us": "HR metrics",
+    "ex": "The following [[HR metrics]] will be reported quarterly to the Audit Committee."
+   },
+   "everyday": {
+    "uk": "the numbers",
+    "us": "the numbers",
+    "ex": "Let's look at [[the numbers]] before we decide anything."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to report on metrics",
+   "headline metrics",
+   "to define a metric",
+   "vanity metrics"
+  ],
+  "note_fr": "« Indicator » existe mais « metric » est plus courant dans les entreprises anglo-saxonnes. « Vanity metrics » = indicateurs flatteurs mais inutiles pour décider.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-011",
+  "level": 1,
+  "fr": "taux d'absentéisme",
+  "term": {
+   "uk": "absence rate",
+   "us": "absence rate"
+  },
+  "ipa": {
+   "uk": "/ˈæbsəns reɪt/",
+   "us": "/ˈæbsəns reɪt/"
+  },
+  "def": "The proportion of planned working time lost through unplanned absence, usually expressed as a percentage.",
+  "registers": {
+   "formal": {
+    "uk": "absence rate",
+    "us": "absence rate",
+    "ex": "The [[absence rate]] stood at 5.8% in the third quarter, compared with 4.9% a year earlier."
+   },
+   "everyday": {
+    "uk": "absence",
+    "us": "absence",
+    "ex": "[[Absence]] is creeping up in the warehouse, and it's mostly short spells on Mondays."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the absence rate stands at",
+   "short-term / long-term absence",
+   "to bring absence down",
+   "the Bradford Factor"
+  ],
+  "note_fr": "« Absenteeism » existe mais « absence rate » est le terme neutre des tableaux de bord. Le mode de calcul varie selon les pays et les entreprises : précisez toujours ce que vous comptez.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-012",
+  "level": 1,
+  "fr": "d'une année sur l'autre, en glissement annuel",
+  "term": {
+   "uk": "year on year",
+   "us": "year over year"
+  },
+  "ipa": {
+   "uk": "/ˌjɪər ɒn ˈjɪə/",
+   "us": "/ˌjɪr oʊvər ˈjɪr/"
+  },
+  "def": "Compared with the same period of the previous year.",
+  "registers": {
+   "formal": {
+    "uk": "year on year",
+    "us": "year over year",
+    "ex": "Voluntary turnover fell by two points [[year on year]].",
+    "ex_us": "Voluntary turnover fell by two points [[year over year]]."
+   },
+   "everyday": {
+    "uk": "on last year",
+    "us": "versus last year",
+    "ex": "Overtime's up fifteen per cent [[on last year]].",
+    "ex_us": "Overtime's up fifteen percent [[versus last year]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a year-on-year increase",
+   "YoY",
+   "compared with the same period last year",
+   "like-for-like"
+  ],
+  "note_fr": "Vraie différence UK/US : « year on year » (UK) / « year over year » ou « YoY » (US). « Per cent » en deux mots en anglais britannique, « percent » en américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-013",
+  "level": 1,
+  "fr": "suivre (un indicateur)",
+  "term": {
+   "uk": "to track",
+   "us": "to track"
+  },
+  "ipa": {
+   "uk": "/tu træk/",
+   "us": "/tu træk/"
+  },
+  "def": "To follow and measure how something changes over time.",
+  "registers": {
+   "formal": {
+    "uk": "to monitor",
+    "us": "to monitor",
+    "ex": "Absence will be [[monitored]] on a monthly basis by site."
+   },
+   "everyday": {
+    "uk": "to track",
+    "us": "to track",
+    "ex": "We [[track]] time to hire for every role, not just the senior ones."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep track of",
+   "to track progress",
+   "to be on track",
+   "to monitor closely"
+  ],
+  "note_fr": "« Suivre » ne se traduit pas par « follow » dans ce sens : « to follow the absence rate » est un calque. Dites « track » ou « monitor ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-014",
+  "level": 1,
+  "fr": "synthèse, note de synthèse",
+  "term": {
+   "uk": "executive summary",
+   "us": "executive summary"
+  },
+  "ipa": {
+   "uk": "/ɪɡˈzekjətɪv ˈsʌməri/",
+   "us": "/ɪɡˈzekjətɪv ˈsʌməri/"
+  },
+  "def": "A short section at the start of a report that gives busy decision-makers the key points and recommendations.",
+  "registers": {
+   "formal": {
+    "uk": "executive summary",
+    "us": "executive summary",
+    "ex": "The [[executive summary]] sets out the three decisions required of the Committee."
+   },
+   "everyday": {
+    "uk": "summary",
+    "us": "summary",
+    "ex": "Can you send me a one-page [[summary]] before the meeting? He won't read the full deck."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draft an executive summary",
+   "a one-page summary",
+   "the TL;DR",
+   "headline findings"
+  ],
+  "note_fr": "Une synthèse anglo-saxonne commence par la recommandation, pas par le contexte (« bottom line up front »). « TL;DR » (« too long; didn't read ») est familier, à réserver aux échanges internes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-015",
+  "level": 1,
+  "fr": "points clés à retenir",
+  "term": {
+   "uk": "key takeaways",
+   "us": "key takeaways"
+  },
+  "ipa": {
+   "uk": "/kiː ˈteɪkəweɪz/",
+   "us": "/kiː ˈteɪkəweɪz/"
+  },
+  "def": "The main points the audience should remember from a presentation or meeting.",
+  "registers": {
+   "formal": {
+    "uk": "key points",
+    "us": "key points",
+    "ex": "The [[key points]] arising from the review are summarised below.",
+    "ex_us": "The [[key points]] arising from the review are summarized below."
+   },
+   "everyday": {
+    "uk": "key takeaways",
+    "us": "key takeaways",
+    "ex": "So, three [[key takeaways]] from this quarter's numbers."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the main takeaway",
+   "to leave with",
+   "the key message",
+   "in a nutshell"
+  ],
+  "note_fr": "« Takeaway » est aussi un plat à emporter au Royaume-Uni (« takeout » aux États-Unis) ; le contexte suffit à lever l'ambiguïté.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-016",
+  "level": 1,
+  "fr": "obtenir le feu vert",
+  "term": {
+   "uk": "to get the green light",
+   "us": "to get the green light"
+  },
+  "ipa": {
+   "uk": "/tu ɡet ðə ˌɡriːn ˈlaɪt/",
+   "us": "/tu ɡet ðə ˌɡriːn ˈlaɪt/"
+  },
+  "def": "To receive permission to start or continue with a project.",
+  "registers": {
+   "formal": {
+    "uk": "to obtain approval",
+    "us": "to obtain approval",
+    "ex": "The project may proceed once we [[obtain approval]] from the Executive Committee."
+   },
+   "everyday": {
+    "uk": "to get the green light",
+    "us": "to get the green light",
+    "ex": "We [[got the green light]] for the manager programme yesterday."
+   },
+   "informal": {
+    "uk": "to get the go-ahead",
+    "us": "to get the go-ahead",
+    "ex": "Have we [[got the go-ahead]] from Mumbai yet?",
+    "ex_us": "Have we [[gotten the go-ahead]] from Mumbai yet?"
+   }
+  },
+  "collocations": [
+   "to give something the green light",
+   "to seek approval",
+   "to secure funding",
+   "to get the nod"
+  ],
+  "note_fr": "Participe passé : « got » en anglais britannique, « gotten » en américain (« have we gotten... »). « To get the nod » = obtenir l'accord informel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-017",
+  "level": 1,
+  "fr": "présenter en détail, expliquer pas à pas",
+  "term": {
+   "uk": "to walk someone through",
+   "us": "to walk someone through"
+  },
+  "ipa": {
+   "uk": "/tu wɔːk ˈsʌmwʌn θruː/",
+   "us": "/tu wɔːk ˈsʌmwʌn θruː/"
+  },
+  "def": "To explain something to someone step by step.",
+  "registers": {
+   "formal": {
+    "uk": "to take someone through",
+    "us": "to take someone through",
+    "ex": "I shall [[take the Committee through]] the main assumptions behind the budget.",
+    "ex_us": "I will [[take the Committee through]] the main assumptions behind the budget."
+   },
+   "everyday": {
+    "uk": "to walk someone through",
+    "us": "to walk someone through",
+    "ex": "Let me [[walk you through]] the slides and then I'll take questions."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to talk someone through",
+   "to run through",
+   "to go over",
+   "step by step"
+  ],
+  "note_fr": "Le « l » de « walk » ne se prononce pas : /wɔːk/. Ne confondez pas avec « walk-through » (nom) = démonstration, revue pas à pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-018",
+  "level": 1,
+  "fr": "conseiller (sur)",
+  "term": {
+   "uk": "to advise on",
+   "us": "to advise on"
+  },
+  "ipa": {
+   "uk": "/tu ədˈvaɪz ɒn/",
+   "us": "/tu ədˈvaɪz ɑːn/"
+  },
+  "def": "To give someone professional guidance on a particular matter.",
+  "registers": {
+   "formal": {
+    "uk": "to advise on",
+    "us": "to advise on",
+    "ex": "HR will [[advise on]] the procedure to be followed in each case."
+   },
+   "everyday": {
+    "uk": "to give someone advice",
+    "us": "to give someone advice",
+    "ex": "Can I [[give you some advice]] before you go into that meeting?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to advise someone to do something",
+   "to advise against",
+   "a piece of advice",
+   "to take advice"
+  ],
+  "note_fr": "Verbe « advise » (avec s, /z/) mais nom « advice » (avec c, /s/), indénombrable : « a piece of advice », jamais « an advice ». « To advise » ne veut pas dire « aviser » au sens de « remarquer ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-019",
+  "level": 1,
+  "fr": "entretien difficile, conversation délicate",
+  "term": {
+   "uk": "difficult conversation",
+   "us": "difficult conversation"
+  },
+  "ipa": {
+   "uk": "/ˈdɪfɪkəlt ˌkɒnvəˈseɪʃ(ə)n/",
+   "us": "/ˈdɪfɪkəlt ˌkɑːnvərˈseɪʃ(ə)n/"
+  },
+  "def": "A conversation in which a manager has to raise a sensitive or unwelcome subject, such as performance or behaviour.",
+  "registers": {
+   "formal": {
+    "uk": "difficult conversation",
+    "us": "difficult conversation",
+    "ex": "Managers will receive training on how to conduct a [[difficult conversation]] constructively."
+   },
+   "everyday": {
+    "uk": "tough conversation",
+    "us": "tough conversation",
+    "ex": "I know it's a [[tough conversation]], but it's kinder to have it now than in six months."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have a difficult conversation",
+   "to prepare for a tough conversation",
+   "to put off a conversation",
+   "a courageous conversation"
+  ],
+  "note_fr": "« Entretien » ne se traduit pas par « interview » ici : « interview » renvoie au recrutement ou aux médias. On dit « to have » (et non « to make ») a conversation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-020",
+  "level": 1,
+  "fr": "fixer des attentes claires, clarifier ce qu'on attend",
+  "term": {
+   "uk": "to set expectations",
+   "us": "to set expectations"
+  },
+  "ipa": {
+   "uk": "/tu set ˌekspekˈteɪʃ(ə)nz/",
+   "us": "/tu set ˌekspekˈteɪʃ(ə)nz/"
+  },
+  "def": "To tell someone clearly what is expected of them, by when and to what standard.",
+  "registers": {
+   "formal": {
+    "uk": "to set clear expectations",
+    "us": "to set clear expectations",
+    "ex": "Managers are responsible for [[setting clear expectations]] at the start of each assignment."
+   },
+   "everyday": {
+    "uk": "to be clear about what you expect",
+    "us": "to be clear about what you expect",
+    "ex": "You need [[to be clear about what you expect]] from him, and by when."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to manage expectations",
+   "to fall short of expectations",
+   "to meet expectations",
+   "to reset expectations"
+  ],
+  "note_fr": "« To manage expectations » = éviter que l'interlocuteur n'attende trop, nuance différente de « set ». « Attentes » ne se traduit jamais par « waitings ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-021",
+  "level": 1,
+  "fr": "déléguer",
+  "term": {
+   "uk": "to delegate",
+   "us": "to delegate"
+  },
+  "ipa": {
+   "uk": "/tu ˈdelɪɡeɪt/",
+   "us": "/tu ˈdeləɡeɪt/"
+  },
+  "def": "To give part of your work or authority to someone else while remaining responsible for the result.",
+  "registers": {
+   "formal": {
+    "uk": "to delegate",
+    "us": "to delegate",
+    "ex": "Managers may [[delegate]] day-to-day approvals but remain accountable for the outcome."
+   },
+   "everyday": {
+    "uk": "to hand something over",
+    "us": "to hand something off",
+    "ex": "You can't do it all yourself; [[hand the reporting over]] to Priya.",
+    "ex_us": "You can't do it all yourself; [[hand the reporting off]] to Priya."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to delegate authority",
+   "to delegate effectively",
+   "a delegation of authority",
+   "to let go"
+  ],
+  "note_fr": "Le verbe se prononce /ˈdelɪɡeɪt/, le nom « a delegate » /ˈdelɪɡət/. En droit français, la « délégation de pouvoirs » a des effets juridiques précis : « delegation of authority » en est l'équivalent le plus proche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-022",
+  "level": 1,
+  "fr": "faire du micro-management",
+  "term": {
+   "uk": "to micromanage",
+   "us": "to micromanage"
+  },
+  "ipa": {
+   "uk": "/tu ˈmaɪkrəʊˌmænɪdʒ/",
+   "us": "/tu ˈmaɪkroʊˌmænɪdʒ/"
+  },
+  "def": "To control every detail of other people's work instead of trusting them to do it.",
+  "registers": {
+   "formal": {
+    "uk": "to exercise excessive control",
+    "us": "to exercise excessive control",
+    "ex": "The survey suggests that some managers [[exercise excessive control]] over routine decisions."
+   },
+   "everyday": {
+    "uk": "to micromanage",
+    "us": "to micromanage",
+    "ex": "If you [[micromanage]] your senior people, they'll leave."
+   },
+   "informal": {
+    "uk": "to breathe down someone's neck",
+    "us": "to breathe down someone's neck",
+    "ex": "Nobody does their best work with the boss [[breathing down their neck]]."
+   }
+  },
+  "collocations": [
+   "a micromanager",
+   "to stop micromanaging",
+   "to step back",
+   "to trust the team"
+  ],
+  "note_fr": "S'écrit en un mot. « Micromanagement » est toujours péjoratif ; pour une implication positive, dites « hands-on ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-023",
+  "level": 1,
+  "fr": "traiter (un problème)",
+  "term": {
+   "uk": "to address an issue",
+   "us": "to address an issue"
+  },
+  "ipa": {
+   "uk": "/tu əˈdres ən ˈɪʃuː/",
+   "us": "/tu əˈdres ən ˈɪʃuː/"
+  },
+  "def": "To start dealing with a problem directly.",
+  "registers": {
+   "formal": {
+    "uk": "to address an issue",
+    "us": "to address an issue",
+    "ex": "The manager is expected to [[address the issue]] promptly and to record the steps taken."
+   },
+   "everyday": {
+    "uk": "to deal with something",
+    "us": "to deal with something",
+    "ex": "You need to [[deal with it]] now, before the rest of the team notices."
+   },
+   "informal": {
+    "uk": "to nip something in the bud",
+    "us": "to nip something in the bud",
+    "ex": "Have a word with her this week and [[nip it in the bud]]."
+   }
+  },
+  "collocations": [
+   "to address concerns",
+   "to tackle a problem",
+   "to deal with something head-on",
+   "to sweep something under the carpet"
+  ],
+  "note_fr": "Faux ami : « to address » ne veut pas dire « adresser » (un courrier se dit « to send »), mais « traiter, s'attaquer à ». « Under the carpet » (UK) / « under the rug » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-024",
+  "level": 1,
+  "fr": "mettre quelqu'un dans la boucle",
+  "term": {
+   "uk": "to loop someone in",
+   "us": "to loop someone in"
+  },
+  "ipa": {
+   "uk": "/tu luːp ˈsʌmwʌn ɪn/",
+   "us": "/tu luːp ˈsʌmwʌn ɪn/"
+  },
+  "def": "To include someone in a discussion or email exchange so that they are kept informed.",
+  "registers": {
+   "formal": {
+    "uk": "to keep someone informed",
+    "us": "to keep someone informed",
+    "ex": "Please [[keep HR informed]] of any further incidents."
+   },
+   "everyday": {
+    "uk": "to loop someone in",
+    "us": "to loop someone in",
+    "ex": "Thanks for flagging this - I'll [[loop in]] our employment lawyer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep someone in the loop",
+   "to copy someone in",
+   "to be out of the loop",
+   "to cc someone"
+  ],
+  "note_fr": "« To copy someone in » (UK) / « to cc someone » : mettre en copie. Conseillez aux managers de « loop in HR early » plutôt que d'attendre la crise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-025",
+  "level": 1,
+  "fr": "conflit interpersonnel",
+  "term": {
+   "uk": "interpersonal conflict",
+   "us": "interpersonal conflict"
+  },
+  "ipa": {
+   "uk": "/ˌɪntəˈpɜːs(ə)n(ə)l ˈkɒnflɪkt/",
+   "us": "/ˌɪntərˈpɜːrs(ə)n(ə)l ˈkɑːnflɪkt/"
+  },
+  "def": "A disagreement or tension between two or more people at work that affects how they work together.",
+  "registers": {
+   "formal": {
+    "uk": "interpersonal conflict",
+    "us": "interpersonal conflict",
+    "ex": "Persistent [[interpersonal conflict]] within a team may constitute a psychosocial risk."
+   },
+   "everyday": {
+    "uk": "falling-out",
+    "us": "falling-out",
+    "ex": "There's been a [[falling-out]] between the two team leads and it's affecting everyone."
+   },
+   "informal": {
+    "uk": "bad blood",
+    "us": "bad blood",
+    "ex": "There's real [[bad blood]] between those two."
+   }
+  },
+  "collocations": [
+   "to resolve a conflict",
+   "conflict between team members",
+   "to fall out with someone",
+   "to take sides"
+  ],
+  "note_fr": "Nom : « conflict » /ˈkɒnflɪkt/ (accent sur la 1re syllabe) ; verbe « to conflict » /kənˈflɪkt/. « To fall out » = se brouiller. En France, un conflit persistant peut relever des risques psychosociaux et de l'obligation de sécurité.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-026",
+  "level": 1,
+  "fr": "faire le point avec quelqu'un",
+  "term": {
+   "uk": "to check in with someone",
+   "us": "to check in with someone"
+  },
+  "ipa": {
+   "uk": "/tu tʃek ˈɪn wɪð ˈsʌmwʌn/",
+   "us": "/tu tʃek ˈɪn wɪð ˈsʌmwʌn/"
+  },
+  "def": "To contact someone briefly to see how they are or how their work is going.",
+  "registers": {
+   "formal": {
+    "uk": "to hold regular update meetings",
+    "us": "to hold regular update meetings",
+    "ex": "Managers of remote staff should [[hold regular update meetings]] with each team member."
+   },
+   "everyday": {
+    "uk": "to check in with someone",
+    "us": "to check in with someone",
+    "ex": "I'll [[check in with you]] on Friday to see how it went."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a quick check-in",
+   "a weekly check-in",
+   "to touch base",
+   "to catch up"
+  ],
+  "note_fr": "Ne pas confondre avec « to check in » (à l'hôtel, à l'aéroport). « To touch base » est un équivalent un peu cliché, très américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-027",
+  "level": 1,
+  "fr": "moral des équipes",
+  "term": {
+   "uk": "team morale",
+   "us": "team morale"
+  },
+  "ipa": {
+   "uk": "/tiːm məˈrɑːl/",
+   "us": "/tiːm məˈræl/"
+  },
+  "def": "The level of confidence, motivation and satisfaction within a team.",
+  "registers": {
+   "formal": {
+    "uk": "morale",
+    "us": "morale",
+    "ex": "The reorganisation has had a noticeable impact on staff [[morale]]."
+   },
+   "everyday": {
+    "uk": "team morale",
+    "us": "team morale",
+    "ex": "[[Team morale]] is at rock bottom since the restructuring was announced."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "morale is low / high",
+   "to boost morale",
+   "a blow to morale",
+   "morale has taken a hit"
+  ],
+  "note_fr": "Faux ami : « morale » (avec e) = le moral ; « moral » = la morale, ou l'adjectif moral. Prononciation différente : /məˈrɑːl/ (UK), /məˈræl/ (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-028",
+  "level": 1,
+  "fr": "montrer l'exemple",
+  "term": {
+   "uk": "to lead by example",
+   "us": "to lead by example"
+  },
+  "ipa": {
+   "uk": "/tu liːd baɪ ɪɡˈzɑːmp(ə)l/",
+   "us": "/tu liːd baɪ ɪɡˈzæmp(ə)l/"
+  },
+  "def": "To behave in the way you expect others to behave.",
+  "registers": {
+   "formal": {
+    "uk": "to lead by example",
+    "us": "to lead by example",
+    "ex": "Members of the Leadership Team are expected to [[lead by example]] in applying the new policy."
+   },
+   "everyday": {
+    "uk": "to walk the talk",
+    "us": "to walk the talk",
+    "ex": "If the directors don't take their holidays, nobody will - they need to [[walk the talk]].",
+    "ex_us": "If the directors don't take their vacation, nobody will - they need to [[walk the talk]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set an example",
+   "to role-model",
+   "to practise what you preach",
+   "a role model"
+  ],
+  "note_fr": "« Walk the talk » (ou « walk the walk ») = mettre ses actes en accord avec ses paroles. « Practise » (verbe UK) / « practice » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-029",
+  "level": 1,
+  "fr": "s'opposer, contester, résister à",
+  "term": {
+   "uk": "to push back",
+   "us": "to push back"
+  },
+  "ipa": {
+   "uk": "/tu pʊʃ ˈbæk/",
+   "us": "/tu pʊʃ ˈbæk/"
+  },
+  "def": "To resist or argue against a request, decision or proposal.",
+  "registers": {
+   "formal": {
+    "uk": "to raise objections",
+    "us": "to raise objections",
+    "ex": "HR [[raised objections]] to the proposed timetable on legal grounds."
+   },
+   "everyday": {
+    "uk": "to push back",
+    "us": "to push back",
+    "ex": "I'm going to [[push back]] on the deadline - we can't consult the works council in a week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to push back on something",
+   "pushback",
+   "to get pushback from",
+   "to hold one's ground"
+  ],
+  "note_fr": "« To push back » a aussi le sens de « repousser » (une date). Le nom « pushback » est très fréquent : « we got a lot of pushback from the managers ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-030",
+  "level": 1,
+  "fr": "style de management",
+  "term": {
+   "uk": "management style",
+   "us": "management style"
+  },
+  "ipa": {
+   "uk": "/ˈmænɪdʒmənt staɪl/",
+   "us": "/ˈmænɪdʒmənt staɪl/"
+  },
+  "def": "The way a manager typically makes decisions, communicates and works with a team.",
+  "registers": {
+   "formal": {
+    "uk": "leadership style",
+    "us": "leadership style",
+    "ex": "Participants will reflect on their own [[leadership style]] and its impact on others."
+   },
+   "everyday": {
+    "uk": "management style",
+    "us": "management style",
+    "ex": "His [[management style]] works in a crisis, but it's wearing people down."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a directive style",
+   "a participative style",
+   "to adapt one's style",
+   "a top-down approach"
+  ],
+  "note_fr": "« Management » est indénombrable dans ce sens : « the management » désigne aussi la direction. On parle de « style » au singulier, pas « management styles » pour une seule personne.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-031",
+  "level": 1,
+  "fr": "culture d'entreprise",
+  "term": {
+   "uk": "corporate culture",
+   "us": "corporate culture"
+  },
+  "ipa": {
+   "uk": "/ˈkɔːpərət ˈkʌltʃə/",
+   "us": "/ˈkɔːrpərət ˈkʌltʃər/"
+  },
+  "def": "The shared values, beliefs and habits that shape how people behave in an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "corporate culture",
+    "us": "corporate culture",
+    "ex": "The [[corporate culture]] of the Group places strong emphasis on individual accountability."
+   },
+   "everyday": {
+    "uk": "company culture",
+    "us": "company culture",
+    "ex": "It's a very consensual [[company culture]] - nothing gets decided in one meeting."
+   },
+   "informal": {
+    "uk": "the way we do things around here",
+    "us": "the way we do things around here",
+    "ex": "In the end, culture is just [[the way we do things around here]]."
+   }
+  },
+  "collocations": [
+   "to shape the culture",
+   "a culture of trust",
+   "cultural fit",
+   "to change the culture"
+  ],
+  "note_fr": "« Corporate » se prononce /ˈkɔːpərət/ (trois syllabes en UK). Évitez « enterprise culture », qui évoque l'esprit d'entreprendre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-032",
+  "level": 1,
+  "fr": "valeurs de l'entreprise",
+  "term": {
+   "uk": "company values",
+   "us": "company values"
+  },
+  "ipa": {
+   "uk": "/ˈkʌmpəni ˈvæljuːz/",
+   "us": "/ˈkʌmpəni ˈvæljuːz/"
+  },
+  "def": "The principles an organisation says guide its decisions and the behaviour of its people.",
+  "registers": {
+   "formal": {
+    "uk": "core values",
+    "us": "core values",
+    "ex": "Integrity and respect are among the Group's [[core values]]."
+   },
+   "everyday": {
+    "uk": "company values",
+    "us": "company values",
+    "ex": "The [[company values]] are on every wall, but do managers actually live them?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to live the values",
+   "values-based",
+   "to be at odds with our values",
+   "a values statement"
+  ],
+  "note_fr": "« Value » au pluriel = valeurs morales ; au singulier, c'est souvent la valeur financière. « Core values » est l'expression standard des documents officiels.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-033",
+  "level": 1,
+  "fr": "politique RH, procédure RH",
+  "term": {
+   "uk": "HR policy",
+   "us": "HR policy"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑː ˈpɒləsi/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈpɑːləsi/"
+  },
+  "def": "A written document setting out the company's rules and approach on a people matter, such as travel, remote work or conduct.",
+  "registers": {
+   "formal": {
+    "uk": "HR policy",
+    "us": "HR policy",
+    "ex": "This [[HR policy]] applies to all employees of the French subsidiaries with effect from 1 January.",
+    "ex_us": "This [[HR policy]] applies to all employees of the French subsidiaries effective January 1."
+   },
+   "everyday": {
+    "uk": "policy",
+    "us": "policy",
+    "ex": "What does our [[policy]] say about working from abroad?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draft a policy",
+   "in line with the policy",
+   "a policy on",
+   "to update a policy"
+  ],
+  "note_fr": "Faux ami : « policy » = une politique, une règle interne ; « politics » = la politique au sens partisan (ou les jeux de pouvoir : « office politics »). En France, une politique RH ne peut contredire le Code du travail ni les accords collectifs ; le règlement intérieur suit une procédure spécifique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-034",
+  "level": 1,
+  "fr": "DRH, directeur ou directrice des ressources humaines",
+  "term": {
+   "uk": "HR Director",
+   "us": "HR Director"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑː dəˈrektə/",
+   "us": "/ˌeɪtʃ ˈɑːr dəˈrektər/"
+  },
+  "def": "The most senior HR person in a company or subsidiary, responsible for the whole HR function.",
+  "registers": {
+   "formal": {
+    "uk": "Human Resources Director",
+    "us": "Vice President, Human Resources",
+    "ex": "The [[Human Resources Director]] shall be consulted prior to any change in reporting lines.",
+    "ex_us": "The [[Vice President, Human Resources]] shall be consulted prior to any change in reporting lines."
+   },
+   "everyday": {
+    "uk": "HR Director",
+    "us": "head of HR",
+    "ex": "I'm the interim [[HR Director]] for the two French entities.",
+    "ex_us": "I'm the interim [[head of HR]] for the two French entities."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "Chief People Officer",
+   "Chief Human Resources Officer (CHRO)",
+   "interim HR Director",
+   "to report to the CEO"
+  ],
+  "note_fr": "Aux États-Unis, les titres varient : « VP HR », « CHRO », « Chief People Officer ». « DRH » désigne aussi la direction elle-même : « the HR department » ou « HR ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-035",
+  "level": 1,
+  "fr": "encadrement intermédiaire",
+  "term": {
+   "uk": "middle management",
+   "us": "middle management"
+  },
+  "ipa": {
+   "uk": "/ˈmɪd(ə)l ˈmænɪdʒmənt/",
+   "us": "/ˈmɪd(ə)l ˈmænɪdʒmənt/"
+  },
+  "def": "The layer of managers between senior leadership and frontline staff or team leaders.",
+  "registers": {
+   "formal": {
+    "uk": "middle management",
+    "us": "middle management",
+    "ex": "The plan requires the active involvement of [[middle management]] across all sites."
+   },
+   "everyday": {
+    "uk": "middle managers",
+    "us": "middle managers",
+    "ex": "The [[middle managers]] are the ones who'll make or break this change."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be squeezed in the middle",
+   "a layer of management",
+   "to delayer",
+   "senior and middle management"
+  ],
+  "note_fr": "« Management » sans article désigne collectivement les managers. « Delayering » = réduction des niveaux hiérarchiques, sujet fréquent des plans d'organisation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-036",
+  "level": 1,
+  "fr": "tourner autour du pot",
+  "term": {
+   "uk": "to beat around the bush",
+   "us": "to beat around the bush"
+  },
+  "ipa": {
+   "uk": "/tu biːt əˈraʊnd ðə bʊʃ/",
+   "us": "/tu biːt əˈraʊnd ðə bʊʃ/"
+  },
+  "def": "To avoid saying something directly, usually because it is uncomfortable.",
+  "registers": {
+   "formal": {
+    "uk": "to be direct",
+    "us": "to be direct",
+    "ex": "In such conversations, managers should [[be direct]] while remaining respectful."
+   },
+   "everyday": {
+    "uk": "to get to the point",
+    "us": "to get to the point",
+    "ex": "Don't spend ten minutes on small talk - [[get to the point]] and then listen."
+   },
+   "informal": {
+    "uk": "to beat around the bush",
+    "us": "to beat around the bush",
+    "ex": "Don't [[beat around the bush]] - tell him the work isn't good enough."
+   }
+  },
+  "collocations": [
+   "to be upfront",
+   "to sugar-coat",
+   "to spell it out",
+   "to cut to the chase"
+  ],
+  "note_fr": "Les Britanniques disent aussi « beat about the bush ». « To sugar-coat » = enrober, édulcorer un message désagréable ; à déconseiller aux managers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-037",
+  "level": 2,
+  "fr": "poste budgété",
+  "term": {
+   "uk": "budgeted position",
+   "us": "budgeted position"
+  },
+  "ipa": {
+   "uk": "/ˈbʌdʒɪtɪd pəˈzɪʃ(ə)n/",
+   "us": "/ˈbʌdʒətəd pəˈzɪʃ(ə)n/"
+  },
+  "def": "A job that has been planned and funded in the approved budget for the year.",
+  "registers": {
+   "formal": {
+    "uk": "budgeted position",
+    "us": "budgeted position",
+    "ex": "Only [[budgeted positions]] may be advertised without further approval."
+   },
+   "everyday": {
+    "uk": "approved headcount",
+    "us": "approved headcount",
+    "ex": "Is this role in the [[approved headcount]], or are we asking for a new one?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an unbudgeted hire",
+   "a headcount request",
+   "a backfill",
+   "to be within budget"
+  ],
+  "note_fr": "« Backfill » = remplacement d'un départ sur le même poste. « Headcount » est indénombrable : « we have headcount for two more people » = nous avons le budget pour deux postes de plus.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-038",
+  "level": 2,
+  "fr": "fondé sur les données",
+  "term": {
+   "uk": "data-driven",
+   "us": "data-driven"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪtə ˌdrɪv(ə)n/",
+   "us": "/ˈdeɪtə ˌdrɪv(ə)n/"
+  },
+  "def": "Based on the analysis of facts and figures rather than on intuition or habit.",
+  "registers": {
+   "formal": {
+    "uk": "evidence-based",
+    "us": "evidence-based",
+    "ex": "We recommend an [[evidence-based]] approach to setting retention targets."
+   },
+   "everyday": {
+    "uk": "data-driven",
+    "us": "data-driven",
+    "ex": "The CFO wants HR to be more [[data-driven]] - fewer anecdotes, more numbers."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "data-driven decisions",
+   "to back something up with data",
+   "gut feeling",
+   "an evidence base"
+  ],
+  "note_fr": "« Data » se prononce /ˈdeɪtə/ en UK et souvent /ˈdeɪtə/ ou /ˈdætə/ aux États-Unis ; il s'emploie couramment au singulier (« the data shows »), sauf dans un registre très soutenu.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-039",
+  "level": 2,
+  "fr": "retour sur investissement",
+  "term": {
+   "uk": "return on investment",
+   "us": "return on investment"
+  },
+  "ipa": {
+   "uk": "/rɪˌtɜːn ɒn ɪnˈvestmənt/",
+   "us": "/rɪˌtɜːrn ɑːn ɪnˈvestmənt/"
+  },
+  "def": "The benefit obtained from spending money on something, compared with its cost.",
+  "registers": {
+   "formal": {
+    "uk": "return on investment",
+    "us": "return on investment",
+    "ex": "The expected [[return on investment]] of the programme is set out in Section 4."
+   },
+   "everyday": {
+    "uk": "ROI",
+    "us": "ROI",
+    "ex": "The board will ask about the [[ROI]] of the leadership programme, so have a number ready."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to demonstrate ROI",
+   "a payback period",
+   "value for money",
+   "to quantify the benefits"
+  ],
+  "note_fr": "Le sigle se lit lettre par lettre : « are-oh-eye ». « Value for money » est plus britannique et plus général (rapport qualité-prix).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-040",
+  "level": 2,
+  "fr": "argumentaire chiffré, dossier de justification",
+  "term": {
+   "uk": "business case",
+   "us": "business case"
+  },
+  "ipa": {
+   "uk": "/ˈbɪznəs keɪs/",
+   "us": "/ˈbɪznəs keɪs/"
+  },
+  "def": "A document or argument showing why a project or expense is justified, with its costs, benefits and risks.",
+  "registers": {
+   "formal": {
+    "uk": "business case",
+    "us": "business case",
+    "ex": "A [[business case]] must accompany any request for additional headcount."
+   },
+   "everyday": {
+    "uk": "business case",
+    "us": "business case",
+    "ex": "Put together a [[business case]] and I'll take it to the CFO."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to build a business case",
+   "a compelling business case",
+   "to put a business case to",
+   "costs and benefits"
+  ],
+  "note_fr": "Ne traduisez pas par « commercial case ». Le « business case » est l'outil standard pour obtenir un budget dans les groupes anglo-saxons : coûts, bénéfices, risques, alternatives.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-041",
+  "level": 2,
+  "fr": "plaider pour, défendre (une proposition)",
+  "term": {
+   "uk": "to make the case for",
+   "us": "to make the case for"
+  },
+  "ipa": {
+   "uk": "/tu meɪk ðə ˈkeɪs fɔː/",
+   "us": "/tu meɪk ðə ˈkeɪs fɔːr/"
+  },
+  "def": "To give reasons why something should be done or supported.",
+  "registers": {
+   "formal": {
+    "uk": "to set out the case for",
+    "us": "to set out the case for",
+    "ex": "This paper [[sets out the case for]] harmonising remote-working rules across the French entities.",
+    "ex_us": "This paper [[sets out the case for]] harmonizing remote-working rules across the French entities."
+   },
+   "everyday": {
+    "uk": "to make the case for",
+    "us": "to make the case for",
+    "ex": "I'll [[make the case for]] keeping the retention bonus at Thursday's meeting."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a strong case",
+   "to argue for",
+   "the case against",
+   "to champion an idea"
+  ],
+  "note_fr": "On dit « make the case for » (et non « plead for », qui évoque une supplication ou le tribunal). « To champion » = porter, défendre activement un projet.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-042",
+  "level": 2,
+  "fr": "note au conseil d'administration",
+  "term": {
+   "uk": "board paper",
+   "us": "board memo"
+  },
+  "ipa": {
+   "uk": "/ˈbɔːd ˈpeɪpə/",
+   "us": "/ˈbɔːrd ˈmemoʊ/"
+  },
+  "def": "A document prepared for the board of directors to inform it or ask it to take a decision.",
+  "registers": {
+   "formal": {
+    "uk": "board paper",
+    "us": "board memorandum",
+    "ex": "The [[board paper]] invites the Board to approve the revised remuneration policy.",
+    "ex_us": "The [[board memorandum]] asks the Board to approve the revised compensation policy."
+   },
+   "everyday": {
+    "uk": "board paper",
+    "us": "board deck",
+    "ex": "The [[board paper]] needs to be with the company secretary by Friday.",
+    "ex_us": "The [[board deck]] needs to be with the corporate secretary by Friday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "for decision / for information",
+   "a board pack",
+   "to table a paper",
+   "the board is invited to"
+  ],
+  "note_fr": "Au Royaume-Uni, un « board paper » se termine souvent par « The Board is invited to... » (décision demandée). Aux États-Unis, on parle plus volontiers de « board deck » (présentation). « Company secretary » (UK) / « corporate secretary » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-043",
+  "level": 2,
+  "fr": "en définitive, l'essentiel",
+  "term": {
+   "uk": "the bottom line",
+   "us": "the bottom line"
+  },
+  "ipa": {
+   "uk": "/ðə ˌbɒtəm ˈlaɪn/",
+   "us": "/ðə ˌbɑːtəm ˈlaɪn/"
+  },
+  "def": "The most important fact or conclusion in a discussion; also the final profit figure of a business.",
+  "registers": {
+   "formal": {
+    "uk": "in conclusion",
+    "us": "in conclusion",
+    "ex": "[[In conclusion]], the risk of maintaining the current approach outweighs its cost."
+   },
+   "everyday": {
+    "uk": "the bottom line",
+    "us": "the bottom line",
+    "ex": "[[The bottom line]] is that we can't do this without consulting the works council."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the bottom line is",
+   "to hit the bottom line",
+   "bottom line up front (BLUF)",
+   "at the end of the day"
+  ],
+  "note_fr": "Deux sens : la conclusion essentielle, et le résultat net (dernière ligne du compte de résultat). « To have an impact on the bottom line » = peser sur la rentabilité.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-044",
+  "level": 2,
+  "fr": "analyse approfondie",
+  "term": {
+   "uk": "deep dive",
+   "us": "deep dive"
+  },
+  "ipa": {
+   "uk": "/ˈdiːp daɪv/",
+   "us": "/ˈdiːp daɪv/"
+  },
+  "def": "A detailed examination of one particular subject or problem.",
+  "registers": {
+   "formal": {
+    "uk": "detailed review",
+    "us": "detailed review",
+    "ex": "A [[detailed review]] of absence at the Lyon site will be presented in June."
+   },
+   "everyday": {
+    "uk": "deep dive",
+    "us": "deep dive",
+    "ex": "Can we do a [[deep dive]] on turnover in sales at the next ExCo?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to do a deep dive into",
+   "to drill down",
+   "a closer look",
+   "root causes"
+  ],
+  "note_fr": "Expression très courante dans les comités de direction anglo-saxons. « To drill down into the data » = descendre dans le détail des chiffres.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-045",
+  "level": 2,
+  "fr": "en reparler en aparté",
+  "term": {
+   "uk": "to take something offline",
+   "us": "to take something offline"
+  },
+  "ipa": {
+   "uk": "/tu teɪk ˈsʌmθɪŋ ˌɒfˈlaɪn/",
+   "us": "/tu teɪk ˈsʌmθɪŋ ˌɔːfˈlaɪn/"
+  },
+  "def": "To discuss a point separately after the meeting rather than in front of everyone.",
+  "registers": {
+   "formal": {
+    "uk": "to discuss separately",
+    "us": "to discuss separately",
+    "ex": "I suggest we [[discuss this separately]] so as not to delay the remaining items."
+   },
+   "everyday": {
+    "uk": "to take something offline",
+    "us": "to take something offline",
+    "ex": "That's a fair point, but can we [[take it offline]]? It only concerns the Lille team."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take it offline",
+   "after the meeting",
+   "a side conversation",
+   "to park an item"
+  ],
+  "note_fr": "Très utile pour éviter qu'un sujet individuel ou sensible soit débattu en comité. Rien à voir avec l'informatique ici.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-046",
+  "level": 2,
+  "fr": "glisser un mot discrètement à quelqu'un",
+  "term": {
+   "uk": "to have a quiet word with someone",
+   "us": "to pull someone aside"
+  },
+  "ipa": {
+   "uk": "/tu hæv ə ˌkwaɪət ˈwɜːd wɪð ˈsʌmwʌn/",
+   "us": "/tu pʊl ˈsʌmwʌn əˈsaɪd/"
+  },
+  "def": "To speak to someone privately and informally, usually about a problem with their work or behaviour.",
+  "registers": {
+   "formal": {
+    "uk": "to hold an informal discussion",
+    "us": "to hold an informal discussion",
+    "ex": "Before any formal step, the manager should [[hold an informal discussion]] with the employee."
+   },
+   "everyday": {
+    "uk": "to have a quiet word with someone",
+    "us": "to pull someone aside",
+    "ex": "I'd [[have a quiet word with him]] before it turns into a formal issue.",
+    "ex_us": "I'd [[pull him aside]] before it turns into a formal issue."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an informal chat",
+   "to raise it informally",
+   "off the record",
+   "a word in someone's ear"
+  ],
+  "note_fr": "Vraie différence UK/US : « a quiet word » est typiquement britannique ; les Américains disent « to pull someone aside » ou « to have a private conversation ». Rappelez aux managers que l'informel ne dispense pas de garder une trace.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-047",
+  "level": 2,
+  "fr": "crever l'abcès, dissiper les tensions",
+  "term": {
+   "uk": "to clear the air",
+   "us": "to clear the air"
+  },
+  "ipa": {
+   "uk": "/tu ˌklɪə ði ˈeə/",
+   "us": "/tu ˌklɪr ði ˈer/"
+  },
+  "def": "To talk openly about a disagreement in order to remove tension.",
+  "registers": {
+   "formal": {
+    "uk": "to resolve tensions",
+    "us": "to resolve tensions",
+    "ex": "A facilitated meeting may help [[resolve tensions]] between the two departments."
+   },
+   "everyday": {
+    "uk": "to clear the air",
+    "us": "to clear the air",
+    "ex": "Get them in a room together and [[clear the air]] - it's been simmering for weeks."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a clear-the-air meeting",
+   "to bury the hatchet",
+   "to simmer",
+   "to come to a head"
+  ],
+  "note_fr": "« To come to a head » = atteindre un point critique. « To bury the hatchet » = se réconcilier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-048",
+  "level": 2,
+  "fr": "incompatibilité d'humeur, choc des personnalités",
+  "term": {
+   "uk": "personality clash",
+   "us": "personality clash"
+  },
+  "ipa": {
+   "uk": "/ˌpɜːsəˈnæləti klæʃ/",
+   "us": "/ˌpɜːrsəˈnæləti klæʃ/"
+  },
+  "def": "A situation in which two people do not get on because their characters are very different.",
+  "registers": {
+   "formal": {
+    "uk": "personality clash",
+    "us": "personality clash",
+    "ex": "The investigation found no misconduct, only a [[personality clash]] between the two managers."
+   },
+   "everyday": {
+    "uk": "not to get on",
+    "us": "not to get along",
+    "ex": "They just [[don't get on]], and the team is caught in the middle.",
+    "ex_us": "They just [[don't get along]], and the team is caught in the middle."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to clash with someone",
+   "to rub someone up the wrong way",
+   "chemistry",
+   "to be at loggerheads"
+  ],
+  "note_fr": "« To get on » (UK) / « to get along » (US) = bien s'entendre. « To rub someone up the wrong way » (UK) / « the wrong way » (US) = prendre quelqu'un à rebrousse-poil.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-049",
+  "level": 2,
+  "fr": "manager une équipe à distance",
+  "term": {
+   "uk": "to manage a remote team",
+   "us": "to manage a remote team"
+  },
+  "ipa": {
+   "uk": "/tu ˈmænɪdʒ ə rɪˌməʊt ˈtiːm/",
+   "us": "/tu ˈmænɪdʒ ə rɪˌmoʊt ˈtiːm/"
+  },
+  "def": "To lead people who work mainly from home or from different locations.",
+  "registers": {
+   "formal": {
+    "uk": "to manage a distributed team",
+    "us": "to manage a distributed team",
+    "ex": "The module covers the specific challenges of [[managing a distributed team]]."
+   },
+   "everyday": {
+    "uk": "to manage a remote team",
+    "us": "to manage a remote team",
+    "ex": "[[Managing a remote team]] means you have to be much more deliberate about communication."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "out of sight, out of mind",
+   "proximity bias",
+   "to stay connected",
+   "camera on / off"
+  ],
+  "note_fr": "« Remote » et non « distant » (qui signifie « froid, distant » pour une personne). « Proximity bias » = tendance à favoriser les salariés présents au bureau.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-050",
+  "level": 2,
+  "fr": "accompagner une équipe dans le changement",
+  "term": {
+   "uk": "to lead a team through change",
+   "us": "to lead a team through change"
+  },
+  "ipa": {
+   "uk": "/tu liːd ə ˈtiːm θruː ˈtʃeɪndʒ/",
+   "us": "/tu liːd ə ˈtiːm θruː ˈtʃeɪndʒ/"
+  },
+  "def": "To guide a team through a period of transformation, explaining it and supporting people as they adapt.",
+  "registers": {
+   "formal": {
+    "uk": "to support employees through change",
+    "us": "to support employees through change",
+    "ex": "Managers have a central role in [[supporting employees through change]]."
+   },
+   "everyday": {
+    "uk": "to lead a team through change",
+    "us": "to lead a team through change",
+    "ex": "Your job now is to [[lead the team through the change]], even if you didn't choose it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bring people with you",
+   "to explain the why",
+   "uncertainty",
+   "to acknowledge concerns"
+  ],
+  "note_fr": "« Accompagner » ne se traduit pas par « accompany » (qui signifie aller avec quelqu'un physiquement). Dites « support », « guide » ou « lead through ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-051",
+  "level": 2,
+  "fr": "manager son manager, gérer sa hiérarchie",
+  "term": {
+   "uk": "to manage upwards",
+   "us": "to manage up"
+  },
+  "ipa": {
+   "uk": "/tu ˈmænɪdʒ ˈʌpwədz/",
+   "us": "/tu ˈmænɪdʒ ˈʌp/"
+  },
+  "def": "To build a good working relationship with your boss so as to influence decisions and get what you need.",
+  "registers": {
+   "formal": {
+    "uk": "to manage upwards",
+    "us": "to manage up",
+    "ex": "Effective HR leaders know how to [[manage upwards]] as well as across the organisation.",
+    "ex_us": "Effective HR leaders know how to [[manage up]] as well as across the organization."
+   },
+   "everyday": {
+    "uk": "to manage upwards",
+    "us": "to manage up",
+    "ex": "You need to [[manage upwards]] a bit more - he doesn't know half of what you do.",
+    "ex_us": "You need to [[manage up]] a bit more - he doesn't know half of what you do."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep your boss informed",
+   "no surprises",
+   "to anticipate needs",
+   "upward feedback"
+  ],
+  "note_fr": "Différence UK/US : « upwards » (UK) / « up » (US). « No surprises » est la règle d'or : ne laissez jamais votre supérieur découvrir un problème par quelqu'un d'autre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-052",
+  "level": 2,
+  "fr": "obtenir l'adhésion de quelqu'un, embarquer quelqu'un",
+  "term": {
+   "uk": "to bring someone on board",
+   "us": "to bring someone on board"
+  },
+  "ipa": {
+   "uk": "/tu brɪŋ ˈsʌmwʌn ɒn ˈbɔːd/",
+   "us": "/tu brɪŋ ˈsʌmwʌn ɑːn ˈbɔːrd/"
+  },
+  "def": "To persuade someone to support a project or idea.",
+  "registers": {
+   "formal": {
+    "uk": "to secure the support of",
+    "us": "to secure the support of",
+    "ex": "We will need to [[secure the support of]] the regional directors before launch."
+   },
+   "everyday": {
+    "uk": "to bring someone on board",
+    "us": "to bring someone on board",
+    "ex": "If we can [[bring the plant manager on board]], the others will follow."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on board",
+   "to win someone over",
+   "to get people behind something",
+   "a champion"
+  ],
+  "note_fr": "« On board » s'emploie aussi pour un nouvel arrivant (« welcome on board »). « Embarquer quelqu'un » en ce sens se dit « bring on board » ou « win over ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-053",
+  "level": 2,
+  "fr": "remettre en question, contester",
+  "term": {
+   "uk": "to challenge",
+   "us": "to challenge"
+  },
+  "ipa": {
+   "uk": "/tu ˈtʃælɪndʒ/",
+   "us": "/tu ˈtʃæləndʒ/"
+  },
+  "def": "To question whether something is right, true or the best option.",
+  "registers": {
+   "formal": {
+    "uk": "to question",
+    "us": "to question",
+    "ex": "The Committee [[questioned]] the assumptions underlying the attrition forecast."
+   },
+   "everyday": {
+    "uk": "to challenge",
+    "us": "to challenge",
+    "ex": "Part of my job is to [[challenge]] the business when a decision carries legal risk."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to challenge a decision",
+   "a constructive challenge",
+   "to challenge assumptions",
+   "to be challenged on"
+  ],
+  "note_fr": "Faux ami partiel : « challenger » en français (mettre au défi, pousser) se dit plutôt « to stretch » ou « to push » ; « to challenge » veut d'abord dire contester. « A challenge » = une difficulté, un défi.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-054",
+  "level": 2,
+  "fr": "se faire l'avocat du diable",
+  "term": {
+   "uk": "to play devil's advocate",
+   "us": "to play devil's advocate"
+  },
+  "ipa": {
+   "uk": "/tu pleɪ ˌdev(ə)lz ˈædvəkət/",
+   "us": "/tu pleɪ ˌdev(ə)lz ˈædvəkət/"
+  },
+  "def": "To argue against an idea, even if you agree with it, to test how strong it is.",
+  "registers": {
+   "formal": {
+    "uk": "to test the argument",
+    "us": "to test the argument",
+    "ex": "Allow me to [[test the argument]] by considering the opposite view."
+   },
+   "everyday": {
+    "uk": "to play devil's advocate",
+    "us": "to play devil's advocate",
+    "ex": "Let me [[play devil's advocate]] for a moment: what if the works council says no?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to stress-test an idea",
+   "for the sake of argument",
+   "the counter-argument",
+   "to poke holes in"
+  ],
+  "note_fr": "Formule utile pour contredire un dirigeant sans s'opposer personnellement. « Advocate » se prononce /ˈædvəkət/ (nom), le verbe « to advocate » /ˈædvəkeɪt/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-055",
+  "level": 2,
+  "fr": "conseiller de confiance",
+  "term": {
+   "uk": "trusted adviser",
+   "us": "trusted advisor"
+  },
+  "ipa": {
+   "uk": "/ˌtrʌstɪd ədˈvaɪzə/",
+   "us": "/ˌtrʌstəd ədˈvaɪzər/"
+  },
+  "def": "A professional whose advice senior leaders seek and rely on.",
+  "registers": {
+   "formal": {
+    "uk": "trusted adviser",
+    "us": "trusted advisor",
+    "ex": "The HR Director acts as a [[trusted adviser]] to the CEO on all people matters.",
+    "ex_us": "The HR Director acts as a [[trusted advisor]] to the CEO on all people matters."
+   },
+   "everyday": {
+    "uk": "go-to person",
+    "us": "go-to person",
+    "ex": "She's become the CEO's [[go-to person]] on anything sensitive."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to act as a sounding board",
+   "to earn trust",
+   "credibility",
+   "a sounding board"
+  ],
+  "note_fr": "Orthographe : « adviser » plus fréquent en UK, « advisor » en US (les deux existent). « Sounding board » = interlocuteur avec qui l'on teste ses idées.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-056",
+  "level": 2,
+  "fr": "avoir voix au chapitre, siéger là où se prennent les décisions",
+  "term": {
+   "uk": "a seat at the table",
+   "us": "a seat at the table"
+  },
+  "ipa": {
+   "uk": "/ə ˌsiːt ət ðə ˈteɪb(ə)l/",
+   "us": "/ə ˌsiːt ət ðə ˈteɪb(ə)l/"
+  },
+  "def": "A position that allows you to take part in important decisions.",
+  "registers": {
+   "formal": {
+    "uk": "a role in decision-making",
+    "us": "a role in decision-making",
+    "ex": "HR must have [[a role in decision-making]] from the earliest stage of any transformation."
+   },
+   "everyday": {
+    "uk": "a seat at the table",
+    "us": "a seat at the table",
+    "ex": "If HR wants [[a seat at the table]], we have to talk the language of the business."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to earn a seat at the table",
+   "to be in the room",
+   "to be consulted early",
+   "to have a say"
+  ],
+  "note_fr": "Expression emblématique du débat sur le rôle stratégique des RH. « To have a say » = avoir son mot à dire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-057",
+  "level": 2,
+  "fr": "sauf votre respect, avec tout le respect que je vous dois",
+  "term": {
+   "uk": "with all due respect",
+   "us": "with all due respect"
+  },
+  "ipa": {
+   "uk": "/wɪð ˌɔːl ˌdjuː rɪˈspekt/",
+   "us": "/wɪð ˌɔːl ˌduː rɪˈspekt/"
+  },
+  "def": "A polite phrase used before disagreeing with someone, often someone senior.",
+  "registers": {
+   "formal": {
+    "uk": "with respect",
+    "us": "with respect",
+    "ex": "[[With respect]], I do not believe the proposal reflects the legal position in France."
+   },
+   "everyday": {
+    "uk": "I take your point, but",
+    "us": "I hear you, but",
+    "ex": "[[I take your point, but]] the timing simply doesn't work under French law.",
+    "ex_us": "[[I hear you, but]] the timing simply doesn't work under French law."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "I appreciate that, but",
+   "I see where you're coming from",
+   "if I may",
+   "I'd question that"
+  ],
+  "note_fr": "Attention : « with all due respect » annonce souvent un désaccord net et peut sonner agressif, surtout en anglais britannique. Préférez « I take your point, but... » (UK) ou « I hear you, but... » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-058",
+  "level": 2,
+  "fr": "sentir l'ambiance, lire la salle",
+  "term": {
+   "uk": "to read the room",
+   "us": "to read the room"
+  },
+  "ipa": {
+   "uk": "/tu riːd ðə ˈruːm/",
+   "us": "/tu riːd ðə ˈruːm/"
+  },
+  "def": "To understand the mood and attitudes of people in a meeting and adjust what you say.",
+  "registers": {
+   "formal": {
+    "uk": "to gauge the mood",
+    "us": "to gauge the mood",
+    "ex": "It is advisable to [[gauge the mood]] of the Committee before presenting the proposal."
+   },
+   "everyday": {
+    "uk": "to read the room",
+    "us": "to read the room",
+    "ex": "He didn't [[read the room]] - joking about job cuts the day after the announcement."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pick up on signals",
+   "to sense resistance",
+   "the mood in the room",
+   "tone-deaf"
+  ],
+  "note_fr": "« Gauge » se prononce /ɡeɪdʒ/. « Tone-deaf » = maladroit, insensible au contexte (au sens figuré).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-059",
+  "level": 2,
+  "fr": "passer outre, infirmer (une décision)",
+  "term": {
+   "uk": "to overrule",
+   "us": "to overrule"
+  },
+  "ipa": {
+   "uk": "/tu ˌəʊvəˈruːl/",
+   "us": "/tu ˌoʊvərˈruːl/"
+  },
+  "def": "To use your higher authority to reject someone else's decision or opinion.",
+  "registers": {
+   "formal": {
+    "uk": "to overrule",
+    "us": "to overrule",
+    "ex": "The CEO may [[overrule]] the recommendation, in which case the decision will be recorded."
+   },
+   "everyday": {
+    "uk": "to overrule",
+    "us": "to overrule",
+    "ex": "If the VP [[overrules]] us, I want it in writing that we advised against it."
+   },
+   "informal": {
+    "uk": "to pull rank",
+    "us": "to pull rank",
+    "ex": "He couldn't win the argument, so he [[pulled rank]]."
+   }
+  },
+  "collocations": [
+   "to be overruled",
+   "to override",
+   "to pull rank on someone",
+   "to have the final say"
+  ],
+  "note_fr": "« To overrule » vise une personne ou une décision ; « to override » une règle, un système ou une priorité. « To pull rank » = faire valoir sa position hiérarchique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-060",
+  "level": 2,
+  "fr": "intervenir",
+  "term": {
+   "uk": "to step in",
+   "us": "to step in"
+  },
+  "ipa": {
+   "uk": "/tu ˌstep ˈɪn/",
+   "us": "/tu ˌstep ˈɪn/"
+  },
+  "def": "To become involved in a situation, especially to help solve a problem.",
+  "registers": {
+   "formal": {
+    "uk": "to intervene",
+    "us": "to intervene",
+    "ex": "HR will [[intervene]] where the informal approach has not resolved the matter."
+   },
+   "everyday": {
+    "uk": "to step in",
+    "us": "to step in",
+    "ex": "At what point should I [[step in]]? They're adults, after all."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to step back",
+   "to step up",
+   "to intervene early",
+   "to get involved"
+  ],
+  "note_fr": "« Step in » = intervenir ; « step up » = prendre davantage de responsabilités ; « step down » = démissionner d'une fonction ; « step back » = prendre du recul.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-061",
+  "level": 2,
+  "fr": "management autoritaire, directif",
+  "term": {
+   "uk": "command-and-control",
+   "us": "command-and-control"
+  },
+  "ipa": {
+   "uk": "/kəˌmɑːnd ən kənˈtrəʊl/",
+   "us": "/kəˌmænd ən kənˈtroʊl/"
+  },
+  "def": "A style of management based on giving orders and checking that they are obeyed, with little consultation.",
+  "registers": {
+   "formal": {
+    "uk": "directive leadership",
+    "us": "directive leadership",
+    "ex": "[[Directive leadership]] may be appropriate in a crisis but is rarely sustainable."
+   },
+   "everyday": {
+    "uk": "command-and-control",
+    "us": "command-and-control",
+    "ex": "It's very [[command-and-control]] over there - nobody makes a decision without the boss."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a command-and-control culture",
+   "top-down",
+   "hierarchical",
+   "to give orders"
+  ],
+  "note_fr": "Les tirets s'emploient quand l'expression est adjectivale (« a command-and-control style »). « Autoritaire » ne se traduit pas par « authoritative », qui signifie « qui fait autorité, fiable » ; dites « authoritarian » ou « directive ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-062",
+  "level": 2,
+  "fr": "impliqué, présent sur le terrain",
+  "term": {
+   "uk": "hands-on",
+   "us": "hands-on"
+  },
+  "ipa": {
+   "uk": "/ˌhændz ˈɒn/",
+   "us": "/ˌhændz ˈɑːn/"
+  },
+  "def": "Personally involved in the day-to-day work rather than only directing it.",
+  "registers": {
+   "formal": {
+    "uk": "closely involved",
+    "us": "closely involved",
+    "ex": "The Director has been [[closely involved]] in the operational aspects of the project."
+   },
+   "everyday": {
+    "uk": "hands-on",
+    "us": "hands-on",
+    "ex": "She's a very [[hands-on]] manager - sometimes too much."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a hands-on approach",
+   "hands-off",
+   "to roll up one's sleeves",
+   "to be in the weeds"
+  ],
+  "note_fr": "« Hands-off » = en retrait, qui laisse faire. « To be in the weeds » (US) = être noyé dans les détails.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-063",
+  "level": 2,
+  "fr": "accessible, abordable (personne)",
+  "term": {
+   "uk": "approachable",
+   "us": "approachable"
+  },
+  "ipa": {
+   "uk": "/əˈprəʊtʃəb(ə)l/",
+   "us": "/əˈproʊtʃəb(ə)l/"
+  },
+  "def": "Friendly and easy to talk to, so that people feel comfortable raising issues.",
+  "registers": {
+   "formal": {
+    "uk": "accessible",
+    "us": "accessible",
+    "ex": "Managers should remain [[accessible]] to their teams, particularly during the transition."
+   },
+   "everyday": {
+    "uk": "approachable",
+    "us": "approachable",
+    "ex": "He's clever, but he isn't [[approachable]], so problems reach him too late."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an open-door policy",
+   "to be available",
+   "easy to talk to",
+   "intimidating"
+  ],
+  "note_fr": "« Accessible » existe mais renvoie souvent aux locaux ou au handicap ; pour une personne, « approachable » est plus naturel. « Open-door policy » = porte toujours ouverte.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-064",
+  "level": 2,
+  "fr": "équipe de direction",
+  "term": {
+   "uk": "senior leadership team",
+   "us": "senior leadership team"
+  },
+  "ipa": {
+   "uk": "/ˌsiːniə ˈliːdəʃɪp tiːm/",
+   "us": "/ˌsiːnjər ˈliːdərʃɪp tiːm/"
+  },
+  "def": "The group of top managers who run a company or a business unit.",
+  "registers": {
+   "formal": {
+    "uk": "senior leadership team",
+    "us": "senior leadership team",
+    "ex": "The proposal was endorsed by the [[senior leadership team]] on 12 May.",
+    "ex_us": "The proposal was endorsed by the [[senior leadership team]] on May 12."
+   },
+   "everyday": {
+    "uk": "SLT",
+    "us": "leadership team",
+    "ex": "It's on the agenda for [[SLT]] next week.",
+    "ex_us": "It's on the agenda for the [[leadership team]] next week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the leadership team",
+   "senior leaders",
+   "the C-suite",
+   "to brief the leadership team"
+  ],
+  "note_fr": "« SLT » est très courant au Royaume-Uni ; aux États-Unis on dit plutôt « the leadership team » ou « the C-suite » (les dirigeants dont le titre commence par « Chief »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-065",
+  "level": 2,
+  "fr": "intelligence émotionnelle",
+  "term": {
+   "uk": "emotional intelligence",
+   "us": "emotional intelligence"
+  },
+  "ipa": {
+   "uk": "/ɪˌməʊʃ(ə)n(ə)l ɪnˈtelɪdʒ(ə)ns/",
+   "us": "/ɪˌmoʊʃ(ə)n(ə)l ɪnˈtelədʒ(ə)ns/"
+  },
+  "def": "The ability to understand and manage your own emotions and to recognise those of others.",
+  "registers": {
+   "formal": {
+    "uk": "emotional intelligence",
+    "us": "emotional intelligence",
+    "ex": "[[Emotional intelligence]] is one of the six behaviours assessed in the leadership framework."
+   },
+   "everyday": {
+    "uk": "EQ",
+    "us": "EQ",
+    "ex": "Technically brilliant, but his [[EQ]] is close to zero."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "self-awareness",
+   "empathy",
+   "to keep one's cool",
+   "people skills"
+  ],
+  "note_fr": "« EQ » (/ˌiː ˈkjuː/) est l'abréviation courante, par analogie avec « IQ ». « Sensible » est un faux ami : « sensitive » = sensible, « sensible » = raisonnable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-066",
+  "level": 2,
+  "fr": "incarner les valeurs",
+  "term": {
+   "uk": "to embody the values",
+   "us": "to embody the values"
+  },
+  "ipa": {
+   "uk": "/tu ɪmˈbɒdi ðə ˈvæljuːz/",
+   "us": "/tu ɪmˈbɑːdi ðə ˈvæljuːz/"
+  },
+  "def": "To show the company's values clearly through your own behaviour.",
+  "registers": {
+   "formal": {
+    "uk": "to embody the values",
+    "us": "to embody the values",
+    "ex": "Senior managers are expected to [[embody the values]] of the Group in all their dealings."
+   },
+   "everyday": {
+    "uk": "to live the values",
+    "us": "to live the values",
+    "ex": "It's not about posters - leaders have to [[live the values]] every day."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to uphold the values",
+   "to be a role model",
+   "to reflect our values",
+   "to be at odds with"
+  ],
+  "note_fr": "« Embody » /ɪmˈbɒdi/ est soutenu ; « live the values » est l'équivalent oral. « To uphold » = défendre, faire respecter.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-067",
+  "level": 2,
+  "fr": "employeur de choix, employeur attractif",
+  "term": {
+   "uk": "employer of choice",
+   "us": "employer of choice"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪər əv ˈtʃɔɪs/",
+   "us": "/ɪmˌplɔɪər əv ˈtʃɔɪs/"
+  },
+  "def": "An organisation that people actively want to work for because of its reputation and conditions.",
+  "registers": {
+   "formal": {
+    "uk": "employer of choice",
+    "us": "employer of choice",
+    "ex": "Our ambition is to become an [[employer of choice]] in the logistics sector."
+   },
+   "everyday": {
+    "uk": "a great place to work",
+    "us": "a great place to work",
+    "ex": "We can't claim to be [[a great place to work]] if managers ignore the survey."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to attract and retain talent",
+   "employer reputation",
+   "word of mouth",
+   "to stand out"
+  ],
+  "note_fr": "« Attractif » se dit « attractive » pour un salaire ou une offre, mais pour un employeur on préfère « an employer of choice ». Ne dites pas « an attractive employer ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-068",
+  "level": 2,
+  "fr": "faire appliquer une politique",
+  "term": {
+   "uk": "to enforce a policy",
+   "us": "to enforce a policy"
+  },
+  "ipa": {
+   "uk": "/tu ɪnˈfɔːs ə ˈpɒləsi/",
+   "us": "/tu ɪnˈfɔːrs ə ˈpɑːləsi/"
+  },
+  "def": "To make sure that a rule or policy is actually followed and that breaches have consequences.",
+  "registers": {
+   "formal": {
+    "uk": "to enforce a policy",
+    "us": "to enforce a policy",
+    "ex": "Line managers are responsible for [[enforcing the policy]] consistently within their teams."
+   },
+   "everyday": {
+    "uk": "to apply the rules consistently",
+    "us": "to apply the rules consistently",
+    "ex": "If you don't [[apply the rules consistently]], you'll have no leg to stand on later."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "consistent application",
+   "to turn a blind eye",
+   "to make an exception",
+   "to set a precedent"
+  ],
+  "note_fr": "« Enforce » ne veut pas dire « renforcer » (« to reinforce »). En France, une application incohérente d'une règle interne affaiblit toute sanction ultérieure ; d'où l'importance de « consistency ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-069",
+  "level": 2,
+  "fr": "tester en phase pilote",
+  "term": {
+   "uk": "to pilot",
+   "us": "to pilot"
+  },
+  "ipa": {
+   "uk": "/tu ˈpaɪlət/",
+   "us": "/tu ˈpaɪlət/"
+  },
+  "def": "To test a new scheme on a small scale before introducing it more widely.",
+  "registers": {
+   "formal": {
+    "uk": "to pilot",
+    "us": "to pilot",
+    "ex": "The scheme will be [[piloted]] at two sites before any decision on wider deployment."
+   },
+   "everyday": {
+    "uk": "to trial",
+    "us": "to test",
+    "ex": "Let's [[trial]] it in one team first and see what breaks.",
+    "ex_us": "Let's [[test]] it in one team first and see what breaks."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a pilot scheme",
+   "a pilot phase",
+   "a trial run",
+   "to scale up"
+  ],
+  "note_fr": "Faux ami : « piloter un projet » se dit « to run / lead / steer a project » ; « to pilot » signifie tester à petite échelle. « To trial » (verbe) est surtout britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-070",
+  "level": 2,
+  "fr": "porter, piloter (un projet)",
+  "term": {
+   "uk": "to drive",
+   "us": "to drive"
+  },
+  "ipa": {
+   "uk": "/tu draɪv/",
+   "us": "/tu draɪv/"
+  },
+  "def": "To lead a project or change actively and push it forward.",
+  "registers": {
+   "formal": {
+    "uk": "to lead",
+    "us": "to lead",
+    "ex": "The HR Director will [[lead]] the programme, supported by a cross-functional steering group."
+   },
+   "everyday": {
+    "uk": "to drive",
+    "us": "to drive",
+    "ex": "Who's going to [[drive]] this? It can't just sit with HR."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to drive change",
+   "to drive engagement",
+   "to be in the driving seat",
+   "to own a project"
+  ],
+  "note_fr": "« Driving seat » (UK) / « driver's seat » (US) = aux commandes. « To drive results » est un peu jargonnant mais omniprésent dans les groupes américains.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-071",
+  "level": 2,
+  "fr": "managers de proximité",
+  "term": {
+   "uk": "frontline managers",
+   "us": "frontline managers"
+  },
+  "ipa": {
+   "uk": "/ˈfrʌntlaɪn ˈmænɪdʒəz/",
+   "us": "/ˈfrʌntlaɪn ˈmænɪdʒərz/"
+  },
+  "def": "Managers who directly supervise operational employees, such as team leaders and supervisors.",
+  "registers": {
+   "formal": {
+    "uk": "first-line managers",
+    "us": "first-line managers",
+    "ex": "Training will be provided to all [[first-line managers]] before the policy takes effect."
+   },
+   "everyday": {
+    "uk": "frontline managers",
+    "us": "frontline managers",
+    "ex": "Our [[frontline managers]] were promoted for being good technicians, not good managers."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "team leaders",
+   "supervisors",
+   "first-time managers",
+   "to equip managers"
+  ],
+  "note_fr": "« Manager de proximité » n'a pas d'équivalent littéral : « proximity manager » n'existe pas. « Frontline » s'écrit en un mot ou avec un tiret (« front-line »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-072",
+  "level": 2,
+  "fr": "s'approprier, prendre en charge",
+  "term": {
+   "uk": "to take ownership",
+   "us": "to take ownership"
+  },
+  "ipa": {
+   "uk": "/tu teɪk ˈəʊnəʃɪp/",
+   "us": "/tu teɪk ˈoʊnərʃɪp/"
+  },
+  "def": "To accept full responsibility for a task or problem and its outcome.",
+  "registers": {
+   "formal": {
+    "uk": "to assume responsibility",
+    "us": "to assume responsibility",
+    "ex": "Each director will [[assume responsibility]] for the action plan in their area."
+   },
+   "everyday": {
+    "uk": "to take ownership",
+    "us": "to take ownership",
+    "ex": "I need the managers to [[take ownership]] of the survey results, not hand them back to HR."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to own something",
+   "a sense of ownership",
+   "to take responsibility for",
+   "to pass the buck"
+  ],
+  "note_fr": "« To own » (« who owns this? ») = qui est responsable ? Très fréquent dans les entreprises américaines. « To pass the buck » = se renvoyer la balle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-073",
+  "level": 2,
+  "fr": "réaction à chaud, réaction épidermique",
+  "term": {
+   "uk": "knee-jerk reaction",
+   "us": "knee-jerk reaction"
+  },
+  "ipa": {
+   "uk": "/ˈniː dʒɜːk riˈækʃ(ə)n/",
+   "us": "/ˈniː dʒɜːrk riˈækʃ(ə)n/"
+  },
+  "def": "An immediate response made without thinking it through.",
+  "registers": {
+   "formal": {
+    "uk": "hasty decision",
+    "us": "hasty decision",
+    "ex": "A [[hasty decision]] at this stage would expose the company to significant risk."
+   },
+   "everyday": {
+    "uk": "knee-jerk reaction",
+    "us": "knee-jerk reaction",
+    "ex": "Firing him on the spot would be a [[knee-jerk reaction]] - and a costly one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to act in the heat of the moment",
+   "to sleep on it",
+   "to cool off",
+   "to think it through"
+  ],
+  "note_fr": "« To sleep on it » = laisser passer la nuit avant de décider : conseil précieux face à un manager en colère.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-074",
+  "level": 2,
+  "fr": "trace écrite",
+  "term": {
+   "uk": "paper trail",
+   "us": "paper trail"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪpə treɪl/",
+   "us": "/ˈpeɪpər treɪl/"
+  },
+  "def": "A series of documents that shows what has happened and when.",
+  "registers": {
+   "formal": {
+    "uk": "written record",
+    "us": "written record",
+    "ex": "Managers must keep a [[written record]] of each informal discussion."
+   },
+   "everyday": {
+    "uk": "paper trail",
+    "us": "paper trail",
+    "ex": "Without a [[paper trail]], it's his word against yours."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep a record",
+   "to put it in writing",
+   "to document",
+   "a follow-up email"
+  ],
+  "note_fr": "Même si les échanges sont électroniques, on dit toujours « paper trail ». Un simple e-mail récapitulatif (« follow-up email ») après un entretien informel suffit souvent à en créer une.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-075",
+  "level": 2,
+  "fr": "donner le ton",
+  "term": {
+   "uk": "to set the tone",
+   "us": "to set the tone"
+  },
+  "ipa": {
+   "uk": "/tu set ðə ˈtəʊn/",
+   "us": "/tu set ðə ˈtoʊn/"
+  },
+  "def": "To establish the mood or standard of behaviour for what follows.",
+  "registers": {
+   "formal": {
+    "uk": "to set the tone",
+    "us": "to set the tone",
+    "ex": "The CEO's opening remarks will [[set the tone]] for the consultation process."
+   },
+   "everyday": {
+    "uk": "to set the tone",
+    "us": "to set the tone",
+    "ex": "The way you handle the first complaint will [[set the tone]] for the whole team."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set the tone for",
+   "to set the standard",
+   "to send the wrong message",
+   "first impressions"
+  ],
+  "note_fr": "« To send the wrong message » = envoyer un mauvais signal. Ne dites pas « give the tone ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-076",
+  "level": 3,
+  "fr": "centre d'expertise RH",
+  "term": {
+   "uk": "centre of expertise",
+   "us": "center of excellence"
+  },
+  "ipa": {
+   "uk": "/ˈsentər əv ˌekspɜːˈtiːz/",
+   "us": "/ˈsentər əv ˈeks(ə)ləns/"
+  },
+  "def": "A small team of HR specialists, such as reward, talent or employee relations, that designs policies and advises the rest of HR.",
+  "registers": {
+   "formal": {
+    "uk": "centre of expertise",
+    "us": "center of excellence",
+    "ex": "Reward and employee relations will be organised as [[centres of expertise]] serving all business units.",
+    "ex_us": "Reward and employee relations will be organized as [[centers of excellence]] serving all business units."
+   },
+   "everyday": {
+    "uk": "CoE",
+    "us": "CoE",
+    "ex": "That's a question for the reward [[CoE]], not your HRBP."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a reward CoE",
+   "specialist advice",
+   "to design policy",
+   "subject-matter expert"
+  ],
+  "note_fr": "Différence UK/US : « centre of expertise » (UK) / « center of excellence » (US), même sigle « CoE ». Orthographe « centre » / « center ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-077",
+  "level": 3,
+  "fr": "modèle opérationnel RH, organisation de la fonction RH",
+  "term": {
+   "uk": "HR operating model",
+   "us": "HR operating model"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑːr ˈɒpəreɪtɪŋ ˈmɒd(ə)l/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈɑːpəreɪtɪŋ ˈmɑːd(ə)l/"
+  },
+  "def": "The way the HR function is organised to deliver its services: roles, structures, processes and technology.",
+  "registers": {
+   "formal": {
+    "uk": "HR operating model",
+    "us": "HR operating model",
+    "ex": "The proposed [[HR operating model]] clarifies the respective roles of business partners and shared services."
+   },
+   "everyday": {
+    "uk": "the way HR is set up",
+    "us": "the way HR is set up",
+    "ex": "The problem isn't the people, it's [[the way HR is set up]] - everything comes to the HRBPs."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to redesign the operating model",
+   "service delivery",
+   "self-service",
+   "roles and responsibilities"
+  ],
+  "note_fr": "« Operating model » désigne l'organisation globale d'une fonction, pas un « modèle » théorique. « Self-service » = libre-service (portails RH pour salariés et managers).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-078",
+  "level": 3,
+  "fr": "modèle à trois piliers (modèle d'Ulrich)",
+  "term": {
+   "uk": "three-pillar model",
+   "us": "three-pillar model"
+  },
+  "ipa": {
+   "uk": "/ˌθriː ˈpɪlə ˈmɒd(ə)l/",
+   "us": "/ˌθriː ˈpɪlər ˈmɑːd(ə)l/"
+  },
+  "def": "An HR organisation built around business partners, centres of expertise and shared services.",
+  "registers": {
+   "formal": {
+    "uk": "three-pillar model",
+    "us": "three-pillar model",
+    "ex": "The Group adopted a [[three-pillar model]], separating strategic advice from transactional activity."
+   },
+   "everyday": {
+    "uk": "three-legged stool",
+    "us": "three-legged stool",
+    "ex": "We're still on the old [[three-legged stool]], and the HRBPs end up doing admin."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the Ulrich model",
+   "transactional HR",
+   "strategic HR",
+   "to free up HRBPs"
+  ],
+  "note_fr": "Modèle souvent attribué à Dave Ulrich. « Three-legged stool » (tabouret à trois pieds) est l'image familière employée aux États-Unis comme au Royaume-Uni.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-079",
+  "level": 3,
+  "fr": "ratio masse salariale / chiffre d'affaires",
+  "term": {
+   "uk": "payroll-to-revenue ratio",
+   "us": "payroll-to-revenue ratio"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl tə ˈrevənjuː ˈreɪʃiəʊ/",
+   "us": "/ˈpeɪroʊl tə ˈrevənuː ˈreɪʃioʊ/"
+  },
+  "def": "Total employment costs expressed as a percentage of revenue.",
+  "registers": {
+   "formal": {
+    "uk": "ratio of staff costs to revenue",
+    "us": "ratio of personnel costs to revenue",
+    "ex": "The [[ratio of staff costs to revenue]] has risen to 41%, above the Group target.",
+    "ex_us": "The [[ratio of personnel costs to revenue]] has risen to 41%, above the Group target."
+   },
+   "everyday": {
+    "uk": "payroll ratio",
+    "us": "payroll ratio",
+    "ex": "Head office keeps asking why our [[payroll ratio]] is higher than in the UK."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "fully loaded cost",
+   "employer's social charges",
+   "people costs",
+   "cost per FTE"
+  ],
+  "note_fr": "En France, les cotisations patronales pèsent lourd dans la masse salariale : précisez si le ratio est calculé sur le brut ou sur le coût chargé (« fully loaded cost »). « Turnover » est un faux ami ici : en anglais britannique, il signifie aussi chiffre d'affaires.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-080",
+  "level": 3,
+  "fr": "départs regrettés",
+  "term": {
+   "uk": "regretted attrition",
+   "us": "regretted attrition"
+  },
+  "ipa": {
+   "uk": "/rɪˈɡretɪd əˈtrɪʃ(ə)n/",
+   "us": "/rɪˈɡretəd əˈtrɪʃ(ə)n/"
+  },
+  "def": "Voluntary departures of employees the company would have preferred to keep, such as high performers.",
+  "registers": {
+   "formal": {
+    "uk": "regretted attrition",
+    "us": "regretted attrition",
+    "ex": "[[Regretted attrition]] among engineers reached 9% over the last twelve months."
+   },
+   "everyday": {
+    "uk": "losing good people",
+    "us": "losing good people",
+    "ex": "We're not just losing people, we're [[losing good people]] - and to the same competitor."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "non-regretted attrition",
+   "voluntary attrition",
+   "to stem attrition",
+   "exit data"
+  ],
+  "note_fr": "« Attrition » désigne les départs non remplacés ou l'ensemble des départs selon les entreprises : vérifiez la définition. « To stem » = endiguer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-081",
+  "level": 3,
+  "fr": "indicateurs avancés et indicateurs de résultat",
+  "term": {
+   "uk": "leading and lagging indicators",
+   "us": "leading and lagging indicators"
+  },
+  "ipa": {
+   "uk": "/ˈliːdɪŋ ən ˈlæɡɪŋ ˈɪndɪkeɪtəz/",
+   "us": "/ˈliːdɪŋ ən ˈlæɡɪŋ ˈɪndəkeɪtərz/"
+  },
+  "def": "Leading indicators signal what is likely to happen; lagging indicators measure what has already happened.",
+  "registers": {
+   "formal": {
+    "uk": "leading and lagging indicators",
+    "us": "leading and lagging indicators",
+    "ex": "The dashboard combines [[leading and lagging indicators]] to give early warning of retention risk."
+   },
+   "everyday": {
+    "uk": "early warning signs",
+    "us": "early warning signs",
+    "ex": "Engagement scores are our [[early warning signs]]; turnover only tells us what's already gone wrong."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a lead indicator",
+   "a lagging measure",
+   "to predict",
+   "a rear-view mirror"
+  ],
+  "note_fr": "Exemple type : l'engagement ou l'absence de courte durée sont des « leading indicators » ; le turnover est un « lagging indicator ». « Lag » = retard.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-082",
+  "level": 3,
+  "fr": "analyse de données RH",
+  "term": {
+   "uk": "people analytics",
+   "us": "people analytics"
+  },
+  "ipa": {
+   "uk": "/ˈpiːp(ə)l ˌænəˈlɪtɪks/",
+   "us": "/ˈpiːp(ə)l ˌænəˈlɪtɪks/"
+  },
+  "def": "The use of statistical analysis of workforce data to understand trends and support HR decisions.",
+  "registers": {
+   "formal": {
+    "uk": "workforce analytics",
+    "us": "workforce analytics",
+    "ex": "The Group intends to invest in [[workforce analytics]], subject to data protection requirements."
+   },
+   "everyday": {
+    "uk": "people analytics",
+    "us": "people analytics",
+    "ex": "Our [[people analytics]] team found that turnover tracks almost exactly with manager changes."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "predictive analytics",
+   "to crunch the numbers",
+   "data quality",
+   "insights"
+  ],
+  "note_fr": "« Analytics » est un nom pluriel en forme mais généralement singulier en sens. En France et dans l'UE, toute analyse de données salariés doit respecter le RGPD et, le cas échéant, la consultation du CSE.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-083",
+  "level": 3,
+  "fr": "mettre à l'ordre du jour (UK) / reporter (US)",
+  "term": {
+   "uk": "to table a proposal",
+   "us": "to table a proposal"
+  },
+  "ipa": {
+   "uk": "/tu ˈteɪb(ə)l ə prəˈpəʊz(ə)l/",
+   "us": "/tu ˈteɪb(ə)l ə prəˈpoʊz(ə)l/"
+  },
+  "def": "In British English, to present a proposal for discussion; in American English, to postpone discussing it.",
+  "registers": {
+   "formal": {
+    "uk": "to table a proposal",
+    "us": "to put forward a proposal",
+    "ex": "The HR Director will [[table a proposal]] on hybrid working at the next meeting.",
+    "ex_us": "The HR Director will [[put forward a proposal]] on hybrid working at the next meeting."
+   },
+   "everyday": {
+    "uk": "to put something on the agenda",
+    "us": "to put something on the agenda",
+    "ex": "Can we [[put the bonus scheme on the agenda]] for March?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to table a motion",
+   "to put forward",
+   "to shelve",
+   "to defer"
+  ],
+  "note_fr": "Piège majeur UK/US : « to table » = soumettre à la discussion au Royaume-Uni, mais ajourner, mettre de côté aux États-Unis. Avec un public mixte, dites « put forward » ou « postpone ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-084",
+  "level": 3,
+  "fr": "influencer sans autorité hiérarchique",
+  "term": {
+   "uk": "to influence without authority",
+   "us": "to influence without authority"
+  },
+  "ipa": {
+   "uk": "/tu ˈɪnfluəns wɪˈðaʊt ɔːˈθɒrəti/",
+   "us": "/tu ˈɪnfluəns wɪˈðaʊt əˈθɔːrəti/"
+  },
+  "def": "To persuade people to act when you are not their manager and cannot give them orders.",
+  "registers": {
+   "formal": {
+    "uk": "to influence without authority",
+    "us": "to influence without authority",
+    "ex": "HR business partners must be able to [[influence without authority]] across the matrix."
+   },
+   "everyday": {
+    "uk": "to get people to do things without being their boss",
+    "us": "to get people to do things without being their boss",
+    "ex": "Half of HR is [[getting people to do things without being their boss]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to build credibility",
+   "to win hearts and minds",
+   "to leverage relationships",
+   "soft power"
+  ],
+  "note_fr": "« Influence » se prononce avec l'accent sur la première syllabe : /ˈɪnfluəns/. « To win hearts and minds » = convaincre et rallier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-085",
+  "level": 3,
+  "fr": "dire la vérité aux puissants, oser contredire la direction",
+  "term": {
+   "uk": "to speak truth to power",
+   "us": "to speak truth to power"
+  },
+  "ipa": {
+   "uk": "/tu spiːk ˌtruːθ tə ˈpaʊə/",
+   "us": "/tu spiːk ˌtruːθ tə ˈpaʊər/"
+  },
+  "def": "To tell people in authority things they may not want to hear.",
+  "registers": {
+   "formal": {
+    "uk": "to give candid advice",
+    "us": "to give candid advice",
+    "ex": "The role requires the ability to [[give candid advice]] to the executive team."
+   },
+   "everyday": {
+    "uk": "to speak truth to power",
+    "us": "to speak truth to power",
+    "ex": "Sometimes HR has to [[speak truth to power]], even if it costs us politically."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "candid",
+   "to tell it like it is",
+   "unwelcome news",
+   "to have the courage to"
+  ],
+  "note_fr": "« Candid » = franc, sincère (faux ami avec « candide », qui se dit « naive »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-086",
+  "level": 3,
+  "fr": "avoir l'oreille de quelqu'un",
+  "term": {
+   "uk": "to have the ear of",
+   "us": "to have the ear of"
+  },
+  "ipa": {
+   "uk": "/tu hæv ði ˈɪər əv/",
+   "us": "/tu hæv ði ˈɪr əv/"
+  },
+  "def": "To have someone important listen to and take account of your views.",
+  "registers": {
+   "formal": {
+    "uk": "to have the ear of",
+    "us": "to have the ear of",
+    "ex": "The Head of Reward [[has the ear of]] the Remuneration Committee."
+   },
+   "everyday": {
+    "uk": "to have someone's ear",
+    "us": "to have someone's ear",
+    "ex": "She [[has the CEO's ear]], so it's worth getting her on side first."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to get someone on side",
+   "an informal channel",
+   "to bend someone's ear",
+   "to have influence with"
+  ],
+  "note_fr": "Ne confondez pas avec « to bend someone's ear » = rebattre les oreilles à quelqu'un. « To get someone on side » (UK) = rallier quelqu'un.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-087",
+  "level": 3,
+  "fr": "leadership de service",
+  "term": {
+   "uk": "servant leadership",
+   "us": "servant leadership"
+  },
+  "ipa": {
+   "uk": "/ˈsɜːvənt ˈliːdəʃɪp/",
+   "us": "/ˈsɜːrvənt ˈliːdərʃɪp/"
+  },
+  "def": "A leadership approach in which the leader's main role is to support and develop the team.",
+  "registers": {
+   "formal": {
+    "uk": "servant leadership",
+    "us": "servant leadership",
+    "ex": "The programme draws on the principles of [[servant leadership]]."
+   },
+   "everyday": {
+    "uk": "putting the team first",
+    "us": "putting the team first",
+    "ex": "His idea of leadership is [[putting the team first]] and clearing obstacles out of their way."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to remove obstacles",
+   "to serve the team",
+   "to empower",
+   "people-first"
+  ],
+  "note_fr": "« Servant » n'a rien de péjoratif ici. Concept américain, à manier avec nuance dans une culture française plus hiérarchique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-088",
+  "level": 3,
+  "fr": "périmètre managérial, étendue des responsabilités d'encadrement",
+  "term": {
+   "uk": "span of control",
+   "us": "span of control"
+  },
+  "ipa": {
+   "uk": "/ˌspæn əv kənˈtrəʊl/",
+   "us": "/ˌspæn əv kənˈtroʊl/"
+  },
+  "def": "The number of people who report directly to one manager.",
+  "registers": {
+   "formal": {
+    "uk": "span of control",
+    "us": "span of control",
+    "ex": "The target [[span of control]] is eight to ten direct reports per manager."
+   },
+   "everyday": {
+    "uk": "number of direct reports",
+    "us": "number of direct reports",
+    "ex": "With fourteen people, his [[number of direct reports]] is just too high."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a narrow / wide span of control",
+   "layers of management",
+   "spans and layers",
+   "to delayer"
+  ],
+  "note_fr": "« Spans and layers » est un classique des projets d'organisation. Ne confondez pas avec le périmètre géographique ou fonctionnel (« scope »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-089",
+  "level": 3,
+  "fr": "sécurité psychologique",
+  "term": {
+   "uk": "psychological safety",
+   "us": "psychological safety"
+  },
+  "ipa": {
+   "uk": "/ˌsaɪkəˈlɒdʒɪk(ə)l ˈseɪfti/",
+   "us": "/ˌsaɪkəˈlɑːdʒɪk(ə)l ˈseɪfti/"
+  },
+  "def": "A team climate in which people feel able to speak up, admit mistakes and disagree without fear of humiliation or punishment.",
+  "registers": {
+   "formal": {
+    "uk": "psychological safety",
+    "us": "psychological safety",
+    "ex": "Teams with high [[psychological safety]] report errors earlier and learn faster."
+   },
+   "everyday": {
+    "uk": "feeling safe to speak up",
+    "us": "feeling safe to speak up",
+    "ex": "It's about people [[feeling safe to speak up]] - including telling you you're wrong."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to create psychological safety",
+   "fear of speaking up",
+   "to admit mistakes",
+   "a blame culture"
+  ],
+  "note_fr": "Le « p » de « psychological » est muet : /saɪ-/. Ne pas confondre avec la santé mentale (« mental health ») ni avec les risques psychosociaux, notion juridique française.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-090",
+  "level": 3,
+  "fr": "exemplarité de la direction",
+  "term": {
+   "uk": "tone from the top",
+   "us": "tone at the top"
+  },
+  "ipa": {
+   "uk": "/ˌtəʊn frəm ðə ˈtɒp/",
+   "us": "/ˌtoʊn ət ðə ˈtɑːp/"
+  },
+  "def": "The example and attitude set by senior leaders, which strongly influences behaviour throughout the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "tone from the top",
+    "us": "tone at the top",
+    "ex": "A clear [[tone from the top]] is essential to the credibility of the code of conduct.",
+    "ex_us": "A clear [[tone at the top]] is essential to the credibility of the code of conduct."
+   },
+   "everyday": {
+    "uk": "leading from the top",
+    "us": "leading from the top",
+    "ex": "If the ExCo doesn't [[lead from the top]] on this, managers won't bother."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "tone from the middle",
+   "ethical leadership",
+   "to set the example",
+   "compliance culture"
+  ],
+  "note_fr": "Différence d'usage : « tone from the top » plutôt britannique, « tone at the top » plutôt américain (vocabulaire de la conformité et de l'audit).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-091",
+  "level": 3,
+  "fr": "proposition de valeur employeur",
+  "term": {
+   "uk": "employee value proposition",
+   "us": "employee value proposition"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪiː ˈvæljuː ˌprɒpəˈzɪʃ(ə)n/",
+   "us": "/ɪmˈplɔɪiː ˈvæljuː ˌprɑːpəˈzɪʃ(ə)n/"
+  },
+  "def": "The overall package of pay, benefits, culture and opportunities that a company offers employees in return for their work.",
+  "registers": {
+   "formal": {
+    "uk": "employee value proposition",
+    "us": "employee value proposition",
+    "ex": "The [[employee value proposition]] will be refreshed to reflect the new hybrid working model."
+   },
+   "everyday": {
+    "uk": "EVP",
+    "us": "EVP",
+    "ex": "What's our [[EVP]] for engineers if we can't match Paris salaries?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to define the EVP",
+   "to articulate",
+   "what sets us apart",
+   "the deal"
+  ],
+  "note_fr": "Attention : aux États-Unis, « EVP » signifie aussi « Executive Vice President ». Précisez à la première occurrence.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-092",
+  "level": 3,
+  "fr": "adapté à l'usage, en adéquation avec les besoins",
+  "term": {
+   "uk": "fit for purpose",
+   "us": "fit for purpose"
+  },
+  "ipa": {
+   "uk": "/ˌfɪt fə ˈpɜːpəs/",
+   "us": "/ˌfɪt fər ˈpɜːrpəs/"
+  },
+  "def": "Good enough to do the job it was designed for.",
+  "registers": {
+   "formal": {
+    "uk": "fit for purpose",
+    "us": "fit for purpose",
+    "ex": "The current HRIS is no longer [[fit for purpose]] for a multi-entity organisation.",
+    "ex_us": "The current HRIS is no longer [[fit for purpose]] for a multi-entity organization."
+   },
+   "everyday": {
+    "uk": "up to the job",
+    "us": "up to the job",
+    "ex": "The old policy just isn't [[up to the job]] any more.",
+    "ex_us": "The old policy just isn't [[up to the job]] anymore."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "no longer fit for purpose",
+   "to be overhauled",
+   "outdated",
+   "to future-proof"
+  ],
+  "note_fr": "Expression très britannique, comprise aux États-Unis. « Any more » (UK) / « anymore » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-093",
+  "level": 3,
+  "fr": "responsabiliser quelqu'un, demander des comptes",
+  "term": {
+   "uk": "to hold someone accountable",
+   "us": "to hold someone accountable"
+  },
+  "ipa": {
+   "uk": "/tu həʊld ˈsʌmwʌn əˈkaʊntəb(ə)l/",
+   "us": "/tu hoʊld ˈsʌmwʌn əˈkaʊntəb(ə)l/"
+  },
+  "def": "To make someone answer for their results or behaviour and accept the consequences.",
+  "registers": {
+   "formal": {
+    "uk": "to hold someone accountable",
+    "us": "to hold someone accountable",
+    "ex": "Managers will be [[held accountable]] for the completion of mandatory training in their teams."
+   },
+   "everyday": {
+    "uk": "to make someone answer for",
+    "us": "to make someone answer for",
+    "ex": "Nobody ever [[made him answer for]] the missed deadlines, so he stopped caring."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "accountable for",
+   "responsible vs accountable",
+   "to answer for",
+   "consequences"
+  ],
+  "note_fr": "« Responsible » = qui exécute ; « accountable » = qui doit rendre des comptes in fine (cf. matrice RACI). « Responsabiliser » (au sens de donner de l'autonomie) se dit aussi « to empower ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-094",
+  "level": 3,
+  "fr": "cartographie des parties prenantes",
+  "term": {
+   "uk": "stakeholder mapping",
+   "us": "stakeholder mapping"
+  },
+  "ipa": {
+   "uk": "/ˈsteɪkhəʊldə ˈmæpɪŋ/",
+   "us": "/ˈsteɪkhoʊldər ˈmæpɪŋ/"
+  },
+  "def": "Identifying the people affected by a project and analysing their influence and attitude towards it.",
+  "registers": {
+   "formal": {
+    "uk": "stakeholder mapping",
+    "us": "stakeholder mapping",
+    "ex": "A [[stakeholder mapping]] exercise identified the plant directors as critical to adoption."
+   },
+   "everyday": {
+    "uk": "working out who matters",
+    "us": "figuring out who matters",
+    "ex": "Before the launch, spend an hour [[working out who matters]] and where they stand.",
+    "ex_us": "Before the launch, spend an hour [[figuring out who matters]] and where they stand."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "influence and interest",
+   "blockers and champions",
+   "to map stakeholders",
+   "where people stand"
+  ],
+  "note_fr": "« To work out » (UK) / « to figure out » (US) = déterminer. « Blockers » = opposants susceptibles de bloquer ; « champions » = relais favorables.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-095",
+  "level": 3,
+  "fr": "cadre (statut)",
+  "term": {
+   "uk": "management-grade employee (cadre)",
+   "us": "management-grade employee (cadre)"
+  },
+  "ipa": {
+   "uk": "/ˈmænɪdʒmənt ɡreɪd ɪmˈplɔɪiː/",
+   "us": "/ˈmænɪdʒmənt ɡreɪd ɪmˈplɔɪiː/"
+  },
+  "def": "In France, an employee with managerial or professional status under the collective agreement, with specific rules on pension, working time and benefits.",
+  "registers": {
+   "formal": {
+    "uk": "employee with cadre status",
+    "us": "employee with cadre status",
+    "ex": "The post is classified as that of an [[employee with cadre status]] under the applicable collective agreement."
+   },
+   "everyday": {
+    "uk": "cadre",
+    "us": "cadre",
+    "ex": "He's a [[cadre]], so he's on a days-based arrangement rather than hours."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "non-cadre staff",
+   "cadre status",
+   "managerial and professional staff",
+   "executive cadre"
+  ],
+  "note_fr": "« Cadre » ne se traduit pas par « executive » (dirigeant) ni par « manager » : beaucoup de cadres n'encadrent personne. L'américain « exempt employee » (exclu du paiement des heures supplémentaires) est un rapprochement imparfait.",
+  "french_concept": true,
+  "explain": {
+   "written": "In France, 'cadre' is a status defined by collective agreements for managerial and professional staff, which carries specific rules on pension schemes, working time arrangements and certain benefits.",
+   "spoken": "Cadre is a French status for managers and professionals - it's not the same as being a manager, and it comes with its own rules on hours and pensions."
+  }
+ },
+ {
+  "id": "sg-096",
+  "level": 3,
+  "fr": "rattachement fonctionnel",
+  "term": {
+   "uk": "dotted-line reporting",
+   "us": "dotted-line reporting"
+  },
+  "ipa": {
+   "uk": "/ˌdɒtɪd ˈlaɪn rɪˈpɔːtɪŋ/",
+   "us": "/ˌdɑːtəd ˈlaɪn rɪˈpɔːrtɪŋ/"
+  },
+  "def": "A secondary, functional reporting line, alongside the direct (solid-line) hierarchical manager.",
+  "registers": {
+   "formal": {
+    "uk": "functional reporting line",
+    "us": "functional reporting line",
+    "ex": "The HR Director France has a [[functional reporting line]] to the Group CHRO."
+   },
+   "everyday": {
+    "uk": "dotted line",
+    "us": "dotted line",
+    "ex": "I report to the country MD, with a [[dotted line]] to the VP HR in Chicago."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "solid-line manager",
+   "a dual reporting line",
+   "to have a dotted line to",
+   "hierarchical vs functional"
+  ],
+  "note_fr": "« Solid line » = rattachement hiérarchique (qui a le pouvoir de direction et disciplinaire en droit français) ; « dotted line » = rattachement fonctionnel. Utile pour expliquer à un groupe étranger qui est l'employeur juridique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-097",
+  "level": 3,
+  "fr": "organisation matricielle",
+  "term": {
+   "uk": "matrix organisation",
+   "us": "matrix organization"
+  },
+  "ipa": {
+   "uk": "/ˈmeɪtrɪks ˌɔːɡənaɪˈzeɪʃ(ə)n/",
+   "us": "/ˈmeɪtrɪks ˌɔːrɡənəˈzeɪʃ(ə)n/"
+  },
+  "def": "A structure in which employees report to more than one manager, for example a country manager and a global function head.",
+  "registers": {
+   "formal": {
+    "uk": "matrix organisation",
+    "us": "matrix organization",
+    "ex": "In a [[matrix organisation]], decision rights must be clearly defined to avoid conflicting instructions.",
+    "ex_us": "In a [[matrix organization]], decision rights must be clearly defined to avoid conflicting instructions."
+   },
+   "everyday": {
+    "uk": "matrix",
+    "us": "matrix",
+    "ex": "In this [[matrix]], nobody knows who actually signs off on a hire."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "decision rights",
+   "to work across the matrix",
+   "two bosses",
+   "RACI"
+  ],
+  "note_fr": "Orthographe UK « organisation » / US « organization ». En droit français, le lien de subordination n'existe qu'avec l'employeur juridique, quelle que soit la matrice.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-098",
+  "level": 3,
+  "fr": "exposer l'entreprise à un contentieux",
+  "term": {
+   "uk": "to expose the company to a claim",
+   "us": "to expose the company to a claim"
+  },
+  "ipa": {
+   "uk": "/tu ɪkˈspəʊz ðə ˈkʌmpəni tu ə ˈkleɪm/",
+   "us": "/tu ɪkˈspoʊz ðə ˈkʌmpəni tu ə ˈkleɪm/"
+  },
+  "def": "To create a risk that an employee or authority will take legal action against the company.",
+  "registers": {
+   "formal": {
+    "uk": "to expose the company to a claim",
+    "us": "to expose the company to a claim",
+    "ex": "Proceeding without consultation would [[expose the company to a claim]] for obstruction."
+   },
+   "everyday": {
+    "uk": "to leave us open to a claim",
+    "us": "to leave us open to a lawsuit",
+    "ex": "If you do it that way, it'll [[leave us open to a claim]].",
+    "ex_us": "If you do it that way, it'll [[leave us open to a lawsuit]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "legal exposure",
+   "to be exposed",
+   "to mitigate the risk",
+   "to cover ourselves"
+  ],
+  "note_fr": "« Lawsuit » est plus courant aux États-Unis, « claim » au Royaume-Uni (« tribunal claim »). « Exposure » = niveau de risque financier ou juridique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "sg-099",
+  "level": 3,
+  "fr": "comité de direction (CODIR)",
+  "term": {
+   "uk": "management committee",
+   "us": "management committee"
+  },
+  "ipa": {
+   "uk": "/ˈmænɪdʒmənt kəˈmɪti/",
+   "us": "/ˈmænɪdʒmənt kəˈmɪti/"
+  },
+  "def": "In a French company, the CODIR: the operational management team of a company or site, usually below the executive committee in large groups.",
+  "registers": {
+   "formal": {
+    "uk": "management committee",
+    "us": "management committee",
+    "ex": "The matter was discussed at the [[management committee]] meeting of 3 March.",
+    "ex_us": "The matter was discussed at the [[management committee]] meeting of March 3."
+   },
+   "everyday": {
+    "uk": "leadership team",
+    "us": "leadership team",
+    "ex": "I'll raise it at the [[leadership team]] meeting on Monday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "CODIR / COMEX",
+   "to sit on the management committee",
+   "weekly management meeting",
+   "local leadership team"
+  ],
+  "note_fr": "En France, la distinction COMEX (instance stratégique) / CODIR (pilotage opérationnel) n'a pas d'équivalent exact ; expliquez la composition plutôt que de traduire le sigle.",
+  "french_concept": true,
+  "explain": {
+   "written": "The CODIR (comité de direction) is the management committee that runs a French company or site day to day, generally distinct from the COMEX, which sets group strategy.",
+   "spoken": "The CODIR is basically the local leadership team - the people who run the business here week to week."
+  }
+ },
+ {
+  "id": "sg-100",
+  "level": 3,
+  "fr": "sous-tendre, étayer",
+  "term": {
+   "uk": "to underpin",
+   "us": "to underpin"
+  },
+  "ipa": {
+   "uk": "/tu ˌʌndəˈpɪn/",
+   "us": "/tu ˌʌndərˈpɪn/"
+  },
+  "def": "To support or form the basis of an argument, strategy or system.",
+  "registers": {
+   "formal": {
+    "uk": "to underpin",
+    "us": "to underpin",
+    "ex": "Three principles [[underpin]] the proposed HR strategy: simplicity, fairness and accountability."
+   },
+   "everyday": {
+    "uk": "to be behind",
+    "us": "to be behind",
+    "ex": "Let me explain the thinking that [[is behind]] the roadmap."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to underpin a strategy",
+   "underlying assumptions",
+   "to be grounded in",
+   "the rationale"
+  ],
+  "note_fr": "Verbe soutenu très utile à l'écrit stratégique. « Rationale » /ˌræʃəˈnɑːl/ = la logique, la justification.",
+  "french_concept": false,
+  "explain": null
+ }
+]
