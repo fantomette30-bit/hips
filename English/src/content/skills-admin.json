@@ -1,0 +1,1631 @@
+{
+ "reading": [
+  {
+   "id": "rd-ad-1",
+   "title": "URSSAF Notice of Audit: Adviser's Summary",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Claire Dumont, HR Director, Verantis France | From: Tom Ashworth, Kestrel Payroll Advisory | Re: URSSAF notice of audit received on 28 January",
+    "1. Purpose. You asked for a short summary of the notice of audit and of what the company should do before the inspector arrives. The notice was sent in advance, as the rules require, and the first visit is scheduled for 10 March.",
+    "2. Scope. The audit will cover the application of social security legislation over the period under review, namely the last three calendar years and the current year. In practice, inspectors tend to focus on benefits in kind, expense allowances, termination payments and the general reduction in employer contributions. Please note that the notice refers to the charter of the audited employer, which sets out the company's rights during the procedure and is available online.",
+    "3. Documents. The inspector will expect the payroll journals, the DSN filings, the accounting ledgers, the company car policy and any agreements on bonuses or allowances to be available on the first day. We recommend appointing a single point of contact and keeping a log of every document provided.",
+    "4. Next steps. Before the visit, we suggest a pre-audit review of the riskiest items, so that any errors can be corrected voluntarily rather than discovered by the inspector. At the end of the audit, the company will receive a letter of observations and will have, in principle, thirty days to respond, a period which may be extended on request. No payment will be due until a formal notice to pay has been issued.",
+    "Should you wish to discuss any of the above, I would be happy to set up a call this week."
+   ],
+   "glossary": [
+    {
+     "term": "notice of audit",
+     "plain": "the letter announcing that an audit will take place",
+     "fr": "avis de contrôle"
+    },
+    {
+     "term": "period under review",
+     "plain": "the past years that the audit can examine",
+     "fr": "période contrôlée"
+    },
+    {
+     "term": "benefits in kind",
+     "plain": "non-cash advantages given to employees, such as the private use of a company car",
+     "fr": "avantages en nature"
+    },
+    {
+     "term": "general reduction in employer contributions",
+     "plain": "a legal cut in the social charges an employer pays on lower salaries",
+     "fr": "réduction générale des cotisations patronales"
+    },
+    {
+     "term": "single point of contact",
+     "plain": "one person who handles all communication with the inspector",
+     "fr": "interlocuteur unique"
+    },
+    {
+     "term": "letter of observations",
+     "plain": "the inspector's written findings at the end of the audit",
+     "fr": "lettre d'observations"
+    },
+    {
+     "term": "formal notice to pay",
+     "plain": "the official demand for payment that follows the audit",
+     "fr": "mise en demeure"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "namely",
+     "plain": "that is to say"
+    },
+    {
+     "phrase": "in principle",
+     "plain": "as a general rule, unless an exception applies"
+    },
+    {
+     "phrase": "on request",
+     "plain": "if you ask for it"
+    },
+    {
+     "phrase": "Should you wish",
+     "plain": "if you would like"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What period will the audit cover?",
+     "options": [
+      "Only the current year",
+      "The last three calendar years and the current year",
+      "The last five years",
+      "Only the years in which errors were found"
+     ],
+     "answer": 1,
+     "explain_fr": "La période contrôlée couvre les trois années civiles précédentes et l'année en cours ('namely the last three calendar years and the current year')."
+    },
+    {
+     "q": "Why does the adviser recommend a pre-audit review?",
+     "options": [
+      "To postpone the inspector's visit",
+      "To prepare a complaint against URSSAF",
+      "To correct errors voluntarily before the inspector finds them",
+      "To reduce the number of documents to hand over"
+     ],
+     "answer": 2,
+     "explain_fr": "'So that any errors can be corrected voluntarily rather than discovered by the inspector' : mieux vaut régulariser spontanément que subir un redressement."
+    },
+    {
+     "q": "What is the 'charter of the audited employer'?",
+     "options": [
+      "A document setting out the company's rights during the audit",
+      "The list of documents the inspector wants",
+      "The contract between the company and its adviser",
+      "The inspector's final report"
+     ],
+     "answer": 0,
+     "explain_fr": "La charte du cotisant contrôlé rappelle les droits de l'employeur pendant la procédure ('sets out the company's rights')."
+    },
+    {
+     "q": "When will the company actually have to pay?",
+     "options": [
+      "On the first day of the audit",
+      "As soon as it receives the letter of observations",
+      "Within thirty days of the visit",
+      "Not before a formal notice to pay has been issued"
+     ],
+     "answer": 3,
+     "explain_fr": "La lettre d'observations ouvre une phase d'échange ; le paiement n'est exigible qu'après la mise en demeure ('No payment will be due until a formal notice to pay has been issued')."
+    }
+   ]
+  },
+  {
+   "id": "rd-ad-2",
+   "title": "Monthly Payroll Control Procedure",
+   "kind": "policy extract",
+   "level": 2,
+   "paragraphs": [
+    "PAYROLL CONTROL PROCEDURE - FRANCE (extract)",
+    "4. Pre-payroll controls",
+    "4.1 Payroll inputs received after the cut-off date shall not be processed in the current month, save where the HR Director approves an exception in writing.",
+    "4.2 Before draft payslips are released, the payroll administrator shall perform a reasonableness check of gross pay by cost centre against the previous month. Any variance exceeding 5% shall be explained in the variance log.",
+    "4.3 All changes to employee master data, and in particular to bank details, are subject to the four-eyes principle. The person who enters a change may not approve it.",
+    "5. Post-payroll controls",
+    "5.1 A sample check of at least ten payslips shall be carried out each month by a member of the HR team who was not involved in their preparation.",
+    "5.2 The payroll journal shall be reconciled with the bank transfer file and with the DSN before the latter is filed. Reconciling items shall be documented and cleared no later than the following month.",
+    "5.3 Payroll approval shall be evidenced by the signature, electronic or handwritten, of the HR Director or, in her absence, the Finance Director.",
+    "6. Evidence and retention",
+    "6.1 Evidence of each control, including the reviewer's name and the date of review, shall be kept in the payroll control folder in accordance with the document retention schedule and made available to internal audit on request."
+   ],
+   "glossary": [
+    {
+     "term": "cut-off date",
+     "plain": "the last day on which changes can go into this month's payroll",
+     "fr": "date de clôture"
+    },
+    {
+     "term": "reasonableness check",
+     "plain": "a quick check that the figures look plausible",
+     "fr": "contrôle de cohérence"
+    },
+    {
+     "term": "variance",
+     "plain": "the difference between this month's figure and a reference figure",
+     "fr": "écart"
+    },
+    {
+     "term": "four-eyes principle",
+     "plain": "the rule that a second person must check or approve an operation",
+     "fr": "principe des quatre yeux"
+    },
+    {
+     "term": "sample check",
+     "plain": "a check on a few items chosen at random",
+     "fr": "contrôle par sondage"
+    },
+    {
+     "term": "Reconciling items",
+     "plain": "differences found when comparing two sources that still have to be explained",
+     "fr": "éléments de rapprochement en suspens"
+    },
+    {
+     "term": "document retention schedule",
+     "plain": "the table saying how long each type of document must be kept",
+     "fr": "tableau des durées de conservation"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "save where",
+     "plain": "except when"
+    },
+    {
+     "phrase": "the latter",
+     "plain": "the second of the two things just mentioned (here, the DSN)"
+    },
+    {
+     "phrase": "no later than",
+     "plain": "by; at the latest"
+    },
+    {
+     "phrase": "in accordance with",
+     "plain": "following; as required by"
+    },
+    {
+     "phrase": "shall be evidenced by",
+     "plain": "must be proved by"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who may approve a change to an employee's bank details?",
+     "options": [
+      "The person who entered it",
+      "Any member of the payroll provider's team",
+      "A second person, not the one who entered it",
+      "The employee's bank"
+     ],
+     "answer": 2,
+     "explain_fr": "Principe des quatre yeux : 'The person who enters a change may not approve it.'"
+    },
+    {
+     "q": "What happens to payroll inputs received after the cut-off date?",
+     "options": [
+      "They are processed the following month, unless the HR Director approves an exception in writing",
+      "They are rejected and never processed",
+      "They are processed immediately",
+      "They are sent back to the manager to be resubmitted"
+     ],
+     "answer": 0,
+     "explain_fr": "'Shall not be processed in the current month, save where the HR Director approves an exception in writing' : report au mois suivant sauf dérogation écrite."
+    },
+    {
+     "q": "What must the payroll journal be reconciled with before the DSN is filed?",
+     "options": [
+      "Leave balances",
+      "The bank transfer file and the DSN",
+      "The previous month's payslips",
+      "The annual budget"
+     ],
+     "answer": 1,
+     "explain_fr": "Paragraphe 5.2 : rapprochement avec le fichier de virement et la DSN, 'before the latter is filed' (avant le dépôt de cette dernière)."
+    },
+    {
+     "q": "Who carries out the monthly sample check?",
+     "options": [
+      "The payroll provider",
+      "The payroll administrator who prepared the payslips",
+      "Internal audit",
+      "A member of the HR team not involved in preparing the payslips"
+     ],
+     "answer": 3,
+     "explain_fr": "L'indépendance du contrôleur est la clé : 'who was not involved in their preparation'."
+    }
+   ]
+  },
+  {
+   "id": "rd-ad-3",
+   "title": "A Labour Inspector's Request for Documents",
+   "kind": "letter",
+   "level": 3,
+   "paragraphs": [
+    "Labour Inspectorate - Section 12 (courtesy translation)",
+    "Lyon, 14 October. To the Managing Director, Verantis Logistics France SAS, Saint-Priest warehouse. Re: Inspection visit of 9 October - request for documents",
+    "Dear Sir,",
+    "Further to my visit to your Saint-Priest warehouse on 9 October, in the course of which I met the site manager and two members of the works council, I should be grateful if you would send me the following documents within fifteen days of receipt of this letter:",
+    "1. An extract from the single staff register covering the period from 1 January to the date of my visit, including the agency workers placed at the site;",
+    "2. The records of hours actually worked by warehouse staff for July, August and September, together with the corresponding payslips;",
+    "3. For each assignment of an agency worker during the same period, the assignment contract, stating the legal ground for using temporary work and, where applicable, the name of the employee being replaced;",
+    "4. The list of contractors working on the site and, for each of them, the documents obtained in the course of your contractor checks, in particular the certificate of compliance issued by URSSAF;",
+    "5. The current version of the internal regulations, with evidence of their filing.",
+    "I would draw your attention to the fact that, during my visit, several of the mandatory notices were not displayed at the staff entrance. I would ask you to remedy this without delay.",
+    "The documents may be sent by email or by post. I would remind you that obstructing a labour inspector in the performance of his or her duties constitutes a criminal offence.",
+    "Yours faithfully, Anne Mercier, Labour Inspector"
+   ],
+   "glossary": [
+    {
+     "term": "single staff register",
+     "plain": "the mandatory list of everyone who works or has worked at the site",
+     "fr": "registre unique du personnel"
+    },
+    {
+     "term": "agency workers",
+     "plain": "temporary staff employed by an agency and placed with the company",
+     "fr": "intérimaires"
+    },
+    {
+     "term": "hours actually worked",
+     "plain": "the real working time, as opposed to contractual hours",
+     "fr": "heures de travail effectif"
+    },
+    {
+     "term": "assignment contract",
+     "plain": "the contract covering one placement of an agency worker",
+     "fr": "contrat de mission"
+    },
+    {
+     "term": "certificate of compliance",
+     "plain": "URSSAF's certificate that a business is up to date with its social security obligations",
+     "fr": "attestation de vigilance"
+    },
+    {
+     "term": "internal regulations",
+     "plain": "the mandatory French rulebook on health, safety and discipline",
+     "fr": "règlement intérieur"
+    },
+    {
+     "term": "mandatory notices",
+     "plain": "information the employer must display for staff by law",
+     "fr": "affichages obligatoires"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "Further to",
+     "plain": "following"
+    },
+    {
+     "phrase": "in the course of which",
+     "plain": "during which"
+    },
+    {
+     "phrase": "within fifteen days of receipt",
+     "plain": "in the fifteen days after you receive it"
+    },
+    {
+     "phrase": "I would draw your attention to the fact that",
+     "plain": "please note that"
+    },
+    {
+     "phrase": "without delay",
+     "plain": "immediately"
+    }
+   ],
+   "questions": [
+    {
+     "q": "By when must the documents be sent?",
+     "options": [
+      "Within fifteen days of the visit",
+      "Within fifteen days of receiving the letter",
+      "By the end of October",
+      "No deadline is given"
+     ],
+     "answer": 1,
+     "explain_fr": "'Within fifteen days of receipt of this letter' : le délai court à compter de la réception de la lettre, pas de la visite. D'où l'intérêt de noter la date de réception."
+    },
+    {
+     "q": "Why does the inspector ask for the assignment contracts?",
+     "options": [
+      "To check the agency's fees",
+      "To check the workers' training records",
+      "To check the legal ground for using each agency worker",
+      "To calculate overtime"
+     ],
+     "answer": 2,
+     "explain_fr": "Le recours à l'intérim n'est permis que pour des motifs limités : l'inspectrice vérifie 'the legal ground for using temporary work'."
+    },
+    {
+     "q": "What did the inspector notice during her visit?",
+     "options": [
+      "Several mandatory notices were missing at the staff entrance",
+      "The single staff register was missing",
+      "The internal regulations had never been filed",
+      "Agency workers had not received payslips"
+     ],
+     "answer": 0,
+     "explain_fr": "'Several of the mandatory notices were not displayed at the staff entrance' ; elle demande d'y remédier 'without delay'."
+    },
+    {
+     "q": "What is the purpose of the last paragraph before the signature?",
+     "options": [
+      "To offer help with the request",
+      "To remind the company that obstructing the inspector is a criminal offence",
+      "To propose a second visit",
+      "To announce an administrative fine"
+     ],
+     "answer": 1,
+     "explain_fr": "Formule classique de rappel : le délit d'obstacle aux fonctions de l'inspecteur du travail ('obstructing a labour inspector... constitutes a criminal offence')."
+    }
+   ]
+  },
+  {
+   "id": "rd-ad-4",
+   "title": "Head Office Quarterly Compliance Checklist",
+   "kind": "long email",
+   "level": 1,
+   "paragraphs": [
+    "Subject: Q3 HR compliance certification - action required by October 15",
+    "Hi all,",
+    "It's that time again! Please complete the quarterly HR compliance certification for your country by October 15. As a reminder, every 'yes' must be backed up by evidence that our internal audit team can review on request.",
+    "This quarter's checklist:",
+    "1. All new hires have a signed offer letter and completed onboarding paperwork on file.",
+    "2. Payroll was approved by an authorized signatory before each pay date.",
+    "3. Changes to employee bank details were reviewed by a second person.",
+    "4. Required workplace posters are displayed and up to date at every site.",
+    "5. All contractors and staffing agencies have been vetted, and their documents are current.",
+    "6. Records are kept in line with the global records retention schedule.",
+    "7. Any compliance issue identified during the quarter has been reported to Corporate Compliance.",
+    "If a question doesn't apply to your country, answer N/A and add a short comment. If local law requires something that isn't on the list, please flag it - we'd much rather hear about it now than in an audit.",
+    "Thanks for your help, and reach out with any questions.",
+    "Jenna Ortiz, Global HR Compliance Manager"
+   ],
+   "glossary": [
+    {
+     "term": "onboarding paperwork",
+     "plain": "the forms and documents completed when someone joins",
+     "fr": "formalités d'embauche"
+    },
+    {
+     "term": "authorized signatory",
+     "plain": "a person officially allowed to sign or approve",
+     "fr": "signataire habilité"
+    },
+    {
+     "term": "Required workplace posters",
+     "plain": "information the law says must be displayed for employees",
+     "fr": "affichages obligatoires"
+    },
+    {
+     "term": "vetted",
+     "plain": "checked carefully before or during a business relationship",
+     "fr": "contrôlés, vérifiés"
+    },
+    {
+     "term": "records retention schedule",
+     "plain": "the table saying how long each type of record must be kept",
+     "fr": "tableau des durées de conservation"
+    },
+    {
+     "term": "flag",
+     "plain": "point out something that needs attention",
+     "fr": "signaler"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "What must support each 'yes' answer?",
+     "options": [
+      "A manager's signature",
+      "Evidence that internal audit can review",
+      "A short comment",
+      "A lawyer's opinion"
+     ],
+     "answer": 1,
+     "explain_fr": "'Every yes must be backed up by evidence' : une réponse positive sans preuve n'a aucune valeur pour l'audit interne."
+    },
+    {
+     "q": "What should you do if a question does not apply to France?",
+     "options": [
+      "Leave it blank",
+      "Answer 'yes'",
+      "Answer N/A and add a short comment",
+      "Delete the question"
+     ],
+     "answer": 2,
+     "explain_fr": "'Answer N/A and add a short comment' : N/A = not applicable (sans objet)."
+    },
+    {
+     "q": "What does Jenna ask countries to do about local requirements that are not on the list?",
+     "options": [
+      "Ignore them until next quarter",
+      "Wait for the internal audit",
+      "Add them to the global policy themselves",
+      "Flag them now"
+     ],
+     "answer": 3,
+     "explain_fr": "'Please flag it - we'd much rather hear about it now than in an audit' : c'est l'occasion de signaler les obligations françaises absentes du modèle groupe."
+    },
+    {
+     "q": "In item 5, 'vetted' is closest in meaning to...",
+     "options": [
+      "checked",
+      "paid",
+      "hired",
+      "dismissed"
+     ],
+     "answer": 0,
+     "explain_fr": "'To vet' = examiner, contrôler (un prestataire, un candidat). Ici, cela recouvre pour la France l'obligation de vigilance."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-ad-1",
+   "title": "Explaining the French payroll deadlines to a US controller",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Mark Delaney, Regional Controller in Chicago, has asked why the French payroll cut-off is so early in the month. Write a reply explaining the monthly DSN and its deadline, the consequence for the payroll timetable, and ask his team to send their accrual figures by the 20th. Offer something in return.",
+   "brief_fr": "Mark Delaney, contrôleur financier régional à Chicago, demande pourquoi la clôture de la paie française intervient si tôt dans le mois. Répondez en expliquant la DSN mensuelle et son échéance, la conséquence sur le calendrier de paie, et demandez à son équipe d'envoyer les chiffres de provisions avant le 20. Proposez une contrepartie.",
+   "gaps": [
+    {
+     "text": "I quite understand that our payroll ___ on the 18th looks early compared with the US.",
+     "answer": "cut-off",
+     "accept": [
+      "cutoff",
+      "cut off"
+     ],
+     "explain_fr": "'Cut-off' = date de clôture. Écrit avec trait d'union au Royaume-Uni, souvent en un mot aux États-Unis."
+    },
+    {
+     "text": "Every month, we have to ___ a monthly social declaration, known as the DSN.",
+     "answer": "file",
+     "accept": [
+      "submit"
+     ],
+     "explain_fr": "On 'files' ou 'submits' une déclaration ; 'to declare' s'emploie pour un revenu, pas pour le dépôt d'un formulaire."
+    },
+    {
+     "text": "Any error in it has a ___ effect on contributions, withholding tax and employees' benefits.",
+     "answer": "knock-on",
+     "accept": [
+      "ripple",
+      "domino"
+     ],
+     "explain_fr": "'A knock-on effect' (UK) / 'a ripple effect' (US) = un effet en cascade."
+    },
+    {
+     "text": "___, payroll has to be finalised, checked and approved before the end of the month.",
+     "answer": "As a result",
+     "accept": [
+      "Consequently",
+      "Therefore",
+      "This means that"
+     ],
+     "explain_fr": "Connecteur de conséquence en tête de phrase. 'So' serait trop oral en début de paragraphe écrit."
+    },
+    {
+     "text": "If inputs arrive after the cut-off, they are ___ the following month.",
+     "answer": "processed",
+     "accept": [
+      "dealt with",
+      "handled"
+     ],
+     "explain_fr": "'To process' = traiter (des données, une paie). Ne dites pas 'treated', qui s'emploie pour des personnes ou des matières."
+    },
+    {
+     "text": "I would therefore be grateful if your team could send the accrual figures by the 20th ___.",
+     "answer": "at the latest",
+     "accept": [],
+     "explain_fr": "'By the 20th at the latest' = au plus tard le 20. 'By' suffit déjà à marquer la date limite ; 'at the latest' insiste."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: French payroll timetable - why we close early\n\nDear Mark,\n\nThank you for your email. I quite understand that our payroll cut-off on the 18th looks early compared with the US, so let me explain how the French timetable works.\n\nEvery month, we have to file a monthly social declaration, known as the DSN, which is generated directly from payroll. It must reach the authorities by the 5th of the following month, and any error in it has a knock-on effect on contributions, withholding tax and employees' benefits.\n\nAs a result, payroll has to be finalised, checked and approved before the end of the month. If inputs arrive after the cut-off, they are processed the following month.\n\nI would therefore be grateful if your team could send the accrual figures by the 20th at the latest. In return, we will share the payroll journal within two working days of approval.\n\nPlease do not hesitate to get in touch if anything is unclear.\n\nKind regards,\n\nClaire Dumont\nHR Director, Verantis France",
+   "model_us": "Subject: French payroll schedule - why we close early\n\nHi Mark,\n\nThanks for your email. I understand that our payroll cutoff on the 18th looks early compared with the US, so let me explain how the French schedule works.\n\nEvery month, we have to file a monthly social declaration, known as the DSN, which is generated directly from payroll. It must reach the authorities by the 5th of the following month, and any error in it has a ripple effect on contributions, withholding tax and employee benefits.\n\nAs a result, payroll has to be finalized, checked and approved before the end of the month. If inputs arrive after the cutoff, they are processed the following month.\n\nI would appreciate it if your team could send the accrual figures by the 20th at the latest. In return, we will share the payroll register within two business days of approval.\n\nPlease don't hesitate to reach out if anything is unclear.\n\nBest regards,\n\nClaire Dumont\nHR Director, Verantis France",
+   "commentary": [
+    {
+     "quote": "I quite understand that",
+     "note_fr": "'Quite' renforce ici la compréhension (= tout à fait) : on reconnaît le point de vue de l'interlocuteur avant d'expliquer. En américain, 'I understand that' suffit."
+    },
+    {
+     "quote": "known as the DSN",
+     "note_fr": "On présente d'abord la notion en anglais, puis l'acronyme français : le lecteur comprend et pourra le réutiliser."
+    },
+    {
+     "quote": "has a knock-on effect on",
+     "note_fr": "Image claire pour un financier : une erreur se propage aux cotisations, à l'impôt et aux droits des salariés."
+    },
+    {
+     "quote": "they are processed the following month",
+     "note_fr": "Le passif dépersonnalise la règle : ce n'est pas un choix de l'équipe RH mais une contrainte du processus."
+    },
+    {
+     "quote": "I would therefore be grateful if",
+     "note_fr": "Demande polie et argumentée : 'therefore' rattache la demande à l'explication qui précède."
+    },
+    {
+     "quote": "In return, we will share",
+     "note_fr": "Proposer une contrepartie rend la demande plus facile à accepter : on négocie, on n'impose pas."
+    }
+   ],
+   "checklist": [
+    "Did I acknowledge Mark's point before explaining?",
+    "Did I explain the DSN in plain English before using the acronym?",
+    "Is the deadline stated clearly, with the reason behind it?",
+    "Is my request specific (what, by when)?",
+    "Did I offer something in return?",
+    "Have I used US conventions if I am writing the US version (spelling, business days)?"
+   ],
+   "phrasebank": [
+    "Let me explain how the French timetable works.",
+    "It must reach the authorities by the 5th of the following month.",
+    "Any error has a knock-on effect on...",
+    "If inputs arrive after the cut-off, they are processed the following month.",
+    "I would be grateful if your team could... by... at the latest.",
+    "In return, we will...",
+    "Please do not hesitate to get in touch if anything is unclear."
+   ]
+  },
+  {
+   "id": "wr-ad-2",
+   "title": "Reminding managers about the payroll cut-off",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Write a short email to all line managers at the French subsidiary reminding them of the November payroll cut-off, what they must enter and approve in the HR portal, and why they must tell HR about leavers as early as possible.",
+   "brief_fr": "Rédigez un court e-mail à tous les managers de la filiale française pour leur rappeler la date de clôture de la paie de novembre, ce qu'ils doivent saisir et valider dans le portail RH, et pourquoi ils doivent signaler les départs le plus tôt possible.",
+   "gaps": [
+    {
+     "text": "A quick ___ that the cut-off for November payroll inputs is Monday 16 November at noon.",
+     "answer": "reminder",
+     "accept": [],
+     "explain_fr": "'A quick reminder that...' : ouverture courante et non agressive pour un rappel. Pas de 'recall', qui signifie rappel de produit ou souvenir."
+    },
+    {
+     "text": "Please make sure that all overtime, absences and on-call hours have been entered and approved in the HR portal ___ then.",
+     "answer": "by",
+     "accept": [],
+     "explain_fr": "'By then' = d'ici là, au plus tard à ce moment. 'Until then' signifierait jusqu'à ce moment (durée)."
+    },
+    {
+     "text": "Anything submitted after the deadline will be ___ over to December's payroll, with no exceptions.",
+     "answer": "carried",
+     "accept": [
+      "rolled"
+     ],
+     "explain_fr": "'To carry over' = reporter sur la période suivante. 'To report' est un faux ami."
+    },
+    {
+     "text": "I would also ask you to let us know of any starters or ___ you are aware of.",
+     "answer": "leavers",
+     "accept": [],
+     "explain_fr": "'Starters and leavers' (UK) = entrées et sorties. En américain : 'new hires and terminations'."
+    },
+    {
+     "text": "Late information about a leaver is the most common cause of ___, which are always awkward to recover.",
+     "answer": "overpayments",
+     "accept": [
+      "overpayment"
+     ],
+     "explain_fr": "'Overpayment' = trop-perçu. 'To recover an overpayment' = récupérer un trop-perçu."
+    },
+    {
+     "text": "If you are unsure whether something needs to be included, please ___ with Sophie in payroll rather than wait.",
+     "answer": "check",
+     "accept": [
+      "check in"
+     ],
+     "explain_fr": "'To check with someone' = vérifier auprès de quelqu'un. 'Rather than wait' : on décourage l'attente sans reproche."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: November payroll - inputs due by Monday 16 November\n\nDear all,\n\nA quick reminder that the cut-off for November payroll inputs is Monday 16 November at noon.\n\nPlease make sure that all overtime, absences and on-call hours for your team have been entered and approved in the HR portal by then. Anything submitted after the deadline will be carried over to December's payroll, with no exceptions.\n\nI would also ask you to let us know of any starters or leavers you are aware of, even if the paperwork is not yet complete. Late information about a leaver is the most common cause of overpayments, which are always awkward to recover.\n\nIf you are unsure whether something needs to be included, please check with Sophie in payroll rather than wait.\n\nMany thanks for your help.\n\nBest regards,\n\nClaire",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "A quick reminder that",
+     "note_fr": "Ton léger et efficace : le rappel est annoncé d'emblée, sans formule d'introduction inutile."
+    },
+    {
+     "quote": "with no exceptions",
+     "note_fr": "Fermeté exprimée sans agressivité, en fin de phrase, après l'explication de la règle."
+    },
+    {
+     "quote": "even if the paperwork is not yet complete",
+     "note_fr": "On anticipe l'objection habituelle des managers ('je n'ai pas encore la lettre de démission')."
+    },
+    {
+     "quote": "which are always awkward to recover",
+     "note_fr": "'Awkward' (délicat, embarrassant) : understatement britannique pour dire que c'est compliqué et désagréable pour tout le monde."
+    },
+    {
+     "quote": "rather than wait",
+     "note_fr": "Invite à agir sans culpabiliser. Plus naturel que 'instead of waiting' dans ce contexte."
+    }
+   ],
+   "checklist": [
+    "Is the deadline (date and time) in the first lines?",
+    "Did I say exactly what must be entered and approved, and where?",
+    "Did I explain the consequence of missing the cut-off?",
+    "Did I give a reason for the request about leavers?",
+    "Did I name a contact person?"
+   ],
+   "phrasebank": [
+    "A quick reminder that the cut-off for... is...",
+    "Please make sure that... by then.",
+    "Anything submitted after the deadline will be carried over to...",
+    "I would also ask you to let us know of...",
+    "...is the most common cause of...",
+    "If you are unsure, please check with... rather than wait."
+   ]
+  },
+  {
+   "id": "wr-ad-3",
+   "title": "Replying to a labour inspector's request for documents",
+   "stage": 2,
+   "kind": "formal letter",
+   "brief": "Following the labour inspector's letter of 14 October (see the reading 'A Labour Inspector's Request for Documents'), draft in English the reply that will be translated and sent to her, and shared with the group's legal team. One contractor's URSSAF certificate had expired; say so honestly and give a date.",
+   "brief_fr": "À la suite de la lettre de l'inspectrice du travail du 14 octobre (voir la lecture correspondante), rédigez en anglais la réponse qui sera traduite et envoyée, et partagée avec le service juridique du groupe. L'attestation de vigilance d'un prestataire était périmée : dites-le franchement et donnez une date.",
+   "gaps": [],
+   "outline": [
+    "Acknowledge the letter and its date of receipt",
+    "List the documents enclosed",
+    "Contractors: what is enclosed, the expired certificate and the date by which the new one will be sent",
+    "Mandatory notices: confirm they have been put back up",
+    "Offer further information and a contact"
+   ],
+   "model": "Dear Ms Mercier,\n\nRequest for documents following your visit of 9 October\n\nThank you for your letter of 14 October, received on 16 October, following your visit to our Saint-Priest warehouse.\n\nPlease find enclosed the documents you requested, namely an extract from the single staff register covering the period from 1 January to 9 October, including agency workers; the records of hours worked by warehouse staff for July, August and September, together with the corresponding payslips; the assignment contracts for all agency workers placed at the site during that period; and the current internal regulations, with evidence of their filing.\n\nAs regards our contractors, we enclose the list of companies working on site and the certificates of compliance we hold. I must, however, point out that the certificate for our cleaning contractor had expired at the time of your visit. We have requested an up-to-date certificate and will send it to you by 31 October at the latest. We have also reviewed our contractor checks to ensure that this does not happen again.\n\nFinally, I can confirm that all mandatory notices have been displayed once more at the staff entrance; a photograph is attached for your information.\n\nShould you require any further information, please do not hesitate to contact me directly.\n\nYours sincerely,\n\nClaire Dumont\nHR Director",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "received on 16 October",
+     "note_fr": "Préciser la date de réception n'est pas anodin : c'est elle qui fait courir le délai de quinze jours."
+    },
+    {
+     "quote": "namely",
+     "note_fr": "Introduit une énumération précise ; les points-virgules séparent des éléments longs qui contiennent eux-mêmes des virgules."
+    },
+    {
+     "quote": "As regards our contractors",
+     "note_fr": "Transition formelle pour changer de sujet. Évitez 'Concerning' en tête de paragraphe à répétition."
+    },
+    {
+     "quote": "I must, however, point out that",
+     "note_fr": "On reconnaît soi-même le manquement, ce qui renforce la crédibilité. 'However' entre virgules, en milieu de phrase : style soutenu."
+    },
+    {
+     "quote": "will send it to you by 31 October at the latest",
+     "note_fr": "Un engagement daté vaut mieux qu'un 'as soon as possible', toujours vague pour une administration."
+    },
+    {
+     "quote": "a photograph is attached for your information",
+     "note_fr": "Apporter la preuve de la régularisation sans attendre qu'on la demande."
+    }
+   ],
+   "checklist": [
+    "Did I give the date of the letter and the date of receipt?",
+    "Is every requested document either enclosed or explained?",
+    "Did I acknowledge the problem honestly instead of hiding it?",
+    "Did I commit to a precise date for what is missing?",
+    "Did I mention the corrective action taken?",
+    "Is the tone respectful and factual, without excessive apology?"
+   ],
+   "phrasebank": [
+    "Thank you for your letter of..., received on...",
+    "Please find enclosed the documents you requested, namely...",
+    "As regards...",
+    "I must, however, point out that...",
+    "We will send it to you by... at the latest.",
+    "We have also reviewed... to ensure that this does not happen again.",
+    "Should you require any further information, please do not hesitate to contact me."
+   ]
+  },
+  {
+   "id": "wr-ad-4",
+   "title": "Management response to a payroll audit",
+   "stage": 2,
+   "kind": "report",
+   "brief": "Internal audit has reviewed the French payroll and raised three findings: no independent review of changes to bank details, undocumented monthly reconciliations, and a payroll administrator with both preparation and approval rights in the system. Write the 'Management response and action plan' section of the audit report.",
+   "brief_fr": "L'audit interne a examiné la paie française et formulé trois constats : pas de contrôle indépendant des changements de coordonnées bancaires, rapprochements mensuels non documentés, et une gestionnaire de paie disposant à la fois des droits de préparation et de validation. Rédigez la section « Réponse de la direction et plan d'action » du rapport.",
+   "gaps": [],
+   "outline": [
+    "Accept the findings and summarise them in one sentence",
+    "Action 1: bank detail changes - control, owner, target date",
+    "Action 2: reconciliations - how they will be documented, owner, date",
+    "Action 3: access rights - fix and compensating control in the meantime",
+    "Reporting on progress and closure of the findings"
+   ],
+   "model": "Management response and action plan\n\nManagement accepts the three findings raised in the internal audit report of 2 October and thanks the audit team for its constructive approach. The findings relate to the absence of an independent review of changes to bank details, the lack of documented payroll reconciliations, and a segregation of duties conflict within the payroll team.\n\nAction 1 - Bank details. With effect from the November payroll, every change to an employee's bank details will be entered by one member of the team and approved by another before payment. The control will be evidenced in the HRIS. Owner: Sophie Laurent, Payroll Manager. Target date: 30 November.\n\nAction 2 - Reconciliations. The monthly reconciliation between the payroll journal, the bank file and the DSN will be documented on a standard template, signed by the preparer and the reviewer, and stored in the payroll control folder. Owner: Sophie Laurent. Target date: 31 December.\n\nAction 3 - Access rights. The payroll provider has been asked to remove approval rights from the administrator who prepares the payroll. As this change requires a system update, a compensating control will apply in the meantime: the Finance Director will review the bank transfer file before each payment run. Owner: Claire Dumont, HR Director. Target date: 31 January.\n\nProgress will be reported monthly to the Finance Director, and closure evidence for each action will be sent to Internal Audit as soon as it is available, so that the findings can be closed out by the end of the first quarter.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "Management accepts the three findings",
+     "note_fr": "Formule standard d'une réponse de direction : on accepte (ou on conteste) clairement, dès la première phrase."
+    },
+    {
+     "quote": "With effect from",
+     "note_fr": "'With effect from' (UK) = à compter de ; en américain, 'Effective' + date."
+    },
+    {
+     "quote": "Owner: Sophie Laurent, Payroll Manager. Target date: 30 November.",
+     "note_fr": "Chaque action a un responsable nommé et une date : c'est ce que l'audit vérifiera."
+    },
+    {
+     "quote": "a compensating control will apply in the meantime",
+     "note_fr": "'Compensating control' = contrôle compensatoire, qui couvre le risque tant que la vraie solution n'est pas en place."
+    },
+    {
+     "quote": "so that the findings can be closed out",
+     "note_fr": "On termine sur l'objectif partagé avec l'audit : clôturer les constats."
+    }
+   ],
+   "checklist": [
+    "Did I clearly accept (or contest) each finding?",
+    "Does each action have an owner and a target date?",
+    "Are the actions concrete and verifiable?",
+    "Did I cover the risk until the permanent fix is in place?",
+    "Did I explain how progress will be reported and evidenced?"
+   ],
+   "phrasebank": [
+    "Management accepts the findings raised in...",
+    "The findings relate to...",
+    "With effect from...",
+    "The control will be evidenced in...",
+    "Owner: ... Target date: ...",
+    "A compensating control will apply in the meantime.",
+    "Closure evidence will be sent to Internal Audit as soon as it is available."
+   ]
+  },
+  {
+   "id": "wr-ad-5",
+   "title": "A note on using agency workers and contractors",
+   "stage": 3,
+   "kind": "report",
+   "brief": "Richard Hale, the group's British COO, wants to cover more of the French warehouse workload with agency workers and contractors to reduce fixed costs. Write him a note (300-400 words) explaining the main French compliance rules, the risks and your recommendations.",
+   "brief_fr": "Richard Hale, directeur des opérations britannique du groupe, souhaite couvrir davantage l'activité de l'entrepôt français avec des intérimaires et des prestataires pour réduire les coûts fixes. Rédigez-lui une note (300 à 400 mots) exposant les principales règles françaises de conformité, les risques et vos recommandations.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the note and the short answer",
+    "Agency workers: permitted grounds, no permanent roles, reclassification risk, the hirer's responsibilities",
+    "Contractors: genuine service versus supply of labour; duty to check contractors and joint liability",
+    "Recommendations",
+    "Offer to discuss"
+   ],
+   "model": "To: Richard Hale, Chief Operating Officer\nFrom: Claire Dumont, HR Director, France\nDate: 10 November\nSubject: Agency workers and contractors at Saint-Priest - compliance points\n\n1. Purpose\nYou asked whether we could cover more of the warehouse workload with agency workers and contractors in order to reduce fixed costs. This note sets out the main French rules and my recommendations. In short, it can be done, but within tighter limits than in the UK.\n\n2. Agency workers\nFrench law only allows agency workers to be used for specific, temporary needs listed in the Labour Code, such as replacing an absent employee or coping with a temporary increase in activity. They may not be used to fill a permanent position. Each assignment contract must state the ground relied upon, and the length of assignments is capped. If these rules are not followed, an agency worker can ask a court to reclassify the assignment as a permanent contract with us. As the hirer, we are also responsible for working time and for health and safety on site.\n\n3. Contractors\nOutsourcing a clearly defined service, such as cleaning or security, is perfectly lawful. However, a contract that simply provides people who work under our managers' instructions may be treated as an unlawful supply of labour. In addition, we have a duty to check our contractors: for any contract above a set value, we must obtain their URSSAF certificate of compliance at signature and every six months. If we fail to do so and a contractor turns out to be using undeclared work, we can be held jointly and severally liable for its unpaid contributions.\n\n4. Recommendations\n- Use agency workers for genuine peaks only, with the ground for each assignment documented.\n- Keep the core warehouse roles on permanent contracts.\n- Limit contractors to clearly defined services, managed by their own supervisors.\n- Centralise contractor checks in a single tracker owned by Procurement, with HR reviewing it every quarter.\n\nI would be happy to go through this with you and the site manager before any decision is taken.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "In short, it can be done, but within tighter limits than in the UK.",
+     "note_fr": "La réponse courte arrive dès le premier paragraphe : un dirigeant veut la conclusion avant le détail."
+    },
+    {
+     "quote": "They may not be used to fill a permanent position.",
+     "note_fr": "'May not' exprime une interdiction juridique, plus neutre et plus formel que 'can't'."
+    },
+    {
+     "quote": "can ask a court to reclassify the assignment as a permanent contract with us",
+     "note_fr": "Requalification : 'to reclassify', jamais 'to requalify' (qui signifie se requalifier pour une compétition)."
+    },
+    {
+     "quote": "is perfectly lawful. However,",
+     "note_fr": "On rassure d'abord, puis on nuance : la structure 'oui, mais' évite de passer pour le service qui dit non."
+    },
+    {
+     "quote": "If we fail to do so",
+     "note_fr": "'To fail to do something' = ne pas faire ce qui est requis. Tournure indispensable pour parler de manquements."
+    },
+    {
+     "quote": "before any decision is taken",
+     "note_fr": "'To take a decision' (UK) ; l'américain dit plutôt 'to make a decision'."
+    }
+   ],
+   "checklist": [
+    "Does the first paragraph give the short answer?",
+    "Did I explain the French rules without assuming knowledge of French law?",
+    "Did I spell out the concrete risks (reclassification, joint liability)?",
+    "Are my recommendations practical and assigned to someone?",
+    "Did I keep a constructive tone rather than simply saying no?",
+    "Is the note within the word limit and easy to scan?"
+   ],
+   "phrasebank": [
+    "This note sets out... and my recommendations.",
+    "In short, it can be done, but...",
+    "French law only allows... to be used for...",
+    "If these rules are not followed, ...",
+    "... is perfectly lawful. However, ...",
+    "We can be held jointly and severally liable for...",
+    "I would be happy to go through this with you before any decision is taken."
+   ]
+  },
+  {
+   "id": "wr-ad-6",
+   "title": "Pushing back on a global policy template",
+   "stage": 3,
+   "kind": "email",
+   "brief": "Dana Whitfield, VP Global HR Policy in New York, has sent a global Attendance and Discipline Policy to be rolled out in every country on 1 January. It allows pay deductions for repeated lateness, lists sanctions that are not in your internal regulations, and exists only in English. Write an email (250-350 words) explaining why France needs a local carve-out, proposing a solution and a realistic date.",
+   "brief_fr": "Dana Whitfield, vice-présidente en charge des politiques RH globales à New York, a envoyé une politique « Assiduité et discipline » à déployer dans tous les pays au 1er janvier. Elle prévoit des retenues sur salaire pour retards répétés, des sanctions absentes de votre règlement intérieur, et n'existe qu'en anglais. Rédigez un e-mail (250 à 350 mots) expliquant pourquoi la France a besoin d'une adaptation locale, en proposant une solution et une date réaliste.",
+   "gaps": [],
+   "outline": [
+    "Thank and show support for the overall aim",
+    "Point 1: financial penalties are prohibited",
+    "Point 2: sanctions must be in the internal regulations; procedure and timing to amend them",
+    "Point 3: French language requirement",
+    "Proposal: French carve-out and realistic go-live date; offer a call"
+   ],
+   "model": "Subject: Global Attendance and Discipline Policy - France\n\nDear Dana,\n\nThank you for sharing the draft policy. We fully support the aim of a consistent global approach, and most of the template can be rolled out in France as it stands. However, there are three points on which it would fall foul of French law, and I would rather raise them now than after the launch.\n\nFirst, the template allows managers to deduct pay for repeated lateness. Financial penalties are prohibited in France, whatever the circumstances, so this section cannot apply here.\n\nSecond, disciplinary sanctions can only be imposed in France if they are listed in our internal regulations, a mandatory local document that the template would need to sit alongside rather than replace. Any change to those regulations requires us to consult the works council, send the document to the labour inspectorate and file it with the employment tribunal registry, and it only takes effect one month after these formalities. A launch on 1 January is therefore not realistic for France.\n\nThird, documents setting out obligations for employees must be available in French, so we will need a French version.\n\nI would therefore suggest a short French carve-out: the global principles would apply in full, the section on sanctions would refer to our internal regulations, and we would amend those regulations where necessary. On that basis, I believe we could have everything in place by 1 April.\n\nI would be happy to set up a call with our employment lawyer next week if that would help.\n\nBest wishes,\n\nClaire",
+   "model_us": "Subject: Global Attendance and Discipline Policy - France\n\nHi Dana,\n\nThank you for sharing the draft policy. We fully support the goal of a consistent global approach, and most of the template can be rolled out in France as is. However, there are three points where it would run afoul of French law, and I'd rather raise them now than after launch.\n\nFirst, the template allows managers to deduct pay for repeated tardiness. Financial penalties are prohibited in France, whatever the circumstances, so this section can't apply here.\n\nSecond, disciplinary sanctions can only be imposed in France if they are listed in our internal regulations, a mandatory local document that the template would need to sit alongside rather than replace. Any change to those regulations requires us to consult the works council, send the document to the labor inspectorate and file it with the employment court's clerk, and it only takes effect one month after these formalities. A January 1 launch is therefore not realistic for France.\n\nThird, documents setting out obligations for employees must be available in French, so we will need a French version.\n\nI'd suggest a short French carve-out: the global principles would apply in full, the section on sanctions would refer to our internal regulations, and we would amend those regulations where necessary. On that basis, I believe we could have everything in place by April 1.\n\nI'd be happy to set up a call with our employment attorney next week if that would help.\n\nBest regards,\n\nClaire",
+   "commentary": [
+    {
+     "quote": "most of the template can be rolled out in France as it stands",
+     "note_fr": "Commencer par ce qui fonctionne : on montre qu'on soutient le projet avant de le contester. 'As it stands' (UK) = 'as is' (US)."
+    },
+    {
+     "quote": "I would rather raise them now than after the launch",
+     "note_fr": "Justifie l'objection par l'intérêt commun : éviter un problème plus coûteux plus tard."
+    },
+    {
+     "quote": "whatever the circumstances",
+     "note_fr": "Ferme et sans appel, mais impersonnel : c'est la loi qui interdit, pas la DRH."
+    },
+    {
+     "quote": "would need to sit alongside rather than replace",
+     "note_fr": "Formule diplomatique pour expliquer qu'un document local coexiste avec le modèle groupe."
+    },
+    {
+     "quote": "A launch on 1 January is therefore not realistic for France.",
+     "note_fr": "La conclusion découle logiquement des faits exposés ; phrase courte pour marquer le point."
+    },
+    {
+     "quote": "On that basis, I believe",
+     "note_fr": "On termine par une proposition datée : pousser à la résistance sans solution serait contre-productif."
+    }
+   ],
+   "checklist": [
+    "Did I show support for the policy before raising objections?",
+    "Is each French rule explained in one or two plain sentences?",
+    "Did I avoid sounding as if France is being difficult on principle?",
+    "Did I propose a concrete solution and a realistic date?",
+    "Did I offer a next step (call, document)?",
+    "Have I used US conventions in the US version (as is, tardiness, attorney, April 1)?"
+   ],
+   "phrasebank": [
+    "We fully support the aim of..., and most of the template can be rolled out as it stands.",
+    "However, there are three points on which it would fall foul of French law.",
+    "I would rather raise them now than after the launch.",
+    "... are prohibited in France, whatever the circumstances.",
+    "... would need to sit alongside rather than replace...",
+    "I would therefore suggest a short French carve-out.",
+    "On that basis, I believe we could have everything in place by..."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-ad-1",
+   "title": "A difficult month with the payroll provider",
+   "context": "A call between Claire, HR Director of the French subsidiary, and Gavin, account manager at Ardley Payroll Services, the group's UK-based payroll provider. October payroll went wrong: two leavers were paid in full and the DSN was rejected.",
+   "context_fr": "Appel entre Claire, DRH de la filiale française, et Gavin, responsable de compte chez Ardley Payroll Services, le prestataire de paie britannique du groupe. La paie d'octobre s'est mal passée : deux salariés sortis ont été payés en totalité et la DSN a été rejetée.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Gavin",
+     "text": "Morning, Claire. I gather October didn't go quite as smoothly as we'd hoped.",
+     "note_fr": "'I gather' = si j'ai bien compris. 'Didn't go quite as smoothly as we'd hoped' : euphémisme britannique pour 'ça s'est mal passé'."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's putting it mildly, Gavin. Two leavers were paid a full month's salary, and the DSN was rejected on the fifth.",
+     "note_fr": "'That's putting it mildly' = c'est peu dire. Permet de marquer son mécontentement sans agressivité."
+    },
+    {
+     "speaker": "Gavin",
+     "text": "Yes, I've had a look. The leavers came through after the cut-off, so they weren't picked up in the run.",
+     "note_fr": "'To come through' = arriver (pour une information). 'To be picked up' = être pris en compte."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'm not sure that's quite right. We entered both of them on the portal on the twelfth, and the cut-off was the fifteenth.",
+     "note_fr": "'I'm not sure that's quite right' : manière très britannique de dire 'c'est faux'."
+    },
+    {
+     "speaker": "Gavin",
+     "text": "Ah. In that case it may well be the interface - the file from your HRIS failed overnight on the thirteenth. I'll get the team to go through the logs.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Please do. And the DSN rejection?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Gavin",
+     "text": "That one's on us, I'm afraid. A contribution rate hadn't been updated in the system. We corrected it and refiled the same day, so you're still within the deadline.",
+     "note_fr": "'That one's on us' = là, c'est notre faute. Reconnaître une erreur simplement, sans se répandre en excuses."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Good. What I need now is a plan for recovering the overpayments, and some reassurance that this won't happen again in November.",
+     "note_fr": "'What I need now is...' : structure qui recentre la conversation sur la suite, après les explications."
+    },
+    {
+     "speaker": "Gavin",
+     "text": "Of course. We'll send you draft letters to the two employees by Wednesday, and I'll add a check of leavers between the HRIS and payroll to our pre-payroll controls.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "That would help. I'd also like it written up in an incident report, because our auditors will certainly ask about it.",
+     "note_fr": "'To write something up' = mettre par écrit, formaliser."
+    },
+    {
+     "speaker": "Gavin",
+     "text": "Understood. Shall we put twenty minutes in the diary after the November cut-off to check it's worked?",
+     "note_fr": "'To put something in the diary' (UK) = caler un créneau. En américain : 'to put it on the calendar'."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Yes, let's do that. Thanks, Gavin.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to Gavin's second explanation, why were the two leavers paid in full?",
+     "options": [
+      "They were entered after the cut-off",
+      "The interface file from the HRIS failed",
+      "Their managers never told HR",
+      "The DSN was rejected"
+     ],
+     "answer": 1,
+     "explain_fr": "Claire montre que les sorties ont été saisies avant la clôture ; Gavin évoque alors l'échec du fichier d'interface ('the file from your HRIS failed overnight')."
+    },
+    {
+     "q": "Why was the DSN rejected?",
+     "options": [
+      "Payroll inputs arrived late",
+      "An employee was missing from the file",
+      "A contribution rate had not been updated",
+      "The provider filed after the deadline"
+     ],
+     "answer": 2,
+     "explain_fr": "'A contribution rate hadn't been updated in the system' : un taux de cotisation non mis à jour. La DSN a été redéposée dans les délais."
+    },
+    {
+     "q": "What does Gavin mean by 'That one's on us'?",
+     "options": [
+      "That was our mistake",
+      "We will pay for it",
+      "That was our decision",
+      "It's on our agenda"
+     ],
+     "answer": 0,
+     "explain_fr": "'It's on me / on us' = c'est ma / notre faute (ou, dans un autre contexte, c'est moi qui paie). Ici, il assume l'erreur."
+    }
+   ]
+  },
+  {
+   "id": "dl-ad-2",
+   "title": "Why does French payroll cost so much?",
+   "context": "Brad, the US group CFO, calls Claire before the budget review. He has noticed that the cost of running payroll per employee is much higher in France than in the US.",
+   "context_fr": "Brad, directeur financier américain du groupe, appelle Claire avant la revue budgétaire. Il a remarqué que le coût de gestion de la paie par salarié est bien plus élevé en France qu'aux États-Unis.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Brad",
+     "text": "Claire, quick one before the budget review. Our cost per paycheck in France is almost three times what we pay in Ohio. What's going on?",
+     "note_fr": "'Quick one' = une petite question rapide. Style direct américain."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Fair question. The short answer is that a French payslip does a lot more work than a US paycheck.",
+     "note_fr": "'Fair question' : on reconnaît la légitimité de la question avant de répondre. 'The short answer is...' annonce une réponse synthétique."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Meaning what, exactly?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Well, on a typical payslip we calculate contributions to a long list of schemes - health, pensions, unemployment, disability cover - each with its own rules. Then there's withholding tax, and contribution relief on lower salaries, which changes almost every year.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Brad",
+     "text": "Okay, but that's software, right? Once it's set up, it should just run.",
+     "note_fr": "'Right?' en fin de phrase : demande de confirmation typique de l'américain parlé."
+    },
+    {
+     "speaker": "Claire",
+     "text": "In theory. In practice, every month we also file the DSN, which reports every employee's data to the authorities. If it's wrong, it gets rejected - or worse, it shows up in an URSSAF audit three years later.",
+     "note_fr": "'In theory... In practice...' : structure utile pour nuancer une idée reçue."
+    },
+    {
+     "speaker": "Brad",
+     "text": "So the cost is really in the checking.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Largely, yes - the controls, the regulatory monitoring, and the fact that our vendor has to keep on top of changes several times a year.",
+     "note_fr": "'To keep on top of' = suivre de près, rester à jour."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Could we bring it in-house, or move it to the shared service center in Lisbon?",
+     "note_fr": "'To bring something in-house' = internaliser."
+    },
+    {
+     "speaker": "Claire",
+     "text": "We could look at it, but I'd want to be careful. French payroll expertise is scarce, and if we get the contributions wrong, the reassessment plus penalties would wipe out the savings pretty quickly.",
+     "note_fr": "'I'd want to be careful' : réserve polie plutôt qu'un refus. 'To wipe out' = anéantir."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Got it. Can you put that in a one-pager with numbers? I need something I can show the board.",
+     "note_fr": "'A one-pager' = une note d'une page."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure. I'll benchmark our cost per payslip against French companies of our size, so it's an apples-to-apples comparison.",
+     "note_fr": "'Apples to apples' (US) = comparer ce qui est comparable ; en britannique : 'like for like'."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Perfect. Thanks, Claire.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Brad want to understand?",
+     "options": [
+      "Why French salaries are higher",
+      "Why it costs more to run payroll in France",
+      "Why the DSN was filed late",
+      "Why URSSAF audited the company"
+     ],
+     "answer": 1,
+     "explain_fr": "Il parle du 'cost per paycheck', le coût de gestion de la paie, pas du niveau des salaires."
+    },
+    {
+     "q": "According to Claire, where does most of the cost come from?",
+     "options": [
+      "The software license",
+      "Employees' salaries",
+      "Bank fees",
+      "Checking, controls and keeping up with legal changes"
+     ],
+     "answer": 3,
+     "explain_fr": "'Largely, yes - the controls, the regulatory monitoring...' : c'est le contrôle et la veille qui coûtent."
+    },
+    {
+     "q": "Why is Claire cautious about moving payroll to the shared service center?",
+     "options": [
+      "It is illegal to process French payroll abroad",
+      "The works council would refuse",
+      "French payroll expertise is scarce and errors could be costly",
+      "The center is too expensive"
+     ],
+     "answer": 2,
+     "explain_fr": "'French payroll expertise is scarce' et un redressement 'would wipe out the savings'. Externaliser à l'étranger n'est pas interdit en soi."
+    }
+   ]
+  },
+  {
+   "id": "dl-ad-3",
+   "title": "Debrief after a labour inspector's visit",
+   "context": "Claire debriefs Fiona, Group Employment Counsel in London, by video call after an unannounced visit by a labour inspector to the Saint-Priest warehouse.",
+   "context_fr": "Claire fait le point en visioconférence avec Fiona, juriste droit social du groupe à Londres, après une visite inopinée de l'inspection du travail à l'entrepôt de Saint-Priest.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Fiona",
+     "text": "So, how did it go? I gather the inspector turned up unannounced.",
+     "note_fr": "'To turn up' = arriver, se présenter (souvent sans prévenir)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "She did - nine o'clock on Thursday, straight to the warehouse. Perfectly courteous, but very thorough.",
+     "note_fr": "'Perfectly courteous, but very thorough' : phrase nominale, naturelle à l'oral pour décrire quelqu'un."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "What was she mainly looking at?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Working time, mostly, and the agency workers. She asked for the single staff register, the summer timesheets and the assignment contracts.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Fiona",
+     "text": "And were you able to produce them on the spot?",
+     "note_fr": "'To produce' = présenter (un document à une autorité). 'On the spot' = sur-le-champ."
+    },
+    {
+     "speaker": "Claire",
+     "text": "The register, yes. The rest she's asked for in writing, within fifteen days.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Fiona",
+     "text": "Did she raise anything specific?",
+     "note_fr": "'To raise' = soulever (un point, une question)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Two things. Some of the mandatory notices had disappeared from the staff entrance - embarrassing, but easily fixed. The more serious point is that several temps have been on assignment since March to cover what is, frankly, a permanent need.",
+     "note_fr": "'Frankly' : on admet un problème avant que l'autre ne le découvre."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "Hmm. That's the reclassification risk you flagged last year, isn't it?",
+     "note_fr": "Question tag 'isn't it?' : demande de confirmation, très britannique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Exactly. If one of them goes to the employment tribunal, he could be treated as a permanent employee from his first day on assignment.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Fiona",
+     "text": "Right. I'd suggest we get ahead of this rather than wait for her letter. Could you offer permanent contracts to the people covering genuinely ongoing work?",
+     "note_fr": "'To get ahead of something' = prendre les devants."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's what I'd like to do. I'll need Richard's approval for the extra headcount, though.",
+     "note_fr": "'Though' en fin de phrase = cependant ; très courant à l'oral."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "Leave Richard to me. Send me a short note tonight and I'll make sure it's on his desk first thing tomorrow.",
+     "note_fr": "'Leave X to me' = je m'occupe de X. 'First thing tomorrow' = demain à la première heure."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What was the inspector mainly looking at?",
+     "options": [
+      "Working time and agency workers",
+      "Health and safety equipment",
+      "The company's accounts",
+      "Data protection"
+     ],
+     "answer": 0,
+     "explain_fr": "'Working time, mostly, and the agency workers' : durée du travail et intérim."
+    },
+    {
+     "q": "What is 'the more serious point'?",
+     "options": [
+      "Missing mandatory notices",
+      "Late timesheets",
+      "Temps covering a permanent need since March",
+      "The single staff register was missing"
+     ],
+     "answer": 2,
+     "explain_fr": "Recourir à l'intérim pour un besoin permanent expose à la requalification en CDI."
+    },
+    {
+     "q": "What does Fiona suggest?",
+     "options": [
+      "Waiting for the inspector's letter",
+      "Challenging the visit",
+      "Ending the temps' assignments immediately",
+      "Offering permanent contracts for genuinely ongoing work"
+     ],
+     "answer": 3,
+     "explain_fr": "'Get ahead of this rather than wait' : proposer des CDI aux intérimaires qui occupent en réalité des postes permanents."
+    }
+   ]
+  },
+  {
+   "id": "dl-ad-4",
+   "title": "An internal audit interview",
+   "context": "Megan, a senior internal auditor from the US head office, interviews Claire as part of a review of the French payroll process.",
+   "context_fr": "Megan, auditrice interne senior du siège américain, interroge Claire dans le cadre d'une revue du processus de paie français.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Megan",
+     "text": "Thanks for making time, Claire. I'd like to walk through the payroll process with you end to end, and look at a few samples as we go.",
+     "note_fr": "'To walk through' = parcourir pas à pas (d'où 'walkthrough' en audit). 'End to end' = de bout en bout."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure. Where would you like to start?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Megan",
+     "text": "With changes to employee data. Say an employee changes banks - who enters that, and who approves it?",
+     "note_fr": "'Say...' = admettons que, prenons l'exemple où."
+    },
+    {
+     "speaker": "Claire",
+     "text": "The employee enters it on the HR portal, and a payroll specialist checks it against a bank document before it's applied.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Megan",
+     "text": "Is that review documented anywhere?",
+     "note_fr": "Question clé de l'auditeur : le contrôle existe-t-il, et peut-on le prouver ?"
+    },
+    {
+     "speaker": "Claire",
+     "text": "It's logged in the system - you can see who validated it and when. I can pull a report for the last quarter if that helps.",
+     "note_fr": "'To pull a report' = sortir un état."
+    },
+    {
+     "speaker": "Megan",
+     "text": "That'd be great. Now, I noticed Sophie has both preparation and approval rights in the payroll system. Is that right?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Technically, yes. It's a legacy setting from the migration. In practice I sign off every payroll, but I take your point - the access itself is the issue.",
+     "note_fr": "'I take your point' = je vous l'accorde. On reconnaît le constat sans se défendre inutilement."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Exactly. Even if it's never been misused, we'd have to report it as a segregation of duties conflict.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Understood. Would a compensating control work while the vendor fixes the access - say, the finance director reviewing the bank file before each payment run?",
+     "note_fr": "Proposer une solution plutôt que justifier : attitude appréciée des auditeurs."
+    },
+    {
+     "speaker": "Megan",
+     "text": "That would definitely help. I'd still log it as a finding, but with a lower rating if the control's in place and evidenced.",
+     "note_fr": "'Rating' = cotation (niveau de gravité du constat). 'Evidenced' = documenté, prouvé."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Fair enough. I'll get you the report and a draft action plan by Friday.",
+     "note_fr": "'Fair enough' = c'est de bonne guerre, d'accord."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How are changes to bank details checked?",
+     "options": [
+      "The employee's manager approves them",
+      "The bank confirms them",
+      "They are not checked",
+      "A payroll specialist checks them against a bank document"
+     ],
+     "answer": 3,
+     "explain_fr": "'A payroll specialist checks it against a bank document before it's applied', et le contrôle est tracé dans le système."
+    },
+    {
+     "q": "What problem does Megan identify?",
+     "options": [
+      "Sophie has both preparation and approval rights",
+      "Claire does not sign off the payroll",
+      "Bank detail changes are not logged",
+      "The system migration was late"
+     ],
+     "answer": 0,
+     "explain_fr": "Cumul des droits de préparation et de validation : conflit de séparation des tâches ('segregation of duties conflict')."
+    },
+    {
+     "q": "What difference will a compensating control make?",
+     "options": [
+      "The finding will be removed",
+      "The finding may receive a lower rating",
+      "Sophie will lose her access immediately",
+      "The audit will end early"
+     ],
+     "answer": 1,
+     "explain_fr": "'I'd still log it as a finding, but with a lower rating' : le constat demeure, mais sa gravité est réduite."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-ad-1",
+   "title": "Explaining an URSSAF reassessment to the CFO",
+   "situation": "The URSSAF audit has ended with a letter of observations proposing a reassessment of 84,000 euros over three years, mainly because the private use of company cars was never reported as a benefit in kind. Brad, the US CFO, has just seen the figure in the forecast. Explain what happened and what you recommend.",
+   "situation_fr": "Le contrôle URSSAF s'est conclu par une lettre d'observations proposant un redressement de 84 000 euros sur trois ans, principalement parce que l'usage privé des véhicules de société n'a jamais été déclaré comme avantage en nature. Brad, le directeur financier américain, vient de voir le chiffre dans les prévisions. Expliquez ce qui s'est passé et ce que vous recommandez.",
+   "turns": [
+    {
+     "say": "Claire, I just saw an 84,000-euro line in the forecast labeled 'URSSAF'. What happened?",
+     "seconds": 40,
+     "model": "That's the outcome of the social security audit that finished last month. The inspector found that the private use of company cars had never been reported as a benefit in kind, so we underpaid contributions. The 84,000 is the proposed reassessment over three years, before late-payment penalties.",
+     "tips_fr": "Le fait, la cause, le chiffre : dans cet ordre. Glosez 'benefit in kind' si besoin et précisez que les majorations s'ajoutent."
+    },
+    {
+     "say": "Three years? Why are we only finding out now?",
+     "seconds": 35,
+     "model": "Because the error goes back to how the cars were set up in payroll, and nobody reviewed it afterwards. That's on us. The audit can cover the last three calendar years plus the current one, so the whole period is caught.",
+     "tips_fr": "Assumez l'erreur sans vous justifier longuement ('That's on us'). Expliquez la période contrôlée en une phrase."
+    },
+    {
+     "say": "Do we have to pay all of it? Can't we fight it?",
+     "seconds": 40,
+     "model": "Partly. We have thirty days to respond to the findings, and our adviser thinks two of the six points are worth challenging. The car issue, frankly, is solid, so I'd recommend we accept it and ask for the penalties to be waived, since we acted in good faith.",
+     "tips_fr": "Distinguez ce qui se conteste de ce qui ne se conteste pas : votre crédibilité vient de ce tri. 'Frankly' prépare une recommandation honnête."
+    },
+    {
+     "say": "And how do I know this won't happen again?",
+     "seconds": 35,
+     "model": "We've already corrected the set-up from this month's payroll, and I'm adding an annual review of benefits in kind to our payroll controls. I'd also suggest an independent pre-audit every two years, so we find these issues before URSSAF does.",
+     "tips_fr": "Une mesure immédiate, une mesure durable, une mesure préventive : réponse structurée et rassurante."
+    },
+    {
+     "say": "Okay. What do you need from me?",
+     "seconds": 30,
+     "model": "Two things: your approval to accept the main point and pay it, and a budget line for the pre-audit. I'll send you a one-page summary with the figures today.",
+     "tips_fr": "Terminez par des demandes précises et une action datée de votre part : un CFO veut savoir ce qu'on attend de lui."
+    }
+   ]
+  },
+  {
+   "id": "rp-ad-2",
+   "title": "Defending the payroll budget",
+   "situation": "Helen, the British group Finance Director, wants you to cut the French payroll budget by 25% and is considering moving French payroll to the group's cheaper offshore centre. Defend your budget while showing you are willing to find savings.",
+   "situation_fr": "Helen, directrice financière britannique du groupe, vous demande de réduire de 25 % le budget de la paie française et envisage de la transférer au centre offshore du groupe, moins cher. Défendez votre budget tout en montrant que vous êtes prête à faire des économies.",
+   "turns": [
+    {
+     "say": "Claire, your payroll budget is up eight per cent again. I need you to find twenty-five per cent. Where's the fat?",
+     "seconds": 40,
+     "model": "I understand the pressure, and I'm happy to look for savings. But I'd like to be clear about what's driving the cost: most of the increase comes from the extra controls we put in after the audit, and from regulatory changes the provider has had to implement. There isn't much fat, but there is some scope.",
+     "tips_fr": "Ne refusez pas d'emblée : reconnaissez la contrainte, expliquez les causes, puis ouvrez une porte ('there is some scope')."
+    },
+    {
+     "say": "Our offshore centre quotes half the price per payslip. Why not just move?",
+     "seconds": 40,
+     "model": "On paper it's attractive, but it isn't a like-for-like comparison. Their quote excludes the DSN, the event reports and regulatory monitoring, which we'd then have to do ourselves. Once you add those back, the gap narrows considerably, and the risk of errors goes up.",
+     "tips_fr": "'On paper... but...' et 'like-for-like' : contestez la comparaison, pas la personne."
+    },
+    {
+     "say": "Risk is always the argument. Give me something concrete.",
+     "seconds": 40,
+     "model": "Fair enough. Last year's audit cost us around eighty thousand euros in reassessments, plus surcharges. A single error in the contribution relief, applied across two hundred employees for three years, could easily cost more than the saving you're looking for.",
+     "tips_fr": "Face à un financier, un chiffre vaut mieux qu'un principe. 'Fair enough' montre que vous acceptez la critique."
+    },
+    {
+     "say": "So you're saying no to any savings?",
+     "seconds": 35,
+     "model": "Not at all. I can offer around ten per cent: renegotiating the fixed fee at renewal, removing manual inputs by connecting the HRIS directly to payroll, and dropping two reports nobody uses. I'd rather commit to a figure I can actually deliver.",
+     "tips_fr": "'Not at all' puis des propositions concrètes et chiffrées. 'I'd rather commit to a figure I can deliver' renforce votre crédibilité."
+    },
+    {
+     "say": "Ten isn't twenty-five.",
+     "seconds": 35,
+     "model": "I know, and I appreciate the position you're in. Could we agree on ten this year and review the offshore option properly in the spring, with a like-for-like comparison and a parallel run? That way, the decision would be based on evidence rather than on a headline rate.",
+     "tips_fr": "Proposez un compromis et un processus de décision ('a parallel run') plutôt que de camper sur votre position."
+    }
+   ]
+  },
+  {
+   "id": "rp-ad-3",
+   "title": "Answering an internal auditor",
+   "situation": "Megan, a US internal auditor, is reviewing how the French subsidiary meets its statutory reporting obligations and controls its contractors. Answer her questions clearly and honestly.",
+   "situation_fr": "Megan, auditrice interne américaine, examine comment la filiale française respecte ses obligations déclaratives légales et contrôle ses prestataires. Répondez à ses questions clairement et honnêtement.",
+   "turns": [
+    {
+     "say": "Can you walk me through how you make sure no statutory filing gets missed?",
+     "seconds": 40,
+     "model": "We keep a compliance calendar that lists every recurring deadline - the monthly DSN, the annual disability declaration, the equality index publication, the works council consultations - with an owner for each. It's reviewed every December, and we get automatic reminders two weeks ahead.",
+     "tips_fr": "Décrivez le dispositif (outil, responsables, revue, alertes) avant de citer des exemples."
+    },
+    {
+     "say": "Has anything been missed in the last twelve months?",
+     "seconds": 40,
+     "model": "One thing, and I'd rather tell you upfront. A DSN event report for an employee's sick leave went out four days late in June, because the payroll specialist was on leave. The employee's benefits were delayed slightly, but there was no penalty. We've since named a back-up for every deadline.",
+     "tips_fr": "Devant un auditeur, mieux vaut révéler soi-même un incident ('I'd rather tell you upfront') : fait, cause, impact, correction."
+    },
+    {
+     "say": "How do you check that your contractors are compliant?",
+     "seconds": 40,
+     "model": "Procurement collects the URSSAF certificate of compliance at signature and every six months, and stores it in a supplier tracker. HR reviews the tracker every quarter. To be honest, we only tightened this recently - the labour inspector found an expired certificate in October.",
+     "tips_fr": "Expliquez brièvement l'obligation de vigilance, puis reconnaissez la faiblesse passée et la correction."
+    },
+    {
+     "say": "Can you show me evidence for the last two quarters?",
+     "seconds": 30,
+     "model": "Yes, of course. I can send you the tracker extracts and the review emails by tomorrow. For the third quarter, you'll see the cleaning contractor flagged as overdue, with the date we received the new certificate.",
+     "tips_fr": "Engagement précis et daté. Annoncez vous-même ce que l'auditeur va trouver : aucune surprise."
+    },
+    {
+     "say": "Last one: who's accountable if something slips?",
+     "seconds": 30,
+     "model": "Ultimately, I am - I hold the delegation of authority for HR matters in France. Day to day, each deadline has a named owner, and anything overdue is escalated to me straight away.",
+     "tips_fr": "'Accountable' (qui répond du résultat) ≠ 'responsible' (qui exécute). Mentionnez la délégation de pouvoirs."
+    }
+   ]
+  },
+  {
+   "id": "rp-ad-4",
+   "title": "Pushing back on a head office template",
+   "situation": "On a video call, Dana, US VP Global HR Policy, insists that the global Attendance and Discipline Policy must go live in every country on 1 January. Explain, firmly but constructively, why France needs a carve-out and a later date.",
+   "situation_fr": "En visioconférence, Dana, vice-présidente américaine des politiques RH globales, insiste pour que la politique « Assiduité et discipline » entre en vigueur partout au 1er janvier. Expliquez, fermement mais de façon constructive, pourquoi la France a besoin d'une adaptation et d'une date plus tardive.",
+   "turns": [
+    {
+     "say": "Claire, I got your email. Honestly, every other country is fine with January 1. Why is France always the exception?",
+     "seconds": 40,
+     "model": "I understand the frustration, and I'm not trying to block the policy - most of it works here. The issue is that three sections would put us in breach of French law, and in France that's not a theoretical risk: the labour inspector checks exactly these documents.",
+     "tips_fr": "Désamorcez ('I understand the frustration'), affirmez votre soutien, puis recentrez sur un risque concret."
+    },
+    {
+     "say": "Which sections, specifically?",
+     "seconds": 40,
+     "model": "First, the deductions for lateness: financial penalties are simply prohibited here. Second, sanctions: we can only apply those listed in our internal regulations, which are a mandatory local document. And third, the policy has to be available in French because it creates obligations for employees.",
+     "tips_fr": "'First, second, third' : énumération claire. Une phrase par règle, sans jargon juridique."
+    },
+    {
+     "say": "Can't we launch now and fix France later?",
+     "seconds": 35,
+     "model": "I'd advise against it. If a manager applied the policy and we then dismissed someone on that basis, the decision could be overturned, and we'd have handed the employee a strong case. It's much cheaper to get it right the first time.",
+     "tips_fr": "'I'd advise against it' : désaccord ferme mais professionnel. Montrez la conséquence pratique."
+    },
+    {
+     "say": "So what are you proposing?",
+     "seconds": 40,
+     "model": "A short French carve-out. The global principles apply in full, the sanctions section refers to our internal regulations, and we amend those regulations where needed. That means consulting the works council and completing the filing formalities, so we'd go live on 1 April rather than 1 January.",
+     "tips_fr": "Une proposition concrète, avec son calendrier et sa justification : vous passez de l'objection à la solution."
+    },
+    {
+     "say": "April... All right, but I don't want to hear about any further delays.",
+     "seconds": 30,
+     "model": "That's fair. I'll send you a timeline this week with the consultation dates, and I'll flag it straight away if anything slips. I'm also happy to share the French version with your team, so you can see it's the same policy.",
+     "tips_fr": "Acceptez la condition ('That's fair') et rassurez par des engagements précis : transparence et suivi."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Explaining a French legal requirement to a foreign colleague",
+   "function_fr": "Expliquer une obligation légale française à un interlocuteur étranger",
+   "phrases": [
+    {
+     "text": "Under French law, we are required to file this declaration every month.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "It's a legal requirement in France, not a company choice.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "There's no real equivalent in the UK, so let me explain how it works.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "There's no direct US equivalent - the closest thing would be your quarterly payroll tax filings.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "In a nutshell, it's the French version of a payroll tax audit.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "Think of it as a monthly snapshot of everyone on the payroll.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "The rule itself is non-negotiable, but we do have some room for manoeuvre in how we apply it.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "I should stress that failure to comply may expose the company to penalties.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Reporting a compliance issue and assessing the risk",
+   "function_fr": "Signaler un problème de conformité et en évaluer le risque",
+   "phrases": [
+    {
+     "text": "I must bring to your attention a potential breach of our reporting obligations.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'd like to flag a compliance issue that came up during the payroll review.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "It's not a disaster, but it does need sorting out before the next audit.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Worst case, we're looking at a reassessment over three years, plus surcharges.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "On balance, I'd put the risk at moderate rather than high.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Bottom line: we're exposed, and we need to fix it this quarter.",
+     "register": "informal",
+     "variety": "us"
+    },
+    {
+     "text": "This one's on us, I'm afraid.",
+     "register": "informal",
+     "variety": "uk"
+    },
+    {
+     "text": "Corrective action has already been taken, and I will report back once the matter is closed.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Requesting documents and setting deadlines",
+   "function_fr": "Demander des pièces et fixer un délai",
+   "phrases": [
+    {
+     "text": "I should be grateful if you would provide the documents listed below within fifteen days.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "We would appreciate it if you could send the certificate by the end of the month at the latest.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Failing receipt by 30 November, we will have no option but to suspend payments under the contract.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Could you send me the timesheets by Friday? That gives us time to check them before the cut-off.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Just a gentle reminder that we're still waiting for your URSSAF certificate.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Just following up on the documents we discussed - any update?",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "Can you get me the numbers by end of day Thursday?",
+     "register": "informal",
+     "variety": "us"
+    },
+    {
+     "text": "I'll chase them again if we haven't heard back by Wednesday.",
+     "register": "everyday",
+     "variety": "uk"
+    }
+   ]
+  }
+ ]
+}

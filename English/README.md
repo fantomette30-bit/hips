@@ -7,30 +7,38 @@ geste, palette bleu poudré, modes clair et sombre.
 
 ## Où en est-on
 
-**Étapes 1 et 2 (livrées)** : quatorze thèmes, 1 400 expressions.
+**Version 0.3** : dix-huit thèmes, 1 800 expressions, correction en ligne.
 
 | Thèmes | Contenu par thème |
 |---|---|
-| Contrat de travail · Relations collectives · Restructurations et plan social · Transformations et M&A · Discipline et licenciement · Ruptures négociées · Contentieux · Recrutement · Rémunération · Temps de travail · Santé et sécurité · Discrimination et harcèlement · Protection des données · Formation et carrières | 100 expressions en trois niveaux (registres soutenu, courant, familier ; UK / US ; phonétique ; pièges), 4 documents à lire, 6 sujets d'écrit avec corrigés commentés, 4 dialogues, 4 jeux de rôle, 3 familles de formules propres au thème |
+| Contrat de travail · Relations collectives · Restructurations et plan social · Transformations et M&A · Stratégie RH et conseil aux managers · Discipline et licenciement · Ruptures négociées · Contentieux · Recrutement · Rémunération · Temps de travail · Santé et sécurité · Discrimination et harcèlement · Protection des données · Administration, paie et conformité · Mobilité internationale · QVCT, engagement et RSE · Formation et carrières | 100 expressions en trois niveaux (registres soutenu, courant, familier ; UK / US ; phonétique ; pièges), 4 documents à lire, 6 sujets d'écrit avec corrigés commentés, 4 dialogues, 4 jeux de rôle, 3 familles de formules propres au thème |
 
-Communs à tous les thèmes : mots de liaison (13 fonctions, 127 connecteurs),
-formules d'atténuation, marqueurs de l'oral, rythme de la phrase, 6 leçons de
-grammaire, 5 leçons de prononciation, chiffres et dates, test de
-positionnement, répétition espacée, carnet personnel, tableau de bord.
-
-Les thèmes relations collectives, restructurations et transformations sont
-rédigés pour une pratique de direction des relations sociales (présidence du
-CSE, PSE, reclassement, opérations sur le capital, reporting à un siège
-étranger). Sociétés et personnes des mises en situation : fictives.
-
-Une cinquantaine d'expressions figurent dans deux thèmes voisins, avec des
-exemples différents : c'est volontaire.
-
-**Étape 3** : correction en ligne par Claude, avec un plafond bloquant de 20 $
-par mois sur le crédit API de l'abonnement Max.
+Communs à tous les thèmes : mots de liaison, formules d'atténuation, marqueurs
+de l'oral, rythme de la phrase, grammaire, prononciation, chiffres et dates,
+test de positionnement, répétition espacée, carnet personnel, tableau de bord.
 
 Droit de référence : le droit français expliqué en anglais, avec les
-équivalents britanniques et américains.
+équivalents britanniques et américains. Sociétés et personnes des mises en
+situation : fictives. Une cinquantaine d'expressions figurent dans deux thèmes
+voisins, avec des exemples différents : c'est volontaire.
+
+## Correction en ligne
+
+Relais `Tools/vercel-parlance/api/correct.js`, déployé avec l'application :
+
+- la clé API reste sur le serveur ; l'application envoie seulement un code d'accès ;
+- **plafond bloquant de 20 $ par mois** (`MONTHLY_CAP_USD`) : avant chaque appel,
+  le coût maximal possible est réservé sur le compteur du mois, et l'appel n'a pas
+  lieu s'il ne tient pas dans le budget restant ;
+- qualité « Best » (Claude Opus 5.5, effort bas) ou « Economy » (Claude Haiku 5.5) ;
+- rien ne part sans confirmation ; anonymisation proposée avant chaque envoi ;
+- conversation désactivée par défaut.
+
+Variables Vercel du projet `parlance-english` : `ANTHROPIC_API_KEY` (à créer
+dans la Claude Console), `ACCESS_CODE`, `MONTHLY_CAP_USD`, et
+`BLOB_READ_WRITE_TOKEN` (créée en connectant un magasin Blob privé au projet).
+Sans l'une d'elles, le relais refuse de fonctionner et l'application reste sur
+les corrigés modèles.
 
 ## Organisation
 
@@ -45,7 +53,8 @@ Droit de référence : le droit français expliqué en anglais, avec les
 
 ```bash
 python3 Tools/build-english.py              # contrôle + assemblage
-node Tools/EnglishCheck/parlance.test.js    # 162 écrans, séances, mode hors ligne
+node Tools/EnglishCheck/parlance.test.js    # tous les écrans, séances, mode hors ligne
+node Tools/EnglishCheck/online.test.js      # relais et plafond, avec une API simulée
 ```
 
 ## Installation
