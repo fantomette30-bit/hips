@@ -1,0 +1,3801 @@
+[
+ {
+  "id": "ds-001",
+  "level": 1,
+  "fr": "faute (du salarié)",
+  "term": {
+   "uk": "misconduct",
+   "us": "misconduct"
+  },
+  "ipa": {
+   "uk": "/ˌmɪsˈkɒndʌkt/",
+   "us": "/ˌmɪsˈkɑːndʌkt/"
+  },
+  "def": "Behaviour by an employee that breaks the employer's rules or the employee's obligations.",
+  "registers": {
+   "formal": {
+    "uk": "misconduct",
+    "us": "misconduct",
+    "ex": "Any act of [[misconduct]] may give rise to disciplinary action in accordance with this policy."
+   },
+   "everyday": {
+    "uk": "bad behaviour",
+    "us": "bad behavior",
+    "ex": "We can't keep turning a blind eye to this kind of [[bad behaviour]].",
+    "ex_us": "We can't keep turning a blind eye to this kind of [[bad behavior]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an act of misconduct",
+   "alleged misconduct",
+   "to be guilty of misconduct",
+   "minor misconduct"
+  ],
+  "note_fr": "Indénombrable : « an act of misconduct », jamais « a misconduct ». Ne traduisez pas « faute » par « fault » (défaut, responsabilité : « it's my fault ») ni par « mistake » (erreur involontaire).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-002",
+  "level": 2,
+  "fr": "faute simple",
+  "term": {
+   "uk": "ordinary misconduct",
+   "us": "ordinary misconduct"
+  },
+  "ipa": {
+   "uk": "/ˌɔːdɪn(ə)ri ˌmɪsˈkɒndʌkt/",
+   "us": "/ˌɔːrdəneri ˌmɪsˈkɑːndʌkt/"
+  },
+  "def": "In French law, misconduct serious enough to justify dismissal, but not serious enough to deprive the employee of notice and severance pay.",
+  "registers": {
+   "formal": {
+    "uk": "ordinary misconduct",
+    "us": "ordinary misconduct",
+    "ex": "The tribunal held that the facts amounted to [[ordinary misconduct]] only, so that notice and severance pay remained due."
+   },
+   "everyday": {
+    "uk": "misconduct that isn't gross misconduct",
+    "us": "misconduct that isn't gross misconduct",
+    "ex": "It's [[misconduct that isn't gross misconduct]], so he keeps his notice and his severance."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to amount to ordinary misconduct",
+   "dismissal for ordinary misconduct",
+   "to be downgraded to ordinary misconduct"
+  ],
+  "note_fr": "« Simple misconduct » se comprend, mais « ordinary misconduct » est plus naturel. Ni le Royaume-Uni ni les États-Unis ne connaissent cette gradation à trois niveaux : on y oppose seulement « misconduct » et « gross misconduct ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Ordinary misconduct (faute simple) is misconduct that constitutes a real and serious cause for dismissal while leaving the employee's entitlement to notice and severance pay intact.",
+   "spoken": "It's the lowest level of misconduct that can still justify dismissal - the employee goes, but with notice and severance."
+  }
+ },
+ {
+  "id": "ds-003",
+  "level": 1,
+  "fr": "faute grave",
+  "term": {
+   "uk": "gross misconduct",
+   "us": "gross misconduct"
+  },
+  "ipa": {
+   "uk": "/ˌɡrəʊs ˌmɪsˈkɒndʌkt/",
+   "us": "/ˌɡroʊs ˌmɪsˈkɑːndʌkt/"
+  },
+  "def": "Misconduct so serious that the employee cannot be kept on, even for the notice period.",
+  "registers": {
+   "formal": {
+    "uk": "gross misconduct",
+    "us": "gross misconduct",
+    "ex": "Theft, violence and serious breaches of safety rules are regarded as [[gross misconduct]]."
+   },
+   "everyday": {
+    "uk": "serious misconduct",
+    "us": "serious misconduct",
+    "ex": "Shouting at a client once is bad, but I'm not sure it's [[serious misconduct]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be dismissed for gross misconduct",
+   "to constitute gross misconduct",
+   "an act of gross misconduct",
+   "a gross misconduct dismissal"
+  ],
+  "note_fr": "« Gross » /ɡrəʊs/ rime avec « close », pas avec « boss ». En France, la faute grave prive le salarié du préavis et de l'indemnité de licenciement, mais non de l'indemnité de congés payés. Au Royaume-Uni, « gross misconduct » justifie un « summary dismissal » ; la notion est proche, mais reste définie par le contrat et la jurisprudence.",
+  "french_concept": true,
+  "explain": {
+   "written": "Faute grave is misconduct of such seriousness that the employee cannot remain in the business even during the notice period; it deprives the employee of notice and severance pay.",
+   "spoken": "It's roughly what you'd call gross misconduct: the employee leaves straight away, with no notice and no severance."
+  }
+ },
+ {
+  "id": "ds-004",
+  "level": 3,
+  "fr": "faute lourde",
+  "term": {
+   "uk": "wilful misconduct with intent to harm",
+   "us": "wilful misconduct with intent to harm"
+  },
+  "ipa": {
+   "uk": "/ˌwɪlf(ə)l ˌmɪsˈkɒndʌkt wɪð ɪnˌtent tə ˈhɑːm/",
+   "us": "/ˌwɪlf(ə)l ˌmɪsˈkɑːndʌkt wɪð ɪnˌtent tə ˈhɑːrm/"
+  },
+  "def": "In French law, the most serious degree of misconduct: an act committed with the intention of harming the employer.",
+  "registers": {
+   "formal": {
+    "uk": "wilful misconduct committed with intent to harm the employer",
+    "us": "willful misconduct committed with intent to harm the employer",
+    "ex": "The Company considers that the deliberate deletion of client files constitutes [[wilful misconduct committed with intent to harm the employer]].",
+    "ex_us": "The Company considers that the deliberate deletion of client files constitutes [[willful misconduct committed with intent to harm the employer]]."
+   },
+   "everyday": {
+    "uk": "deliberately trying to damage the company",
+    "us": "deliberately trying to damage the company",
+    "ex": "To call it faute lourde, we'd have to show he was [[deliberately trying to damage the company]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "intent to harm",
+   "to act maliciously",
+   "to hold the employee liable for the loss"
+  ],
+  "note_fr": "Orthographe : « wilful » (UK), « willful » (US). L'intention de nuire doit être prouvée ; c'est le seul cas où l'employeur peut engager la responsabilité pécuniaire du salarié. Aucun équivalent exact en droit britannique ou américain.",
+  "french_concept": true,
+  "explain": {
+   "written": "Faute lourde is misconduct committed with intent to harm the employer; in addition to the consequences of faute grave, it allows the employer to seek damages from the employee.",
+   "spoken": "It's the top of the scale: not just serious misconduct, but something done on purpose to hurt the company."
+  }
+ },
+ {
+  "id": "ds-005",
+  "level": 1,
+  "fr": "sanction disciplinaire",
+  "term": {
+   "uk": "disciplinary sanction",
+   "us": "disciplinary sanction"
+  },
+  "ipa": {
+   "uk": "/ˈdɪsəplɪnəri ˌsæŋkʃ(ə)n/",
+   "us": "/ˈdɪsəpləneri ˌsæŋkʃ(ə)n/"
+  },
+  "def": "A measure taken by the employer in response to an employee's misconduct, from a warning to dismissal.",
+  "registers": {
+   "formal": {
+    "uk": "disciplinary sanction",
+    "us": "disciplinary sanction",
+    "ex": "No [[disciplinary sanction]] may be imposed on an employee without the employee being informed in writing of the complaints against him or her."
+   },
+   "everyday": {
+    "uk": "disciplinary action",
+    "us": "disciplinary action",
+    "ex": "If it happens again, we'll have to take [[disciplinary action]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take disciplinary action against someone",
+   "to face disciplinary action",
+   "a range of sanctions",
+   "up to and including dismissal"
+  ],
+  "note_fr": "« Sanction » est un faux ami partiel : le verbe « to sanction » signifie aussi « autoriser, approuver ». Pour dire « sanctionner un salarié », préférez « to discipline someone » ou « to take disciplinary action against someone ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-006",
+  "level": 1,
+  "fr": "prononcer une sanction",
+  "term": {
+   "uk": "to impose a sanction",
+   "us": "to impose a sanction"
+  },
+  "ipa": {
+   "uk": "/ɪmˌpəʊz ə ˈsæŋkʃ(ə)n/",
+   "us": "/ɪmˌpoʊz ə ˈsæŋkʃ(ə)n/"
+  },
+  "def": "To decide formally that an employee will be given a disciplinary measure.",
+  "registers": {
+   "formal": {
+    "uk": "to impose a sanction",
+    "us": "to impose a sanction",
+    "ex": "The employer may not [[impose a sanction]] more than one month after the date of the meeting."
+   },
+   "everyday": {
+    "uk": "to discipline someone",
+    "us": "to discipline someone",
+    "ex": "She [[was disciplined]] for sharing her password with a temp."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to impose a penalty",
+   "to be disciplined for something",
+   "to decide on the appropriate sanction"
+  ],
+  "note_fr": "On ne « pronounce » pas une sanction en anglais (« to pronounce » = prononcer un mot). « To discipline someone » est le verbe courant ; « to punish » appartient plutôt au registre moral ou pénal.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-007",
+  "level": 1,
+  "fr": "procédure disciplinaire",
+  "term": {
+   "uk": "disciplinary procedure",
+   "us": "disciplinary procedure"
+  },
+  "ipa": {
+   "uk": "/ˈdɪsəplɪnəri prəˌsiːdʒə/",
+   "us": "/ˈdɪsəpləneri prəˌsiːdʒər/"
+  },
+  "def": "The series of steps an employer must follow before disciplining an employee.",
+  "registers": {
+   "formal": {
+    "uk": "disciplinary proceedings",
+    "us": "disciplinary proceedings",
+    "ex": "The Company reserves the right to commence [[disciplinary proceedings]] in respect of any breach of these rules."
+   },
+   "everyday": {
+    "uk": "the disciplinary process",
+    "us": "the disciplinary process",
+    "ex": "Once we start [[the disciplinary process]], we have to see it through properly."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to start disciplinary proceedings",
+   "to follow the disciplinary procedure",
+   "to go through a disciplinary",
+   "at each stage of the procedure"
+  ],
+  "note_fr": "« Procedure » = les règles à suivre ; « proceedings » = la procédure effectivement engagée contre quelqu'un. Au Royaume-Uni, « a disciplinary » s'emploie familièrement comme nom : « he's got a disciplinary on Friday ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-008",
+  "level": 1,
+  "fr": "enfreindre le règlement",
+  "term": {
+   "uk": "to breach company rules",
+   "us": "to breach company rules"
+  },
+  "ipa": {
+   "uk": "/ˌbriːtʃ ˌkʌmpəni ˈruːlz/",
+   "us": "/ˌbriːtʃ ˌkʌmpəni ˈruːlz/"
+  },
+  "def": "To do something that the employer's rules forbid, or fail to do something they require.",
+  "registers": {
+   "formal": {
+    "uk": "to be in breach of the Company's rules",
+    "us": "to be in breach of the Company's rules",
+    "ex": "An employee who smokes on the production floor [[is in breach of the Company's rules]]."
+   },
+   "everyday": {
+    "uk": "to break the rules",
+    "us": "to break the rules",
+    "ex": "He knew perfectly well he [[was breaking the rules]]."
+   },
+   "informal": {
+    "uk": "to bend the rules",
+    "us": "to bend the rules",
+    "ex": "Everyone [[bends the rules]] a little on expenses, but this went far beyond that."
+   }
+  },
+  "collocations": [
+   "a serious breach of the rules",
+   "to comply with the rules",
+   "a breach of health and safety rules",
+   "to flout the rules"
+  ],
+  "note_fr": "Évitez « to infringe the regulation » (calque). « Regulations » désigne plutôt des textes réglementaires ; pour le règlement intérieur d'une entreprise, dites « company rules », « works rules » ou « the disciplinary rules ». « To bend the rules » = prendre des libertés avec la règle, sans la violer franchement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-009",
+  "level": 1,
+  "fr": "avertissement oral",
+  "term": {
+   "uk": "verbal warning",
+   "us": "verbal warning"
+  },
+  "ipa": {
+   "uk": "/ˌvɜːb(ə)l ˈwɔːnɪŋ/",
+   "us": "/ˌvɜːrb(ə)l ˈwɔːrnɪŋ/"
+  },
+  "def": "A first, spoken warning that an employee's conduct or performance must improve.",
+  "registers": {
+   "formal": {
+    "uk": "verbal warning",
+    "us": "verbal warning",
+    "ex": "A [[verbal warning]] will normally be given for a first instance of minor misconduct."
+   },
+   "everyday": {
+    "uk": "a quiet word",
+    "us": "a quiet word",
+    "ex": "I've had [[a quiet word]] with him about his timekeeping; let's see if it helps."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give someone a verbal warning",
+   "an informal warning",
+   "to have a word with someone",
+   "a note of the warning"
+  ],
+  "note_fr": "En droit français, une simple observation orale n'est pas une sanction ; l'avertissement suppose un écrit. « To have a word with someone » = lui parler brièvement pour le rappeler à l'ordre ; à ne pas confondre avec « to have words with someone » (se disputer).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-010",
+  "level": 1,
+  "fr": "avertissement écrit",
+  "term": {
+   "uk": "written warning",
+   "us": "written warning"
+  },
+  "ipa": {
+   "uk": "/ˌrɪt(ə)n ˈwɔːnɪŋ/",
+   "us": "/ˌrɪt(ə)n ˈwɔːrnɪŋ/"
+  },
+  "def": "A formal letter telling an employee that their conduct or performance is unacceptable and what will happen if it does not improve.",
+  "registers": {
+   "formal": {
+    "uk": "written warning",
+    "us": "written warning",
+    "ex": "This letter constitutes a formal [[written warning]], a copy of which will be placed on your personnel file."
+   },
+   "everyday": {
+    "uk": "a written warning",
+    "us": "a write-up",
+    "ex": "He's already had [[a written warning]] for the same thing.",
+    "ex_us": "He's already had [[a write-up]] for the same thing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a first written warning",
+   "to receive a written warning",
+   "to write someone up (US)",
+   "a warning letter"
+  ],
+  "note_fr": "Aux États-Unis, « to write someone up » / « a write-up » désigne couramment l'avertissement écrit. « Advertisement » est un faux ami : c'est une publicité ou une annonce, jamais un avertissement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-011",
+  "level": 1,
+  "fr": "dernier avertissement",
+  "term": {
+   "uk": "final written warning",
+   "us": "final written warning"
+  },
+  "ipa": {
+   "uk": "/ˌfaɪn(ə)l ˌrɪt(ə)n ˈwɔːnɪŋ/",
+   "us": "/ˌfaɪn(ə)l ˌrɪt(ə)n ˈwɔːrnɪŋ/"
+  },
+  "def": "The last formal warning before dismissal, given after earlier warnings or for a serious first offence.",
+  "registers": {
+   "formal": {
+    "uk": "final written warning",
+    "us": "final written warning",
+    "ex": "Any further misconduct while this [[final written warning]] remains in force is likely to result in your dismissal."
+   },
+   "everyday": {
+    "uk": "final warning",
+    "us": "final warning",
+    "ex": "She's on a [[final warning]], so one more incident and that's it."
+   },
+   "informal": {
+    "uk": "last chance",
+    "us": "last chance",
+    "ex": "Frankly, this is his [[last chance]]."
+   }
+  },
+  "collocations": [
+   "to be on a final warning",
+   "to issue a final written warning",
+   "a first and final warning"
+  ],
+  "note_fr": "Notion surtout britannique : la gradation « verbal - written - final written warning » découle des bonnes pratiques (code Acas), non d'une obligation légale. En France, aucun nombre d'avertissements n'est exigé avant un licenciement. Dites « to be on a final warning », pas « to have a last warning ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-012",
+  "level": 1,
+  "fr": "notifier un avertissement",
+  "term": {
+   "uk": "to issue a warning",
+   "us": "to issue a warning"
+  },
+  "ipa": {
+   "uk": "/ˌɪʃuː ə ˈwɔːnɪŋ/",
+   "us": "/ˌɪʃuː ə ˈwɔːrnɪŋ/"
+  },
+  "def": "To give an employee a formal warning.",
+  "registers": {
+   "formal": {
+    "uk": "to issue a warning",
+    "us": "to issue a warning",
+    "ex": "The manager may [[issue a warning]] only after hearing the employee's explanation."
+   },
+   "everyday": {
+    "uk": "to give someone a warning",
+    "us": "to give someone a warning",
+    "ex": "We [[gave him a warning]] back in March and nothing has changed."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be issued with a warning (UK)",
+   "to be given a warning",
+   "to warn someone about their conduct",
+   "to withdraw a warning"
+  ],
+  "note_fr": "« To notify a warning » est un calque : on dit « to issue a warning » ou « to give someone a warning ». Au Royaume-Uni, « to be issued with a warning » ; aux États-Unis, « to be issued a warning », sans préposition.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-013",
+  "level": 2,
+  "fr": "blâme",
+  "term": {
+   "uk": "reprimand",
+   "us": "reprimand"
+  },
+  "ipa": {
+   "uk": "/ˈreprɪmɑːnd/",
+   "us": "/ˈreprɪmænd/"
+  },
+  "def": "A formal expression of disapproval addressed to an employee, more solemn than a simple warning.",
+  "registers": {
+   "formal": {
+    "uk": "formal reprimand",
+    "us": "formal reprimand",
+    "ex": "The sanction imposed is a [[formal reprimand]], which will be recorded on your file."
+   },
+   "everyday": {
+    "uk": "to pull someone up",
+    "us": "to call someone out",
+    "ex": "His manager [[pulled him up]] on the tone of his emails.",
+    "ex_us": "His manager [[called him out]] on the tone of his emails."
+   },
+   "informal": {
+    "uk": "a telling-off",
+    "us": "a talking-to",
+    "ex": "She got [[a telling-off]] from the site manager for not wearing her helmet.",
+    "ex_us": "She got [[a talking-to]] from the site manager for not wearing her helmet."
+   }
+  },
+  "collocations": [
+   "to reprimand someone for something",
+   "a letter of reprimand",
+   "a severe reprimand",
+   "to be told off"
+  ],
+  "note_fr": "« Blame » n'est pas un blâme : « to blame someone » = tenir quelqu'un pour responsable. Le blâme français se rend par « reprimand » ; « censure » est réservé aux contextes institutionnels ou professionnels (ordres, parlement).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-014",
+  "level": 2,
+  "fr": "avertissement encore en vigueur (inscrit au dossier)",
+  "term": {
+   "uk": "live warning",
+   "us": "active warning"
+  },
+  "ipa": {
+   "uk": "/ˌlaɪv ˈwɔːnɪŋ/",
+   "us": "/ˌæktɪv ˈwɔːrnɪŋ/"
+  },
+  "def": "A warning that is still in force and can therefore be taken into account if there is further misconduct.",
+  "registers": {
+   "formal": {
+    "uk": "to remain in force",
+    "us": "to remain in force",
+    "ex": "This warning will [[remain in force]] for a period of twelve months from the date of this letter."
+   },
+   "everyday": {
+    "uk": "to stay on file",
+    "us": "to stay on file",
+    "ex": "The warning [[stays on file]] for a year, then it's disregarded."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a live warning (UK)",
+   "to expire",
+   "a spent warning (UK)",
+   "to be disregarded for disciplinary purposes"
+  ],
+  "note_fr": "« Live » se prononce ici /laɪv/. Au Royaume-Uni, un avertissement expiré est dit « spent » ou « lapsed ». En France, aucune sanction antérieure de plus de trois ans ne peut être invoquée à l'appui d'une nouvelle sanction.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-015",
+  "level": 3,
+  "fr": "sanction pécuniaire (interdite)",
+  "term": {
+   "uk": "financial penalty",
+   "us": "financial penalty"
+  },
+  "ipa": {
+   "uk": "/faɪˌnænʃ(ə)l ˈpen(ə)lti/",
+   "us": "/faɪˌnænʃ(ə)l ˈpen(ə)lti/"
+  },
+  "def": "A sanction that consists in taking money from the employee, such as a fine or a deduction from pay.",
+  "registers": {
+   "formal": {
+    "uk": "financial penalty",
+    "us": "financial penalty",
+    "ex": "French law prohibits any fine or other [[financial penalty]] imposed on an employee by way of sanction."
+   },
+   "everyday": {
+    "uk": "to dock someone's pay",
+    "us": "to dock someone's pay",
+    "ex": "You can't [[dock his pay]] because he broke the scanner."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a deduction from wages",
+   "to fine an employee",
+   "an unlawful deduction",
+   "to withhold a bonus"
+  ],
+  "note_fr": "« To dock » = retenir sur le salaire. En France, les amendes et sanctions pécuniaires sont interdites ; ne pas payer les heures non travaillées (retard, mise à pied disciplinaire) n'en est pas une. Au Royaume-Uni, on parle d'« unlawful deduction from wages » ; les règles américaines varient selon les États.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-016",
+  "level": 2,
+  "fr": "mise à pied disciplinaire",
+  "term": {
+   "uk": "disciplinary suspension without pay",
+   "us": "unpaid disciplinary suspension"
+  },
+  "ipa": {
+   "uk": "/ˈdɪsəplɪnəri səˌspenʃ(ə)n wɪˌðaʊt ˈpeɪ/",
+   "us": "/ˌʌnpeɪd ˈdɪsəpləneri səˌspenʃ(ə)n/"
+  },
+  "def": "A sanction under which the employee is sent home without pay for a few days.",
+  "registers": {
+   "formal": {
+    "uk": "disciplinary suspension without pay",
+    "us": "unpaid disciplinary suspension",
+    "ex": "The sanction imposed is a three-day [[disciplinary suspension without pay]].",
+    "ex_us": "The sanction imposed is a three-day [[unpaid disciplinary suspension]]."
+   },
+   "everyday": {
+    "uk": "to be suspended without pay",
+    "us": "to be suspended without pay",
+    "ex": "He [[was suspended without pay]] for three days after the incident in the warehouse."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a three-day suspension",
+   "to serve a suspension",
+   "the maximum length of the suspension",
+   "suspension as a sanction"
+  ],
+  "note_fr": "Ne traduisez jamais littéralement (« put on foot »). Il s'agit d'une sanction, dont la durée maximale doit figurer au règlement intérieur. Au Royaume-Uni, une suspension sans salaire n'est possible que si le contrat le prévoit.",
+  "french_concept": true,
+  "explain": {
+   "written": "A mise à pied disciplinaire is a disciplinary sanction consisting of a short suspension of the employment contract without pay, the maximum length of which must be laid down in the company's internal rules.",
+   "spoken": "It's a short unpaid suspension used as a punishment - a few days at home without pay."
+  }
+ },
+ {
+  "id": "ds-017",
+  "level": 2,
+  "fr": "mise à pied conservatoire",
+  "term": {
+   "uk": "precautionary suspension",
+   "us": "precautionary suspension"
+  },
+  "ipa": {
+   "uk": "/prɪˌkɔːʃ(ə)n(ə)ri səˈspenʃ(ə)n/",
+   "us": "/prɪˌkɔːʃəneri səˈspenʃ(ə)n/"
+  },
+  "def": "A temporary removal from the workplace while the employer decides what sanction, if any, to impose.",
+  "registers": {
+   "formal": {
+    "uk": "precautionary suspension",
+    "us": "precautionary suspension",
+    "ex": "In view of the seriousness of the allegations, you are placed on [[precautionary suspension]] pending the outcome of the procedure."
+   },
+   "everyday": {
+    "uk": "to send someone home",
+    "us": "to send someone home",
+    "ex": "We [[sent him home]] while we work out what to do next."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "pending the outcome of the procedure",
+   "to place someone on precautionary suspension",
+   "a holding measure",
+   "to confirm the suspension in writing"
+  ],
+  "note_fr": "Ce n'est pas une sanction mais une mesure d'attente, généralement liée à une faute grave présumée ; si la faute grave n'est finalement pas retenue, le salaire de la période est dû. Au Royaume-Uni, la « suspension » pendant l'enquête est en principe rémunérée.",
+  "french_concept": true,
+  "explain": {
+   "written": "A mise à pied conservatoire is a precautionary suspension from work, with immediate effect, pending the employer's decision on a possible sanction; it is not itself a sanction.",
+   "spoken": "It's a holding measure: we ask the employee to stay at home until we've decided what to do. It isn't a punishment in itself."
+  }
+ },
+ {
+  "id": "ds-018",
+  "level": 1,
+  "fr": "suspendre (le temps de l'enquête)",
+  "term": {
+   "uk": "to suspend",
+   "us": "to place on administrative leave"
+  },
+  "ipa": {
+   "uk": "/səˈspend/",
+   "us": "/ˌpleɪs ɑːn ədˌmɪnɪstreɪtɪv ˈliːv/"
+  },
+  "def": "To tell an employee to stay away from work for a time while a matter is looked into.",
+  "registers": {
+   "formal": {
+    "uk": "to suspend on full pay",
+    "us": "to place on paid administrative leave",
+    "ex": "The employee [[was suspended on full pay]] while the matter was investigated.",
+    "ex_us": "The employee [[was placed on paid administrative leave]] while the matter was investigated."
+   },
+   "everyday": {
+    "uk": "to suspend",
+    "us": "to put on leave",
+    "ex": "They've [[suspended]] two drivers until they know what happened.",
+    "ex_us": "They've [[put two drivers on leave]] until they know what happened."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be suspended from work",
+   "suspended pending investigation",
+   "a neutral act",
+   "to keep the suspension under review"
+  ],
+  "note_fr": "Aux États-Unis, « administrative leave » est le terme usuel, « suspension » évoquant plutôt la sanction. Au Royaume-Uni, la suspension doit rester « a neutral act » : brève, rémunérée et sans préjuger de l'issue.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-019",
+  "level": 2,
+  "fr": "lever la mise à pied",
+  "term": {
+   "uk": "to lift the suspension",
+   "us": "to lift the suspension"
+  },
+  "ipa": {
+   "uk": "/ˌlɪft ðə səˈspenʃ(ə)n/",
+   "us": "/ˌlɪft ðə səˈspenʃ(ə)n/"
+  },
+  "def": "To end a suspension and allow the employee to return to work.",
+  "registers": {
+   "formal": {
+    "uk": "to lift the suspension",
+    "us": "to lift the suspension",
+    "ex": "As the allegations have not been substantiated, [[the suspension is lifted]] with immediate effect."
+   },
+   "everyday": {
+    "uk": "to bring someone back",
+    "us": "to bring someone back",
+    "ex": "There's nothing in it, so let's [[bring her back]] on Monday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to return to work",
+   "to reinstate someone's pay",
+   "to end the suspension",
+   "with no stain on one's record"
+  ],
+  "note_fr": "« To lift » s'emploie pour toute mesure restrictive (a ban, a restriction, a suspension). Évitez « to raise the suspension », qui ne se dit pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-020",
+  "level": 2,
+  "fr": "rétrogradation",
+  "term": {
+   "uk": "demotion",
+   "us": "demotion"
+  },
+  "ipa": {
+   "uk": "/dɪˈməʊʃ(ə)n/",
+   "us": "/dɪˈmoʊʃ(ə)n/"
+  },
+  "def": "A move to a lower grade or less senior job, usually with lower pay, imposed as a sanction.",
+  "registers": {
+   "formal": {
+    "uk": "demotion",
+    "us": "demotion",
+    "ex": "A disciplinary [[demotion]] entails a change to the contract and therefore requires the employee's agreement."
+   },
+   "everyday": {
+    "uk": "to be demoted",
+    "us": "to be demoted",
+    "ex": "He [[was demoted]] from team leader after the audit."
+   },
+   "informal": {
+    "uk": "to be bumped down",
+    "us": "to be bumped down",
+    "ex": "She [[was bumped down]] a grade, which she took very badly."
+   }
+  },
+  "collocations": [
+   "to demote someone to a lower grade",
+   "to accept a demotion",
+   "demotion as an alternative to dismissal"
+  ],
+  "note_fr": "Contraire de « promotion ». N'employez pas « retrogradation » ni « downgrade » pour une personne (« to downgrade » s'applique à un poste ou à une note). En France, le salarié peut refuser la rétrogradation disciplinaire, l'employeur pouvant alors prononcer une autre sanction.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-021",
+  "level": 3,
+  "fr": "mutation disciplinaire",
+  "term": {
+   "uk": "disciplinary transfer",
+   "us": "disciplinary transfer"
+  },
+  "ipa": {
+   "uk": "/ˈdɪsəplɪnəri ˌtrænsfɜː/",
+   "us": "/ˈdɪsəpləneri ˌtrænsfɜːr/"
+  },
+  "def": "A move to another site or department imposed on an employee as a sanction.",
+  "registers": {
+   "formal": {
+    "uk": "disciplinary transfer",
+    "us": "disciplinary transfer",
+    "ex": "The Company has decided on a [[disciplinary transfer]] to the Lille branch rather than dismissal."
+   },
+   "everyday": {
+    "uk": "to move someone",
+    "us": "to move someone",
+    "ex": "After the row, they [[moved him]] to another team."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to transfer someone to another site",
+   "a transfer imposed as a sanction",
+   "to be moved sideways"
+  ],
+  "note_fr": "« Mutation » ne s'emploie pas en anglais dans ce sens (c'est un terme de biologie). « A sideways move » désigne une mutation sans promotion ni rétrogradation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-022",
+  "level": 2,
+  "fr": "insubordination",
+  "term": {
+   "uk": "insubordination",
+   "us": "insubordination"
+  },
+  "ipa": {
+   "uk": "/ˌɪnsəˌbɔːdɪˈneɪʃ(ə)n/",
+   "us": "/ˌɪnsəˌbɔːrdəˈneɪʃ(ə)n/"
+  },
+  "def": "A deliberate refusal to obey a reasonable instruction from a manager.",
+  "registers": {
+   "formal": {
+    "uk": "refusal to carry out a reasonable instruction",
+    "us": "refusal to carry out a reasonable instruction",
+    "ex": "A repeated [[refusal to carry out a reasonable instruction]] may be treated as gross misconduct."
+   },
+   "everyday": {
+    "uk": "to refuse to do as one is asked",
+    "us": "to refuse to do as one is asked",
+    "ex": "He simply [[refuses to do as he's asked]], and the rest of the team have noticed."
+   },
+   "informal": {
+    "uk": "to answer back",
+    "us": "to talk back",
+    "ex": "She [[answers back]] every time her supervisor opens his mouth.",
+    "ex_us": "She [[talks back]] every time her supervisor opens his mouth."
+   }
+  },
+  "collocations": [
+   "an act of insubordination",
+   "a reasonable management instruction",
+   "to defy one's manager",
+   "to undermine someone's authority"
+  ],
+  "note_fr": "Le mot existe en anglais, mais il est plus courant dans les textes américains ; un texte britannique dira plutôt « refusal to obey a reasonable (and lawful) instruction ». Le caractère raisonnable de l'ordre est essentiel dans les trois systèmes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-023",
+  "level": 1,
+  "fr": "absence injustifiée",
+  "term": {
+   "uk": "unauthorised absence",
+   "us": "unexcused absence"
+  },
+  "ipa": {
+   "uk": "/ʌnˌɔːθəraɪzd ˈæbs(ə)ns/",
+   "us": "/ˌʌnɪkˌskjuːzd ˈæbs(ə)ns/"
+  },
+  "def": "A failure to come to work without permission or a valid reason.",
+  "registers": {
+   "formal": {
+    "uk": "unauthorised absence",
+    "us": "unexcused absence",
+    "ex": "Any [[unauthorised absence]] must be explained in writing within forty-eight hours.",
+    "ex_us": "Any [[unexcused absence]] must be explained in writing within forty-eight hours."
+   },
+   "everyday": {
+    "uk": "not to turn up",
+    "us": "not to show up",
+    "ex": "He [[didn't turn up]] on Monday and didn't even ring in.",
+    "ex_us": "He [[didn't show up]] on Monday and didn't even call in."
+   },
+   "informal": {
+    "uk": "to go AWOL",
+    "us": "to go AWOL",
+    "ex": "Our night-shift supervisor [[has gone AWOL]] again."
+   }
+  },
+  "collocations": [
+   "to be absent without leave",
+   "a no-call, no-show (US)",
+   "to ring in sick (UK) / to call in sick",
+   "to account for one's absence"
+  ],
+  "note_fr": "« Unjustified absence » se comprend mais sonne traduit. « AWOL » /ˈeɪwɒl/ (absent without leave) vient du vocabulaire militaire. Orthographe : « unauthorised » (UK), « unauthorized » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-024",
+  "level": 2,
+  "fr": "abandon de poste",
+  "term": {
+   "uk": "abandoning one's post",
+   "us": "job abandonment"
+  },
+  "ipa": {
+   "uk": "/əˌbændənɪŋ wʌnz ˈpəʊst/",
+   "us": "/ˈdʒɑːb əˌbændənmənt/"
+  },
+  "def": "Stopping coming to work, without explanation and without resigning.",
+  "registers": {
+   "formal": {
+    "uk": "to abandon one's post",
+    "us": "to abandon one's job",
+    "ex": "An employee who [[abandons his or her post]] and fails to return after formal notice may be presumed to have resigned.",
+    "ex_us": "An employee who [[abandons his or her job]] and fails to return after formal notice may be presumed to have resigned."
+   },
+   "everyday": {
+    "uk": "to walk out",
+    "us": "to walk out",
+    "ex": "He [[walked out]] three weeks ago and nobody's heard from him since."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fail to return to work",
+   "to walk off the job",
+   "formal notice to return to work",
+   "to be treated as having resigned"
+  ],
+  "note_fr": "En France, depuis 2023, le salarié qui ne reprend pas son poste après mise en demeure est présumé démissionnaire. Aux États-Unis, « job abandonment » est une notion de règlement intérieur (souvent trois jours de « no-call, no-show ») assimilée à un départ volontaire. « To walk out » peut aussi signifier « débrayer ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-025",
+  "level": 2,
+  "fr": "retards répétés",
+  "term": {
+   "uk": "persistent lateness",
+   "us": "chronic tardiness"
+  },
+  "ipa": {
+   "uk": "/pəˌsɪstənt ˈleɪtnəs/",
+   "us": "/ˌkrɑːnɪk ˈtɑːrdinəs/"
+  },
+  "def": "Arriving late for work again and again.",
+  "registers": {
+   "formal": {
+    "uk": "persistent lateness",
+    "us": "repeated tardiness",
+    "ex": "You have been warned on two occasions about your [[persistent lateness]].",
+    "ex_us": "You have been warned on two occasions about your [[repeated tardiness]]."
+   },
+   "everyday": {
+    "uk": "poor timekeeping",
+    "us": "always being late",
+    "ex": "His [[poor timekeeping]] is starting to annoy the whole shift.",
+    "ex_us": "His [[always being late]] is starting to annoy the whole shift."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be late for work",
+   "to turn up late",
+   "to clock in late",
+   "an attendance record"
+  ],
+  "note_fr": "« Tardiness » et « tardy » sont américains ; au Royaume-Uni, on parle de « lateness » ou de « (poor) timekeeping ». « Retard » ne se traduit jamais par « retard » (terme insultant) ni par « delay » pour une personne : « he was late », pas « he had a delay ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-026",
+  "level": 2,
+  "fr": "négligence grave",
+  "term": {
+   "uk": "gross negligence",
+   "us": "gross negligence"
+  },
+  "ipa": {
+   "uk": "/ˌɡrəʊs ˈneɡlɪdʒ(ə)ns/",
+   "us": "/ˌɡroʊs ˈneɡlɪdʒ(ə)ns/"
+  },
+  "def": "Extremely careless behaviour that shows a serious disregard for one's duties or for other people's safety.",
+  "registers": {
+   "formal": {
+    "uk": "gross negligence",
+    "us": "gross negligence",
+    "ex": "Leaving the machine unguarded amounted to [[gross negligence]] and justified dismissal without notice."
+   },
+   "everyday": {
+    "uk": "to be seriously careless",
+    "us": "to be seriously careless",
+    "ex": "Nobody thinks she did it on purpose, but she [[was seriously careless]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to amount to gross negligence",
+   "a negligent act",
+   "serious carelessness",
+   "to neglect one's duties"
+  ],
+  "note_fr": "Attention à la différence entre « negligent » (qui commet une négligence) et « negligible » (négligeable). La négligence, même grave, n'implique pas d'intention : c'est ce qui la distingue de « wilful misconduct ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-027",
+  "level": 3,
+  "fr": "manquement à l'obligation de loyauté",
+  "term": {
+   "uk": "breach of the duty of loyalty",
+   "us": "breach of the duty of loyalty"
+  },
+  "ipa": {
+   "uk": "/ˌbriːtʃ əv ðə ˌdjuːti əv ˈlɔɪəlti/",
+   "us": "/ˌbriːtʃ əv ðə ˌduːti əv ˈlɔɪəlti/"
+  },
+  "def": "Acting against the employer's interests while still employed, for example by working for a competitor.",
+  "registers": {
+   "formal": {
+    "uk": "breach of the duty of fidelity",
+    "us": "breach of the duty of loyalty",
+    "ex": "Diverting clients to a competing business while still employed is a clear [[breach of the duty of fidelity]].",
+    "ex_us": "Diverting clients to a competing business while still employed is a clear [[breach of the duty of loyalty]]."
+   },
+   "everyday": {
+    "uk": "to go behind the company's back",
+    "us": "to go behind the company's back",
+    "ex": "He'd been [[going behind the company's back]] for months, quoting for our own clients."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to act in good faith",
+   "a conflict of interest",
+   "to divert business",
+   "to moonlight for a competitor"
+  ],
+  "note_fr": "Le droit anglais parle traditionnellement de « duty of fidelity » ; « duty of loyalty » est le terme américain et se comprend partout. « Loyal » en anglais est plus affectif que juridique : pour un écrit, préférez « in good faith ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-028",
+  "level": 3,
+  "fr": "faute passible de licenciement",
+  "term": {
+   "uk": "dismissible offence",
+   "us": "terminable offense"
+  },
+  "ipa": {
+   "uk": "/dɪsˌmɪsəb(ə)l əˈfens/",
+   "us": "/ˌtɜːrmɪnəb(ə)l əˈfens/"
+  },
+  "def": "An act serious enough for the employer to be entitled to dismiss the person who commits it.",
+  "registers": {
+   "formal": {
+    "uk": "conduct warranting dismissal",
+    "us": "conduct warranting termination",
+    "ex": "The policy lists examples of [[conduct warranting dismissal]] for a first offence.",
+    "ex_us": "The policy lists examples of [[conduct warranting termination]] for a first offense."
+   },
+   "everyday": {
+    "uk": "something one can be dismissed for",
+    "us": "something one can be terminated for",
+    "ex": "Falsifying a timesheet is [[something you can be dismissed for]].",
+    "ex_us": "Falsifying a timesheet is [[something you can be terminated for]]."
+   },
+   "informal": {
+    "uk": "a sackable offence",
+    "us": "a fireable offense",
+    "ex": "Sleeping on the night shift is [[a sackable offence]] here.",
+    "ex_us": "Sleeping on the night shift is [[a fireable offense]] here."
+   }
+  },
+  "collocations": [
+   "to warrant dismissal",
+   "zero tolerance",
+   "grounds for immediate dismissal",
+   "a first offence"
+  ],
+  "note_fr": "Orthographe : « offence » (UK), « offense » (US). « To warrant » = justifier, mériter (« the conduct warrants a final warning »). « Offence » ne signifie pas forcément infraction pénale : c'est ici le manquement disciplinaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-029",
+  "level": 2,
+  "fr": "récidive / nouveau manquement",
+  "term": {
+   "uk": "repeat offence",
+   "us": "repeat offense"
+  },
+  "ipa": {
+   "uk": "/rɪˌpiːt əˈfens/",
+   "us": "/rɪˌpiːt əˈfens/"
+  },
+  "def": "Misconduct of the same kind committed again after an earlier warning or sanction.",
+  "registers": {
+   "formal": {
+    "uk": "any repetition of this conduct",
+    "us": "any repetition of this conduct",
+    "ex": "[[Any repetition of this conduct]] will lead to further disciplinary action, which may include dismissal."
+   },
+   "everyday": {
+    "uk": "to do it again",
+    "us": "to do it again",
+    "ex": "If he [[does it again]], we won't be having another friendly chat."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a repeat offender",
+   "further misconduct",
+   "a pattern of behaviour",
+   "despite previous warnings"
+  ],
+  "note_fr": "« Recidivism » appartient au vocabulaire pénal. Dans une lettre, la formule consacrée est « any repetition of this conduct » ou « any further misconduct ». En France, on ne peut pas sanctionner deux fois les mêmes faits, mais on peut invoquer les sanctions passées pour aggraver une faute nouvelle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-030",
+  "level": 1,
+  "fr": "les faits reprochés",
+  "term": {
+   "uk": "the allegations",
+   "us": "the allegations"
+  },
+  "ipa": {
+   "uk": "/ði ˌæləˈɡeɪʃ(ə)nz/",
+   "us": "/ði ˌæləˈɡeɪʃ(ə)nz/"
+  },
+  "def": "The things an employee is said to have done wrong, before they have been proved.",
+  "registers": {
+   "formal": {
+    "uk": "the allegations against the employee",
+    "us": "the allegations against the employee",
+    "ex": "The letter must set out [[the allegations against the employee]] in sufficient detail for a response to be prepared."
+   },
+   "everyday": {
+    "uk": "what someone is accused of",
+    "us": "what someone is accused of",
+    "ex": "She still doesn't really know [[what she's accused of]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make an allegation",
+   "to deny the allegations",
+   "the alleged misconduct",
+   "to put the allegations to someone"
+  ],
+  "note_fr": "« The reproached facts » est un calque à proscrire, tout comme « to reproach » dans ce contexte. Tant que rien n'est établi, employez « alleged » : « the alleged theft ». « Facts » en anglais désigne ce qui est avéré.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-031",
+  "level": 2,
+  "fr": "entretien d'enquête préalable",
+  "term": {
+   "uk": "fact-finding meeting",
+   "us": "investigatory interview"
+  },
+  "ipa": {
+   "uk": "/ˈfækt ˌfaɪndɪŋ ˌmiːtɪŋ/",
+   "us": "/ɪnˈvestɪɡətɔːri ˌɪntərvjuː/"
+  },
+  "def": "A meeting held to establish what happened before deciding whether to start disciplinary proceedings.",
+  "registers": {
+   "formal": {
+    "uk": "investigation meeting",
+    "us": "investigatory interview",
+    "ex": "You are required to attend an [[investigation meeting]], which is not a disciplinary hearing.",
+    "ex_us": "You are required to attend an [[investigatory interview]], which is not a disciplinary hearing."
+   },
+   "everyday": {
+    "uk": "to get someone's version of events",
+    "us": "to get someone's version of events",
+    "ex": "Before we go any further, I'd like [[to get her version of events]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to establish the facts",
+   "to take a statement from a witness",
+   "the investigating manager",
+   "to keep an open mind"
+  ],
+  "note_fr": "Au Royaume-Uni, l'enquête (« investigation ») et l'audience disciplinaire (« hearing ») sont deux étapes distinctes, menées si possible par deux personnes différentes. Le droit français n'impose pas d'enquête formelle avant l'entretien préalable, mais l'employeur doit pouvoir prouver les faits.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-032",
+  "level": 3,
+  "fr": "établir (la matérialité des faits)",
+  "term": {
+   "uk": "to substantiate",
+   "us": "to substantiate"
+  },
+  "ipa": {
+   "uk": "/səbˈstænʃieɪt/",
+   "us": "/səbˈstænʃieɪt/"
+  },
+  "def": "To show, with evidence, that an allegation is true.",
+  "registers": {
+   "formal": {
+    "uk": "to substantiate",
+    "us": "to substantiate",
+    "ex": "The employer was unable [[to substantiate]] the allegation of theft, and the dismissal was held to be without cause."
+   },
+   "everyday": {
+    "uk": "to back up",
+    "us": "to back up",
+    "ex": "Can we actually [[back up]] any of this, or is it just hearsay?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to substantiate an allegation",
+   "unsubstantiated claims",
+   "to have evidence to support something",
+   "on the balance of probabilities (UK)"
+  ],
+  "note_fr": "« To establish the facts » existe aussi, mais « to substantiate an allegation » est plus précis. En France, le doute profite au salarié. Au Royaume-Uni, l'employeur n'a pas à prouver la faute avec certitude : une conviction raisonnable, fondée sur une enquête sérieuse, suffit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-033",
+  "level": 1,
+  "fr": "reconnaître les faits",
+  "term": {
+   "uk": "to admit",
+   "us": "to admit"
+  },
+  "ipa": {
+   "uk": "/ədˈmɪt/",
+   "us": "/ədˈmɪt/"
+  },
+  "def": "To say that one did what one is accused of.",
+  "registers": {
+   "formal": {
+    "uk": "to admit the allegations",
+    "us": "to admit the allegations",
+    "ex": "During the meeting you [[admitted the allegations]] and offered no explanation."
+   },
+   "everyday": {
+    "uk": "to own up to",
+    "us": "to own up to",
+    "ex": "To be fair, he [[owned up to]] it straight away."
+   },
+   "informal": {
+    "uk": "to come clean",
+    "us": "to come clean",
+    "ex": "She finally [[came clean]] about the missing stock."
+   }
+  },
+  "collocations": [
+   "to admit to doing something",
+   "to deny any wrongdoing",
+   "a full admission",
+   "to dispute the facts"
+  ],
+  "note_fr": "« To recognise the facts » est un calque. Construction : « to admit (to) taking the money », jamais « to admit to have taken ». Le contraire est « to deny » (nier) ; « to contest » ou « to dispute » = contester.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-034",
+  "level": 1,
+  "fr": "entretien disciplinaire (procédure britannique)",
+  "term": {
+   "uk": "disciplinary hearing",
+   "us": "disciplinary meeting"
+  },
+  "ipa": {
+   "uk": "/ˈdɪsəplɪnəri ˌhɪərɪŋ/",
+   "us": "/ˈdɪsəpləneri ˌmiːtɪŋ/"
+  },
+  "def": "A formal meeting at which the employer puts the allegations to the employee and hears the response before deciding on a sanction.",
+  "registers": {
+   "formal": {
+    "uk": "disciplinary hearing",
+    "us": "disciplinary meeting",
+    "ex": "You are required to attend a [[disciplinary hearing]] on 14 March at 10 a.m.",
+    "ex_us": "You are required to attend a [[disciplinary meeting]] on March 14 at 10 a.m."
+   },
+   "everyday": {
+    "uk": "a disciplinary",
+    "us": "a disciplinary meeting",
+    "ex": "She's got [[a disciplinary]] on Thursday and she's worried sick.",
+    "ex_us": "She's got [[a disciplinary meeting]] on Thursday and she's worried sick."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to chair a hearing",
+   "to attend a hearing",
+   "to postpone the hearing",
+   "the hearing manager"
+  ],
+  "note_fr": "« Hearing » ne désigne pas ici une audience judiciaire : c'est une réunion interne. Aux États-Unis, aucune réunion de ce type n'est imposée par la loi dans le secteur privé non syndiqué. L'équivalent français est l'entretien préalable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-035",
+  "level": 1,
+  "fr": "entretien préalable (au licenciement)",
+  "term": {
+   "uk": "pre-dismissal meeting",
+   "us": "pre-dismissal meeting"
+  },
+  "ipa": {
+   "uk": "/ˌpriː dɪsˈmɪs(ə)l ˌmiːtɪŋ/",
+   "us": "/ˌpriː dɪsˈmɪs(ə)l ˌmiːtɪŋ/"
+  },
+  "def": "In French law, the compulsory meeting at which the employer explains the reasons for a proposed dismissal and listens to the employee's explanations.",
+  "registers": {
+   "formal": {
+    "uk": "pre-dismissal meeting",
+    "us": "pre-dismissal meeting",
+    "ex": "No decision may be taken until the [[pre-dismissal meeting]] has been held."
+   },
+   "everyday": {
+    "uk": "the meeting before any decision is made",
+    "us": "the meeting before any decision is made",
+    "ex": "Nothing is final yet; [[the meeting before any decision is made]] is there precisely so that he can explain himself."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold the pre-dismissal meeting",
+   "to invite someone to a pre-dismissal meeting",
+   "to fail to attend the meeting",
+   "a proposed dismissal"
+  ],
+  "note_fr": "« Preliminary interview » prête à confusion (« interview » évoque le recrutement). L'entretien n'est pas le lieu de la décision : la lettre ne peut partir qu'après un délai minimal de deux jours ouvrables. Insistez auprès d'un client étranger : annoncer le licenciement pendant l'entretien est une irrégularité.",
+  "french_concept": true,
+  "explain": {
+   "written": "The entretien préalable is a mandatory meeting to which the employer must invite the employee before deciding on a dismissal, in order to state the reasons for the proposed measure and to hear the employee's explanations.",
+   "spoken": "It's a compulsory meeting before any dismissal: we tell the employee what the problem is, we listen to their side, and only afterwards do we decide."
+  }
+ },
+ {
+  "id": "ds-036",
+  "level": 2,
+  "fr": "convocation à l'entretien préalable",
+  "term": {
+   "uk": "letter of invitation to a pre-dismissal meeting",
+   "us": "letter of invitation to a pre-dismissal meeting"
+  },
+  "ipa": {
+   "uk": "/ˌletər əv ˌɪnvɪˈteɪʃ(ə)n tu ə ˌpriː dɪsˈmɪs(ə)l ˌmiːtɪŋ/",
+   "us": "/ˌletər əv ˌɪnvɪˈteɪʃ(ə)n tu ə ˌpriː dɪsˈmɪs(ə)l ˌmiːtɪŋ/"
+  },
+  "def": "The letter that formally invites the employee to the pre-dismissal meeting and states its purpose, date, time and place.",
+  "registers": {
+   "formal": {
+    "uk": "letter of invitation to a pre-dismissal meeting",
+    "us": "letter of invitation to a pre-dismissal meeting",
+    "ex": "The [[letter of invitation to a pre-dismissal meeting]] must state that a dismissal is being considered and remind the employee of the right to be assisted."
+   },
+   "everyday": {
+    "uk": "invitation letter",
+    "us": "invitation letter",
+    "ex": "The [[invitation letter]] went out on Tuesday, so the earliest we can meet is the following Wednesday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to send out the invitation letter",
+   "to state the purpose of the meeting",
+   "at least five working days' notice",
+   "to be invited to attend"
+  ],
+  "note_fr": "« Convocation » en anglais désigne une cérémonie universitaire, et « to convoke » est rarissime ; « summons » est judiciaire. Dites « to invite someone to a meeting » ou, plus ferme, « to require someone to attend ». Cinq jours ouvrables au moins doivent séparer la réception de la lettre et l'entretien.",
+  "french_concept": true,
+  "explain": {
+   "written": "The convocation à l'entretien préalable is the letter, sent by registered post or delivered by hand against receipt, inviting the employee to the pre-dismissal meeting and informing him or her of the right to be assisted.",
+   "spoken": "It's the formal letter inviting the employee to the meeting. It has to say that dismissal is on the table and that they can bring someone with them."
+  }
+ },
+ {
+  "id": "ds-037",
+  "level": 2,
+  "fr": "lettre recommandée avec accusé de réception",
+  "term": {
+   "uk": "letter sent by recorded delivery",
+   "us": "letter sent by certified mail, return receipt requested"
+  },
+  "ipa": {
+   "uk": "/ˌletə sent baɪ rɪˌkɔːdɪd dɪˈlɪv(ə)ri/",
+   "us": "/ˌletər sent baɪ ˌsɜːrtɪfaɪd ˈmeɪl/"
+  },
+  "def": "A letter sent by a postal service that provides proof of posting and of delivery.",
+  "registers": {
+   "formal": {
+    "uk": "by registered post with acknowledgement of receipt",
+    "us": "by certified mail, return receipt requested",
+    "ex": "Notice of dismissal shall be sent [[by registered post with acknowledgement of receipt]].",
+    "ex_us": "Notice of dismissal shall be sent [[by certified mail, return receipt requested]]."
+   },
+   "everyday": {
+    "uk": "by recorded delivery",
+    "us": "by certified mail",
+    "ex": "Send it [[by recorded delivery]] so that we have proof of the date.",
+    "ex_us": "Send it [[by certified mail]] so that we have proof of the date."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "proof of delivery",
+   "the date of first presentation",
+   "to sign for a letter",
+   "to send by registered post"
+  ],
+  "note_fr": "« Recommended letter » est un contresens classique (« recommended » = conseillé). Au Royaume-Uni, « post » ; aux États-Unis, « mail ». En France, c'est la date de première présentation de la lettre qui fait courir la plupart des délais.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-038",
+  "level": 2,
+  "fr": "remise en main propre contre décharge",
+  "term": {
+   "uk": "hand delivery against signed receipt",
+   "us": "hand delivery against signed receipt"
+  },
+  "ipa": {
+   "uk": "/ˌhænd dɪˈlɪv(ə)ri əˌɡenst ˌsaɪnd rɪˈsiːt/",
+   "us": "/ˌhænd dɪˈlɪv(ə)ri əˌɡenst ˌsaɪnd rɪˈsiːt/"
+  },
+  "def": "Giving a letter to someone in person and having them sign to confirm they have received it.",
+  "registers": {
+   "formal": {
+    "uk": "delivered by hand against signed receipt",
+    "us": "delivered by hand against signed receipt",
+    "ex": "The invitation may be [[delivered by hand against signed receipt]] instead of being sent by post."
+   },
+   "everyday": {
+    "uk": "to hand someone a letter and get them to sign for it",
+    "us": "to hand someone a letter and get them to sign for it",
+    "ex": "I'd [[hand him the letter and get him to sign for it]]; it saves three days."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to acknowledge receipt",
+   "to sign and date a copy",
+   "received by hand on (date)",
+   "to refuse to sign"
+  ],
+  "note_fr": "« Receipt » se prononce /rɪˈsiːt/ : le p est muet. « In own hands » ne se dit pas. Signer la décharge vaut accusé de réception, non acceptation du contenu : précisez-le au salarié (« signing simply confirms that you have received the letter »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-039",
+  "level": 1,
+  "fr": "se faire assister",
+  "term": {
+   "uk": "to be accompanied",
+   "us": "to be accompanied"
+  },
+  "ipa": {
+   "uk": "/bi əˈkʌmpənid/",
+   "us": "/bi əˈkʌmpənid/"
+  },
+  "def": "To have another person with you at a formal meeting to support or advise you.",
+  "registers": {
+   "formal": {
+    "uk": "to be accompanied by",
+    "us": "to be accompanied by",
+    "ex": "You are entitled [[to be accompanied by]] a colleague or a trade union representative.",
+    "ex_us": "You are entitled [[to be accompanied by]] a coworker or a union representative."
+   },
+   "everyday": {
+    "uk": "to bring someone with you",
+    "us": "to bring someone with you",
+    "ex": "You can [[bring someone with you]] to the meeting if you'd like."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the right to be accompanied",
+   "a companion",
+   "to be assisted by a member of staff",
+   "a trade union representative"
+  ],
+  "note_fr": "En France, le salarié peut être « assisté » par une personne de son choix appartenant au personnel ou, à défaut de représentants du personnel, par un conseiller du salarié. Au Royaume-Uni, le « companion » est un collègue ou un représentant syndical. Aux États-Unis, ce droit n'existe en principe que pour les salariés syndiqués (« Weingarten rights »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-040",
+  "level": 3,
+  "fr": "conseiller du salarié",
+  "term": {
+   "uk": "employee adviser",
+   "us": "employee advisor"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː ədˈvaɪzə/",
+   "us": "/ɪmˌplɔɪiː ədˈvaɪzər/"
+  },
+  "def": "In France, an outside volunteer, chosen from an official list, who may assist an employee at a pre-dismissal meeting in a company with no staff representatives.",
+  "registers": {
+   "formal": {
+    "uk": "external employee adviser",
+    "us": "external employee advisor",
+    "ex": "Where the company has no staff representatives, the employee may be assisted by an [[external employee adviser]] chosen from the official list.",
+    "ex_us": "Where the company has no staff representatives, the employee may be assisted by an [[external employee advisor]] chosen from the official list."
+   },
+   "everyday": {
+    "uk": "an outside adviser",
+    "us": "an outside advisor",
+    "ex": "As there are no reps here, he's entitled to bring [[an outside adviser]] from the official list.",
+    "ex_us": "As there are no reps here, he's entitled to bring [[an outside advisor]] from the official list."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the official list of advisers",
+   "to be assisted free of charge",
+   "to attend in an advisory capacity"
+  ],
+  "note_fr": "Ce n'est ni un avocat ni un représentant du personnel. La lettre de convocation doit indiquer où la liste peut être consultée ; l'oublier est une irrégularité de procédure. « Adviser » (UK) et « advisor » (US) sont deux orthographes admises.",
+  "french_concept": true,
+  "explain": {
+   "written": "A conseiller du salarié is an external adviser, appointed by the authorities and entered on an official list, who may assist an employee free of charge at a pre-dismissal meeting where the company has no staff representatives.",
+   "spoken": "In a company with no employee reps, the employee can bring an outside adviser from an official list. It isn't a lawyer - more of a trained volunteer."
+  }
+ },
+ {
+  "id": "ds-041",
+  "level": 1,
+  "fr": "s'expliquer / présenter ses observations",
+  "term": {
+   "uk": "to respond to the allegations",
+   "us": "to respond to the allegations"
+  },
+  "ipa": {
+   "uk": "/rɪˌspɒnd tə ði ˌæləˈɡeɪʃ(ə)nz/",
+   "us": "/rɪˌspɑːnd tə ði ˌæləˈɡeɪʃ(ə)nz/"
+  },
+  "def": "To give one's own account and explanation of what one is accused of.",
+  "registers": {
+   "formal": {
+    "uk": "to state one's case",
+    "us": "to state one's case",
+    "ex": "The employee must be given a proper opportunity [[to state his or her case]] before any decision is taken."
+   },
+   "everyday": {
+    "uk": "to give one's side of the story",
+    "us": "to give one's side of the story",
+    "ex": "The meeting is your chance [[to give your side of the story]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to put one's side (UK)",
+   "to offer an explanation",
+   "to make representations",
+   "to be given a fair hearing"
+  ],
+  "note_fr": "« To explain oneself » existe, mais il a une nuance de sommation (« Explain yourself! »). « To make representations » est la formule juridique britannique pour « présenter ses observations ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-042",
+  "level": 2,
+  "fr": "compte rendu de l'entretien",
+  "term": {
+   "uk": "notes of the meeting",
+   "us": "notes of the meeting"
+  },
+  "ipa": {
+   "uk": "/ˌnəʊts əv ðə ˈmiːtɪŋ/",
+   "us": "/ˌnoʊts əv ðə ˈmiːtɪŋ/"
+  },
+  "def": "A written record of what was said at a disciplinary or pre-dismissal meeting.",
+  "registers": {
+   "formal": {
+    "uk": "a written record of the meeting",
+    "us": "a written record of the meeting",
+    "ex": "[[A written record of the meeting]] will be sent to you for comment within five working days."
+   },
+   "everyday": {
+    "uk": "to take notes",
+    "us": "to take notes",
+    "ex": "Could you sit in and [[take notes]]? I'd rather not chair and write at the same time."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a note-taker",
+   "to sit in on a meeting",
+   "an accurate record",
+   "to sign the notes as agreed"
+  ],
+  "note_fr": "« Minutes » /ˈmɪnɪts/ convient pour une réunion collégiale ; pour un entretien individuel, on dit plutôt « notes » ou « a record ». Le droit français n'impose pas de compte rendu de l'entretien préalable ; au Royaume-Uni, c'est une bonne pratique constante.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-043",
+  "level": 3,
+  "fr": "suspendre la séance / reporter",
+  "term": {
+   "uk": "to adjourn",
+   "us": "to adjourn"
+  },
+  "ipa": {
+   "uk": "/əˈdʒɜːn/",
+   "us": "/əˈdʒɜːrn/"
+  },
+  "def": "To stop a meeting or hearing for a time, intending to continue it later.",
+  "registers": {
+   "formal": {
+    "uk": "to adjourn the hearing",
+    "us": "to adjourn the hearing",
+    "ex": "The chair [[adjourned the hearing]] to allow the new evidence to be examined."
+   },
+   "everyday": {
+    "uk": "to take a break",
+    "us": "to take a break",
+    "ex": "Shall we [[take a break]] for ten minutes and then carry on?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to adjourn to consider the decision",
+   "to reconvene",
+   "a short adjournment",
+   "to postpone the hearing"
+  ],
+  "note_fr": "Le d de « adjourn » est muet : /əˈdʒɜːn/. « To adjourn » = interrompre une réunion commencée ; « to postpone » = reporter une réunion qui n'a pas encore eu lieu. « To reconvene » = reprendre la séance.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-044",
+  "level": 3,
+  "fr": "prescription des faits fautifs",
+  "term": {
+   "uk": "time limit for disciplinary action",
+   "us": "time limit for disciplinary action"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪm ˌlɪmɪt fə ˈdɪsəplɪnəri ˌækʃ(ə)n/",
+   "us": "/ˈtaɪm ˌlɪmɪt fər ˈdɪsəpləneri ˌækʃ(ə)n/"
+  },
+  "def": "The period after which an employer who knew of an act of misconduct can no longer start proceedings about it.",
+  "registers": {
+   "formal": {
+    "uk": "to be time-barred",
+    "us": "to be time-barred",
+    "ex": "As the employer had known of the facts for more than two months, any disciplinary action [[was time-barred]]."
+   },
+   "everyday": {
+    "uk": "to be out of time",
+    "us": "to be out of time",
+    "ex": "If HR knew back in January, I'm afraid we[['re out of time]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "within two months of becoming aware of the facts",
+   "to run from the date of knowledge",
+   "to act without undue delay",
+   "to miss the deadline"
+  ],
+  "note_fr": "« Prescription » en anglais est une ordonnance médicale. Pour un délai de prescription, dites « time limit » ou « limitation period ». En France, l'employeur dispose de deux mois à compter du jour où il a connaissance des faits ; le Royaume-Uni n'a pas de délai chiffré, mais exige d'agir « without unreasonable delay ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-045",
+  "level": 3,
+  "fr": "interdiction de la double sanction",
+  "term": {
+   "uk": "rule against double punishment",
+   "us": "rule against double punishment"
+  },
+  "ipa": {
+   "uk": "/ˌruːl əˌɡenst ˌdʌb(ə)l ˈpʌnɪʃmənt/",
+   "us": "/ˌruːl əˌɡenst ˌdʌb(ə)l ˈpʌnɪʃmənt/"
+  },
+  "def": "The principle that an employee cannot be disciplined a second time for misconduct that has already been sanctioned.",
+  "registers": {
+   "formal": {
+    "uk": "to be sanctioned twice for the same conduct",
+    "us": "to be sanctioned twice for the same conduct",
+    "ex": "No employee may [[be sanctioned twice for the same conduct]]."
+   },
+   "everyday": {
+    "uk": "to punish someone twice for the same thing",
+    "us": "to punish someone twice for the same thing",
+    "ex": "We've already given him a warning for that, and we can't [[punish him twice for the same thing]]."
+   },
+   "informal": {
+    "uk": "double jeopardy",
+    "us": "double jeopardy",
+    "ex": "Dismissing her now for the March incident would be [[double jeopardy]]."
+   }
+  },
+  "collocations": [
+   "to exhaust the disciplinary power",
+   "facts already sanctioned",
+   "to rely on earlier warnings"
+  ],
+  "note_fr": "« Double jeopardy » est à l'origine un terme pénal ; son emploi en RH est imagé. Piège pratique à signaler à un client : en France, un courriel de reproches peut être requalifié en avertissement et « épuiser » le pouvoir disciplinaire pour les faits qu'il vise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-046",
+  "level": 2,
+  "fr": "sanction proportionnée",
+  "term": {
+   "uk": "proportionate sanction",
+   "us": "proportionate sanction"
+  },
+  "ipa": {
+   "uk": "/prəˌpɔːʃ(ə)nət ˈsæŋkʃ(ə)n/",
+   "us": "/prəˌpɔːrʃ(ə)nət ˈsæŋkʃ(ə)n/"
+  },
+  "def": "A sanction whose severity matches the seriousness of the misconduct.",
+  "registers": {
+   "formal": {
+    "uk": "proportionate to",
+    "us": "proportionate to",
+    "ex": "The sanction must be [[proportionate to]] the seriousness of the misconduct."
+   },
+   "everyday": {
+    "uk": "heavy-handed",
+    "us": "heavy-handed",
+    "ex": "Dismissal for one late report would look [[heavy-handed]]."
+   },
+   "informal": {
+    "uk": "over the top",
+    "us": "over the top",
+    "ex": "A final warning for that? It's a bit [[over the top]]."
+   }
+  },
+  "collocations": [
+   "a disproportionate sanction",
+   "to fit the offence",
+   "a measured response",
+   "to err on the side of leniency"
+  ],
+  "note_fr": "« Proportionate » (adapté à la gravité) et non « proportional » (mathématique). « Heavy-handed » = qui a la main lourde. En France, le juge peut annuler une sanction disproportionnée autre que le licenciement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-047",
+  "level": 2,
+  "fr": "circonstances atténuantes",
+  "term": {
+   "uk": "mitigating circumstances",
+   "us": "mitigating circumstances"
+  },
+  "ipa": {
+   "uk": "/ˌmɪtɪɡeɪtɪŋ ˈsɜːkəmstənsɪz/",
+   "us": "/ˌmɪtɪɡeɪtɪŋ ˈsɜːrkəmstænsɪz/"
+  },
+  "def": "Facts that do not excuse misconduct but make it less serious, such as long service or personal difficulties.",
+  "registers": {
+   "formal": {
+    "uk": "mitigating circumstances",
+    "us": "mitigating circumstances",
+    "ex": "In deciding on the sanction, the Company has taken into account the [[mitigating circumstances]] you put forward."
+   },
+   "everyday": {
+    "uk": "to make allowances for",
+    "us": "to make allowances for",
+    "ex": "We should [[make allowances for]] what he was going through at home."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to plead mitigation",
+   "to take into account",
+   "length of service",
+   "an aggravating factor"
+  ],
+  "note_fr": "« Attenuating circumstances » existe mais reste rare. Ne confondez pas « to mitigate » (atténuer) et « to militate against » (jouer contre). Le contraire : « aggravating factors ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-048",
+  "level": 2,
+  "fr": "dossier disciplinaire vierge",
+  "term": {
+   "uk": "clean disciplinary record",
+   "us": "clean disciplinary record"
+  },
+  "ipa": {
+   "uk": "/ˌkliːn ˈdɪsəplɪnəri ˌrekɔːd/",
+   "us": "/ˌkliːn ˈdɪsəpləneri ˌrekərd/"
+  },
+  "def": "The fact of never having received a disciplinary sanction.",
+  "registers": {
+   "formal": {
+    "uk": "unblemished record",
+    "us": "unblemished record",
+    "ex": "The tribunal noted the employee's [[unblemished record]] over nineteen years' service."
+   },
+   "everyday": {
+    "uk": "clean record",
+    "us": "clean record",
+    "ex": "She's got a [[clean record]], which makes dismissal for a first offence hard to justify."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a previously clean record",
+   "nothing on file",
+   "a spotless record",
+   "a history of warnings"
+  ],
+  "note_fr": "« Virgin file » fait sourire. Le nom « record » se prononce /ˈrekɔːd/ (accent sur la première syllabe), le verbe /rɪˈkɔːd/. « Track record » désigne les résultats passés, pas le passé disciplinaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-049",
+  "level": 1,
+  "fr": "issue de la procédure / décision",
+  "term": {
+   "uk": "outcome",
+   "us": "outcome"
+  },
+  "ipa": {
+   "uk": "/ˈaʊtkʌm/",
+   "us": "/ˈaʊtkʌm/"
+  },
+  "def": "The decision reached at the end of a disciplinary procedure.",
+  "registers": {
+   "formal": {
+    "uk": "to notify someone of the outcome",
+    "us": "to notify someone of the outcome",
+    "ex": "You will [[be notified of the outcome]] in writing within five working days of the hearing."
+   },
+   "everyday": {
+    "uk": "to let someone know what has been decided",
+    "us": "to let someone know what has been decided",
+    "ex": "We'll [[let you know what's been decided]] by the end of the week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an outcome letter (UK)",
+   "to reach a decision",
+   "the possible outcomes",
+   "pending the outcome"
+  ],
+  "note_fr": "« Issue » est un faux ami : « an issue » = un problème, une question. Pour « l'issue », dites « outcome ». « To notify » est transitif direct de la personne : « to notify the employee of the decision », non « to notify the decision to the employee ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-050",
+  "level": 1,
+  "fr": "lettre de licenciement",
+  "term": {
+   "uk": "dismissal letter",
+   "us": "termination letter"
+  },
+  "ipa": {
+   "uk": "/dɪsˈmɪs(ə)l ˌletə/",
+   "us": "/ˌtɜːrmɪˈneɪʃ(ə)n ˌletər/"
+  },
+  "def": "The letter by which the employer informs the employee of the dismissal and of the reasons for it.",
+  "registers": {
+   "formal": {
+    "uk": "letter of dismissal",
+    "us": "letter of termination",
+    "ex": "The [[letter of dismissal]] must set out the reasons relied on by the employer.",
+    "ex_us": "The [[letter of termination]] must set out the reasons relied on by the employer."
+   },
+   "everyday": {
+    "uk": "dismissal letter",
+    "us": "termination letter",
+    "ex": "Could you look over the [[dismissal letter]] before it goes out?",
+    "ex_us": "Could you look over the [[termination letter]] before it goes out?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draft the dismissal letter",
+   "to send out the letter",
+   "a reasoned letter",
+   "the date the letter was sent"
+  ],
+  "note_fr": "« Licence letter » ou « licensing letter » n'ont aucun rapport (« licence » = autorisation, permis). En France, la lettre doit être motivée et ne peut être expédiée moins de deux jours ouvrables après l'entretien. Aux États-Unis, aucun écrit motivé n'est en principe exigé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-051",
+  "level": 1,
+  "fr": "motif du licenciement",
+  "term": {
+   "uk": "grounds for dismissal",
+   "us": "grounds for termination"
+  },
+  "ipa": {
+   "uk": "/ˌɡraʊndz fə dɪsˈmɪs(ə)l/",
+   "us": "/ˌɡraʊndz fər ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "The reason that legally justifies ending someone's employment.",
+  "registers": {
+   "formal": {
+    "uk": "grounds for dismissal",
+    "us": "grounds for termination",
+    "ex": "Repeated unauthorised absence constitutes [[grounds for dismissal]].",
+    "ex_us": "Repeated unexcused absence constitutes [[grounds for termination]]."
+   },
+   "everyday": {
+    "uk": "reason for dismissing someone",
+    "us": "reason for terminating someone",
+    "ex": "What exactly is our [[reason for dismissing him]]?",
+    "ex_us": "What exactly is our [[reason for terminating him]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on the grounds of misconduct",
+   "on disciplinary grounds",
+   "to have good grounds",
+   "to state the reasons"
+  ],
+  "note_fr": "« Motive » désigne le mobile (d'un crime) : ne l'employez pas pour « motif ». « Grounds » est presque toujours au pluriel ; « on the grounds that... » introduit une proposition, « on grounds of... » un nom.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-052",
+  "level": 3,
+  "fr": "la lettre de licenciement fixe les limites du litige",
+  "term": {
+   "uk": "to define the scope of the dispute",
+   "us": "to define the scope of the dispute"
+  },
+  "ipa": {
+   "uk": "/dɪˌfaɪn ðə ˌskəʊp əv ðə dɪˈspjuːt/",
+   "us": "/dɪˌfaɪn ðə ˌskoʊp əv ðə dɪˈspjuːt/"
+  },
+  "def": "The French rule that an employer who is sued can rely only on the reasons given in the dismissal letter.",
+  "registers": {
+   "formal": {
+    "uk": "to define the scope of the dispute",
+    "us": "to define the scope of the dispute",
+    "ex": "The reasons stated in the dismissal letter [[define the scope of the dispute]]: no other ground may subsequently be relied on."
+   },
+   "everyday": {
+    "uk": "to be stuck with what the letter says",
+    "us": "to be stuck with what the letter says",
+    "ex": "Once it has gone out, we [[are stuck with what the letter says]], so let's get it right."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the reasons relied on",
+   "to rely on a ground",
+   "to clarify the reasons after the event",
+   "a vaguely worded letter"
+  ],
+  "note_fr": "Point capital pour un client anglo-saxon : en France, un motif absent de la lettre ne peut pas être invoqué devant le juge. L'employeur peut seulement préciser les motifs énoncés, dans un bref délai après la notification, non en ajouter. « To rely on » = invoquer, se prévaloir de.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law the dismissal letter defines the scope of the dispute: before the court, the employer may rely only on the reasons stated in that letter.",
+   "spoken": "Whatever we put in the letter is what we'll have to defend in court - we can't come up with new reasons later."
+  }
+ },
+ {
+  "id": "ds-053",
+  "level": 1,
+  "fr": "cause réelle et sérieuse",
+  "term": {
+   "uk": "real and serious cause",
+   "us": "real and serious cause"
+  },
+  "ipa": {
+   "uk": "/ˌrɪəl ən ˌsɪəriəs ˈkɔːz/",
+   "us": "/ˌriːəl ən ˌsɪriəs ˈkɔːz/"
+  },
+  "def": "In French law, the valid reason every dismissal requires: one based on true, verifiable facts that are serious enough to justify ending the contract.",
+  "registers": {
+   "formal": {
+    "uk": "real and serious cause",
+    "us": "real and serious cause",
+    "ex": "A dismissal that is not based on a [[real and serious cause]] entitles the employee to damages."
+   },
+   "everyday": {
+    "uk": "a genuine and serious reason",
+    "us": "a genuine and serious reason",
+    "ex": "In France you need [[a genuine and serious reason]] to dismiss anyone, and you have to be able to prove it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be based on a real and serious cause",
+   "dismissal without real and serious cause",
+   "objective, verifiable facts",
+   "to lack a valid reason"
+  ],
+  "note_fr": "Traduction consacrée, à faire suivre du terme français à la première occurrence. L'équivalent fonctionnel britannique est le « fair reason » ; aux États-Unis, « just cause » n'existe que dans les contrats et conventions collectives, l'emploi « at-will » ne requérant aucun motif.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law, any dismissal must be based on a real and serious cause (cause réelle et sérieuse), that is, on objective, verifiable facts of sufficient gravity to justify termination of the contract.",
+   "spoken": "You always need a genuine reason, backed by facts you can prove, and serious enough to justify ending the contract."
+  }
+ },
+ {
+  "id": "ds-054",
+  "level": 2,
+  "fr": "licenciement pour motif personnel",
+  "term": {
+   "uk": "dismissal for personal reasons",
+   "us": "termination for personal reasons"
+  },
+  "ipa": {
+   "uk": "/dɪsˌmɪs(ə)l fə ˌpɜːs(ə)n(ə)l ˈriːz(ə)nz/",
+   "us": "/ˌtɜːrmɪˌneɪʃ(ə)n fər ˌpɜːrs(ə)n(ə)l ˈriːz(ə)nz/"
+  },
+  "def": "In French law, any dismissal based on a reason relating to the individual employee (conduct, performance, unfitness), as opposed to an economic reason.",
+  "registers": {
+   "formal": {
+    "uk": "dismissal for a reason relating to the employee personally",
+    "us": "termination for a reason relating to the employee personally",
+    "ex": "A [[dismissal for a reason relating to the employee personally]] may be disciplinary or non-disciplinary.",
+    "ex_us": "A [[termination for a reason relating to the employee personally]] may be disciplinary or non-disciplinary."
+   },
+   "everyday": {
+    "uk": "a dismissal that's about the individual",
+    "us": "a termination that's about the individual",
+    "ex": "This is [[a dismissal that's about the individual]], not about the job, so the economic rules don't apply.",
+    "ex_us": "This is [[a termination that's about the individual]], not about the job, so the economic rules don't apply."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "as opposed to dismissal on economic grounds",
+   "a reason inherent in the person",
+   "disciplinary or non-disciplinary"
+  ],
+  "note_fr": "Attention : « personal reasons » évoque en anglais des raisons privées (« he left for personal reasons »). Précisez toujours : « a reason relating to the employee, such as conduct or performance ». Le droit britannique classe plutôt par « conduct », « capability » et « redundancy ».",
+  "french_concept": true,
+  "explain": {
+   "written": "French law distinguishes dismissal for personal reasons (licenciement pour motif personnel), which is based on the employee's conduct, performance or fitness, from dismissal on economic grounds, which is unrelated to the individual.",
+   "spoken": "French law has two families of dismissal: one where the reason is the person - conduct or performance - and one where the reason is economic."
+  }
+ },
+ {
+  "id": "ds-055",
+  "level": 2,
+  "fr": "licenciement disciplinaire",
+  "term": {
+   "uk": "dismissal for misconduct",
+   "us": "termination for misconduct"
+  },
+  "ipa": {
+   "uk": "/dɪsˌmɪs(ə)l fə ˌmɪsˈkɒndʌkt/",
+   "us": "/ˌtɜːrmɪˌneɪʃ(ə)n fər ˌmɪsˈkɑːndʌkt/"
+  },
+  "def": "A dismissal decided as a sanction for something the employee did wrong.",
+  "registers": {
+   "formal": {
+    "uk": "dismissal on disciplinary grounds",
+    "us": "termination on disciplinary grounds",
+    "ex": "A [[dismissal on disciplinary grounds]] must be notified within one month of the meeting.",
+    "ex_us": "A [[termination on disciplinary grounds]] must be notified within one month of the meeting."
+   },
+   "everyday": {
+    "uk": "to be dismissed for misconduct",
+    "us": "to be terminated for misconduct",
+    "ex": "He [[was dismissed for misconduct]], not for poor performance, and the two procedures are different.",
+    "ex_us": "He [[was terminated for misconduct]], not for poor performance, and the two procedures are different."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a conduct dismissal (UK)",
+   "a conduct issue",
+   "to treat a matter as disciplinary",
+   "a non-disciplinary dismissal"
+  ],
+  "note_fr": "Distinction essentielle en France : l'insuffisance professionnelle n'est pas une faute. Se placer à tort sur le terrain disciplinaire prive le licenciement de cause réelle et sérieuse. Le Royaume-Uni distingue de même « conduct » et « capability ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-056",
+  "level": 1,
+  "fr": "notifier le licenciement",
+  "term": {
+   "uk": "to notify someone of their dismissal",
+   "us": "to notify someone of their termination"
+  },
+  "ipa": {
+   "uk": "/ˌnəʊtɪfaɪ ˌsʌmwʌn əv ðeə dɪsˈmɪs(ə)l/",
+   "us": "/ˌnoʊtɪfaɪ ˌsʌmwʌn əv ðer ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "To inform an employee officially that they are being dismissed.",
+  "registers": {
+   "formal": {
+    "uk": "to give written notice of dismissal",
+    "us": "to give written notice of termination",
+    "ex": "The employer must [[give written notice of dismissal]] by registered post.",
+    "ex_us": "The employer must [[give written notice of termination]] by certified mail."
+   },
+   "everyday": {
+    "uk": "to tell someone they are being let go",
+    "us": "to tell someone they are being let go",
+    "ex": "Who's going [[to tell her she's being let go]]?"
+   },
+   "informal": {
+    "uk": "to give someone the bad news",
+    "us": "to give someone the bad news",
+    "ex": "I'd rather [[give him the bad news]] myself than let him hear it from the team."
+   }
+  },
+  "collocations": [
+   "to confirm the dismissal in writing",
+   "the date of notification",
+   "to break the news to someone",
+   "to be informed in person"
+  ],
+  "note_fr": "Construction : « to notify someone of something ». En France, la notification se fait obligatoirement par lettre recommandée, jamais oralement : un licenciement annoncé de vive voix avant l'envoi de la lettre est sans cause réelle et sérieuse.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-057",
+  "level": 2,
+  "fr": "licenciement sans préavis",
+  "term": {
+   "uk": "summary dismissal",
+   "us": "immediate termination"
+  },
+  "ipa": {
+   "uk": "/ˌsʌməri dɪsˈmɪs(ə)l/",
+   "us": "/ɪˌmiːdiət ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "Dismissal that takes effect at once, without any notice period, because of very serious misconduct.",
+  "registers": {
+   "formal": {
+    "uk": "summary dismissal",
+    "us": "immediate termination",
+    "ex": "Gross misconduct will normally result in [[summary dismissal]].",
+    "ex_us": "Gross misconduct will normally result in [[immediate termination]]."
+   },
+   "everyday": {
+    "uk": "to be dismissed without notice",
+    "us": "to be terminated without notice",
+    "ex": "She [[was dismissed without notice]] after the cash went missing.",
+    "ex_us": "She [[was terminated without notice]] after the cash went missing."
+   },
+   "informal": {
+    "uk": "to be sacked on the spot",
+    "us": "to be fired on the spot",
+    "ex": "He [[was sacked on the spot]] for hitting a colleague.",
+    "ex_us": "He [[was fired on the spot]] for hitting a coworker."
+   }
+  },
+  "collocations": [
+   "to dismiss summarily",
+   "instant dismissal",
+   "without notice or payment in lieu",
+   "to justify summary dismissal"
+  ],
+  "note_fr": "« Summary » signifie ici « sans préavis », non « sans procédure » : même pour une faute grave, il faut un entretien préalable en France et une audience disciplinaire au Royaume-Uni. « Summarily » se prononce /ˈsʌmərəli/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-058",
+  "level": 2,
+  "fr": "à effet immédiat",
+  "term": {
+   "uk": "with immediate effect",
+   "us": "effective immediately"
+  },
+  "ipa": {
+   "uk": "/wɪð ɪˌmiːdiət ɪˈfekt/",
+   "us": "/ɪˌfektɪv ɪˈmiːdiətli/"
+  },
+  "def": "Starting now, without any delay or notice.",
+  "registers": {
+   "formal": {
+    "uk": "with immediate effect",
+    "us": "effective immediately",
+    "ex": "Your employment is terminated [[with immediate effect]].",
+    "ex_us": "Your employment is terminated [[effective immediately]]."
+   },
+   "everyday": {
+    "uk": "as of today",
+    "us": "as of today",
+    "ex": "[[As of today]], he's no longer on the payroll."
+   },
+   "informal": {
+    "uk": "there and then",
+    "us": "then and there",
+    "ex": "They took his badge off him [[there and then]].",
+    "ex_us": "They took his badge from him [[then and there]]."
+   }
+  },
+  "collocations": [
+   "to take effect on receipt of this letter",
+   "from the date of this letter",
+   "with effect from 1 June",
+   "forthwith"
+  ],
+  "note_fr": "« Immediately effective » ne se dit pas. Notez l'inversion des deux formules : « with immediate effect » (UK) et « effective immediately » (US). « With effect from » + date est la tournure standard pour une prise d'effet différée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-059",
+  "level": 3,
+  "fr": "être privé de (ses indemnités)",
+  "term": {
+   "uk": "to forfeit",
+   "us": "to forfeit"
+  },
+  "ipa": {
+   "uk": "/ˈfɔːfɪt/",
+   "us": "/ˈfɔːrfɪt/"
+  },
+  "def": "To lose a right or a payment as a consequence of one's own conduct.",
+  "registers": {
+   "formal": {
+    "uk": "to forfeit",
+    "us": "to forfeit",
+    "ex": "An employee dismissed for gross misconduct [[forfeits]] both notice and statutory severance pay."
+   },
+   "everyday": {
+    "uk": "to lose out on",
+    "us": "to lose out on",
+    "ex": "If it's gross misconduct, he [[loses out on]] his severance."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to forfeit the right to",
+   "to be deprived of",
+   "to lose one's entitlement",
+   "forfeiture of a bonus"
+  ],
+  "note_fr": "« Forfeit » se prononce /ˈfɔːfɪt/ (comme « fit ») et n'a aucun rapport avec « forfait » (« flat rate », « package »). En France, même en cas de faute grave ou lourde, l'indemnité compensatrice de congés payés reste due.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-060",
+  "level": 1,
+  "fr": "licenciement abusif / injustifié",
+  "term": {
+   "uk": "unfair dismissal",
+   "us": "wrongful termination"
+  },
+  "ipa": {
+   "uk": "/ˌʌnfeə dɪsˈmɪs(ə)l/",
+   "us": "/ˌrɔːŋf(ə)l ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "A dismissal that the law treats as unjustified or improperly carried out, giving the employee a claim against the employer.",
+  "registers": {
+   "formal": {
+    "uk": "unfair dismissal",
+    "us": "wrongful termination",
+    "ex": "The claimant brought a complaint of [[unfair dismissal]] before the employment tribunal.",
+    "ex_us": "The plaintiff filed a [[wrongful termination]] suit in state court."
+   },
+   "everyday": {
+    "uk": "to be unfairly dismissed",
+    "us": "to be wrongfully terminated",
+    "ex": "She's convinced she [[was unfairly dismissed]], and she may well have a point.",
+    "ex_us": "She's convinced she [[was wrongfully terminated]], and she may well have a point."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to claim unfair dismissal",
+   "an unfair dismissal claim",
+   "automatically unfair (UK)",
+   "dismissal without real and serious cause (France)"
+  ],
+  "note_fr": "Trois notions à ne pas confondre. France : licenciement sans cause réelle et sérieuse. Royaume-Uni : « unfair dismissal », droit légal soumis à une condition d'ancienneté. États-Unis : « wrongful termination », limité aux cas où la rupture viole la loi, l'ordre public ou un contrat. « Abusive dismissal » est un calque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-061",
+  "level": 3,
+  "fr": "licenciement en violation du contrat (« wrongful dismissal »)",
+  "term": {
+   "uk": "wrongful dismissal",
+   "us": "wrongful dismissal"
+  },
+  "ipa": {
+   "uk": "/ˌrɒŋf(ə)l dɪsˈmɪs(ə)l/",
+   "us": "/ˌrɔːŋf(ə)l dɪsˈmɪs(ə)l/"
+  },
+  "def": "In English law, a dismissal in breach of the contract of employment, typically without the notice the contract requires.",
+  "registers": {
+   "formal": {
+    "uk": "wrongful dismissal",
+    "us": "wrongful dismissal",
+    "ex": "Having been dismissed without notice in the absence of gross misconduct, he succeeded in his claim for [[wrongful dismissal]]."
+   },
+   "everyday": {
+    "uk": "to be dismissed in breach of contract",
+    "us": "to be dismissed in breach of contract",
+    "ex": "Strictly speaking, she [[was dismissed in breach of contract]], because they never paid her notice."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a wrongful dismissal claim",
+   "damages for the notice period",
+   "as distinct from unfair dismissal"
+  ],
+  "note_fr": "Au Royaume-Uni, « wrongful » (contraire au contrat : préavis non respecté) et « unfair » (contraire à la loi : absence de motif ou de procédure équitable) sont deux actions distinctes et cumulables. Aux États-Unis, « wrongful termination » ou « wrongful discharge » a un sens plus large.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-062",
+  "level": 3,
+  "fr": "motif légitime de licenciement (droit britannique)",
+  "term": {
+   "uk": "potentially fair reason",
+   "us": "potentially fair reason"
+  },
+  "ipa": {
+   "uk": "/pəˌtenʃ(ə)li ˌfeə ˈriːz(ə)n/",
+   "us": "/pəˌtenʃ(ə)li ˌfer ˈriːz(ə)n/"
+  },
+  "def": "In UK law, one of the categories of reason (conduct, capability, redundancy, a legal bar, or some other substantial reason) that can justify a dismissal.",
+  "registers": {
+   "formal": {
+    "uk": "potentially fair reason",
+    "us": "potentially fair reason",
+    "ex": "The employer must first show that the dismissal was for a [[potentially fair reason]], such as conduct or capability."
+   },
+   "everyday": {
+    "uk": "a fair reason",
+    "us": "a fair reason",
+    "ex": "Do we have [[a fair reason]], and can we show we went about it properly?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "conduct, capability or redundancy",
+   "some other substantial reason (SOSR)",
+   "to act reasonably in all the circumstances",
+   "the reason shown by the employer"
+  ],
+  "note_fr": "Notion britannique sans équivalent américain. « Potentially » : avoir un motif légitime ne suffit pas, l'employeur doit en outre avoir agi raisonnablement et suivi une procédure équitable. Rapprochez-la de la cause réelle et sérieuse sans les assimiler.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-063",
+  "level": 3,
+  "fr": "marge d'appréciation de l'employeur raisonnable (droit britannique)",
+  "term": {
+   "uk": "band of reasonable responses",
+   "us": "band of reasonable responses"
+  },
+  "ipa": {
+   "uk": "/ˌbænd əv ˌriːz(ə)nəb(ə)l rɪˈspɒnsɪz/",
+   "us": "/ˌbænd əv ˌriːz(ə)nəb(ə)l rɪˈspɑːnsɪz/"
+  },
+  "def": "The UK test under which a dismissal is fair if a reasonable employer could have decided to dismiss in the same circumstances.",
+  "registers": {
+   "formal": {
+    "uk": "to fall within the band of reasonable responses",
+    "us": "to fall within the band of reasonable responses",
+    "ex": "The tribunal found that dismissal [[fell within the band of reasonable responses]] open to the employer."
+   },
+   "everyday": {
+    "uk": "something a reasonable employer might have done",
+    "us": "something a reasonable employer might have done",
+    "ex": "The question isn't whether we'd have sacked him ourselves, but whether it's [[something a reasonable employer might have done]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a reasonable employer",
+   "to substitute one's own view",
+   "outside the range of reasonable responses"
+  ],
+  "note_fr": "Le juge britannique ne substitue pas sa propre appréciation à celle de l'employeur ; le juge français, lui, contrôle directement le caractère réel et sérieux du motif. Utile pour expliquer à un client britannique pourquoi le contrôle français lui paraît plus strict.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-064",
+  "level": 2,
+  "fr": "respecter la procédure",
+  "term": {
+   "uk": "to follow a fair procedure",
+   "us": "to follow the proper procedure"
+  },
+  "ipa": {
+   "uk": "/ˌfɒləʊ ə ˌfeə prəˈsiːdʒə/",
+   "us": "/ˌfɑːloʊ ðə ˌprɑːpər prəˈsiːdʒər/"
+  },
+  "def": "To carry out each step that the law or the company's rules require before dismissing or disciplining someone.",
+  "registers": {
+   "formal": {
+    "uk": "to follow a fair procedure",
+    "us": "to follow the proper procedure",
+    "ex": "Even where the reason is sound, the employer must [[follow a fair procedure]].",
+    "ex_us": "Even where the reason is sound, the employer must [[follow the proper procedure]]."
+   },
+   "everyday": {
+    "uk": "to do things properly",
+    "us": "to do things properly",
+    "ex": "It'll take three weeks longer, but we need [[to do things properly]]."
+   },
+   "informal": {
+    "uk": "to do it by the book",
+    "us": "to do it by the book",
+    "ex": "With his lawyer watching every step, we have [[to do it by the book]]."
+   }
+  },
+  "collocations": [
+   "to comply with the procedure",
+   "to skip a step",
+   "to cut corners",
+   "procedural fairness"
+  ],
+  "note_fr": "« To respect the procedure » est un calque : on « follows » ou on « complies with » une procédure. « Due process » se dit surtout aux États-Unis. « To cut corners » = brûler les étapes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-065",
+  "level": 3,
+  "fr": "irrégularité de procédure",
+  "term": {
+   "uk": "procedural flaw",
+   "us": "procedural flaw"
+  },
+  "ipa": {
+   "uk": "/prəˌsiːdʒərəl ˈflɔː/",
+   "us": "/prəˌsiːdʒərəl ˈflɔː/"
+  },
+  "def": "A failure to follow one of the required steps of a procedure correctly.",
+  "registers": {
+   "formal": {
+    "uk": "procedural irregularity",
+    "us": "procedural irregularity",
+    "ex": "A [[procedural irregularity]] does not in itself deprive the dismissal of real and serious cause, but it does give rise to compensation."
+   },
+   "everyday": {
+    "uk": "a slip in the procedure",
+    "us": "a slip in the procedure",
+    "ex": "One [[slip in the procedure]] and we hand his lawyer an easy argument."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a procedural defect",
+   "to be procedurally unfair (UK)",
+   "to cure a defect on appeal",
+   "a technicality"
+  ],
+  "note_fr": "En France, on distingue l'irrégularité de procédure (indemnité limitée) de l'absence de cause réelle et sérieuse. Au Royaume-Uni, un vice de procédure peut à lui seul rendre le licenciement « unfair ». « A technicality » = un point de pure forme.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-066",
+  "level": 3,
+  "fr": "motif fallacieux / prétexte",
+  "term": {
+   "uk": "pretext",
+   "us": "pretext"
+  },
+  "ipa": {
+   "uk": "/ˈpriːtekst/",
+   "us": "/ˈpriːtekst/"
+  },
+  "def": "A false reason given to hide the real reason for a dismissal.",
+  "registers": {
+   "formal": {
+    "uk": "pretext",
+    "us": "pretext",
+    "ex": "The court found that the alleged restructuring was a mere [[pretext]] for removing an employee who had complained."
+   },
+   "everyday": {
+    "uk": "an excuse",
+    "us": "an excuse",
+    "ex": "Everyone could see the reorganisation was just [[an excuse]] to get rid of her.",
+    "ex_us": "Everyone could see the reorganization was just [[an excuse]] to get rid of her."
+   },
+   "informal": {
+    "uk": "a trumped-up reason",
+    "us": "a trumped-up reason",
+    "ex": "They sacked him for some [[trumped-up reason]] about his expenses.",
+    "ex_us": "They fired him for some [[trumped-up reason]] about his expenses."
+   }
+  },
+  "collocations": [
+   "a sham redundancy (UK)",
+   "pretextual (US)",
+   "the real reason for the dismissal",
+   "on the pretext of"
+  ],
+  "note_fr": "Aux États-Unis, « pretext » est un terme technique du contentieux de la discrimination : le salarié cherche à montrer que le motif invoqué est « pretextual ». « Sham » = fictif, de façade.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-067",
+  "level": 3,
+  "fr": "licenciement nul",
+  "term": {
+   "uk": "void dismissal",
+   "us": "void termination"
+  },
+  "ipa": {
+   "uk": "/ˌvɔɪd dɪsˈmɪs(ə)l/",
+   "us": "/ˌvɔɪd ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "In French law, a dismissal treated as never having taken place because it breaches a fundamental right or a statutory protection.",
+  "registers": {
+   "formal": {
+    "uk": "null and void",
+    "us": "null and void",
+    "ex": "A dismissal on a discriminatory ground is [[null and void]], and the employee may ask to return to his or her job."
+   },
+   "everyday": {
+    "uk": "not to stand",
+    "us": "not to stand",
+    "ex": "If the judge decides she was dismissed because she was pregnant, the dismissal [[won't stand]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to declare a dismissal void",
+   "to breach a fundamental freedom",
+   "to be entitled to return to one's job",
+   "automatically unfair dismissal (UK)"
+  ],
+  "note_fr": "À distinguer du licenciement sans cause réelle et sérieuse : la nullité vise les cas les plus graves (discrimination, harcèlement, maternité, atteinte à une liberté fondamentale, salarié protégé licencié sans autorisation). L'analogue britannique le plus proche est l'« automatically unfair dismissal ».",
+  "french_concept": true,
+  "explain": {
+   "written": "A dismissal is void (licenciement nul) under French law where it infringes a fundamental freedom or a specific statutory protection; the employee may then seek either a return to the job or enhanced compensation.",
+   "spoken": "In the worst cases, such as discrimination, the dismissal is simply cancelled: legally, it's as if it never happened."
+  }
+ },
+ {
+  "id": "ds-068",
+  "level": 3,
+  "fr": "salarié protégé",
+  "term": {
+   "uk": "protected employee",
+   "us": "protected employee"
+  },
+  "ipa": {
+   "uk": "/prəˌtektɪd ɪmˈplɔɪiː/",
+   "us": "/prəˌtektɪd ɪmˈplɔɪiː/"
+  },
+  "def": "In France, an employee, typically a staff or union representative, who cannot be dismissed without prior authorisation from the labour inspector.",
+  "registers": {
+   "formal": {
+    "uk": "protected employee",
+    "us": "protected employee",
+    "ex": "The dismissal of a [[protected employee]] is subject to the prior authorisation of the labour inspector.",
+    "ex_us": "The dismissal of a [[protected employee]] is subject to the prior authorization of the labor inspector."
+   },
+   "everyday": {
+    "uk": "to have protected status",
+    "us": "to have protected status",
+    "ex": "He sits on the works council, so he [[has protected status]] and we can't move without the labour inspector.",
+    "ex_us": "He sits on the works council, so he [[has protected status]] and we can't move without the labor inspector."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to seek authorisation from the labour inspector",
+   "an employee representative",
+   "to enjoy special protection",
+   "a refusal of authorisation"
+  ],
+  "note_fr": "Ne confondez pas avec « protected class » ou « protected characteristic », qui relèvent du droit de la discrimination. Ni le Royaume-Uni ni les États-Unis n'exigent d'autorisation administrative préalable au licenciement d'un représentant du personnel.",
+  "french_concept": true,
+  "explain": {
+   "written": "A salarié protégé is an employee, in particular a staff or trade union representative, whose dismissal requires the prior authorisation of the labour inspectorate, failing which it is void.",
+   "spoken": "Employee reps have special protection in France: you can't dismiss them without the labour inspector's green light first."
+  }
+ },
+ {
+  "id": "ds-069",
+  "level": 1,
+  "fr": "insuffisance professionnelle",
+  "term": {
+   "uk": "poor performance",
+   "us": "poor performance"
+  },
+  "ipa": {
+   "uk": "/ˌpɔː pəˈfɔːməns/",
+   "us": "/ˌpʊr pərˈfɔːrməns/"
+  },
+  "def": "A failure to do one's job to the standard the employer can reasonably expect, without any deliberate wrongdoing.",
+  "registers": {
+   "formal": {
+    "uk": "unsatisfactory performance",
+    "us": "unsatisfactory performance",
+    "ex": "The dismissal is based on [[unsatisfactory performance]], evidenced by the facts set out below."
+   },
+   "everyday": {
+    "uk": "underperformance",
+    "us": "underperformance",
+    "ex": "We've been living with his [[underperformance]] for a year; it's time to deal with it."
+   },
+   "informal": {
+    "uk": "not to be up to the job",
+    "us": "not to be up to the job",
+    "ex": "Between ourselves, she's just [[not up to the job]]."
+   }
+  },
+  "collocations": [
+   "an underperformer",
+   "a performance issue",
+   "to address poor performance",
+   "to manage performance"
+  ],
+  "note_fr": "« Professional insufficiency » ne veut rien dire en anglais. « Performance » est ici indénombrable. En France, l'insuffisance professionnelle n'est pas fautive : le licenciement est non disciplinaire et doit reposer sur des faits précis, l'employeur ayant fourni moyens et formation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-070",
+  "level": 1,
+  "fr": "ne pas atteindre ses objectifs",
+  "term": {
+   "uk": "to miss one's targets",
+   "us": "to miss one's goals"
+  },
+  "ipa": {
+   "uk": "/ˌmɪs wʌnz ˈtɑːɡɪts/",
+   "us": "/ˌmɪs wʌnz ˈɡoʊlz/"
+  },
+  "def": "To fail to reach the results one was asked to achieve.",
+  "registers": {
+   "formal": {
+    "uk": "to fail to meet one's objectives",
+    "us": "to fail to meet one's objectives",
+    "ex": "You [[have failed to meet your objectives]] for three consecutive quarters."
+   },
+   "everyday": {
+    "uk": "to miss one's targets",
+    "us": "to miss one's numbers",
+    "ex": "He's [[missed his targets]] three quarters in a row.",
+    "ex_us": "He's [[missed his numbers]] three quarters in a row."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hit a target",
+   "to fall short of target",
+   "realistic and achievable objectives",
+   "a sales target"
+  ],
+  "note_fr": "On « meets », « hits » ou « reaches » un objectif ; on ne l'« attains » guère et on ne le « realises » pas. En France, l'insuffisance de résultats ne justifie un licenciement que si les objectifs étaient réalistes et si l'échec est imputable au salarié.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-071",
+  "level": 1,
+  "fr": "faire part de ses préoccupations",
+  "term": {
+   "uk": "to raise concerns",
+   "us": "to raise concerns"
+  },
+  "ipa": {
+   "uk": "/ˌreɪz kənˈsɜːnz/",
+   "us": "/ˌreɪz kənˈsɜːrnz/"
+  },
+  "def": "To tell someone formally or informally that there is a problem that needs attention.",
+  "registers": {
+   "formal": {
+    "uk": "to raise concerns",
+    "us": "to raise concerns",
+    "ex": "Your manager [[raised concerns]] about the quality of your reports on three occasions."
+   },
+   "everyday": {
+    "uk": "to flag",
+    "us": "to flag",
+    "ex": "I [[flagged]] it with him back in the spring, so it won't come as a surprise."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to raise a concern with someone",
+   "to address someone's concerns",
+   "serious concerns about performance",
+   "to bring something to someone's attention"
+  ],
+  "note_fr": "« To raise » (transitif : soulever) et non « to rise » (intransitif : monter). « To flag something (up) » = signaler. Préférez « concerns » à « problems » : plus diplomatique, et tout aussi clair.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-072",
+  "level": 2,
+  "fr": "ne pas être à la hauteur des attentes",
+  "term": {
+   "uk": "to fall short of expectations",
+   "us": "to fall short of expectations"
+  },
+  "ipa": {
+   "uk": "/ˌfɔːl ˌʃɔːt əv ˌekspekˈteɪʃ(ə)nz/",
+   "us": "/ˌfɔːl ˌʃɔːrt əv ˌekspekˈteɪʃ(ə)nz/"
+  },
+  "def": "To be less good than was expected or required.",
+  "registers": {
+   "formal": {
+    "uk": "to fall short of the required standard",
+    "us": "to fall short of the required standard",
+    "ex": "Your work continues [[to fall short of the required standard]] despite the support provided."
+   },
+   "everyday": {
+    "uk": "not to be up to scratch",
+    "us": "not to be up to par",
+    "ex": "His last two reports [[weren't up to scratch]].",
+    "ex_us": "His last two reports [[weren't up to par]]."
+   },
+   "informal": {
+    "uk": "not to cut it",
+    "us": "not to cut it",
+    "ex": "I like him, but he's just [[not cutting it]] in a client-facing role."
+   }
+  },
+  "collocations": [
+   "to meet the required standard",
+   "below expectations",
+   "to fall well short",
+   "a gap between expected and actual performance"
+  ],
+  "note_fr": "« Not up to scratch » est britannique, « not up to par » plutôt américain. « To be at the height » est un calque. « He's not cutting it » est familier : à réserver aux échanges entre collègues, jamais devant l'intéressé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-073",
+  "level": 2,
+  "fr": "axes d'amélioration",
+  "term": {
+   "uk": "areas for improvement",
+   "us": "areas for improvement"
+  },
+  "ipa": {
+   "uk": "/ˌeəriəz fər ɪmˈpruːvmənt/",
+   "us": "/ˌeriəz fər ɪmˈpruːvmənt/"
+  },
+  "def": "The specific aspects of someone's work that need to get better.",
+  "registers": {
+   "formal": {
+    "uk": "areas requiring improvement",
+    "us": "areas requiring improvement",
+    "ex": "The plan identifies three [[areas requiring improvement]] and the standard expected in each."
+   },
+   "everyday": {
+    "uk": "things to work on",
+    "us": "things to work on",
+    "ex": "We agreed on three [[things to work on]] before the next review."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to identify shortcomings",
+   "to close the gap",
+   "development areas",
+   "strengths and weaknesses"
+  ],
+  "note_fr": "« Axes of improvement » est un calque très répandu chez les francophones. « Shortcomings » = lacunes, plus direct ; « development areas » est l'euphémisme RH. « Weaknesses » peut blesser dans un écrit remis au salarié.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-074",
+  "level": 1,
+  "fr": "plan d'amélioration des performances",
+  "term": {
+   "uk": "performance improvement plan",
+   "us": "performance improvement plan"
+  },
+  "ipa": {
+   "uk": "/pəˌfɔːməns ɪmˈpruːvmənt ˌplæn/",
+   "us": "/pərˌfɔːrməns ɪmˈpruːvmənt ˌplæn/"
+  },
+  "def": "A written plan that sets out what an underperforming employee must improve, by when, and with what support.",
+  "registers": {
+   "formal": {
+    "uk": "performance improvement plan",
+    "us": "performance improvement plan",
+    "ex": "You will be placed on a [[performance improvement plan]] for a period of three months."
+   },
+   "everyday": {
+    "uk": "PIP",
+    "us": "PIP",
+    "ex": "She's been on a [[PIP]] since January and the numbers are finally moving."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to put someone on a PIP",
+   "to be on a PIP",
+   "to come off a PIP",
+   "the terms of the plan"
+  ],
+  "note_fr": "« PIP » se prononce comme un mot : /pɪp/. Courant au Royaume-Uni et aux États-Unis, le dispositif n'a pas de statut légal en France, où il sert surtout à prouver que le salarié a été alerté et accompagné. Mal conduit, il peut être perçu comme une sanction déguisée ou une mise sous pression.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-075",
+  "level": 1,
+  "fr": "point d'étape",
+  "term": {
+   "uk": "review meeting",
+   "us": "review meeting"
+  },
+  "ipa": {
+   "uk": "/rɪˈvjuː ˌmiːtɪŋ/",
+   "us": "/rɪˈvjuː ˌmiːtɪŋ/"
+  },
+  "def": "A meeting held at regular intervals to look at the progress made since the last one.",
+  "registers": {
+   "formal": {
+    "uk": "review meeting",
+    "us": "review meeting",
+    "ex": "A [[review meeting]] will be held every fortnight for the duration of the plan.",
+    "ex_us": "A [[review meeting]] will be held every two weeks for the duration of the plan."
+   },
+   "everyday": {
+    "uk": "catch-up",
+    "us": "check-in",
+    "ex": "Let's have a quick [[catch-up]] every other Friday to see how it's going.",
+    "ex_us": "Let's have a quick [[check-in]] every other Friday to see how it's going."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to review progress",
+   "a mid-point review",
+   "to schedule regular reviews",
+   "at the end of the review period"
+  ],
+  "note_fr": "« Point » ne se traduit pas : « to make a point » = faire valoir un argument. Dites « to have a catch-up », « to touch base » ou « to review progress ». « Fortnight » (quinze jours) est britannique et inconnu de la plupart des Américains.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-076",
+  "level": 2,
+  "fr": "laisser une chance réelle de s'améliorer",
+  "term": {
+   "uk": "to give someone a reasonable opportunity to improve",
+   "us": "to give someone a reasonable opportunity to improve"
+  },
+  "ipa": {
+   "uk": "/ˌɡɪv ˌsʌmwʌn ə ˌriːz(ə)nəb(ə)l ˌɒpəˌtjuːnəti tu ɪmˈpruːv/",
+   "us": "/ˌɡɪv ˌsʌmwʌn ə ˌriːz(ə)nəb(ə)l ˌɑːpərˌtuːnəti tu ɪmˈpruːv/"
+  },
+  "def": "To allow an underperforming employee enough time and support to reach the required standard before any decision is taken.",
+  "registers": {
+   "formal": {
+    "uk": "a reasonable opportunity to improve",
+    "us": "a reasonable opportunity to improve",
+    "ex": "The employee must be given [[a reasonable opportunity to improve]], together with appropriate training and support."
+   },
+   "everyday": {
+    "uk": "a fair chance",
+    "us": "a fair chance",
+    "ex": "Three weeks isn't [[a fair chance]]; let's give her three months and some proper coaching."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "with appropriate support",
+   "within a reasonable timescale",
+   "to provide training",
+   "to turn things around"
+  ],
+  "note_fr": "« Opportunity » et non « occasion » (qui désigne un événement). « To turn things around » = redresser la situation. Dans les trois pays, c'est ce point que le juge ou l'avocat adverse examinera en premier : délai, moyens, formation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-077",
+  "level": 2,
+  "fr": "prolonger la période d'observation",
+  "term": {
+   "uk": "to extend the review period",
+   "us": "to extend the review period"
+  },
+  "ipa": {
+   "uk": "/ɪkˌstend ðə rɪˈvjuː ˌpɪəriəd/",
+   "us": "/ɪkˌstend ðə rɪˈvjuː ˌpɪriəd/"
+  },
+  "def": "To give an employee on an improvement plan more time before a final assessment is made.",
+  "registers": {
+   "formal": {
+    "uk": "to extend the review period",
+    "us": "to extend the review period",
+    "ex": "In view of the progress made, the Company has decided [[to extend the review period]] by six weeks."
+   },
+   "everyday": {
+    "uk": "to give it another month",
+    "us": "to give it another month",
+    "ex": "He's nearly there, so I'd [[give it another month]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a further review period",
+   "by mutual agreement",
+   "to reassess at the end of the period",
+   "to bring the plan to a close"
+  ],
+  "note_fr": "« To prolong » existe mais s'emploie surtout pour ce qui dure trop (« to prolong the agony ») ; pour un délai, on dit « to extend ». De même « an extension », non « a prolongation ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-078",
+  "level": 3,
+  "fr": "amélioration durable",
+  "term": {
+   "uk": "sustained improvement",
+   "us": "sustained improvement"
+  },
+  "ipa": {
+   "uk": "/səˌsteɪnd ɪmˈpruːvmənt/",
+   "us": "/səˌsteɪnd ɪmˈpruːvmənt/"
+  },
+  "def": "Progress that is maintained over time and does not slip back once the pressure is off.",
+  "registers": {
+   "formal": {
+    "uk": "sustained improvement",
+    "us": "sustained improvement",
+    "ex": "Failure to achieve a [[sustained improvement]] may lead to further action, including dismissal."
+   },
+   "everyday": {
+    "uk": "to keep it up",
+    "us": "to keep it up",
+    "ex": "The last two months have been good; the question is whether he can [[keep it up]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to achieve and maintain the required standard",
+   "to slip back",
+   "a marked improvement",
+   "to backslide"
+  ],
+  "note_fr": "« Sustained » (qui se maintient) n'est pas « sustainable » (durable au sens écologique ou économique). « To slip back » = retomber dans ses travers. « A marked improvement » = une nette amélioration.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-079",
+  "level": 2,
+  "fr": "procédure pour insuffisance professionnelle (UK)",
+  "term": {
+   "uk": "capability procedure",
+   "us": "performance management process"
+  },
+  "ipa": {
+   "uk": "/ˌkeɪpəˈbɪləti prəˌsiːdʒə/",
+   "us": "/pərˌfɔːrməns ˈmænɪdʒmənt ˌprɑːses/"
+  },
+  "def": "The formal process an employer follows when an employee cannot do the job to the required standard, as opposed to refusing to.",
+  "registers": {
+   "formal": {
+    "uk": "capability procedure",
+    "us": "performance management process",
+    "ex": "Matters of poor performance are dealt with under the [[capability procedure]], not the disciplinary procedure.",
+    "ex_us": "Matters of poor performance are dealt with under the [[performance management process]], not the disciplinary procedure."
+   },
+   "everyday": {
+    "uk": "to performance-manage someone",
+    "us": "to performance-manage someone",
+    "ex": "We've been [[performance-managing]] him since the autumn.",
+    "ex_us": "We've been [[performance-managing]] him since the fall."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a capability dismissal (UK)",
+   "can't versus won't",
+   "a first-stage capability meeting",
+   "ill-health capability"
+  ],
+  "note_fr": "Au Royaume-Uni, « capability » recouvre l'insuffisance professionnelle et l'inaptitude pour raison de santé. La distinction « can't / won't » (ne peut pas / ne veut pas) recoupe la distinction française entre insuffisance professionnelle et faute.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-080",
+  "level": 2,
+  "fr": "constituer un dossier / garder des traces écrites",
+  "term": {
+   "uk": "to document",
+   "us": "to document"
+  },
+  "ipa": {
+   "uk": "/ˈdɒkjument/",
+   "us": "/ˈdɑːkjument/"
+  },
+  "def": "To keep written records of events so that they can be proved later.",
+  "registers": {
+   "formal": {
+    "uk": "to keep a written record of",
+    "us": "to keep a written record of",
+    "ex": "Managers are required [[to keep a written record of]] every performance discussion."
+   },
+   "everyday": {
+    "uk": "to document",
+    "us": "to document",
+    "ex": "If it isn't [[documented]], it didn't happen."
+   },
+   "informal": {
+    "uk": "to leave a paper trail",
+    "us": "to leave a paper trail",
+    "ex": "Follow up every conversation with an email so that you [[leave a paper trail]]."
+   }
+  },
+  "collocations": [
+   "well-documented concerns",
+   "to put something in writing",
+   "contemporaneous notes",
+   "to build a case"
+  ],
+  "note_fr": "« To constitute a file » est un calque. « To build a case against someone » se dit, mais suggère une intention de nuire : devant un client, parlez plutôt de « documenting the issues ». « Contemporaneous notes » = notes prises sur le moment.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-081",
+  "level": 3,
+  "fr": "fixer des objectifs inatteignables (pour justifier un départ)",
+  "term": {
+   "uk": "to set someone up to fail",
+   "us": "to set someone up to fail"
+  },
+  "ipa": {
+   "uk": "/ˌset ˌsʌmwʌn ʌp tə ˈfeɪl/",
+   "us": "/ˌset ˌsʌmwʌn ʌp tə ˈfeɪl/"
+  },
+  "def": "To put someone in a situation, for instance by setting impossible targets, in which they cannot succeed.",
+  "registers": {
+   "formal": {
+    "uk": "to set unattainable objectives",
+    "us": "to set unattainable objectives",
+    "ex": "A plan that [[sets unattainable objectives]] cannot be relied on as evidence of poor performance."
+   },
+   "everyday": {
+    "uk": "to set someone up to fail",
+    "us": "to set someone up to fail",
+    "ex": "Doubling her target in the middle of a PIP looks like we're [[setting her up to fail]]."
+   },
+   "informal": {
+    "uk": "to move the goalposts",
+    "us": "to move the goalposts",
+    "ex": "Every time he gets close, his manager [[moves the goalposts]]."
+   }
+  },
+  "collocations": [
+   "a foregone conclusion",
+   "a sham process",
+   "a box-ticking exercise",
+   "a genuine attempt to help"
+  ],
+  "note_fr": "« To move the goalposts » = changer les règles en cours de route. « A foregone conclusion » = une issue jouée d'avance. Un PIP perçu comme une formalité préalable au licenciement fragilise le dossier, en France comme ailleurs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-082",
+  "level": 3,
+  "fr": "pousser quelqu'un vers la sortie",
+  "term": {
+   "uk": "to manage someone out",
+   "us": "to manage someone out"
+  },
+  "ipa": {
+   "uk": "/ˌmænɪdʒ ˌsʌmwʌn ˈaʊt/",
+   "us": "/ˌmænɪdʒ ˌsʌmwʌn ˈaʊt/"
+  },
+  "def": "To use performance procedures or pressure with the real aim of getting an employee to leave.",
+  "registers": {
+   "formal": {
+    "uk": "to engineer an employee's departure",
+    "us": "to engineer an employee's departure",
+    "ex": "The claimant alleged that the plan had been used [[to engineer her departure]]."
+   },
+   "everyday": {
+    "uk": "to manage someone out",
+    "us": "to manage someone out",
+    "ex": "Be honest with me: are we trying to help him improve or [[to manage him out]]?"
+   },
+   "informal": {
+    "uk": "to ease someone out",
+    "us": "to push someone out",
+    "ex": "They [[eased him out]] after the merger.",
+    "ex_us": "They [[pushed him out]] after the merger."
+   }
+  },
+  "collocations": [
+   "to be managed out of the business",
+   "to be edged out",
+   "to see the writing on the wall"
+  ],
+  "note_fr": "Jargon RH que l'on entend en réunion mais que l'on n'écrit jamais : dans un courriel, la formule peut devenir une pièce à charge. « To see the writing on the wall » = comprendre que la fin est proche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-083",
+  "level": 1,
+  "fr": "licenciement économique",
+  "term": {
+   "uk": "redundancy",
+   "us": "layoff"
+  },
+  "ipa": {
+   "uk": "/rɪˈdʌndənsi/",
+   "us": "/ˈleɪɔːf/"
+  },
+  "def": "The loss of a job because the employer no longer needs the position, not because of anything the employee has done.",
+  "registers": {
+   "formal": {
+    "uk": "dismissal by reason of redundancy",
+    "us": "termination as part of a layoff",
+    "ex": "The [[dismissal by reason of redundancy]] of an employee presupposes that the job itself has ceased to exist.",
+    "ex_us": "The [[termination as part of a layoff]] of an employee presupposes that the job itself has ceased to exist."
+   },
+   "everyday": {
+    "uk": "redundancy",
+    "us": "layoff",
+    "ex": "There were forty [[redundancies]] at the Leeds site last year.",
+    "ex_us": "There were forty [[layoffs]] at the Ohio plant last year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a redundancy situation (UK)",
+   "a round of layoffs (US)",
+   "to face redundancy",
+   "dismissal on economic grounds (France)"
+  ],
+  "note_fr": "« Economic dismissal » se comprend mais n'est pas idiomatique ; pour le droit français, écrivez « dismissal on economic grounds ». Au Royaume-Uni, « lay-off » désigne une mise en chômage technique temporaire, non un licenciement : gare au malentendu transatlantique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-084",
+  "level": 1,
+  "fr": "licencier pour motif économique",
+  "term": {
+   "uk": "to make someone redundant",
+   "us": "to lay someone off"
+  },
+  "ipa": {
+   "uk": "/ˌmeɪk ˌsʌmwʌn rɪˈdʌndənt/",
+   "us": "/ˌleɪ ˌsʌmwʌn ˈɔːf/"
+  },
+  "def": "To end someone's employment because their job is no longer needed.",
+  "registers": {
+   "formal": {
+    "uk": "to dismiss by reason of redundancy",
+    "us": "to lay off",
+    "ex": "Twelve employees will [[be dismissed by reason of redundancy]] at the end of the quarter.",
+    "ex_us": "Twelve employees will [[be laid off]] at the end of the quarter."
+   },
+   "everyday": {
+    "uk": "to make someone redundant",
+    "us": "to lay someone off",
+    "ex": "They [[made her redundant]] when the Paris office closed.",
+    "ex_us": "They [[laid her off]] when the Paris office closed."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be made redundant",
+   "to be laid off",
+   "to lose one's job",
+   "to be let go"
+  ],
+  "note_fr": "Attention à la construction : « she was made redundant », jamais « she was redundanced » ni « she was fired » (qui suppose une faute). « Laid off » : participe irrégulier de « to lay ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-085",
+  "level": 3,
+  "fr": "motif économique",
+  "term": {
+   "uk": "economic grounds",
+   "us": "economic grounds"
+  },
+  "ipa": {
+   "uk": "/ˌiːkəˌnɒmɪk ˈɡraʊndz/",
+   "us": "/ˌekəˌnɑːmɪk ˈɡraʊndz/"
+  },
+  "def": "In French law, the reasons unrelated to the individual employee (such as economic difficulties or technological change) that can justify a dismissal.",
+  "registers": {
+   "formal": {
+    "uk": "on economic grounds",
+    "us": "on economic grounds",
+    "ex": "A dismissal [[on economic grounds]] is one made for reasons unrelated to the employee personally, resulting from the elimination or transformation of the job."
+   },
+   "everyday": {
+    "uk": "for business reasons",
+    "us": "for business reasons",
+    "ex": "It has nothing to do with her work; the job is going [[for business reasons]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "economic difficulties",
+   "technological change",
+   "a reorganisation needed to safeguard competitiveness",
+   "the closure of the business"
+  ],
+  "note_fr": "« Economic » (relatif à l'économie) et non « economical » (économe, peu coûteux). Le droit français énumère des causes précises et contrôle leur réalité ; aux États-Unis, la décision relève du « business judgment » de l'employeur et n'a pas à être justifiée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-086",
+  "level": 2,
+  "fr": "licenciement économique individuel",
+  "term": {
+   "uk": "individual dismissal on economic grounds",
+   "us": "individual layoff"
+  },
+  "ipa": {
+   "uk": "/ˌɪndɪˌvɪdʒuəl dɪsˌmɪs(ə)l ɒn ˌiːkəˌnɒmɪk ˈɡraʊndz/",
+   "us": "/ˌɪndɪˌvɪdʒuəl ˈleɪɔːf/"
+  },
+  "def": "In French law, the dismissal of a single employee for an economic reason, which follows its own procedure, distinct from collective dismissals.",
+  "registers": {
+   "formal": {
+    "uk": "individual dismissal on economic grounds",
+    "us": "individual dismissal on economic grounds",
+    "ex": "An [[individual dismissal on economic grounds]] requires a pre-dismissal meeting and a prior search for an alternative position."
+   },
+   "everyday": {
+    "uk": "a single redundancy",
+    "us": "a one-off layoff",
+    "ex": "It's [[a single redundancy]], so the procedure is fairly light, but it's still a procedure.",
+    "ex_us": "It's [[a one-off layoff]], so the procedure is fairly light, but it's still a procedure."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a stand-alone redundancy",
+   "to look for an alternative position first",
+   "as opposed to a collective procedure"
+  ],
+  "note_fr": "Même pour un seul poste, l'employeur français doit justifier du motif économique, rechercher un reclassement et tenir un entretien préalable. Les licenciements collectifs obéissent à des règles propres, traitées dans un autre thème.",
+  "french_concept": true,
+  "explain": {
+   "written": "An individual dismissal on economic grounds (licenciement économique individuel) is the dismissal of one employee for a reason unrelated to him or her personally; it is subject to a specific procedure including a pre-dismissal meeting.",
+   "spoken": "Even if you're cutting just one job for economic reasons, there's a set procedure - a meeting, a letter, and a search for another role first."
+  }
+ },
+ {
+  "id": "ds-087",
+  "level": 1,
+  "fr": "suppression de postes",
+  "term": {
+   "uk": "job cuts",
+   "us": "job cuts"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌkʌts/",
+   "us": "/ˈdʒɑːb ˌkʌts/"
+  },
+  "def": "The removal of a number of jobs from an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "the elimination of positions",
+    "us": "the elimination of positions",
+    "ex": "The plan provides for [[the elimination of positions]] in the finance department."
+   },
+   "everyday": {
+    "uk": "job cuts",
+    "us": "job cuts",
+    "ex": "The [[job cuts]] were announced on Monday morning."
+   },
+   "informal": {
+    "uk": "to axe jobs",
+    "us": "to ax jobs",
+    "ex": "The group is [[axing jobs]] across Europe."
+   }
+  },
+  "collocations": [
+   "to cut jobs",
+   "job losses",
+   "to shed staff",
+   "the post has been eliminated"
+  ],
+  "note_fr": "« Suppression » en anglais signifie répression ou dissimulation (« suppression of evidence ») : ne dites pas « job suppression ». « To axe » appartient au style journalistique. En droit français, c'est le poste qui est supprimé, non la personne.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-088",
+  "level": 1,
+  "fr": "réorganisation / restructuration",
+  "term": {
+   "uk": "restructuring",
+   "us": "restructuring"
+  },
+  "ipa": {
+   "uk": "/ˌriːˈstrʌktʃərɪŋ/",
+   "us": "/ˌriːˈstrʌktʃərɪŋ/"
+  },
+  "def": "A significant change to the way a company or department is organised, often involving job losses.",
+  "registers": {
+   "formal": {
+    "uk": "restructuring",
+    "us": "restructuring",
+    "ex": "The proposed [[restructuring]] will result in the closure of two regional offices."
+   },
+   "everyday": {
+    "uk": "reorganisation",
+    "us": "reorganization",
+    "ex": "After the [[reorganisation]], her role simply disappeared.",
+    "ex_us": "After the [[reorganization]], her role simply disappeared."
+   },
+   "informal": {
+    "uk": "shake-up",
+    "us": "shake-up",
+    "ex": "There's a big [[shake-up]] coming in the sales team."
+   }
+  },
+  "collocations": [
+   "to undergo a restructuring",
+   "a restructuring plan",
+   "to streamline the business",
+   "to merge two departments"
+  ],
+  "note_fr": "« Restructuration » n'existe pas : le nom est « restructuring ». « To rationalise » et « to streamline » sont des euphémismes fréquents ; « downsizing » et « rightsizing » appartiennent au jargon managérial américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-089",
+  "level": 1,
+  "fr": "indemnité légale de licenciement",
+  "term": {
+   "uk": "statutory severance pay",
+   "us": "statutory severance pay"
+  },
+  "ipa": {
+   "uk": "/ˌstætʃʊt(ə)ri ˈsev(ə)rəns ˌpeɪ/",
+   "us": "/ˌstætʃətɔːri ˈsev(ə)rəns ˌpeɪ/"
+  },
+  "def": "The minimum sum the law requires an employer to pay an employee who is dismissed, calculated on length of service.",
+  "registers": {
+   "formal": {
+    "uk": "statutory severance pay",
+    "us": "statutory severance pay",
+    "ex": "Employees with the required length of service are entitled to [[statutory severance pay]], save in the event of gross misconduct."
+   },
+   "everyday": {
+    "uk": "severance",
+    "us": "severance",
+    "ex": "How much [[severance]] would she get after twelve years?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be entitled to severance pay",
+   "calculated on length of service",
+   "statutory redundancy pay (UK)",
+   "a severance payment"
+  ],
+  "note_fr": "« Indemnity » ne convient pas (c'est une garantie contre un préjudice). Au Royaume-Uni, la seule indemnité légale est le « statutory redundancy pay », réservé au licenciement économique. Aux États-Unis, le droit fédéral n'impose aucune « severance » : elle est contractuelle ou négociée. En France, elle est due au-delà d'une ancienneté minimale, sauf faute grave ou lourde.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-090",
+  "level": 3,
+  "fr": "indemnité conventionnelle de licenciement",
+  "term": {
+   "uk": "severance pay under the collective agreement",
+   "us": "severance pay under the collective agreement"
+  },
+  "ipa": {
+   "uk": "/ˈsev(ə)rəns ˌpeɪ ˌʌndə ðə kəˌlektɪv əˈɡriːmənt/",
+   "us": "/ˈsev(ə)rəns ˌpeɪ ˌʌndər ðə kəˌlektɪv əˈɡriːmənt/"
+  },
+  "def": "In France, the severance pay laid down by the applicable collective agreement, which replaces the statutory amount whenever it is higher.",
+  "registers": {
+   "formal": {
+    "uk": "severance pay provided for by the collective agreement",
+    "us": "severance pay provided for by the collective agreement",
+    "ex": "The employee is entitled to the [[severance pay provided for by the collective agreement]] where it is more favourable than the statutory amount.",
+    "ex_us": "The employee is entitled to the [[severance pay provided for by the collective agreement]] where it is more favorable than the statutory amount."
+   },
+   "everyday": {
+    "uk": "the enhanced rate under the collective agreement",
+    "us": "the enhanced rate under the collective agreement",
+    "ex": "Check the sector agreement: [[the enhanced rate under the collective agreement]] is often well above the legal minimum."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "whichever is the higher",
+   "more favourable than the statutory minimum",
+   "enhanced redundancy pay (UK)",
+   "contractual severance"
+  ],
+  "note_fr": "« Conventional » signifie « classique, traditionnel » : « conventional severance » est un contresens. Les deux indemnités ne se cumulent pas : seule la plus favorable est versée. « Enhanced » = supérieur au minimum légal.",
+  "french_concept": true,
+  "explain": {
+   "written": "The indemnité conventionnelle de licenciement is the severance pay fixed by the applicable collective agreement; it is paid in place of the statutory severance pay whenever it is more favourable to the employee.",
+   "spoken": "Most sector agreements set their own severance scale. The employee gets whichever is higher - the legal minimum or the agreement's figure."
+  }
+ },
+ {
+  "id": "ds-091",
+  "level": 2,
+  "fr": "indemnité compensatrice de congés payés",
+  "term": {
+   "uk": "pay in lieu of untaken holiday",
+   "us": "payout of accrued vacation"
+  },
+  "ipa": {
+   "uk": "/ˌpeɪ ɪn ˌljuː əv ʌnˌteɪkən ˈhɒlədeɪ/",
+   "us": "/ˌpeɪaʊt əv əˌkruːd veɪˈkeɪʃ(ə)n/"
+  },
+  "def": "The sum paid at the end of the contract for leave the employee has earned but not taken.",
+  "registers": {
+   "formal": {
+    "uk": "payment in lieu of accrued but untaken holiday",
+    "us": "payment for accrued but unused vacation",
+    "ex": "Your final salary will include a [[payment in lieu of accrued but untaken holiday]].",
+    "ex_us": "Your final paycheck will include a [[payment for accrued but unused vacation]]."
+   },
+   "everyday": {
+    "uk": "to be paid for the holiday one hasn't taken",
+    "us": "to be paid out for unused vacation",
+    "ex": "You'll [[be paid for the holiday you haven't taken]], whatever the reason for leaving.",
+    "ex_us": "You'll [[be paid out for unused vacation]], whatever the reason for leaving."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "accrued holiday",
+   "holiday entitlement",
+   "to carry over leave",
+   "unused PTO (US)"
+  ],
+  "note_fr": "« In lieu » se prononce /ɪn ˈljuː/ ou /ɪn ˈluː/. « To accrue » = acquérir progressivement. En France, cette indemnité est due quel que soit le motif de la rupture, faute lourde comprise. Aux États-Unis, tout dépend de l'État et de la politique de l'entreprise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-092",
+  "level": 2,
+  "fr": "solde de tout compte",
+  "term": {
+   "uk": "final pay",
+   "us": "final paycheck"
+  },
+  "ipa": {
+   "uk": "/ˌfaɪn(ə)l ˈpeɪ/",
+   "us": "/ˌfaɪn(ə)l ˈpeɪtʃek/"
+  },
+  "def": "All the sums still owed to an employee when the contract ends, and, in France, the document listing them that the employee is asked to sign.",
+  "registers": {
+   "formal": {
+    "uk": "receipt for final payment",
+    "us": "receipt for final payment",
+    "ex": "On your last day you will be asked to sign a [[receipt for final payment]] listing the sums paid to you."
+   },
+   "everyday": {
+    "uk": "final pay",
+    "us": "final paycheck",
+    "ex": "Your [[final pay]] will go through with the March payroll.",
+    "ex_us": "Your [[final paycheck]] will go out with the March payroll."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to settle up with an employee",
+   "sums due on termination",
+   "to sign for one's final pay",
+   "to challenge the receipt"
+  ],
+  "note_fr": "N'employez pas « settlement » seul, qui évoque une transaction. En France, le reçu pour solde de tout compte peut être dénoncé par le salarié dans un délai limité après sa signature ; le signer ne vaut donc pas renonciation à agir. Rien de tel au Royaume-Uni ni aux États-Unis.",
+  "french_concept": true,
+  "explain": {
+   "written": "The solde de tout compte is the statement of all sums paid to the employee on termination; the employee signs a receipt for it, which he or she may nonetheless challenge within a limited period.",
+   "spoken": "It's the final pay statement: everything we owe on the last day, listed on one document that the employee signs to say they've received it."
+  }
+ },
+ {
+  "id": "ds-093",
+  "level": 2,
+  "fr": "documents de fin de contrat",
+  "term": {
+   "uk": "leaving documents",
+   "us": "separation documents"
+  },
+  "ipa": {
+   "uk": "/ˈliːvɪŋ ˌdɒkjumənts/",
+   "us": "/ˌsepəˈreɪʃ(ə)n ˌdɑːkjumənts/"
+  },
+  "def": "The documents an employer must give an employee when the contract ends.",
+  "registers": {
+   "formal": {
+    "uk": "end-of-contract documents",
+    "us": "end-of-contract documents",
+    "ex": "The [[end-of-contract documents]], including the certificate of employment, will be made available to you on your last day."
+   },
+   "everyday": {
+    "uk": "leaving paperwork",
+    "us": "separation paperwork",
+    "ex": "Payroll will send your [[leaving paperwork]] by the end of the month.",
+    "ex_us": "Payroll will send your [[separation paperwork]] by the end of the month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a certificate of employment",
+   "the unemployment insurance certificate",
+   "a P45 (UK)",
+   "to issue the documents without delay"
+  ],
+  "note_fr": "En France : certificat de travail, attestation destinée à l'assurance chômage et reçu pour solde de tout compte. Au Royaume-Uni, le document clé est le « P45 » ; aux États-Unis, il n'existe pas de liste fédérale uniforme. « Certificate of employment » n'est pas une lettre de recommandation (« reference »).",
+  "french_concept": true,
+  "explain": {
+   "written": "On termination, a French employer must provide a set of end-of-contract documents: a certificate of employment, a certificate for the unemployment insurance body and a receipt for final payment.",
+   "spoken": "When someone leaves, we have to hand over three documents: a work certificate, a form for the unemployment office and the final pay statement."
+  }
+ },
+ {
+  "id": "ds-094",
+  "level": 2,
+  "fr": "restituer le matériel de l'entreprise",
+  "term": {
+   "uk": "to return company property",
+   "us": "to return company property"
+  },
+  "ipa": {
+   "uk": "/rɪˌtɜːn ˌkʌmpəni ˈprɒpəti/",
+   "us": "/rɪˌtɜːrn ˌkʌmpəni ˈprɑːpərti/"
+  },
+  "def": "To give back everything that belongs to the employer when one leaves.",
+  "registers": {
+   "formal": {
+    "uk": "to return all company property",
+    "us": "to return all company property",
+    "ex": "You are required [[to return all company property]], including your laptop, access badge and any documents, by your last working day."
+   },
+   "everyday": {
+    "uk": "to hand back",
+    "us": "to turn in",
+    "ex": "Don't forget [[to hand back]] your laptop and your pass.",
+    "ex_us": "Don't forget [[to turn in]] your laptop and your badge."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hand in one's badge",
+   "to clear one's desk",
+   "an access pass",
+   "to revoke someone's access"
+  ],
+  "note_fr": "« Material » = matière, matériau ; pour le matériel, dites « equipment » ou « property ». « To give back » est correct mais familier ; « to restitute » n'existe pas dans cet emploi. « To clear one's desk » = vider son bureau.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-095",
+  "level": 3,
+  "fr": "raccompagner quelqu'un à la sortie",
+  "term": {
+   "uk": "to escort someone off the premises",
+   "us": "to escort someone off the premises"
+  },
+  "ipa": {
+   "uk": "/ɪˌskɔːt ˌsʌmwʌn ɒf ðə ˈpremɪsɪz/",
+   "us": "/ɪˌskɔːrt ˌsʌmwʌn ɔːf ðə ˈpremɪsɪz/"
+  },
+  "def": "To accompany a dismissed or suspended employee out of the building.",
+  "registers": {
+   "formal": {
+    "uk": "to escort someone from the premises",
+    "us": "to escort someone from the premises",
+    "ex": "Following the meeting, you [[were escorted from the premises]] and your access rights were withdrawn."
+   },
+   "everyday": {
+    "uk": "to walk someone out",
+    "us": "to walk someone out",
+    "ex": "Security [[walked him out]] in front of the whole floor, which was completely unnecessary."
+   },
+   "informal": {
+    "uk": "to march someone out",
+    "us": "to march someone out",
+    "ex": "She [[was marched out]] of the building like a criminal."
+   }
+  },
+  "collocations": [
+   "on the premises",
+   "to be shown the door",
+   "to withdraw access rights",
+   "to collect one's belongings"
+  ],
+  "note_fr": "« Premises » (toujours pluriel) = les locaux. Le verbe « to escort » est accentué sur la seconde syllabe. Pratique courante aux États-Unis ; en France, des circonstances humiliantes ou vexatoires peuvent ouvrir droit à des dommages-intérêts distincts, même si le licenciement est fondé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-096",
+  "level": 1,
+  "fr": "recours interne (contre la sanction)",
+  "term": {
+   "uk": "internal appeal",
+   "us": "internal appeal"
+  },
+  "ipa": {
+   "uk": "/ɪnˌtɜːn(ə)l əˈpiːl/",
+   "us": "/ɪnˌtɜːrn(ə)l əˈpiːl/"
+  },
+  "def": "A request, made within the company, for a more senior manager to review a disciplinary decision.",
+  "registers": {
+   "formal": {
+    "uk": "to appeal against the decision",
+    "us": "to appeal the decision",
+    "ex": "You have the right [[to appeal against the decision]] within five working days of receiving this letter.",
+    "ex_us": "You have the right [[to appeal the decision]] within five business days of receiving this letter."
+   },
+   "everyday": {
+    "uk": "to appeal",
+    "us": "to appeal",
+    "ex": "She's got a week [[to appeal]] if she thinks the warning is unfair."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the right of appeal",
+   "to lodge an appeal",
+   "an appeal hearing",
+   "the grounds of appeal"
+  ],
+  "note_fr": "« To appeal against a decision » (UK), « to appeal a decision » (US, sans préposition). Offrir un recours interne est une exigence de bonne pratique au Royaume-Uni (code Acas) ; la loi française n'en prévoit pas, sauf convention collective ou règlement intérieur. « To appeal to someone » = plaire à quelqu'un !",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-097",
+  "level": 2,
+  "fr": "confirmer (une décision)",
+  "term": {
+   "uk": "to uphold",
+   "us": "to uphold"
+  },
+  "ipa": {
+   "uk": "/ʌpˈhəʊld/",
+   "us": "/ʌpˈhoʊld/"
+  },
+  "def": "To decide, after reviewing it, that an earlier decision was right and should stand.",
+  "registers": {
+   "formal": {
+    "uk": "to uphold",
+    "us": "to uphold",
+    "ex": "Having considered your grounds of appeal, I have decided [[to uphold]] the original decision."
+   },
+   "everyday": {
+    "uk": "to stand by",
+    "us": "to stick with",
+    "ex": "The regional director [[stood by]] the warning.",
+    "ex_us": "The regional director [[stuck with]] the warning."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to uphold a decision",
+   "to uphold an appeal",
+   "the decision stands",
+   "to dismiss an appeal"
+  ],
+  "note_fr": "Piège : « to uphold a decision » = confirmer la décision (le salarié perd), mais « to uphold an appeal » ou « a complaint » = y faire droit (le salarié gagne). Verbe irrégulier : upheld. « To confirm » est possible, mais moins précis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-098",
+  "level": 2,
+  "fr": "annuler (une décision)",
+  "term": {
+   "uk": "to overturn",
+   "us": "to overturn"
+  },
+  "ipa": {
+   "uk": "/ˌəʊvəˈtɜːn/",
+   "us": "/ˌoʊvərˈtɜːrn/"
+  },
+  "def": "To decide that an earlier decision was wrong and cancel it.",
+  "registers": {
+   "formal": {
+    "uk": "to overturn",
+    "us": "to overturn",
+    "ex": "The appeal manager [[overturned]] the dismissal and substituted a final written warning."
+   },
+   "everyday": {
+    "uk": "to reverse",
+    "us": "to reverse",
+    "ex": "They [[reversed]] the decision once the CCTV footage turned up."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to overturn a decision on appeal",
+   "to substitute a lesser sanction",
+   "to reinstate the employee",
+   "to quash a warning"
+  ],
+  "note_fr": "« To annul » est réservé au mariage et aux actes juridiques ; « to cancel » à un rendez-vous ou une commande. Pour une décision : « to overturn », « to reverse », ou « to quash » (plus juridique). « To substitute a lesser sanction » = prononcer une sanction moindre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-099",
+  "level": 2,
+  "fr": "licenciement pour motif valable (« for cause », États-Unis)",
+  "term": {
+   "uk": "termination for cause",
+   "us": "termination for cause"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmɪˌneɪʃ(ə)n fə ˈkɔːz/",
+   "us": "/ˌtɜːrmɪˌneɪʃ(ə)n fər ˈkɔːz/"
+  },
+  "def": "Termination based on a reason attributable to the employee, as defined in the contract or company policy, usually with loss of severance or other benefits.",
+  "registers": {
+   "formal": {
+    "uk": "termination for cause",
+    "us": "termination for cause",
+    "ex": "In the event of [[termination for cause]], the Executive shall not be entitled to any severance payment."
+   },
+   "everyday": {
+    "uk": "to be dismissed for cause",
+    "us": "to be fired for cause",
+    "ex": "If he [[is dismissed for cause]], he walks away with nothing.",
+    "ex_us": "If he [[is fired for cause]], he walks away with nothing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to define 'cause' in the contract",
+   "a for-cause termination",
+   "good cause",
+   "just cause"
+  ],
+  "note_fr": "Notion contractuelle, surtout américaine : « cause » est défini clause par clause (fraude, condamnation, manquement grave...). Ne la confondez pas avec la cause réelle et sérieuse, exigée par la loi française pour tout licenciement. « Just cause » se rencontre dans les conventions collectives américaines.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ds-100",
+  "level": 2,
+  "fr": "rupture sans motif à l'initiative de l'employeur (États-Unis)",
+  "term": {
+   "uk": "termination without cause",
+   "us": "termination without cause"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmɪˌneɪʃ(ə)n wɪˌðaʊt ˈkɔːz/",
+   "us": "/ˌtɜːrmɪˌneɪʃ(ə)n wɪˌðaʊt ˈkɔːz/"
+  },
+  "def": "Termination by the employer for no stated reason, which is lawful under the US at-will rule unless the real reason is an illegal one.",
+  "registers": {
+   "formal": {
+    "uk": "to terminate without cause",
+    "us": "to terminate without cause",
+    "ex": "The Company may at any time [[terminate without cause]] the employment of any at-will employee."
+   },
+   "everyday": {
+    "uk": "to let someone go without giving a reason",
+    "us": "to let someone go without giving a reason",
+    "ex": "In most US states you can [[let someone go without giving a reason]], but not for an illegal one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "with or without cause",
+   "with or without notice",
+   "an unlawful reason",
+   "severance on termination without cause"
+  ],
+  "note_fr": "Inconcevable en France et, passé la période requise, au Royaume-Uni. « Without cause » ne signifie pas « sans risque » : discrimination et représailles restent interdites. À l'inverse, un client américain entendra « France requires cause » comme une contrainte très forte : prenez le temps de l'expliquer.",
+  "french_concept": false,
+  "explain": null
+ }
+]

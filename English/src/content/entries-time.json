@@ -1,0 +1,3846 @@
+[
+ {
+  "id": "tm-001",
+  "level": 1,
+  "fr": "la durée légale du travail (35 heures)",
+  "term": {
+   "uk": "the 35-hour week",
+   "us": "the 35-hour workweek"
+  },
+  "ipa": {
+   "uk": "/ðə ˌθɜːti faɪv aʊə ˈwiːk/",
+   "us": "/ðə ˌθɜːrti faɪv aʊr ˈwɜːrkwiːk/"
+  },
+  "def": "The statutory working week in France: 35 hours for a full-time employee, above which hours count as overtime.",
+  "registers": {
+   "formal": {
+    "uk": "statutory working week",
+    "us": "statutory workweek",
+    "ex": "The [[statutory working week]] in France is thirty-five hours; any hours worked beyond that threshold attract overtime compensation.",
+    "ex_us": "The [[statutory workweek]] in France is thirty-five hours; any hours worked beyond that threshold trigger overtime compensation."
+   },
+   "everyday": {
+    "uk": "the 35-hour week",
+    "us": "the 35-hour workweek",
+    "ex": "People assume [[the 35-hour week]] is a cap, but it's really just the point where overtime kicks in.",
+    "ex_us": "People assume [[the 35-hour workweek]] is a cap, but it's really just the point where overtime kicks in."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to work a 35-hour week",
+   "above the statutory threshold",
+   "a 39-hour contract"
+  ],
+  "note_fr": "Les 35 heures sont un seuil de déclenchement des heures supplémentaires, pas un plafond : c'est le contresens le plus répandu chez les interlocuteurs étrangers. Ne dites pas « legal duration of work » (calque) mais « statutory working week ». US : « workweek » en un mot ; le seuil fédéral des heures supplémentaires y est de 40 heures.",
+  "french_concept": true,
+  "explain": {
+   "written": "the statutory working week of thirty-five hours, which is the threshold above which overtime is payable rather than a maximum",
+   "spoken": "In France the standard week is 35 hours. You can work more than that - it just counts as overtime."
+  }
+ },
+ {
+  "id": "tm-002",
+  "level": 1,
+  "fr": "heures supplémentaires",
+  "term": {
+   "uk": "overtime",
+   "us": "overtime"
+  },
+  "ipa": {
+   "uk": "/ˈəʊvətaɪm/",
+   "us": "/ˈoʊvərtaɪm/"
+  },
+  "def": "Hours worked in addition to an employee's normal or statutory working hours.",
+  "registers": {
+   "formal": {
+    "uk": "overtime hours",
+    "us": "overtime hours",
+    "ex": "Any [[overtime hours]] must be authorised in advance by the Employee's line manager.",
+    "ex_us": "Any [[overtime hours]] must be authorized in advance by the Employee's supervisor."
+   },
+   "everyday": {
+    "uk": "overtime",
+    "us": "overtime",
+    "ex": "We've had a lot of [[overtime]] in the warehouse this month."
+   },
+   "informal": {
+    "uk": "OT",
+    "us": "OT",
+    "ex": "He's been picking up plenty of [[OT]] on the weekend shifts."
+   }
+  },
+  "collocations": [
+   "paid overtime",
+   "unpaid overtime",
+   "an overtime request",
+   "to claim overtime"
+  ],
+  "note_fr": "« Overtime » est indénombrable : on dit « ten hours of overtime », jamais « ten overtimes » ni « supplementary hours » (calque). Aux États-Unis, seuls les salariés « non-exempt » y ont droit ; au Royaume-Uni, la loi n'impose aucune majoration, tout dépend du contrat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-003",
+  "level": 1,
+  "fr": "faire des heures supplémentaires",
+  "term": {
+   "uk": "to work overtime",
+   "us": "to work overtime"
+  },
+  "ipa": {
+   "uk": "/tə wɜːk ˈəʊvətaɪm/",
+   "us": "/tə wɜːrk ˈoʊvərtaɪm/"
+  },
+  "def": "To work more hours than your normal working time.",
+  "registers": {
+   "formal": {
+    "uk": "to work overtime",
+    "us": "to work overtime",
+    "ex": "Employees may be required [[to work overtime]] where the needs of the business so demand."
+   },
+   "everyday": {
+    "uk": "to do overtime",
+    "us": "to work overtime",
+    "ex": "I can [[do overtime]] on Thursday if you're short-staffed.",
+    "ex_us": "I can [[work overtime]] on Thursday if you're short-staffed."
+   },
+   "informal": {
+    "uk": "to put in extra hours",
+    "us": "to put in extra hours",
+    "ex": "The whole team [[put in extra hours]] to get the payroll out on time."
+   }
+  },
+  "collocations": [
+   "to be asked to work overtime",
+   "to refuse overtime",
+   "voluntary overtime",
+   "compulsory overtime"
+  ],
+  "note_fr": "On dit « to work overtime » ou, au Royaume-Uni, « to do overtime » ; jamais « to make overtime » (calque de « faire »). En France, le salarié ne peut en principe pas refuser les heures supplémentaires demandées dans les limites légales : précisez-le à un Britannique, pour qui tout dépend du contrat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-004",
+  "level": 1,
+  "fr": "planning / tableau de service",
+  "term": {
+   "uk": "rota",
+   "us": "schedule"
+  },
+  "ipa": {
+   "uk": "/ˈrəʊtə/",
+   "us": "/ˈskedʒuːl/"
+  },
+  "def": "A plan showing which employees work at which times.",
+  "registers": {
+   "formal": {
+    "uk": "work schedule",
+    "us": "work schedule",
+    "ex": "The [[work schedule]] shall be communicated to employees no later than seven days in advance."
+   },
+   "everyday": {
+    "uk": "rota",
+    "us": "schedule",
+    "ex": "Has next week's [[rota]] gone up yet?",
+    "ex_us": "Has next week's [[schedule]] been posted yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draw up the rota",
+   "to be on the rota",
+   "a weekly rota",
+   "a change to the schedule"
+  ],
+  "note_fr": "« Planning » n'existe pas dans ce sens en anglais : dites « rota » (UK, pour le travail en équipes) ou « schedule » (US et universel). Prononciation de « schedule » : /ˈʃedjuːl/ au Royaume-Uni, /ˈskedʒuːl/ aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-005",
+  "level": 1,
+  "fr": "pointer (à l'arrivée / au départ)",
+  "term": {
+   "uk": "to clock in",
+   "us": "to clock in"
+  },
+  "ipa": {
+   "uk": "/tə klɒk ˈɪn/",
+   "us": "/tə klɑːk ˈɪn/"
+  },
+  "def": "To record the time you start or finish work, usually on a machine or an app.",
+  "registers": {
+   "formal": {
+    "uk": "to record one's arrival and departure times",
+    "us": "to record one's arrival and departure times",
+    "ex": "All hourly-paid staff are required [[to record their arrival and departure times]] using the electronic system."
+   },
+   "everyday": {
+    "uk": "to clock in",
+    "us": "to clock in",
+    "ex": "Don't forget to [[clock in]] when you get to the site."
+   },
+   "informal": {
+    "uk": "to punch in",
+    "us": "to punch in",
+    "ex": "She [[punched in]] ten minutes late again this morning."
+   }
+  },
+  "collocations": [
+   "to clock in and out",
+   "to clock off",
+   "a time clock",
+   "clocking-in data"
+  ],
+  "note_fr": "« To clock in / on » à l'arrivée, « to clock out / off » au départ. « To punch in / out » est surtout américain. Faux ami : « to point » ne veut jamais dire pointer. La badgeuse : « time clock ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-006",
+  "level": 1,
+  "fr": "feuille de temps",
+  "term": {
+   "uk": "timesheet",
+   "us": "timesheet"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪmʃiːt/",
+   "us": "/ˈtaɪmʃiːt/"
+  },
+  "def": "A record of the hours or days an employee has worked, often split by task or client.",
+  "registers": {
+   "formal": {
+    "uk": "timesheet",
+    "us": "timesheet",
+    "ex": "Each [[timesheet]] must be submitted by the employee and approved by the line manager before the monthly payroll cut-off.",
+    "ex_us": "Each [[timesheet]] must be submitted by the employee and approved by the supervisor before the monthly payroll cutoff."
+   },
+   "everyday": {
+    "uk": "timesheet",
+    "us": "timesheet",
+    "ex": "Could you get your [[timesheet]] in by Friday, please?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fill in a timesheet",
+   "to submit a timesheet",
+   "to approve a timesheet",
+   "a weekly timesheet"
+  ],
+  "note_fr": "UK : « to fill in a timesheet » ; US : « to fill out a timesheet ». Évitez « time sheet of presence » ou « presence sheet » (calques de « feuille de présence »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-007",
+  "level": 1,
+  "fr": "pause",
+  "term": {
+   "uk": "break",
+   "us": "break"
+  },
+  "ipa": {
+   "uk": "/breɪk/",
+   "us": "/breɪk/"
+  },
+  "def": "A short period during the working day when an employee stops working to rest.",
+  "registers": {
+   "formal": {
+    "uk": "rest break",
+    "us": "rest break",
+    "ex": "Employees are entitled to an uninterrupted [[rest break]] of at least twenty minutes once they have worked six hours."
+   },
+   "everyday": {
+    "uk": "break",
+    "us": "break",
+    "ex": "Let's take a ten-minute [[break]] and pick this up again at eleven."
+   },
+   "informal": {
+    "uk": "breather",
+    "us": "breather",
+    "ex": "You've been at it since eight. Go and have a [[breather]].",
+    "ex_us": "You've been at it since eight. Go take a [[breather]]."
+   }
+  },
+  "collocations": [
+   "to take a break",
+   "to be on a break",
+   "a paid break",
+   "a coffee break"
+  ],
+  "note_fr": "« To take a break » ou « to have a break » (UK), jamais « to make a break » ni « a pause ». En France comme au Royaume-Uni, vingt minutes de pause sont dues au-delà de six heures de travail ; le droit fédéral américain n'impose aucune pause.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-008",
+  "level": 1,
+  "fr": "pause déjeuner",
+  "term": {
+   "uk": "lunch break",
+   "us": "lunch break"
+  },
+  "ipa": {
+   "uk": "/ˈlʌntʃ breɪk/",
+   "us": "/ˈlʌntʃ breɪk/"
+  },
+  "def": "The period in the middle of the working day when employees stop work to eat.",
+  "registers": {
+   "formal": {
+    "uk": "meal break",
+    "us": "meal period",
+    "ex": "The [[meal break]] is unpaid and does not count as working time.",
+    "ex_us": "The [[meal period]] is unpaid and does not count as hours worked."
+   },
+   "everyday": {
+    "uk": "lunch break",
+    "us": "lunch break",
+    "ex": "I usually take my [[lunch break]] around one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be at lunch",
+   "an hour for lunch",
+   "to work through lunch"
+  ],
+  "note_fr": "« I'm at lunch » ou « I'm on my lunch break », pas « I'm in lunch pause ». Aux États-Unis, « meal period » est le terme des textes sur la durée du travail (wage and hour) ; certains États l'imposent, pas le droit fédéral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-009",
+  "level": 1,
+  "fr": "travail posté / travail en équipes",
+  "term": {
+   "uk": "shift work",
+   "us": "shift work"
+  },
+  "ipa": {
+   "uk": "/ˈʃɪft wɜːk/",
+   "us": "/ˈʃɪft wɜːrk/"
+  },
+  "def": "A way of organising work in which different groups of employees work at different times of the day or night.",
+  "registers": {
+   "formal": {
+    "uk": "shift work",
+    "us": "shift work",
+    "ex": "Employees engaged in [[shift work]] are covered by the specific provisions of the company agreement."
+   },
+   "everyday": {
+    "uk": "shifts",
+    "us": "shifts",
+    "ex": "Most of the production staff work [[shifts]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a shift worker",
+   "to work shifts",
+   "a shift pattern",
+   "a shift allowance"
+  ],
+  "note_fr": "« To work shifts » ou « to work in shifts » = travailler en équipes. Ne traduisez pas « travail en équipes » par « teamwork », qui désigne le travail collaboratif. « Posted work » renverrait au détachement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-010",
+  "level": 1,
+  "fr": "poste / équipe (du matin, de nuit)",
+  "term": {
+   "uk": "shift",
+   "us": "shift"
+  },
+  "ipa": {
+   "uk": "/ʃɪft/",
+   "us": "/ʃɪft/"
+  },
+  "def": "One of the fixed periods into which the working day is divided, or the group of people who work during it.",
+  "registers": {
+   "formal": {
+    "uk": "shift",
+    "us": "shift",
+    "ex": "Each [[shift]] shall be followed by a rest period of at least eleven consecutive hours."
+   },
+   "everyday": {
+    "uk": "shift",
+    "us": "shift",
+    "ex": "I'm on the early [[shift]] all next week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the early shift",
+   "the late shift",
+   "the night shift",
+   "to be on shift"
+  ],
+  "note_fr": "UK : « early shift / late shift » ; US : « day shift / swing shift / night shift » (« graveyard shift » en familier pour la nuit). « Shift » désigne à la fois la tranche horaire et l'équipe : « the night shift has just arrived ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-011",
+  "level": 1,
+  "fr": "échanger son poste avec un collègue",
+  "term": {
+   "uk": "to swap shifts",
+   "us": "to trade shifts"
+  },
+  "ipa": {
+   "uk": "/tə swɒp ˈʃɪfts/",
+   "us": "/tə treɪd ˈʃɪfts/"
+  },
+  "def": "To agree with a colleague that each of you will work the other's shift.",
+  "registers": {
+   "formal": {
+    "uk": "to exchange shifts",
+    "us": "to exchange shifts",
+    "ex": "Employees wishing [[to exchange shifts]] must obtain the prior approval of their supervisor."
+   },
+   "everyday": {
+    "uk": "to swap shifts",
+    "us": "to trade shifts",
+    "ex": "Would you mind if I [[swapped shifts]] with Karim on Friday?",
+    "ex_us": "Would it be okay if I [[traded shifts]] with Karim on Friday?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a shift swap",
+   "to pick up a shift",
+   "to give up a shift"
+  ],
+  "note_fr": "« To swap » est le verbe britannique naturel ; les Américains disent plutôt « to trade » ou « to switch shifts ». « To pick up a shift » = prendre un poste supplémentaire. Évitez « to change my shift with », ambigu.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-012",
+  "level": 1,
+  "fr": "télétravail",
+  "term": {
+   "uk": "remote working",
+   "us": "remote work"
+  },
+  "ipa": {
+   "uk": "/rɪˌməʊt ˈwɜːkɪŋ/",
+   "us": "/rɪˌmoʊt ˈwɜːrk/"
+  },
+  "def": "Working away from the employer's premises, usually from home, using digital tools.",
+  "registers": {
+   "formal": {
+    "uk": "remote working",
+    "us": "remote work",
+    "ex": "[[Remote working]] is voluntary and requires the agreement of both the employee and the Company.",
+    "ex_us": "[[Remote work]] is voluntary and requires the agreement of both the employee and the Company."
+   },
+   "everyday": {
+    "uk": "working from home",
+    "us": "working from home",
+    "ex": "I'm [[working from home]] tomorrow, but I'll be on Teams all day."
+   },
+   "informal": {
+    "uk": "WFH",
+    "us": "WFH",
+    "ex": "[[WFH]] today - call my mobile if it's urgent.",
+    "ex_us": "[[WFH]] today - call my cell if it's urgent."
+   }
+  },
+  "collocations": [
+   "to work remotely",
+   "a remote worker",
+   "a remote working day",
+   "fully remote"
+  ],
+  "note_fr": "« Teleworking » et « telework » existent (textes européens, administration américaine) mais sonnent administratifs : au quotidien, « working from home » ou « remote working ». Ne dites pas « I'm in telework » ; dites « I'm working from home ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-013",
+  "level": 1,
+  "fr": "travail hybride",
+  "term": {
+   "uk": "hybrid working",
+   "us": "hybrid work"
+  },
+  "ipa": {
+   "uk": "/ˌhaɪbrɪd ˈwɜːkɪŋ/",
+   "us": "/ˌhaɪbrɪd ˈwɜːrk/"
+  },
+  "def": "An arrangement in which employees split their time between the office and another place, usually home.",
+  "registers": {
+   "formal": {
+    "uk": "hybrid working arrangement",
+    "us": "hybrid work arrangement",
+    "ex": "Under the [[hybrid working arrangement]], employees attend the office at least two days per week.",
+    "ex_us": "Under the [[hybrid work arrangement]], employees work on-site at least two days per week."
+   },
+   "everyday": {
+    "uk": "hybrid working",
+    "us": "hybrid work",
+    "ex": "We moved to [[hybrid working]] two years ago and nobody wants to go back.",
+    "ex_us": "We moved to [[hybrid work]] two years ago and nobody wants to go back."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a hybrid role",
+   "a hybrid team",
+   "to work on a hybrid basis"
+  ],
+  "note_fr": "« Hybrid » se prononce /ˈhaɪbrɪd/ (« haï »), pas « i-brid ». Une offre d'emploi « hybrid » annonce un poste partagé entre bureau et domicile ; « remote » ou « fully remote » un poste entièrement à distance.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-014",
+  "level": 1,
+  "fr": "jours de présence sur site",
+  "term": {
+   "uk": "office days",
+   "us": "in-office days"
+  },
+  "ipa": {
+   "uk": "/ˈɒfɪs deɪz/",
+   "us": "/ˌɪn ˈɔːfɪs deɪz/"
+  },
+  "def": "The days on which a hybrid employee is expected to work at the employer's premises.",
+  "registers": {
+   "formal": {
+    "uk": "days of on-site attendance",
+    "us": "days of on-site attendance",
+    "ex": "The [[days of on-site attendance]] are determined by each department head in the light of operational needs.",
+    "ex_us": "The [[days of on-site attendance]] are determined by each department head based on operational needs."
+   },
+   "everyday": {
+    "uk": "office days",
+    "us": "in-office days",
+    "ex": "Tuesdays and Thursdays are my [[office days]].",
+    "ex_us": "Tuesdays and Thursdays are my [[in-office days]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be in the office",
+   "to come into the office",
+   "an anchor day",
+   "on site"
+  ],
+  "note_fr": "« I'm in on Tuesday » suffit à l'oral pour dire qu'on sera au bureau. « Anchor day » : jour où toute l'équipe est présente. « Presential » n'existe pas : dites « in person » ou « on site ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-015",
+  "level": 1,
+  "fr": "poser des congés",
+  "term": {
+   "uk": "to book leave",
+   "us": "to request time off"
+  },
+  "ipa": {
+   "uk": "/tə bʊk ˈliːv/",
+   "us": "/tə rɪˌkwest taɪm ˈɔːf/"
+  },
+  "def": "To arrange in advance, through the employer's procedure, to be away from work on particular dates.",
+  "registers": {
+   "formal": {
+    "uk": "to submit a leave request",
+    "us": "to submit a leave request",
+    "ex": "Employees must [[submit a leave request]] at least four weeks before the first day of the intended absence."
+   },
+   "everyday": {
+    "uk": "to book leave",
+    "us": "to request time off",
+    "ex": "I'd like to [[book leave]] for the last week of August.",
+    "ex_us": "I'd like to [[request time off]] for the last week of August."
+   },
+   "informal": {
+    "uk": "to put in for leave",
+    "us": "to put in for time off",
+    "ex": "Have you [[put in for leave]] over Christmas yet?",
+    "ex_us": "Have you [[put in for time off]] over Christmas yet?"
+   }
+  },
+  "collocations": [
+   "to book a day off",
+   "to book time off",
+   "to take leave",
+   "to put in a request"
+  ],
+  "note_fr": "« Poser des congés » ne se dit pas « to pose holidays » ni « to put holidays ». UK : « to book leave / holiday » ; US : « to request time off / PTO ». On « take leave » une fois la demande acceptée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-016",
+  "level": 1,
+  "fr": "demande de congé",
+  "term": {
+   "uk": "leave request",
+   "us": "time-off request"
+  },
+  "ipa": {
+   "uk": "/ˈliːv rɪˌkwest/",
+   "us": "/ˌtaɪm ˈɔːf rɪˌkwest/"
+  },
+  "def": "A formal request by an employee to be absent from work on given dates.",
+  "registers": {
+   "formal": {
+    "uk": "leave request",
+    "us": "leave request",
+    "ex": "A [[leave request]] is deemed to be accepted only once it has been approved in the HR system."
+   },
+   "everyday": {
+    "uk": "holiday request",
+    "us": "time-off request",
+    "ex": "Your [[holiday request]] is still sitting with your manager.",
+    "ex_us": "Your [[time-off request]] is still sitting with your manager."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to put in a leave request",
+   "to process a request",
+   "a pending request",
+   "a leave request form"
+  ],
+  "note_fr": "« Request » se construit avec « for » : « a request for leave », mais le verbe est transitif direct : « to request leave » (jamais « to request for »). « Demand » serait une exigence, pas une demande.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-017",
+  "level": 1,
+  "fr": "valider une demande de congés",
+  "term": {
+   "uk": "to approve leave",
+   "us": "to approve time off"
+  },
+  "ipa": {
+   "uk": "/tu əˌpruːv ˈliːv/",
+   "us": "/tu əˌpruːv taɪm ˈɔːf/"
+  },
+  "def": "To give formal agreement to an employee's request to be absent.",
+  "registers": {
+   "formal": {
+    "uk": "to approve a leave request",
+    "us": "to approve a leave request",
+    "ex": "Line managers shall [[approve]] or decline each leave request within five working days.",
+    "ex_us": "Supervisors shall [[approve]] or deny each leave request within five business days."
+   },
+   "everyday": {
+    "uk": "to sign off someone's leave",
+    "us": "to approve someone's time off",
+    "ex": "Has Priya [[signed off your leave]] yet?",
+    "ex_us": "Has Priya [[approved your time off]] yet?"
+   },
+   "informal": {
+    "uk": "to OK",
+    "us": "to OK",
+    "ex": "My boss [[OK'd]] the Friday, so I'm off from Thursday night."
+   }
+  },
+  "collocations": [
+   "to turn down a request",
+   "to decline a request",
+   "subject to approval",
+   "pending approval"
+  ],
+  "note_fr": "« Valider » se rend par « to approve », pas par « to validate », réservé aux données ou aux billets. Refuser : « to decline » (soutenu), « to turn down » (courant) ; aux États-Unis, « to deny a request » est neutre, alors qu'il sonne sec au Royaume-Uni.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-018",
+  "level": 1,
+  "fr": "jour férié",
+  "term": {
+   "uk": "public holiday",
+   "us": "public holiday"
+  },
+  "ipa": {
+   "uk": "/ˌpʌblɪk ˈhɒlədeɪ/",
+   "us": "/ˌpʌblɪk ˈhɑːlədeɪ/"
+  },
+  "def": "A day fixed by law or custom on which most people do not work.",
+  "registers": {
+   "formal": {
+    "uk": "public holiday",
+    "us": "legal holiday",
+    "ex": "Where a [[public holiday]] falls on a normal working day, employees shall suffer no loss of pay.",
+    "ex_us": "Where a [[legal holiday]] falls on a regular workday, employees shall suffer no loss of pay."
+   },
+   "everyday": {
+    "uk": "bank holiday",
+    "us": "holiday",
+    "ex": "Monday's a [[bank holiday]], so the office is closed.",
+    "ex_us": "Monday's a [[holiday]], so the office is closed."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fall on a public holiday",
+   "a bank holiday weekend",
+   "to work on a public holiday",
+   "a federal holiday"
+  ],
+  "note_fr": "UK : « bank holiday » au quotidien. US : « holiday » tout court désigne le jour férié, d'où le risque de confusion avec « holiday » = vacances en anglais britannique (US : « vacation »). Ni la loi britannique ni le droit fédéral américain n'obligent l'employeur privé à accorder les jours fériés ; en France, seul le 1er mai est obligatoirement chômé par la loi.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-019",
+  "level": 1,
+  "fr": "prendre un jour de congé",
+  "term": {
+   "uk": "to take a day off",
+   "us": "to take a day off"
+  },
+  "ipa": {
+   "uk": "/tə teɪk ə deɪ ˈɒf/",
+   "us": "/tə teɪk ə deɪ ˈɔːf/"
+  },
+  "def": "To be away from work for one day with the employer's agreement.",
+  "registers": {
+   "formal": {
+    "uk": "to take a day's leave",
+    "us": "to take a day of leave",
+    "ex": "Employees may [[take a day's leave]] at short notice with the consent of their line manager.",
+    "ex_us": "Employees may [[take a day of leave]] on short notice with the consent of their supervisor."
+   },
+   "everyday": {
+    "uk": "to take a day off",
+    "us": "to take a day off",
+    "ex": "I'm going to [[take a day off]] next week to move house.",
+    "ex_us": "I'm going to [[take a day off]] next week to move."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a day off",
+   "to have the day off",
+   "to take the afternoon off",
+   "time off"
+  ],
+  "note_fr": "« A day off » est un jour non travaillé, quel qu'en soit le motif ; « a day's leave » relève du congé officiel. « A free day » ou « a rest day » ne conviennent pas dans ce sens courant. Notez le génitif : « two days' leave ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-020",
+  "level": 1,
+  "fr": "être en congé",
+  "term": {
+   "uk": "to be on leave",
+   "us": "to be on leave"
+  },
+  "ipa": {
+   "uk": "/tə bi ɒn ˈliːv/",
+   "us": "/tə bi ɑːn ˈliːv/"
+  },
+  "def": "To be away from work with permission for a period of time.",
+  "registers": {
+   "formal": {
+    "uk": "to be on leave",
+    "us": "to be on leave",
+    "ex": "Ms Durand [[is on leave]] until 14 August; urgent matters should be referred to her deputy.",
+    "ex_us": "Ms. Durand [[is on leave]] until August 14; urgent matters should be referred to her deputy."
+   },
+   "everyday": {
+    "uk": "to be on holiday",
+    "us": "to be on vacation",
+    "ex": "Tom's [[on holiday]] this week, so I'm picking up his calls.",
+    "ex_us": "Tom's [[on vacation]] this week, so I'm picking up his calls."
+   },
+   "informal": {
+    "uk": "to be off",
+    "us": "to be out",
+    "ex": "She's [[off]] till Monday.",
+    "ex_us": "She's [[out]] till Monday."
+   }
+  },
+  "collocations": [
+   "to go on leave",
+   "to be away",
+   "to be out of the office",
+   "while on leave"
+  ],
+  "note_fr": "« On leave », « on holiday », « on vacation » : toujours « on », sans article, jamais « in holidays ». « Leave » est indénombrable : pas de « leaves ». Britannique : « holiday » ; américain : « vacation ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-021",
+  "level": 1,
+  "fr": "demi-journée",
+  "term": {
+   "uk": "half day",
+   "us": "half day"
+  },
+  "ipa": {
+   "uk": "/ˌhɑːf ˈdeɪ/",
+   "us": "/ˌhæf ˈdeɪ/"
+  },
+  "def": "A morning or an afternoon of leave or of work.",
+  "registers": {
+   "formal": {
+    "uk": "half-day's leave",
+    "us": "half day of leave",
+    "ex": "Leave may be taken in units of no less than a [[half-day's leave]].",
+    "ex_us": "Leave may be taken in increments of no less than a [[half day of leave]]."
+   },
+   "everyday": {
+    "uk": "half day",
+    "us": "half day",
+    "ex": "I'm taking a [[half day]] on Friday, so I'll be gone by one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take a half day",
+   "to work a half day",
+   "a half-day absence"
+  ],
+  "note_fr": "« A half day », pas « a half of day » ni « a demi-day ». Avec un trait d'union devant un nom : « a half-day session ». « Half a day » s'emploie aussi : « it took half a day ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-022",
+  "level": 1,
+  "fr": "congé de maternité",
+  "term": {
+   "uk": "maternity leave",
+   "us": "maternity leave"
+  },
+  "ipa": {
+   "uk": "/məˈtɜːnəti liːv/",
+   "us": "/məˈtɜːrnəti liːv/"
+  },
+  "def": "Time off work for a mother before and after the birth of her child.",
+  "registers": {
+   "formal": {
+    "uk": "maternity leave",
+    "us": "maternity leave",
+    "ex": "The employee shall notify the Company in writing of the date on which she intends to begin her [[maternity leave]]."
+   },
+   "everyday": {
+    "uk": "maternity leave",
+    "us": "maternity leave",
+    "ex": "Chloe goes on [[maternity leave]] at the end of March."
+   },
+   "informal": {
+    "uk": "mat leave",
+    "us": "mat leave",
+    "ex": "We need someone to cover Chloe's [[mat leave]]."
+   }
+  },
+  "collocations": [
+   "to go on maternity leave",
+   "to return from maternity leave",
+   "maternity cover",
+   "statutory maternity leave"
+  ],
+  "note_fr": "« To go on maternity leave », jamais « to take her maternity ». Différence majeure : la France et le Royaume-Uni prévoient un congé rémunéré par la loi, alors que le droit fédéral américain ne garantit qu'un congé non rémunéré, sous conditions (FMLA).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-023",
+  "level": 1,
+  "fr": "congé de paternité",
+  "term": {
+   "uk": "paternity leave",
+   "us": "paternity leave"
+  },
+  "ipa": {
+   "uk": "/pəˈtɜːnəti liːv/",
+   "us": "/pəˈtɜːrnəti liːv/"
+  },
+  "def": "Time off work for a father or the mother's partner around the birth of a child.",
+  "registers": {
+   "formal": {
+    "uk": "paternity leave",
+    "us": "paternity leave",
+    "ex": "[[Paternity leave]] must be taken within the period prescribed by law following the birth of the child."
+   },
+   "everyday": {
+    "uk": "paternity leave",
+    "us": "paternity leave",
+    "ex": "He's on [[paternity leave]] for the next few weeks."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take paternity leave",
+   "to be on paternity leave",
+   "partner's leave",
+   "parental bonding leave"
+  ],
+  "note_fr": "En France, le congé de paternité et d'accueil de l'enfant est aussi ouvert au conjoint ou partenaire de la mère : « paternity leave » couvre les deux cas au Royaume-Uni. Aux États-Unis, il n'existe pas de congé de paternité fédéral rémunéré ; on y parle souvent de « parental leave » ou de « bonding leave ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-024",
+  "level": 1,
+  "fr": "être absent(e)",
+  "term": {
+   "uk": "to be absent",
+   "us": "to be absent"
+  },
+  "ipa": {
+   "uk": "/tə bi ˈæbsənt/",
+   "us": "/tə bi ˈæbsənt/"
+  },
+  "def": "Not to be at work when you would normally be expected to be there.",
+  "registers": {
+   "formal": {
+    "uk": "to be absent from work",
+    "us": "to be absent from work",
+    "ex": "An employee who [[is absent from work]] must inform his or her manager before the start of the working day.",
+    "ex_us": "An employee who [[is absent from work]] must inform his or her supervisor before the start of the workday."
+   },
+   "everyday": {
+    "uk": "to be off",
+    "us": "to be out",
+    "ex": "Julie's [[off]] today - can I help?",
+    "ex_us": "Julie's [[out]] today - can I help?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "absence from work",
+   "to be off work",
+   "a period of absence",
+   "planned absence"
+  ],
+  "note_fr": "À l'oral, « she's absent » fait scolaire : on dit « she's off » (UK), « she's out » (US) ou « she's away ». Le nom est « absence » ; « absenteeism » désigne le phénomène d'absences répétées, pas une absence isolée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-025",
+  "level": 1,
+  "fr": "prévenir de son absence",
+  "term": {
+   "uk": "to report an absence",
+   "us": "to report an absence"
+  },
+  "ipa": {
+   "uk": "/tə rɪˌpɔːt ən ˈæbsəns/",
+   "us": "/tə rɪˌpɔːrt ən ˈæbsəns/"
+  },
+  "def": "To tell your employer, in the way the rules require, that you will not be at work.",
+  "registers": {
+   "formal": {
+    "uk": "to notify the Company of an absence",
+    "us": "to notify the Company of an absence",
+    "ex": "Employees must [[notify the Company of any absence]] by telephone no later than one hour after their normal start time."
+   },
+   "everyday": {
+    "uk": "to let someone know you'll be off",
+    "us": "to let someone know you'll be out",
+    "ex": "Just [[let me know you'll be off]] before nine, so I can sort out cover.",
+    "ex_us": "Just [[let me know you'll be out]] before nine, so I can arrange coverage."
+   },
+   "informal": {
+    "uk": "to call in",
+    "us": "to call in",
+    "ex": "Two people [[called in]] this morning, so we're a bit thin on the ground.",
+    "ex_us": "Two people [[called in]] this morning, so we're a little short-handed."
+   }
+  },
+  "collocations": [
+   "absence notification",
+   "to phone in",
+   "the absence reporting procedure",
+   "to give as much notice as possible"
+  ],
+  "note_fr": "Construction : « to notify someone of something » ou « to inform someone of something », jamais « to prevent » (empêcher) ni « to warn » (mettre en garde). « To call in sick » = prévenir qu'on est malade.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-026",
+  "level": 1,
+  "fr": "remplacer un collègue absent",
+  "term": {
+   "uk": "to cover for",
+   "us": "to cover for"
+  },
+  "ipa": {
+   "uk": "/tə ˈkʌvə fɔː/",
+   "us": "/tə ˈkʌvər fɔːr/"
+  },
+  "def": "To do a colleague's work while he or she is away.",
+  "registers": {
+   "formal": {
+    "uk": "to deputise for",
+    "us": "to act for",
+    "ex": "During the Director's absence, the Deputy HR Manager shall [[deputise for]] her.",
+    "ex_us": "During the Director's absence, the Deputy HR Manager shall [[act for]] her."
+   },
+   "everyday": {
+    "uk": "to cover for",
+    "us": "to cover for",
+    "ex": "Could you [[cover for]] me on Friday afternoon?"
+   },
+   "informal": {
+    "uk": "to fill in for",
+    "us": "to fill in for",
+    "ex": "I'm [[filling in for]] Sam while he's away."
+   }
+  },
+  "collocations": [
+   "to stand in for",
+   "to step in",
+   "to take over someone's caseload",
+   "to pick up someone's work"
+  ],
+  "note_fr": "« To replace someone » signifie le plus souvent remplacer définitivement : pour une absence temporaire, préférez « to cover for », « to stand in for » ou « to fill in for ». « To deputise » (US « deputize ») suppose un adjoint désigné et reste surtout britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-027",
+  "level": 1,
+  "fr": "passation (des dossiers)",
+  "term": {
+   "uk": "handover",
+   "us": "handoff"
+  },
+  "ipa": {
+   "uk": "/ˈhændəʊvə/",
+   "us": "/ˈhændɔːf/"
+  },
+  "def": "The passing of information and responsibility for work to the person who will take it over.",
+  "registers": {
+   "formal": {
+    "uk": "handover",
+    "us": "transition of responsibilities",
+    "ex": "A written [[handover]] shall be prepared before any absence exceeding two weeks.",
+    "ex_us": "A written [[transition of responsibilities]] shall be prepared before any absence exceeding two weeks."
+   },
+   "everyday": {
+    "uk": "handover",
+    "us": "handoff",
+    "ex": "Let's do a quick [[handover]] on Thursday before you go.",
+    "ex_us": "Let's do a quick [[handoff]] on Thursday before you leave."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "handover notes",
+   "to hand over to",
+   "a handover meeting",
+   "to bring someone up to speed"
+  ],
+  "note_fr": "Le nom s'écrit en un mot (« a handover »), le verbe en deux (« to hand over one's files to someone »). Aux États-Unis, « handoff » est plus courant. Évitez « passation », qui n'existe pas, et « transmission », réservé aux données ou à la mécanique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-028",
+  "level": 1,
+  "fr": "message d'absence",
+  "term": {
+   "uk": "out-of-office reply",
+   "us": "out-of-office reply"
+  },
+  "ipa": {
+   "uk": "/ˌaʊt əv ˈɒfɪs rɪˌplaɪ/",
+   "us": "/ˌaʊt əv ˈɔːfɪs rɪˌplaɪ/"
+  },
+  "def": "An automatic email telling senders that you are away and when you will be back.",
+  "registers": {
+   "formal": {
+    "uk": "automatic reply",
+    "us": "automatic reply",
+    "ex": "Employees are asked to activate an [[automatic reply]] indicating their return date and an alternative contact."
+   },
+   "everyday": {
+    "uk": "out-of-office",
+    "us": "out-of-office",
+    "ex": "I've put my [[out-of-office]] on, with your name as the contact."
+   },
+   "informal": {
+    "uk": "OOO",
+    "us": "OOO",
+    "ex": "I'm [[OOO]] from Wednesday, back on the 12th."
+   }
+  },
+  "collocations": [
+   "to set an out-of-office",
+   "to switch on your out-of-office",
+   "an auto-reply",
+   "in my absence"
+  ],
+  "note_fr": "Formule type : « I am out of the office until 12 August with limited access to email. » On dit « out of the office » (avec l'article) dans la phrase, mais « an out-of-office » pour le message. « Absence message » n'est pas idiomatique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-029",
+  "level": 1,
+  "fr": "reprendre le travail",
+  "term": {
+   "uk": "to return to work",
+   "us": "to return to work"
+  },
+  "ipa": {
+   "uk": "/tə rɪˌtɜːn tə ˈwɜːk/",
+   "us": "/tə rɪˌtɜːrn tə ˈwɜːrk/"
+  },
+  "def": "To start working again after a period of leave or absence.",
+  "registers": {
+   "formal": {
+    "uk": "to resume work",
+    "us": "to resume work",
+    "ex": "The employee shall [[resume work]] on the first working day following the end of the leave period.",
+    "ex_us": "The employee shall [[resume work]] on the first business day following the end of the leave period."
+   },
+   "everyday": {
+    "uk": "to be back",
+    "us": "to be back",
+    "ex": "I'm [[back]] on the 3rd, so let's talk then."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to return from leave",
+   "a return date",
+   "on your return",
+   "a return-to-work meeting"
+  ],
+  "note_fr": "« I'm back on Monday » (présent à valeur de futur) est la forme naturelle. Ne dites pas « I come back from holidays the Monday ». « To resume » est un faux ami partiel : il signifie reprendre, jamais résumer (« to summarise »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-030",
+  "level": 1,
+  "fr": "charge de travail",
+  "term": {
+   "uk": "workload",
+   "us": "workload"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkləʊd/",
+   "us": "/ˈwɜːrkloʊd/"
+  },
+  "def": "The amount of work that a person or a team has to do in a given period.",
+  "registers": {
+   "formal": {
+    "uk": "workload",
+    "us": "workload",
+    "ex": "The Company shall ensure that the employee's [[workload]] remains reasonable and compatible with his or her rest periods."
+   },
+   "everyday": {
+    "uk": "workload",
+    "us": "workload",
+    "ex": "How's your [[workload]] looking for the next fortnight?",
+    "ex_us": "How's your [[workload]] looking for the next two weeks?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a heavy workload",
+   "a manageable workload",
+   "to spread the workload",
+   "to take on too much"
+  ],
+  "note_fr": "Un seul mot. On parle d'un « heavy workload », pas d'un « big » ou « important workload » (« important » ne signifie jamais « gros »). « Charge » seul est un faux ami : frais, accusation ou responsabilité. « Fortnight » (quinze jours) est britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-031",
+  "level": 1,
+  "fr": "heures de bureau",
+  "term": {
+   "uk": "office hours",
+   "us": "business hours"
+  },
+  "ipa": {
+   "uk": "/ˈɒfɪs aʊəz/",
+   "us": "/ˈbɪznəs aʊrz/"
+  },
+  "def": "The hours during which an office is normally open and staff are at work.",
+  "registers": {
+   "formal": {
+    "uk": "normal business hours",
+    "us": "regular business hours",
+    "ex": "Requests received outside [[normal business hours]] will be dealt with on the next working day.",
+    "ex_us": "Requests received outside [[regular business hours]] will be handled on the next business day."
+   },
+   "everyday": {
+    "uk": "office hours",
+    "us": "business hours",
+    "ex": "You can reach me any time during [[office hours]].",
+    "ex_us": "You can reach me any time during [[business hours]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "outside office hours",
+   "out of hours",
+   "after hours",
+   "nine to five"
+  ],
+  "note_fr": "« Out of hours » (UK) et « after hours » (surtout US) = en dehors des heures de bureau. Aux États-Unis, « office hours » évoque d'abord les heures de permanence d'un professeur ou d'un médecin : préférez « business hours ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-032",
+  "level": 1,
+  "fr": "rester tard / finir tard",
+  "term": {
+   "uk": "to work late",
+   "us": "to work late"
+  },
+  "ipa": {
+   "uk": "/tə wɜːk ˈleɪt/",
+   "us": "/tə wɜːrk ˈleɪt/"
+  },
+  "def": "To continue working after your normal finishing time.",
+  "registers": {
+   "formal": {
+    "uk": "to work beyond one's normal hours",
+    "us": "to work beyond one's normal hours",
+    "ex": "Employees should not be expected [[to work beyond their normal hours]] save in exceptional circumstances.",
+    "ex_us": "Employees should not be expected [[to work beyond their normal hours]] except in exceptional circumstances."
+   },
+   "everyday": {
+    "uk": "to work late",
+    "us": "to work late",
+    "ex": "I had to [[work late]] three nights last week."
+   },
+   "informal": {
+    "uk": "to pull a late one",
+    "us": "to pull a late night",
+    "ex": "We [[pulled a late one]] on Thursday to finish the audit.",
+    "ex_us": "We [[pulled a late night]] on Thursday to finish the audit."
+   }
+  },
+  "collocations": [
+   "to stay late",
+   "to stay on",
+   "long hours",
+   "a late finish"
+  ],
+  "note_fr": "« To work late » = travailler tard ; « to be late for work » = arriver en retard : ne les confondez pas. « To work long hours » décrit une habitude. « To stay on » (rester après l'heure) est surtout britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-033",
+  "level": 1,
+  "fr": "rattraper des heures",
+  "term": {
+   "uk": "to make up the time",
+   "us": "to make up the time"
+  },
+  "ipa": {
+   "uk": "/tə meɪk ʌp ðə ˈtaɪm/",
+   "us": "/tə meɪk ʌp ðə ˈtaɪm/"
+  },
+  "def": "To work extra hours later in order to compensate for time you did not work.",
+  "registers": {
+   "formal": {
+    "uk": "to make up the hours not worked",
+    "us": "to make up the hours not worked",
+    "ex": "With the manager's consent, the employee may [[make up the hours not worked]] within the same week.",
+    "ex_us": "With the supervisor's consent, the employee may [[make up the hours not worked]] within the same week."
+   },
+   "everyday": {
+    "uk": "to make up the time",
+    "us": "to make up the time",
+    "ex": "I've got a dentist's appointment at four, but I'll [[make up the time]] tomorrow.",
+    "ex_us": "I have a dentist appointment at four, but I'll [[make up the time]] tomorrow."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make up for lost time",
+   "to work back the hours",
+   "to owe hours"
+  ],
+  "note_fr": "« To make up the time » et non « to catch up the hours » : « to catch up » s'emploie pour un retard de travail (« I need to catch up on my emails »). Attention, « récupérer » au sens de prendre un repos compensateur se dit « to take time off in lieu ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-034",
+  "level": 1,
+  "fr": "vacances scolaires",
+  "term": {
+   "uk": "school holidays",
+   "us": "school vacation"
+  },
+  "ipa": {
+   "uk": "/ˌskuːl ˈhɒlədeɪz/",
+   "us": "/ˌskuːl veɪˈkeɪʃ(ə)n/"
+  },
+  "def": "The periods of the year when schools are closed, which many parents want to take as leave.",
+  "registers": {
+   "formal": {
+    "uk": "school holiday periods",
+    "us": "school vacation periods",
+    "ex": "Requests for leave during [[school holiday periods]] will be considered in the order in which they are received.",
+    "ex_us": "Requests for leave during [[school vacation periods]] will be considered in the order in which they are received."
+   },
+   "everyday": {
+    "uk": "school holidays",
+    "us": "school vacation",
+    "ex": "Everyone wants the [[school holidays]], so get your request in early.",
+    "ex_us": "Everyone wants [[school vacation]] weeks, so get your request in early."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "half-term",
+   "the summer holidays",
+   "spring break",
+   "term time"
+  ],
+  "note_fr": "UK : « half-term » désigne les petites vacances de milieu de trimestre, et « term-time working » un contrat limité aux périodes scolaires. US : « spring break », « summer vacation ». Pas de « scholar holidays » : « scholar » = érudit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-035",
+  "level": 1,
+  "fr": "partir plus tôt",
+  "term": {
+   "uk": "to leave early",
+   "us": "to leave early"
+  },
+  "ipa": {
+   "uk": "/tə liːv ˈɜːli/",
+   "us": "/tə liːv ˈɜːrli/"
+  },
+  "def": "To stop work before your normal finishing time.",
+  "registers": {
+   "formal": {
+    "uk": "to leave work before the normal finishing time",
+    "us": "to leave work before the normal end of the workday",
+    "ex": "Any employee needing [[to leave work before the normal finishing time]] must first obtain permission.",
+    "ex_us": "Any employee needing [[to leave work before the normal end of the workday]] must first obtain permission."
+   },
+   "everyday": {
+    "uk": "to leave early",
+    "us": "to leave early",
+    "ex": "Is it all right if I [[leave early]] on Wednesday?",
+    "ex_us": "Is it okay if I [[leave early]] on Wednesday?"
+   },
+   "informal": {
+    "uk": "to knock off early",
+    "us": "to duck out early",
+    "ex": "It's quiet, so let's [[knock off early]].",
+    "ex_us": "It's quiet, so let's [[duck out early]]."
+   }
+  },
+  "collocations": [
+   "to finish early",
+   "an early finish",
+   "to slip away",
+   "to head off"
+  ],
+  "note_fr": "« To finish early » est très courant au Royaume-Uni ; les Américains disent plutôt « to get off early » ou « to leave early ». « To knock off » (finir sa journée) est familier et britannique. Évitez « to go earlier », incomplet.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-036",
+  "level": 2,
+  "fr": "durées maximales de travail",
+  "term": {
+   "uk": "maximum working hours",
+   "us": "maximum hours of work"
+  },
+  "ipa": {
+   "uk": "/ˌmæksɪməm ˈwɜːkɪŋ aʊəz/",
+   "us": "/ˌmæksɪməm aʊrz əv ˈwɜːrk/"
+  },
+  "def": "The legal limits on the number of hours an employee may work in a day or a week.",
+  "registers": {
+   "formal": {
+    "uk": "maximum working time",
+    "us": "maximum hours of work",
+    "ex": "The [[maximum working time]] of forty-eight hours in any one week may not be exceeded save in the circumstances provided for by law.",
+    "ex_us": "The [[maximum hours of work]] of forty-eight in any one week may not be exceeded except in the circumstances provided for by law."
+   },
+   "everyday": {
+    "uk": "the working time limits",
+    "us": "the limits on hours",
+    "ex": "With that much overtime, we're getting very close to [[the working time limits]].",
+    "ex_us": "With that much overtime, we're getting very close to [[the limits on hours]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the daily limit",
+   "the weekly limit",
+   "to exceed the limit",
+   "to stay within the limits"
+  ],
+  "note_fr": "France : dix heures par jour et quarante-huit heures par semaine en principe, avec une moyenne plafonnée sur douze semaines. Royaume-Uni : quarante-huit heures en moyenne, sauf renonciation individuelle (« opt-out »). États-Unis : aucun plafond fédéral pour les adultes, seulement l'obligation de payer les heures supplémentaires.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-037",
+  "level": 2,
+  "fr": "décompte / suivi du temps de travail",
+  "term": {
+   "uk": "time recording",
+   "us": "timekeeping"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪm rɪˌkɔːdɪŋ/",
+   "us": "/ˈtaɪmkiːpɪŋ/"
+  },
+  "def": "The system by which an employer keeps a reliable record of the hours or days its employees work.",
+  "registers": {
+   "formal": {
+    "uk": "recording of working time",
+    "us": "recording of hours worked",
+    "ex": "The Company shall maintain a reliable system for the [[recording of working time]] and keep the records available for inspection.",
+    "ex_us": "The Company shall maintain a reliable system for the [[recording of hours worked]] and keep the records available for inspection."
+   },
+   "everyday": {
+    "uk": "time recording",
+    "us": "timekeeping",
+    "ex": "Our [[time recording]] is still done on paper, which is asking for trouble.",
+    "ex_us": "Our [[timekeeping]] is still done on paper, which is asking for trouble."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep records of hours worked",
+   "a time-recording system",
+   "time and attendance software",
+   "accurate records"
+  ],
+  "note_fr": "Au Royaume-Uni, « timekeeping » désigne surtout la ponctualité (« his timekeeping is poor ») ; aux États-Unis, c'est le terme usuel pour le relevé des heures. En cas de litige sur les heures en France, l'employeur doit produire ses propres éléments de décompte : « the employer must be able to produce its records ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-038",
+  "level": 2,
+  "fr": "repos quotidien",
+  "term": {
+   "uk": "daily rest",
+   "us": "daily rest"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪli ˈrest/",
+   "us": "/ˌdeɪli ˈrest/"
+  },
+  "def": "The minimum uninterrupted period of rest an employee must have between two working days.",
+  "registers": {
+   "formal": {
+    "uk": "daily rest period",
+    "us": "daily rest period",
+    "ex": "Every employee is entitled to a [[daily rest period]] of at least eleven consecutive hours."
+   },
+   "everyday": {
+    "uk": "daily rest",
+    "us": "time off between shifts",
+    "ex": "If she finishes at midnight and starts at seven, she isn't getting her [[daily rest]].",
+    "ex_us": "If she finishes at midnight and starts at seven, she isn't getting enough [[time off between shifts]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "eleven consecutive hours",
+   "an uninterrupted rest period",
+   "to breach the rest requirements",
+   "a quick turnaround"
+  ],
+  "note_fr": "Onze heures consécutives en France comme au Royaume-Uni (règle d'origine européenne). Il n'existe pas d'équivalent fédéral aux États-Unis : expliquez la règle plutôt que de chercher un terme. « Rest » est indénombrable ici : « eleven hours' rest ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-039",
+  "level": 2,
+  "fr": "repos hebdomadaire",
+  "term": {
+   "uk": "weekly rest",
+   "us": "weekly rest"
+  },
+  "ipa": {
+   "uk": "/ˌwiːkli ˈrest/",
+   "us": "/ˌwiːkli ˈrest/"
+  },
+  "def": "The minimum uninterrupted period of rest an employee must have each week.",
+  "registers": {
+   "formal": {
+    "uk": "weekly rest period",
+    "us": "weekly rest period",
+    "ex": "The [[weekly rest period]] of twenty-four consecutive hours is added to the daily rest period and is, in principle, granted on Sunday."
+   },
+   "everyday": {
+    "uk": "a full day off a week",
+    "us": "a full day off a week",
+    "ex": "Whatever the rota looks like, everyone has to get [[a full day off a week]].",
+    "ex_us": "Whatever the schedule looks like, everyone has to get [[a full day off a week]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a rest day",
+   "a day of rest",
+   "to work six days in a row",
+   "consecutive working days"
+  ],
+  "note_fr": "En France, vingt-quatre heures auxquelles s'ajoutent les onze heures de repos quotidien, en principe le dimanche. « Rest day » = jour de repos dans un planning d'équipes. Le droit fédéral américain ne prévoit rien ; quelques États imposent « one day of rest in seven ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-040",
+  "level": 2,
+  "fr": "travail de nuit",
+  "term": {
+   "uk": "night work",
+   "us": "night work"
+  },
+  "ipa": {
+   "uk": "/ˈnaɪt wɜːk/",
+   "us": "/ˈnaɪt wɜːrk/"
+  },
+  "def": "Work carried out during the night-time period defined by law or by a collective agreement.",
+  "registers": {
+   "formal": {
+    "uk": "night work",
+    "us": "night work",
+    "ex": "Recourse to [[night work]] must remain exceptional and be justified by the need to ensure continuity of economic activity."
+   },
+   "everyday": {
+    "uk": "nights",
+    "us": "nights",
+    "ex": "He's been on [[nights]] for three years and wants to move back to days."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to work nights",
+   "to be on nights",
+   "the night shift",
+   "a night-work allowance"
+  ],
+  "note_fr": "« To work nights » ou « to be on nights » est bien plus naturel que « to do night work ». En France, le travail de nuit doit rester exceptionnel et être encadré par un accord collectif ; rien de comparable aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-041",
+  "level": 2,
+  "fr": "astreinte",
+  "term": {
+   "uk": "on-call duty",
+   "us": "on-call duty"
+  },
+  "ipa": {
+   "uk": "/ˌɒn ˈkɔːl djuːti/",
+   "us": "/ˌɑːn ˈkɔːl duːti/"
+  },
+  "def": "A period during which an employee is not at work but must remain reachable and ready to act if needed.",
+  "registers": {
+   "formal": {
+    "uk": "on-call duty",
+    "us": "on-call duty",
+    "ex": "Periods of [[on-call duty]] give rise to compensation, either financial or in the form of rest."
+   },
+   "everyday": {
+    "uk": "to be on call",
+    "us": "to be on call",
+    "ex": "I'm [[on call]] this weekend, so I can't go far."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an on-call rota",
+   "an on-call allowance",
+   "to be on standby",
+   "on-call cover"
+  ],
+  "note_fr": "En droit français, l'astreinte elle-même n'est pas du temps de travail effectif, mais elle ouvre droit à une compensation ; seule l'intervention est du temps de travail. « Standby » est un synonyme fréquent. Avec trait d'union devant un nom (« an on-call week »), sans après le verbe (« she is on call »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-042",
+  "level": 2,
+  "fr": "intervention pendant l'astreinte",
+  "term": {
+   "uk": "call-out",
+   "us": "callout"
+  },
+  "ipa": {
+   "uk": "/ˈkɔːl aʊt/",
+   "us": "/ˈkɔːlaʊt/"
+  },
+  "def": "An occasion when an on-call employee is actually required to work.",
+  "registers": {
+   "formal": {
+    "uk": "call-out",
+    "us": "callout",
+    "ex": "Time spent on a [[call-out]], including travel to and from the site, constitutes working time and is paid as such.",
+    "ex_us": "Time spent on a [[callout]], including travel to and from the site, constitutes hours worked and is paid as such."
+   },
+   "everyday": {
+    "uk": "to get called out",
+    "us": "to get called in",
+    "ex": "I [[got called out]] twice on Saturday night.",
+    "ex_us": "I [[got called in]] twice on Saturday night."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be called out",
+   "a call-out payment",
+   "to respond to a call-out",
+   "response time"
+  ],
+  "note_fr": "« Intervention » est un faux ami : en anglais, le mot évoque une ingérence ou un acte médical. Dites « call-out » (UK), « callout » ou « call-in » (US). Point à expliquer aux clients : en France, le temps d'intervention, trajet compris, est du temps de travail effectif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-043",
+  "level": 2,
+  "fr": "horaires variables / individualisés",
+  "term": {
+   "uk": "flexitime",
+   "us": "flextime"
+  },
+  "ipa": {
+   "uk": "/ˈfleksitaɪm/",
+   "us": "/ˈflekstaɪm/"
+  },
+  "def": "A system that lets employees choose when they start and finish work, within limits set by the employer.",
+  "registers": {
+   "formal": {
+    "uk": "flexible working hours",
+    "us": "flexible work schedule",
+    "ex": "The Company operates a system of [[flexible working hours]] under which employees may vary their start and finish times.",
+    "ex_us": "The Company operates a [[flexible work schedule]] under which employees may vary their start and end times."
+   },
+   "everyday": {
+    "uk": "flexitime",
+    "us": "flextime",
+    "ex": "We're on [[flexitime]], so I tend to start at ten.",
+    "ex_us": "We're on [[flextime]], so I tend to start at ten."
+   },
+   "informal": {
+    "uk": "flexi",
+    "us": "flex time",
+    "ex": "I've built up enough [[flexi]] to take Friday afternoon off.",
+    "ex_us": "I've built up enough [[flex time]] to take Friday afternoon off."
+   }
+  },
+  "collocations": [
+   "to work flexitime",
+   "a flexi day",
+   "to build up flexi",
+   "flexible working"
+  ],
+  "note_fr": "UK : « flexitime » ; US : « flextime ». Ne confondez pas avec « flexible working » (UK), notion plus large qui englobe temps partiel, télétravail et horaires aménagés, et que tout salarié britannique peut demander.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-044",
+  "level": 2,
+  "fr": "plage fixe",
+  "term": {
+   "uk": "core hours",
+   "us": "core hours"
+  },
+  "ipa": {
+   "uk": "/ˈkɔːr aʊəz/",
+   "us": "/ˈkɔːr aʊrz/"
+  },
+  "def": "The part of the day when all employees on flexible hours must be at work or available.",
+  "registers": {
+   "formal": {
+    "uk": "core hours",
+    "us": "core hours",
+    "ex": "All employees must be present during [[core hours]], namely from 10.00 am to 12.00 noon and from 2.00 pm to 4.00 pm.",
+    "ex_us": "All employees must be present during [[core hours]], namely from 10:00 a.m. to 12:00 noon and from 2:00 p.m. to 4:00 p.m."
+   },
+   "everyday": {
+    "uk": "core hours",
+    "us": "core hours",
+    "ex": "Try to keep meetings within [[core hours]] so that everyone can make them."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "outside core hours",
+   "core time",
+   "a flexible band",
+   "to be available during core hours"
+  ],
+  "note_fr": "Plage fixe = « core hours » ou « core time » ; plage mobile = « flexible band » ou « flexible hours ». Notez l'écriture de l'heure : « 10.00 am » (UK, point) et « 10:00 a.m. » (US, deux-points).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-045",
+  "level": 2,
+  "fr": "droit à la déconnexion",
+  "term": {
+   "uk": "right to disconnect",
+   "us": "right to disconnect"
+  },
+  "ipa": {
+   "uk": "/ˌraɪt tə ˌdɪskəˈnekt/",
+   "us": "/ˌraɪt tə ˌdɪskəˈnekt/"
+  },
+  "def": "An employee's right not to read or answer work messages outside working hours.",
+  "registers": {
+   "formal": {
+    "uk": "right to disconnect",
+    "us": "right to disconnect",
+    "ex": "The employee's [[right to disconnect]] from digital tools outside working time is guaranteed by this agreement."
+   },
+   "everyday": {
+    "uk": "to switch off",
+    "us": "to unplug",
+    "ex": "People need to be able to [[switch off]] in the evening without feeling guilty.",
+    "ex_us": "People need to be able to [[unplug]] in the evening without feeling guilty."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be reachable",
+   "out-of-hours emails",
+   "an always-on culture",
+   "to respect rest periods"
+  ],
+  "note_fr": "Notion d'origine française, intégrée à la négociation obligatoire en entreprise. Il n'existe pas de droit général équivalent en droit fédéral américain, et le droit britannique ne le consacre pas dans la loi : présentez-le comme une règle française. « Disconnection right » est un calque.",
+  "french_concept": true,
+  "explain": {
+   "written": "the right to disconnect, namely the employee's right under French law not to be contacted or to respond to work-related communications outside working hours, the practical arrangements for which are set by company agreement or policy",
+   "spoken": "In France employees have what's called a right to disconnect: outside working hours, they can't be expected to answer emails or calls."
+  }
+ },
+ {
+  "id": "tm-046",
+  "level": 2,
+  "fr": "charte / accord de télétravail",
+  "term": {
+   "uk": "remote working policy",
+   "us": "remote work policy"
+  },
+  "ipa": {
+   "uk": "/rɪˌməʊt ˈwɜːkɪŋ ˌpɒləsi/",
+   "us": "/rɪˌmoʊt ˈwɜːrk ˌpɑːləsi/"
+  },
+  "def": "The document setting out who may work remotely, how often, and on what conditions.",
+  "registers": {
+   "formal": {
+    "uk": "remote working policy",
+    "us": "remote work policy",
+    "ex": "Eligibility for remote working is determined in accordance with the Company's [[remote working policy]].",
+    "ex_us": "Eligibility for remote work is determined in accordance with the Company's [[remote work policy]]."
+   },
+   "everyday": {
+    "uk": "WFH policy",
+    "us": "WFH policy",
+    "ex": "Under the [[WFH policy]], it's two days a week at home, by agreement with your manager."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be eligible for remote working",
+   "to roll out a policy",
+   "under the policy",
+   "a trial period"
+  ],
+  "note_fr": "En France, le télétravail est mis en place par accord collectif, par charte de l'employeur ou, à défaut, par simple accord entre l'employeur et le salarié. « Charter » passe mal en anglais des affaires : dites « policy ». « Agreement » s'il s'agit d'un accord négocié avec les syndicats.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-047",
+  "level": 2,
+  "fr": "jours de RTT",
+  "term": {
+   "uk": "RTT days",
+   "us": "RTT days"
+  },
+  "ipa": {
+   "uk": "/ˌɑː tiː ˈtiː deɪz/",
+   "us": "/ˌɑːr tiː ˈtiː deɪz/"
+  },
+  "def": "Extra days off given in France to employees whose working week is longer than 35 hours, to bring their average back to 35.",
+  "registers": {
+   "formal": {
+    "uk": "days off in compensation for hours worked above thirty-five per week",
+    "us": "days off in compensation for hours worked above thirty-five per week",
+    "ex": "Employees working thirty-nine hours a week receive [[days off in compensation for hours worked above thirty-five per week]]."
+   },
+   "everyday": {
+    "uk": "RTT days",
+    "us": "RTT days",
+    "ex": "On top of their five weeks' holiday, they get about ten [[RTT days]].",
+    "ex_us": "On top of their five weeks of vacation, they get about ten [[RTT days]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take an RTT day",
+   "to earn RTT days",
+   "employer-scheduled RTT days",
+   "unused RTT days"
+  ],
+  "note_fr": "Aucun équivalent britannique ou américain : gardez le sigle et expliquez-le une fois. Ne les présentez pas comme des congés payés (« holiday ») : ils compensent des heures effectuées. « Time off in lieu » est le parallèle le plus parlant pour un Britannique, « comp time » pour un Américain.",
+  "french_concept": true,
+  "explain": {
+   "written": "additional rest days ('RTT days') granted to employees whose contractual working week exceeds the statutory thirty-five hours, so that their working time averages thirty-five hours over the year",
+   "spoken": "RTT days are extra days off. If your contract says 39 hours a week instead of 35, you get the difference back as days off."
+  }
+ },
+ {
+  "id": "tm-048",
+  "level": 2,
+  "fr": "faire le pont",
+  "term": {
+   "uk": "to take a long weekend",
+   "us": "to take a long weekend"
+  },
+  "ipa": {
+   "uk": "/tə teɪk ə lɒŋ wiːkˈend/",
+   "us": "/tə teɪk ə lɔːŋ ˈwiːkend/"
+  },
+  "def": "To take a day's leave between a public holiday and a weekend so as to have four days off in a row.",
+  "registers": {
+   "formal": {
+    "uk": "to take leave on the working day falling between a public holiday and a weekend",
+    "us": "to take leave on the workday falling between a holiday and a weekend",
+    "ex": "The Company may require employees [[to take leave on the working day falling between a public holiday and a weekend]].",
+    "ex_us": "The Company may require employees [[to take leave on the workday falling between a holiday and a weekend]]."
+   },
+   "everyday": {
+    "uk": "to take a long weekend",
+    "us": "to take a long weekend",
+    "ex": "Half the office is [[taking a long weekend]] around the 8 May bank holiday.",
+    "ex_us": "Half the office is [[taking a long weekend]] around the May 8 holiday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take the Friday off",
+   "to bridge the gap",
+   "a four-day weekend",
+   "a bridging day"
+  ],
+  "note_fr": "« To make the bridge » ne veut rien dire. Les jours fériés britanniques et la plupart des jours fériés américains tombent un lundi : la pratique du pont est donc peu connue et demande une phrase d'explication. « Bridge day » est compris en Europe continentale, moins ailleurs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-049",
+  "level": 2,
+  "fr": "acquérir des congés",
+  "term": {
+   "uk": "to accrue leave",
+   "us": "to accrue leave"
+  },
+  "ipa": {
+   "uk": "/tu əˌkruː ˈliːv/",
+   "us": "/tu əˌkruː ˈliːv/"
+  },
+  "def": "To build up a right to paid leave gradually as you work.",
+  "registers": {
+   "formal": {
+    "uk": "to accrue leave",
+    "us": "to accrue leave",
+    "ex": "Employees [[accrue leave]] at the rate of two and a half working days per month of actual work."
+   },
+   "everyday": {
+    "uk": "to build up leave",
+    "us": "to build up leave",
+    "ex": "You [[build up leave]] from your very first month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "accrued leave",
+   "the accrual rate",
+   "accrued but untaken leave",
+   "to accrue on a pro rata basis"
+  ],
+  "note_fr": "« To accrue » est le verbe technique, transitif ou intransitif : « leave accrues monthly ». Évitez « to acquire holidays ». En France, deux jours et demi ouvrables par mois, soit cinq semaines par an ; aux États-Unis, l'acquisition dépend entièrement de la politique de l'employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-050",
+  "level": 2,
+  "fr": "droits à congés",
+  "term": {
+   "uk": "holiday entitlement",
+   "us": "vacation entitlement"
+  },
+  "ipa": {
+   "uk": "/ˈhɒlədeɪ ɪnˌtaɪt(ə)lmənt/",
+   "us": "/veɪˈkeɪʃ(ə)n ɪnˌtaɪt(ə)lmənt/"
+  },
+  "def": "The amount of paid leave an employee has the right to take in a year.",
+  "registers": {
+   "formal": {
+    "uk": "leave entitlement",
+    "us": "leave entitlement",
+    "ex": "The employee's [[leave entitlement]] for an incomplete year is calculated on a pro rata basis."
+   },
+   "everyday": {
+    "uk": "holiday allowance",
+    "us": "PTO",
+    "ex": "What's the [[holiday allowance]] here - twenty-five days plus bank holidays?",
+    "ex_us": "How much [[PTO]] do you get here - fifteen days plus holidays?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "statutory entitlement",
+   "pro rata entitlement",
+   "to use up your entitlement",
+   "paid time off"
+  ],
+  "note_fr": "Aux États-Unis, « PTO » (paid time off) regroupe souvent vacances, jours personnels et parfois maladie dans un compteur unique, sans aucun minimum légal fédéral. Au Royaume-Uni, le minimum légal est de 5,6 semaines, jours fériés compris ou non selon le contrat. « Entitlement » = ce à quoi l'on a droit ; « allowance » = le quota accordé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-051",
+  "level": 2,
+  "fr": "solde de congés",
+  "term": {
+   "uk": "leave balance",
+   "us": "leave balance"
+  },
+  "ipa": {
+   "uk": "/ˈliːv ˌbæləns/",
+   "us": "/ˈliːv ˌbæləns/"
+  },
+  "def": "The number of days of leave an employee still has available to take.",
+  "registers": {
+   "formal": {
+    "uk": "outstanding leave balance",
+    "us": "outstanding leave balance",
+    "ex": "The employee's [[outstanding leave balance]] appears on the monthly statement issued by the HR department."
+   },
+   "everyday": {
+    "uk": "days left",
+    "us": "days left",
+    "ex": "I've still got eight [[days left]] to take before May.",
+    "ex_us": "I still have eight [[days left]] to take before May."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to check your balance",
+   "remaining leave",
+   "untaken leave",
+   "to use up your leave"
+  ],
+  "note_fr": "« Balance » = solde (comme pour un compte bancaire) ; « remaining leave » ou « untaken leave » pour les jours restants. Ne dites pas « the rest of my holidays ». « Outstanding » signifie ici « restant dû », pas « remarquable ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-052",
+  "level": 2,
+  "fr": "reporter des congés",
+  "term": {
+   "uk": "to carry over leave",
+   "us": "to carry over leave"
+  },
+  "ipa": {
+   "uk": "/tə ˌkæri ˈəʊvə liːv/",
+   "us": "/tə ˌkæri ˈoʊvər liːv/"
+  },
+  "def": "To transfer leave not taken in one leave year to the following year.",
+  "registers": {
+   "formal": {
+    "uk": "to carry forward untaken leave",
+    "us": "to carry forward unused leave",
+    "ex": "Employees may [[carry forward]] up to five days of untaken leave with the written consent of the HR Director.",
+    "ex_us": "Employees may [[carry forward]] up to five days of unused leave with the written consent of the HR Director."
+   },
+   "everyday": {
+    "uk": "to carry over leave",
+    "us": "to roll over leave",
+    "ex": "Can I [[carry over]] the three days I didn't manage to take?",
+    "ex_us": "Can I [[roll over]] the three days I didn't manage to take?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "leave carry-over",
+   "carried-over leave",
+   "the carry-over limit",
+   "to lose untaken leave"
+  ],
+  "note_fr": "« To report » est un faux ami (rendre compte, signaler). Reporter des congés à l'année suivante : « to carry over / carry forward » (UK), « to roll over » (US). Reporter la date de ses congés : « to postpone » ou « to push back ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-053",
+  "level": 2,
+  "fr": "période de référence (des congés)",
+  "term": {
+   "uk": "leave year",
+   "us": "vacation year"
+  },
+  "ipa": {
+   "uk": "/ˈliːv jɪə/",
+   "us": "/veɪˈkeɪʃ(ə)n jɪr/"
+  },
+  "def": "The twelve-month period over which paid leave is earned and must normally be taken.",
+  "registers": {
+   "formal": {
+    "uk": "reference period",
+    "us": "reference period",
+    "ex": "Unless a company agreement provides otherwise, the [[reference period]] for the accrual of paid leave runs from 1 June to 31 May.",
+    "ex_us": "Unless a company agreement provides otherwise, the [[reference period]] for the accrual of paid leave runs from June 1 to May 31."
+   },
+   "everyday": {
+    "uk": "leave year",
+    "us": "vacation year",
+    "ex": "Our [[leave year]] runs from January to December.",
+    "ex_us": "Our [[vacation year]] runs from January to December."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the holiday year",
+   "to run from ... to ...",
+   "in the current leave year",
+   "by the end of the leave year"
+  ],
+  "note_fr": "En France, la période d'acquisition court par défaut du 1er juin au 31 mai, ce qui surprend les interlocuteurs étrangers habitués à l'année civile (« calendar year »). « Reference period » est compris, mais « leave year » ou « holiday year » est le terme naturel au Royaume-Uni.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-054",
+  "level": 2,
+  "fr": "récupération / repos compensateur de remplacement",
+  "term": {
+   "uk": "time off in lieu",
+   "us": "comp time"
+  },
+  "ipa": {
+   "uk": "/ˌtaɪm ɒf ɪn ˈljuː/",
+   "us": "/ˈkɑːmp taɪm/"
+  },
+  "def": "Time off given to an employee instead of payment for overtime worked.",
+  "registers": {
+   "formal": {
+    "uk": "time off in lieu of overtime pay",
+    "us": "compensatory time off",
+    "ex": "By agreement, overtime may be compensated by [[time off in lieu of overtime pay]].",
+    "ex_us": "By agreement, overtime may be compensated by [[compensatory time off]]."
+   },
+   "everyday": {
+    "uk": "time off in lieu",
+    "us": "comp time",
+    "ex": "I worked Saturday, so I'm taking Monday as [[time off in lieu]].",
+    "ex_us": "I worked Saturday, so I'm taking Monday as [[comp time]]."
+   },
+   "informal": {
+    "uk": "TOIL",
+    "us": "comp day",
+    "ex": "I've got two days of [[TOIL]] to use up.",
+    "ex_us": "I've got a [[comp day]] to use up."
+   }
+  },
+  "collocations": [
+   "to take time off in lieu",
+   "to bank TOIL",
+   "a day in lieu",
+   "to be owed time"
+  ],
+  "note_fr": "« In lieu » se prononce /ljuː/ ou /luː/ et signifie « à la place ». « TOIL » se dit /tɔɪl/. Attention : aux États-Unis, le « comp time » en remplacement du paiement des heures supplémentaires est en principe interdit dans le secteur privé pour les salariés « non-exempt ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-055",
+  "level": 2,
+  "fr": "congé parental d'éducation",
+  "term": {
+   "uk": "parental leave",
+   "us": "parental leave"
+  },
+  "ipa": {
+   "uk": "/pəˌrent(ə)l ˈliːv/",
+   "us": "/pəˌrent(ə)l ˈliːv/"
+  },
+  "def": "A period of leave that a parent may take to look after a young child, during which the contract is suspended.",
+  "registers": {
+   "formal": {
+    "uk": "parental leave",
+    "us": "parental leave",
+    "ex": "An employee with at least one year's service may take [[parental leave]] or move to part-time work until the child's third birthday.",
+    "ex_us": "An employee with at least one year of service may take [[parental leave]] or move to part-time work until the child's third birthday."
+   },
+   "everyday": {
+    "uk": "parental leave",
+    "us": "parental leave",
+    "ex": "She's thinking of taking six months' [[parental leave]] after her maternity leave.",
+    "ex_us": "She's thinking of taking six months of [[parental leave]] after her maternity leave."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for parental leave",
+   "shared parental leave",
+   "unpaid parental leave",
+   "to return from parental leave"
+  ],
+  "note_fr": "Le congé parental d'éducation français n'est pas rémunéré par l'employeur et peut être pris à temps partiel. Au Royaume-Uni, ne confondez pas « unpaid parental leave » et « shared parental leave » (partage du congé de maternité entre les parents). Aux États-Unis, « parental leave » désigne souvent tout congé lié à une naissance.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-056",
+  "level": 2,
+  "fr": "congé sans solde",
+  "term": {
+   "uk": "unpaid leave",
+   "us": "unpaid leave"
+  },
+  "ipa": {
+   "uk": "/ˌʌnpeɪd ˈliːv/",
+   "us": "/ˌʌnpeɪd ˈliːv/"
+  },
+  "def": "Time off work, agreed with the employer, during which the employee receives no pay.",
+  "registers": {
+   "formal": {
+    "uk": "unpaid leave of absence",
+    "us": "unpaid leave of absence",
+    "ex": "Any [[unpaid leave of absence]] is granted at the Company's discretion and suspends the contract of employment."
+   },
+   "everyday": {
+    "uk": "unpaid leave",
+    "us": "unpaid leave",
+    "ex": "I've asked for a month's [[unpaid leave]] to go travelling.",
+    "ex_us": "I've asked for a month of [[unpaid leave]] to travel."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to grant unpaid leave",
+   "to take unpaid leave",
+   "a leave of absence",
+   "at the employer's discretion"
+  ],
+  "note_fr": "« Leave without pay » existe aussi (administration, US). « Leave without salary » est un calque. En France, le congé sans solde n'est pas prévu par la loi : il repose sur l'accord de l'employeur, ce qui le distingue du congé sabbatique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-057",
+  "level": 2,
+  "fr": "congé sabbatique",
+  "term": {
+   "uk": "sabbatical",
+   "us": "sabbatical"
+  },
+  "ipa": {
+   "uk": "/səˈbætɪk(ə)l/",
+   "us": "/səˈbætɪk(ə)l/"
+  },
+  "def": "A long period away from work, agreed with the employer, after which the employee returns to his or her job.",
+  "registers": {
+   "formal": {
+    "uk": "sabbatical leave",
+    "us": "sabbatical leave",
+    "ex": "An employee who meets the statutory length-of-service conditions may apply for [[sabbatical leave]] of between six and eleven months."
+   },
+   "everyday": {
+    "uk": "sabbatical",
+    "us": "sabbatical",
+    "ex": "He's taking a [[sabbatical]] next year to sail round the Atlantic.",
+    "ex_us": "He's taking a [[sabbatical]] next year to sail around the Atlantic."
+   },
+   "informal": {
+    "uk": "career break",
+    "us": "career break",
+    "ex": "After ten years in the job, I could do with a [[career break]].",
+    "ex_us": "After ten years in the job, I could use a [[career break]]."
+   }
+  },
+  "collocations": [
+   "to go on sabbatical",
+   "to take a sabbatical",
+   "to be on sabbatical",
+   "to defer a request"
+  ],
+  "note_fr": "En France, le congé sabbatique est un droit légal sous conditions d'ancienneté, que l'employeur peut seulement différer ou, dans les petites entreprises, refuser. Au Royaume-Uni et aux États-Unis, il relève du bon vouloir de l'employeur. On dit « on sabbatical », sans article.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-058",
+  "level": 2,
+  "fr": "congé pour décès / événement familial",
+  "term": {
+   "uk": "compassionate leave",
+   "us": "bereavement leave"
+  },
+  "ipa": {
+   "uk": "/kəmˌpæʃ(ə)nət ˈliːv/",
+   "us": "/bɪˈriːvmənt liːv/"
+  },
+  "def": "Paid or unpaid time off given to an employee when a close relative dies or is seriously ill.",
+  "registers": {
+   "formal": {
+    "uk": "bereavement leave",
+    "us": "bereavement leave",
+    "ex": "Employees are entitled to [[bereavement leave]] on the death of a close family member, as provided by law and the collective agreement."
+   },
+   "everyday": {
+    "uk": "compassionate leave",
+    "us": "bereavement leave",
+    "ex": "Her father died on Sunday, so she's on [[compassionate leave]] this week.",
+    "ex_us": "Her father died on Sunday, so she's on [[bereavement leave]] this week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to grant compassionate leave",
+   "a family emergency",
+   "leave for family events",
+   "on compassionate grounds"
+  ],
+  "note_fr": "« Compassionate leave » (UK) est plus large que le deuil : il couvre aussi la maladie grave d'un proche. Les « congés pour événements familiaux » français (mariage, naissance, décès) n'ont pas d'équivalent unique : dites « statutory leave for family events ». Aux États-Unis, rien n'est imposé au niveau fédéral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-059",
+  "level": 2,
+  "fr": "absence injustifiée",
+  "term": {
+   "uk": "unauthorised absence",
+   "us": "unexcused absence"
+  },
+  "ipa": {
+   "uk": "/ʌnˌɔːθəraɪzd ˈæbsəns/",
+   "us": "/ˌʌnɪkˌskjuːzd ˈæbsəns/"
+  },
+  "def": "Absence from work without permission or without an acceptable reason.",
+  "registers": {
+   "formal": {
+    "uk": "unauthorised absence",
+    "us": "unexcused absence",
+    "ex": "Any [[unauthorised absence]] may result in a deduction from pay and in disciplinary action.",
+    "ex_us": "Any [[unexcused absence]] may result in a deduction from pay and in disciplinary action."
+   },
+   "everyday": {
+    "uk": "not to turn up",
+    "us": "not to show up",
+    "ex": "He simply didn't [[turn up]] on Monday, and nobody's heard from him since.",
+    "ex_us": "He simply didn't [[show up]] on Monday, and nobody's heard from him since."
+   },
+   "informal": {
+    "uk": "to go AWOL",
+    "us": "a no-show",
+    "ex": "He [[went AWOL]] for three days last month.",
+    "ex_us": "He was [[a no-show]] three days in a row last month."
+   }
+  },
+  "collocations": [
+   "absence without leave",
+   "to fail to attend work",
+   "to account for an absence",
+   "job abandonment"
+  ],
+  "note_fr": "« Unjustified absence » est un calque : on dit « unauthorised absence » (UK, « unauthorized » aux US) ou « unexcused absence » (US). « AWOL » (/ˈeɪwɒl/, absent without leave) vient du vocabulaire militaire. Abandon de poste : « job abandonment » (US), sans terme britannique consacré.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-060",
+  "level": 2,
+  "fr": "remplacement (d'un salarié absent)",
+  "term": {
+   "uk": "cover",
+   "us": "coverage"
+  },
+  "ipa": {
+   "uk": "/ˈkʌvə/",
+   "us": "/ˈkʌvərɪdʒ/"
+  },
+  "def": "The arrangements made so that an absent employee's work is done by someone else.",
+  "registers": {
+   "formal": {
+    "uk": "cover arrangements",
+    "us": "coverage arrangements",
+    "ex": "Managers are responsible for putting [[cover arrangements]] in place before approving any period of leave.",
+    "ex_us": "Managers are responsible for putting [[coverage arrangements]] in place before approving any period of leave."
+   },
+   "everyday": {
+    "uk": "cover",
+    "us": "coverage",
+    "ex": "Who's providing [[cover]] while Amélie's away?",
+    "ex_us": "Who's providing [[coverage]] while Amélie's away?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to arrange cover",
+   "maternity cover",
+   "holiday cover",
+   "to be short-staffed"
+  ],
+  "note_fr": "UK : « cover » (indénombrable : « to arrange cover ») ; US : « coverage ». « Maternity cover » désigne à la fois le remplacement et le poste proposé à ce titre. « Replacement » désigne plutôt la personne qui succède définitivement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-061",
+  "level": 2,
+  "fr": "retard",
+  "term": {
+   "uk": "lateness",
+   "us": "tardiness"
+  },
+  "ipa": {
+   "uk": "/ˈleɪtnəs/",
+   "us": "/ˈtɑːrdinəs/"
+  },
+  "def": "The fact of arriving at work after the time you are supposed to start.",
+  "registers": {
+   "formal": {
+    "uk": "lateness",
+    "us": "tardiness",
+    "ex": "Persistent [[lateness]] will be dealt with under the Company's disciplinary procedure.",
+    "ex_us": "Repeated [[tardiness]] will be addressed under the Company's disciplinary policy."
+   },
+   "everyday": {
+    "uk": "being late",
+    "us": "being late",
+    "ex": "We need to have a word with him about [[being late]] every Monday.",
+    "ex_us": "We need to talk to him about [[being late]] every Monday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be late for work",
+   "to be running late",
+   "persistent lateness",
+   "poor timekeeping"
+  ],
+  "note_fr": "« A delay » est le retard d'un train ou d'un projet, pas celui d'une personne : dites « he was twenty minutes late », jamais « he had a delay of twenty minutes ». « Tardiness » est courant en américain et vieilli en britannique. « I'm running late » = je vais être en retard.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-062",
+  "level": 2,
+  "fr": "passer à temps partiel / réduire son temps de travail",
+  "term": {
+   "uk": "to reduce one's hours",
+   "us": "to reduce one's hours"
+  },
+  "ipa": {
+   "uk": "/tə rɪˌdjuːs wʌnz ˈaʊəz/",
+   "us": "/tə rɪˌduːs wʌnz ˈaʊrz/"
+  },
+  "def": "To change from full-time work to working fewer hours or days each week.",
+  "registers": {
+   "formal": {
+    "uk": "to move to part-time working",
+    "us": "to move to a part-time schedule",
+    "ex": "An employee wishing [[to move to part-time working]] must submit a written request stating the hours sought and the proposed start date.",
+    "ex_us": "An employee wishing [[to move to a part-time schedule]] must submit a written request stating the hours sought and the proposed start date."
+   },
+   "everyday": {
+    "uk": "to go part-time",
+    "us": "to go part-time",
+    "ex": "She'd like to [[go part-time]] when she comes back - four days a week."
+   },
+   "informal": {
+    "uk": "to cut back",
+    "us": "to cut back",
+    "ex": "I'm [[cutting back]] to three days from September."
+   }
+  },
+  "collocations": [
+   "to go down to four days",
+   "to work four days a week",
+   "to increase one's hours",
+   "a flexible working request"
+  ],
+  "note_fr": "« Travailler à 80 % » ou « au quatre-cinquièmes » : dites « to work four days a week », ou « 0.8 FTE » dans un tableau d'effectifs ; « to work at 80% » n'est pas clair. Au Royaume-Uni, la demande passe par le droit légal de solliciter un aménagement (« flexible working request »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-063",
+  "level": 2,
+  "fr": "équivalent temps plein (ETP)",
+  "term": {
+   "uk": "full-time equivalent",
+   "us": "full-time equivalent"
+  },
+  "ipa": {
+   "uk": "/ˌfʊl taɪm ɪˈkwɪvələnt/",
+   "us": "/ˌfʊl taɪm ɪˈkwɪvələnt/"
+  },
+  "def": "A unit that expresses part-time hours as a fraction of a full-time post, used to count staff.",
+  "registers": {
+   "formal": {
+    "uk": "full-time equivalent",
+    "us": "full-time equivalent",
+    "ex": "Headcount is expressed in [[full-time equivalent]] terms as at 31 December.",
+    "ex_us": "Headcount is expressed in [[full-time equivalent]] terms as of December 31."
+   },
+   "everyday": {
+    "uk": "FTE",
+    "us": "FTE",
+    "ex": "The team is twelve people but only ten [[FTE]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "0.8 FTE",
+   "FTE headcount",
+   "on an FTE basis",
+   "pro rata"
+  ],
+  "note_fr": "Le sigle « FTE » se dit lettre par lettre. Aux États-Unis, « an FTE » désigne aussi, par extension, un salarié permanent à temps plein (par opposition à un prestataire). « Pro rata » (UK) / « prorated » (US) pour les droits calculés au prorata.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-064",
+  "level": 2,
+  "fr": "temps de trajet / de déplacement professionnel",
+  "term": {
+   "uk": "travel time",
+   "us": "travel time"
+  },
+  "ipa": {
+   "uk": "/ˈtræv(ə)l taɪm/",
+   "us": "/ˈtræv(ə)l taɪm/"
+  },
+  "def": "Time an employee spends travelling for work, as distinct from the ordinary journey between home and the usual workplace.",
+  "registers": {
+   "formal": {
+    "uk": "travelling time",
+    "us": "travel time",
+    "ex": "[[Travelling time]] between home and the usual place of work does not constitute working time.",
+    "ex_us": "[[Travel time]] between home and the regular place of work does not constitute hours worked."
+   },
+   "everyday": {
+    "uk": "commute",
+    "us": "commute",
+    "ex": "My [[commute]] is an hour each way, which is why I'd like two days at home."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the daily commute",
+   "to commute",
+   "time spent travelling to a client",
+   "to be compensated for travel time"
+  ],
+  "note_fr": "« Commute » ne désigne que le trajet domicile-travail ; un déplacement professionnel est « a business trip » ou « travel ». En France, le trajet inhabituel qui dépasse le temps normal n'est pas du temps de travail effectif mais donne lieu à contrepartie. Orthographe : « travelling » (UK), « traveling » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-065",
+  "level": 2,
+  "fr": "travail du dimanche",
+  "term": {
+   "uk": "Sunday working",
+   "us": "Sunday work"
+  },
+  "ipa": {
+   "uk": "/ˈsʌndeɪ ˌwɜːkɪŋ/",
+   "us": "/ˈsʌndeɪ wɜːrk/"
+  },
+  "def": "Work carried out on a Sunday, which is restricted or specially compensated in some countries.",
+  "registers": {
+   "formal": {
+    "uk": "Sunday working",
+    "us": "Sunday work",
+    "ex": "[[Sunday working]] is permitted only in the cases provided for by law and with the employee's written consent where so required.",
+    "ex_us": "[[Sunday work]] is permitted only in the cases provided for by law and with the employee's written consent where so required."
+   },
+   "everyday": {
+    "uk": "to work Sundays",
+    "us": "to work Sundays",
+    "ex": "Most of the shop staff [[work Sundays]] on a rota.",
+    "ex_us": "Most of the store staff [[work Sundays]] on a rotating schedule."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "Sunday trading",
+   "weekend working",
+   "to volunteer for Sunday shifts",
+   "a Sunday premium"
+  ],
+  "note_fr": "En France, le repos hebdomadaire est en principe donné le dimanche, avec de nombreuses dérogations (commerces, zones touristiques, continuité de l'activité). « Sunday trading » désigne au Royaume-Uni l'ouverture dominicale des commerces. Aux États-Unis, la question ne se pose pratiquement pas en droit du travail fédéral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-066",
+  "level": 2,
+  "fr": "délai de prévenance",
+  "term": {
+   "uk": "advance notice",
+   "us": "advance notice"
+  },
+  "ipa": {
+   "uk": "/ədˌvɑːns ˈnəʊtɪs/",
+   "us": "/ədˌvæns ˈnoʊtɪs/"
+  },
+  "def": "The minimum period of warning an employer must give before changing an employee's working hours or leave dates.",
+  "registers": {
+   "formal": {
+    "uk": "period of advance notice",
+    "us": "period of advance notice",
+    "ex": "Any change to the distribution of working hours is subject to a [[period of advance notice]] of at least seven days."
+   },
+   "everyday": {
+    "uk": "notice",
+    "us": "notice",
+    "ex": "We need to give people at least a week's [[notice]] if we change the rota.",
+    "ex_us": "We need to give people at least a week's [[notice]] if we change the schedule."
+   },
+   "informal": {
+    "uk": "heads-up",
+    "us": "heads-up",
+    "ex": "Thanks for the [[heads-up]] about Friday's shift change."
+   }
+  },
+  "collocations": [
+   "at short notice",
+   "to give reasonable notice",
+   "without notice",
+   "at least seven days' notice"
+  ],
+  "note_fr": "« Notice » couvre à la fois le préavis de rupture et le simple délai de prévenance : le contexte tranche. « At short notice » (UK) / « on short notice » (US) = au dernier moment. « Prevenance delay » n'existe pas. Notez l'apostrophe : « seven days' notice ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-067",
+  "level": 2,
+  "fr": "fermeture annuelle de l'entreprise",
+  "term": {
+   "uk": "annual shutdown",
+   "us": "annual shutdown"
+  },
+  "ipa": {
+   "uk": "/ˌænjuəl ˈʃʌtdaʊn/",
+   "us": "/ˌænjuəl ˈʃʌtdaʊn/"
+  },
+  "def": "A period when the employer closes its premises and all employees must take leave at the same time.",
+  "registers": {
+   "formal": {
+    "uk": "annual closure",
+    "us": "annual closure",
+    "ex": "During the [[annual closure]] of the plant, all employees are required to take three weeks of their paid leave."
+   },
+   "everyday": {
+    "uk": "shutdown",
+    "us": "shutdown",
+    "ex": "We have a two-week [[shutdown]] in August, so nobody gets a choice."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the Christmas shutdown",
+   "to close for two weeks",
+   "compulsory leave",
+   "to keep days back for the shutdown"
+  ],
+  "note_fr": "En France, la fermeture de l'établissement impose la prise des congés, après consultation des représentants du personnel. Au Royaume-Uni, l'employeur peut aussi imposer des dates en respectant un préavis. « Closing » seul désigne la clôture d'une opération ou des comptes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-068",
+  "level": 2,
+  "fr": "jours ouvrés / jours ouvrables",
+  "term": {
+   "uk": "working days",
+   "us": "business days"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkɪŋ deɪz/",
+   "us": "/ˈbɪznəs deɪz/"
+  },
+  "def": "The days of the week on which work is normally done, usually Monday to Friday, excluding public holidays.",
+  "registers": {
+   "formal": {
+    "uk": "working days",
+    "us": "business days",
+    "ex": "Leave requests shall be answered within ten [[working days]] of receipt.",
+    "ex_us": "Leave requests shall be answered within ten [[business days]] of receipt."
+   },
+   "everyday": {
+    "uk": "working days",
+    "us": "business days",
+    "ex": "It usually takes three [[working days]] to get an answer from payroll.",
+    "ex_us": "It usually takes three [[business days]] to get an answer from payroll."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "calendar days",
+   "within five working days",
+   "a non-working day",
+   "a weekday"
+  ],
+  "note_fr": "L'anglais ne distingue pas jours ouvrés (du lundi au vendredi) et jours ouvrables (du lundi au samedi) : « working days » sera compris comme cinq jours par semaine. Pour des congés décomptés en jours ouvrables, précisez « counted on a six-day week (Monday to Saturday) ». « Calendar days » = jours calendaires. « Open days » = journées portes ouvertes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-069",
+  "level": 2,
+  "fr": "absentéisme",
+  "term": {
+   "uk": "absenteeism",
+   "us": "absenteeism"
+  },
+  "ipa": {
+   "uk": "/ˌæbsənˈtiːɪz(ə)m/",
+   "us": "/ˌæbsənˈtiːɪz(ə)m/"
+  },
+  "def": "Frequent or habitual absence from work across a workforce, especially when it is seen as a problem.",
+  "registers": {
+   "formal": {
+    "uk": "absenteeism",
+    "us": "absenteeism",
+    "ex": "The report analyses the causes of [[absenteeism]] at the Lyon site over the last three years.",
+    "ex_us": "The report analyzes the causes of [[absenteeism]] at the Lyon site over the last three years."
+   },
+   "everyday": {
+    "uk": "absence levels",
+    "us": "absence levels",
+    "ex": "[[Absence levels]] have crept up since the reorganisation.",
+    "ex_us": "[[Absence levels]] have crept up since the reorganization."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the absence rate",
+   "to tackle absenteeism",
+   "short-term absence",
+   "long-term absence"
+  ],
+  "note_fr": "Orthographe : « absenteeism », avec deux « e ». Les professionnels RH britanniques parlent plus volontiers d'« absence » (« absence management », « absence rate ») ; « absenteeism » a une nuance de reproche. Taux d'absentéisme : « absence rate ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-070",
+  "level": 2,
+  "fr": "horaires décalés / atypiques",
+  "term": {
+   "uk": "unsocial hours",
+   "us": "nonstandard hours"
+  },
+  "ipa": {
+   "uk": "/ʌnˌsəʊʃ(ə)l ˈaʊəz/",
+   "us": "/ˌnɑːnstændərd ˈaʊrz/"
+  },
+  "def": "Working hours that fall outside the normal working day, such as evenings, nights and weekends.",
+  "registers": {
+   "formal": {
+    "uk": "unsocial hours",
+    "us": "nonstandard hours",
+    "ex": "Staff required to work [[unsocial hours]] receive the enhancements set out in the collective agreement.",
+    "ex_us": "Staff required to work [[nonstandard hours]] receive the premiums set out in the collective bargaining agreement."
+   },
+   "everyday": {
+    "uk": "odd hours",
+    "us": "odd hours",
+    "ex": "Working in logistics means [[odd hours]], I'm afraid."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to work unsocial hours",
+   "an unsocial hours payment",
+   "evenings and weekends",
+   "antisocial hours"
+  ],
+  "note_fr": "« Unsocial hours » est une expression britannique consacrée (on entend aussi « antisocial hours ») ; aux États-Unis, « nonstandard hours » ou « off-hours ». « Shifted hours » et « atypical hours » ne sont pas idiomatiques.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-071",
+  "level": 2,
+  "fr": "semaine de quatre jours / semaine comprimée",
+  "term": {
+   "uk": "compressed hours",
+   "us": "compressed workweek"
+  },
+  "ipa": {
+   "uk": "/kəmˌprest ˈaʊəz/",
+   "us": "/kəmˌprest ˈwɜːrkwiːk/"
+  },
+  "def": "An arrangement in which an employee works full-time hours over fewer days than usual.",
+  "registers": {
+   "formal": {
+    "uk": "compressed hours arrangement",
+    "us": "compressed workweek arrangement",
+    "ex": "Under a [[compressed hours arrangement]], the employee works his or her full contractual hours over four days.",
+    "ex_us": "Under a [[compressed workweek arrangement]], the employee works his or her full contractual hours over four days."
+   },
+   "everyday": {
+    "uk": "compressed hours",
+    "us": "compressed workweek",
+    "ex": "I do [[compressed hours]]: four long days, and Fridays off.",
+    "ex_us": "I work a [[compressed workweek]]: four long days, and Fridays off."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a four-day week",
+   "a nine-day fortnight",
+   "to work four tens",
+   "to condense one's hours"
+  ],
+  "note_fr": "Ne confondez pas « compressed hours » (même durée sur quatre jours) et « a four-day week », qui peut désigner une réduction réelle du temps de travail. US : « a 4/10 schedule » ou « four tens » (quatre journées de dix heures). « Fortnight » est inconnu des Américains.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-072",
+  "level": 2,
+  "fr": "roulement / équipes alternantes",
+  "term": {
+   "uk": "rotating shifts",
+   "us": "rotating shifts"
+  },
+  "ipa": {
+   "uk": "/rəʊˌteɪtɪŋ ˈʃɪfts/",
+   "us": "/ˌroʊteɪtɪŋ ˈʃɪfts/"
+  },
+  "def": "A system in which employees move regularly from one shift to another, for example from mornings to nights.",
+  "registers": {
+   "formal": {
+    "uk": "rotating shift pattern",
+    "us": "rotating shift schedule",
+    "ex": "Production employees work a [[rotating shift pattern]] alternating between mornings, afternoons and nights.",
+    "ex_us": "Production employees work a [[rotating shift schedule]] alternating between mornings, afternoons and nights."
+   },
+   "everyday": {
+    "uk": "rotating shifts",
+    "us": "rotating shifts",
+    "ex": "We work [[rotating shifts]], so I'm on earlies one week and lates the next.",
+    "ex_us": "We work [[rotating shifts]], so I'm on days one week and evenings the next."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on a rotating basis",
+   "to rotate through shifts",
+   "fixed shifts",
+   "a shift pattern"
+  ],
+  "note_fr": "« On earlies / on lates / on nights » : pluriel familier typiquement britannique pour dire de quelle équipe on est. « Roulement » ne se traduit pas par « rolling » dans ce sens, sauf dans « a rolling rota » (planning tournant).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-073",
+  "level": 2,
+  "fr": "congés perdus s'ils ne sont pas pris",
+  "term": {
+   "uk": "use it or lose it",
+   "us": "use it or lose it"
+  },
+  "ipa": {
+   "uk": "/ˌjuːz ɪt ɔː ˈluːz ɪt/",
+   "us": "/ˌjuːz ɪt ɔːr ˈluːz ɪt/"
+  },
+  "def": "A rule under which leave not taken by a given date can no longer be taken or paid.",
+  "registers": {
+   "formal": {
+    "uk": "to be forfeited",
+    "us": "to be forfeited",
+    "ex": "Leave not taken by the end of the reference period shall [[be forfeited]], save where the employee was prevented from taking it."
+   },
+   "everyday": {
+    "uk": "use it or lose it",
+    "us": "use it or lose it",
+    "ex": "It's [[use it or lose it]] here, so do book your remaining days before May."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to forfeit leave",
+   "to lose untaken leave",
+   "to lapse",
+   "to be prevented from taking leave"
+  ],
+  "note_fr": "« To forfeit » = perdre un droit ; « leave lapses » = les congés sont perdus. Prudence sur le fond : en France comme au Royaume-Uni, l'employeur doit avoir mis le salarié en mesure de prendre ses congés, faute de quoi ils ne sont pas perdus. Certains États américains interdisent ces clauses.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-074",
+  "level": 2,
+  "fr": "congé pour enfant malade / urgence familiale",
+  "term": {
+   "uk": "time off for dependants",
+   "us": "family leave"
+  },
+  "ipa": {
+   "uk": "/ˌtaɪm ɒf fə dɪˈpendənts/",
+   "us": "/ˈfæməli liːv/"
+  },
+  "def": "Short, usually unpaid, time off to deal with an emergency involving a child or another person who depends on you.",
+  "registers": {
+   "formal": {
+    "uk": "time off for dependants",
+    "us": "family leave",
+    "ex": "An employee may take reasonable [[time off for dependants]] in order to deal with an unexpected emergency.",
+    "ex_us": "An employee may take [[family leave]] in order to care for a child with a serious health condition, subject to the eligibility conditions."
+   },
+   "everyday": {
+    "uk": "time off to look after a sick child",
+    "us": "time off to take care of a sick kid",
+    "ex": "I need [[time off to look after a sick child]] - my daughter's got a temperature.",
+    "ex_us": "I need [[time off to take care of a sick kid]] - my daughter's running a fever."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a dependant",
+   "a family emergency",
+   "childcare problems",
+   "to take emergency leave"
+  ],
+  "note_fr": "Orthographe : le nom est « dependant » au Royaume-Uni, « dependent » aux États-Unis (où l'adjectif et le nom s'écrivent pareil). Le droit britannique accorde un temps « raisonnable », non rémunéré, pour les urgences ; le congé français pour enfant malade est lui aussi non rémunéré, sauf convention plus favorable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-075",
+  "level": 2,
+  "fr": "date de retour (de congé)",
+  "term": {
+   "uk": "return date",
+   "us": "return date"
+  },
+  "ipa": {
+   "uk": "/rɪˈtɜːn deɪt/",
+   "us": "/rɪˈtɜːrn deɪt/"
+  },
+  "def": "The day on which an employee is due to come back to work after a period of leave.",
+  "registers": {
+   "formal": {
+    "uk": "expected date of return",
+    "us": "expected date of return",
+    "ex": "The employee shall confirm her [[expected date of return]] in writing no later than eight weeks before the end of her leave."
+   },
+   "everyday": {
+    "uk": "return date",
+    "us": "return date",
+    "ex": "Do we have a firm [[return date]] for Nadia yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be due back",
+   "to bring forward one's return",
+   "to push back one's return",
+   "a phased return"
+  ],
+  "note_fr": "« She's due back on the 5th » = elle doit reprendre le 5. Avancer une date : « to bring forward » (UK) / « to move up » (US) ; la repousser : « to push back ». « To advance a date » est ambigu.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-076",
+  "level": 3,
+  "fr": "temps de travail effectif",
+  "term": {
+   "uk": "actual working time",
+   "us": "hours worked"
+  },
+  "ipa": {
+   "uk": "/ˌæktʃuəl ˈwɜːkɪŋ taɪm/",
+   "us": "/ˌaʊrz ˈwɜːrkt/"
+  },
+  "def": "Time during which the employee is at the employer's disposal and must follow its instructions, without being free to attend to personal matters.",
+  "registers": {
+   "formal": {
+    "uk": "actual working time",
+    "us": "hours worked",
+    "ex": "Breaks during which the employee is free to attend to personal matters do not constitute [[actual working time]].",
+    "ex_us": "Breaks during which the employee is free to attend to personal matters do not constitute [[hours worked]]."
+   },
+   "everyday": {
+    "uk": "time that counts as working time",
+    "us": "time that counts as hours worked",
+    "ex": "The real question is whether changing into uniform is [[time that counts as working time]].",
+    "ex_us": "The real question is whether changing into uniform is [[time that counts as hours worked]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to count as working time",
+   "to be at the employer's disposal",
+   "to be treated as working time",
+   "compensable time"
+  ],
+  "note_fr": "« Effective working time » est un demi-calque : « effective » signifie efficace. Préférez « actual working time », ou « working time » tout court (terme de la directive européenne). Aux États-Unis, la notion voisine est « hours worked » ou « compensable time ». Certaines absences sont « assimilées » à du temps de travail effectif : « treated as working time ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-077",
+  "level": 3,
+  "fr": "contingent annuel d'heures supplémentaires",
+  "term": {
+   "uk": "annual overtime quota",
+   "us": "annual overtime quota"
+  },
+  "ipa": {
+   "uk": "/ˌænjuəl ˈəʊvətaɪm ˌkwəʊtə/",
+   "us": "/ˌænjuəl ˈoʊvərtaɪm ˌkwoʊtə/"
+  },
+  "def": "The number of overtime hours per employee per year beyond which French law requires additional compensatory rest.",
+  "registers": {
+   "formal": {
+    "uk": "annual overtime quota",
+    "us": "annual overtime quota",
+    "ex": "Overtime worked in excess of the [[annual overtime quota]] gives rise to compulsory compensatory rest in addition to the overtime premium."
+   },
+   "everyday": {
+    "uk": "overtime quota",
+    "us": "overtime quota",
+    "ex": "Several of the technicians will have used up their [[overtime quota]] by October."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "within the quota",
+   "to exceed the quota",
+   "a quota set by collective agreement",
+   "to use up the quota"
+  ],
+  "note_fr": "Le contingent est fixé par accord collectif ou, à défaut, par décret. Ce n'est pas un plafond absolu : au-delà, les heures restent possibles mais ouvrent droit à une contrepartie obligatoire en repos et supposent la consultation du CSE. Aucun mécanisme comparable au Royaume-Uni ni aux États-Unis.",
+  "french_concept": true,
+  "explain": {
+   "written": "the annual overtime quota, being the number of overtime hours per employee per year, set by collective agreement or failing that by decree, beyond which additional compensatory rest is due",
+   "spoken": "There's a yearly allowance of overtime per employee. You can go over it, but then you owe people extra rest on top of the overtime pay."
+  }
+ },
+ {
+  "id": "tm-078",
+  "level": 3,
+  "fr": "heures complémentaires",
+  "term": {
+   "uk": "additional hours",
+   "us": "additional hours"
+  },
+  "ipa": {
+   "uk": "/əˌdɪʃ(ə)nəl ˈaʊəz/",
+   "us": "/əˌdɪʃ(ə)nəl ˈaʊrz/"
+  },
+  "def": "Hours worked by a part-time employee above the hours in the contract but below full-time hours.",
+  "registers": {
+   "formal": {
+    "uk": "additional hours",
+    "us": "additional hours",
+    "ex": "A part-time employee may be asked to work [[additional hours]] only within the limits laid down by law and by the contract."
+   },
+   "everyday": {
+    "uk": "extra hours",
+    "us": "extra hours",
+    "ex": "She's contracted for twenty-four hours, but she's been doing a lot of [[extra hours]] lately."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "contracted hours",
+   "above one's contracted hours",
+   "to top up one's hours",
+   "to refuse additional hours"
+  ],
+  "note_fr": "Ne les appelez pas « overtime » : en droit français, les heures supplémentaires ne concernent que le dépassement de la durée légale par un salarié à temps plein. Les heures complémentaires sont plafonnées et majorées. Au Royaume-Uni, les heures d'un salarié à temps partiel au-delà du contrat sont simplement des « additional hours », en général sans majoration.",
+  "french_concept": true,
+  "explain": {
+   "written": "additional hours ('heures complémentaires'), namely hours worked by a part-time employee beyond his or her contractual hours, which are capped by law and attract a pay supplement",
+   "spoken": "For part-timers we don't talk about overtime. Hours above their contract are called additional hours, and there's a cap on them."
+  }
+ },
+ {
+  "id": "tm-079",
+  "level": 3,
+  "fr": "compte épargne-temps (CET)",
+  "term": {
+   "uk": "time savings account",
+   "us": "time savings account"
+  },
+  "ipa": {
+   "uk": "/ˌtaɪm ˈseɪvɪŋz əˌkaʊnt/",
+   "us": "/ˌtaɪm ˈseɪvɪŋz əˌkaʊnt/"
+  },
+  "def": "A French scheme allowing employees to save up untaken leave or rest days, and sometimes pay, to use later as paid time off or money.",
+  "registers": {
+   "formal": {
+    "uk": "time savings account",
+    "us": "time savings account",
+    "ex": "Employees may credit up to five days of untaken leave per year to their [[time savings account]], as provided by the company agreement."
+   },
+   "everyday": {
+    "uk": "to bank days",
+    "us": "to bank days",
+    "ex": "A lot of the senior people [[bank days]] every year towards a long break before retirement.",
+    "ex_us": "A lot of the senior people [[bank days]] every year toward a long break before retirement."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay days into the account",
+   "to draw on the account",
+   "banked days",
+   "to convert days into pay"
+  ],
+  "note_fr": "Dispositif français mis en place par accord collectif, sans équivalent direct. Le parallèle le plus proche est le « leave bank » américain ou le « holiday banking » de certains employeurs britanniques. Gardez le sigle CET et expliquez-le. « Saving account of time » est un calque.",
+  "french_concept": true,
+  "explain": {
+   "written": "a time savings account ('compte épargne-temps'), a scheme established by collective agreement under which employees may accumulate untaken leave and rest days, or certain sums, in order to fund paid time off at a later date or to receive deferred remuneration",
+   "spoken": "It's a kind of savings account, but for time. You pay in days you haven't taken, and later you can use them for a long break or cash them in."
+  }
+ },
+ {
+  "id": "tm-080",
+  "level": 3,
+  "fr": "annualisation / aménagement du temps de travail sur l'année",
+  "term": {
+   "uk": "annualised hours",
+   "us": "annualized hours"
+  },
+  "ipa": {
+   "uk": "/ˌænjuəlaɪzd ˈaʊəz/",
+   "us": "/ˌænjuəlaɪzd ˈaʊrz/"
+  },
+  "def": "A system in which working time is counted over the whole year, so that weekly hours can vary with the level of activity.",
+  "registers": {
+   "formal": {
+    "uk": "annualised hours arrangement",
+    "us": "annualized hours arrangement",
+    "ex": "Under the [[annualised hours arrangement]], weekly working hours vary between busy and quiet periods, and overtime is assessed at the end of the reference period.",
+    "ex_us": "Under the [[annualized hours arrangement]], weekly working hours vary between busy and slow periods, and overtime is assessed at the end of the reference period."
+   },
+   "everyday": {
+    "uk": "annualised hours",
+    "us": "annualized hours",
+    "ex": "We're on [[annualised hours]], so we do longer weeks in the run-up to Christmas and shorter ones in the spring.",
+    "ex_us": "We're on [[annualized hours]], so we work longer weeks in the run-up to Christmas and shorter ones in the spring."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to average hours over the year",
+   "busy and quiet periods",
+   "over a reference period",
+   "to smooth pay over the year"
+  ],
+  "note_fr": "En France, cet aménagement suppose en principe un accord collectif ; les heures supplémentaires se décomptent alors à la fin de la période de référence. Aux États-Unis, l'idée heurte la règle fédérale du décompte semaine par semaine pour les salariés « non-exempt ». Lissage de la rémunération : « smoothed pay ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-081",
+  "level": 3,
+  "fr": "salarié non éligible aux heures supplémentaires (statut « exempt », US)",
+  "term": {
+   "uk": "exempt employee",
+   "us": "exempt employee"
+  },
+  "ipa": {
+   "uk": "/ɪɡˌzempt ɪmˈplɔɪiː/",
+   "us": "/ɪɡˌzempt ɪmˈplɔɪiː/"
+  },
+  "def": "In the US, an employee who is not entitled to overtime pay because of the nature of the job and the way he or she is paid.",
+  "registers": {
+   "formal": {
+    "uk": "exempt employee",
+    "us": "exempt employee",
+    "ex": "As an [[exempt employee]], the Executive is not eligible for overtime compensation."
+   },
+   "everyday": {
+    "uk": "exempt",
+    "us": "exempt",
+    "ex": "Is she [[exempt]], or do we need to track her hours?"
+   },
+   "informal": {
+    "uk": "salaried",
+    "us": "salaried",
+    "ex": "He's [[salaried]], so he doesn't clock in."
+   }
+  },
+  "collocations": [
+   "exempt status",
+   "non-exempt employees",
+   "to be classified as exempt",
+   "an hourly employee"
+  ],
+  "note_fr": "Notion américaine issue de la législation fédérale sur les salaires et la durée du travail : les « exempt » (cadres, professions intellectuelles ou administratives remplissant des critères de fonctions et de rémunération) n'ont pas droit aux heures supplémentaires. C'est le repère le plus utile pour expliquer le forfait jours à un Américain, avec une réserve : le forfait jours exige un accord collectif et le respect des temps de repos.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-082",
+  "level": 3,
+  "fr": "renonciation individuelle au plafond de 48 heures (UK)",
+  "term": {
+   "uk": "opt-out agreement",
+   "us": "opt-out agreement"
+  },
+  "ipa": {
+   "uk": "/ˈɒpt aʊt əˌɡriːmənt/",
+   "us": "/ˈɑːpt aʊt əˌɡriːmənt/"
+  },
+  "def": "In the UK, a written agreement by which a worker accepts working more than an average of 48 hours a week.",
+  "registers": {
+   "formal": {
+    "uk": "opt-out agreement",
+    "us": "opt-out agreement",
+    "ex": "The worker may terminate the [[opt-out agreement]] at any time by giving the employer the agreed period of written notice."
+   },
+   "everyday": {
+    "uk": "to opt out",
+    "us": "to opt out",
+    "ex": "Most of the managers have [[opted out]] of the 48-hour week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign an opt-out",
+   "to opt out of the 48-hour limit",
+   "to opt back in",
+   "a voluntary opt-out"
+  ],
+  "note_fr": "Mécanisme britannique sans équivalent en France, où les durées maximales sont d'ordre public et où le salarié ne peut pas y renoncer individuellement. À signaler au client britannique qui voudrait faire signer un « opt-out » à ses salariés français : la clause serait sans effet.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-083",
+  "level": 3,
+  "fr": "dérogation",
+  "term": {
+   "uk": "derogation",
+   "us": "exemption"
+  },
+  "ipa": {
+   "uk": "/ˌderəˈɡeɪʃ(ə)n/",
+   "us": "/ɪɡˈzempʃ(ə)n/"
+  },
+  "def": "Official permission not to apply a legal rule in particular circumstances.",
+  "registers": {
+   "formal": {
+    "uk": "derogation",
+    "us": "exemption",
+    "ex": "A [[derogation]] from the daily rest period may be provided for by collective agreement, subject to equivalent compensatory rest.",
+    "ex_us": "An [[exemption]] from the daily rest period may be provided for by collective bargaining agreement, subject to equivalent compensatory rest."
+   },
+   "everyday": {
+    "uk": "exception",
+    "us": "exception",
+    "ex": "There's an [[exception]] for seasonal work, but it's a narrow one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to derogate from",
+   "by way of derogation",
+   "to grant an exemption",
+   "to apply for an exemption"
+  ],
+  "note_fr": "« Derogation » appartient au vocabulaire du droit européen et reste compris des juristes britanniques ; un Américain dira « exemption », « exception » ou « waiver ». Faux ami : « derogatory » signifie péjoratif, dénigrant, et n'a rien à voir avec une dérogation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-084",
+  "level": 3,
+  "fr": "amplitude de la journée de travail",
+  "term": {
+   "uk": "span of the working day",
+   "us": "span of the workday"
+  },
+  "ipa": {
+   "uk": "/ˌspæn əv ðə ˌwɜːkɪŋ ˈdeɪ/",
+   "us": "/ˌspæn əv ðə ˈwɜːrkdeɪ/"
+  },
+  "def": "The total time between the moment an employee starts work and the moment he or she finishes, breaks included.",
+  "registers": {
+   "formal": {
+    "uk": "span of the working day",
+    "us": "span of the workday",
+    "ex": "The [[span of the working day]], breaks included, may not exceed thirteen hours.",
+    "ex_us": "The [[span of the workday]], breaks included, may not exceed thirteen hours."
+   },
+   "everyday": {
+    "uk": "the length of the day from start to finish",
+    "us": "the length of the day from start to finish",
+    "ex": "It's not the hours worked that worry me, it's [[the length of the day from start to finish]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "from start to finish",
+   "breaks included",
+   "a long day",
+   "spread of hours"
+  ],
+  "note_fr": "Notion française déduite du repos quotidien de onze heures (vingt-quatre heures moins onze). « Amplitude » existe en anglais mais relève de la physique : dites « span » ou, à l'américaine, « spread of hours » (terme connu dans certains États).",
+  "french_concept": true,
+  "explain": {
+   "written": "the span of the working day ('amplitude'), being the period between the start and the end of the employee's working day including breaks, which is limited as a consequence of the statutory daily rest period",
+   "spoken": "In France we also look at the whole day from when you start to when you finish, breaks included - not just the hours you actually work."
+  }
+ },
+ {
+  "id": "tm-085",
+  "level": 3,
+  "fr": "contrepartie obligatoire en repos",
+  "term": {
+   "uk": "compensatory rest",
+   "us": "compensatory rest"
+  },
+  "ipa": {
+   "uk": "/kəmˌpensət(ə)ri ˈrest/",
+   "us": "/kəmˌpensətɔːri ˈrest/"
+  },
+  "def": "Additional paid rest that the law requires an employer to give, for example for overtime beyond the annual quota.",
+  "registers": {
+   "formal": {
+    "uk": "compulsory compensatory rest",
+    "us": "mandatory compensatory rest",
+    "ex": "Hours worked beyond the annual quota give rise to [[compulsory compensatory rest]], which must be taken within the time limit laid down.",
+    "ex_us": "Hours worked beyond the annual quota give rise to [[mandatory compensatory rest]], which must be taken within the time limit laid down."
+   },
+   "everyday": {
+    "uk": "extra rest",
+    "us": "extra rest",
+    "ex": "Past that point they're owed [[extra rest]] as well as the overtime pay."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "equivalent compensatory rest",
+   "to be owed rest",
+   "to take rest within a time limit",
+   "in addition to overtime pay"
+  ],
+  "note_fr": "À distinguer du « repos compensateur de remplacement » (« time off in lieu »), qui remplace le paiement des heures : la contrepartie obligatoire s'y ajoute. La directive européenne parle d'« equivalent compensatory rest » pour les dérogations aux temps de repos. Prononciation : accent sur « pen », /kəmˈpensətəri/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-086",
+  "level": 3,
+  "fr": "entretien annuel de suivi de la charge de travail (forfait jours)",
+  "term": {
+   "uk": "workload review meeting",
+   "us": "workload review meeting"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkləʊd rɪˌvjuː ˌmiːtɪŋ/",
+   "us": "/ˈwɜːrkloʊd rɪˌvjuː ˌmiːtɪŋ/"
+  },
+  "def": "The regular meeting at which the employer must discuss workload and work-life balance with an employee whose time is counted in days.",
+  "registers": {
+   "formal": {
+    "uk": "workload review meeting",
+    "us": "workload review meeting",
+    "ex": "At least once a year, a [[workload review meeting]] is held to discuss the employee's workload, the organisation of his or her work and the balance between working and private life.",
+    "ex_us": "At least once a year, a [[workload review meeting]] is held to discuss the employee's workload, the organization of his or her work and the balance between working and private life."
+   },
+   "everyday": {
+    "uk": "workload check-in",
+    "us": "workload check-in",
+    "ex": "Have you had your [[workload check-in]] with Marc this year?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to monitor workload",
+   "to raise an alert",
+   "work-life balance",
+   "to keep a record of days worked"
+  ],
+  "note_fr": "Obligation propre au forfait jours : l'employeur doit suivre régulièrement la charge de travail et pouvoir le prouver, faute de quoi la convention de forfait peut être privée d'effet et le salarié réclamer des heures supplémentaires. Ne traduisez pas par « appraisal », qui désigne l'entretien d'évaluation.",
+  "french_concept": true,
+  "explain": {
+   "written": "the periodic review meeting required for employees working under an annual working-days arrangement, at which workload, work organisation, work-life balance and remuneration are discussed",
+   "spoken": "For people whose time is counted in days, not hours, the employer has to sit down with them regularly and check that the workload is reasonable."
+  }
+ },
+ {
+  "id": "tm-087",
+  "level": 3,
+  "fr": "ordre des départs en congé",
+  "term": {
+   "uk": "leave schedule",
+   "us": "vacation schedule"
+  },
+  "ipa": {
+   "uk": "/ˈliːv ˌʃedjuːl/",
+   "us": "/veɪˈkeɪʃ(ə)n ˌskedʒuːl/"
+  },
+  "def": "The employer's plan fixing which employees take their leave on which dates.",
+  "registers": {
+   "formal": {
+    "uk": "order of leave",
+    "us": "order of leave",
+    "ex": "The [[order of leave]] is determined by the employer having regard to the employee's family circumstances and length of service."
+   },
+   "everyday": {
+    "uk": "holiday rota",
+    "us": "vacation schedule",
+    "ex": "The summer [[holiday rota]] needs to be finalised by the end of March.",
+    "ex_us": "The summer [[vacation schedule]] needs to be finalized by the end of March."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to stagger leave",
+   "to give priority to",
+   "to set leave dates",
+   "to clash with someone's leave"
+  ],
+  "note_fr": "En France, c'est l'employeur qui fixe l'ordre des départs, selon des critères légaux ou conventionnels (situation de famille, ancienneté), après avis du CSE, et il ne peut plus modifier les dates à l'approche du départ, sauf circonstances exceptionnelles. « To stagger leave » = échelonner les départs. « Departure order » ne convient pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-088",
+  "level": 3,
+  "fr": "fractionnement des congés",
+  "term": {
+   "uk": "splitting of leave",
+   "us": "splitting of leave"
+  },
+  "ipa": {
+   "uk": "/ˌsplɪtɪŋ əv ˈliːv/",
+   "us": "/ˌsplɪtɪŋ əv ˈliːv/"
+  },
+  "def": "Taking the main period of annual leave in several parts, which in France may give a right to extra days off.",
+  "registers": {
+   "formal": {
+    "uk": "splitting of the main period of leave",
+    "us": "splitting of the main period of leave",
+    "ex": "The [[splitting of the main period of leave]] may give rise to additional days of leave unless the employee has waived them in writing."
+   },
+   "everyday": {
+    "uk": "to split one's leave",
+    "us": "to split one's leave",
+    "ex": "If you [[split your leave]] and take part of it in the winter, you may get an extra day or two."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "additional days for split leave",
+   "the main period of leave",
+   "outside the statutory leave period",
+   "to waive the extra days"
+  ],
+  "note_fr": "Règle française : lorsqu'une partie du congé principal est prise en dehors de la période légale (du 1er mai au 31 octobre), le salarié peut avoir droit à des jours supplémentaires, sauf renonciation ou accord collectif contraire. Inconnue ailleurs : il faut l'expliquer en une phrase. « Fractioning » n'existe pas.",
+  "french_concept": true,
+  "explain": {
+   "written": "the splitting of the main period of leave ('fractionnement'), which under French law may entitle the employee to additional days of leave where part of that leave is taken outside the statutory summer period",
+   "spoken": "If someone doesn't take all their main holiday in the summer period, French law may give them one or two extra days. It's a quirk, but payroll has to track it."
+  }
+ },
+ {
+  "id": "tm-089",
+  "level": 3,
+  "fr": "présentéisme",
+  "term": {
+   "uk": "presenteeism",
+   "us": "presenteeism"
+  },
+  "ipa": {
+   "uk": "/ˌprez(ə)nˈtiːɪz(ə)m/",
+   "us": "/ˌprez(ə)nˈtiːɪz(ə)m/"
+  },
+  "def": "The practice of being at work for longer than necessary, or when unwell, in order to be seen to be there.",
+  "registers": {
+   "formal": {
+    "uk": "presenteeism",
+    "us": "presenteeism",
+    "ex": "The survey points to a culture of [[presenteeism]] in which long hours are equated with commitment."
+   },
+   "everyday": {
+    "uk": "staying late just to be seen",
+    "us": "staying late just to be seen",
+    "ex": "There's a lot of [[staying late just to be seen]] in that department."
+   },
+   "informal": {
+    "uk": "face time",
+    "us": "face time",
+    "ex": "Promotion there still depends far too much on [[face time]]."
+   }
+  },
+  "collocations": [
+   "a long-hours culture",
+   "to be seen at one's desk",
+   "to judge people on output",
+   "to come in when ill"
+  ],
+  "note_fr": "En anglais, « presenteeism » désigne d'abord le fait de venir travailler malade, puis la culture des longues heures. « Face time » (en deux mots) = temps de présence visible au bureau ; ne confondez pas avec l'application. Le contraire recherché : « to manage by results, not by hours ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-090",
+  "level": 3,
+  "fr": "don de jours de repos",
+  "term": {
+   "uk": "donation of leave days",
+   "us": "leave donation"
+  },
+  "ipa": {
+   "uk": "/dəʊˌneɪʃ(ə)n əv ˈliːv deɪz/",
+   "us": "/ˈliːv doʊˌneɪʃ(ə)n/"
+  },
+  "def": "Giving some of your own untaken leave to a colleague who needs time off for serious family reasons.",
+  "registers": {
+   "formal": {
+    "uk": "donation of rest days",
+    "us": "donation of leave",
+    "ex": "The [[donation of rest days]] is anonymous, unpaid and subject to the employer's agreement.",
+    "ex_us": "The [[donation of leave]] is anonymous, unpaid and subject to the employer's agreement."
+   },
+   "everyday": {
+    "uk": "to give some of your leave to a colleague",
+    "us": "to donate PTO to a co-worker",
+    "ex": "Several people offered to [[give some of their leave to a colleague]] whose son was in hospital.",
+    "ex_us": "Several people offered to [[donate PTO to a co-worker]] whose son was in the hospital."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to donate leave",
+   "a leave-sharing scheme",
+   "a recipient",
+   "on an anonymous basis"
+  ],
+  "note_fr": "Le droit français permet à un salarié de renoncer anonymement à des jours de repos au profit d'un collègue, notamment parent d'un enfant gravement malade ou proche aidant. Aux États-Unis, des « leave donation » ou « leave-sharing programs » existent chez certains employeurs, sans cadre légal général. UK : « in hospital » ; US : « in the hospital ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-091",
+  "level": 3,
+  "fr": "congé de proche aidant",
+  "term": {
+   "uk": "carer's leave",
+   "us": "caregiver leave"
+  },
+  "ipa": {
+   "uk": "/ˈkeərəz liːv/",
+   "us": "/ˈkerɡɪvər liːv/"
+  },
+  "def": "Leave taken to look after a relative who is seriously ill, disabled or losing independence.",
+  "registers": {
+   "formal": {
+    "uk": "carer's leave",
+    "us": "caregiver leave",
+    "ex": "An employee may take [[carer's leave]] in order to provide care for a dependant with a long-term care need.",
+    "ex_us": "An employee may take [[caregiver leave]] in order to care for a family member with a serious health condition."
+   },
+   "everyday": {
+    "uk": "time off to care for a relative",
+    "us": "time off to care for a relative",
+    "ex": "He's asked for [[time off to care for a relative]] - his mother can't manage on her own any more.",
+    "ex_us": "He's asked for [[time off to care for a relative]] - his mother can't manage on her own anymore."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a carer",
+   "caring responsibilities",
+   "to care for a dependant",
+   "a long-term care need"
+  ],
+  "note_fr": "UK : « carer » ; US : « caregiver ». Le congé de proche aidant français, le « carer's leave » britannique et le congé familial américain (FMLA) reposent sur des conditions et des durées très différentes : n'employez pas l'un pour l'autre sans préciser le pays. « Helper » ne convient pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-092",
+  "level": 3,
+  "fr": "congé familial et médical américain (FMLA)",
+  "term": {
+   "uk": "FMLA leave",
+   "us": "FMLA leave"
+  },
+  "ipa": {
+   "uk": "/ˌef em el ˈeɪ liːv/",
+   "us": "/ˌef em el ˈeɪ liːv/"
+  },
+  "def": "In the US, unpaid, job-protected leave that eligible employees of larger employers may take for certain family and medical reasons.",
+  "registers": {
+   "formal": {
+    "uk": "leave under the Family and Medical Leave Act",
+    "us": "leave under the Family and Medical Leave Act",
+    "ex": "Eligible employees may take up to twelve weeks of unpaid, job-protected [[leave under the Family and Medical Leave Act]] in a twelve-month period."
+   },
+   "everyday": {
+    "uk": "FMLA leave",
+    "us": "FMLA leave",
+    "ex": "She's out on [[FMLA leave]] until the baby is three months old."
+   },
+   "informal": {
+    "uk": "FMLA",
+    "us": "FMLA",
+    "ex": "He's on [[FMLA]] right now, so don't contact him about work."
+   }
+  },
+  "collocations": [
+   "to be eligible for FMLA",
+   "job-protected leave",
+   "to run concurrently with",
+   "to designate leave as FMLA"
+  ],
+  "note_fr": "Loi fédérale américaine : le congé n'est pas rémunéré, ne vise que les salariés remplissant des conditions d'ancienneté et d'effectif, et couvre à la fois la naissance, l'adoption et la maladie grave du salarié ou d'un proche. Un interlocuteur américain raisonne à partir de ce cadre : le congé de maternité français rémunéré le surprendra. Certains États ont leur propre congé rémunéré.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-093",
+  "level": 3,
+  "fr": "horaires coupés / coupure",
+  "term": {
+   "uk": "split shift",
+   "us": "split shift"
+  },
+  "ipa": {
+   "uk": "/ˌsplɪt ˈʃɪft/",
+   "us": "/ˌsplɪt ˈʃɪft/"
+  },
+  "def": "A working day divided into two or more separate periods with a long unpaid gap between them.",
+  "registers": {
+   "formal": {
+    "uk": "split shift",
+    "us": "split shift",
+    "ex": "The contract of a part-time employee may not provide for a [[split shift]] involving more than one interruption per day, save where a collective agreement so permits.",
+    "ex_us": "The contract of a part-time employee may not provide for a [[split shift]] involving more than one interruption per day, except where a collective bargaining agreement so permits."
+   },
+   "everyday": {
+    "uk": "split shift",
+    "us": "split shift",
+    "ex": "The cleaners work a [[split shift]]: six to nine in the morning, then five to eight in the evening."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to work split shifts",
+   "a gap between two periods of work",
+   "an unpaid break",
+   "a split-shift premium"
+  ],
+  "note_fr": "« Coupure » ne se traduit pas par « cut » : on parle de « the gap » ou « the break between the two parts of the shift ». En France, les coupures des salariés à temps partiel sont encadrées par la loi et les accords de branche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-094",
+  "level": 3,
+  "fr": "travailleur de nuit",
+  "term": {
+   "uk": "night worker",
+   "us": "night worker"
+  },
+  "ipa": {
+   "uk": "/ˈnaɪt ˌwɜːkə/",
+   "us": "/ˈnaɪt ˌwɜːrkər/"
+  },
+  "def": "An employee who regularly works a minimum number of hours at night and so benefits from special legal protection.",
+  "registers": {
+   "formal": {
+    "uk": "night worker",
+    "us": "night worker",
+    "ex": "Any employee classed as a [[night worker]] is entitled to compensatory rest and to enhanced medical supervision."
+   },
+   "everyday": {
+    "uk": "someone on permanent nights",
+    "us": "someone on permanent nights",
+    "ex": "As [[someone on permanent nights]], he gets extra rest days.",
+    "ex_us": "As [[someone on permanent nights]], he gets additional rest days."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be classed as a night worker",
+   "regular night work",
+   "to transfer to day work",
+   "a health assessment"
+  ],
+  "note_fr": "Travailler de nuit occasionnellement ne suffit pas à faire d'un salarié un « travailleur de nuit » au sens légal : il faut atteindre des seuils d'heures de nuit. La catégorie existe aussi en droit britannique (« night worker »), avec ses propres seuils ; elle est inconnue du droit fédéral américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-095",
+  "level": 3,
+  "fr": "travail en continu (3x8)",
+  "term": {
+   "uk": "three-shift system",
+   "us": "three-shift system"
+  },
+  "ipa": {
+   "uk": "/ˌθriː ʃɪft ˈsɪstəm/",
+   "us": "/ˌθriː ʃɪft ˈsɪstəm/"
+  },
+  "def": "A way of organising work in which three teams follow one another so that activity never stops over twenty-four hours.",
+  "registers": {
+   "formal": {
+    "uk": "continuous shift working",
+    "us": "continuous shift work",
+    "ex": "The plant operates on the basis of [[continuous shift working]], with three eight-hour shifts in every twenty-four hours.",
+    "ex_us": "The plant operates on the basis of [[continuous shift work]], with three eight-hour shifts in every twenty-four hours."
+   },
+   "everyday": {
+    "uk": "round-the-clock shifts",
+    "us": "round-the-clock shifts",
+    "ex": "The line runs [[round-the-clock shifts]], seven days a week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to run three shifts",
+   "round the clock",
+   "24/7 operations",
+   "a shift changeover"
+  ],
+  "note_fr": "« Three by eight » ne sera pas compris : dites « three eight-hour shifts » ou « a three-shift system ». « Round the clock » (UK) / « around the clock » (US) = vingt-quatre heures sur vingt-quatre. La relève entre deux équipes : « shift changeover » ou « shift handover ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-096",
+  "level": 3,
+  "fr": "accord d'entreprise sur le temps de travail",
+  "term": {
+   "uk": "working time agreement",
+   "us": "working time agreement"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkɪŋ taɪm əˌɡriːmənt/",
+   "us": "/ˈwɜːrkɪŋ taɪm əˌɡriːmənt/"
+  },
+  "def": "A collective agreement negotiated at company level that sets the rules on hours, overtime and rest.",
+  "registers": {
+   "formal": {
+    "uk": "company-level agreement on working time",
+    "us": "company-level agreement on working time",
+    "ex": "The [[company-level agreement on working time]] signed on 12 March takes precedence over the industry-wide agreement on these matters.",
+    "ex_us": "The [[company-level agreement on working time]] signed on March 12 takes precedence over the industry-wide agreement on these matters."
+   },
+   "everyday": {
+    "uk": "working time agreement",
+    "us": "working time agreement",
+    "ex": "Everything depends on what the [[working time agreement]] says about overtime."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to negotiate an agreement",
+   "to be covered by an agreement",
+   "an industry-wide agreement",
+   "in the absence of an agreement"
+  ],
+  "note_fr": "En matière de durée du travail, l'accord d'entreprise prime en principe sur l'accord de branche en France : point à expliquer, car un Américain associe « collective bargaining agreement » aux seuls sites syndiqués. Au Royaume-Uni, un « workforce agreement » peut jouer un rôle voisin en l'absence de syndicat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-097",
+  "level": 3,
+  "fr": "monétisation de jours de repos",
+  "term": {
+   "uk": "to cash in leave",
+   "us": "to cash out leave"
+  },
+  "ipa": {
+   "uk": "/tə ˌkæʃ ɪn ˈliːv/",
+   "us": "/tə ˌkæʃ aʊt ˈliːv/"
+  },
+  "def": "To receive money in exchange for leave or rest days that you give up.",
+  "registers": {
+   "formal": {
+    "uk": "to convert rest days into remuneration",
+    "us": "to convert rest days into compensation",
+    "ex": "Subject to the employer's agreement, the employee may elect [[to convert rest days into remuneration]].",
+    "ex_us": "Subject to the employer's agreement, the employee may elect [[to convert rest days into compensation]]."
+   },
+   "everyday": {
+    "uk": "to cash in days",
+    "us": "to cash out days",
+    "ex": "Can I [[cash in]] the RTT days I haven't used?",
+    "ex_us": "Can I [[cash out]] the RTT days I haven't used?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sell back leave",
+   "a leave buy-back",
+   "to give up rest days",
+   "payment for untaken days"
+  ],
+  "note_fr": "« To monetise » existe mais s'emploie pour un actif ou une audience, pas pour des jours de repos. UK : « to cash in » ou « to sell (back) leave » ; US : « to cash out PTO ». Rappel utile : le minimum légal de congés payés ne peut pas être remplacé par de l'argent, en France comme au Royaume-Uni, sauf à la rupture du contrat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-098",
+  "level": 3,
+  "fr": "journée de solidarité",
+  "term": {
+   "uk": "solidarity day",
+   "us": "solidarity day"
+  },
+  "ipa": {
+   "uk": "/ˌsɒlɪˈdærəti deɪ/",
+   "us": "/ˌsɑːlɪˈderəti deɪ/"
+  },
+  "def": "In France, one extra day worked each year without additional pay, linked to the funding of care for elderly and disabled people.",
+  "registers": {
+   "formal": {
+    "uk": "day of solidarity",
+    "us": "day of solidarity",
+    "ex": "The [[day of solidarity]] takes the form of an additional day's work for which no further remuneration is due.",
+    "ex_us": "The [[day of solidarity]] takes the form of an additional day of work for which no further compensation is due."
+   },
+   "everyday": {
+    "uk": "solidarity day",
+    "us": "solidarity day",
+    "ex": "Whit Monday used to be the [[solidarity day]], but each company can now set its own arrangement."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an additional unpaid day's work",
+   "to work the solidarity day",
+   "to deduct an RTT day",
+   "to be set by company agreement"
+  ],
+  "note_fr": "Notion purement française, que vos interlocuteurs ne connaîtront pas : glosez-la toujours. Ses modalités (jour férié travaillé, jour de RTT en moins, heures réparties sur l'année) sont fixées par accord ou, à défaut, par l'employeur. « Whit Monday » = lundi de Pentecôte (UK) ; les Américains ne connaissent pas ce jour férié.",
+  "french_concept": true,
+  "explain": {
+   "written": "the day of solidarity ('journée de solidarité'), an additional day of work per year performed without extra pay, introduced to help fund support for elderly and disabled persons",
+   "spoken": "Once a year French employees work one extra day without extra pay - it helps fund care for the elderly. Each company decides how it's done."
+  }
+ },
+ {
+  "id": "tm-099",
+  "level": 3,
+  "fr": "indemnité compensatrice de congés payés",
+  "term": {
+   "uk": "payment in lieu of untaken leave",
+   "us": "payout of accrued vacation"
+  },
+  "ipa": {
+   "uk": "/ˌpeɪmənt ɪn ˌljuː əv ʌnˌteɪkən ˈliːv/",
+   "us": "/ˌpeɪaʊt əv əˌkruːd veɪˈkeɪʃ(ə)n/"
+  },
+  "def": "Money paid to an employee who leaves for the leave he or she has earned but not taken.",
+  "registers": {
+   "formal": {
+    "uk": "payment in lieu of accrued but untaken leave",
+    "us": "payment for accrued but unused vacation",
+    "ex": "On termination, the employee shall receive a [[payment in lieu of accrued but untaken leave]].",
+    "ex_us": "On termination, the employee shall receive [[payment for accrued but unused vacation]]."
+   },
+   "everyday": {
+    "uk": "to be paid for untaken holiday",
+    "us": "to get paid out for unused vacation",
+    "ex": "You'll [[be paid for untaken holiday]] in your final salary.",
+    "ex_us": "You'll [[get paid out for unused vacation]] in your final paycheck."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "accrued but untaken leave",
+   "outstanding holiday pay",
+   "on termination",
+   "the final pay"
+  ],
+  "note_fr": "En France et au Royaume-Uni, les congés acquis et non pris sont payés à la rupture du contrat. Aux États-Unis, tout dépend de l'État et de la politique de l'employeur : ne présumez jamais du versement. « In lieu of » = à la place de.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "tm-100",
+  "level": 3,
+  "fr": "réversibilité du télétravail",
+  "term": {
+   "uk": "return to on-site working",
+   "us": "return to on-site work"
+  },
+  "ipa": {
+   "uk": "/rɪˌtɜːn tu ɒn ˌsaɪt ˈwɜːkɪŋ/",
+   "us": "/rɪˌtɜːrn tu ɑːn ˌsaɪt ˈwɜːrk/"
+  },
+  "def": "The possibility for the employer or the employee to end a remote working arrangement and go back to working at the employer's premises.",
+  "registers": {
+   "formal": {
+    "uk": "termination of the remote working arrangement",
+    "us": "termination of the remote work arrangement",
+    "ex": "Either party may request the [[termination of the remote working arrangement]] by giving one month's written notice.",
+    "ex_us": "Either party may request the [[termination of the remote work arrangement]] by giving one month's written notice."
+   },
+   "everyday": {
+    "uk": "to go back to the office full-time",
+    "us": "to go back to the office full-time",
+    "ex": "If it isn't working out, either side can ask to [[go back to the office full-time]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a return-to-office policy",
+   "to end the arrangement",
+   "to revert to on-site working",
+   "to give one month's notice"
+  ],
+  "note_fr": "« Reversibility » serait compris d'un juriste mais n'est pas idiomatique : préférez « either party may end the arrangement » ou « to revert to on-site working ». Dans les entreprises anglo-saxonnes, « return to office » (« RTO ») désigne la décision de l'employeur de faire revenir tout le monde sur site.",
+  "french_concept": false,
+  "explain": null
+ }
+]

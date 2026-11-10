@@ -1,0 +1,3737 @@
+[
+ {
+  "id": "dp-001",
+  "level": 1,
+  "fr": "données personnelles",
+  "term": {
+   "uk": "personal data",
+   "us": "personal information"
+  },
+  "ipa": {
+   "uk": "/ˌpɜːs(ə)n(ə)l ˈdeɪtə/",
+   "us": "/ˌpɜːrs(ə)n(ə)l ɪnfərˈmeɪʃ(ə)n/"
+  },
+  "def": "Any information relating to a living person who can be identified from it, directly or indirectly.",
+  "registers": {
+   "formal": {
+    "uk": "personal data",
+    "us": "personal data",
+    "ex": "The Company processes [[personal data]] relating to its employees for the purposes set out in this notice."
+   },
+   "everyday": {
+    "uk": "personal details",
+    "us": "personal information",
+    "ex": "HR already holds your [[personal details]], so you won't need to fill the form in again.",
+    "ex_us": "HR already has your [[personal information]], so you won't need to fill out the form again."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold personal data on someone",
+   "to collect personal data",
+   "to handle personal data",
+   "personally identifiable information (US)"
+  ],
+  "note_fr": "« Data » est aujourd'hui traité comme un indénombrable singulier : « the data is stored », jamais « a data » ni « datas ». Aux États-Unis, on parle plutôt de « personal information » ou de « PII » ; « personal data » y est compris mais sonne européen.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-002",
+  "level": 1,
+  "fr": "protection des données",
+  "term": {
+   "uk": "data protection",
+   "us": "data privacy"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪtə prəˌtekʃ(ə)n/",
+   "us": "/ˈdeɪtə ˌpraɪvəsi/"
+  },
+  "def": "The body of rules governing how organisations collect, use, store and share information about individuals.",
+  "registers": {
+   "formal": {
+    "uk": "data protection legislation",
+    "us": "data privacy laws",
+    "ex": "The parties shall comply with all applicable [[data protection legislation]].",
+    "ex_us": "The parties shall comply with all applicable [[data privacy laws]]."
+   },
+   "everyday": {
+    "uk": "data protection",
+    "us": "privacy",
+    "ex": "Have you run this past whoever looks after [[data protection]]?",
+    "ex_us": "Have you run this by whoever handles [[privacy]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "data protection law",
+   "a data protection issue",
+   "to raise a data protection concern",
+   "the privacy team"
+  ],
+  "note_fr": "« Data protection » est le terme européen et britannique ; les Américains disent « privacy » ou « data privacy ». Prononciation : /ˈdeɪtə/ partout ; /ˈdætə/ s'entend surtout aux États-Unis, /ˈdɑːtə/ est rare.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-003",
+  "level": 1,
+  "fr": "RGPD (règlement général sur la protection des données)",
+  "term": {
+   "uk": "the GDPR",
+   "us": "the GDPR"
+  },
+  "ipa": {
+   "uk": "/ðə ˌdʒiː diː piː ˈɑː/",
+   "us": "/ðə ˌdʒiː diː piː ˈɑːr/"
+  },
+  "def": "The European Union regulation that sets the rules for processing personal data; the United Kingdom has kept its own version of it.",
+  "registers": {
+   "formal": {
+    "uk": "the General Data Protection Regulation",
+    "us": "the General Data Protection Regulation",
+    "ex": "This policy has been drawn up in accordance with [[the General Data Protection Regulation]]."
+   },
+   "everyday": {
+    "uk": "GDPR",
+    "us": "GDPR",
+    "ex": "Is that actually a [[GDPR]] requirement, or just something IT would like?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "under the GDPR",
+   "GDPR-compliant",
+   "a GDPR request",
+   "the UK GDPR"
+  ],
+  "note_fr": "Ne dites jamais « RGPD » à un anglophone : le sigle est GDPR, épelé lettre par lettre. Le Royaume-Uni applique depuis le Brexit le « UK GDPR », complété par sa propre loi sur la protection des données ; les États-Unis n'ont pas de texte fédéral équivalent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-004",
+  "level": 1,
+  "fr": "traiter des données personnelles",
+  "term": {
+   "uk": "to process personal data",
+   "us": "to process personal data"
+  },
+  "ipa": {
+   "uk": "/tə ˈprəʊses ˌpɜːs(ə)n(ə)l ˈdeɪtə/",
+   "us": "/tə ˈprɑːses ˌpɜːrs(ə)n(ə)l ˈdeɪtə/"
+  },
+  "def": "To carry out any operation on personal data, from collecting and storing it to sharing or deleting it.",
+  "registers": {
+   "formal": {
+    "uk": "to process",
+    "us": "to process",
+    "ex": "The Employer shall [[process]] the Employee's data only for purposes connected with the employment relationship."
+   },
+   "everyday": {
+    "uk": "to handle",
+    "us": "to handle",
+    "ex": "Only the payroll team should be [[handling]] salary information."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the processing of personal data",
+   "a processing activity",
+   "to process data lawfully",
+   "to process data on behalf of someone"
+  ],
+  "note_fr": "« Traitement » se dit « processing » (indénombrable) : « un traitement » = « a processing activity » ou « a processing operation », pas « a treatment ». Le simple fait de conserver un dossier est déjà un « processing ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-005",
+  "level": 1,
+  "fr": "personne concernée",
+  "term": {
+   "uk": "data subject",
+   "us": "individual"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪtə ˌsʌbdʒɪkt/",
+   "us": "/ˌɪndɪˈvɪdʒuəl/"
+  },
+  "def": "The person whom a piece of personal data is about.",
+  "registers": {
+   "formal": {
+    "uk": "data subject",
+    "us": "data subject",
+    "ex": "Each [[data subject]] shall be informed of the purposes for which his or her data is processed."
+   },
+   "everyday": {
+    "uk": "the person concerned",
+    "us": "the individual",
+    "ex": "We can't hand that over without asking [[the person concerned]] first.",
+    "ex_us": "We can't hand that over without asking [[the individual]] first."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "data subject rights",
+   "to inform data subjects",
+   "the individual concerned",
+   "a request from a data subject"
+  ],
+  "note_fr": "« Data subject » est un terme de juriste : devant des salariés ou des managers, dites « the individual », « the employee » ou « the person concerned ». Attention au calque « the concerned person », qui signifie « la personne inquiète ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-006",
+  "level": 1,
+  "fr": "responsable de traitement",
+  "term": {
+   "uk": "data controller",
+   "us": "data controller"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪtə kənˌtrəʊlə/",
+   "us": "/ˈdeɪtə kənˌtroʊlər/"
+  },
+  "def": "The organisation that decides why and how personal data is processed, and that is answerable for it.",
+  "registers": {
+   "formal": {
+    "uk": "the controller",
+    "us": "the controller",
+    "ex": "The Employer acts as [[the controller]] of the personal data described in this notice."
+   },
+   "everyday": {
+    "uk": "to be responsible for the data",
+    "us": "to be responsible for the data",
+    "ex": "As the employer, you're the one who's [[responsible for the data]], even if a provider runs the system."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to act as controller",
+   "controller and processor",
+   "joint controllers",
+   "the controller's obligations"
+  ],
+  "note_fr": "Ne traduisez pas par « responsible of treatment » ni « data manager ». L'employeur est presque toujours « controller » des données de ses salariés. Aux États-Unis, les lois d'État emploient soit « controller », soit « business » (Californie).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-007",
+  "level": 1,
+  "fr": "sous-traitant (au sens du RGPD)",
+  "term": {
+   "uk": "data processor",
+   "us": "data processor"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪtə ˌprəʊsesə/",
+   "us": "/ˈdeɪtə ˌprɑːsesər/"
+  },
+  "def": "An organisation that processes personal data on behalf of the controller and on its instructions, such as a payroll provider.",
+  "registers": {
+   "formal": {
+    "uk": "the processor",
+    "us": "the processor",
+    "ex": "[[The processor]] shall act only on the documented instructions of the controller."
+   },
+   "everyday": {
+    "uk": "outside provider",
+    "us": "outside vendor",
+    "ex": "Payroll is run by an [[outside provider]], so they see everyone's bank details.",
+    "ex_us": "Payroll is run by an [[outside vendor]], so they see everyone's bank information."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to act as a processor",
+   "to appoint a processor",
+   "to act on the controller's instructions",
+   "a service provider (US state laws)"
+  ],
+  "note_fr": "Faux ami majeur : le « sous-traitant » du RGPD est un « processor », pas un « subcontractor » (qui désigne le sous-traitant d'un marché). Le sous-traitant de second rang se dit « sub-processor ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-008",
+  "level": 1,
+  "fr": "mention d'information / notice d'information RGPD",
+  "term": {
+   "uk": "privacy notice",
+   "us": "privacy notice"
+  },
+  "ipa": {
+   "uk": "/ˈprɪvəsi ˌnəʊtɪs/",
+   "us": "/ˈpraɪvəsi ˌnoʊtɪs/"
+  },
+  "def": "A document telling individuals what data is collected about them, why, for how long, and what their rights are.",
+  "registers": {
+   "formal": {
+    "uk": "privacy notice",
+    "us": "privacy notice",
+    "ex": "A copy of the employee [[privacy notice]] is provided to every new starter on or before the first day of employment."
+   },
+   "everyday": {
+    "uk": "privacy notice",
+    "us": "privacy notice",
+    "ex": "It's all in the [[privacy notice]] you were given when you joined."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an employee privacy notice",
+   "a candidate privacy notice",
+   "to issue a privacy notice",
+   "to update the privacy notice"
+  ],
+  "note_fr": "« Privacy » se prononce /ˈprɪvəsi/ au Royaume-Uni et /ˈpraɪvəsi/ aux États-Unis. « Privacy notice » informe les personnes ; « privacy policy » désigne plutôt, en interne, les règles que l'entreprise s'impose - mais les deux sont souvent confondus, surtout sur les sites web.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-009",
+  "level": 1,
+  "fr": "consentement libre",
+  "term": {
+   "uk": "freely given consent",
+   "us": "freely given consent"
+  },
+  "ipa": {
+   "uk": "/ˌfriːli ɡɪv(ə)n kənˈsent/",
+   "us": "/ˌfriːli ɡɪv(ə)n kənˈsent/"
+  },
+  "def": "Agreement to the use of one's data that is given without pressure and can be refused without any adverse consequence.",
+  "registers": {
+   "formal": {
+    "uk": "freely given",
+    "us": "freely given",
+    "ex": "Consent cannot be regarded as [[freely given]] where the employee has no genuine choice."
+   },
+   "everyday": {
+    "uk": "a genuine choice",
+    "us": "a genuine choice",
+    "ex": "If they can't really say no to their boss, it isn't [[a genuine choice]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rely on consent",
+   "to obtain consent",
+   "explicit consent",
+   "an imbalance of power"
+  ],
+  "note_fr": "Point clé pour les clients américains : en Europe, le consentement d'un salarié est rarement valable, à cause du lien de subordination (« imbalance of power »). On s'appuie sur une autre base légale. Aux États-Unis, à l'inverse, faire signer un « consent form » reste le réflexe habituel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-010",
+  "level": 1,
+  "fr": "retirer son consentement",
+  "term": {
+   "uk": "to withdraw consent",
+   "us": "to withdraw consent"
+  },
+  "ipa": {
+   "uk": "/tə wɪðˈdrɔː kənˈsent/",
+   "us": "/tə wɪðˈdrɔː kənˈsent/"
+  },
+  "def": "To take back an agreement previously given to the use of one's data.",
+  "registers": {
+   "formal": {
+    "uk": "to withdraw one's consent",
+    "us": "to withdraw one's consent",
+    "ex": "You may [[withdraw your consent]] at any time by writing to the HR department."
+   },
+   "everyday": {
+    "uk": "to change one's mind",
+    "us": "to change one's mind",
+    "ex": "You're free to [[change your mind]] about the photo at any point, and we'll take it down."
+   },
+   "informal": {
+    "uk": "to opt out",
+    "us": "to opt out",
+    "ex": "A couple of people have [[opted out]] of the staff directory photos."
+   }
+  },
+  "collocations": [
+   "to withdraw consent at any time",
+   "withdrawal of consent",
+   "to opt in",
+   "to opt out of something"
+  ],
+  "note_fr": "« Retirer » = « withdraw » (withdrew, withdrawn), pas « retire » (prendre sa retraite) ni « remove ». « Opt in » = accepter expressément ; « opt out » = refuser ou se désinscrire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-011",
+  "level": 1,
+  "fr": "dossier du personnel / dossier individuel du salarié",
+  "term": {
+   "uk": "personnel file",
+   "us": "personnel file"
+  },
+  "ipa": {
+   "uk": "/ˌpɜːsəˈnel faɪl/",
+   "us": "/ˌpɜːrsəˈnel faɪl/"
+  },
+  "def": "The set of records an employer keeps about an individual employee.",
+  "registers": {
+   "formal": {
+    "uk": "personnel file",
+    "us": "personnel file",
+    "ex": "A copy of this letter will be placed on your [[personnel file]]."
+   },
+   "everyday": {
+    "uk": "HR file",
+    "us": "employee file",
+    "ex": "There's nothing about a warning in her [[HR file]].",
+    "ex_us": "There's nothing about a warning in her [[employee file]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to place a document on file",
+   "to have access to one's personnel file",
+   "employee records",
+   "to go through someone's file"
+  ],
+  "note_fr": "« Personnel » (accent sur la dernière syllabe : /ˌpɜːsəˈnel/) ne se confond pas avec « personal » /ˈpɜːs(ə)n(ə)l/. Britanniques : « on your file » ; Américains : « in your file ». Plusieurs États américains donnent au salarié un droit d'accès à son dossier, sans règle fédérale générale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-012",
+  "level": 1,
+  "fr": "conserver (un document) au dossier",
+  "term": {
+   "uk": "to keep on file",
+   "us": "to keep on file"
+  },
+  "ipa": {
+   "uk": "/tə ˌkiːp ɒn ˈfaɪl/",
+   "us": "/tə ˌkiːp ɑːn ˈfaɪl/"
+  },
+  "def": "To store a document or piece of information so that it can be consulted later.",
+  "registers": {
+   "formal": {
+    "uk": "to retain",
+    "us": "to retain",
+    "ex": "Application documents are [[retained]] for no longer than is necessary for the recruitment process."
+   },
+   "everyday": {
+    "uk": "to keep on file",
+    "us": "to keep on file",
+    "ex": "We'd like to [[keep your CV on file]] in case something suitable comes up.",
+    "ex_us": "We'd like to [[keep your résumé on file]] in case something suitable comes up."
+   },
+   "informal": {
+    "uk": "to hang on to",
+    "us": "to hang on to",
+    "ex": "Don't [[hang on to]] old interview notes just in case."
+   }
+  },
+  "collocations": [
+   "to retain records",
+   "to keep a record of something",
+   "to hold data",
+   "to keep something on record"
+  ],
+  "note_fr": "« Conserver des données » = « to retain » ou « to keep », jamais « to conserve » (préserver, économiser). Le nom correspondant est « retention ». CV se dit « CV » au Royaume-Uni, « résumé » aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-013",
+  "level": 1,
+  "fr": "durée de conservation",
+  "term": {
+   "uk": "retention period",
+   "us": "retention period"
+  },
+  "ipa": {
+   "uk": "/rɪˈtenʃ(ə)n ˌpɪəriəd/",
+   "us": "/rɪˈtenʃ(ə)n ˌpɪriəd/"
+  },
+  "def": "The length of time for which a category of data may be kept before it must be deleted or anonymised.",
+  "registers": {
+   "formal": {
+    "uk": "retention period",
+    "us": "retention period",
+    "ex": "The [[retention period]] applicable to each category of data is set out in the schedule below."
+   },
+   "everyday": {
+    "uk": "how long we keep it",
+    "us": "how long we keep it",
+    "ex": "The form should tell candidates what we collect and [[how long we keep it]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set a retention period",
+   "the retention period has expired",
+   "to keep data for no longer than necessary",
+   "a retention schedule"
+  ],
+  "note_fr": "Ne dites pas « conservation duration » ni « duration of conservation ». Le RGPD ne fixe pas de durées chiffrées : c'est à l'employeur de les déterminer et de les justifier, en s'aidant des recommandations de la CNIL (ou de l'ICO au Royaume-Uni).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-014",
+  "level": 1,
+  "fr": "supprimer / effacer des données",
+  "term": {
+   "uk": "to delete data",
+   "us": "to delete data"
+  },
+  "ipa": {
+   "uk": "/tə dɪˈliːt ˈdeɪtə/",
+   "us": "/tə dɪˈliːt ˈdeɪtə/"
+  },
+  "def": "To remove data permanently so that it can no longer be retrieved.",
+  "registers": {
+   "formal": {
+    "uk": "to erase",
+    "us": "to erase",
+    "ex": "Data shall be securely [[erased]] upon expiry of the applicable retention period."
+   },
+   "everyday": {
+    "uk": "to delete",
+    "us": "to delete",
+    "ex": "Have the interview notes been [[deleted]] from the shared drive as well?"
+   },
+   "informal": {
+    "uk": "to get rid of",
+    "us": "to get rid of",
+    "ex": "We really need to [[get rid of]] those old spreadsheets."
+   }
+  },
+  "collocations": [
+   "to delete permanently",
+   "to delete data from a system",
+   "secure deletion",
+   "to purge old records"
+  ],
+  "note_fr": "« Supprimer » = « to delete » ; « to suppress » veut dire étouffer ou réprimer et serait un contresens. « Erase » et « erasure » appartiennent au vocabulaire du RGPD ; au quotidien, on dit « delete ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-015",
+  "level": 1,
+  "fr": "violation de données",
+  "term": {
+   "uk": "data breach",
+   "us": "data breach"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪtə briːtʃ/",
+   "us": "/ˈdeɪtə briːtʃ/"
+  },
+  "def": "A security incident in which personal data is lost, destroyed, altered, or disclosed to or accessed by someone who should not have it.",
+  "registers": {
+   "formal": {
+    "uk": "personal data breach",
+    "us": "personal data breach",
+    "ex": "Any suspected [[personal data breach]] must be reported to the Data Protection Officer without delay."
+   },
+   "everyday": {
+    "uk": "breach",
+    "us": "breach",
+    "ex": "It's only one email, but strictly speaking it's still a [[breach]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to suffer a data breach",
+   "to report a breach",
+   "a suspected breach",
+   "a breach affecting payroll data"
+  ],
+  "note_fr": "« Violation » se dit « breach » /briːtʃ/ ; le mot anglais « violation » s'emploie pour une infraction à une règle (« a violation of the policy », surtout aux États-Unis). Une fiche de paie envoyée au mauvais destinataire est déjà un « data breach ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-016",
+  "level": 1,
+  "fr": "signaler / notifier une violation",
+  "term": {
+   "uk": "to report a breach",
+   "us": "to report a breach"
+  },
+  "ipa": {
+   "uk": "/tə rɪˈpɔːt ə ˈbriːtʃ/",
+   "us": "/tə rɪˈpɔːrt ə ˈbriːtʃ/"
+  },
+  "def": "To inform the person or authority responsible that a data breach has occurred.",
+  "registers": {
+   "formal": {
+    "uk": "to notify",
+    "us": "to notify",
+    "ex": "The controller shall [[notify]] the supervisory authority of the breach without undue delay."
+   },
+   "everyday": {
+    "uk": "to report",
+    "us": "to report",
+    "ex": "If you send something to the wrong person, [[report]] it straight away. Nobody will blame you.",
+    "ex_us": "If you send something to the wrong person, [[report]] it right away. Nobody will blame you."
+   },
+   "informal": {
+    "uk": "to flag",
+    "us": "to flag",
+    "ex": "Thanks for [[flagging]] it so quickly."
+   }
+  },
+  "collocations": [
+   "to notify the regulator",
+   "to notify the individuals affected",
+   "breach notification",
+   "to report an incident internally"
+  ],
+  "note_fr": "Construction : « to notify someone of something » (on notifie la personne), ou « to report something to someone ». Évitez « to notify a breach to the authority ». En droit de l'Union, la notification à l'autorité doit intervenir si possible dans les 72 heures.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-017",
+  "level": 1,
+  "fr": "délégué à la protection des données (DPO)",
+  "term": {
+   "uk": "data protection officer",
+   "us": "privacy officer"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪtə prəˈtekʃ(ə)n ˌɒfɪsə/",
+   "us": "/ˈpraɪvəsi ˌɑːfɪsər/"
+  },
+  "def": "The person appointed to advise an organisation on its data protection obligations and to monitor its compliance.",
+  "registers": {
+   "formal": {
+    "uk": "Data Protection Officer",
+    "us": "Data Protection Officer",
+    "ex": "Requests should be addressed to the [[Data Protection Officer]], whose contact details appear below."
+   },
+   "everyday": {
+    "uk": "DPO",
+    "us": "DPO",
+    "ex": "I'd check with the [[DPO]] before we send anything out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to appoint a DPO",
+   "to consult the DPO",
+   "to refer a matter to the DPO",
+   "chief privacy officer (US)"
+  ],
+  "note_fr": "En anglais, on garde le sigle DPO (jamais « DPD »). Le DPO conseille et contrôle, mais ne décide pas : la responsabilité reste celle de l'employeur. Il ne peut pas être sanctionné pour avoir exercé ses missions. Aux États-Unis, la fonction voisine est le « (chief) privacy officer », sans statut protecteur comparable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-018",
+  "level": 1,
+  "fr": "autorité de contrôle",
+  "term": {
+   "uk": "data protection regulator",
+   "us": "privacy regulator"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪtə prəˈtekʃ(ə)n ˌreɡjuleɪtə/",
+   "us": "/ˈpraɪvəsi ˌreɡjəleɪtər/"
+  },
+  "def": "The public body responsible for enforcing data protection law.",
+  "registers": {
+   "formal": {
+    "uk": "supervisory authority",
+    "us": "regulatory authority",
+    "ex": "You have the right to lodge a complaint with the competent [[supervisory authority]].",
+    "ex_us": "You have the right to file a complaint with the competent [[regulatory authority]]."
+   },
+   "everyday": {
+    "uk": "the regulator",
+    "us": "the regulator",
+    "ex": "If [[the regulator]] ever asks, we need to be able to show why we kept it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to complain to the regulator",
+   "to be investigated by the regulator",
+   "guidance from the regulator",
+   "to be fined by the regulator"
+  ],
+  "note_fr": "« Supervisory authority » est le terme du RGPD ; à l'oral, tout le monde dit « the regulator ». En France, c'est la CNIL ; au Royaume-Uni, l'ICO. Aux États-Unis, il n'existe pas d'autorité unique : le rôle se partage entre la FTC, les procureurs généraux des États et quelques agences d'État.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-019",
+  "level": 1,
+  "fr": "la CNIL",
+  "term": {
+   "uk": "the CNIL (the French data protection authority)",
+   "us": "the CNIL (the French data protection authority)"
+  },
+  "ipa": {
+   "uk": "/ðə kniːl/",
+   "us": "/ðə kniːl/"
+  },
+  "def": "France's independent data protection regulator, which issues guidance, handles complaints, carries out inspections and can impose fines.",
+  "registers": {
+   "formal": {
+    "uk": "the French data protection authority",
+    "us": "the French data protection authority",
+    "ex": "The system has been designed in line with the guidance published by [[the French data protection authority]] (CNIL)."
+   },
+   "everyday": {
+    "uk": "the French regulator",
+    "us": "the French regulator",
+    "ex": "[[The French regulator]] takes a pretty firm line on tracking employees."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "CNIL guidance",
+   "a complaint to the CNIL",
+   "a CNIL inspection",
+   "to be fined by the CNIL"
+  ],
+  "note_fr": "Le sigle ne dit rien à un interlocuteur étranger : glosez-le à la première occurrence, puis écrivez « the CNIL ». L'équivalent britannique est l'ICO (Information Commissioner's Office) ; il n'y a pas d'équivalent fédéral américain.",
+  "french_concept": true,
+  "explain": {
+   "written": "The CNIL (Commission nationale de l'informatique et des libertés) is the independent French authority responsible for enforcing data protection law; it publishes guidance for employers, investigates complaints and may impose fines.",
+   "spoken": "The CNIL is the French data protection regulator - basically the French counterpart of the ICO in the UK."
+  }
+ },
+ {
+  "id": "dp-020",
+  "level": 1,
+  "fr": "demande d'accès (droit d'accès)",
+  "term": {
+   "uk": "subject access request",
+   "us": "access request"
+  },
+  "ipa": {
+   "uk": "/ˌsʌbdʒɪkt ˈækses rɪˌkwest/",
+   "us": "/ˈækses rɪˌkwest/"
+  },
+  "def": "A request by an individual to be told what personal data an organisation holds about them and to receive a copy of it.",
+  "registers": {
+   "formal": {
+    "uk": "data subject access request",
+    "us": "data subject access request",
+    "ex": "The Company will respond to any [[data subject access request]] within the statutory time limit."
+   },
+   "everyday": {
+    "uk": "DSAR",
+    "us": "access request",
+    "ex": "We've had a [[DSAR]] from someone who left in the spring.",
+    "ex_us": "We've had an [[access request]] from someone who left in the spring."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a subject access request",
+   "to respond to a DSAR",
+   "to handle a DSAR",
+   "the right of access"
+  ],
+  "note_fr": "Au Royaume-Uni, tout professionnel RH connaît le sigle DSAR (ou SAR), devenu une arme classique dans les litiges. Le droit porte sur les données, pas nécessairement sur les documents entiers. Aux États-Unis, un droit comparable n'existe que dans certains États, par exemple la Californie.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-021",
+  "level": 1,
+  "fr": "communiquer / divulguer (des informations)",
+  "term": {
+   "uk": "to disclose",
+   "us": "to disclose"
+  },
+  "ipa": {
+   "uk": "/tə dɪsˈkləʊz/",
+   "us": "/tə dɪsˈkloʊz/"
+  },
+  "def": "To make information known or available to someone else.",
+  "registers": {
+   "formal": {
+    "uk": "to disclose",
+    "us": "to disclose",
+    "ex": "Personal data shall not be [[disclosed]] to any third party without lawful authority."
+   },
+   "everyday": {
+    "uk": "to pass on",
+    "us": "to pass on",
+    "ex": "Please don't [[pass on]] her home address to anyone outside the team."
+   },
+   "informal": {
+    "uk": "to let slip",
+    "us": "to let slip",
+    "ex": "Somebody [[let slip]] that he'd applied for another job."
+   }
+  },
+  "collocations": [
+   "to disclose information to a third party",
+   "disclosure of personal data",
+   "unauthorised disclosure",
+   "to give out information"
+  ],
+  "note_fr": "« Communiquer des données à quelqu'un » se dit « to disclose data to someone », pas « to communicate data ». « Divulguer » au sens fautif se rend par « unauthorised disclosure » ou « to leak ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-022",
+  "level": 1,
+  "fr": "à titre confidentiel",
+  "term": {
+   "uk": "in confidence",
+   "us": "in confidence"
+  },
+  "ipa": {
+   "uk": "/ɪn ˈkɒnfɪd(ə)ns/",
+   "us": "/ɪn ˈkɑːnfɪd(ə)ns/"
+  },
+  "def": "On the understanding that the information will not be passed on to anyone else.",
+  "registers": {
+   "formal": {
+    "uk": "in strict confidence",
+    "us": "in strict confidence",
+    "ex": "All information provided in the course of the process will be treated [[in strict confidence]]."
+   },
+   "everyday": {
+    "uk": "between ourselves",
+    "us": "between us",
+    "ex": "Just [[between ourselves]], she's been off with stress.",
+    "ex_us": "Just [[between us]], she's been out with stress."
+   },
+   "informal": {
+    "uk": "to keep something to oneself",
+    "us": "to keep something to oneself",
+    "ex": "I'd [[keep that to yourself]] for now."
+   }
+  },
+  "collocations": [
+   "to treat something as confidential",
+   "to tell someone something in confidence",
+   "strictly confidential",
+   "private and confidential"
+  ],
+  "note_fr": "Faux ami : « confidence » signifie d'abord « confiance en soi » ; l'adjectif « confidential » = confidentiel, « confident » = sûr de soi. « In confidence » = sous le sceau du secret.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-023",
+  "level": 1,
+  "fr": "accès limité aux seules personnes habilitées",
+  "term": {
+   "uk": "on a need-to-know basis",
+   "us": "on a need-to-know basis"
+  },
+  "ipa": {
+   "uk": "/ɒn ə ˌniːd tə ˈnəʊ ˌbeɪsɪs/",
+   "us": "/ɑːn ə ˌniːd tə ˈnoʊ ˌbeɪsɪs/"
+  },
+  "def": "Sharing information only with the people who require it in order to do their job.",
+  "registers": {
+   "formal": {
+    "uk": "strictly on a need-to-know basis",
+    "us": "strictly on a need-to-know basis",
+    "ex": "Access to medical information is granted [[strictly on a need-to-know basis]]."
+   },
+   "everyday": {
+    "uk": "only the people who need to know",
+    "us": "only the people who need to know",
+    "ex": "Let's keep this to [[only the people who need to know]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to restrict access to",
+   "authorised staff only",
+   "to limit access to HR",
+   "to keep the circle small"
+  ],
+  "note_fr": "Expression très idiomatique, à préférer au calque « habilitated persons ». « Personnes habilitées » = « authorised staff » ou « those with a need to know ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-024",
+  "level": 1,
+  "fr": "surveillance des salariés",
+  "term": {
+   "uk": "employee monitoring",
+   "us": "employee monitoring"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː ˈmɒnɪt(ə)rɪŋ/",
+   "us": "/ɪmˌplɔɪiː ˈmɑːnɪtərɪŋ/"
+  },
+  "def": "Any means by which an employer observes or records what employees do at work, such as checking emails or internet use.",
+  "registers": {
+   "formal": {
+    "uk": "to monitor",
+    "us": "to monitor",
+    "ex": "The Company reserves the right to [[monitor]] the use of its IT systems for the purposes set out below."
+   },
+   "everyday": {
+    "uk": "to keep an eye on",
+    "us": "to keep an eye on",
+    "ex": "They want to [[keep an eye on]] how much time people spend on personal browsing."
+   },
+   "informal": {
+    "uk": "to snoop on",
+    "us": "to snoop on",
+    "ex": "Staff will think we're [[snooping on]] them."
+   }
+  },
+  "collocations": [
+   "to monitor employees' emails",
+   "workplace monitoring",
+   "to be monitored at work",
+   "a monitoring tool"
+  ],
+  "note_fr": "« Monitoring » est le mot neutre ; « surveillance » en anglais est plus fort et évoque la police ou l'espionnage. « To control employees » serait un faux ami : « to control » = diriger, maîtriser, pas contrôler au sens de vérifier (« to check », « to monitor »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-025",
+  "level": 1,
+  "fr": "vidéosurveillance",
+  "term": {
+   "uk": "CCTV",
+   "us": "video surveillance"
+  },
+  "ipa": {
+   "uk": "/ˌsiː siː tiː ˈviː/",
+   "us": "/ˈvɪdioʊ sərˌveɪləns/"
+  },
+  "def": "Cameras installed on premises to record what happens there, mainly for security purposes.",
+  "registers": {
+   "formal": {
+    "uk": "CCTV system",
+    "us": "video surveillance system",
+    "ex": "A [[CCTV system]] operates at the entrances to the building for the protection of persons and property.",
+    "ex_us": "A [[video surveillance system]] operates at the entrances to the building for the protection of persons and property."
+   },
+   "everyday": {
+    "uk": "CCTV cameras",
+    "us": "security cameras",
+    "ex": "There are [[CCTV cameras]] in the car park, but none on the shop floor.",
+    "ex_us": "There are [[security cameras]] in the parking lot, but none on the shop floor."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "CCTV footage",
+   "to install cameras",
+   "to review the footage",
+   "to be caught on camera"
+  ],
+  "note_fr": "« CCTV » (closed-circuit television) est le terme britannique courant ; les Américains disent « security cameras » ou « video surveillance ». Les images se disent « footage » (indénombrable). En France, filmer en continu un salarié à son poste est en principe jugé disproportionné.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-026",
+  "level": 1,
+  "fr": "vérification des antécédents",
+  "term": {
+   "uk": "background check",
+   "us": "background check"
+  },
+  "ipa": {
+   "uk": "/ˈbækɡraʊnd tʃek/",
+   "us": "/ˈbækɡraʊnd tʃek/"
+  },
+  "def": "An inquiry into a candidate's past, such as qualifications, previous employment or criminal record, carried out before hiring.",
+  "registers": {
+   "formal": {
+    "uk": "background screening",
+    "us": "background screening",
+    "ex": "Any offer of employment is conditional upon satisfactory [[background screening]]."
+   },
+   "everyday": {
+    "uk": "to run a background check on",
+    "us": "to run a background check on",
+    "ex": "Do you [[run a background check on]] every new hire, or only on finance roles?"
+   },
+   "informal": {
+    "uk": "to vet",
+    "us": "to vet",
+    "ex": "Everyone on that contract has to be [[vetted]]."
+   }
+  },
+  "collocations": [
+   "to carry out a background check",
+   "to pass a background check",
+   "a screening provider",
+   "to verify qualifications"
+  ],
+  "note_fr": "Pratique banale aux États-Unis, où elle est encadrée par une loi fédérale sur les rapports de solvabilité et d'antécédents (information et autorisation écrite du candidat). En France, l'employeur ne peut recueillir que des informations ayant un lien direct et nécessaire avec le poste : ne promettez pas à un client américain un « full background check ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-027",
+  "level": 1,
+  "fr": "données des candidats",
+  "term": {
+   "uk": "candidate data",
+   "us": "applicant data"
+  },
+  "ipa": {
+   "uk": "/ˈkændɪdət ˌdeɪtə/",
+   "us": "/ˈæplɪkənt ˌdeɪtə/"
+  },
+  "def": "The information collected about people who apply for a job, such as CVs, interview notes and test results.",
+  "registers": {
+   "formal": {
+    "uk": "candidate data",
+    "us": "applicant data",
+    "ex": "[[Candidate data]] is collected solely for the purpose of assessing suitability for the role applied for.",
+    "ex_us": "[[Applicant data]] is collected solely for the purpose of assessing suitability for the role applied for."
+   },
+   "everyday": {
+    "uk": "candidates' details",
+    "us": "applicants' information",
+    "ex": "Where do we keep [[candidates' details]] once a vacancy has closed?",
+    "ex_us": "Where do we keep [[applicants' information]] once a position has closed?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a candidate file",
+   "interview notes",
+   "an applicant tracking system",
+   "an unsuccessful candidate"
+  ],
+  "note_fr": "« Candidat » = « candidate » (plutôt UK) ou « applicant » (plutôt US, et pour celui qui vient de postuler). Attention aux notes d'entretien : elles sont communicables au candidat qui exerce son droit d'accès, d'où l'intérêt de n'y écrire que des appréciations objectives.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-028",
+  "level": 1,
+  "fr": "exactes et tenues à jour (données)",
+  "term": {
+   "uk": "accurate and up to date",
+   "us": "accurate and up to date"
+  },
+  "ipa": {
+   "uk": "/ˌækjərət ən ˌʌp tə ˈdeɪt/",
+   "us": "/ˌækjərət ən ˌʌp tə ˈdeɪt/"
+  },
+  "def": "Correct, and reflecting the person's current situation.",
+  "registers": {
+   "formal": {
+    "uk": "accurate and up to date",
+    "us": "accurate and up to date",
+    "ex": "Employees are responsible for ensuring that the information they provide remains [[accurate and up to date]]."
+   },
+   "everyday": {
+    "uk": "to update one's details",
+    "us": "to update one's details",
+    "ex": "Could you remind everyone to [[update their details]] on the portal before payroll runs?",
+    "ex_us": "Could you remind everyone to [[update their details]] in the portal before payroll runs?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep records up to date",
+   "out-of-date information",
+   "to correct an error",
+   "to notify HR of any change"
+  ],
+  "note_fr": "« Exact » se dit « accurate » ; « exact » en anglais signifie « précis au chiffre près ». « Actualiser » = « to update », jamais « to actualise ». Trait d'union devant un nom : « up-to-date records ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-029",
+  "level": 1,
+  "fr": "données sensibles / catégories particulières de données",
+  "term": {
+   "uk": "special category data",
+   "us": "sensitive personal information"
+  },
+  "ipa": {
+   "uk": "/ˌspeʃ(ə)l ˈkætəɡ(ə)ri ˌdeɪtə/",
+   "us": "/ˌsensətɪv ˌpɜːrs(ə)n(ə)l ɪnfərˈmeɪʃ(ə)n/"
+  },
+  "def": "Types of personal data that receive extra protection, such as health, ethnic origin, religion, trade union membership, sexual orientation and biometric data.",
+  "registers": {
+   "formal": {
+    "uk": "special categories of personal data",
+    "us": "sensitive personal information",
+    "ex": "[[Special categories of personal data]] are processed only where one of the conditions laid down by law is met.",
+    "ex_us": "[[Sensitive personal information]] is processed only where one of the conditions laid down by law is met."
+   },
+   "everyday": {
+    "uk": "sensitive data",
+    "us": "sensitive information",
+    "ex": "Anything about health counts as [[sensitive data]], so it stays with HR.",
+    "ex_us": "Anything about health counts as [[sensitive information]], so it stays with HR."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to process special category data",
+   "data revealing racial or ethnic origin",
+   "particularly sensitive",
+   "additional safeguards"
+  ],
+  "note_fr": "« Special category data » est l'expression britannique consacrée ; « sensitive data » passe partout à l'oral. Attention : le salaire ou les coordonnées bancaires sont confidentiels, mais ne sont pas des « special categories » au sens du RGPD. Les données sur les condamnations pénales relèvent d'un régime à part.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-030",
+  "level": 1,
+  "fr": "données de santé",
+  "term": {
+   "uk": "health data",
+   "us": "medical information"
+  },
+  "ipa": {
+   "uk": "/ˈhelθ ˌdeɪtə/",
+   "us": "/ˈmedɪk(ə)l ɪnfərˌmeɪʃ(ə)n/"
+  },
+  "def": "Information about a person's physical or mental health, including sickness records and medical reports.",
+  "registers": {
+   "formal": {
+    "uk": "data concerning health",
+    "us": "medical information",
+    "ex": "[[Data concerning health]] is accessible only to the occupational health service.",
+    "ex_us": "[[Medical information]] is accessible only to designated personnel and is kept apart from the personnel file."
+   },
+   "everyday": {
+    "uk": "medical details",
+    "us": "medical information",
+    "ex": "A manager needs to know when someone's off, not their [[medical details]].",
+    "ex_us": "A manager needs to know when someone's out, not their [[medical information]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "sickness absence records",
+   "a medical certificate",
+   "an occupational health report",
+   "to keep medical records separate"
+  ],
+  "note_fr": "En France, l'employeur n'a pas à connaître le diagnostic : l'arrêt de travail ne le mentionne pas et le médecin du travail ne lui transmet qu'un avis d'aptitude. Au Royaume-Uni, les questionnaires de santé sont plus répandus ; aux États-Unis, le droit fédéral impose de conserver les informations médicales dans un dossier séparé et confidentiel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-031",
+  "level": 1,
+  "fr": "habilitations / droits d'accès (informatiques)",
+  "term": {
+   "uk": "access rights",
+   "us": "access rights"
+  },
+  "ipa": {
+   "uk": "/ˈækses raɪts/",
+   "us": "/ˈækses raɪts/"
+  },
+  "def": "The permissions that determine which users can see or change particular data in a system.",
+  "registers": {
+   "formal": {
+    "uk": "access permissions",
+    "us": "access permissions",
+    "ex": "[[Access permissions]] are reviewed whenever an employee changes role or leaves the Company."
+   },
+   "everyday": {
+    "uk": "to have access to",
+    "us": "to have access to",
+    "ex": "Why do line managers [[have access to]] the whole salary file?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to grant access",
+   "to revoke access",
+   "to restrict access to HR",
+   "user permissions"
+  ],
+  "note_fr": "Ne confondez pas « access rights » (habilitations dans un système) et « the right of access » (droit d'accès de la personne à ses données). « Habilitation » ne se traduit pas par « habilitation » : dites « permissions » ou « authorisation ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-032",
+  "level": 1,
+  "fr": "conformité (en matière de protection des données)",
+  "term": {
+   "uk": "data protection compliance",
+   "us": "data protection compliance"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪtə prəˈtekʃ(ə)n kəmˌplaɪəns/",
+   "us": "/ˌdeɪtə prəˈtekʃ(ə)n kəmˌplaɪəns/"
+  },
+  "def": "The state of meeting the requirements of data protection law, and the work needed to get there.",
+  "registers": {
+   "formal": {
+    "uk": "compliance with",
+    "us": "compliance with",
+    "ex": "The HR Director is responsible for ensuring [[compliance with]] this policy."
+   },
+   "everyday": {
+    "uk": "to be compliant",
+    "us": "to be in compliance",
+    "ex": "Honestly, I'm not sure our recruitment process would [[be compliant]] if anyone looked closely.",
+    "ex_us": "Honestly, I'm not sure our hiring process would [[be in compliance]] if anyone looked closely."
+   },
+   "informal": {
+    "uk": "to tick the boxes",
+    "us": "to check the boxes",
+    "ex": "It [[ticks the boxes]], but nobody actually reads the notice.",
+    "ex_us": "It [[checks the boxes]], but nobody actually reads the notice."
+   }
+  },
+  "collocations": [
+   "GDPR compliance",
+   "a compliance audit",
+   "non-compliance",
+   "to bring a process into line with the law"
+  ],
+  "note_fr": "« Conformité » = « compliance » (avec « with ») ; « conformity » existe mais ne s'emploie pas dans ce sens. « Mise en conformité » se rend par un verbe : « to bring something into compliance » ou « to become compliant ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-033",
+  "level": 1,
+  "fr": "tiers",
+  "term": {
+   "uk": "third party",
+   "us": "third party"
+  },
+  "ipa": {
+   "uk": "/ˌθɜːd ˈpɑːti/",
+   "us": "/ˌθɜːrd ˈpɑːrti/"
+  },
+  "def": "Any person or organisation other than the employer and the individual the data is about.",
+  "registers": {
+   "formal": {
+    "uk": "third party",
+    "us": "third party",
+    "ex": "The Company will not transfer your data to any [[third party]] except as described in this notice."
+   },
+   "everyday": {
+    "uk": "anyone outside the company",
+    "us": "anyone outside the company",
+    "ex": "We never give references to [[anyone outside the company]] without checking with the employee first."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to share data with a third party",
+   "a third-party provider",
+   "third-party information",
+   "to pass data to a third party"
+  ],
+  "note_fr": "« Tiers » = « third party » (pluriel « third parties »), avec trait d'union en position d'adjectif : « a third-party provider ». Pas de « a third » ni de « a tier », qui désigne un niveau.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-034",
+  "level": 1,
+  "fr": "droit au respect de la vie privée",
+  "term": {
+   "uk": "right to privacy",
+   "us": "right to privacy"
+  },
+  "ipa": {
+   "uk": "/ˌraɪt tə ˈprɪvəsi/",
+   "us": "/ˌraɪt tə ˈpraɪvəsi/"
+  },
+  "def": "The right of a person to keep their personal life and communications free from unjustified interference, including at work.",
+  "registers": {
+   "formal": {
+    "uk": "the right to respect for private life",
+    "us": "the right to respect for private life",
+    "ex": "Employees retain [[the right to respect for private life]] in the workplace and during working hours."
+   },
+   "everyday": {
+    "uk": "privacy",
+    "us": "privacy",
+    "ex": "People are entitled to some [[privacy]] at work, even on a company laptop."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an invasion of privacy",
+   "to respect someone's privacy",
+   "private life",
+   "a reasonable expectation of privacy"
+  ],
+  "note_fr": "« Vie privée » = « private life » ou « privacy » selon le contexte ; « intimacy » désigne l'intimité affective ou physique et serait un contresens. En France et au Royaume-Uni, le salarié conserve une part de vie privée au travail ; aux États-Unis, l'employeur qui a prévenu par écrit dispose d'une marge bien plus large.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-035",
+  "level": 1,
+  "fr": "coordonnées (adresse, téléphone, e-mail)",
+  "term": {
+   "uk": "contact details",
+   "us": "contact information"
+  },
+  "ipa": {
+   "uk": "/ˈkɒntækt ˌdiːteɪlz/",
+   "us": "/ˈkɑːntækt ɪnfərˌmeɪʃ(ə)n/"
+  },
+  "def": "The information needed to reach someone: address, telephone number and email address.",
+  "registers": {
+   "formal": {
+    "uk": "contact details",
+    "us": "contact information",
+    "ex": "Employees must notify the HR department promptly of any change to their [[contact details]].",
+    "ex_us": "Employees must notify the HR department promptly of any change to their [[contact information]]."
+   },
+   "everyday": {
+    "uk": "details",
+    "us": "info",
+    "ex": "Can you check we've got the right [[details]] for her next of kin?",
+    "ex_us": "Can you check we've got the right [[info]] for her emergency contact?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "emergency contact details",
+   "bank details",
+   "home address",
+   "next of kin"
+  ],
+  "note_fr": "Faux ami : « coordinates » ne désigne que des coordonnées géographiques. Coordonnées bancaires = « bank details » (UK) ou « bank account information » (US) ; le RIB n'existe pas à l'étranger. Personne à prévenir = « emergency contact » ou, au Royaume-Uni, « next of kin ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-036",
+  "level": 2,
+  "fr": "base légale (du traitement)",
+  "term": {
+   "uk": "lawful basis",
+   "us": "legal basis"
+  },
+  "ipa": {
+   "uk": "/ˌlɔːf(ə)l ˈbeɪsɪs/",
+   "us": "/ˌliːɡ(ə)l ˈbeɪsɪs/"
+  },
+  "def": "The legal ground that allows an organisation to process personal data in a given case.",
+  "registers": {
+   "formal": {
+    "uk": "lawful basis for processing",
+    "us": "legal basis for processing",
+    "ex": "The [[lawful basis for processing]] your bank details is the performance of your employment contract.",
+    "ex_us": "The [[legal basis for processing]] your bank account information is the performance of your employment contract."
+   },
+   "everyday": {
+    "uk": "what we're relying on",
+    "us": "what we're relying on",
+    "ex": "Before we start collecting it, we need to be clear about [[what we're relying on]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rely on a lawful basis",
+   "to identify the lawful basis",
+   "the six lawful bases",
+   "to have no lawful basis for something"
+  ],
+  "note_fr": "Le verbe à retenir est « to rely on » : « we rely on legitimate interests ». Pluriel irrégulier : one basis /ˈbeɪsɪs/, two bases /ˈbeɪsiːz/. Le RGPD prévoit six bases ; en matière RH, les plus courantes sont le contrat, l'obligation légale et l'intérêt légitime.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-037",
+  "level": 2,
+  "fr": "intérêt légitime",
+  "term": {
+   "uk": "legitimate interests",
+   "us": "legitimate interests"
+  },
+  "ipa": {
+   "uk": "/lɪˌdʒɪtɪmət ˈɪntrəsts/",
+   "us": "/lɪˌdʒɪtɪmət ˈɪntrəsts/"
+  },
+  "def": "A lawful basis allowing data to be processed for a genuine business reason, provided this is not outweighed by the rights of the individuals concerned.",
+  "registers": {
+   "formal": {
+    "uk": "legitimate interests",
+    "us": "legitimate interests",
+    "ex": "The processing is necessary for the purposes of the [[legitimate interests]] pursued by the Company, namely the security of its premises."
+   },
+   "everyday": {
+    "uk": "a good business reason",
+    "us": "a good business reason",
+    "ex": "You need [[a good business reason]], and it has to outweigh the intrusion."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rely on legitimate interests",
+   "a legitimate interests assessment",
+   "to be outweighed by",
+   "to strike a balance between"
+  ],
+  "note_fr": "Presque toujours au pluriel dans l'usage britannique. Ce n'est pas un blanc-seing : il faut mettre en balance (« balancing test ») l'intérêt de l'employeur et les droits des salariés, et en garder une trace écrite.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-038",
+  "level": 2,
+  "fr": "nécessaire à l'exécution du contrat",
+  "term": {
+   "uk": "necessary for the performance of the contract",
+   "us": "necessary for the performance of the contract"
+  },
+  "ipa": {
+   "uk": "/ˌnesəs(ə)ri fə ðə pəˈfɔːməns əv ðə ˈkɒntrækt/",
+   "us": "/ˌnesəseri fər ðə pərˈfɔːrməns əv ðə ˈkɑːntrækt/"
+  },
+  "def": "Required in order to carry out the employment contract, for example using bank details to pay a salary.",
+  "registers": {
+   "formal": {
+    "uk": "necessary for the performance of the contract",
+    "us": "necessary for the performance of the contract",
+    "ex": "The processing of payroll data is [[necessary for the performance of the contract]] of employment."
+   },
+   "everyday": {
+    "uk": "we can't employ someone without it",
+    "us": "we can't employ someone without it",
+    "ex": "Bank details are easy: [[we can't employ someone without them]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "necessary for compliance with a legal obligation",
+   "strictly necessary",
+   "to be required by law",
+   "in order to pay you"
+  ],
+  "note_fr": "« Exécution du contrat » = « performance of the contract » ; « execution » d'un contrat signifie sa signature, source classique de contresens. « Necessary » est interprété strictement : utile ou pratique ne suffit pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-039",
+  "level": 2,
+  "fr": "finalité (du traitement)",
+  "term": {
+   "uk": "purpose",
+   "us": "purpose"
+  },
+  "ipa": {
+   "uk": "/ˈpɜːpəs/",
+   "us": "/ˈpɜːrpəs/"
+  },
+  "def": "The specific reason for which personal data is collected and used.",
+  "registers": {
+   "formal": {
+    "uk": "for specified, explicit and legitimate purposes",
+    "us": "for specified, explicit and legitimate purposes",
+    "ex": "Personal data shall be collected [[for specified, explicit and legitimate purposes]] and not further processed in a manner incompatible with them."
+   },
+   "everyday": {
+    "uk": "what it's for",
+    "us": "what it's for",
+    "ex": "If we can't say [[what it's for]], we shouldn't be asking for it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the purpose of the processing",
+   "to use data for a different purpose",
+   "purpose limitation",
+   "to repurpose data"
+  ],
+  "note_fr": "« Finalité » se dit « purpose » /ˈpɜːpəs/ (deuxième syllabe très réduite), jamais « finality », qui signifie « caractère définitif ». Le détournement de finalité se décrit par « using data for a purpose other than the one it was collected for ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-040",
+  "level": 2,
+  "fr": "minimisation des données",
+  "term": {
+   "uk": "data minimisation",
+   "us": "data minimization"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪtə ˌmɪnɪmaɪˈzeɪʃ(ə)n/",
+   "us": "/ˌdeɪtə ˌmɪnɪməˈzeɪʃ(ə)n/"
+  },
+  "def": "The principle that an organisation should collect and keep only the data it actually needs for its purpose.",
+  "registers": {
+   "formal": {
+    "uk": "adequate, relevant and limited to what is necessary",
+    "us": "adequate, relevant and limited to what is necessary",
+    "ex": "The information requested from candidates shall be [[adequate, relevant and limited to what is necessary]]."
+   },
+   "everyday": {
+    "uk": "only what we actually need",
+    "us": "only what we actually need",
+    "ex": "Let's collect [[only what we actually need]]. Why are we asking for marital status at the application stage?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to collect too much data",
+   "to cut down the form",
+   "excessive data",
+   "nice to have rather than necessary"
+  ],
+  "note_fr": "Orthographe : -isation au Royaume-Uni, -ization aux États-Unis. À l'oral, mieux vaut la formule simple « only what we need » que le terme technique. Exemples classiques de collecte excessive : situation de famille, numéro de sécurité sociale ou photo dès la candidature.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-041",
+  "level": 2,
+  "fr": "proportionné",
+  "term": {
+   "uk": "proportionate",
+   "us": "proportionate"
+  },
+  "ipa": {
+   "uk": "/prəˈpɔːʃ(ə)nət/",
+   "us": "/prəˈpɔːrʃ(ə)nət/"
+  },
+  "def": "Going no further than is needed to achieve a legitimate aim.",
+  "registers": {
+   "formal": {
+    "uk": "proportionate to the aim pursued",
+    "us": "proportionate to the aim pursued",
+    "ex": "Any monitoring must be justified by the nature of the task and [[proportionate to the aim pursued]]."
+   },
+   "everyday": {
+    "uk": "over the top",
+    "us": "overkill",
+    "ex": "Tracking every van around the clock feels a bit [[over the top]] to me.",
+    "ex_us": "Tracking every van around the clock feels like [[overkill]] to me."
+   },
+   "informal": {
+    "uk": "heavy-handed",
+    "us": "heavy-handed",
+    "ex": "Reading everyone's messages because of one leak would be pretty [[heavy-handed]]."
+   }
+  },
+  "collocations": [
+   "a proportionate response",
+   "disproportionate",
+   "less intrusive means",
+   "to go further than necessary"
+  ],
+  "note_fr": "Dites « proportionate » (et « disproportionate ») plutôt que « proportional », réservé aux rapports mathématiques. La formule française « justifié par la nature de la tâche et proportionné au but recherché » se rend très bien mot pour mot.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-042",
+  "level": 2,
+  "fr": "registre des activités de traitement",
+  "term": {
+   "uk": "record of processing activities",
+   "us": "record of processing activities"
+  },
+  "ipa": {
+   "uk": "/ˌrekɔːd əv ˈprəʊsesɪŋ ækˌtɪvətiz/",
+   "us": "/ˌrekərd əv ˈprɑːsesɪŋ ækˌtɪvətiz/"
+  },
+  "def": "The written inventory an organisation must keep of the ways in which it uses personal data.",
+  "registers": {
+   "formal": {
+    "uk": "record of processing activities",
+    "us": "record of processing activities",
+    "ex": "The recruitment platform has been entered in the Company's [[record of processing activities]]."
+   },
+   "everyday": {
+    "uk": "processing register",
+    "us": "data inventory",
+    "ex": "Is the new appraisal tool in the [[processing register]] yet?",
+    "ex_us": "Is the new appraisal tool in the [[data inventory]] yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to maintain a record of processing",
+   "to add an entry to the record",
+   "the ROPA",
+   "to keep the record up to date"
+  ],
+  "note_fr": "Le nom « record » s'accentue sur la première syllabe (/ˈrekɔːd/), le verbe sur la seconde (/rɪˈkɔːd/). Le sigle ROPA est courant chez les spécialistes britanniques. La dispense prévue pour les entreprises de moins de 250 salariés ne joue pas pour les traitements réguliers : la gestion du personnel doit donc y figurer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-043",
+  "level": 2,
+  "fr": "droit de rectification",
+  "term": {
+   "uk": "right to rectification",
+   "us": "right to rectification"
+  },
+  "ipa": {
+   "uk": "/ˌraɪt tə ˌrektɪfɪˈkeɪʃ(ə)n/",
+   "us": "/ˌraɪt tə ˌrektɪfɪˈkeɪʃ(ə)n/"
+  },
+  "def": "The right of an individual to have inaccurate data about them corrected and incomplete data completed.",
+  "registers": {
+   "formal": {
+    "uk": "to have inaccurate data rectified",
+    "us": "to have inaccurate data rectified",
+    "ex": "You are entitled [[to have inaccurate data rectified]] without undue delay."
+   },
+   "everyday": {
+    "uk": "to get something corrected",
+    "us": "to get something corrected",
+    "ex": "He wants to [[get his appraisal record corrected]]. The rating on the system isn't the one he was given."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to correct a mistake",
+   "to put the record straight",
+   "inaccurate data",
+   "to add a note to the file"
+  ],
+  "note_fr": "« Rectify » est juridique ; au quotidien, on dit « correct ». Ce droit vise les faits inexacts, non les appréciations : un salarié ne peut pas faire « rectifier » une évaluation qu'il conteste, mais peut demander que son désaccord soit consigné.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-044",
+  "level": 2,
+  "fr": "droit à l'effacement",
+  "term": {
+   "uk": "right to erasure",
+   "us": "right to erasure"
+  },
+  "ipa": {
+   "uk": "/ˌraɪt tu ɪˈreɪʒə/",
+   "us": "/ˌraɪt tu ɪˈreɪʃər/"
+  },
+  "def": "The right of an individual to have their data deleted in certain circumstances, for example when it is no longer needed.",
+  "registers": {
+   "formal": {
+    "uk": "the right to erasure",
+    "us": "the right to erasure",
+    "ex": "[[The right to erasure]] does not apply where the Company is required by law to retain the data."
+   },
+   "everyday": {
+    "uk": "the right to be forgotten",
+    "us": "the right to be forgotten",
+    "ex": "He's quoting [[the right to be forgotten]], but we have to keep payroll records anyway."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to request erasure",
+   "to ask for one's data to be deleted",
+   "to refuse an erasure request",
+   "an overriding legal obligation"
+  ],
+  "note_fr": "Ce droit n'est pas absolu : l'employeur peut refuser lorsqu'une obligation légale de conservation s'applique ou que les données sont nécessaires à sa défense en justice. « Erasure » : /ɪˈreɪʒə/ au Royaume-Uni, /ɪˈreɪʃər/ aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-045",
+  "level": 2,
+  "fr": "droit d'opposition",
+  "term": {
+   "uk": "right to object",
+   "us": "right to object"
+  },
+  "ipa": {
+   "uk": "/ˌraɪt tu əbˈdʒekt/",
+   "us": "/ˌraɪt tu əbˈdʒekt/"
+  },
+  "def": "The right of an individual to ask an organisation to stop processing their data on grounds relating to their particular situation.",
+  "registers": {
+   "formal": {
+    "uk": "to object to the processing",
+    "us": "to object to the processing",
+    "ex": "You have the right [[to object to the processing]] of your data on grounds relating to your particular situation."
+   },
+   "everyday": {
+    "uk": "to have an objection to",
+    "us": "to have an objection to",
+    "ex": "Does anyone [[have an objection to]] being in the team photo?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to object to something",
+   "to raise an objection",
+   "to uphold an objection",
+   "compelling legitimate grounds"
+  ],
+  "note_fr": "Le verbe s'accentue sur la seconde syllabe (/əbˈdʒekt/), le nom « an object » sur la première. Construction : « to object to + nom ou -ing » (« he objected to being filmed »), jamais « object against ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-046",
+  "level": 2,
+  "fr": "occulter / caviarder (un document)",
+  "term": {
+   "uk": "to redact",
+   "us": "to redact"
+  },
+  "ipa": {
+   "uk": "/tə rɪˈdækt/",
+   "us": "/tə rɪˈdækt/"
+  },
+  "def": "To hide or remove parts of a document, typically names or confidential passages, before disclosing it.",
+  "registers": {
+   "formal": {
+    "uk": "to redact",
+    "us": "to redact",
+    "ex": "Information identifying other individuals has been [[redacted]] from the enclosed documents."
+   },
+   "everyday": {
+    "uk": "to black out",
+    "us": "to black out",
+    "ex": "We'll have to [[black out]] the witnesses' names before it goes to him."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a redacted copy",
+   "to redact names",
+   "heavily redacted",
+   "an unredacted version"
+  ],
+  "note_fr": "Faux ami total : « to redact » ne veut pas dire « rédiger » (to draft, to write) mais « occulter ». « Redaction » = occultation. Indispensable pour répondre à une demande d'accès sans porter atteinte aux droits des tiers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-047",
+  "level": 2,
+  "fr": "délai de réponse",
+  "term": {
+   "uk": "time limit for responding",
+   "us": "response deadline"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪm ˌlɪmɪt fə rɪˈspɒndɪŋ/",
+   "us": "/rɪˈspɑːns ˌdedlaɪn/"
+  },
+  "def": "The period within which an organisation must answer a request made by an individual about their data.",
+  "registers": {
+   "formal": {
+    "uk": "within one month of receipt",
+    "us": "within one month of receipt",
+    "ex": "The Company shall respond to your request [[within one month of receipt]]."
+   },
+   "everyday": {
+    "uk": "the clock is ticking",
+    "us": "the clock is ticking",
+    "ex": "The request came in on the 3rd, so [[the clock is ticking]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet the deadline",
+   "to extend the time limit",
+   "to acknowledge receipt",
+   "to respond in good time"
+  ],
+  "note_fr": "« Délai » = « time limit », « deadline » ou « period » ; « delay » signifie « retard ». Au titre du RGPD, le délai est d'un mois, prolongeable de deux mois pour les demandes complexes, à condition d'en informer le demandeur. « Within » = dans un délai de ; « in one month » = dans un mois.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-048",
+  "level": 2,
+  "fr": "charte informatique",
+  "term": {
+   "uk": "acceptable use policy",
+   "us": "acceptable use policy"
+  },
+  "ipa": {
+   "uk": "/əkˌseptəb(ə)l ˈjuːs ˌpɒləsi/",
+   "us": "/əkˌseptəb(ə)l ˈjuːs ˌpɑːləsi/"
+  },
+  "def": "The document setting out how employees may use the employer's IT systems and how that use may be monitored.",
+  "registers": {
+   "formal": {
+    "uk": "IT acceptable use policy",
+    "us": "IT acceptable use policy",
+    "ex": "Use of the Company's systems is governed by the [[IT acceptable use policy]], a copy of which is appended to the internal rules."
+   },
+   "everyday": {
+    "uk": "IT policy",
+    "us": "IT policy",
+    "ex": "It's in the [[IT policy]]: reasonable personal use is fine, streaming all afternoon isn't."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign up to the policy",
+   "to be in breach of the IT policy",
+   "to append the policy to the internal rules",
+   "an AUP"
+  ],
+  "note_fr": "« Charter » évoque un texte solennel (charte royale, charte des Nations unies) : pour un document interne, dites « policy ». Particularité française à expliquer : la charte n'est opposable disciplinairement que si elle a suivi la procédure du règlement intérieur, notamment la consultation du CSE.",
+  "french_concept": true,
+  "explain": {
+   "written": "The charte informatique is the French employer's IT acceptable use policy; to be enforceable through disciplinary action, it is generally adopted under the same procedure as the company's internal rules, including consultation of the works council.",
+   "spoken": "It's our IT acceptable use policy - and in France, if you want to be able to discipline people for breaking it, it has to go through the works council first."
+  }
+ },
+ {
+  "id": "dp-049",
+  "level": 2,
+  "fr": "usage personnel (des outils professionnels)",
+  "term": {
+   "uk": "personal use",
+   "us": "personal use"
+  },
+  "ipa": {
+   "uk": "/ˌpɜːs(ə)n(ə)l ˈjuːs/",
+   "us": "/ˌpɜːrs(ə)n(ə)l ˈjuːs/"
+  },
+  "def": "Use of the employer's equipment, email or internet access for private rather than work purposes.",
+  "registers": {
+   "formal": {
+    "uk": "reasonable personal use",
+    "us": "reasonable personal use",
+    "ex": "[[Reasonable personal use]] of the Company's internet access is permitted, provided that it does not interfere with the employee's duties."
+   },
+   "everyday": {
+    "uk": "for one's own stuff",
+    "us": "for one's own stuff",
+    "ex": "Nobody minds if you use the laptop [[for your own stuff]] at lunchtime."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "occasional personal use",
+   "work email account",
+   "excessive personal use",
+   "outside working hours"
+  ],
+  "note_fr": "Le nom « use » se prononce /juːs/, le verbe « to use » /juːz/. En France, un usage personnel raisonnable des outils professionnels est toléré et ne peut pas être totalement interdit ; aux États-Unis, la politique interne peut être beaucoup plus restrictive.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-050",
+  "level": 2,
+  "fr": "géolocalisation (des véhicules)",
+  "term": {
+   "uk": "vehicle tracking",
+   "us": "GPS tracking"
+  },
+  "ipa": {
+   "uk": "/ˈviːɪk(ə)l ˌtrækɪŋ/",
+   "us": "/ˌdʒiː piː ˈes ˌtrækɪŋ/"
+  },
+  "def": "The use of a device to record where a company vehicle or an employee is at a given time.",
+  "registers": {
+   "formal": {
+    "uk": "geolocation system",
+    "us": "geolocation system",
+    "ex": "The [[geolocation system]] fitted to company vehicles shall not be used to monitor compliance with speed limits."
+   },
+   "everyday": {
+    "uk": "tracker",
+    "us": "GPS tracker",
+    "ex": "All the vans have a [[tracker]], but drivers can switch it off outside working hours.",
+    "ex_us": "All the vans have a [[GPS tracker]], but drivers can turn it off outside working hours."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to track a vehicle",
+   "to fit a tracker",
+   "location data",
+   "to switch off tracking"
+  ],
+  "note_fr": "« Geolocation » existe mais reste technique ; à l'oral, « tracking ». En France, la géolocalisation ne peut pas servir à contrôler le temps de travail lorsqu'un autre moyen existe, ni à suivre des salariés libres d'organiser leurs déplacements, et elle doit pouvoir être désactivée hors temps de travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-051",
+  "level": 2,
+  "fr": "badge d'accès / badgeuse",
+  "term": {
+   "uk": "swipe card",
+   "us": "key card"
+  },
+  "ipa": {
+   "uk": "/ˈswaɪp kɑːd/",
+   "us": "/ˈkiː kɑːrd/"
+  },
+  "def": "A card that employees use to enter premises, and which records the time and place of each entry.",
+  "registers": {
+   "formal": {
+    "uk": "access control system",
+    "us": "access control system",
+    "ex": "Data generated by the [[access control system]] is retained for three months."
+   },
+   "everyday": {
+    "uk": "to swipe in",
+    "us": "to badge in",
+    "ex": "The door logs show he [[swiped in]] at ten past nine.",
+    "ex_us": "The door logs show he [[badged in]] at ten after nine."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "entry logs",
+   "to clock in and out",
+   "a time and attendance system",
+   "a security pass"
+  ],
+  "note_fr": "« Badge » en anglais désigne plutôt un insigne ou un porte-nom ; la carte d'accès est « swipe card », « access card », « pass » (UK) ou « key card » (US). « Badgeuse » = « time clock » ; pointer = « to clock in / clock out ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-052",
+  "level": 2,
+  "fr": "apportez votre équipement personnel (BYOD)",
+  "term": {
+   "uk": "bring your own device",
+   "us": "bring your own device"
+  },
+  "ipa": {
+   "uk": "/ˌbrɪŋ jɔːr ˌəʊn dɪˈvaɪs/",
+   "us": "/ˌbrɪŋ jʊr ˌoʊn dɪˈvaɪs/"
+  },
+  "def": "An arrangement under which employees use their own phone, tablet or computer for work.",
+  "registers": {
+   "formal": {
+    "uk": "personally owned devices",
+    "us": "personally owned devices",
+    "ex": "Employees who use [[personally owned devices]] for work purposes must comply with the security requirements set out below."
+   },
+   "everyday": {
+    "uk": "one's own phone",
+    "us": "one's own phone",
+    "ex": "Half the sales team read their work email on [[their own phones]]."
+   },
+   "informal": {
+    "uk": "BYOD",
+    "us": "BYOD",
+    "ex": "We've never had a proper [[BYOD]] policy."
+   }
+  },
+  "collocations": [
+   "a BYOD policy",
+   "a personal device",
+   "a work phone",
+   "to keep work and personal data separate"
+  ],
+  "note_fr": "Le sigle BYOD s'épelle lettre par lettre. Point de vigilance : l'employeur reste responsable des données professionnelles stockées sur l'appareil, mais ne peut pas accéder au contenu privé du salarié.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-053",
+  "level": 2,
+  "fr": "déployer (un outil)",
+  "term": {
+   "uk": "to roll out",
+   "us": "to roll out"
+  },
+  "ipa": {
+   "uk": "/tə ˌrəʊl ˈaʊt/",
+   "us": "/tə ˌroʊl ˈaʊt/"
+  },
+  "def": "To introduce a new system or tool gradually across an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "to introduce",
+    "us": "to introduce",
+    "ex": "No monitoring system shall be [[introduced]] before employees have been informed and their representatives consulted."
+   },
+   "everyday": {
+    "uk": "to roll out",
+    "us": "to roll out",
+    "ex": "They're planning to [[roll out]] the new time-tracking app in January."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to roll out a tool across the group",
+   "a phased roll-out",
+   "to go live",
+   "to put a system in place"
+  ],
+  "note_fr": "« To deploy » s'emploie aussi, mais « roll out » est le verbe naturel en entreprise ; nom : « a roll-out » (UK) ou « a rollout » (US). En France, tout dispositif de contrôle de l'activité suppose l'information préalable des salariés et la consultation du CSE : faute de quoi la preuve recueillie est fragile.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-054",
+  "level": 2,
+  "fr": "analyse d'impact relative à la protection des données (AIPD)",
+  "term": {
+   "uk": "data protection impact assessment",
+   "us": "privacy impact assessment"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪtə prəˌtekʃ(ə)n ˈɪmpækt əˌsesmənt/",
+   "us": "/ˌpraɪvəsi ˈɪmpækt əˌsesmənt/"
+  },
+  "def": "A documented analysis of the risks a planned use of data poses to individuals, and of the measures that will reduce them.",
+  "registers": {
+   "formal": {
+    "uk": "data protection impact assessment",
+    "us": "data protection impact assessment",
+    "ex": "A [[data protection impact assessment]] shall be carried out before any processing likely to result in a high risk to individuals."
+   },
+   "everyday": {
+    "uk": "DPIA",
+    "us": "impact assessment",
+    "ex": "Has anyone done a [[DPIA]] on the new monitoring tool?",
+    "ex_us": "Has anyone done an [[impact assessment]] on the new monitoring tool?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out a DPIA",
+   "to sign off a DPIA",
+   "likely to result in a high risk",
+   "to mitigate a risk"
+  ],
+  "note_fr": "En anglais, le sigle est DPIA (et non AIPD). On dit « to carry out » ou « to conduct » une analyse, pas « to make ». La CNIL a publié une liste de traitements pour lesquels elle est obligatoire, dont la surveillance constante de l'activité des salariés et les dispositifs d'alerte professionnelle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-055",
+  "level": 2,
+  "fr": "contrat de sous-traitance (de données)",
+  "term": {
+   "uk": "data processing agreement",
+   "us": "data processing agreement"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪtə ˈprəʊsesɪŋ əˌɡriːmənt/",
+   "us": "/ˌdeɪtə ˈprɑːsesɪŋ əˌɡriːmənt/"
+  },
+  "def": "The contract between a controller and a processor that sets out what the processor may do with the data and how it must protect it.",
+  "registers": {
+   "formal": {
+    "uk": "data processing agreement",
+    "us": "data processing agreement",
+    "ex": "The Supplier shall enter into a [[data processing agreement]] in the form set out in Schedule 3."
+   },
+   "everyday": {
+    "uk": "DPA",
+    "us": "DPA",
+    "ex": "Did the payroll people ever sign a [[DPA]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to enter into a DPA",
+   "a data processing addendum",
+   "to negotiate the DPA",
+   "the processor's obligations"
+  ],
+  "note_fr": "Attention à l'ambiguïté du sigle : au Royaume-Uni, « the DPA » désigne aussi la loi nationale sur la protection des données (Data Protection Act), et parfois une « data protection authority ». Le contexte tranche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-056",
+  "level": 2,
+  "fr": "SIRH (système d'information des ressources humaines)",
+  "term": {
+   "uk": "HR information system",
+   "us": "HR information system"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ɑːr ɪnfəˈmeɪʃ(ə)n ˌsɪstəm/",
+   "us": "/ˌeɪtʃ ɑːr ɪnfərˈmeɪʃ(ə)n ˌsɪstəm/"
+  },
+  "def": "The software an organisation uses to store and manage its employee records, payroll, absences and appraisals.",
+  "registers": {
+   "formal": {
+    "uk": "human resources information system",
+    "us": "human resources information system",
+    "ex": "Employee records are held in the Company's [[human resources information system]], which is hosted within the European Union."
+   },
+   "everyday": {
+    "uk": "HR system",
+    "us": "HR system",
+    "ex": "Everything's on the [[HR system]] now, so we've stopped keeping paper files.",
+    "ex_us": "Everything's in the [[HR system]] now, so we've stopped keeping paper files."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to log in to the HR system",
+   "an HRIS vendor",
+   "to migrate data to a new system",
+   "employee self-service"
+  ],
+  "note_fr": "Le sigle anglais est HRIS, prononcé lettre par lettre ou « H-ris » ; « SIRH » est inconnu hors de France. On dit aussi « HR platform » ou « HR software ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-057",
+  "level": 2,
+  "fr": "anonymisation",
+  "term": {
+   "uk": "anonymisation",
+   "us": "anonymization"
+  },
+  "ipa": {
+   "uk": "/əˌnɒnɪmaɪˈzeɪʃ(ə)n/",
+   "us": "/əˌnɑːnɪməˈzeɪʃ(ə)n/"
+  },
+  "def": "Altering data irreversibly so that no individual can be identified from it any longer.",
+  "registers": {
+   "formal": {
+    "uk": "to anonymise",
+    "us": "to anonymize",
+    "ex": "Survey responses are [[anonymised]] before being shared with management.",
+    "ex_us": "Survey responses are [[anonymized]] before being shared with management."
+   },
+   "everyday": {
+    "uk": "to strip out the names",
+    "us": "to strip out the names",
+    "ex": "Can you [[strip out the names]] before you send the figures to the board?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "fully anonymised",
+   "anonymous data",
+   "to report on an anonymous basis",
+   "to be identifiable from"
+  ],
+  "note_fr": "Attention aux petits effectifs : une statistique « anonyme » portant sur une équipe de trois personnes ne l'est pas. Si la réidentification reste possible, il s'agit de pseudonymisation et le RGPD continue de s'appliquer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-058",
+  "level": 2,
+  "fr": "chiffrement",
+  "term": {
+   "uk": "encryption",
+   "us": "encryption"
+  },
+  "ipa": {
+   "uk": "/ɪnˈkrɪpʃ(ə)n/",
+   "us": "/ɪnˈkrɪpʃ(ə)n/"
+  },
+  "def": "Converting data into a coded form that can only be read by someone who has the key.",
+  "registers": {
+   "formal": {
+    "uk": "encrypted",
+    "us": "encrypted",
+    "ex": "Personal data stored on portable devices shall be [[encrypted]]."
+   },
+   "everyday": {
+    "uk": "password-protected",
+    "us": "password-protected",
+    "ex": "Is the spreadsheet at least [[password-protected]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to encrypt a file",
+   "an encrypted laptop",
+   "end-to-end encryption",
+   "to send something securely"
+  ],
+  "note_fr": "Le verbe est « to encrypt » ; « to crypt » n'existe pas. Un ordinateur portable perdu mais chiffré présente un risque bien moindre pour les personnes, ce qui pèse sur l'obligation de notifier la violation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-059",
+  "level": 2,
+  "fr": "circonscrire / endiguer une violation",
+  "term": {
+   "uk": "to contain a breach",
+   "us": "to contain a breach"
+  },
+  "ipa": {
+   "uk": "/tə kənˈteɪn ə ˈbriːtʃ/",
+   "us": "/tə kənˈteɪn ə ˈbriːtʃ/"
+  },
+  "def": "To take immediate steps to stop a data breach from spreading or causing further harm.",
+  "registers": {
+   "formal": {
+    "uk": "to contain",
+    "us": "to contain",
+    "ex": "Immediate steps were taken to [[contain]] the incident and to recover the data."
+   },
+   "everyday": {
+    "uk": "to recall",
+    "us": "to recall",
+    "ex": "Have we tried to [[recall]] the email, or asked them to delete it?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to recall an email",
+   "to limit the damage",
+   "to recover the data",
+   "to ask the recipient to delete it"
+  ],
+  "note_fr": "« To recall an email » = rappeler un message envoyé par erreur. « Contain » se dit d'un incident, d'un risque, d'une fuite ; ne traduisez pas « maîtriser » par « to master ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-060",
+  "level": 2,
+  "fr": "erreur de destinataire",
+  "term": {
+   "uk": "sent to the wrong recipient",
+   "us": "sent to the wrong recipient"
+  },
+  "ipa": {
+   "uk": "/ˌsent tə ðə ˌrɒŋ rɪˈsɪpiənt/",
+   "us": "/ˌsent tə ðə ˌrɔːŋ rɪˈsɪpiənt/"
+  },
+  "def": "Describes an email or document delivered by mistake to someone other than the person intended.",
+  "registers": {
+   "formal": {
+    "uk": "sent in error",
+    "us": "sent in error",
+    "ex": "A file containing salary information was [[sent in error]] to an external recipient."
+   },
+   "everyday": {
+    "uk": "to go to the wrong person",
+    "us": "to go to the wrong person",
+    "ex": "The payslips [[went to the wrong person]] because of autocomplete.",
+    "ex_us": "The pay stubs [[went to the wrong person]] because of autocomplete."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a misdirected email",
+   "human error",
+   "to copy someone in by mistake",
+   "to hit reply all"
+  ],
+  "note_fr": "« Par erreur » = « in error » (soutenu) ou « by mistake » (courant), pas « by error ». Mettre en copie = « to copy someone in » (UK), « to cc someone » (US et UK). L'erreur de destinataire est la cause la plus banale de violation de données RH.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-061",
+  "level": 2,
+  "fr": "dossier d'enquête",
+  "term": {
+   "uk": "investigation file",
+   "us": "investigation file"
+  },
+  "ipa": {
+   "uk": "/ɪnˌvestɪˈɡeɪʃ(ə)n faɪl/",
+   "us": "/ɪnˌvestɪˈɡeɪʃ(ə)n faɪl/"
+  },
+  "def": "The set of documents gathered during an internal investigation, such as complaints, interview notes and the final report.",
+  "registers": {
+   "formal": {
+    "uk": "investigation file",
+    "us": "investigation file",
+    "ex": "Access to the [[investigation file]] is restricted to the investigators and the HR Director."
+   },
+   "everyday": {
+    "uk": "investigation papers",
+    "us": "investigation papers",
+    "ex": "Keep the [[investigation papers]] out of the general HR folder.",
+    "ex_us": "Keep the [[investigation papers]] out of the general HR folder."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "interview notes",
+   "witness statements",
+   "to keep the file under restricted access",
+   "the investigation report"
+  ],
+  "note_fr": "Un dossier d'enquête contient des données sur le plaignant, la personne mise en cause et les témoins : chacun conserve ses droits, mais l'accès de l'un ne doit pas porter atteinte aux droits des autres. Pensez à fixer une durée de conservation dès l'ouverture.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-062",
+  "level": 2,
+  "fr": "candidat non retenu",
+  "term": {
+   "uk": "unsuccessful candidate",
+   "us": "unsuccessful candidate"
+  },
+  "ipa": {
+   "uk": "/ˌʌnsəkˌsesf(ə)l ˈkændɪdət/",
+   "us": "/ˌʌnsəkˌsesf(ə)l ˈkændɪdət/"
+  },
+  "def": "A person who applied for a job but was not offered it.",
+  "registers": {
+   "formal": {
+    "uk": "unsuccessful candidates",
+    "us": "unsuccessful applicants",
+    "ex": "Data relating to [[unsuccessful candidates]] is deleted at the end of the retention period notified to them.",
+    "ex_us": "Data relating to [[unsuccessful applicants]] is deleted at the end of the retention period notified to them."
+   },
+   "everyday": {
+    "uk": "the ones who didn't get the job",
+    "us": "the ones who didn't get the job",
+    "ex": "What do we do with the CVs of [[the ones who didn't get the job]]?",
+    "ex_us": "What do we do with the résumés of [[the ones who didn't get the job]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to turn down a candidate",
+   "a rejection email",
+   "to keep a CV on file",
+   "to ask for feedback"
+  ],
+  "note_fr": "Jamais « a refused candidate » ni « a non-retained candidate ». La CNIL recommande de ne pas conserver les dossiers au-delà de deux ans après le dernier contact, et d'informer le candidat qu'il peut s'y opposer ; l'ICO britannique laisse l'employeur fixer et justifier sa propre durée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-063",
+  "level": 2,
+  "fr": "vivier de candidats",
+  "term": {
+   "uk": "talent pool",
+   "us": "talent pool"
+  },
+  "ipa": {
+   "uk": "/ˈtælənt puːl/",
+   "us": "/ˈtælənt puːl/"
+  },
+  "def": "A database of people who might be suitable for future vacancies.",
+  "registers": {
+   "formal": {
+    "uk": "talent pool",
+    "us": "talent pool",
+    "ex": "With your agreement, your application will be retained in our [[talent pool]] for a period of two years."
+   },
+   "everyday": {
+    "uk": "to keep someone in mind",
+    "us": "to keep someone in mind",
+    "ex": "She wasn't right for this role, but I'd like to [[keep her in mind]] for the next one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to add someone to the talent pool",
+   "a candidate database",
+   "future vacancies",
+   "to be considered for other roles"
+  ],
+  "note_fr": "« Vivier » ne se traduit pas littéralement : « talent pool » ou « candidate pool ». C'est l'un des rares cas, en matière RH, où demander l'accord de la personne a un sens, puisqu'elle peut refuser sans conséquence.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-064",
+  "level": 2,
+  "fr": "consultation des réseaux sociaux des candidats",
+  "term": {
+   "uk": "social media screening",
+   "us": "social media screening"
+  },
+  "ipa": {
+   "uk": "/ˌsəʊʃ(ə)l ˈmiːdiə ˌskriːnɪŋ/",
+   "us": "/ˌsoʊʃ(ə)l ˈmiːdiə ˌskriːnɪŋ/"
+  },
+  "def": "Looking at a candidate's social media profiles as part of the recruitment process.",
+  "registers": {
+   "formal": {
+    "uk": "to consult publicly available profiles",
+    "us": "to consult publicly available profiles",
+    "ex": "Recruiters may [[consult publicly available profiles]] of a professional nature only."
+   },
+   "everyday": {
+    "uk": "to look someone up online",
+    "us": "to look someone up online",
+    "ex": "Let's be honest, every hiring manager [[looks candidates up online]]."
+   },
+   "informal": {
+    "uk": "to google",
+    "us": "to google",
+    "ex": "Did you [[google]] him before the interview?"
+   }
+  },
+  "collocations": [
+   "a professional networking site",
+   "publicly available information",
+   "a personal account",
+   "relevant to the job"
+  ],
+  "note_fr": "Dites « social media » plutôt que « social networks ». En France, les informations recueillies sur un candidat doivent avoir un lien direct et nécessaire avec l'emploi proposé, ce qui exclut en principe les comptes personnels. Aux États-Unis, plusieurs États interdisent d'exiger les mots de passe des candidats.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-065",
+  "level": 2,
+  "fr": "numéro de sécurité sociale",
+  "term": {
+   "uk": "National Insurance number",
+   "us": "Social Security number"
+  },
+  "ipa": {
+   "uk": "/ˌnæʃ(ə)nəl ɪnˈʃʊərəns ˌnʌmbə/",
+   "us": "/ˌsoʊʃ(ə)l sɪˈkjʊrəti ˌnʌmbər/"
+  },
+  "def": "The official number that identifies a person for tax and social security purposes.",
+  "registers": {
+   "formal": {
+    "uk": "National Insurance number",
+    "us": "Social Security number",
+    "ex": "Your [[National Insurance number]] is used solely for payroll and statutory reporting purposes.",
+    "ex_us": "Your [[Social Security number]] is used solely for payroll and statutory reporting purposes."
+   },
+   "everyday": {
+    "uk": "NI number",
+    "us": "Social",
+    "ex": "We don't need their [[NI number]] until they've actually accepted the offer.",
+    "ex_us": "We don't need their [[Social]] until they've actually accepted the offer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to provide one's NI number",
+   "for payroll purposes",
+   "identity theft",
+   "the last four digits (US)"
+  ],
+  "note_fr": "Pas d'équivalent unique : « National Insurance number » au Royaume-Uni, « Social Security number » (SSN) aux États-Unis ; pour le numéro français, dites « French social security number ». Son usage est strictement encadré en France (paie et déclarations sociales) ; aux États-Unis, c'est la donnée la plus exposée à l'usurpation d'identité.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-066",
+  "level": 2,
+  "fr": "vérification du casier judiciaire",
+  "term": {
+   "uk": "criminal record check",
+   "us": "criminal background check"
+  },
+  "ipa": {
+   "uk": "/ˌkrɪmɪn(ə)l ˈrekɔːd tʃek/",
+   "us": "/ˌkrɪmɪn(ə)l ˈbækɡraʊnd tʃek/"
+  },
+  "def": "An inquiry into whether a person has criminal convictions, carried out for certain jobs.",
+  "registers": {
+   "formal": {
+    "uk": "criminal record check",
+    "us": "criminal background check",
+    "ex": "Appointment to this post is subject to a satisfactory [[criminal record check]].",
+    "ex_us": "Appointment to this position is subject to a satisfactory [[criminal background check]]."
+   },
+   "everyday": {
+    "uk": "DBS check",
+    "us": "criminal check",
+    "ex": "Anyone working with children needs a [[DBS check]].",
+    "ex_us": "Anyone working with children needs a [[criminal check]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a criminal conviction",
+   "to have a clean record",
+   "an extract from the criminal record",
+   "to disclose a conviction"
+  ],
+  "note_fr": "Au Royaume-Uni, la vérification passe par un organisme public (« DBS check ») et dépend du type de poste. En France, l'employeur ne peut demander un extrait de casier (bulletin n° 3) que si le poste le justifie, et ne doit pas en conserver de copie. Aux États-Unis, de nombreux États et villes interdisent de poser la question avant un certain stade du recrutement (lois « ban-the-box »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-067",
+  "level": 2,
+  "fr": "retirer une sanction du dossier",
+  "term": {
+   "uk": "to remove a warning from the file",
+   "us": "to remove a warning from the file"
+  },
+  "ipa": {
+   "uk": "/tə rɪˌmuːv ə ˈwɔːnɪŋ frəm ðə ˈfaɪl/",
+   "us": "/tə rɪˌmuːv ə ˈwɔːrnɪŋ frəm ðə ˈfaɪl/"
+  },
+  "def": "To take a disciplinary warning out of an employee's records once it is no longer valid.",
+  "registers": {
+   "formal": {
+    "uk": "to be disregarded for disciplinary purposes",
+    "us": "to be disregarded for disciplinary purposes",
+    "ex": "The warning shall [[be disregarded for disciplinary purposes]] after twelve months."
+   },
+   "everyday": {
+    "uk": "to come off the file",
+    "us": "to come off the file",
+    "ex": "The warning should have [[come off the file]] ages ago."
+   },
+   "informal": {
+    "uk": "to wipe the slate clean",
+    "us": "to wipe the slate clean",
+    "ex": "After a year, it's supposed to [[wipe the slate clean]]."
+   }
+  },
+  "collocations": [
+   "a spent warning",
+   "a live warning",
+   "to remain on file",
+   "to expire"
+  ],
+  "note_fr": "Au Royaume-Uni, un avertissement « expire » après la durée fixée par la procédure interne (on parle de « live » et de « spent warning »). En France, aucune sanction antérieure de plus de trois ans ne peut être invoquée à l'appui d'une nouvelle sanction : pensez-y en fixant les durées de conservation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-068",
+  "level": 2,
+  "fr": "l'ICO (autorité britannique de protection des données)",
+  "term": {
+   "uk": "the Information Commissioner's Office",
+   "us": "the Information Commissioner's Office"
+  },
+  "ipa": {
+   "uk": "/ði ˌɪnfəˈmeɪʃ(ə)n kəˈmɪʃ(ə)nəz ˌɒfɪs/",
+   "us": "/ði ˌɪnfərˈmeɪʃ(ə)n kəˈmɪʃ(ə)nərz ˌɑːfɪs/"
+  },
+  "def": "The United Kingdom's independent data protection regulator.",
+  "registers": {
+   "formal": {
+    "uk": "the Information Commissioner's Office",
+    "us": "the Information Commissioner's Office",
+    "ex": "You may also raise your concern with [[the Information Commissioner's Office]]."
+   },
+   "everyday": {
+    "uk": "the ICO",
+    "us": "the ICO",
+    "ex": "[[The ICO]] has detailed guidance on monitoring workers, so I'd start there."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "ICO guidance",
+   "to report a breach to the ICO",
+   "to complain to the ICO",
+   "an ICO reprimand"
+  ],
+  "note_fr": "Sigle épelé : I-C-O. C'est l'homologue de la CNIL, réputé plus pragmatique et moins porté sur les amendes à l'égard des employeurs. Ses guides pratiques, rédigés en anglais clair, sont une excellente source de vocabulaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-069",
+  "level": 2,
+  "fr": "saisir l'autorité d'une plainte",
+  "term": {
+   "uk": "to lodge a complaint with the regulator",
+   "us": "to file a complaint with the regulator"
+  },
+  "ipa": {
+   "uk": "/tə ˌlɒdʒ ə kəmˈpleɪnt wɪð ðə ˈreɡjuleɪtə/",
+   "us": "/tə ˌfaɪl ə kəmˈpleɪnt wɪð ðə ˈreɡjəleɪtər/"
+  },
+  "def": "To ask the data protection authority formally to look into the way an organisation has handled one's data.",
+  "registers": {
+   "formal": {
+    "uk": "to lodge a complaint with",
+    "us": "to file a complaint with",
+    "ex": "If you are dissatisfied with our response, you are entitled to [[lodge a complaint with]] the supervisory authority.",
+    "ex_us": "If you are dissatisfied with our response, you are entitled to [[file a complaint with]] the regulatory authority."
+   },
+   "everyday": {
+    "uk": "to go to the regulator",
+    "us": "to go to the regulator",
+    "ex": "If we miss the deadline, he'll [[go to the regulator]], and frankly he'd have a point."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a complaint",
+   "to uphold a complaint",
+   "to look into a complaint",
+   "a complaint about a late response"
+  ],
+  "note_fr": "« Déposer une plainte » = « to lodge » (UK) ou « to file » (US) « a complaint with » ; pas « to deposit » ni « to put a complaint ». « Complaint » est le nom, « to complain » le verbe.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-070",
+  "level": 2,
+  "fr": "contrôle (de l'autorité)",
+  "term": {
+   "uk": "inspection",
+   "us": "inspection"
+  },
+  "ipa": {
+   "uk": "/ɪnˈspekʃ(ə)n/",
+   "us": "/ɪnˈspekʃ(ə)n/"
+  },
+  "def": "An examination by the regulator of how an organisation handles personal data, which may take place on its premises.",
+  "registers": {
+   "formal": {
+    "uk": "an on-site inspection",
+    "us": "an on-site inspection",
+    "ex": "The authority may carry out [[an on-site inspection]] without prior notice."
+   },
+   "everyday": {
+    "uk": "to turn up",
+    "us": "to show up",
+    "ex": "What would we show them if the regulator [[turned up]] tomorrow?",
+    "ex_us": "What would we show them if the regulator [[showed up]] tomorrow?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out an inspection",
+   "an unannounced inspection",
+   "to cooperate with the regulator",
+   "an audit"
+  ],
+  "note_fr": "« Contrôle » de la CNIL = « inspection », « audit » ou « investigation » ; « a control » désigne une mesure de maîtrise des risques (« security controls »). Encore le faux ami contrôler / to control.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-071",
+  "level": 2,
+  "fr": "amende",
+  "term": {
+   "uk": "fine",
+   "us": "fine"
+  },
+  "ipa": {
+   "uk": "/faɪn/",
+   "us": "/faɪn/"
+  },
+  "def": "A sum of money that an organisation is ordered to pay as a penalty for breaking the law.",
+  "registers": {
+   "formal": {
+    "uk": "administrative fine",
+    "us": "civil penalty",
+    "ex": "Infringements may give rise to an [[administrative fine]] of up to four per cent of worldwide annual turnover.",
+    "ex_us": "Violations may give rise to a [[civil penalty]] assessed for each violation."
+   },
+   "everyday": {
+    "uk": "to be fined",
+    "us": "to be fined",
+    "ex": "A retailer [[was fined]] for filming staff on the shop floor all day long."
+   },
+   "informal": {
+    "uk": "to get hit with a fine",
+    "us": "to get hit with a fine",
+    "ex": "Nobody wants to [[get hit with a fine]] over a spreadsheet."
+   }
+  },
+  "collocations": [
+   "to impose a fine",
+   "to face a fine",
+   "a hefty fine",
+   "reputational damage"
+  ],
+  "note_fr": "On dit « to impose a fine on » ou « to fine a company » ; « amende » ne se dit ni « amend » (modifier) ni « penalty fee ». Le RGPD plafonne les amendes les plus lourdes à 20 millions d'euros ou 4 % du chiffre d'affaires annuel mondial ; aux États-Unis, les sanctions se calculent en général par infraction.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-072",
+  "level": 2,
+  "fr": "sensibilisation du personnel",
+  "term": {
+   "uk": "staff awareness training",
+   "us": "staff awareness training"
+  },
+  "ipa": {
+   "uk": "/ˌstɑːf əˈweənəs ˌtreɪnɪŋ/",
+   "us": "/ˌstæf əˈwernəs ˌtreɪnɪŋ/"
+  },
+  "def": "Training designed to make employees understand the rules on handling personal data and the risks of getting it wrong.",
+  "registers": {
+   "formal": {
+    "uk": "to receive training",
+    "us": "to receive training",
+    "ex": "All staff with access to personal data shall [[receive training]] on their obligations at least once a year."
+   },
+   "everyday": {
+    "uk": "a refresher",
+    "us": "a refresher",
+    "ex": "Managers could do with [[a refresher]] on what they can and can't keep in their own files."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to raise awareness",
+   "mandatory training",
+   "a refresher course",
+   "to complete an online module"
+  ],
+  "note_fr": "« Sensibiliser » ne se traduit pas par « to sensibilise » : dites « to raise awareness of » ou « to train staff on ». « Training » est indénombrable : « a training » se dit « a training session » ou « a course ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-073",
+  "level": 2,
+  "fr": "messagerie d'un salarié ayant quitté l'entreprise",
+  "term": {
+   "uk": "a leaver's mailbox",
+   "us": "a former employee's mailbox"
+  },
+  "ipa": {
+   "uk": "/ə ˌliːvəz ˈmeɪlbɒks/",
+   "us": "/ə ˌfɔːrmər ɪmˌplɔɪiːz ˈmeɪlbɑːks/"
+  },
+  "def": "The work email account of someone who no longer works for the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "to deactivate the account",
+    "us": "to deactivate the account",
+    "ex": "The Company will [[deactivate the account]] on the employee's last day, after allowing him or her to retrieve any private messages."
+   },
+   "everyday": {
+    "uk": "to shut down a mailbox",
+    "us": "to shut down a mailbox",
+    "ex": "His mailbox should have been [[shut down]] the day he left, not three months later."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an out-of-office message",
+   "to forward emails to a colleague",
+   "to retrieve private messages",
+   "to hand over one's files"
+  ],
+  "note_fr": "« A leaver » (UK) = un salarié sortant ; les Américains disent « a departing employee ». La CNIL recommande de fermer la boîte au départ du salarié, après l'avoir prévenu pour qu'il puisse récupérer ses messages privés ; la laisser ouverte et la lire pendant des mois est un grief classique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-074",
+  "level": 2,
+  "fr": "informer préalablement les salariés",
+  "term": {
+   "uk": "to inform employees in advance",
+   "us": "to give employees prior notice"
+  },
+  "ipa": {
+   "uk": "/tu ɪnˌfɔːm ɪmˌplɔɪiːz ɪn ədˈvɑːns/",
+   "us": "/tə ˌɡɪv ɪmˌplɔɪiːz ˌpraɪər ˈnoʊtɪs/"
+  },
+  "def": "To tell employees about a monitoring system, and what it will be used for, before it is switched on.",
+  "registers": {
+   "formal": {
+    "uk": "prior notice",
+    "us": "prior written notice",
+    "ex": "No information may be collected by means of a system of which employees have not been given [[prior notice]].",
+    "ex_us": "No information may be collected by means of a system of which employees have not been given [[prior written notice]]."
+   },
+   "everyday": {
+    "uk": "to tell people upfront",
+    "us": "to tell people upfront",
+    "ex": "As long as we [[tell people upfront]] what we're logging and why, most of them accept it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be open about monitoring",
+   "without employees' knowledge",
+   "to display a notice",
+   "to acknowledge receipt of the policy"
+  ],
+  "note_fr": "« Préalable » = « prior » ou « in advance », pas « previous ». En droit français, un dispositif non porté à la connaissance des salariés ne peut en principe pas servir de preuve contre eux. Quelques États américains (New York, par exemple) imposent désormais un avis écrit de surveillance électronique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-075",
+  "level": 2,
+  "fr": "transfert de données hors de l'Union européenne",
+  "term": {
+   "uk": "international data transfer",
+   "us": "international data transfer"
+  },
+  "ipa": {
+   "uk": "/ˌɪntəˌnæʃ(ə)nəl ˈdeɪtə ˌtrænsfɜː/",
+   "us": "/ˌɪntərˌnæʃ(ə)nəl ˈdeɪtə ˌtrænsfɜːr/"
+  },
+  "def": "Sending personal data to, or making it accessible from, a country outside the European Economic Area.",
+  "registers": {
+   "formal": {
+    "uk": "to transfer data outside the European Economic Area",
+    "us": "to transfer data outside the European Economic Area",
+    "ex": "The Company will not [[transfer data outside the European Economic Area]] unless appropriate safeguards are in place."
+   },
+   "everyday": {
+    "uk": "to send data to head office",
+    "us": "to send data to head office",
+    "ex": "Every time we [[send data to head office]] in Chicago, that's a transfer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a transfer to a third country",
+   "appropriate safeguards",
+   "remote access from the US",
+   "a restricted transfer (UK)"
+  ],
+  "note_fr": "Un simple accès à distance depuis les États-Unis au SIRH hébergé en Europe constitue déjà un transfert : c'est le point que les sociétés mères américaines découvrent le plus souvent. Le nom « transfer » s'accentue sur la première syllabe, le verbe plutôt sur la seconde.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-076",
+  "level": 3,
+  "fr": "contrôle d'accès biométrique",
+  "term": {
+   "uk": "biometric access control",
+   "us": "biometric access control"
+  },
+  "ipa": {
+   "uk": "/ˌbaɪəʊˌmetrɪk ˈækses kənˌtrəʊl/",
+   "us": "/ˌbaɪoʊˌmetrɪk ˈækses kənˌtroʊl/"
+  },
+  "def": "A system that identifies people by a physical characteristic, such as a fingerprint or face, before letting them into premises or systems.",
+  "registers": {
+   "formal": {
+    "uk": "biometric data",
+    "us": "biometric data",
+    "ex": "[[Biometric data]] shall be processed only where access to the area concerned requires a particularly high level of security."
+   },
+   "everyday": {
+    "uk": "fingerprint scanner",
+    "us": "fingerprint scanner",
+    "ex": "They want a [[fingerprint scanner]] on the server room door, which is one thing. Using it for clocking in is quite another."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "fingerprint recognition",
+   "facial recognition",
+   "a biometric template",
+   "to enrol one's fingerprint"
+  ],
+  "note_fr": "Les données biométriques sont des données sensibles. La CNIL exclut la pointeuse à empreinte digitale pour le contrôle des horaires et exige, pour le contrôle d'accès, une justification précise et documentée. Aux États-Unis, l'Illinois impose un consentement écrit et ouvre un droit d'action aux salariés.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-077",
+  "level": 3,
+  "fr": "surveillance clandestine",
+  "term": {
+   "uk": "covert monitoring",
+   "us": "covert monitoring"
+  },
+  "ipa": {
+   "uk": "/ˌkʌvət ˈmɒnɪt(ə)rɪŋ/",
+   "us": "/ˌkoʊvɜːrt ˈmɑːnɪtərɪŋ/"
+  },
+  "def": "Monitoring carried out without the knowledge of the people being observed.",
+  "registers": {
+   "formal": {
+    "uk": "covert monitoring",
+    "us": "covert monitoring",
+    "ex": "[[Covert monitoring]] will be authorised only in exceptional circumstances, where there are grounds to suspect serious wrongdoing."
+   },
+   "everyday": {
+    "uk": "behind someone's back",
+    "us": "behind someone's back",
+    "ex": "You can't just put a camera in the stockroom [[behind people's backs]]."
+   },
+   "informal": {
+    "uk": "to spy on",
+    "us": "to spy on",
+    "ex": "It'll look as if we're [[spying on]] our own staff."
+   }
+  },
+  "collocations": [
+   "a hidden camera",
+   "without the employee's knowledge",
+   "to suspect theft",
+   "evidence obtained unlawfully"
+  ],
+  "note_fr": "« Covert » : /ˈkʌvət/ au Royaume-Uni, /ˈkoʊvɜːrt/ aux États-Unis ; contraire : « overt ». En France, la preuve issue d'un dispositif clandestin est en principe illicite ; le juge peut néanmoins l'admettre si elle est indispensable à l'exercice du droit à la preuve et que l'atteinte est proportionnée. Au Royaume-Uni, l'ICO l'admet à titre exceptionnel et pour une durée limitée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-078",
+  "level": 3,
+  "fr": "enregistreur de frappe",
+  "term": {
+   "uk": "keystroke logging",
+   "us": "keystroke logging"
+  },
+  "ipa": {
+   "uk": "/ˈkiːstrəʊk ˌlɒɡɪŋ/",
+   "us": "/ˈkiːstroʊk ˌlɔːɡɪŋ/"
+  },
+  "def": "Software that records everything a user types on a keyboard.",
+  "registers": {
+   "formal": {
+    "uk": "keystroke logging software",
+    "us": "keystroke logging software",
+    "ex": "The installation of [[keystroke logging software]] on employees' workstations is prohibited save in exceptional circumstances relating to security."
+   },
+   "everyday": {
+    "uk": "keylogger",
+    "us": "keylogger",
+    "ex": "A [[keylogger]] on every laptop? No regulator in Europe would wear that.",
+    "ex_us": "A [[keylogger]] on every laptop? No regulator in Europe would go for that."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "screen capture software",
+   "to log activity",
+   "productivity monitoring software",
+   "to take screenshots at intervals"
+  ],
+  "note_fr": "La CNIL juge ces outils disproportionnés, sauf impératif fort de sécurité. Le sujet est revenu avec le télétravail (« bossware » en anglais familier). « Not wear something » est un idiome britannique familier : ne pas accepter.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-079",
+  "level": 3,
+  "fr": "effacement à distance",
+  "term": {
+   "uk": "remote wipe",
+   "us": "remote wipe"
+  },
+  "ipa": {
+   "uk": "/rɪˌməʊt ˈwaɪp/",
+   "us": "/rɪˌmoʊt ˈwaɪp/"
+  },
+  "def": "Deleting the data on a phone or laptop from a distance, typically when the device is lost or its user leaves.",
+  "registers": {
+   "formal": {
+    "uk": "to erase remotely",
+    "us": "to erase remotely",
+    "ex": "The Company reserves the right to [[erase remotely]] any Company data held on a personally owned device."
+   },
+   "everyday": {
+    "uk": "to wipe",
+    "us": "to wipe",
+    "ex": "If someone loses their phone, IT can [[wipe]] the work profile without touching their photos."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to wipe a device",
+   "a lost or stolen device",
+   "a separate work profile",
+   "mobile device management"
+  ],
+  "note_fr": "« To wipe » = effacer entièrement ; nom : « a remote wipe ». Dans une politique BYOD, précisez que seul l'espace professionnel peut être effacé : supprimer les photos personnelles d'un salarié serait une atteinte difficile à justifier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-080",
+  "level": 3,
+  "fr": "messages et fichiers identifiés comme personnels",
+  "term": {
+   "uk": "emails marked as personal",
+   "us": "emails marked as personal"
+  },
+  "ipa": {
+   "uk": "/ˌiːmeɪlz ˌmɑːkt əz ˈpɜːs(ə)n(ə)l/",
+   "us": "/ˌiːmeɪlz ˌmɑːrkt əz ˈpɜːrs(ə)n(ə)l/"
+  },
+  "def": "Messages or files on a work computer that the employee has clearly labelled as private.",
+  "registers": {
+   "formal": {
+    "uk": "identified as personal",
+    "us": "identified as personal",
+    "ex": "Files and messages [[identified as personal]] by the employee shall not be opened in his or her absence."
+   },
+   "everyday": {
+    "uk": "marked 'personal'",
+    "us": "marked 'personal'",
+    "ex": "Anything [[marked 'personal']] is off limits unless he's there when you open it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "presumed to be work-related",
+   "to open a file in the employee's presence",
+   "a private folder",
+   "the secrecy of correspondence"
+  ],
+  "note_fr": "Règle jurisprudentielle française sans équivalent exact : tout ce qui se trouve sur l'outil professionnel est présumé professionnel et consultable par l'employeur, sauf ce que le salarié a identifié comme personnel, qui ne peut être ouvert qu'en sa présence ou après l'avoir dûment appelé. Aux États-Unis, une politique écrite suffit en général à écarter toute attente de confidentialité.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French case law, files and emails on a work computer are presumed to be professional and may be consulted by the employer, except those the employee has identified as personal, which may in principle be opened only in the employee's presence or after he or she has been duly invited to attend.",
+   "spoken": "In France, anything on a work computer is assumed to be work-related, but if the employee has labelled a file or an email 'personal', you generally can't open it unless they're there."
+  }
+ },
+ {
+  "id": "dp-081",
+  "level": 3,
+  "fr": "clauses contractuelles types",
+  "term": {
+   "uk": "standard contractual clauses",
+   "us": "standard contractual clauses"
+  },
+  "ipa": {
+   "uk": "/ˌstændəd kənˌtræktʃuəl ˈklɔːzɪz/",
+   "us": "/ˌstændərd kənˌtræktʃuəl ˈklɔːzɪz/"
+  },
+  "def": "Model contract terms approved by the European Commission that allow personal data to be sent lawfully to a country outside Europe.",
+  "registers": {
+   "formal": {
+    "uk": "standard contractual clauses",
+    "us": "standard contractual clauses",
+    "ex": "Transfers to the parent company are governed by the [[standard contractual clauses]] adopted by the European Commission."
+   },
+   "everyday": {
+    "uk": "SCCs",
+    "us": "SCCs",
+    "ex": "Have the [[SCCs]] been signed between the French entity and the US parent?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to enter into SCCs",
+   "to rely on SCCs",
+   "a transfer mechanism",
+   "a transfer impact assessment"
+  ],
+  "note_fr": "Sigle courant : SCCs. Le Royaume-Uni utilise ses propres instruments, en particulier un avenant britannique aux clauses européennes. Ne pas confondre avec un simple « standard contract ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-082",
+  "level": 3,
+  "fr": "décision d'adéquation",
+  "term": {
+   "uk": "adequacy decision",
+   "us": "adequacy decision"
+  },
+  "ipa": {
+   "uk": "/ˈædɪkwəsi dɪˌsɪʒ(ə)n/",
+   "us": "/ˈædɪkwəsi dɪˌsɪʒ(ə)n/"
+  },
+  "def": "A formal finding by the European Commission that a country outside the EU protects personal data to an adequate standard, so that data can flow there freely.",
+  "registers": {
+   "formal": {
+    "uk": "adequacy decision",
+    "us": "adequacy decision",
+    "ex": "The United Kingdom benefits from an [[adequacy decision]], with the result that no additional safeguards are required."
+   },
+   "everyday": {
+    "uk": "to be treated as safe",
+    "us": "to be treated as safe",
+    "ex": "The UK [[is treated as safe]], so sending the files to London isn't a problem."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be covered by an adequacy decision",
+   "an adequate level of protection",
+   "to be certified under the Data Privacy Framework",
+   "in the absence of an adequacy decision"
+  ],
+  "note_fr": "« Adequate » /ˈædɪkwət/ signifie « suffisant », pas « adéquat » au sens de « parfaitement adapté ». Pour les États-Unis, l'adéquation ne vaut que pour les entreprises certifiées au titre du cadre transatlantique en vigueur ; vérifiez toujours que le destinataire l'est bien, et pour les données RH.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-083",
+  "level": 3,
+  "fr": "sous-traitant ultérieur",
+  "term": {
+   "uk": "sub-processor",
+   "us": "sub-processor"
+  },
+  "ipa": {
+   "uk": "/ˈsʌb ˌprəʊsesə/",
+   "us": "/ˈsʌb ˌprɑːsesər/"
+  },
+  "def": "A company engaged by a processor to carry out part of the processing on the controller's data.",
+  "registers": {
+   "formal": {
+    "uk": "sub-processor",
+    "us": "sub-processor",
+    "ex": "The Supplier shall not engage any [[sub-processor]] without the prior written authorisation of the Customer.",
+    "ex_us": "The Supplier shall not engage any [[sub-processor]] without the prior written authorization of the Customer."
+   },
+   "everyday": {
+    "uk": "their own suppliers",
+    "us": "their own vendors",
+    "ex": "The HR platform is fine, but do we know who [[their own suppliers]] are and where they host the data?",
+    "ex_us": "The HR platform is fine, but do we know who [[their own vendors]] are and where they host the data?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to engage a sub-processor",
+   "a list of sub-processors",
+   "to object to a new sub-processor",
+   "to flow down obligations"
+  ],
+  "note_fr": "Encore le faux ami : pas « sub-subcontractor ». Le sous-traitant reste pleinement responsable, à l'égard de l'employeur, de ce que font ses propres sous-traitants.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-084",
+  "level": 3,
+  "fr": "pseudonymisation",
+  "term": {
+   "uk": "pseudonymisation",
+   "us": "pseudonymization"
+  },
+  "ipa": {
+   "uk": "/ˌsjuːdənɪmaɪˈzeɪʃ(ə)n/",
+   "us": "/ˌsuːdənɪməˈzeɪʃ(ə)n/"
+  },
+  "def": "Replacing names with a code so that individuals cannot be identified without additional information that is kept separately.",
+  "registers": {
+   "formal": {
+    "uk": "pseudonymised data",
+    "us": "pseudonymized data",
+    "ex": "[[Pseudonymised data]] remains personal data and is subject to this policy.",
+    "ex_us": "[[Pseudonymized data]] remains personal data and is subject to this policy."
+   },
+   "everyday": {
+    "uk": "to replace names with codes",
+    "us": "to replace names with codes",
+    "ex": "We [[replace names with codes]], and only HR holds the key."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold the key separately",
+   "to re-identify someone",
+   "a unique identifier",
+   "coded data"
+  ],
+  "note_fr": "Le « p » initial est muet : /ˌsjuː-/ ou /ˌsuː-/. À la différence de l'anonymisation, la pseudonymisation est réversible : les données restent personnelles. Aux États-Unis, on parle volontiers de « de-identified data », notion voisine mais définie différemment selon les textes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-085",
+  "level": 3,
+  "fr": "mesures techniques et organisationnelles",
+  "term": {
+   "uk": "technical and organisational measures",
+   "us": "technical and organizational measures"
+  },
+  "ipa": {
+   "uk": "/ˌteknɪk(ə)l ən ˌɔːɡənaɪˈzeɪʃ(ə)n(ə)l ˈmeʒəz/",
+   "us": "/ˌteknɪk(ə)l ən ˌɔːrɡənəˈzeɪʃ(ə)n(ə)l ˈmeʒərz/"
+  },
+  "def": "The practical steps an organisation takes to keep personal data secure, from encryption to staff training and access rules.",
+  "registers": {
+   "formal": {
+    "uk": "appropriate technical and organisational measures",
+    "us": "appropriate technical and organizational measures",
+    "ex": "The Supplier shall implement [[appropriate technical and organisational measures]] to protect the data against unauthorised access.",
+    "ex_us": "The Supplier shall implement [[appropriate technical and organizational measures]] to protect the data against unauthorized access."
+   },
+   "everyday": {
+    "uk": "to lock something down",
+    "us": "to lock something down",
+    "ex": "Before we go live, the salary data needs to be properly [[locked down]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to implement security measures",
+   "unauthorised access",
+   "accidental loss or destruction",
+   "reasonable security procedures (US)"
+  ],
+  "note_fr": "Formule figée des contrats, souvent abrégée en TOMs. « Mettre en œuvre » = « to implement » ou « to put in place ». Les lois américaines parlent plutôt de « reasonable security ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-086",
+  "level": 3,
+  "fr": "registre des violations de données",
+  "term": {
+   "uk": "breach log",
+   "us": "breach log"
+  },
+  "ipa": {
+   "uk": "/ˈbriːtʃ lɒɡ/",
+   "us": "/ˈbriːtʃ lɔːɡ/"
+  },
+  "def": "The internal record in which an organisation documents every data breach, whether or not it was reported to the regulator.",
+  "registers": {
+   "formal": {
+    "uk": "to document",
+    "us": "to document",
+    "ex": "The controller shall [[document]] every personal data breach, including its effects and the remedial action taken."
+   },
+   "everyday": {
+    "uk": "to log",
+    "us": "to log",
+    "ex": "Even if we decide not to report it, we still have to [[log]] it and note why."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to record an incident",
+   "remedial action",
+   "to keep a record of the decision",
+   "lessons learned"
+  ],
+  "note_fr": "Toute violation doit être consignée en interne, même si elle n'est pas notifiée à l'autorité : c'est ce registre que le contrôleur demandera en premier. « To log » = consigner ; « log » = journal.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-087",
+  "level": 3,
+  "fr": "confidentialité de l'identité de l'auteur du signalement",
+  "term": {
+   "uk": "confidentiality of the whistleblower's identity",
+   "us": "confidentiality of the whistleblower's identity"
+  },
+  "ipa": {
+   "uk": "/ˌkɒnfɪˌdenʃiˈæləti əv ðə ˈwɪs(ə)lˌbləʊəz aɪˈdentəti/",
+   "us": "/ˌkɑːnfɪˌdenʃiˈæləti əv ðə ˈwɪs(ə)lˌbloʊərz aɪˈdentəti/"
+  },
+  "def": "The duty to ensure that the name of a person who reports wrongdoing is not revealed to those who do not need to know it.",
+  "registers": {
+   "formal": {
+    "uk": "the identity of the reporting person",
+    "us": "the identity of the reporting person",
+    "ex": "[[The identity of the reporting person]] shall not be disclosed without his or her express consent, save to the judicial authorities."
+   },
+   "everyday": {
+    "uk": "who raised it",
+    "us": "who raised it",
+    "ex": "He's bound to ask [[who raised it]], and we simply can't tell him."
+   },
+   "informal": {
+    "uk": "to blow the whistle",
+    "us": "to blow the whistle",
+    "ex": "It took some courage to [[blow the whistle]] on her own manager."
+   }
+  },
+  "collocations": [
+   "a whistleblowing channel",
+   "to raise a concern",
+   "to protect the reporter's identity",
+   "to report anonymously"
+  ],
+  "note_fr": "Le terme de la directive européenne est « reporting person » ; au quotidien, « whistleblower ». En France, la confidentialité couvre l'identité de l'auteur du signalement, celle des personnes visées et les informations recueillies ; la personne mise en cause ne peut donc pas obtenir le nom de l'auteur par le biais de son droit d'accès. « To raise a concern » est l'expression britannique consacrée pour « faire un signalement ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-088",
+  "level": 3,
+  "fr": "données concernant des tiers",
+  "term": {
+   "uk": "third-party information",
+   "us": "third-party information"
+  },
+  "ipa": {
+   "uk": "/ˌθɜːd ˌpɑːti ɪnfəˈmeɪʃ(ə)n/",
+   "us": "/ˌθɜːrd ˌpɑːrti ɪnfərˈmeɪʃ(ə)n/"
+  },
+  "def": "Information about other people that is contained in a document also relating to the person who is asking to see it.",
+  "registers": {
+   "formal": {
+    "uk": "information relating to another individual",
+    "us": "information relating to another individual",
+    "ex": "Where a document contains [[information relating to another individual]], the Company will consider whether it is reasonable to disclose it."
+   },
+   "everyday": {
+    "uk": "other people's data",
+    "us": "other people's data",
+    "ex": "Half those emails are full of [[other people's data]], so we can't just print the lot."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "mixed personal data",
+   "to protect the rights of others",
+   "a witness statement",
+   "to seek the other person's consent"
+  ],
+  "note_fr": "Notion centrale pour répondre à une demande d'accès : le droit d'accès ne doit pas porter atteinte aux droits et libertés d'autrui. D'où l'occultation (« redaction ») des noms des témoins ou des collègues, plutôt qu'un refus global.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-089",
+  "level": 3,
+  "fr": "refuser de communiquer",
+  "term": {
+   "uk": "to withhold",
+   "us": "to withhold"
+  },
+  "ipa": {
+   "uk": "/tə wɪðˈhəʊld/",
+   "us": "/tə wɪθˈhoʊld/"
+  },
+  "def": "To decide not to hand over information that has been requested.",
+  "registers": {
+   "formal": {
+    "uk": "to withhold",
+    "us": "to withhold",
+    "ex": "Certain documents have been [[withheld]] on the ground that their disclosure would reveal the identity of a third party."
+   },
+   "everyday": {
+    "uk": "to hold back",
+    "us": "to hold back",
+    "ex": "We're entitled to [[hold back]] the legal advice, but not much else."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to withhold information",
+   "to withhold a document in full",
+   "grounds for withholding",
+   "to disclose in part"
+  ],
+  "note_fr": "Verbe irrégulier : withhold, withheld, withheld ; un seul « h » prononcé. Toute rétention doit être motivée dans la réponse. Rien à voir ici avec « withholding tax » (retenue à la source), autre emploi du même verbe.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-090",
+  "level": 3,
+  "fr": "dérogation / exception (au droit d'accès)",
+  "term": {
+   "uk": "exemption",
+   "us": "exemption"
+  },
+  "ipa": {
+   "uk": "/ɪɡˈzempʃ(ə)n/",
+   "us": "/ɪɡˈzempʃ(ə)n/"
+  },
+  "def": "A rule that releases an organisation from an obligation in defined circumstances, for example allowing it not to disclose certain information.",
+  "registers": {
+   "formal": {
+    "uk": "to fall within an exemption",
+    "us": "to fall within an exemption",
+    "ex": "Confidential references given by the Company [[fall within an exemption]] under United Kingdom law."
+   },
+   "everyday": {
+    "uk": "to be covered by an exemption",
+    "us": "to be covered by an exemption",
+    "ex": "Management forecasts and negotiating positions [[are covered by an exemption]], at least in the UK."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rely on an exemption",
+   "to apply an exemption",
+   "to be exempt from disclosure",
+   "to construe an exemption narrowly"
+  ],
+  "note_fr": "« Exemption » (dispense d'une obligation) se distingue d'« exception ». Le droit britannique énumère des exemptions détaillées (références confidentielles, prévisions de gestion, négociations en cours) que le droit français ne formule pas ainsi : n'exportez pas l'une chez l'autre sans vérifier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-091",
+  "level": 3,
+  "fr": "secret des échanges avec l'avocat",
+  "term": {
+   "uk": "legal professional privilege",
+   "us": "attorney-client privilege"
+  },
+  "ipa": {
+   "uk": "/ˌliːɡ(ə)l prəˌfeʃ(ə)n(ə)l ˈprɪv(ə)lɪdʒ/",
+   "us": "/əˌtɜːrni ˌklaɪənt ˈprɪv(ə)lɪdʒ/"
+  },
+  "def": "The rule protecting confidential communications between a lawyer and a client from having to be disclosed.",
+  "registers": {
+   "formal": {
+    "uk": "to be subject to legal professional privilege",
+    "us": "to be protected by attorney-client privilege",
+    "ex": "Advice received from the Company's solicitors [[is subject to legal professional privilege]] and has not been disclosed.",
+    "ex_us": "Advice received from the Company's attorneys [[is protected by attorney-client privilege]] and has not been disclosed."
+   },
+   "everyday": {
+    "uk": "privileged",
+    "us": "privileged",
+    "ex": "Anything from our lawyers is [[privileged]], so it stays out of the bundle.",
+    "ex_us": "Anything from our lawyers is [[privileged]], so it stays out of the production."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "privileged and confidential",
+   "to claim privilege",
+   "to waive privilege",
+   "to lose privilege"
+  ],
+  "note_fr": "Faux ami : « privilege » n'est pas ici un avantage mais une protection contre la divulgation. Différence de fond : au Royaume-Uni et aux États-Unis, le privilège appartient au client et couvre largement les avis des juristes internes ; en France, le secret professionnel est attaché à l'avocat, et la protection des avis des juristes d'entreprise est bien plus limitée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-092",
+  "level": 3,
+  "fr": "demande manifestement infondée ou excessive",
+  "term": {
+   "uk": "manifestly unfounded or excessive request",
+   "us": "manifestly unfounded or excessive request"
+  },
+  "ipa": {
+   "uk": "/ˌmænɪfestli ʌnˌfaʊndɪd ɔːr ɪkˈsesɪv rɪˈkwest/",
+   "us": "/ˌmænɪfestli ʌnˌfaʊndɪd ɔːr ɪkˈsesɪv rɪˈkwest/"
+  },
+  "def": "A request that an organisation may refuse because it is clearly without merit, abusive or needlessly repeated.",
+  "registers": {
+   "formal": {
+    "uk": "manifestly unfounded or excessive",
+    "us": "manifestly unfounded or excessive",
+    "ex": "The Company may refuse to act on a request that is [[manifestly unfounded or excessive]], in particular because of its repetitive character."
+   },
+   "everyday": {
+    "uk": "a fishing expedition",
+    "us": "a fishing expedition",
+    "ex": "It's obviously [[a fishing expedition]] ahead of his tribunal claim, but that alone doesn't let us refuse.",
+    "ex_us": "It's obviously [[a fishing expedition]] ahead of his lawsuit, but that alone doesn't let us refuse."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to refuse a request",
+   "to charge a reasonable fee",
+   "a vexatious request",
+   "to bear the burden of proof"
+  ],
+  "note_fr": "Le seuil est élevé et la charge de la preuve pèse sur l'employeur : le fait que le salarié prépare un contentieux ne rend pas sa demande abusive. « A fishing expedition » = une demande faite « à l'aveugle » pour trouver des munitions.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-093",
+  "level": 3,
+  "fr": "décision entièrement automatisée",
+  "term": {
+   "uk": "automated decision-making",
+   "us": "automated decision-making"
+  },
+  "ipa": {
+   "uk": "/ˌɔːtəmeɪtɪd dɪˈsɪʒ(ə)n ˌmeɪkɪŋ/",
+   "us": "/ˌɔːtəmeɪtɪd dɪˈsɪʒ(ə)n ˌmeɪkɪŋ/"
+  },
+  "def": "The making of a decision about a person by a computer system alone, with no meaningful human involvement.",
+  "registers": {
+   "formal": {
+    "uk": "a decision based solely on automated processing",
+    "us": "a decision based solely on automated processing",
+    "ex": "No candidate shall be rejected by [[a decision based solely on automated processing]]."
+   },
+   "everyday": {
+    "uk": "to let the software decide",
+    "us": "to let the software decide",
+    "ex": "The tool can rank the CVs, but we can't just [[let the software decide]] who gets rejected.",
+    "ex_us": "The tool can rank the résumés, but we can't just [[let the software decide]] who gets rejected."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "human review",
+   "to keep a human in the loop",
+   "CV-screening software",
+   "profiling"
+  ],
+  "note_fr": "« Decision-making » est indénombrable ; une décision se « prend » avec « make » ou « take » (UK), « make » (US). Le RGPD reconnaît le droit de ne pas faire l'objet d'une décision produisant des effets significatifs sur la seule base d'un traitement automatisé : prévoyez une intervention humaine réelle. Aux États-Unis, la ville de New York impose un audit de biais pour ces outils de recrutement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-094",
+  "level": 3,
+  "fr": "mosaïque de textes fédéraux et d'États (États-Unis)",
+  "term": {
+   "uk": "a patchwork of state and federal laws",
+   "us": "a patchwork of state and federal laws"
+  },
+  "ipa": {
+   "uk": "/ə ˌpætʃwɜːk əv ˌsteɪt ən ˈfed(ə)rəl lɔːz/",
+   "us": "/ə ˌpætʃwɜːrk əv ˌsteɪt ən ˈfedərəl lɔːz/"
+  },
+  "def": "The situation in the United States, where privacy is governed by many separate sector-specific and state rules rather than by one general law.",
+  "registers": {
+   "formal": {
+    "uk": "no comprehensive federal privacy legislation",
+    "us": "no comprehensive federal privacy legislation",
+    "ex": "There is [[no comprehensive federal privacy legislation]] in the United States; obligations arise from sector-specific statutes and from state law."
+   },
+   "everyday": {
+    "uk": "it varies from state to state",
+    "us": "it varies from state to state",
+    "ex": "There's no American GDPR. [[It varies from state to state]], and California goes furthest."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a sector-specific law",
+   "a comprehensive state privacy law",
+   "at federal level",
+   "to vary by state"
+  ],
+  "note_fr": "À expliquer dans l'autre sens à un client français : pas de texte général, mais des lois sectorielles (santé, rapports d'antécédents, communications électroniques) et des lois d'État. La Californie applique sa loi sur la vie privée aux salariés et aux candidats ; la plupart des autres États les en excluent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-095",
+  "level": 3,
+  "fr": "mise en demeure (de l'autorité)",
+  "term": {
+   "uk": "enforcement notice",
+   "us": "compliance order"
+  },
+  "ipa": {
+   "uk": "/ɪnˈfɔːsmənt ˌnəʊtɪs/",
+   "us": "/kəmˈplaɪəns ˌɔːrdər/"
+  },
+  "def": "A formal order from the regulator requiring an organisation to put an end to a breach of the law within a set time.",
+  "registers": {
+   "formal": {
+    "uk": "formal notice to comply",
+    "us": "formal notice to comply",
+    "ex": "The authority served the company with a [[formal notice to comply]] within three months."
+   },
+   "everyday": {
+    "uk": "to be ordered to",
+    "us": "to be ordered to",
+    "ex": "They weren't fined, but they [[were ordered to]] switch the cameras off."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to serve a notice on a company",
+   "to comply with a notice",
+   "a reprimand",
+   "to name a company publicly"
+  ],
+  "note_fr": "« Mise en demeure » n'a pas d'équivalent unique : « formal notice » pour décrire la procédure de la CNIL, « enforcement notice » pour l'ICO. La CNIL peut rendre publiques ses mises en demeure et ses sanctions (« to name and shame »), ce que les entreprises redoutent souvent plus que l'amende.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-096",
+  "level": 3,
+  "fr": "principe de responsabilité (accountability)",
+  "term": {
+   "uk": "accountability",
+   "us": "accountability"
+  },
+  "ipa": {
+   "uk": "/əˌkaʊntəˈbɪləti/",
+   "us": "/əˌkaʊntəˈbɪləti/"
+  },
+  "def": "The duty of an organisation not only to comply with data protection law but to be able to prove that it does.",
+  "registers": {
+   "formal": {
+    "uk": "to demonstrate compliance",
+    "us": "to demonstrate compliance",
+    "ex": "The controller shall be responsible for, and be able to [[demonstrate compliance]] with, the principles set out above."
+   },
+   "everyday": {
+    "uk": "a paper trail",
+    "us": "a paper trail",
+    "ex": "It's not enough to do the right thing; we need [[a paper trail]] showing we did."
+   },
+   "informal": {
+    "uk": "to cover oneself",
+    "us": "to cover oneself",
+    "ex": "Write the reasoning down, if only to [[cover ourselves]]."
+   }
+  },
+  "collocations": [
+   "to be accountable for something",
+   "to document a decision",
+   "to keep evidence of compliance",
+   "to be able to show one's working"
+  ],
+  "note_fr": "« Accountability » n'a pas de traduction française satisfaisante : c'est l'obligation de rendre des comptes, plus exigeante que « responsibility ». Construction : « accountable to someone for something ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-097",
+  "level": 3,
+  "fr": "protection des données dès la conception et par défaut",
+  "term": {
+   "uk": "data protection by design and by default",
+   "us": "data protection by design and by default"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪtə prəˈtekʃ(ə)n baɪ dɪˈzaɪn ən baɪ dɪˈfɔːlt/",
+   "us": "/ˌdeɪtə prəˈtekʃ(ə)n baɪ dɪˈzaɪn ən baɪ dɪˈfɔːlt/"
+  },
+  "def": "The requirement to build privacy safeguards into a system from the outset, and to set it up so that only the necessary data is collected unless someone chooses otherwise.",
+  "registers": {
+   "formal": {
+    "uk": "by design and by default",
+    "us": "by design and by default",
+    "ex": "The Supplier warrants that the platform has been developed in accordance with the principle of data protection [[by design and by default]]."
+   },
+   "everyday": {
+    "uk": "to build something in from the start",
+    "us": "to build something in from the start",
+    "ex": "It's far cheaper to [[build privacy in from the start]] than to bolt it on afterwards."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "privacy by design",
+   "default settings",
+   "to bolt something on afterwards",
+   "at the design stage"
+  ],
+  "note_fr": "« Par défaut » = « by default » : ici, les réglages d'origine d'un outil. « To bolt on » (ajouter après coup) est l'image habituelle pour ce qu'il faut éviter. À exiger des éditeurs de SIRH dès le cahier des charges.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-098",
+  "level": 3,
+  "fr": "attente raisonnable en matière de vie privée",
+  "term": {
+   "uk": "reasonable expectation of privacy",
+   "us": "reasonable expectation of privacy"
+  },
+  "ipa": {
+   "uk": "/ˌriːz(ə)nəb(ə)l ˌekspekˈteɪʃ(ə)n əv ˈprɪvəsi/",
+   "us": "/ˌriːz(ə)nəb(ə)l ˌekspekˈteɪʃ(ə)n əv ˈpraɪvəsi/"
+  },
+  "def": "The degree of privacy a person is entitled to assume in a given setting, used by courts to decide whether an intrusion was lawful.",
+  "registers": {
+   "formal": {
+    "uk": "no expectation of privacy",
+    "us": "no expectation of privacy",
+    "ex": "Employees should have [[no expectation of privacy]] in any material created, stored or sent using Company systems."
+   },
+   "everyday": {
+    "uk": "to assume something is private",
+    "us": "to assume something is private",
+    "ex": "On a company laptop in the US, you really can't [[assume anything is private]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have a reasonable expectation of privacy",
+   "to defeat an expectation of privacy",
+   "company-owned equipment",
+   "an intrusion into private life"
+  ],
+  "note_fr": "Critère américain par excellence : il suffit en général d'une politique écrite pour faire disparaître cette attente. La clause « no expectation of privacy », standard dans les manuels américains, ne peut pas être reprise telle quelle en France ni au Royaume-Uni, où le salarié conserve un droit à la vie privée au travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-099",
+  "level": 3,
+  "fr": "gel des données en vue d'un contentieux",
+  "term": {
+   "uk": "litigation hold",
+   "us": "litigation hold"
+  },
+  "ipa": {
+   "uk": "/ˌlɪtɪˈɡeɪʃ(ə)n həʊld/",
+   "us": "/ˌlɪtɪˈɡeɪʃ(ə)n hoʊld/"
+  },
+  "def": "An instruction to suspend the normal deletion of documents because they may be needed as evidence in a dispute.",
+  "registers": {
+   "formal": {
+    "uk": "to preserve all relevant documents",
+    "us": "to preserve all relevant documents",
+    "ex": "You are required [[to preserve all relevant documents]] until further notice, notwithstanding the Company's retention policy."
+   },
+   "everyday": {
+    "uk": "to put a hold on",
+    "us": "to put a hold on",
+    "ex": "Legal have [[put a hold on]] his mailbox, so nothing gets deleted for now.",
+    "ex_us": "Legal has [[put a hold on]] his mailbox, so nothing gets deleted for now."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a legal hold",
+   "to lift the hold",
+   "to suspend routine deletion",
+   "destruction of evidence"
+  ],
+  "note_fr": "Réflexe américain, lié à la procédure de « discovery » : dès qu'un litige est prévisible, l'entreprise doit geler les documents pertinents, sous peine de sanctions. En Europe, il faut concilier ce gel avec la limitation de la conservation : on le borne aux documents utiles et à la durée du litige.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "dp-100",
+  "level": 3,
+  "fr": "dans les meilleurs délais",
+  "term": {
+   "uk": "without undue delay",
+   "us": "without undue delay"
+  },
+  "ipa": {
+   "uk": "/wɪˌðaʊt ʌnˌdjuː dɪˈleɪ/",
+   "us": "/wɪˌðaʊt ʌnˌduː dɪˈleɪ/"
+  },
+  "def": "As quickly as can reasonably be expected in the circumstances.",
+  "registers": {
+   "formal": {
+    "uk": "without undue delay",
+    "us": "without undue delay",
+    "ex": "The processor shall notify the controller [[without undue delay]] after becoming aware of a personal data breach."
+   },
+   "everyday": {
+    "uk": "as soon as one can",
+    "us": "as soon as one can",
+    "ex": "Tell the DPO [[as soon as you can]]. Don't wait until you've worked out what happened."
+   },
+   "informal": {
+    "uk": "asap",
+    "us": "asap",
+    "ex": "Can you get the list of people affected over to me [[asap]]?"
+   }
+  },
+  "collocations": [
+   "without undue delay and in any event within",
+   "where feasible",
+   "as soon as reasonably practicable",
+   "promptly"
+  ],
+  "note_fr": "Formule du RGPD, à reprendre telle quelle dans les contrats. « Undue » = excessif, injustifié. « In the best delays » est un calque incompréhensible ; « asap » se dit lettre par lettre ou /ˈeɪsæp/.",
+  "french_concept": false,
+  "explain": null
+ }
+]

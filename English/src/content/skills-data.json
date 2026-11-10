@@ -1,0 +1,1641 @@
+{
+ "reading": [
+  {
+   "id": "rd-dp-1",
+   "title": "Use and Monitoring of IT Systems",
+   "kind": "policy extract",
+   "level": 2,
+   "paragraphs": [
+    "7. USE AND MONITORING OF IT SYSTEMS",
+    "7.1 The Company's email, internet access and devices are provided for business purposes. Reasonable personal use is permitted, provided that it takes place outside working time wherever possible, does not interfere with the employee's duties and does not put the security of the network at risk.",
+    "7.2 In order to protect its systems and to ensure compliance with this policy, the Company keeps logs of connections to the network, of the websites visited and of the volume of messages sent and received. These logs are retained for six months and are accessible only to authorised members of the IT department.",
+    "7.3 Monitoring is carried out, in the first instance, on an aggregated basis. Individual checks will be made only where there are reasonable grounds to suspect a breach of this policy, and will be proportionate to the aim pursued.",
+    "7.4 Messages and files which the employee has clearly identified as personal will not be opened in his or her absence, save in the event of a particular risk or serious incident. All other messages and files are presumed to be work-related.",
+    "7.5 The Company does not use keystroke logging software, nor does it make use of covert monitoring.",
+    "7.6 Employees were informed of these arrangements, and the works council was consulted, before they were introduced. Any breach of this policy may give rise to disciplinary action in accordance with the internal rules.",
+    "7.7 Questions regarding this section, and requests to exercise the rights described in the employee privacy notice, should be addressed to the Data Protection Officer."
+   ],
+   "glossary": [
+    {
+     "term": "reasonable personal use",
+     "plain": "using work equipment for private matters, within sensible limits",
+     "fr": "usage personnel raisonnable"
+    },
+    {
+     "term": "logs",
+     "plain": "automatic records of what happens on a computer system",
+     "fr": "journaux (de connexion)"
+    },
+    {
+     "term": "retained",
+     "plain": "kept",
+     "fr": "conservés"
+    },
+    {
+     "term": "on an aggregated basis",
+     "plain": "looking at overall figures, not at what each individual does",
+     "fr": "de manière globale, non individualisée"
+    },
+    {
+     "term": "reasonable grounds to suspect",
+     "plain": "good, concrete reasons for thinking something has happened",
+     "fr": "des raisons sérieuses de soupçonner"
+    },
+    {
+     "term": "covert monitoring",
+     "plain": "watching what people do without telling them",
+     "fr": "surveillance clandestine"
+    },
+    {
+     "term": "works council",
+     "plain": "the body that represents employees within the company",
+     "fr": "comité social et économique (CSE)"
+    },
+    {
+     "term": "privacy notice",
+     "plain": "the document telling people how their data is used",
+     "fr": "notice d'information sur les données personnelles"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "provided that",
+     "plain": "as long as; on condition that"
+    },
+    {
+     "phrase": "in the first instance",
+     "plain": "to begin with; as a first step"
+    },
+    {
+     "phrase": "save in the event of",
+     "plain": "except if there is"
+    },
+    {
+     "phrase": "give rise to",
+     "plain": "lead to; result in"
+    }
+   ],
+   "questions": [
+    {
+     "q": "According to clause 7.1, personal use of the Company's internet access is:",
+     "options": [
+      "forbidden at all times",
+      "allowed within reasonable limits",
+      "allowed only with a manager's permission",
+      "allowed only on personal devices"
+     ],
+     "answer": 1,
+     "explain_fr": "« Reasonable personal use is permitted, provided that... » : l'usage personnel est admis sous conditions. « Provided that » introduit ces conditions."
+    },
+    {
+     "q": "When may the Company look at what one particular employee has been doing online?",
+     "options": [
+      "Whenever IT thinks it useful",
+      "Every six months, as a routine check",
+      "Never",
+      "Only when there are good reasons to suspect a breach of the policy"
+     ],
+     "answer": 3,
+     "explain_fr": "Clause 7.3 : le contrôle est d'abord global (« on an aggregated basis ») ; le contrôle individuel suppose « reasonable grounds to suspect a breach »."
+    },
+    {
+     "q": "A file labelled 'personal' by the employee may, as a rule:",
+     "options": [
+      "not be opened when the employee is not there",
+      "be opened by IT at any time",
+      "be deleted without notice",
+      "be opened by the employee's line manager only"
+     ],
+     "answer": 0,
+     "explain_fr": "Clause 7.4 : « will not be opened in his or her absence », sauf risque ou événement particulier. C'est la transposition de la règle jurisprudentielle française."
+    },
+    {
+     "q": "What does clause 7.6 tell us about how the monitoring was introduced?",
+     "options": [
+      "It was introduced without telling anyone",
+      "Employees gave their individual consent",
+      "Staff were told and their representatives consulted beforehand",
+      "The regulator approved it in advance"
+     ],
+     "answer": 2,
+     "explain_fr": "« Employees were informed... and the works council was consulted, before they were introduced » : information préalable et consultation du CSE, non consentement individuel."
+    }
+   ]
+  },
+  {
+   "id": "rd-dp-2",
+   "title": "Handling an access request from a former employee",
+   "kind": "client memo",
+   "level": 3,
+   "paragraphs": [
+    "MEMORANDUM",
+    "To: Laura Bennett, VP People (Boston). From: Claire Morel. Re: Access request from a former employee of the Lyon office.",
+    "You asked how the Lyon office should deal with the letter received on 4 March from Mr D., who was dismissed in January and is asking for 'a copy of all the data the company holds about him, including emails'. In short: this is a valid request, the clock is already running, and we should answer it carefully rather than grudgingly.",
+    "Under the GDPR, the company has one month from receipt to respond. That period may be extended by two further months where a request is complex, but only if Mr D. is told so, and told why, within the first month. Failing to reply is the surest way to turn an irritation into a complaint to the regulator.",
+    "The right is to a copy of his personal data, not to every document in which his name appears. That said, the French regulator takes the view that work emails he sent or received fall within the request, so we cannot simply leave them out. What we can and must do is protect other people: the names of colleagues who gave statements should be redacted, and anything covered by lawyer-client confidentiality should be withheld.",
+    "I appreciate that the request is plainly a prelude to litigation. That does not, in itself, make it manifestly unfounded or excessive, and I would advise against refusing on that ground.",
+    "As a next step, I suggest that we acknowledge receipt this week, ask IT to run a search limited to an agreed period and set of mailboxes, and review the results together before anything is sent out. Please do not delete anything in the meantime."
+   ],
+   "glossary": [
+    {
+     "term": "the clock is already running",
+     "plain": "the time allowed has already started to count down",
+     "fr": "le délai court déjà"
+    },
+    {
+     "term": "grudgingly",
+     "plain": "unwillingly, doing as little as possible",
+     "fr": "à contrecœur"
+    },
+    {
+     "term": "from receipt",
+     "plain": "counted from the day the request arrived",
+     "fr": "à compter de la réception"
+    },
+    {
+     "term": "takes the view that",
+     "plain": "considers that; has adopted the position that",
+     "fr": "considère que"
+    },
+    {
+     "term": "redacted",
+     "plain": "hidden or blacked out before the document is handed over",
+     "fr": "occultés"
+    },
+    {
+     "term": "withheld",
+     "plain": "kept back, not handed over",
+     "fr": "non communiqués"
+    },
+    {
+     "term": "a prelude to litigation",
+     "plain": "a first step before starting a court case",
+     "fr": "le prélude à un contentieux"
+    },
+    {
+     "term": "acknowledge receipt",
+     "plain": "confirm that the request has arrived",
+     "fr": "accuser réception"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "fall within the request",
+     "plain": "are covered by the request"
+    },
+    {
+     "phrase": "manifestly unfounded or excessive",
+     "plain": "clearly without basis or abusive"
+    },
+    {
+     "phrase": "in itself",
+     "plain": "on its own; taken alone"
+    },
+    {
+     "phrase": "on that ground",
+     "plain": "for that reason"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How long does the company have to answer Mr D.?",
+     "options": [
+      "One month, with a possible extension if he is told in time",
+      "Two months in every case",
+      "Three months, without having to tell him anything",
+      "As long as the litigation lasts"
+     ],
+     "answer": 0,
+     "explain_fr": "Un mois à compter de la réception, prolongeable de deux mois pour une demande complexe, à condition d'en informer le demandeur dans le premier mois."
+    },
+    {
+     "q": "What does the memo say about work emails?",
+     "options": [
+      "They are never covered by an access request",
+      "They must be handed over complete and unedited",
+      "They are covered, but other people's names should be hidden",
+      "They may be deleted before the search is run"
+     ],
+     "answer": 2,
+     "explain_fr": "Les courriels entrent dans le champ de la demande (« fall within the request »), mais les droits des tiers imposent d'occulter leurs noms (« redacted »)."
+    },
+    {
+     "q": "Why does the consultant advise against refusing the request?",
+     "options": [
+      "Because Mr D. has already complained to the regulator",
+      "Because the fact that he may sue does not make the request abusive",
+      "Because the company has nothing to hide",
+      "Because refusals are never allowed under the GDPR"
+     ],
+     "answer": 1,
+     "explain_fr": "« That does not, in itself, make it manifestly unfounded or excessive » : préparer un contentieux ne rend pas la demande abusive."
+    },
+    {
+     "q": "Which of these is NOT among the next steps proposed?",
+     "options": [
+      "Acknowledging receipt this week",
+      "Running a search limited by period and mailbox",
+      "Reviewing the results before sending anything",
+      "Asking Mr D. to explain why he wants the data"
+     ],
+     "answer": 3,
+     "explain_fr": "Le mémo propose d'accuser réception, de cadrer la recherche et de relire les résultats. Il ne suggère pas de demander ses motifs au salarié : le droit d'accès n'a pas à être motivé."
+    }
+   ]
+  },
+  {
+   "id": "rd-dp-3",
+   "title": "Telling staff about a payroll data breach",
+   "kind": "long email",
+   "level": 1,
+   "paragraphs": [
+    "Subject: Important: payroll file sent in error",
+    "Dear colleagues,",
+    "I am writing to let you know about an incident involving some of your personal data, and to explain what we have done about it.",
+    "On Tuesday 14 October, a spreadsheet prepared for our payroll provider was sent in error to an external email address. The file contained the names, home addresses, bank details and October salaries of the 42 employees of the Leeds office. It did not contain any health information or passwords.",
+    "The mistake was noticed within the hour. The recipient, an accountant at another firm, has confirmed in writing that she deleted the message without opening the attachment, and we have no reason to doubt this. We reported the incident to the Information Commissioner's Office the following day, as a precaution.",
+    "Although we believe the risk to you is low, we would recommend that you keep an eye on your bank statements over the coming weeks and be wary of any unexpected email or call asking for your details. If you notice anything unusual, please tell us straight away.",
+    "To prevent this from happening again, payroll files will from now on be shared only through the provider's secure portal, never as email attachments, and everyone in the HR team will attend refresher training before the end of the month.",
+    "I am sorry that this happened. If you have any questions, or would like to know exactly which of your details were in the file, please contact our Data Protection Officer, Daniel Okafor, at dpo@northgate.example.",
+    "Kind regards,",
+    "Helen Marsh, HR Director"
+   ],
+   "glossary": [
+    {
+     "term": "sent in error",
+     "plain": "sent by mistake",
+     "fr": "envoyé par erreur"
+    },
+    {
+     "term": "payroll provider",
+     "plain": "the outside company that calculates and pays salaries",
+     "fr": "prestataire de paie"
+    },
+    {
+     "term": "bank details",
+     "plain": "the account information needed to make a payment",
+     "fr": "coordonnées bancaires"
+    },
+    {
+     "term": "recipient",
+     "plain": "the person who received the message",
+     "fr": "destinataire"
+    },
+    {
+     "term": "as a precaution",
+     "plain": "to be on the safe side, even though it may not be strictly required",
+     "fr": "par précaution"
+    },
+    {
+     "term": "keep an eye on",
+     "plain": "check regularly",
+     "fr": "surveiller, garder un œil sur"
+    },
+    {
+     "term": "be wary of",
+     "plain": "be careful about; do not trust too easily",
+     "fr": "se méfier de"
+    },
+    {
+     "term": "refresher training",
+     "plain": "a short course to remind people of rules they have already learned",
+     "fr": "formation de rappel"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "What exactly went wrong?",
+     "options": [
+      "The payroll provider's portal was hacked",
+      "A laptop was stolen from the Leeds office",
+      "A file was emailed to the wrong address",
+      "An employee published salaries on the intranet"
+     ],
+     "answer": 2,
+     "explain_fr": "« A spreadsheet... was sent in error to an external email address » : une erreur de destinataire, cause la plus fréquente de violation de données."
+    },
+    {
+     "q": "Which information was NOT in the file?",
+     "options": [
+      "Health information",
+      "Home addresses",
+      "Bank details",
+      "October salaries"
+     ],
+     "answer": 0,
+     "explain_fr": "« It did not contain any health information or passwords. » Préciser ce qui n'était pas concerné rassure et fait partie d'une bonne notification."
+    },
+    {
+     "q": "Why does the company believe the risk is low?",
+     "options": [
+      "The file was encrypted",
+      "The regulator has said so",
+      "The salaries were out of date",
+      "The recipient confirmed she deleted it unopened"
+     ],
+     "answer": 3,
+     "explain_fr": "La destinataire a confirmé par écrit avoir supprimé le message sans ouvrir la pièce jointe. Rien n'indique que le fichier était chiffré."
+    },
+    {
+     "q": "What will change in future?",
+     "options": [
+      "Payroll will be brought back in-house",
+      "Payroll files will only go through a secure portal",
+      "Bank details will no longer be collected",
+      "Only the HR Director will send payroll files"
+     ],
+     "answer": 1,
+     "explain_fr": "« Payroll files will from now on be shared only through the provider's secure portal » : la mesure corrective, accompagnée d'une formation de rappel."
+    }
+   ]
+  },
+  {
+   "id": "rd-dp-4",
+   "title": "Data Protection Clause in an HR Software Agreement",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "12. DATA PROTECTION",
+    "12.1 For the purposes of this clause, the Customer is the controller and the Supplier is the processor of the Employee Data. The subject matter, duration and purposes of the processing, and the categories of data concerned, are set out in Schedule 2.",
+    "12.2 The Supplier shall process the Employee Data solely on the documented instructions of the Customer and for no purpose other than the provision of the Services.",
+    "12.3 The Supplier shall ensure that all persons authorised to process the Employee Data are bound by an obligation of confidentiality, and shall implement appropriate technical and organisational measures to protect the Employee Data against unauthorised access, loss or destruction.",
+    "12.4 The Supplier shall not engage any sub-processor without the prior written authorisation of the Customer, and shall remain fully liable for the acts and omissions of any sub-processor so engaged.",
+    "12.5 The Supplier shall not transfer the Employee Data outside the European Economic Area save with the Customer's prior written consent and subject to appropriate safeguards.",
+    "12.6 The Supplier shall notify the Customer without undue delay, and in any event within twenty-four hours, after becoming aware of a personal data breach, and shall provide such assistance as the Customer may reasonably require in order to meet its own notification obligations.",
+    "12.7 The Supplier shall assist the Customer in responding to requests from data subjects and shall forthwith forward to the Customer any such request it receives directly.",
+    "12.8 Upon termination of this Agreement for whatever reason, the Supplier shall, at the Customer's option, return or securely delete the Employee Data, save to the extent that the Supplier is required by law to retain it."
+   ],
+   "glossary": [
+    {
+     "term": "controller",
+     "plain": "the organisation that decides why and how the data is used (here, the employer)",
+     "fr": "responsable de traitement"
+    },
+    {
+     "term": "processor",
+     "plain": "the company that handles the data for the controller (here, the software supplier)",
+     "fr": "sous-traitant"
+    },
+    {
+     "term": "documented instructions",
+     "plain": "instructions given in writing, or otherwise recorded",
+     "fr": "instructions documentées"
+    },
+    {
+     "term": "sub-processor",
+     "plain": "another company the supplier brings in to handle part of the data",
+     "fr": "sous-traitant ultérieur"
+    },
+    {
+     "term": "fully liable",
+     "plain": "legally responsible for everything",
+     "fr": "pleinement responsable"
+    },
+    {
+     "term": "appropriate safeguards",
+     "plain": "legal protections that make a transfer abroad lawful",
+     "fr": "garanties appropriées"
+    },
+    {
+     "term": "data subjects",
+     "plain": "the people the data is about (here, the employees)",
+     "fr": "personnes concernées"
+    },
+    {
+     "term": "at the Customer's option",
+     "plain": "whichever the customer chooses",
+     "fr": "au choix du Client"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "for no purpose other than",
+     "plain": "only for"
+    },
+    {
+     "phrase": "so engaged",
+     "plain": "that it has taken on in this way"
+    },
+    {
+     "phrase": "without undue delay, and in any event within",
+     "plain": "as quickly as possible, and at the very latest within"
+    },
+    {
+     "phrase": "forthwith",
+     "plain": "immediately"
+    },
+    {
+     "phrase": "save to the extent that",
+     "plain": "except in so far as"
+    }
+   ],
+   "questions": [
+    {
+     "q": "In this agreement, who decides what the employee data may be used for?",
+     "options": [
+      "The Supplier",
+      "The sub-processors",
+      "The employees themselves",
+      "The Customer"
+     ],
+     "answer": 3,
+     "explain_fr": "Le Client est « controller » : c'est lui qui détermine les finalités. Le Fournisseur n'agit que sur ses « documented instructions »."
+    },
+    {
+     "q": "If a sub-processor makes a mistake, who answers for it towards the Customer?",
+     "options": [
+      "The Supplier",
+      "The sub-processor alone",
+      "Nobody, unless the Customer approved the mistake",
+      "The regulator"
+     ],
+     "answer": 0,
+     "explain_fr": "« Shall remain fully liable for the acts and omissions of any sub-processor » : le sous-traitant répond de ses propres sous-traitants."
+    },
+    {
+     "q": "What must the Supplier do if it discovers a data breach?",
+     "options": [
+      "Notify the regulator itself within 72 hours",
+      "Tell the Customer quickly, within twenty-four hours at most, and help it meet its obligations",
+      "Inform the employees directly",
+      "Wait for the Customer's instructions before doing anything"
+     ],
+     "answer": 1,
+     "explain_fr": "Clause 12.6 : le sous-traitant prévient le responsable de traitement ; c'est ce dernier qui notifie l'autorité. Le délai contractuel de 24 heures laisse au Client le temps de respecter le sien."
+    },
+    {
+     "q": "What happens to the data when the agreement ends?",
+     "options": [
+      "The Supplier keeps it for five years",
+      "It automatically becomes the Supplier's property",
+      "It is returned or deleted, as the Customer chooses, unless the law requires the Supplier to keep it",
+      "It is transferred to the next supplier"
+     ],
+     "answer": 2,
+     "explain_fr": "Clause 12.8 : restitution ou suppression « at the Customer's option », sous réserve d'une obligation légale de conservation (« save to the extent that... »)."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-dp-1",
+   "title": "Acknowledging a subject access request",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Mr Adeyemi, an employee of your UK client, emailed HR on 3 June asking for a copy of all the personal data held about him. Write the acknowledgement: confirm receipt and the date, state when he will have a reply, ask him to narrow the search if he can, and tell him who is handling the request.",
+   "brief_fr": "M. Adeyemi, salarié de votre client britannique, a écrit aux RH le 3 juin pour obtenir copie de l'ensemble de ses données personnelles. Rédigez l'accusé de réception : confirmez la réception et sa date, indiquez le délai de réponse, invitez-le à préciser sa demande s'il le peut et dites-lui qui la traite.",
+   "gaps": [
+    {
+     "text": "I am writing to ___ receipt of your email of 3 June.",
+     "answer": "acknowledge",
+     "accept": [
+      "confirm"
+     ],
+     "explain_fr": "« To acknowledge receipt of » = accuser réception de. Formule consacrée ; « to accuse reception » n'existe pas."
+    },
+    {
+     "text": "We are treating your email as a request for access to the personal data we ___ about you.",
+     "answer": "hold",
+     "accept": [
+      "keep",
+      "process"
+     ],
+     "explain_fr": "« To hold data about (ou on) someone » = détenir des données sur quelqu'un. Présent simple : c'est un état."
+    },
+    {
+     "text": "You will receive our response ___ one month of that date.",
+     "answer": "within",
+     "accept": [],
+     "explain_fr": "« Within one month » = dans un délai d'un mois. « In one month » voudrait dire « dans un mois exactement »."
+    },
+    {
+     "text": "It would help us to respond more quickly if you could ___ us know whether you are interested in a particular period or type of document.",
+     "answer": "let",
+     "accept": [],
+     "explain_fr": "« To let someone know » = faire savoir à quelqu'un. Structure : let + complément + base verbale, sans « to »."
+    },
+    {
+     "text": "You are under no ___ to do so, and your request will be dealt with in any event.",
+     "answer": "obligation",
+     "accept": [
+      "duty"
+     ],
+     "explain_fr": "« To be under no obligation to » = n'être nullement tenu de. Rassure le salarié : préciser sa demande est facultatif."
+    },
+    {
+     "text": "Your request is being ___ by our Data Protection Officer, Ms Rachel Lowe.",
+     "answer": "handled",
+     "accept": [
+      "dealt with",
+      "managed",
+      "processed"
+     ],
+     "explain_fr": "« To handle a request » = traiter une demande. Passif progressif (« is being handled ») : l'action est en cours."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Your request for access to your personal data\n\nDear Mr Adeyemi,\n\nI am writing to acknowledge receipt of your email of 3 June. We are treating your email as a request for access to the personal data we hold about you, and the time limit for our reply therefore runs from 3 June. You will receive our response within one month of that date.\n\nIt would help us to respond more quickly if you could let us know whether you are interested in a particular period or type of document, for example emails exchanged with your line manager since January. You are under no obligation to do so, and your request will be dealt with in any event.\n\nYour request is being handled by our Data Protection Officer, Ms Rachel Lowe, who can be reached at dpo@harwell.example should you have any questions in the meantime.\n\nYours sincerely,\n\nClaire Morel\nHR Consultant",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "We are treating your email as a request for access",
+     "note_fr": "Le salarié n'a pas à employer de formule juridique : c'est à l'employeur de reconnaître la demande. « To treat something as » = considérer comme."
+    },
+    {
+     "quote": "the time limit for our reply therefore runs from 3 June",
+     "note_fr": "« To run from » pour un délai qui court à compter d'une date. « Therefore » se place naturellement après le sujet à l'écrit."
+    },
+    {
+     "quote": "It would help us to respond more quickly if you could",
+     "note_fr": "Demande formulée comme un service rendu, non comme une condition : ton coopératif, essentiel face à un salarié méfiant."
+    },
+    {
+     "quote": "in any event",
+     "note_fr": "= en tout état de cause. Plus soutenu que « anyway », qui serait trop oral dans une lettre."
+    },
+    {
+     "quote": "should you have any questions in the meantime",
+     "note_fr": "Inversion soutenue équivalant à « if you have ». « In the meantime » = d'ici là."
+    }
+   ],
+   "checklist": [
+    "Did I confirm the date on which the request was received?",
+    "Did I state clearly when he will have a reply, using 'within'?",
+    "Did I make it clear that narrowing the request is optional?",
+    "Did I say who is handling the request and how to reach that person?",
+    "Is my tone neutral and cooperative, with no hint of suspicion?"
+   ],
+   "phrasebank": [
+    "I am writing to acknowledge receipt of...",
+    "We are treating your email as a request for...",
+    "You will receive our response within one month of...",
+    "It would help us to respond more quickly if you could...",
+    "You are under no obligation to do so.",
+    "Your request is being handled by...",
+    "...should you have any questions in the meantime."
+   ]
+  },
+  {
+   "id": "wr-dp-2",
+   "title": "Saying no to a manager who wants medical details",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Tom Reilly, a team leader, has emailed you: one of his team, Sophie, has been off sick for three weeks and he wants to know what is wrong with her and to see her file 'to plan ahead'. Reply: refuse politely, explain why, and tell him what you can give him.",
+   "brief_fr": "Tom Reilly, chef d'équipe, vous écrit : Sophie, membre de son équipe, est en arrêt depuis trois semaines ; il veut connaître la nature de sa maladie et consulter son dossier « pour s'organiser ». Répondez : refusez poliment, expliquez pourquoi et indiquez ce que vous pouvez lui communiquer.",
+   "gaps": [
+    {
+     "text": "I'm ___ I can't share the reason for Sophie's absence with you.",
+     "answer": "afraid",
+     "accept": [
+      "sorry"
+     ],
+     "explain_fr": "« I'm afraid » adoucit un refus ; c'est l'équivalent de « malheureusement ». Indispensable pour ne pas paraître sec."
+    },
+    {
+     "text": "Medical information is only ever shared on a ___ basis.",
+     "answer": "need-to-know",
+     "accept": [
+      "need to know",
+      "strictly need-to-know"
+     ],
+     "explain_fr": "« On a need-to-know basis » = aux seules personnes qui en ont besoin pour leur travail. Avec traits d'union devant « basis »."
+    },
+    {
+     "text": "Anything Sophie has told HR about her health was told to us in ___.",
+     "answer": "confidence",
+     "accept": [
+      "strict confidence"
+     ],
+     "explain_fr": "« In confidence » = à titre confidentiel. Attention : « confidence » seul signifie « confiance en soi »."
+    },
+    {
+     "text": "What I can tell you is that she is ___ to return on Monday 17 March.",
+     "answer": "due",
+     "accept": [
+      "expected",
+      "scheduled"
+     ],
+     "explain_fr": "« To be due to + verbe » = devoir (selon ce qui est prévu). Idéal pour une date de reprise prévisionnelle."
+    },
+    {
+     "text": "If she chooses to tell you more herself, that is entirely ___ to her.",
+     "answer": "up",
+     "accept": [],
+     "explain_fr": "« It's up to her » = c'est à elle de décider. Rappelle que l'information appartient à la salariée."
+    },
+    {
+     "text": "In the meantime, please don't ___ on anything you may have heard to the rest of the team.",
+     "answer": "pass",
+     "accept": [],
+     "explain_fr": "« To pass on » = transmettre, répéter. Verbe à particule séparable : « pass it on »."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: RE: Sophie - absence\n\nHi Tom,\n\nThanks for your message. I quite understand that you need to plan the team's workload, and I'd like to help with that.\n\nI'm afraid I can't share the reason for Sophie's absence with you, or let you see her file. Medical information is only ever shared on a need-to-know basis, and anything Sophie has told HR about her health was told to us in confidence. That applies to every member of staff, you and me included.\n\nWhat I can tell you is that she is due to return on Monday 17 March. I'll let you know straight away if that date changes, and I can arrange temporary cover if it would help. If she chooses to tell you more herself, that is entirely up to her.\n\nIn the meantime, please don't pass on anything you may have heard to the rest of the team.\n\nBest regards,\n\nClaire",
+   "model_us": "Subject: RE: Sophie - absence\n\nHi Tom,\n\nThanks for your message. I completely understand that you need to plan the team's workload, and I'd like to help with that.\n\nI'm afraid I can't share the reason for Sophie's absence with you, or let you see her file. Medical information is only ever shared on a need-to-know basis, and anything Sophie has told HR about her health was told to us in confidence. That applies to every employee, you and me included.\n\nWhat I can tell you is that she is due to return on Monday, March 17. I'll let you know right away if that date changes, and I can arrange temporary coverage if that would help. If she chooses to tell you more herself, that is entirely up to her.\n\nIn the meantime, please don't pass on anything you may have heard to the rest of the team.\n\nBest regards,\n\nClaire",
+   "commentary": [
+    {
+     "quote": "I quite understand that you need to plan the team's workload",
+     "note_fr": "Commencez par reconnaître le besoin légitime du manager avant de refuser. « Quite » = tout à fait (UK) ; un Américain dirait « completely »."
+    },
+    {
+     "quote": "That applies to every member of staff, you and me included.",
+     "note_fr": "Dépersonnalise le refus : ce n'est pas de la défiance envers lui, c'est la règle pour tous."
+    },
+    {
+     "quote": "What I can tell you is that",
+     "note_fr": "Structure emphatique très utile pour passer du refus à ce que l'on peut offrir."
+    },
+    {
+     "quote": "I can arrange temporary cover if it would help",
+     "note_fr": "« Cover » (UK) = remplacement ; « coverage » aux États-Unis. Proposer une solution concrète rend le refus acceptable."
+    },
+    {
+     "quote": "that is entirely up to her",
+     "note_fr": "Rappel discret que la salariée reste maîtresse de ses informations de santé."
+    }
+   ],
+   "checklist": [
+    "Did I acknowledge the manager's legitimate need before refusing?",
+    "Is the refusal clear, with a softener such as 'I'm afraid'?",
+    "Did I explain the rule without lecturing him?",
+    "Did I tell him what I can share, including the expected return date?",
+    "Did I offer practical help with the workload?"
+   ],
+   "phrasebank": [
+    "I quite understand that you need to...",
+    "I'm afraid I can't share...",
+    "...is only ever shared on a need-to-know basis.",
+    "That applies to every member of staff.",
+    "What I can tell you is that...",
+    "I'll let you know straight away if that changes.",
+    "That is entirely up to her."
+   ]
+  },
+  {
+   "id": "wr-dp-3",
+   "title": "Why consent is a weak basis in employment",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "Your US client proposes to have every French employee sign a consent form covering 'all processing of personal data by the company'. Write one clear paragraph (120-160 words) explaining why this will not work and what should be done instead.",
+   "brief_fr": "Votre client américain propose de faire signer à chaque salarié français un formulaire de consentement couvrant « tous les traitements de données par l'entreprise ». Rédigez un paragraphe clair (120 à 160 mots) expliquant pourquoi cela ne fonctionne pas et ce qu'il convient de faire à la place.",
+   "gaps": [],
+   "outline": [
+    "Acknowledge that consent forms are the natural reflex in the US",
+    "Under the GDPR, consent must be freely given; the imbalance of power between employer and employee makes that doubtful",
+    "Consent can be withdrawn at any time, which makes it an unstable foundation",
+    "Other lawful bases fit HR data better: the contract, legal obligations, legitimate interests",
+    "What is required instead: a clear privacy notice",
+    "Where consent still makes sense (give one example)"
+   ],
+   "model": "I understand why a signed consent form looks like the safest option; it is the usual approach in the United States. In Europe, however, it offers very little protection. Under the GDPR, consent only counts if it is freely given, and regulators take the view that an employee is rarely in a position to say no to an employer. Consent can also be withdrawn at any time, which would leave the company without any basis for running its payroll. In practice, almost all HR processing rests on firmer ground: it is necessary to perform the employment contract, to comply with a legal obligation, or to pursue the company's legitimate interests. What the law requires is not a signature but transparency, in the form of a clear privacy notice given to each employee. Consent remains useful only where a refusal has no consequences, such as publishing a photograph on the intranet.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I understand why a signed consent form looks like the safest option",
+     "note_fr": "On valide d'abord le raisonnement du client avant de le corriger : il ne perd pas la face."
+    },
+    {
+     "quote": "it offers very little protection",
+     "note_fr": "Litote britannique : plus efficace que « it is useless », et plus exact."
+    },
+    {
+     "quote": "an employee is rarely in a position to say no to an employer",
+     "note_fr": "Façon simple d'exprimer le déséquilibre lié au lien de subordination, sans jargon. « To be in a position to » = être en mesure de."
+    },
+    {
+     "quote": "rests on firmer ground",
+     "note_fr": "Métaphore naturelle pour « repose sur une base plus solide ». « To rest on » s'emploie pour un fondement juridique."
+    },
+    {
+     "quote": "What the law requires is not a signature but transparency",
+     "note_fr": "Phrase pivot construite sur l'opposition « not... but » : le message que le client doit retenir."
+    }
+   ],
+   "checklist": [
+    "Did I show that I understand the client's reflex before correcting it?",
+    "Did I explain 'freely given' in plain words rather than quoting the regulation?",
+    "Did I mention that consent can be withdrawn?",
+    "Did I name the lawful bases that actually apply to HR data?",
+    "Did I say what the client should do instead?",
+    "Did I give one example where consent does work?"
+   ],
+   "phrasebank": [
+    "I understand why ... looks like the safest option.",
+    "In Europe, however, it offers very little protection.",
+    "Regulators take the view that...",
+    "In practice, almost all HR processing rests on...",
+    "What the law requires is not ... but ...",
+    "Consent remains useful only where...",
+    "...is rarely in a position to say no."
+   ]
+  },
+  {
+   "id": "wr-dp-4",
+   "title": "Minutes: choosing a new HR system",
+   "stage": 2,
+   "kind": "meeting minutes",
+   "brief": "You attended a project meeting on the replacement of the client's HR information system. Write the minutes of the data protection item (130-180 words) from the outline: what was reported, what was decided, and who does what by when.",
+   "brief_fr": "Vous avez assisté à une réunion de projet sur le remplacement du SIRH du client. Rédigez le compte rendu du point « protection des données » (130 à 180 mots) à partir du canevas : ce qui a été exposé, ce qui a été décidé, qui fait quoi et pour quand.",
+   "gaps": [],
+   "outline": [
+    "Preferred vendor: data hosted in Ireland, but support team in India with remote access",
+    "DPO's view: this is a transfer outside the EU; standard contractual clauses needed",
+    "An impact assessment is required before the system goes live",
+    "Access rights: managers to see only their own team; no access to medical or disciplinary records",
+    "Works council to be consulted before go-live",
+    "Actions, owners and dates"
+   ],
+   "model": "3. Data protection\n\nMs Girard reported that the preferred vendor hosts its data in Ireland but that its support team, based in India, would have remote access to employee records. Mr Haddad (DPO) pointed out that such access amounts to a transfer outside the EU and would need to be covered by standard contractual clauses. He added that, given the scale of the project, a data protection impact assessment must be completed before the system goes live.\n\nIt was agreed that line managers would have access to their own team's records only, and that medical and disciplinary information would remain restricted to HR. The meeting also noted that the works council must be consulted before go-live.\n\nActions:\n- Mr Haddad to send the vendor the draft data processing agreement by 14 November.\n- Ms Girard to prepare the impact assessment, with IT, by 28 November.\n- Ms Morel to draft the consultation paper for the works council by 5 December.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "Ms Girard reported that",
+     "note_fr": "Les comptes rendus s'écrivent au prétérit et au discours indirect, avec des verbes de parole variés : reported, pointed out, added, noted."
+    },
+    {
+     "quote": "amounts to a transfer outside the EU",
+     "note_fr": "« To amount to » = équivaloir à, constituer. Précis et idiomatique pour une qualification juridique."
+    },
+    {
+     "quote": "It was agreed that",
+     "note_fr": "Passif impersonnel pour consigner une décision collective, sans l'attribuer à une personne."
+    },
+    {
+     "quote": "before the system goes live",
+     "note_fr": "« To go live » = entrer en production. Présent simple après « before », jamais « will go »."
+    },
+    {
+     "quote": "Mr Haddad to send the vendor the draft data processing agreement by 14 November.",
+     "note_fr": "Style télégraphique des actions : nom + infinitif avec « to » + échéance introduite par « by »."
+    }
+   ],
+   "checklist": [
+    "Did I write in the past tense and in reported speech?",
+    "Did I vary the reporting verbs?",
+    "Is each decision clearly distinguished from the discussion?",
+    "Does every action have an owner and a date introduced by 'by'?",
+    "Did I keep opinions and adjectives out of the minutes?"
+   ],
+   "phrasebank": [
+    "Ms X reported that...",
+    "Mr Y pointed out that...",
+    "It was agreed that...",
+    "The meeting noted that...",
+    "...amounts to...",
+    "...must be completed before the system goes live.",
+    "Mr Y to send ... by 14 November."
+   ]
+  },
+  {
+   "id": "wr-dp-5",
+   "title": "Responding to a subject access request",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "Write the covering letter that accompanies the company's response to Mr Adeyemi's subject access request (received on 3 June). Explain what is enclosed, what has been redacted or withheld and why, and remind him of his rights. About 180-230 words.",
+   "brief_fr": "Rédigez la lettre d'accompagnement de la réponse de l'entreprise à la demande d'accès de M. Adeyemi (reçue le 3 juin). Indiquez ce qui est joint, ce qui a été occulté ou non communiqué et pourquoi, et rappelez-lui ses droits. Environ 180 à 230 mots.",
+   "gaps": [],
+   "outline": [
+    "Reference to the request and its date",
+    "What is enclosed: categories of documents and the period searched",
+    "Redactions: names and details of other people",
+    "What has been withheld and on what ground (legal advice)",
+    "Supplementary information: purposes, recipients, retention; reference to the privacy notice",
+    "His rights: rectification, complaint to the regulator; contact person"
+   ],
+   "model": "27 June 2025\n\nDear Mr Adeyemi,\n\nYour request for access to your personal data\n\nI refer to your email of 3 June, in which you asked for a copy of the personal data that Harwell Logistics Ltd holds about you.\n\nPlease find enclosed a copy of your personnel file, your payroll and absence records, and the emails in which you are identified, covering the period from 1 January 2023 to the date of your request.\n\nYou will see that some passages have been redacted. This has been done solely to protect the identity of other individuals and does not affect the information that relates to you. A small number of documents have been withheld because they contain confidential legal advice given to the company.\n\nDetails of the purposes for which your data is used, the persons with whom it is shared and the periods for which it is kept are set out in the employee privacy notice, a further copy of which is enclosed.\n\nIf you believe that any of this information is inaccurate, you are entitled to ask us to correct it. Should you be dissatisfied with this response, please contact me in the first instance; you also have the right to complain to the Information Commissioner's Office.\n\nYours sincerely,\n\nRachel Lowe\nData Protection Officer",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I refer to your email of 3 June, in which you asked for",
+     "note_fr": "Ouverture classique d'une lettre officielle britannique : « I refer to » + rappel de l'objet. Plus formel que « Further to »."
+    },
+    {
+     "quote": "Please find enclosed",
+     "note_fr": "« Enclosed » pour un courrier papier, « attached » pour un e-mail. Ne dites pas « in attachment »."
+    },
+    {
+     "quote": "This has been done solely to protect the identity of other individuals",
+     "note_fr": "Toute occultation doit être expliquée. « Solely » = uniquement, plus soutenu que « only »."
+    },
+    {
+     "quote": "A small number of documents have been withheld because",
+     "note_fr": "Transparence sur ce qui n'est pas communiqué, avec le motif. Accord au pluriel après « a small number of »."
+    },
+    {
+     "quote": "you are entitled to ask us to correct it",
+     "note_fr": "« To be entitled to » = avoir le droit de. On évite « you have the right » répété deux fois dans le même paragraphe."
+    },
+    {
+     "quote": "please contact me in the first instance",
+     "note_fr": "« In the first instance » = dans un premier temps : invite au dialogue avant la plainte auprès de l'autorité."
+    }
+   ],
+   "checklist": [
+    "Did I refer to the request and its date in the opening sentence?",
+    "Did I list what is enclosed and the period covered?",
+    "Did I explain the redactions and what was withheld, with reasons?",
+    "Did I point to the privacy notice for purposes, recipients and retention?",
+    "Did I remind him of his right to correction and to complain to the regulator?",
+    "Is the tone neutral and factual, without defensiveness?"
+   ],
+   "phrasebank": [
+    "I refer to your email of..., in which you asked for...",
+    "Please find enclosed a copy of...",
+    "You will see that some passages have been redacted.",
+    "This has been done solely to protect...",
+    "...have been withheld because they contain...",
+    "...are set out in the employee privacy notice.",
+    "You are entitled to ask us to...",
+    "Should you be dissatisfied with this response,..."
+   ]
+  },
+  {
+   "id": "wr-dp-6",
+   "title": "Advising a US client on vehicle tracking in France",
+   "stage": 3,
+   "kind": "client note",
+   "brief": "Greg Sullivan, COO of a US group, wants GPS trackers fitted to the vans of the 30 field technicians of the French subsidiary 'starting next month', mainly to check their hours. Write a client note (220-280 words): what French law allows, what it rules out, the steps to take, and a realistic timetable.",
+   "brief_fr": "Greg Sullivan, directeur des opérations d'un groupe américain, veut équiper de traceurs GPS les camionnettes des 30 techniciens itinérants de la filiale française « dès le mois prochain », surtout pour contrôler leurs horaires. Rédigez une note client (220 à 280 mots) : ce que le droit français permet, ce qu'il exclut, les étapes à suivre et un calendrier réaliste.",
+   "gaps": [],
+   "outline": [
+    "Short answer first: possible, but not for that purpose and not by next month",
+    "Permitted purposes: safety, routing and dispatch, proof of service, theft",
+    "What is ruled out: checking hours when another method exists; tracking outside working time; speed monitoring",
+    "Steps: define the purpose, impact assessment, consult the works council, inform each technician, limit access and retention",
+    "Risk if the steps are skipped",
+    "Timetable and offer to help"
+   ],
+   "model": "Greg,\n\nYou asked whether we can fit GPS trackers to the French technicians' vans from next month. The short answer is yes to the trackers, but not for the purpose you have in mind, and not quite that fast.\n\nIn France, vehicle tracking is accepted for purposes such as optimising routes, sending the nearest technician to a job, proving that a visit took place or recovering a stolen van. It cannot be used to check working hours where another method is available, and your technicians already record their time on their tablets. Nor may the vans be tracked outside working time: drivers must be able to switch the device off during breaks and on the way home.\n\nBefore anything is installed, we would need to do four things. First, set out in writing what the system is for. Second, carry out a data protection impact assessment. Third, consult the works council. Finally, inform each technician individually, restrict access to the data to the dispatch team and decide how long it is kept, which should be a matter of weeks rather than years.\n\nI realise this looks heavy. The point is that data collected without these steps cannot safely be relied on if a technician is later disciplined, and a complaint to the French regulator could lead to an order to switch the system off.\n\nRealistically, we are looking at three months rather than one. If you agree, I will draft the purpose statement this week so that the works council can be consulted in January.\n\nBest regards,\n\nClaire",
+   "model_us": "Greg,\n\nYou asked whether we can install GPS trackers on the French technicians' vans starting next month. The short answer is yes to the trackers, but not for the purpose you have in mind, and not quite that fast.\n\nIn France, vehicle tracking is accepted for purposes such as optimizing routes, dispatching the nearest technician to a job, proving that a visit took place or recovering a stolen van. It cannot be used to check working hours where another method is available, and your technicians already record their time on their tablets. Nor may the vans be tracked outside working time: drivers must be able to turn the device off during breaks and on the way home.\n\nBefore anything is installed, we would need to do four things. First, put in writing what the system is for. Second, carry out a data protection impact assessment. Third, consult the works council. Finally, inform each technician individually, restrict access to the data to the dispatch team and decide how long it is kept, which should be a matter of weeks rather than years.\n\nI realize this looks like a lot. The point is that data collected without these steps cannot safely be relied on if a technician is later disciplined, and a complaint to the French regulator could lead to an order to shut the system down.\n\nRealistically, we are looking at three months rather than one. If you agree, I will draft the purpose statement this week so that the works council can be consulted in January.\n\nBest regards,\n\nClaire",
+   "commentary": [
+    {
+     "quote": "The short answer is yes to the trackers, but not for the purpose you have in mind, and not quite that fast.",
+     "note_fr": "Un dirigeant américain veut la réponse d'abord, les nuances ensuite. « Not quite that fast » : refus du calendrier, adouci par « quite »."
+    },
+    {
+     "quote": "It cannot be used to check working hours where another method is available",
+     "note_fr": "« Where » au sens de « lorsque », courant dans l'écrit juridique. La règle est énoncée sans citer de texte, ce qui suffit pour une note client."
+    },
+    {
+     "quote": "Nor may the vans be tracked outside working time",
+     "note_fr": "Inversion après « nor » en tête de phrase : registre soutenu, à réserver à l'écrit."
+    },
+    {
+     "quote": "First, set out in writing what the system is for.",
+     "note_fr": "Énumération à l'impératif, courte et parallèle : le client voit immédiatement les quatre étapes."
+    },
+    {
+     "quote": "I realise this looks heavy.",
+     "note_fr": "On anticipe l'objection du client avant de la lever. Version américaine : « I realize this looks like a lot. »"
+    },
+    {
+     "quote": "we are looking at three months rather than one",
+     "note_fr": "« To be looking at » = il faut compter. Tournure orale soignée, parfaite pour annoncer un délai sans dramatiser."
+    }
+   ],
+   "checklist": [
+    "Did I give the short answer in the first paragraph?",
+    "Did I separate what is allowed from what is ruled out?",
+    "Are the steps listed in a clear, parallel sequence?",
+    "Did I explain the practical risk rather than quote legal texts?",
+    "Did I propose a realistic timetable and a first concrete action?",
+    "Is the tone direct enough for a US reader, while remaining courteous?"
+   ],
+   "phrasebank": [
+    "You asked whether we can...",
+    "The short answer is yes, but...",
+    "It cannot be used to ... where another method is available.",
+    "Before anything is installed, we would need to do four things.",
+    "I realise this looks heavy. The point is that...",
+    "Realistically, we are looking at three months rather than one.",
+    "If you agree, I will draft ... this week.",
+    "...a matter of weeks rather than years."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-dp-1",
+   "title": "A DSAR lands on Friday afternoon",
+   "variety": "uk",
+   "context": "Priya, HR manager at a logistics company in Birmingham, calls Daniel, the group's data protection officer. An employee who has raised a grievance against his manager has just sent in a subject access request.",
+   "context_fr": "Priya, responsable RH d'une société de logistique à Birmingham, appelle Daniel, délégué à la protection des données du groupe. Un salarié qui a déposé une réclamation contre son manager vient d'envoyer une demande d'accès à ses données.",
+   "lines": [
+    {
+     "speaker": "Priya",
+     "text": "Daniel, have you got five minutes? We've had a DSAR from Marcus Hill, the chap with the grievance against his manager.",
+     "note_fr": "« Have you got five minutes? » : entrée en matière britannique typique. « Chap » = type, homme (UK, familier mais poli)."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Ah. I can't say I'm surprised. When did it come in?",
+     "note_fr": "« I can't say I'm surprised » : litote pour « je m'y attendais »."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Wednesday, by email to his manager, of all people. It only reached me this morning.",
+     "note_fr": "« Of all people » souligne l'ironie : justement à lui."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Right, well, the month runs from Wednesday, not from today, I'm afraid. What's he actually asking for?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Priya",
+     "text": "Everything. His file, all emails that mention him, and the notes from the grievance meetings.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Daniel",
+     "text": "He's entitled to his own data, but those emails will be full of other people's. We'll need to go through them and redact anything that identifies a third party.",
+     "note_fr": "« To go through » = passer en revue. « To redact » = occulter, et non « rédiger »."
+    },
+    {
+     "speaker": "Priya",
+     "text": "His manager's rather hoping we can just say no, given that it's obviously about the grievance.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Daniel",
+     "text": "I'm sure he is. But motive isn't really the test, and refusing would hand Marcus a complaint to the ICO on a plate.",
+     "note_fr": "« To hand someone something on a plate » = offrir sur un plateau. « The test » = le critère juridique."
+    },
+    {
+     "speaker": "Priya",
+     "text": "Fair enough. What about the manager's own notes? Some of them are, shall we say, not very flattering.",
+     "note_fr": "« Shall we say » introduit un euphémisme assumé. « Fair enough » = soit, d'accord."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "If they're about Marcus, they're his data, flattering or not. It's a good reminder not to write anything you wouldn't want read out at a tribunal.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Priya",
+     "text": "I'll pass that on. So what do you need from me?",
+     "note_fr": "« To pass on » = transmettre (un message, une consigne)."
+    },
+    {
+     "speaker": "Daniel",
+     "text": "Acknowledge it today, ask IT to pull the emails from the last twelve months, and let's sit down on Tuesday to review them. And nobody deletes anything in the meantime.",
+     "note_fr": "« To pull » des données = les extraire. « Let's sit down » = prenons un moment pour en parler."
+    }
+   ],
+   "questions": [
+    {
+     "q": "From when does the one-month time limit run?",
+     "options": [
+      "From the day HR became aware of the request",
+      "From the day the request was received by the company",
+      "From the day IT finishes the search",
+      "From the end of the grievance procedure"
+     ],
+     "answer": 1,
+     "explain_fr": "Le délai court dès la réception par l'entreprise (mercredi, chez le manager), même si la demande n'a pas été adressée au bon service."
+    },
+    {
+     "q": "Why can't the company simply refuse the request?",
+     "options": [
+      "Because the fact that it is linked to the grievance is not a ground for refusal",
+      "Because Marcus has already complained to the ICO",
+      "Because the manager's notes have been deleted",
+      "Because the request was sent by email"
+     ],
+     "answer": 0,
+     "explain_fr": "« Motive isn't really the test » : le mobile du demandeur n'est pas un critère. Refuser exposerait à une plainte auprès de l'ICO."
+    },
+    {
+     "q": "What will be done about the other people named in the emails?",
+     "options": [
+      "Their emails will be left out altogether",
+      "They will be asked to answer the request themselves",
+      "Nothing: he is entitled to see everything",
+      "Information identifying them will be redacted"
+     ],
+     "answer": 3,
+     "explain_fr": "« Redact anything that identifies a third party » : on occulte ce qui identifie les tiers, sans priver le salarié de ses propres données."
+    }
+   ]
+  },
+  {
+   "id": "dl-dp-2",
+   "title": "'No expectation of privacy' does not travel",
+   "variety": "us",
+   "context": "A call between Brad, IT security director at a US software company, and Claire, a French HR consultant. Brad suspects an engineer in the Paris office of leaking information and wants to read his email.",
+   "context_fr": "Appel entre Brad, directeur de la sécurité informatique d'un éditeur de logiciels américain, et Claire, consultante RH française. Brad soupçonne un ingénieur du bureau de Paris d'être à l'origine d'une fuite et veut lire sa messagerie.",
+   "lines": [
+    {
+     "speaker": "Brad",
+     "text": "Claire, quick one. We think an engineer in Paris is leaking roadmap details to a competitor. I want to go through his mailbox tonight.",
+     "note_fr": "« Quick one » = une question rapide. « To leak » = faire fuiter."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Okay. I can see why you'd want to move fast. Can I ask what you're basing the suspicion on?",
+     "note_fr": "Valider l'urgence avant de poser la question qui fâche."
+    },
+    {
+     "speaker": "Brad",
+     "text": "A customer forwarded us a slide that only six people had. He's one of the six. And our handbook says employees have no expectation of privacy on company systems, so we're covered, right?",
+     "note_fr": "« We're covered » = nous sommes couverts juridiquement. « Right? » en fin de phrase appelle une confirmation."
+    },
+    {
+     "speaker": "Claire",
+     "text": "In the US, yes. In France that clause doesn't really work. Employees keep a right to privacy at work, even on a company laptop.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Brad",
+     "text": "Seriously? It's our laptop and our email system.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "It is, and that does count. Anything on it is presumed to be work-related, so you can look at his business email. What you can't do is open messages or folders he's marked as personal, not without him being there.",
+     "note_fr": "« That does count » : le « does » d'insistance concède le point avant de nuancer."
+    },
+    {
+     "speaker": "Brad",
+     "text": "So if he labels the leak 'personal', we're stuck?",
+     "note_fr": "« To be stuck » = être bloqué."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not necessarily. If there's a serious, specific risk, there are ways through, including asking a judge for an order. But I wouldn't start there.",
+     "note_fr": "« Ways through » = des solutions, des voies de passage."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Where would you start?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "With what the French IT policy already allows: the logs, his sent items, and the file-sharing history, limited to the last few weeks. And I'd have the local HR lead and the DPO in the loop before anyone opens anything.",
+     "note_fr": "« To have someone in the loop » = tenir quelqu'un informé, l'associer."
+    },
+    {
+     "speaker": "Brad",
+     "text": "That's going to slow us down.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "By a day, maybe. But if you find something, you'll actually be able to use it. Evidence you can't rely on in court isn't worth much.",
+     "note_fr": "« To rely on » une preuve = s'en prévaloir."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Fair point. Set up the call with the DPO for first thing tomorrow.",
+     "note_fr": "« First thing tomorrow » = demain à la première heure."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Brad's handbook say about company systems?",
+     "options": [
+      "That employees may use them freely",
+      "That monitoring requires a court order",
+      "That employees should not expect any privacy on them",
+      "That personal folders are off limits"
+     ],
+     "answer": 2,
+     "explain_fr": "« Employees have no expectation of privacy on company systems » : clause américaine standard, sans portée équivalente en France."
+    },
+    {
+     "q": "According to Claire, what can the employer look at in France?",
+     "options": [
+      "Nothing without the employee's consent",
+      "Work-related emails, but not those marked as personal unless he is present",
+      "Everything, since the laptop belongs to the company",
+      "Only emails sent outside working hours"
+     ],
+     "answer": 1,
+     "explain_fr": "Présomption de caractère professionnel, sauf pour ce que le salarié a identifié comme personnel, qui ne s'ouvre qu'en sa présence."
+    },
+    {
+     "q": "Why does Claire recommend involving the DPO and local HR first?",
+     "options": [
+      "Because the DPO must sign every search",
+      "Because it avoids telling the employee",
+      "Because US law requires it",
+      "So that any evidence found can actually be used"
+     ],
+     "answer": 3,
+     "explain_fr": "« If you find something, you'll actually be able to use it » : une preuve recueillie dans les règles est une preuve exploitable."
+    }
+   ]
+  },
+  {
+   "id": "dl-dp-3",
+   "title": "The payslips went to the wrong Emma",
+   "variety": "uk",
+   "context": "Late on a Thursday at a charity in Leeds. Josh, a payroll assistant, comes to see Helen, the HR director, because he has just emailed a batch of payslips to the wrong person.",
+   "context_fr": "Un jeudi en fin de journée, dans une association à Leeds. Josh, assistant paie, vient voir Helen, la DRH : il vient d'envoyer par e-mail un lot de bulletins de paie au mauvais destinataire.",
+   "lines": [
+    {
+     "speaker": "Josh",
+     "text": "Helen, have you got a minute? I think I've done something really stupid.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Helen",
+     "text": "Come in and sit down. It's probably not as bad as you think. What's happened?",
+     "note_fr": "Ton rassurant : on encourage le signalement immédiat plutôt que de chercher un coupable."
+    },
+    {
+     "speaker": "Josh",
+     "text": "I was sending the regional managers' payslips to Emma Clarke in finance, and autocomplete put in Emma Clark at one of our suppliers. I only noticed when her out-of-office came back.",
+     "note_fr": "« Autocomplete » = saisie automatique. « Out-of-office » = message d'absence."
+    },
+    {
+     "speaker": "Helen",
+     "text": "Right. How many payslips are we talking about?",
+     "note_fr": "« Are we talking about » : façon naturelle de demander un ordre de grandeur."
+    },
+    {
+     "speaker": "Josh",
+     "text": "Eight. Names, addresses, salaries and NI numbers. I'm so sorry.",
+     "note_fr": "« NI number » = National Insurance number, l'équivalent britannique du numéro de sécurité sociale."
+    },
+    {
+     "speaker": "Helen",
+     "text": "You did the right thing by coming straight to me. Have you tried to recall the message?",
+     "note_fr": "« To recall a message » = rappeler un e-mail envoyé."
+    },
+    {
+     "speaker": "Josh",
+     "text": "I did, but I've no idea whether it worked.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Helen",
+     "text": "Then let's not rely on it. I'll ring the supplier first thing and ask them to delete it unread and confirm in writing. Could you jot down exactly what was sent and when, while it's fresh?",
+     "note_fr": "« To ring » (UK) = appeler. « To jot down » = noter rapidement."
+    },
+    {
+     "speaker": "Josh",
+     "text": "Of course. Do we have to report it to the ICO?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Helen",
+     "text": "Possibly. Daniel will make that call, and we've got seventy-two hours, so there's no need to panic. Either way it goes in the breach log.",
+     "note_fr": "« To make that call » = prendre cette décision (rien à voir avec le téléphone). « Either way » = dans un cas comme dans l'autre."
+    },
+    {
+     "speaker": "Josh",
+     "text": "And the eight managers?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Helen",
+     "text": "If Daniel thinks there's a real risk to them, we'll tell them ourselves, tomorrow. I'd rather they heard it from us than from the grapevine.",
+     "note_fr": "« The grapevine » = le bouche-à-oreille, radio-couloir. « I'd rather » + prétérit : I'd rather they heard."
+    }
+   ],
+   "questions": [
+    {
+     "q": "How did the mistake happen?",
+     "options": [
+      "The email address was completed automatically with the wrong person's",
+      "Josh attached the wrong file",
+      "The supplier asked for the payslips",
+      "Finance forwarded the email"
+     ],
+     "answer": 0,
+     "explain_fr": "« Autocomplete put in Emma Clark at one of our suppliers » : la saisie automatique a proposé une homonyme."
+    },
+    {
+     "q": "What is Helen's first practical step?",
+     "options": [
+      "Reporting Josh to his manager",
+      "Informing the eight managers that evening",
+      "Contacting the recipient to have the email deleted and confirmed in writing",
+      "Notifying the ICO immediately"
+     ],
+     "answer": 2,
+     "explain_fr": "Priorité : endiguer la violation en obtenant la suppression et une confirmation écrite. La notification éventuelle vient ensuite."
+    },
+    {
+     "q": "Who will decide whether the breach is reported to the regulator?",
+     "options": [
+      "Josh",
+      "The supplier",
+      "The eight managers",
+      "Daniel, the data protection officer"
+     ],
+     "answer": 3,
+     "explain_fr": "« Daniel will make that call » : c'est le DPO qui appréciera. Dans tous les cas, l'incident est consigné au registre interne."
+    }
+   ]
+  },
+  {
+   "id": "dl-dp-4",
+   "title": "Background checks for the Paris hires",
+   "variety": "us",
+   "context": "Megan, talent acquisition lead at a US fintech in Austin, is about to hire five people in Paris. She calls Claire, a French HR consultant, to align the process with what the company does in the US.",
+   "context_fr": "Megan, responsable du recrutement d'une fintech américaine à Austin, s'apprête à embaucher cinq personnes à Paris. Elle appelle Claire, consultante RH française, pour aligner le processus sur les pratiques américaines de l'entreprise.",
+   "lines": [
+    {
+     "speaker": "Megan",
+     "text": "Hi Claire! So, for Paris, I'd like to run our standard package on every finalist: criminal, credit, education, employment history and a social media scan.",
+     "note_fr": "« To run a check on someone » = faire une vérification sur quelqu'un. « Finalist » = candidat en phase finale."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Hi Megan. Some of that is fine, and some of it we'll need to rethink. Can I take them one at a time?",
+     "note_fr": "« One at a time » = un par un : annonce une réponse structurée."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Sure, go ahead.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Education and employment history: no problem, as long as the candidate knows we're checking and we only contact the references they've given us.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Megan",
+     "text": "Okay. And criminal records?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's the tricky one. In France you can only ask when the job really calls for it, and even then you look at the candidate's own extract and hand it back. You don't keep a copy.",
+     "note_fr": "« The tricky one » = le point délicat. « To call for » = exiger, justifier."
+    },
+    {
+     "speaker": "Megan",
+     "text": "These are finance roles. They'll be handling customer funds.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then I think you can justify it for those roles. Credit checks are different, though. There's no real equivalent here, and I'd drop them.",
+     "note_fr": "« I'd drop them » = je les abandonnerais. Conseil net, adouci par le conditionnel."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Huh. And the social media scan? Everybody does that.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Everybody does, and almost nobody should. You can look at a professional profile, like LinkedIn. Personal accounts are off the table, because what you collect has to relate directly to the job.",
+     "note_fr": "« Off the table » = exclu. Remarquez la reprise ironique « Everybody does »."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Got it. Last thing: we keep résumés forever in our ATS. Is that an issue?",
+     "note_fr": "ATS = applicant tracking system, logiciel de gestion des candidatures."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It would be, yes. The French regulator suggests two years at most after your last contact, and candidates have to be told. I'd set an automatic purge and add a line to the application form.",
+     "note_fr": "« At most » = au maximum. « To set an automatic purge » = programmer une purge automatique."
+    },
+    {
+     "speaker": "Megan",
+     "text": "That's doable. Send me a one-pager and I'll get our vendor to configure it.",
+     "note_fr": "« Doable » = faisable. « A one-pager » = une note d'une page."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which checks does Claire consider unproblematic?",
+     "options": [
+      "Credit and criminal checks",
+      "Education and employment history, if the candidate is informed",
+      "All of them, as long as the candidate signs a consent form",
+      "The social media scan"
+     ],
+     "answer": 1,
+     "explain_fr": "Diplômes et parcours professionnel : oui, dès lors que le candidat est informé et que l'on ne contacte que les références qu'il a fournies."
+    },
+    {
+     "q": "What does Claire say about criminal record checks in France?",
+     "options": [
+      "They are possible only where the job justifies it, and no copy is kept",
+      "They are compulsory for every job",
+      "They are always forbidden",
+      "They are carried out by the regulator"
+     ],
+     "answer": 0,
+     "explain_fr": "Uniquement si le poste le justifie ; le candidat présente son extrait, que l'employeur consulte sans en conserver de copie."
+    },
+    {
+     "q": "What does she recommend for résumés in the applicant tracking system?",
+     "options": [
+      "Keeping them indefinitely with the candidate's consent",
+      "Deleting them the day the vacancy closes",
+      "Moving them to the US servers",
+      "An automatic purge and a line of information on the application form"
+     ],
+     "answer": 3,
+     "explain_fr": "La CNIL recommande deux ans au maximum après le dernier contact, avec information du candidat : d'où la purge automatique et la mention sur le formulaire."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-dp-1",
+   "title": "Why a consent form won't do",
+   "situation": "You are advising Karen, General Counsel of a US group that has just acquired a French company. She wants every French employee to sign a general consent form for the processing of their data, as is done in the US. Explain why this is not the right approach and what to do instead.",
+   "situation_fr": "Vous conseillez Karen, directrice juridique d'un groupe américain qui vient de racheter une société française. Elle veut faire signer à chaque salarié français un formulaire général de consentement au traitement de ses données, comme aux États-Unis. Expliquez pourquoi ce n'est pas la bonne approche et ce qu'il faut faire à la place.",
+   "turns": [
+    {
+     "say": "We'd like to get a signed data consent form from every French employee by the end of the quarter. Can you draft that for us?",
+     "seconds": 35,
+     "model": "I can certainly help with the documents, but I'd suggest a different one. In Europe, consent is actually the weakest basis an employer can rely on. Regulators consider that an employee can't freely say no to their employer, so a signed form gives you much less protection than you'd expect.",
+     "tips_fr": "Ne dites pas « no » d'emblée : proposez une alternative (« I'd suggest a different one »), puis donnez la raison en une phrase simple."
+    },
+    {
+     "say": "But they'd be signing voluntarily. Nobody is forcing them.",
+     "seconds": 30,
+     "model": "I see what you mean, but the test is whether they could refuse without any consequence, and in an employment relationship that's hard to show. There's also a practical problem: consent can be withdrawn at any time. You don't want payroll to depend on something an employee can take back.",
+     "tips_fr": "« I see what you mean, but » accueille l'objection. L'argument pratique (la paie) parle davantage à un juriste d'entreprise que la théorie."
+    },
+    {
+     "say": "So what do we rely on instead?",
+     "seconds": 35,
+     "model": "For most HR data, you rely on the contract itself, on legal obligations such as payroll and tax reporting, or on the company's legitimate interests. What you owe employees isn't a signature but information: a clear privacy notice explaining what you collect, why, and how long you keep it.",
+     "tips_fr": "Énumérez trois bases, pas six. La formule « isn't a signature but information » résume le message : gardez-la."
+    },
+    {
+     "say": "Our auditors like to see signatures on file. Is there any harm in having both?",
+     "seconds": 35,
+     "model": "There can be, I'm afraid. If the form says you rely on consent and someone withdraws it, you've created a problem you didn't have. What I'd do is ask employees to sign that they've received the notice. That gives your auditors their signature without changing the legal basis.",
+     "tips_fr": "« There can be, I'm afraid » : réponse courte et franche avant l'explication. Terminez par une solution qui satisfait les auditeurs."
+    },
+    {
+     "say": "That works. Is there anything where we do need actual consent?",
+     "seconds": 30,
+     "model": "A few things, yes: typically where saying no has no consequences. Using someone's photo on the website or keeping an unsuccessful candidate's details for future openings are good examples. In those cases, ask separately, and make it just as easy to say no as to say yes.",
+     "tips_fr": "Donnez deux exemples concrets plutôt qu'une règle abstraite. « Just as easy to say no as to say yes » : parallélisme facile à retenir."
+    }
+   ]
+  },
+  {
+   "id": "rp-dp-2",
+   "title": "A manager wants the CCTV footage",
+   "situation": "You are the HR business partner of a retail company in Manchester. Steve, a store manager, is convinced that one of his team, Dan, regularly arrives late and leaves early. He wants you to get him the CCTV footage from the staff entrance for the past three months.",
+   "situation_fr": "Vous êtes HR business partner d'une enseigne de distribution à Manchester. Steve, directeur de magasin, est persuadé que Dan, membre de son équipe, arrive régulièrement en retard et part en avance. Il vous demande les images de vidéosurveillance de l'entrée du personnel sur les trois derniers mois.",
+   "turns": [
+    {
+     "say": "I need the CCTV from the staff entrance for the last three months. Dan's been taking liberties and I want to prove it.",
+     "seconds": 30,
+     "model": "I can see this has been frustrating, and we do need to deal with it. I'm afraid the CCTV isn't the way to do it, though. The cameras were put in for security, and that's what staff were told. Besides, we only keep the footage for thirty days.",
+     "tips_fr": "Reconnaissez le problème du manager avant de refuser. Deux arguments : la finalité annoncée (sécurité) et la durée de conservation."
+    },
+    {
+     "say": "Thirty days, then. It's our camera, on our premises. What's the problem?",
+     "seconds": 30,
+     "model": "The problem is that we'd be using it for something quite different from what it's for. If Dan challenged a warning, the first thing he'd say is that we monitored him without telling him. That could undermine the whole case, even if you're right about his timekeeping.",
+     "tips_fr": "Ramenez le manager à son intérêt : gagner son dossier. « To undermine » = fragiliser ; « timekeeping » = ponctualité (UK)."
+    },
+    {
+     "say": "So I'm just supposed to let him get away with it?",
+     "seconds": 30,
+     "model": "Not at all. There are better ways. He clocks in and out, so the time records will show the pattern, and they're meant for exactly this. I can pull the last three months for you today. You could also simply note when he arrives for the next fortnight.",
+     "tips_fr": "« Not at all » puis une solution immédiate. « To get away with it » = s'en tirer ; « a fortnight » = quinze jours (UK)."
+    },
+    {
+     "say": "Fine. And if the records back me up, what then?",
+     "seconds": 35,
+     "model": "Then you have a quiet word with him first, show him the dates and give him a chance to explain. There may be something going on that we don't know about. If it carries on after that, we move to the formal procedure, and you'll have solid evidence behind you.",
+     "tips_fr": "« To have a quiet word with » = parler discrètement à. Déroulez les étapes dans l'ordre : entretien informel, puis procédure."
+    },
+    {
+     "say": "All right. Out of interest, when can we look at the cameras?",
+     "seconds": 30,
+     "model": "Where there's a genuine security matter: a theft, an assault, a break-in. In those cases we check with the data protection officer, look at the relevant clip only and keep a note of who viewed it and why. It's not something we dip into to manage attendance.",
+     "tips_fr": "Trois exemples suffisent. « To dip into » = aller piocher dans : image familière qui clôt la discussion sans raideur."
+    }
+   ]
+  },
+  {
+   "id": "rp-dp-3",
+   "title": "An employee whose health details were shared",
+   "situation": "You are an HR consultant on site at a client's office. Aisha, an account manager who has just returned from sick leave, asks to see you. She has discovered that her manager told the whole team, in a meeting, that she had been treated for depression. She is upset and angry.",
+   "situation_fr": "Vous êtes consultant(e) RH en mission chez un client. Aisha, chargée de clientèle, de retour d'arrêt maladie, demande à vous voir. Elle a découvert que son manager avait annoncé à toute l'équipe, en réunion, qu'elle avait été soignée pour une dépression. Elle est bouleversée et en colère.",
+   "turns": [
+    {
+     "say": "I've just found out that Mark told the entire team why I was off. Everyone knows. How is that even allowed?",
+     "seconds": 30,
+     "model": "I'm really sorry, Aisha. It isn't allowed, and I can understand why you're upset. Information about your health should never have been shared with the team. Thank you for coming to tell me. I'd like to make sure I understand exactly what happened, if you feel able to go through it.",
+     "tips_fr": "Commencez par l'empathie et une position claire (« It isn't allowed »). « If you feel able to » laisse la maîtrise à la salariée."
+    },
+    {
+     "say": "A colleague told me he said it in Monday's meeting, in front of eight people. I only ever told him and HR.",
+     "seconds": 30,
+     "model": "Thank you. That's very clear. So you told Mark in confidence, and he passed it on without asking you. I'm going to treat this as a data breach as well as a management issue, which means it will be recorded and looked at properly, not brushed aside.",
+     "tips_fr": "Reformulez les faits pour montrer que vous avez écouté. « To brush aside » = balayer d'un revers de main."
+    },
+    {
+     "say": "And what's actually going to happen? I don't want this to disappear into a drawer.",
+     "seconds": 35,
+     "model": "It won't. Today, I'll report it to the HR director and the data protection officer. Someone will speak to Mark and to the people who were at the meeting, to make sure it goes no further. I'll come back to you by Thursday to tell you what's been done. I can't promise a particular outcome, but I can promise you'll be kept informed.",
+     "tips_fr": "Annoncez des étapes datées. Ne promettez pas de sanction : « I can't promise a particular outcome, but I can promise... » est honnête et rassurant."
+    },
+    {
+     "say": "Can I see what's in my file about my health? I want to know who else has had access.",
+     "seconds": 35,
+     "model": "Yes, you can. You're entitled to a copy of the data we hold about you, and to know who it's been shared with. If you send me a short email asking for it, I'll make sure it's dealt with quickly, and well within the month the law allows.",
+     "tips_fr": "« You're entitled to » = vous avez le droit de. Indiquez la démarche concrète (un e-mail suffit) et le délai."
+    },
+    {
+     "say": "Thanks. I'm not sure I can face the team this afternoon.",
+     "seconds": 30,
+     "model": "That's completely understandable. Why don't you work from home for the rest of the day? I'll square it with Mark's manager, and you won't need to give a reason. And if you'd like someone to talk to in the meantime, the employee assistance line is confidential.",
+     "tips_fr": "« To face » quelqu'un = affronter. « To square it with » (UK) = arranger cela avec. Proposez une solution immédiate et discrète."
+    }
+   ]
+  },
+  {
+   "id": "rp-dp-4",
+   "title": "Questioning an HR software vendor",
+   "situation": "Your client, a French company with 600 employees, is about to buy a US-based HR platform. You join a call with Kyle, the vendor's account executive, to ask the data protection questions before the contract is signed.",
+   "situation_fr": "Votre client, une société française de 600 salariés, s'apprête à acheter une plateforme RH américaine. Vous participez à un appel avec Kyle, commercial grands comptes de l'éditeur, pour poser les questions de protection des données avant la signature.",
+   "turns": [
+    {
+     "say": "Thanks for making the time. I'm told you have a few privacy questions. Fire away!",
+     "seconds": 30,
+     "model": "Thanks, Kyle. The first one is simple: where exactly will our employees' data be stored, and can anyone outside the EU access it? I'm thinking in particular of your support and engineering teams.",
+     "tips_fr": "Annoncez que la question est simple, puis posez-la en deux temps : lieu de stockage et accès à distance. « I'm thinking in particular of » précise sans agresser."
+    },
+    {
+     "say": "Everything's hosted in Frankfurt. Our support team is in Denver, though, and they can log in when a customer opens a ticket.",
+     "seconds": 30,
+     "model": "Thanks, that's helpful. Access from Denver counts as a transfer under European law, so we'll need to see what you rely on for that: standard contractual clauses or certification under the Data Privacy Framework. Could you send me the documents?",
+     "tips_fr": "Qualifiez juridiquement sans jargon inutile, puis demandez une pièce précise. « What you rely on » = sur quel fondement vous vous appuyez."
+    },
+    {
+     "say": "Sure, legal can send that over. We're fully GDPR compliant, by the way. It's on our website.",
+     "seconds": 30,
+     "model": "I'm glad to hear it. I'm sure you'll understand that we need a little more than the website. Could we also have your data processing agreement, the list of your sub-processors, and your latest security audit report?",
+     "tips_fr": "Litote britannique : « a little more than the website ». Listez trois documents, pas davantage, pour obtenir une réponse."
+    },
+    {
+     "say": "No problem. Anything else that might hold things up?",
+     "seconds": 35,
+     "model": "Two points. If there's a breach, we need you to tell us within twenty-four hours, because our own deadline to the regulator is seventy-two. And when the contract ends, we need all the data returned or deleted, with written confirmation. Are both of those in your standard terms?",
+     "tips_fr": "« Two points » structure la réponse. Expliquez le pourquoi du délai : le fournisseur accepte mieux une exigence motivée."
+    },
+    {
+     "say": "Twenty-four hours is tighter than our standard. I'd have to check with legal.",
+     "seconds": 30,
+     "model": "I understand, and I'd appreciate it if you would. To be frank, it's a point my client is unlikely to move on. If you could come back to us by Friday, we can keep to the signing date we discussed.",
+     "tips_fr": "Ferme mais courtois : « unlikely to move on » = peu susceptible de céder. Terminez par une échéance et un intérêt commun (la date de signature)."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Flagging a data protection risk",
+   "function_fr": "Signaler un risque en matière de protection des données",
+   "phrases": [
+    {
+     "text": "Before we go any further, I think we need to consider the data protection implications.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'd be a little cautious about collecting that at the application stage.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Can I just flag something? That spreadsheet has everyone's salary in it.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'm not sure we have a lawful basis for that.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "That could get us into trouble with the regulator.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Has this been run past the DPO?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Has anyone run this by the privacy team?",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "That's a red flag from a privacy standpoint.",
+     "register": "informal",
+     "variety": "us"
+    }
+   ]
+  },
+  {
+   "function": "Declining to share information",
+   "function_fr": "Refuser de communiquer une information",
+   "phrases": [
+    {
+     "text": "I'm afraid I'm not in a position to share that.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'm sorry, but that's confidential.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "That's really a matter between her and HR.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I can't go into the details, but I can tell you when she's expected back.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "We are unable to disclose that information without the individual's agreement.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'd rather not say, if you don't mind.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "That's not mine to share, sorry.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "You'd need to ask him directly. It's his call.",
+     "register": "informal",
+     "variety": "us"
+    }
+   ]
+  },
+  {
+   "function": "Probing how data will be used",
+   "function_fr": "Interroger sur l'utilisation prévue des données",
+   "phrases": [
+    {
+     "text": "What exactly do you need this information for?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Who will have access to it, and how long will it be kept?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Could you clarify the purpose for which the data is being collected?",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Where will the data be hosted, and by whom?",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Do we really need all of this, or just the dates?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Is there a less intrusive way of getting the same result?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Have staff been told about this?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "What's the plan for this data once the project wraps up?",
+     "register": "informal",
+     "variety": "us"
+    }
+   ]
+  }
+ ]
+}

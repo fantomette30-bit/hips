@@ -1,0 +1,1593 @@
+{
+ "reading": [
+  {
+   "id": "rd-tm-1",
+   "title": "Hybrid Working Policy - Extract",
+   "kind": "policy extract",
+   "level": 1,
+   "paragraphs": [
+    "3. Eligibility and working pattern",
+    "3.1 Hybrid working is open to all employees who have completed their probationary period and whose role can be carried out remotely without disrupting the service. It is voluntary: nobody can be required to work from home, and a refusal will never count against an employee.",
+    "3.2 Eligible employees may work remotely for up to two days a week. The remaining days are spent on site. Each team agrees one anchor day, on which everyone is expected to come into the office, so that meetings and training can take place in person.",
+    "3.3 Remote working days are agreed in advance with your line manager and recorded in the HR system. They may be changed at short notice if the needs of the business so require, for example for a client visit, but your manager will give you as much notice as possible.",
+    "4. Working hours and availability",
+    "4.1 Your working hours do not change when you work from home. You are expected to be reachable during core hours, namely 10.00 am to 12.00 noon and 2.00 pm to 4.00 pm, and to take your usual breaks.",
+    "4.2 You are not expected to read or reply to messages outside your working hours. Managers should avoid sending non-urgent emails in the evening or at weekends, and should make clear when a reply can wait.",
+    "5. Ending the arrangement",
+    "5.1 Either you or the Company may bring the arrangement to an end by giving one month's written notice. You will then return to working on site full-time, at your usual place of work."
+   ],
+   "glossary": [
+    {
+     "term": "probationary period",
+     "plain": "the trial period at the start of a job",
+     "fr": "période d'essai"
+    },
+    {
+     "term": "anchor day",
+     "plain": "a fixed day when the whole team works in the office",
+     "fr": "jour de présence commune de l'équipe"
+    },
+    {
+     "term": "line manager",
+     "plain": "the person you report to directly",
+     "fr": "supérieur hiérarchique direct"
+    },
+    {
+     "term": "at short notice",
+     "plain": "with very little warning",
+     "fr": "au dernier moment, dans un délai très court"
+    },
+    {
+     "term": "core hours",
+     "plain": "the part of the day when everyone must be working or available",
+     "fr": "plages fixes"
+    },
+    {
+     "term": "reachable",
+     "plain": "able to be contacted",
+     "fr": "joignable"
+    },
+    {
+     "term": "on site",
+     "plain": "at the employer's premises",
+     "fr": "sur site, dans les locaux de l'entreprise"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "if the needs of the business so require",
+     "plain": "if the company needs it"
+    },
+    {
+     "phrase": "namely",
+     "plain": "that is to say"
+    },
+    {
+     "phrase": "bring the arrangement to an end",
+     "plain": "stop the arrangement"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who can work from home under this policy?",
+     "options": [
+      "Any employee, from the first day",
+      "Only managers",
+      "Employees who have finished their probation and whose job allows it",
+      "Employees chosen by the Company, who must then accept"
+     ],
+     "answer": 2,
+     "explain_fr": "Le point 3.1 pose deux conditions : avoir terminé sa période d'essai et occuper un poste compatible. Le télétravail reste volontaire : personne ne peut y être contraint."
+    },
+    {
+     "q": "What is the purpose of the anchor day?",
+     "options": [
+      "To have the whole team in the office on the same day",
+      "To give everyone a day at home",
+      "To check that employees are really working",
+      "To reduce the cost of office space"
+     ],
+     "answer": 0,
+     "explain_fr": "« Anchor day » : jour où toute l'équipe vient au bureau, pour que réunions et formations aient lieu « in person »."
+    },
+    {
+     "q": "What does clause 4.2 ask managers to do?",
+     "options": [
+      "To stop sending emails altogether",
+      "To answer messages within one hour",
+      "To check that employees are online in the evening",
+      "To avoid non-urgent emails outside working hours"
+     ],
+     "answer": 3,
+     "explain_fr": "Les managers doivent éviter les courriels non urgents le soir et le week-end et préciser quand une réponse peut attendre : c'est la traduction pratique du droit à la déconnexion."
+    },
+    {
+     "q": "How can the hybrid arrangement be ended?",
+     "options": [
+      "Only by the Company, immediately",
+      "By either side, with one month's written notice",
+      "Only by the employee, at any time",
+      "By the line manager, by email, the day before"
+     ],
+     "answer": 1,
+     "explain_fr": "« Either you or the Company » : la faculté est réciproque, moyennant un préavis écrit d'un mois. Notez l'apostrophe de « one month's written notice »."
+    }
+   ]
+  },
+  {
+   "id": "rd-tm-2",
+   "title": "Annual Working-Days Arrangement",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "6. WORKING TIME",
+    "6.1 In view of the autonomy which the Employee enjoys in organising his or her schedule, and in accordance with the applicable company agreement, the Employee's working time shall be measured in days rather than in hours. The Employee shall work [218] days in each full calendar year, inclusive of the day of solidarity.",
+    "6.2 The Employee shall accordingly not be subject to the statutory working week or to the provisions governing overtime. He or she shall nevertheless remain entitled to a daily rest period of eleven consecutive hours and a weekly rest period of thirty-five consecutive hours, which the Company undertakes to respect and to cause to be respected.",
+    "6.3 The Employee shall record the days and half-days worked, together with the rest days taken, in the self-reporting tool provided for that purpose. The record shall be reviewed each month by the Employee's line manager.",
+    "6.4 The Company shall monitor the Employee's workload on a regular basis. A meeting shall be held at least once a year to discuss the Employee's workload, the organisation of his or her work, the balance between working and private life, and remuneration. Without prejudice to the foregoing, the Employee may at any time alert his or her manager in writing to any difficulty, in which case a meeting shall be held without delay.",
+    "6.5 The Employee shall have the right to disconnect from the Company's digital tools during rest periods and leave, on the terms laid down in the company agreement.",
+    "6.6 Subject to the written agreement of the Company, the Employee may waive part of his or her rest days in return for an increase in remuneration, within the limits prescribed by law."
+   ],
+   "glossary": [
+    {
+     "term": "autonomy",
+     "plain": "freedom to organise your own work",
+     "fr": "autonomie"
+    },
+    {
+     "term": "company agreement",
+     "plain": "a collective agreement negotiated within the company",
+     "fr": "accord d'entreprise"
+    },
+    {
+     "term": "day of solidarity",
+     "plain": "in France, one extra day worked each year without extra pay",
+     "fr": "journée de solidarité"
+    },
+    {
+     "term": "statutory working week",
+     "plain": "the standard weekly hours fixed by law (35 in France)",
+     "fr": "durée légale hebdomadaire du travail"
+    },
+    {
+     "term": "overtime",
+     "plain": "hours worked beyond normal hours",
+     "fr": "heures supplémentaires"
+    },
+    {
+     "term": "self-reporting tool",
+     "plain": "a system in which employees enter their own days worked",
+     "fr": "outil auto-déclaratif"
+    },
+    {
+     "term": "workload",
+     "plain": "the amount of work a person has to do",
+     "fr": "charge de travail"
+    },
+    {
+     "term": "waive",
+     "plain": "to give up a right voluntarily",
+     "fr": "renoncer à"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "In view of",
+     "plain": "because of; considering"
+    },
+    {
+     "phrase": "inclusive of",
+     "plain": "including"
+    },
+    {
+     "phrase": "undertakes to respect and to cause to be respected",
+     "plain": "promises to respect, and to make sure others respect"
+    },
+    {
+     "phrase": "Without prejudice to the foregoing",
+     "plain": "without limiting what has just been said"
+    },
+    {
+     "phrase": "within the limits prescribed by law",
+     "plain": "only as far as the law allows"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How is this employee's working time measured?",
+     "options": [
+      "In hours per week",
+      "In hours per year",
+      "By the results achieved",
+      "In days per year"
+     ],
+     "answer": 3,
+     "explain_fr": "« Measured in days rather than in hours » : c'est le principe du forfait jours. Le nombre de jours figure entre crochets car il est fixé par l'accord collectif, dans la limite légale."
+    },
+    {
+     "q": "Which rules continue to apply to the employee under clause 6.2?",
+     "options": [
+      "The 35-hour week",
+      "Daily and weekly rest periods",
+      "The overtime provisions",
+      "None of the working time rules"
+     ],
+     "answer": 1,
+     "explain_fr": "Le salarié au forfait jours échappe à la durée légale et aux heures supplémentaires, mais « shall nevertheless remain entitled to » : les repos quotidien et hebdomadaire restent dus."
+    },
+    {
+     "q": "What must happen at least once a year?",
+     "options": [
+      "A meeting about workload, work organisation, work-life balance and pay",
+      "A renegotiation of the company agreement",
+      "A medical examination",
+      "A review of the number of days by the labour inspector"
+     ],
+     "answer": 0,
+     "explain_fr": "Clause 6.4 : l'entretien annuel de suivi porte sur la charge de travail, l'organisation du travail, l'articulation vie professionnelle / vie privée et la rémunération."
+    },
+    {
+     "q": "What does clause 6.6 allow?",
+     "options": [
+      "The Company to cancel rest days when it is busy",
+      "The employee to take extra rest days without pay",
+      "The employee to give up some rest days for more pay, if the Company agrees in writing",
+      "The employee to carry rest days over to the next year"
+     ],
+     "answer": 2,
+     "explain_fr": "« To waive » = renoncer à. Le rachat de jours de repos suppose l'accord écrit de l'employeur et une majoration de la rémunération, dans les limites légales."
+    }
+   ]
+  },
+  {
+   "id": "rd-tm-3",
+   "title": "Overtime in France: what you need to know",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Dana Whitfield, VP People, Northlake Software Inc.\nFrom: Claire Morel\nRe: Overtime rules for your Lyon support team",
+    "You asked whether the Lyon support agents could simply be treated as exempt, as their counterparts in Denver are. The short answer is no: French law has no direct equivalent of exempt status, and the starting point is rather different.",
+    "The statutory workweek in France is 35 hours. This is not a ceiling. It is the threshold above which every hour counts as overtime and must be paid at a premium rate set by collective agreement or, failing that, by law. By agreement, the premium may be replaced in whole or in part by time off in lieu. An employee cannot give up these rights, even in writing.",
+    "Two limits deserve your attention. First, there are absolute caps on daily and weekly hours, together with minimum daily and weekly rest. Second, each employee has an annual overtime quota; beyond it, additional compensatory rest falls due and the works council must be consulted.",
+    "There is one arrangement that resembles exempt status: senior, genuinely autonomous staff may have their time counted in days per year rather than in hours. It requires a collective agreement and the employee's written consent, and it comes with a duty to monitor workload. In my view it would not be appropriate for support agents, who work to a fixed schedule.",
+    "Finally, a word on evidence. If an employee claims unpaid overtime, the court will expect the company to produce its own records of hours worked. Reliable time recording is therefore your best protection, and I would suggest we review the current timesheets together before the end of the quarter."
+   ],
+   "glossary": [
+    {
+     "term": "exempt",
+     "plain": "(US) not entitled to overtime pay",
+     "fr": "non éligible aux heures supplémentaires (statut américain)"
+    },
+    {
+     "term": "threshold",
+     "plain": "the level at which something starts to apply",
+     "fr": "seuil"
+    },
+    {
+     "term": "premium rate",
+     "plain": "a higher rate of pay than normal",
+     "fr": "taux majoré"
+    },
+    {
+     "term": "time off in lieu",
+     "plain": "rest given instead of overtime pay",
+     "fr": "repos compensateur de remplacement"
+    },
+    {
+     "term": "annual overtime quota",
+     "plain": "the yearly number of overtime hours beyond which extra rest is owed",
+     "fr": "contingent annuel d'heures supplémentaires"
+    },
+    {
+     "term": "works council",
+     "plain": "the body of elected employee representatives (the CSE in France)",
+     "fr": "comité social et économique (CSE)"
+    },
+    {
+     "term": "time recording",
+     "plain": "keeping track of the hours employees work",
+     "fr": "décompte du temps de travail"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "failing that",
+     "plain": "if there is none"
+    },
+    {
+     "phrase": "in whole or in part",
+     "plain": "completely or partly"
+    },
+    {
+     "phrase": "falls due",
+     "plain": "becomes owed"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the main point of the third paragraph?",
+     "options": [
+      "French employees may not work more than 35 hours",
+      "35 hours is the point at which overtime starts, not a maximum",
+      "Overtime is always paid in time off",
+      "Employees can agree in writing to work unpaid overtime"
+     ],
+     "answer": 1,
+     "explain_fr": "« This is not a ceiling. It is the threshold... » : les 35 heures sont un seuil de déclenchement, pas un plafond. C'est le malentendu qu'il faut dissiper d'emblée avec un client américain."
+    },
+    {
+     "q": "What happens when an employee goes beyond the annual overtime quota?",
+     "options": [
+      "Extra compensatory rest is owed and the works council must be consulted",
+      "The overtime becomes illegal",
+      "The employee must stop working until the following year",
+      "The employee becomes exempt"
+     ],
+     "answer": 0,
+     "explain_fr": "Au-delà du contingent, les heures restent possibles mais ouvrent droit à une contrepartie obligatoire en repos (« falls due » = devient exigible) et supposent la consultation du CSE."
+    },
+    {
+     "q": "Why does Claire think counting time in days is unsuitable for the support agents?",
+     "options": [
+      "They have not been with the company long enough",
+      "There is no collective agreement in France",
+      "They are paid too little",
+      "They work to a fixed schedule and are not truly autonomous"
+     ],
+     "answer": 3,
+     "explain_fr": "Le forfait jours est réservé aux salariés réellement autonomes dans l'organisation de leur emploi du temps ; des agents soumis à un horaire fixe n'y sont pas éligibles."
+    },
+    {
+     "q": "What does Claire recommend doing before the end of the quarter?",
+     "options": [
+      "Reclassifying the agents",
+      "Negotiating a new collective agreement",
+      "Reviewing the timesheets together",
+      "Cutting all overtime"
+     ],
+     "answer": 2,
+     "explain_fr": "« I would suggest we review the current timesheets together » : en cas de litige, l'employeur doit produire ses propres éléments de décompte, d'où l'importance d'un suivi fiable."
+    }
+   ]
+  },
+  {
+   "id": "rd-tm-4",
+   "title": "Summer leave and days to use up",
+   "kind": "long email",
+   "level": 1,
+   "paragraphs": [
+    "Subject: Summer leave requests and remaining days - please read",
+    "Dear all,",
+    "With the summer not far off, I'd like to remind everyone how leave is booked, and to flag one or two deadlines.",
+    "Please submit your requests for July and August through the HR portal by Friday 28 March. Your manager will reply within ten working days. Until a request has been approved in the system, please don't book flights or accommodation: where several people in the same team ask for the same weeks, managers may have to stagger leave, and priority will go to colleagues with school-age children and to those who missed out last year.",
+    "The office will close for the annual shutdown from Monday 11 to Friday 15 August, so everyone needs to keep five days back for that week.",
+    "A word on leave balances. The current leave year ends on 31 May. You can check how many days you have left on the portal's home page. Up to five untaken days may be carried over, provided your manager agrees in writing; anything above that will be lost unless you were unable to take it for reasons beyond your control. If you still have a large balance, please speak to your manager now rather than in May.",
+    "Before you go away, don't forget to arrange cover with a colleague, prepare a short handover note, and set an out-of-office reply giving your return date and the name of the person to contact.",
+    "If anything is unclear, do drop me a line or come and see me.",
+    "Kind regards,\nSophie Bertin\nHR Officer"
+   ],
+   "glossary": [
+    {
+     "term": "to flag",
+     "plain": "to draw attention to",
+     "fr": "signaler, attirer l'attention sur"
+    },
+    {
+     "term": "working days",
+     "plain": "days when the office is open (Monday to Friday)",
+     "fr": "jours ouvrés"
+    },
+    {
+     "term": "stagger leave",
+     "plain": "arrange for people to be away at different times",
+     "fr": "échelonner les départs en congé"
+    },
+    {
+     "term": "annual shutdown",
+     "plain": "a period when the whole company closes",
+     "fr": "fermeture annuelle"
+    },
+    {
+     "term": "leave year",
+     "plain": "the twelve months over which leave is counted",
+     "fr": "période de référence des congés"
+    },
+    {
+     "term": "carried over",
+     "plain": "transferred to the following year",
+     "fr": "reportés (sur l'année suivante)"
+    },
+    {
+     "term": "handover note",
+     "plain": "a short document explaining your current work to the person replacing you",
+     "fr": "note de passation"
+    },
+    {
+     "term": "out-of-office reply",
+     "plain": "an automatic email saying you are away",
+     "fr": "message d'absence"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "provided your manager agrees in writing",
+     "plain": "only if your manager says yes in writing"
+    },
+    {
+     "phrase": "for reasons beyond your control",
+     "plain": "for reasons you could do nothing about"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What should employees avoid doing before their request is approved?",
+     "options": [
+      "Talking to their manager",
+      "Booking flights or accommodation",
+      "Checking their leave balance",
+      "Submitting a second request"
+     ],
+     "answer": 1,
+     "explain_fr": "Tant que la demande n'est pas validée dans le système, mieux vaut ne rien réserver : les dates peuvent être échelonnées (« staggered ») entre collègues."
+    },
+    {
+     "q": "Who gets priority if several colleagues want the same weeks?",
+     "options": [
+      "The most senior managers",
+      "Those who asked first",
+      "Nobody: the weeks are shared equally",
+      "Parents of school-age children and those who missed out last year"
+     ],
+     "answer": 3,
+     "explain_fr": "« To miss out » = ne pas avoir obtenu ce que l'on souhaitait. Les critères annoncés sont la situation de famille et l'équité par rapport à l'an dernier."
+    },
+    {
+     "q": "Why must everyone keep five days back?",
+     "options": [
+      "The office closes for a week in August",
+      "Five days must be carried over each year",
+      "Managers need five days to reply",
+      "It is a legal minimum for the summer"
+     ],
+     "answer": 0,
+     "explain_fr": "« To keep days back » = garder des jours en réserve, ici pour la fermeture annuelle (« annual shutdown ») du 11 au 15 août."
+    },
+    {
+     "q": "What happens to untaken days above the carry-over limit?",
+     "options": [
+      "They are paid automatically",
+      "They are added to next year's entitlement",
+      "They are normally lost",
+      "They are given to a colleague"
+     ],
+     "answer": 2,
+     "explain_fr": "Au-delà de cinq jours reportés avec accord écrit, les jours sont perdus, sauf si le salarié a été empêché de les prendre (« for reasons beyond your control »)."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-tm-1",
+   "title": "Asking the team to book their summer leave",
+   "stage": 1,
+   "kind": "email",
+   "brief": "You are the HR officer. Write to all staff asking them to submit their summer leave requests by 28 March. Mention the August shutdown, the carry-over rule and what to do before going away.",
+   "brief_fr": "Vous êtes chargé(e) de RH. Écrivez à l'ensemble du personnel pour lui demander de déposer ses demandes de congés d'été avant le 28 mars. Mentionnez la fermeture d'août, la règle de report et les démarches à effectuer avant de partir.",
+   "gaps": [
+    {
+     "text": "Please ___ your leave requests for July and August by Friday 28 March.",
+     "answer": "submit",
+     "accept": [
+      "send in",
+      "put in"
+     ],
+     "explain_fr": "« To submit a request » : le verbe attendu à l'écrit. « To put in a request » convient à l'oral. Évitez « to pose » ou « to deposit »."
+    },
+    {
+     "text": "The office will be closed from 11 to 15 August, so please keep five days ___ for that week.",
+     "answer": "back",
+     "accept": [
+      "aside",
+      "in reserve"
+     ],
+     "explain_fr": "« To keep something back » = garder en réserve. Verbe à particule simple et très naturel."
+    },
+    {
+     "text": "Up to five untaken days may be carried ___ to the next leave year.",
+     "answer": "over",
+     "accept": [
+      "forward"
+     ],
+     "explain_fr": "« To carry over / carry forward » = reporter sur la période suivante. « To report » est un faux ami."
+    },
+    {
+     "text": "Requests will be dealt with in the order in ___ they are received.",
+     "answer": "which",
+     "accept": [],
+     "explain_fr": "« In the order in which they are received » : la préposition précède le relatif dans un registre soigné. « In the order they are received » est aussi correct, mais plus relâché."
+    },
+    {
+     "text": "Before you go, please arrange ___ with a colleague and leave a handover note.",
+     "answer": "cover",
+     "accept": [
+      "coverage"
+     ],
+     "explain_fr": "« To arrange cover » (UK, indénombrable, sans article) = organiser son remplacement. Aux États-Unis : « coverage »."
+    },
+    {
+     "text": "If you have any questions, please do not ___ to get in touch.",
+     "answer": "hesitate",
+     "accept": [],
+     "explain_fr": "« Please do not hesitate to get in touch » : formule de clôture classique, moins raide que « to contact me »."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Summer leave - requests by 28 March\n\nDear all,\n\nAs summer approaches, I would like to remind you of the arrangements for booking leave.\n\nPlease submit your leave requests for July and August by Friday 28 March, using the HR portal. Requests will be dealt with in the order in which they are received, and your manager will reply within ten working days.\n\nThe office will be closed from 11 to 15 August, so please keep five days back for that week. Up to five untaken days may be carried over to the next leave year, with your manager's agreement.\n\nBefore you go, please arrange cover with a colleague and leave a handover note.\n\nIf you have any questions, please do not hesitate to get in touch.\n\nKind regards,\nSophie Bertin\nHR Officer",
+   "model_us": "Subject: Summer vacation - requests by March 28\n\nHi everyone,\n\nAs summer approaches, I'd like to remind you how to request time off.\n\nPlease submit your vacation requests for July and August by Friday, March 28, using the HR portal. Requests will be handled in the order in which they are received, and your manager will respond within ten business days.\n\nThe office will be closed August 11-15, so please set five days aside for that week. Up to five unused days may be rolled over to the next vacation year, with your manager's approval.\n\nBefore you leave, please arrange coverage with a co-worker and leave handoff notes.\n\nIf you have any questions, please feel free to reach out.\n\nBest regards,\nSophie Bertin\nHR Officer",
+   "commentary": [
+    {
+     "quote": "As summer approaches",
+     "note_fr": "Entrée en matière légère, typique d'un courriel collectif. « With summer approaching » conviendrait aussi."
+    },
+    {
+     "quote": "by Friday 28 March",
+     "note_fr": "« By » = au plus tard le. Date britannique : jour puis mois, sans virgule ; version américaine : « Friday, March 28 »."
+    },
+    {
+     "quote": "Requests will be dealt with",
+     "note_fr": "Le passif évite de désigner qui traite les demandes ; « to deal with » (UK) devient « to handle » en américain."
+    },
+    {
+     "quote": "with your manager's agreement",
+     "note_fr": "Condition glissée en fin de phrase, sans lourdeur. Plus naturel que « under the condition that your manager agrees »."
+    },
+    {
+     "quote": "please do not hesitate to get in touch",
+     "note_fr": "« To get in touch » adoucit la formule. Les Américains écrivent volontiers « feel free to reach out »."
+    }
+   ],
+   "checklist": [
+    "Have I given a clear deadline with 'by'?",
+    "Is each request softened with 'please'?",
+    "Have I used 'leave' as an uncountable noun (no 'leaves')?",
+    "Are the dates written consistently in British or American format?",
+    "Does the email end with an offer to help?"
+   ],
+   "phrasebank": [
+    "I would like to remind you of the arrangements for ...",
+    "Please submit your requests by ...",
+    "Requests will be dealt with in the order in which they are received.",
+    "Please keep ... days back for ...",
+    "Up to ... days may be carried over.",
+    "Before you go, please arrange cover.",
+    "Please do not hesitate to get in touch."
+   ]
+  },
+  {
+   "id": "wr-tm-2",
+   "title": "Turning down leave dates and suggesting others",
+   "stage": 1,
+   "kind": "email",
+   "brief": "A team member, Lucas, has asked for the first two weeks of August. Two colleagues are already off then. Reply as his manager: you cannot approve those dates, but you can offer the last two weeks of August or any two weeks in July.",
+   "brief_fr": "Un collaborateur, Lucas, a demandé les deux premières semaines d'août. Deux collègues sont déjà absents à ces dates. Répondez en tant que manager : vous ne pouvez pas valider ces dates, mais vous proposez les deux dernières semaines d'août ou deux semaines au choix en juillet.",
+   "gaps": [
+    {
+     "text": "Thank you for your request for leave ___ 4 to 15 August.",
+     "answer": "from",
+     "accept": [],
+     "explain_fr": "« From 4 to 15 August » : « from ... to ... » pour une période. À l'américaine, on trouve aussi « August 4 through 15 »."
+    },
+    {
+     "text": "I'm ___ I can't approve those dates, as Inès and Paul are already off that fortnight.",
+     "answer": "afraid",
+     "accept": [
+      "sorry"
+     ],
+     "explain_fr": "« I'm afraid » annonce une mauvaise nouvelle avec tact ; c'est l'adoucisseur britannique par excellence."
+    },
+    {
+     "text": "With three people away at once, we would be too ___ to cover the helpdesk.",
+     "answer": "short-staffed",
+     "accept": [
+      "short-handed",
+      "understaffed",
+      "stretched"
+     ],
+     "explain_fr": "« Short-staffed » = en sous-effectif. Donner la raison concrète rend le refus plus acceptable."
+    },
+    {
+     "text": "Would the last two weeks of August ___ for you instead?",
+     "answer": "work",
+     "accept": [
+      "be possible",
+      "suit"
+     ],
+     "explain_fr": "« Would that work for you? » : façon courante et courtoise de proposer une autre solution."
+    },
+    {
+     "text": "___, any two weeks in July would be fine.",
+     "answer": "Alternatively",
+     "accept": [
+      "Otherwise",
+      "Failing that"
+     ],
+     "explain_fr": "« Alternatively » introduit une seconde option en tête de phrase, suivie d'une virgule."
+    },
+    {
+     "text": "Could you let me ___ by Friday which option you'd prefer?",
+     "answer": "know",
+     "accept": [],
+     "explain_fr": "« To let someone know » = faire savoir. Bien plus naturel que « to inform me »."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Your leave request - 4 to 15 August\n\nHi Lucas,\n\nThank you for your request for leave from 4 to 15 August.\n\nI'm afraid I can't approve those dates, as Inès and Paul are already off that fortnight. With three people away at once, we would be too short-staffed to cover the helpdesk.\n\nWould the last two weeks of August work for you instead? Alternatively, any two weeks in July would be fine.\n\nCould you let me know by Friday which option you'd prefer? I realise this isn't the answer you were hoping for, and I'll make sure you get first choice next summer.\n\nBest wishes,\nHélène",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I'm afraid I can't approve those dates",
+     "note_fr": "Le refus est net mais adouci par « I'm afraid ». On ne dit pas « I refuse your request » : trop brutal."
+    },
+    {
+     "quote": "as Inès and Paul are already off that fortnight",
+     "note_fr": "« As » introduit la cause sans insister. « Fortnight » (quinze jours) est britannique ; un Américain écrirait « those two weeks »."
+    },
+    {
+     "quote": "Would the last two weeks of August work for you instead?",
+     "note_fr": "Le refus est aussitôt suivi d'une proposition : c'est ce qui le rend acceptable."
+    },
+    {
+     "quote": "I realise this isn't the answer you were hoping for",
+     "note_fr": "Reconnaître la déception de l'autre, sans s'excuser à l'excès. Orthographe britannique : « realise »."
+    },
+    {
+     "quote": "I'll make sure you get first choice next summer",
+     "note_fr": "Engagement concret pour l'avenir. « To get first choice » = être prioritaire."
+    }
+   ],
+   "checklist": [
+    "Have I softened the refusal ('I'm afraid')?",
+    "Have I given a concrete reason?",
+    "Have I offered at least one alternative?",
+    "Have I asked for a reply by a given date?",
+    "Is the tone friendly but clear?"
+   ],
+   "phrasebank": [
+    "I'm afraid I can't approve those dates.",
+    "We would be too short-staffed to ...",
+    "Would ... work for you instead?",
+    "Alternatively, ... would be fine.",
+    "Could you let me know by ... which option you'd prefer?",
+    "I realise this isn't the answer you were hoping for."
+   ]
+  },
+  {
+   "id": "wr-tm-3",
+   "title": "Explaining RTT days to a British client",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "Your British client has noticed 'RTT' on the leave records of his French team and asks what it means. Write one clear paragraph (90-130 words) for a note to him.",
+   "brief_fr": "Votre client britannique a remarqué la mention « RTT » sur les relevés de congés de son équipe française et vous demande ce qu'elle signifie. Rédigez un paragraphe clair (90 à 130 mots) pour une note à son attention.",
+   "gaps": [],
+   "outline": [
+    "What RTT days are, in one sentence",
+    "Why they exist: the 35-hour week and longer contractual hours",
+    "How they differ from paid holiday",
+    "A comparison a British reader will recognise",
+    "One practical consequence for him"
+   ],
+   "model": "RTT days are additional days off which compensate employees for working more than the statutory 35 hours a week. Your Paris team, for instance, is contracted to work 39 hours; rather than being paid four hours of overtime every week, they earn roughly one day off a month. These days are quite separate from the five weeks of paid holiday to which every employee in France is entitled, and they follow their own rules, which are set out in the company agreement. The closest British parallel is probably time off in lieu. In practice, this means that the days cannot simply be withdrawn if the workload increases: they are owed for hours that have already been worked.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "RTT days are additional days off which compensate employees for working more than the statutory 35 hours a week.",
+     "note_fr": "La définition tient en une phrase et ouvre le paragraphe : le lecteur pressé a déjà l'essentiel."
+    },
+    {
+     "quote": "Your Paris team, for instance, is contracted to work 39 hours",
+     "note_fr": "Un exemple tiré de la situation du client vaut mieux qu'une règle abstraite. « To be contracted to work » = avoir un horaire contractuel de."
+    },
+    {
+     "quote": "These days are quite separate from",
+     "note_fr": "« Quite separate » = tout à fait distincts. Ici, « quite » renforce au lieu d'atténuer."
+    },
+    {
+     "quote": "The closest British parallel is probably time off in lieu.",
+     "note_fr": "Comparer avec une notion que le lecteur connaît, en restant prudent grâce à « probably »."
+    },
+    {
+     "quote": "In practice, this means that",
+     "note_fr": "Formule de transition vers la conséquence concrète, qui est ce que le client attend vraiment."
+    }
+   ],
+   "checklist": [
+    "Does my first sentence define the notion?",
+    "Have I given an example from the client's own situation?",
+    "Have I distinguished RTT days from paid holiday?",
+    "Have I offered a comparison the reader knows?",
+    "Have I ended with a practical consequence?"
+   ],
+   "phrasebank": [
+    "... are additional days off which compensate employees for ...",
+    "Your team, for instance, is contracted to work ...",
+    "These days are quite separate from ...",
+    "The closest British parallel is probably ...",
+    "In practice, this means that ...",
+    "They follow their own rules, which are set out in ..."
+   ]
+  },
+  {
+   "id": "wr-tm-4",
+   "title": "Minuting a discussion on the on-call rota",
+   "stage": 2,
+   "kind": "meeting minutes",
+   "brief": "You took notes at an HR/IT meeting about the on-call rota. Write the paragraph of the minutes recording the discussion and the decisions (90-130 words): four engineers share the rota; complaints about frequency; decision to recruit a fifth volunteer; call-outs to be logged; review in three months.",
+   "brief_fr": "Vous avez pris des notes lors d'une réunion RH/informatique sur le planning d'astreinte. Rédigez le paragraphe du compte rendu qui retrace la discussion et les décisions (90 à 130 mots) : quatre ingénieurs se partagent l'astreinte ; plaintes sur la fréquence ; décision de recruter un cinquième volontaire ; interventions à consigner ; point dans trois mois.",
+   "gaps": [],
+   "outline": [
+    "The item and the current situation",
+    "The concern raised and by whom",
+    "The legal reminder given by HR",
+    "The decisions, with who does what and by when",
+    "The follow-up"
+   ],
+   "model": "3. On-call rota\n\nMr Renaud explained that weekend on-call duty is currently shared between four engineers, each of whom is therefore on call one weekend in four. Two members of the team had reported that this was becoming difficult to sustain. Ms Morel reminded the meeting that time spent on a call-out counts as working time and must not cut into the daily rest period. It was agreed that a fifth volunteer would be sought within the department, so as to reduce the frequency to one weekend in five. With immediate effect, all call-outs are to be logged in the timesheet system. Mr Renaud will report back on both points at the September meeting.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "Mr Renaud explained that weekend on-call duty is currently shared between four engineers",
+     "note_fr": "Un compte rendu rapporte les propos au discours indirect, avec des verbes variés : « explained », « reported », « reminded »."
+    },
+    {
+     "quote": "Two members of the team had reported that this was becoming difficult to sustain.",
+     "note_fr": "« Difficult to sustain » : formulation mesurée, sans nommer les intéressés. C'est le ton attendu d'un compte rendu."
+    },
+    {
+     "quote": "It was agreed that a fifth volunteer would be sought",
+     "note_fr": "« It was agreed that » : formule consacrée pour consigner une décision collective. « Sought » est le participe passé de « to seek »."
+    },
+    {
+     "quote": "With immediate effect, all call-outs are to be logged",
+     "note_fr": "« Are to be + participe passé » exprime une obligation décidée en réunion. « To log » = consigner."
+    },
+    {
+     "quote": "Mr Renaud will report back on both points at the September meeting.",
+     "note_fr": "Chaque décision a un responsable et une échéance. « To report back » = rendre compte."
+    }
+   ],
+   "checklist": [
+    "Have I used reported speech and past tenses consistently?",
+    "Is each decision introduced by a clear formula ('It was agreed that')?",
+    "Does every action have an owner and a deadline?",
+    "Have I kept opinions and adjectives out of the minutes?",
+    "Is the item numbered and titled?"
+   ],
+   "phrasebank": [
+    "X explained that ...",
+    "Y reminded the meeting that ...",
+    "It was agreed that ...",
+    "With immediate effect, ... are to be ...",
+    "X will report back on ... at the next meeting.",
+    "Two members of the team had reported that ...",
+    "... so as to reduce the frequency to ..."
+   ]
+  },
+  {
+   "id": "wr-tm-5",
+   "title": "A letter granting unpaid leave",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "On behalf of the HR Director, write to Ms Garnier, who asked on 3 February for three months of unpaid leave (1 June to 31 August) for a personal project. The company agrees. Set out the conditions: contract suspended, no pay, no accrual of paid leave for the period, return to her current post, and confirmation of her return date in writing by 31 July.",
+   "brief_fr": "Au nom de la DRH, écrivez à Mme Garnier, qui a demandé le 3 février un congé sans solde de trois mois (du 1er juin au 31 août) pour un projet personnel. L'entreprise accepte. Précisez les conditions : suspension du contrat, absence de rémunération, pas d'acquisition de congés payés sur la période, retour sur son poste actuel, confirmation écrite de sa date de retour avant le 31 juillet.",
+   "gaps": [],
+   "outline": [
+    "Reference to her request and the decision",
+    "The dates and the effect on her contract and pay",
+    "The effect on paid leave and benefits",
+    "Her return: post, date, confirmation",
+    "Handover before she leaves; good wishes"
+   ],
+   "model": "Dear Ms Garnier,\n\nYour request for unpaid leave\n\nThank you for your letter of 3 February, in which you asked to take three months' unpaid leave in order to pursue a personal project. I am pleased to confirm that the Company has agreed to your request.\n\nYour leave will run from 1 June to 31 August inclusive. During that time your contract of employment will be suspended: you will not be required to work and you will receive no salary. Please note that the period will not count towards the accrual of paid leave.\n\nYou will return to your current position on Monday 1 September, on the same terms as before. I would be grateful if you could confirm your return in writing by 31 July, so that we can plan accordingly.\n\nBefore you leave, please agree handover arrangements with your manager, Mr Faure, who will organise cover for your files.\n\nI wish you every success with your project and look forward to welcoming you back in September.\n\nYours sincerely,\n\nAnne Lefèvre\nHR Director",
+   "model_us": "Dear Ms. Garnier:\n\nRe: Your request for unpaid leave\n\nThank you for your letter of February 3, in which you asked to take a three-month unpaid leave of absence to pursue a personal project. I am pleased to confirm that the Company has approved your request.\n\nYour leave will run from June 1 through August 31. During that time your employment contract will be suspended: you will not be required to work and you will receive no salary. Please note that the period will not count toward the accrual of paid leave.\n\nYou will return to your current position on Monday, September 1, on the same terms as before. I would appreciate it if you could confirm your return in writing by July 31, so that we can plan accordingly.\n\nBefore you leave, please agree on transition arrangements with your manager, Mr. Faure, who will organize coverage for your files.\n\nI wish you every success with your project and look forward to welcoming you back in September.\n\nSincerely,\n\nAnne Lefèvre\nHR Director",
+   "commentary": [
+    {
+     "quote": "I am pleased to confirm that the Company has agreed to your request.",
+     "note_fr": "La décision figure dès le premier paragraphe. « To agree to a request » (accepter une demande), à distinguer de « to agree with someone »."
+    },
+    {
+     "quote": "three months' unpaid leave",
+     "note_fr": "Génitif de durée avec apostrophe après le « s ». La version américaine préfère « a three-month unpaid leave of absence »."
+    },
+    {
+     "quote": "from 1 June to 31 August inclusive",
+     "note_fr": "« Inclusive » lève toute ambiguïté sur le dernier jour ; l'américain dit « from June 1 through August 31 »."
+    },
+    {
+     "quote": "Please note that the period will not count towards the accrual of paid leave.",
+     "note_fr": "« Please note that » introduit un point défavorable sans dramatiser. « To count towards » = être pris en compte pour."
+    },
+    {
+     "quote": "I would be grateful if you could confirm your return in writing by 31 July",
+     "note_fr": "Demande polie de référence, assortie d'une échéance précise et de sa justification."
+    },
+    {
+     "quote": "look forward to welcoming you back",
+     "note_fr": "« To look forward to » est suivi du gérondif : « welcoming », jamais « to welcome »."
+    }
+   ],
+   "checklist": [
+    "Is the decision stated in the first paragraph?",
+    "Are the dates unambiguous ('inclusive', 'by')?",
+    "Have I explained the effect on pay and on paid leave?",
+    "Have I said what the employee must do, and by when?",
+    "Do the salutation and the close match (Dear Ms ... / Yours sincerely)?",
+    "Does the letter end on a warm note?"
+   ],
+   "phrasebank": [
+    "Thank you for your letter of ..., in which you asked to ...",
+    "I am pleased to confirm that the Company has agreed to your request.",
+    "Your leave will run from ... to ... inclusive.",
+    "During that time your contract of employment will be suspended.",
+    "Please note that ...",
+    "I would be grateful if you could confirm ... in writing by ...",
+    "I look forward to welcoming you back in ..."
+   ]
+  },
+  {
+   "id": "wr-tm-6",
+   "title": "A short report on out-of-hours emails",
+   "stage": 3,
+   "kind": "report",
+   "brief": "The managing director of a French subsidiary has asked you for a short report (180-230 words) after a staff survey showed that many employees answer emails late in the evening. Set out the findings, the legal position in general terms and three practical recommendations.",
+   "brief_fr": "Le directeur général d'une filiale française vous demande un court rapport (180 à 230 mots) à la suite d'une enquête interne montrant que de nombreux salariés répondent à leurs courriels tard le soir. Exposez les constats, la situation juridique en termes généraux et trois recommandations pratiques.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the report",
+    "Findings of the survey",
+    "The legal position: right to disconnect, rest periods, the employer's exposure",
+    "Three recommendations",
+    "Next step"
+   ],
+   "model": "Out-of-hours email: findings and recommendations\n\n1. Purpose\nThis report summarises the results of the March staff survey on out-of-hours working and proposes three practical measures.\n\n2. Findings\nSix out of ten respondents say they regularly answer emails after 8 pm, and nearly a third do so at weekends. Most add that nobody has asked them to; they simply feel it is expected.\n\n3. Legal position\nFrench law recognises a right to disconnect, and the way in which it is exercised must be addressed through company-level negotiation or, failing agreement, a policy drawn up by the employer. More importantly, evening work may cut into the daily rest period of eleven consecutive hours. Should a dispute arise, late-night emails could be relied on as evidence of unpaid overtime or of an excessive workload.\n\n4. Recommendations\nFirst, managers should lead by example and schedule non-urgent emails for the following morning. Second, a short policy should make it clear that no reply is expected outside working hours, save in a genuine emergency. Third, workload should be discussed in one-to-one meetings whenever late working becomes a habit.\n\n5. Next step\nI suggest presenting these proposals to the works council at its June meeting.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "This report summarises the results of the March staff survey",
+     "note_fr": "Un rapport annonce son objet en une phrase, au présent. Orthographe britannique : « summarises »."
+    },
+    {
+     "quote": "Six out of ten respondents say they regularly answer emails after 8 pm",
+     "note_fr": "Les constats sont chiffrés et attribués (« respondents say »), sans commentaire. « Six out of ten » est plus parlant que « 60% »."
+    },
+    {
+     "quote": "they simply feel it is expected",
+     "note_fr": "Phrase courte après une longue : le rythme met en valeur le constat essentiel."
+    },
+    {
+     "quote": "Should a dispute arise, late-night emails could be relied on as evidence",
+     "note_fr": "Inversion soutenue (« Should a dispute arise » = « If a dispute arises ») et modal prudent « could » : on signale un risque sans l'affirmer."
+    },
+    {
+     "quote": "First, managers should lead by example",
+     "note_fr": "Recommandations numérotées par « First / Second / Third », chacune avec « should ». « To lead by example » = montrer l'exemple."
+    },
+    {
+     "quote": "save in a genuine emergency",
+     "note_fr": "« Save in » = sauf en cas de (registre soutenu). « Genuine » = réel, véritable."
+    }
+   ],
+   "checklist": [
+    "Does the report have numbered headings?",
+    "Are findings kept separate from recommendations?",
+    "Have I described the law in general terms, without inventing references?",
+    "Is each recommendation concrete and introduced by 'should'?",
+    "Have I used cautious language for legal risk ('may', 'could')?",
+    "Does the report end with a next step?"
+   ],
+   "phrasebank": [
+    "This report summarises ... and proposes ...",
+    "Six out of ten respondents say ...",
+    "French law recognises ...",
+    "Should a dispute arise, ... could be relied on as evidence of ...",
+    "First, ... Second, ... Third, ...",
+    "... save in a genuine emergency.",
+    "I suggest presenting these proposals to ..."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-tm-1",
+   "title": "Three requests for the same fortnight",
+   "context": "Hannah, a team leader in the London office of a Franco-British firm, calls Claire, the HR consultant, about clashing summer leave requests in her Paris team.",
+   "context_fr": "Hannah, responsable d'équipe au bureau londonien d'un cabinet franco-britannique, appelle Claire, consultante RH, au sujet de demandes de congés d'été concurrentes dans son équipe parisienne.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Hannah",
+     "text": "Claire, have you got a minute? I've got a bit of a headache with the summer rota.",
+     "note_fr": "« Have you got a minute? » : entrée en matière britannique courante. « A bit of a headache » = un petit casse-tête (understatement)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Of course. What's the problem?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hannah",
+     "text": "Three of the Paris team have all put in for the first fortnight of August, and I can't possibly let them all go at once.",
+     "note_fr": "« To put in for » = déposer une demande de. « Fortnight » = quinze jours (UK uniquement)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "No, you can't. How many do you need in to keep things ticking over?",
+     "note_fr": "« To keep things ticking over » = assurer le service minimum, faire tourner la boutique."
+    },
+    {
+     "speaker": "Hannah",
+     "text": "Two at the very least. In London I'd just go on first come, first served. Is that all right in France?",
+     "note_fr": "« First come, first served » = premier arrivé, premier servi."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not quite, I'm afraid. In France it's the employer who sets the order of leave, and you're expected to take things like family circumstances and length of service into account.",
+     "note_fr": "« Not quite, I'm afraid » : contredire en douceur. « To take into account » = tenir compte de."
+    },
+    {
+     "speaker": "Hannah",
+     "text": "So the one with school-age children gets priority?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "It certainly weighs in her favour. I'd also look at who had August last year. And whatever you decide, do tell them soon, because once the dates are fixed you can't easily change them close to departure.",
+     "note_fr": "« To weigh in someone's favour » = jouer en faveur de quelqu'un. « Do tell them » : le « do » d'insistance, poli et ferme."
+    },
+    {
+     "speaker": "Hannah",
+     "text": "Right. So I say yes to Samira, and ask the other two to sort it out between them?",
+     "note_fr": "« To sort it out between them » = s'arranger entre eux."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'd give them the chance, yes, with a deadline. If they can't agree by Friday, you decide, and you explain why.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hannah",
+     "text": "That sounds fair. Could you send me a couple of lines on the criteria, so I've got something to point to?",
+     "note_fr": "« Something to point to » = un élément sur lequel s'appuyer."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Will do. You'll have it by the end of the day.",
+     "note_fr": "« Will do » : réponse brève et courante pour « je m'en occupe »."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is Hannah's problem?",
+     "options": [
+      "Nobody wants to take leave in August",
+      "Three people want the same two weeks and she needs two at work",
+      "The Paris office closes in August",
+      "She has lost the leave requests"
+     ],
+     "answer": 1,
+     "explain_fr": "Trois personnes ont demandé la même quinzaine (« fortnight ») alors qu'il en faut au moins deux présentes."
+    },
+    {
+     "q": "According to Claire, how is priority decided in France?",
+     "options": [
+      "Strictly first come, first served",
+      "By drawing lots",
+      "By a vote within the team",
+      "By the employer, having regard to criteria such as family circumstances and length of service"
+     ],
+     "answer": 3,
+     "explain_fr": "C'est l'employeur qui fixe l'ordre des départs, en tenant compte notamment de la situation de famille et de l'ancienneté."
+    },
+    {
+     "q": "What does Claire advise Hannah to do about the other two employees?",
+     "options": [
+      "Let them try to agree by a deadline, then decide herself",
+      "Refuse both requests",
+      "Approve both and hire a temp",
+      "Ask the London team to cover"
+     ],
+     "answer": 0,
+     "explain_fr": "Leur laisser une chance de s'entendre, avec une échéance (« by Friday »), puis trancher en expliquant sa décision."
+    }
+   ]
+  },
+  {
+   "id": "dl-tm-2",
+   "title": "Why can't they just be on call?",
+   "context": "A video call between Brad, Director of Engineering at a US software company, and Claire, a French HR consultant. Brad wants his three engineers in Nantes to join the global weekend on-call rotation.",
+   "context_fr": "Visioconférence entre Brad, directeur de l'ingénierie d'un éditeur de logiciels américain, et Claire, consultante RH française. Brad souhaite intégrer ses trois ingénieurs nantais à la rotation mondiale d'astreinte du week-end.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Brad",
+     "text": "Hi Claire. Quick one: I need the Nantes guys in the weekend on-call rotation starting next month. Any issues?",
+     "note_fr": "« Quick one » = une question rapide. « Rotation » : terme américain pour le roulement d'astreinte (UK : « rota »)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It's doable, but not quite as simple as adding their names to the schedule. Can I walk you through the three things that matter?",
+     "note_fr": "« It's doable, but » : dire oui tout en annonçant des réserves. « To walk someone through » = expliquer pas à pas."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Sure, go ahead.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "First, on-call has to be set up properly: either through a collective agreement or, if there isn't one, by the employer after consulting the employee representatives.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Brad",
+     "text": "Okay. And they're salaried, so I'm assuming there's no extra pay involved?",
+     "note_fr": "« Salaried » : aux États-Unis, sous-entend « exempt », donc sans heures supplémentaires."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's the second point. In France, just being on call has to be compensated, either in money or in time off, even if the phone never rings.",
+     "note_fr": "« Even if the phone never rings » : image simple pour faire comprendre que l'astreinte seule ouvre droit à compensation."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Huh. And if it does ring?",
+     "note_fr": "« Huh » marque la surprise, sans hostilité."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then the time they spend fixing the problem counts as working time. Which brings me to the third point: rest. If someone's up at 3 a.m. on an incident, you can't expect them at their desk at nine.",
+     "note_fr": "« Which brings me to » : transition orale efficace. « To be up » = être debout, réveillé."
+    },
+    {
+     "speaker": "Brad",
+     "text": "So I'd need more people in the rotation to make that work.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Probably, yes. With three engineers, each of them would be on call every third weekend, and that's a lot. I'd look at sharing weekends with another European site.",
+     "note_fr": "« Every third weekend » = un week-end sur trois. « I'd look at » : suggérer sans imposer."
+    },
+    {
+     "speaker": "Brad",
+     "text": "Got it. Can you put together a one-pager with the options and the cost?",
+     "note_fr": "« One-pager » = note d'une page. « To put together » = préparer."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Absolutely. I'll get it to you by Wednesday.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Claire say about on-call time when nobody calls?",
+     "options": [
+      "It is free for the employer",
+      "It counts fully as working time",
+      "It must still be compensated, in money or in time off",
+      "It is forbidden at weekends"
+     ],
+     "answer": 2,
+     "explain_fr": "L'astreinte elle-même donne lieu à compensation, financière ou en repos, même sans intervention ; seule l'intervention est du temps de travail effectif."
+    },
+    {
+     "q": "Why is rest an issue?",
+     "options": [
+      "An engineer who worked during the night cannot be expected at work first thing in the morning",
+      "French engineers do not work on Mondays",
+      "On-call employees get an extra week of vacation",
+      "The US office is in a different time zone"
+     ],
+     "answer": 0,
+     "explain_fr": "L'intervention ne doit pas priver le salarié de son repos quotidien : après un incident à 3 heures, pas de reprise à 9 heures."
+    },
+    {
+     "q": "What does Claire suggest?",
+     "options": [
+      "Paying the engineers a higher salary instead",
+      "Sharing weekends with another European site",
+      "Cancelling on-call in France",
+      "Hiring contractors in the US"
+     ],
+     "answer": 1,
+     "explain_fr": "Avec trois ingénieurs, un week-end sur trois est trop fréquent : elle propose de mutualiser avec un autre site européen."
+    }
+   ]
+  },
+  {
+   "id": "dl-tm-3",
+   "title": "Days, not hours",
+   "context": "Oliver, HR Director of a British group, is reviewing the contracts of the French managers with Claire. He has just come across the 'forfait jours'.",
+   "context_fr": "Oliver, DRH d'un groupe britannique, passe en revue avec Claire les contrats des cadres français. Il vient de découvrir le forfait jours.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Oliver",
+     "text": "I've been reading the French managers' contracts, and I must say I'm slightly puzzled. There are no working hours in them at all.",
+     "note_fr": "« I must say I'm slightly puzzled » : understatement britannique pour « je ne comprends pas »."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's deliberate. They're on what we call an annual working-days arrangement: their time is counted in days per year, not in hours.",
+     "note_fr": "« What we call » introduit le terme technique avant de l'expliquer."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "So no overtime, however late they stay?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "No overtime, that's right. But it isn't a blank cheque. They still have to get their daily and weekly rest, and the company has to keep an eye on their workload.",
+     "note_fr": "« It isn't a blank cheque » = ce n'est pas un chèque en blanc. « To keep an eye on » = surveiller."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I see. It sounds rather like our opt-out from the 48-hour week.",
+     "note_fr": "« Rather like » = assez proche de."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I can see why you'd say that, but it works quite differently. The opt-out is an individual choice. Here you need a collective agreement first, and then each manager's written consent.",
+     "note_fr": "« I can see why you'd say that, but » : nuancer une comparaison sans froisser."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "And what happens if we don't do the monitoring? In practice, I mean.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then the arrangement may not stand up in court. The manager could go back to the 35-hour rules and claim overtime for the hours actually worked.",
+     "note_fr": "« To stand up in court » = tenir devant un juge. « May » et « could » : on signale un risque sans l'affirmer."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Goodness. That could add up.",
+     "note_fr": "« That could add up » = l'addition pourrait être lourde (encore un understatement)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It could. Which is why I'd like to check two things: that the annual workload meetings are actually taking place, and that there's a written record of them.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I rather suspect they aren't. Shall we start with the sales directors?",
+     "note_fr": "« I rather suspect » : façon très britannique d'exprimer une quasi-certitude."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Good idea. I'll draw up a simple checklist and we can go through it on Monday.",
+     "note_fr": "« To draw up » = établir (un document). « To go through » = passer en revue."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why are there no working hours in the managers' contracts?",
+     "options": [
+      "The contracts are incomplete",
+      "French managers have no limits on their working time",
+      "Their time is counted in days per year",
+      "They are paid by the hour"
+     ],
+     "answer": 2,
+     "explain_fr": "Ils relèvent du forfait jours : le temps de travail est décompté en jours sur l'année, et non en heures."
+    },
+    {
+     "q": "How does the arrangement differ from the British opt-out, according to Claire?",
+     "options": [
+      "It requires a collective agreement as well as individual consent",
+      "It needs no consent at all",
+      "It only applies to part-time staff",
+      "It can be ended by the employee at any time"
+     ],
+     "answer": 0,
+     "explain_fr": "L'« opt-out » britannique est un choix individuel ; le forfait jours suppose d'abord un accord collectif, puis l'accord écrit du salarié."
+    },
+    {
+     "q": "What is the risk if workload is not monitored?",
+     "options": [
+      "The managers lose their rest days",
+      "The company must close the French office",
+      "The managers become part-time",
+      "The arrangement may fail in court and overtime may be claimed"
+     ],
+     "answer": 3,
+     "explain_fr": "Sans suivi effectif de la charge de travail, la convention de forfait peut être privée d'effet et le salarié réclamer des heures supplémentaires."
+    }
+   ]
+  },
+  {
+   "id": "dl-tm-4",
+   "title": "Unlimited PTO, French style",
+   "context": "Megan, Head of People at a San Francisco start-up, wants to extend the company's 'unlimited PTO' policy to its new French employees. She calls Claire.",
+   "context_fr": "Megan, responsable RH d'une start-up de San Francisco, veut étendre la politique de « congés illimités » de l'entreprise à ses nouveaux salariés français. Elle appelle Claire.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Megan",
+     "text": "So, we're rolling out unlimited PTO globally, and I'd love to have France on board. People take what they need, and nobody tracks anything.",
+     "note_fr": "« PTO » (paid time off) : compteur unique de congés aux États-Unis. « To roll out » = déployer. « On board » = partie prenante."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I like the idea behind it. The part that worries me is 'nobody tracks anything.'",
+     "note_fr": "Commencer par ce que l'on approuve avant d'exprimer une réserve."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Why's that? It's more generous than any fixed number.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "It may be, but in France paid vacation isn't just a perk. Employees earn a legal minimum of five weeks a year, and the employer has to be able to show they actually took it.",
+     "note_fr": "« It may be, but » : concéder avant d'objecter. « Perk » = avantage (familier)."
+    },
+    {
+     "speaker": "Megan",
+     "text": "So we'd still need to count days.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "You would. And honestly, that protects you. With unlimited plans, people often end up taking less time off, not more.",
+     "note_fr": "« And honestly » introduit un argument de bon sens à l'oral. « To end up doing » = finir par faire."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Yeah, we've seen that here too. Okay, what would a French version look like?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Keep the statutory five weeks as a floor, track them properly, and offer extra days on top as your 'flexible' leave. That way you keep the spirit of the policy and stay compliant.",
+     "note_fr": "« As a floor » = comme plancher. « On top » = en plus. « To stay compliant » = rester en conformité."
+    },
+    {
+     "speaker": "Megan",
+     "text": "That works. Do the extra days need to go in the contract?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "I'd put them in a policy rather than in the contract, so you can adjust them later. But let's make sure the wording is clear about which days are which.",
+     "note_fr": "« Which days are which » = quels jours relèvent de quelle catégorie."
+    },
+    {
+     "speaker": "Megan",
+     "text": "Makes sense. Can you draft something for me to run by legal?",
+     "note_fr": "« To run something by someone » = soumettre quelque chose à quelqu'un pour avis. « Legal » = le service juridique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure. I'll have a draft with you early next week.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "What worries Claire about the unlimited PTO policy?",
+     "options": [
+      "It is too generous",
+      "That nobody would keep track of leave taken",
+      "It would cost too much",
+      "French employees dislike vacation"
+     ],
+     "answer": 1,
+     "explain_fr": "Le problème n'est pas la générosité mais l'absence de suivi : l'employeur français doit pouvoir justifier que les congés légaux ont bien été pris."
+    },
+    {
+     "q": "What does Claire say often happens under unlimited plans?",
+     "options": [
+      "People take all of August off",
+      "Managers refuse every request",
+      "People sue their employer",
+      "People take less time off"
+     ],
+     "answer": 3,
+     "explain_fr": "« People often end up taking less time off, not more » : faute de repère, les salariés prennent souvent moins de congés."
+    },
+    {
+     "q": "What solution does Claire propose?",
+     "options": [
+      "Keep and track the statutory five weeks, and add flexible days on top",
+      "Apply the US policy unchanged",
+      "Pay employees instead of giving leave",
+      "Give French staff no extra days"
+     ],
+     "answer": 0,
+     "explain_fr": "Les cinq semaines légales servent de plancher (« floor ») et sont décomptées ; les jours supplémentaires « flexibles » figurent dans une politique interne."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-tm-1",
+   "title": "The 35-hour week for a sceptical CFO",
+   "situation": "You are on a call with Greg, the CFO of a US group that has just bought a French company. He has heard that 'the French only work 35 hours' and wants to understand what overtime will cost him. Explain the rules simply and correct his assumptions.",
+   "situation_fr": "Vous êtes en visioconférence avec Greg, directeur financier d'un groupe américain qui vient de racheter une société française. Il a entendu dire que « les Français ne travaillent que 35 heures » et veut comprendre ce que les heures supplémentaires vont lui coûter. Expliquez simplement les règles et corrigez ses idées reçues.",
+   "turns": [
+    {
+     "say": "So help me out here. Is it true your people aren't allowed to work more than 35 hours a week?",
+     "seconds": 30,
+     "model": "That's a very common misunderstanding. Thirty-five hours isn't a cap: it's simply the point at which overtime starts. Plenty of people in France work 39 or 40 hours a week, and that's perfectly lawful.",
+     "tips_fr": "Corrigez sans vexer : « That's a very common misunderstanding ». Opposez clairement « cap » (plafond) et « the point at which overtime starts » (seuil)."
+    },
+    {
+     "say": "Okay. So anything over 35 is overtime, even for my managers?",
+     "seconds": 35,
+     "model": "For most employees, yes. The exception is senior, autonomous staff whose time is counted in days per year rather than hours; they don't get overtime. It's a bit like exempt status in the US, but it has to be set up through a collective agreement and the employee has to consent in writing.",
+     "tips_fr": "Utilisez le repère américain « exempt status », puis nuancez aussitôt par « but ». Restez général : ni chiffres ni références."
+    },
+    {
+     "say": "And the others - can't they just agree to waive overtime? We pay well.",
+     "seconds": 30,
+     "model": "I'm afraid not. Overtime rights can't be waived, even in a signed contract. What you can do is replace part of the pay with time off, if the collective agreement allows it.",
+     "tips_fr": "Refus net mais poli (« I'm afraid not »), suivi d'une ouverture : « What you can do is... »."
+    },
+    {
+     "say": "Is there any limit, or can I ask for as much overtime as I'm willing to pay for?",
+     "seconds": 40,
+     "model": "There are limits. There are maximum daily and weekly hours, and minimum rest periods between working days. On top of that, each employee has a yearly overtime quota; once you go beyond it, you owe extra rest as well as pay. So heavy, regular overtime becomes expensive quite quickly.",
+     "tips_fr": "Structurez : plafonds, repos, contingent. « On top of that » relie naturellement les points. Terminez par la conséquence financière, qui intéresse un directeur financier."
+    },
+    {
+     "say": "Got it. What's the one thing I should do first?",
+     "seconds": 30,
+     "model": "Make sure hours are recorded reliably. If someone ever claims unpaid overtime, the court will ask the company for its records, so good timekeeping is your best protection. I'd be happy to review the current system with your HR team.",
+     "tips_fr": "Une seule recommandation, comme demandé. « Timekeeping » est le mot américain pour le décompte des heures. Finissez par une offre concrète."
+    }
+   ]
+  },
+  {
+   "id": "rp-tm-2",
+   "title": "A request to go down to four days",
+   "situation": "You are the HR manager. Emma, a project manager returning from maternity leave next month, comes to see you. She would like to work four days a week. Listen, explain how the request will be handled, and agree on next steps.",
+   "situation_fr": "Vous êtes responsable RH. Emma, chef de projet qui reprend le mois prochain après son congé de maternité, vient vous voir. Elle souhaite travailler quatre jours par semaine. Écoutez-la, expliquez comment sa demande sera traitée et convenez des prochaines étapes.",
+   "turns": [
+    {
+     "say": "Thanks for seeing me. I'm due back on the 3rd, and I've been wondering whether I could come back four days a week.",
+     "seconds": 30,
+     "model": "Of course, and thank you for raising it before your return rather than after. It gives us time to plan. Could you tell me a bit more about what you have in mind - which day you'd like off, and for how long?",
+     "tips_fr": "Accueillez la demande positivement, puis posez des questions ouvertes. « What you have in mind » = ce que vous envisagez."
+    },
+    {
+     "say": "Ideally Wednesdays, at least until my daughter starts school. Would I lose my job as project manager?",
+     "seconds": 35,
+     "model": "No, you'd keep your role; only your hours and your pay would change, in proportion. As it's linked to your child, you may be able to take it as part-time parental leave, which gives you a right to go back to full-time afterwards. Otherwise it would be an ordinary amendment to your contract.",
+     "tips_fr": "Rassurez d'abord (« No, you'd keep your role »), puis distinguez les deux voies : congé parental à temps partiel ou avenant classique."
+    },
+    {
+     "say": "That's a relief. My worry is that I'll still have five days' work to do in four.",
+     "seconds": 35,
+     "model": "That's a fair concern, and it's exactly what we need to avoid. If you move to four days, your workload has to be adjusted accordingly. I'd suggest sitting down with your manager to decide which projects are handed over.",
+     "tips_fr": "« That's a fair concern » valide l'inquiétude. « Accordingly » = en conséquence. « To hand over » = transférer (des dossiers)."
+    },
+    {
+     "say": "OK. And do I need to do anything formal?",
+     "seconds": 30,
+     "model": "Yes, please put the request in writing: the pattern you'd like, the start date and how long you'd want it to last. Once I have that, I'll speak to your manager and come back to you within two weeks.",
+     "tips_fr": "Soyez précis sur la démarche et le délai. « To put something in writing » = formuler par écrit ; « to come back to you » = revenir vers vous."
+    }
+   ]
+  },
+  {
+   "id": "rp-tm-3",
+   "title": "Emails at eleven at night",
+   "situation": "You are the HR business partner. Several members of David's team have told you, in confidence, that he sends emails late at night and expects answers by morning. David is a high-performing British manager based in Paris. Raise the subject with him tactfully.",
+   "situation_fr": "Vous êtes HR business partner. Plusieurs membres de l'équipe de David vous ont confié qu'il envoie des courriels tard le soir et attend des réponses pour le lendemain matin. David est un manager britannique performant, en poste à Paris. Abordez le sujet avec tact.",
+   "turns": [
+    {
+     "say": "You wanted a word? I've got about ten minutes before my next call.",
+     "seconds": 30,
+     "model": "Thanks, David, ten minutes is plenty. I wanted to talk about something that's come up in the team: emails sent late in the evening. It's not a complaint as such, but a few people feel they're expected to reply the same night.",
+     "tips_fr": "Entrez vite dans le sujet, en dédramatisant : « It's not a complaint as such ». Ne citez personne."
+    },
+    {
+     "say": "Really? I never ask anyone to reply. I just clear my inbox when the kids are in bed.",
+     "seconds": 35,
+     "model": "I don't doubt that for a moment, and working in the evening is entirely your choice. The trouble is that when an email comes from the boss at eleven, people tend to feel they ought to answer it, whatever you intended.",
+     "tips_fr": "Reconnaissez sa bonne foi (« I don't doubt that for a moment ») avant d'exposer l'effet produit. « The trouble is that » introduit le problème sans accuser."
+    },
+    {
+     "say": "Fair point, I suppose. But is it really an HR matter?",
+     "seconds": 35,
+     "model": "It is, actually. In France employees have a right to disconnect, and they're entitled to eleven hours' rest between two working days. If someone is answering at midnight and back at eight, we have a problem, and those emails would be the evidence.",
+     "tips_fr": "« It is, actually » : contredire poliment. Expliquez la règle en une phrase, puis le risque concret."
+    },
+    {
+     "say": "I hadn't thought of it that way. What would you like me to do?",
+     "seconds": 30,
+     "model": "Two small things would make a real difference. Use the delayed-send option so that emails go out in the morning, and tell the team clearly that nothing sent after hours needs an answer before the next day. Would you be comfortable with that?",
+     "tips_fr": "Proposez deux gestes simples et terminez par une question qui l'associe à la solution : « Would you be comfortable with that? »."
+    }
+   ]
+  },
+  {
+   "id": "rp-tm-4",
+   "title": "Explaining remote work rules to a new US manager",
+   "situation": "Kelly has just arrived from Chicago to run a team of eight in Lyon. She wants everyone back in the office five days a week from next Monday. The team currently works from home two days a week under a company policy. Explain what she can and cannot do.",
+   "situation_fr": "Kelly vient d'arriver de Chicago pour diriger une équipe de huit personnes à Lyon. Elle veut que tout le monde revienne au bureau cinq jours par semaine dès lundi prochain. L'équipe télétravaille actuellement deux jours par semaine en application d'une charte d'entreprise. Expliquez-lui ce qu'elle peut faire et ne pas faire.",
+   "turns": [
+    {
+     "say": "I want the whole team in the office full-time, starting Monday. I can't build a team over video calls.",
+     "seconds": 30,
+     "model": "I understand why you'd want that as a new manager. I'd advise against doing it from Monday, though. The team works from home under a formal company policy, and that policy sets out how the arrangement can be changed or ended.",
+     "tips_fr": "Validez l'objectif, puis freinez : « I'd advise against..., though ». Le « though » final adoucit l'objection à l'oral."
+    },
+    {
+     "say": "A policy is just a policy. Back home I'd simply announce it.",
+     "seconds": 35,
+     "model": "Here it carries more weight than that. Remote work is agreed between the employer and each employee, and ending it normally means following the notice period and the procedure the policy lays down. If you skip that, people can legitimately push back.",
+     "tips_fr": "« It carries more weight » = cela a plus de portée. « To push back » = s'y opposer, contester (courant en anglais américain des affaires)."
+    },
+    {
+     "say": "So what are my options? I'm not waiting six months.",
+     "seconds": 40,
+     "model": "You won't have to. In the short term you can use the flexibility the policy already gives you: for example, fix one or two days when everyone has to be on site. Then, if you still want to change the rules, we consult the employee representatives and give proper notice.",
+     "tips_fr": "Répondez à l'impatience par une solution immédiate, puis par la voie formelle. « In the short term... Then... » structure la réponse."
+    },
+    {
+     "say": "All right, two team days a week I can live with. How do we announce it?",
+     "seconds": 30,
+     "model": "I'd keep it simple: explain at your next team meeting why you want those days together, and confirm it by email with a start date a couple of weeks out. I can draft the message for you if that helps.",
+     "tips_fr": "« I'd keep it simple » annonce un conseil pratique. « A couple of weeks out » (US) = dans une quinzaine de jours. Terminez par une offre d'aide."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Asking for time off",
+   "function_fr": "Demander un congé ou une absence",
+   "phrases": [
+    {
+     "text": "I would like to request two weeks' leave from 4 August.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "I'd like to request two weeks of vacation starting August 4.",
+     "register": "formal",
+     "variety": "us"
+    },
+    {
+     "text": "Would it be all right if I took Friday off?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I was wondering whether I could take a half day on Thursday.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I've got a few days left to use up. Would the week of the 12th be possible?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Something's come up at home. Could I leave a little early today?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Any chance I could have Monday off?",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "I'm happy to make up the time later in the week.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Turning down or postponing a leave request",
+   "function_fr": "Refuser ou différer une demande de congé",
+   "phrases": [
+    {
+     "text": "I regret that we are unable to approve your request for the dates in question.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'm afraid those dates are going to be difficult.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Unfortunately, we already have two people out that week.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "Would you be able to move it by a week?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I can't say yes to the full fortnight, but I can do the second week.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Let me see what cover I can arrange and come back to you tomorrow.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Your request has been deferred for operational reasons; we will propose alternative dates shortly.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "That week's a no-go, I'm afraid. How about the one after?",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Arranging cover and handing over before an absence",
+   "function_fr": "Organiser son remplacement et passer le relais avant une absence",
+   "phrases": [
+    {
+     "text": "During my absence, please refer any urgent matters to Ms Bertin.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Could you cover for me while I'm away?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Who's going to be picking up the payroll queries while I'm off?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "Let me bring you up to speed on where things stand.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I've left handover notes in the shared folder.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "The only thing that can't wait is the Dupont file. Everything else will keep until I'm back.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'll be out through the 15th. Sam's covering for me.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "Give me a shout if anything blows up, but only if it really can't wait.",
+     "register": "informal",
+     "variety": "uk"
+    }
+   ]
+  }
+ ]
+}

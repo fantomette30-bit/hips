@@ -1,0 +1,3914 @@
+[
+ {
+  "id": "cr-001",
+  "level": 1,
+  "fr": "entretien annuel d'évaluation",
+  "term": {
+   "uk": "appraisal",
+   "us": "performance review"
+  },
+  "ipa": {
+   "uk": "/əˈpreɪz(ə)l/",
+   "us": "/pərˈfɔːrməns rɪˌvjuː/"
+  },
+  "def": "A formal meeting, usually once a year, in which a manager and an employee discuss the employee's work over the past period and agree objectives for the next.",
+  "registers": {
+   "formal": {
+    "uk": "annual performance appraisal",
+    "us": "annual performance evaluation",
+    "ex": "Each employee shall receive an [[annual performance appraisal]] conducted by his or her line manager.",
+    "ex_us": "Each employee shall receive an [[annual performance evaluation]] conducted by his or her manager."
+   },
+   "everyday": {
+    "uk": "appraisal",
+    "us": "performance review",
+    "ex": "My [[appraisal]] is next Tuesday and I haven't filled in the form yet.",
+    "ex_us": "My [[performance review]] is next Tuesday and I haven't filled out the form yet."
+   },
+   "informal": {
+    "uk": "annual review",
+    "us": "annual review",
+    "ex": "How did your [[annual review]] go?"
+   }
+  },
+  "collocations": [
+   "to carry out an appraisal",
+   "to be due for an appraisal",
+   "the appraisal form",
+   "the appraisal round"
+  ],
+  "note_fr": "« Evaluation interview » est un calque. Britanniques : « appraisal » ; Américains : « performance review » ou « performance evaluation ». En France, l'entretien d'évaluation n'est pas imposé par la loi mais, s'il existe, le salarié doit avoir été informé au préalable des méthodes utilisées : précisez-le à un interlocuteur étranger.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-002",
+  "level": 1,
+  "fr": "entretien professionnel",
+  "term": {
+   "uk": "career development interview",
+   "us": "career development interview"
+  },
+  "ipa": {
+   "uk": "/kəˈrɪə dɪˈveləpmənt ˌɪntəvjuː/",
+   "us": "/kəˈrɪr dɪˈveləpmənt ˌɪntərvjuː/"
+  },
+  "def": "A meeting required by French law in which employer and employee discuss the employee's career prospects and training needs, not his or her performance.",
+  "registers": {
+   "formal": {
+    "uk": "statutory career development interview",
+    "us": "statutory career development interview",
+    "ex": "The [[statutory career development interview]] shall be held separately from the annual appraisal and recorded in writing."
+   },
+   "everyday": {
+    "uk": "career development interview",
+    "us": "career development interview",
+    "ex": "We're behind on our [[career development interviews]], and that's a compliance issue, not just a nice-to-have."
+   },
+   "informal": {
+    "uk": "career conversation",
+    "us": "career conversation",
+    "ex": "Think of it as a [[career conversation]] that happens to be compulsory."
+   }
+  },
+  "collocations": [
+   "to hold a career development interview",
+   "to keep a written record of the interview",
+   "to be offered an interview on returning from leave"
+  ],
+  "note_fr": "Ne le traduisez jamais par « appraisal » ni « professional interview » : cet entretien porte sur les perspectives d'évolution, pas sur l'évaluation du travail. Il n'a pas d'équivalent légal au Royaume-Uni ni aux États-Unis. Sa périodicité et son intitulé ont été modifiés par le législateur (on parle désormais d'« entretien de parcours professionnel ») : vérifiez la règle en vigueur avant de donner un chiffre.",
+  "french_concept": true,
+  "explain": {
+   "written": "The entretien professionnel is a meeting which French law requires employers to hold with each employee at regular intervals, devoted to career prospects and training needs rather than to the assessment of performance.",
+   "spoken": "It's a compulsory career conversation - nothing to do with the appraisal. You sit down with each employee every few years to talk about where they're heading and what training they need."
+  }
+ },
+ {
+  "id": "cr-003",
+  "level": 1,
+  "fr": "fixer des objectifs",
+  "term": {
+   "uk": "to set objectives",
+   "us": "to set goals"
+  },
+  "ipa": {
+   "uk": "/set əbˈdʒektɪvz/",
+   "us": "/set ˈɡoʊlz/"
+  },
+  "def": "To decide, usually with the employee, what he or she is expected to achieve over a given period.",
+  "registers": {
+   "formal": {
+    "uk": "to set objectives",
+    "us": "to set objectives",
+    "ex": "Objectives shall be [[set]] at the beginning of each financial year and notified to the employee in writing."
+   },
+   "everyday": {
+    "uk": "to set objectives",
+    "us": "to set goals",
+    "ex": "We [[set objectives]] in January and review them in the summer.",
+    "ex_us": "We [[set goals]] in January and review them in the summer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set clear objectives",
+   "to agree objectives with someone",
+   "to set someone a target",
+   "realistic and achievable objectives"
+  ],
+  "note_fr": "On dit « to set » (jamais « to fix ») des objectifs. « Objectives » domine au Royaume-Uni, « goals » aux États-Unis ; « targets » désigne plutôt des objectifs chiffrés. En droit français, des objectifs fixés unilatéralement doivent être réalistes et portés à la connaissance du salarié en début de période.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-004",
+  "level": 1,
+  "fr": "atteindre ses objectifs",
+  "term": {
+   "uk": "to meet one's objectives",
+   "us": "to meet one's goals"
+  },
+  "ipa": {
+   "uk": "/miːt wʌnz əbˈdʒektɪvz/",
+   "us": "/miːt wʌnz ˈɡoʊlz/"
+  },
+  "def": "To achieve what one was asked to achieve in the period under review.",
+  "registers": {
+   "formal": {
+    "uk": "to achieve one's objectives",
+    "us": "to achieve one's objectives",
+    "ex": "The employee has [[achieved]] all of the objectives set for the reference period."
+   },
+   "everyday": {
+    "uk": "to meet one's objectives",
+    "us": "to meet one's goals",
+    "ex": "She [[met]] four of her five objectives, which is a good result in a difficult year.",
+    "ex_us": "She [[met]] four of her five goals, which is a good result in a difficult year."
+   },
+   "informal": {
+    "uk": "to hit one's targets",
+    "us": "to hit one's numbers",
+    "ex": "He's [[hit his targets]] three quarters running.",
+    "ex_us": "He's [[hit his numbers]] three quarters running."
+   }
+  },
+  "collocations": [
+   "to meet a target",
+   "to fall short of an objective",
+   "to miss a target",
+   "to partially meet an objective"
+  ],
+  "note_fr": "Pas de « reach his objectives » dans ce contexte : on dit « meet », « achieve » ou, à l'oral, « hit ». Le contraire est « to miss a target » ou « to fall short of ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-005",
+  "level": 1,
+  "fr": "retour / feedback",
+  "term": {
+   "uk": "feedback",
+   "us": "feedback"
+  },
+  "ipa": {
+   "uk": "/ˈfiːdbæk/",
+   "us": "/ˈfiːdbæk/"
+  },
+  "def": "Information given to someone about how well he or she is doing, so that he or she can improve or keep doing the right things.",
+  "registers": {
+   "formal": {
+    "uk": "feedback",
+    "us": "feedback",
+    "ex": "Managers are expected to provide regular [[feedback]] on performance throughout the year."
+   },
+   "everyday": {
+    "uk": "feedback",
+    "us": "feedback",
+    "ex": "Could I get some [[feedback]] on the presentation before Friday?"
+   },
+   "informal": {
+    "uk": "steer",
+    "us": "input",
+    "ex": "Can you give me a [[steer]] on whether this is the right approach?",
+    "ex_us": "Can you give me some [[input]] on whether this is the right approach?"
+   }
+  },
+  "collocations": [
+   "a piece of feedback",
+   "positive feedback",
+   "to ask for feedback",
+   "feedback on something"
+  ],
+  "note_fr": "« Feedback » est indénombrable : jamais « a feedback » ni « feedbacks ». Dites « some feedback », « a piece of feedback » ou « two points of feedback ». La préposition est « on » : « feedback on your report ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-006",
+  "level": 1,
+  "fr": "faire un retour à quelqu'un",
+  "term": {
+   "uk": "to give feedback",
+   "us": "to give feedback"
+  },
+  "ipa": {
+   "uk": "/ɡɪv ˈfiːdbæk/",
+   "us": "/ɡɪv ˈfiːdbæk/"
+  },
+  "def": "To tell someone what you think of his or her work or behaviour, in order to help.",
+  "registers": {
+   "formal": {
+    "uk": "to provide feedback",
+    "us": "to provide feedback",
+    "ex": "The appraiser shall [[provide feedback]] on each objective before an overall rating is proposed."
+   },
+   "everyday": {
+    "uk": "to give feedback",
+    "us": "to give feedback",
+    "ex": "I try to [[give feedback]] straight after the meeting, while it's still fresh."
+   },
+   "informal": {
+    "uk": "to have a word with",
+    "us": "to have a word with",
+    "ex": "I'll [[have a word with]] him about the way he handled that call."
+   }
+  },
+  "collocations": [
+   "to give someone feedback on something",
+   "to give honest feedback",
+   "to feed back to the team",
+   "to give feedback in private"
+  ],
+  "note_fr": "« To make a feedback » est un calque de « faire un retour ». Le verbe « to feed back » (en deux mots) existe surtout en anglais britannique : « I'll feed back to the team ». « To have a word with someone » annonce souvent une remarque un peu délicate.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-007",
+  "level": 1,
+  "fr": "points forts et axes d'amélioration",
+  "term": {
+   "uk": "strengths and areas for improvement",
+   "us": "strengths and areas for improvement"
+  },
+  "ipa": {
+   "uk": "/ˈstreŋθs ənd ˌeəriəz fər ɪmˈpruːvmənt/",
+   "us": "/ˈstreŋθs ənd ˌeriəz fər ɪmˈpruːvmənt/"
+  },
+  "def": "What someone does well and what he or she needs to do better; the two standard headings of an appraisal.",
+  "registers": {
+   "formal": {
+    "uk": "strengths and development needs",
+    "us": "strengths and development needs",
+    "ex": "The appraisal form records the employee's [[strengths and development needs]]."
+   },
+   "everyday": {
+    "uk": "strengths and areas for improvement",
+    "us": "strengths and areas for improvement",
+    "ex": "Let's start with your [[strengths and areas for improvement]], and then look at next year."
+   },
+   "informal": {
+    "uk": "what went well and what didn't",
+    "us": "what went well and what didn't",
+    "ex": "Just tell me [[what went well and what didn't]]."
+   }
+  },
+  "collocations": [
+   "to play to one's strengths",
+   "to build on a strength",
+   "a development area",
+   "room for improvement"
+  ],
+  "note_fr": "N'écrivez pas « weak points » ni « axes of improvement » dans une évaluation : l'usage professionnel préfère « areas for improvement » ou « development areas ». « There's room for improvement » est une litote britannique qui peut signifier que le résultat est franchement insuffisant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-008",
+  "level": 1,
+  "fr": "formation",
+  "term": {
+   "uk": "training",
+   "us": "training"
+  },
+  "ipa": {
+   "uk": "/ˈtreɪnɪŋ/",
+   "us": "/ˈtreɪnɪŋ/"
+  },
+  "def": "Organised activity through which employees learn the knowledge and skills they need for their work.",
+  "registers": {
+   "formal": {
+    "uk": "vocational training",
+    "us": "vocational training",
+    "ex": "The company devotes a significant share of its payroll to [[vocational training]]."
+   },
+   "everyday": {
+    "uk": "training",
+    "us": "training",
+    "ex": "We've got [[training]] on the new HR system all day Thursday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a training course",
+   "a training session",
+   "to receive training in something",
+   "staff training"
+  ],
+  "note_fr": "« Training » est indénombrable : « a training » et « trainings » sont à éviter à l'écrit soigné ; dites « a training course », « a training session ». Attention au faux ami : « formation » en anglais signifie création ou constitution (« the formation of a company »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-009",
+  "level": 1,
+  "fr": "suivre une formation",
+  "term": {
+   "uk": "to attend a training course",
+   "us": "to take a training course"
+  },
+  "ipa": {
+   "uk": "/əˈtend ə ˈtreɪnɪŋ kɔːs/",
+   "us": "/teɪk ə ˈtreɪnɪŋ kɔːrs/"
+  },
+  "def": "To take part in a course in order to learn something for one's work.",
+  "registers": {
+   "formal": {
+    "uk": "to undertake training",
+    "us": "to undergo training",
+    "ex": "All newly appointed managers are required to [[undertake training]] in conducting appraisals.",
+    "ex_us": "All newly appointed managers are required to [[undergo training]] in conducting appraisals."
+   },
+   "everyday": {
+    "uk": "to go on a course",
+    "us": "to take a course",
+    "ex": "I [[went on a course]] on employment law last month and it was excellent.",
+    "ex_us": "I [[took a course]] on employment law last month and it was excellent."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on a course",
+   "to sign up for a course",
+   "to complete a course",
+   "to send someone on a course"
+  ],
+  "note_fr": "« To follow a training » est un calque. Les Britanniques disent « to go on a course » ou « to do a course », les Américains « to take a course » ou « to take a class ». « To send someone on a course » = envoyer quelqu'un en formation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-010",
+  "level": 1,
+  "fr": "compétences",
+  "term": {
+   "uk": "skills",
+   "us": "skills"
+  },
+  "ipa": {
+   "uk": "/skɪlz/",
+   "us": "/skɪlz/"
+  },
+  "def": "The abilities a person needs to do a job well, acquired through training or experience.",
+  "registers": {
+   "formal": {
+    "uk": "skills and competencies",
+    "us": "skills and competencies",
+    "ex": "The role requires the [[skills and competencies]] described in the attached profile."
+   },
+   "everyday": {
+    "uk": "skills",
+    "us": "skills",
+    "ex": "She's got exactly the [[skills]] we need for the project."
+   },
+   "informal": {
+    "uk": "know-how",
+    "us": "know-how",
+    "ex": "We're losing a lot of [[know-how]] when he retires."
+   }
+  },
+  "collocations": [
+   "to develop a skill",
+   "to learn new skills",
+   "a skill set",
+   "skills shortage"
+  ],
+  "note_fr": "« Competences » au sens de compétences professionnelles est rare et sonne français ; dites « skills », ou « competencies » dans un référentiel. « Competence » (singulier) désigne l'aptitude générale à faire son travail, et « competent » est un compliment plus tiède qu'en français.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-011",
+  "level": 1,
+  "fr": "plan de développement des compétences",
+  "term": {
+   "uk": "training plan",
+   "us": "training plan"
+  },
+  "ipa": {
+   "uk": "/ˈtreɪnɪŋ plæn/",
+   "us": "/ˈtreɪnɪŋ plæn/"
+  },
+  "def": "The document in which a French employer sets out the training it has decided to provide for its employees over a given period.",
+  "registers": {
+   "formal": {
+    "uk": "skills development plan",
+    "us": "skills development plan",
+    "ex": "The works council shall be consulted on the [[skills development plan]] for the coming year."
+   },
+   "everyday": {
+    "uk": "training plan",
+    "us": "training plan",
+    "ex": "The course isn't in this year's [[training plan]], but we may be able to find the budget."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draw up the training plan",
+   "to include a course in the training plan",
+   "training under the plan",
+   "to consult the works council on the plan"
+  ],
+  "note_fr": "Au Royaume-Uni et aux États-Unis, un « training plan » est un simple outil de gestion, sans cadre légal. En France, le plan relève de l'initiative de l'employeur, les formations qui y figurent sont en principe suivies sur le temps de travail avec maintien de la rémunération, et le CSE est consulté : expliquez-le.",
+  "french_concept": true,
+  "explain": {
+   "written": "The plan de développement des compétences is the document in which a French employer sets out the training it intends to provide at its own initiative; training under the plan is, as a rule, treated as working time and paid as such.",
+   "spoken": "It's the company's training plan - the courses the employer decides to put people on. In France it's a formal thing: it's generally done in working time, on full pay, and the works council is consulted."
+  }
+ },
+ {
+  "id": "cr-012",
+  "level": 1,
+  "fr": "compte personnel de formation (CPF)",
+  "term": {
+   "uk": "personal training account",
+   "us": "personal training account"
+  },
+  "ipa": {
+   "uk": "/ˌpɜːs(ə)n(ə)l ˈtreɪnɪŋ əˌkaʊnt/",
+   "us": "/ˌpɜːrs(ə)n(ə)l ˈtreɪnɪŋ əˌkaʊnt/"
+  },
+  "def": "An individual account, credited in euros, that every working person in France can use to pay for approved training of his or her own choice.",
+  "registers": {
+   "formal": {
+    "uk": "personal training account (CPF)",
+    "us": "personal training account (CPF)",
+    "ex": "The Employee may use the rights accrued in his or her [[personal training account (CPF)]] to finance all or part of the course."
+   },
+   "everyday": {
+    "uk": "personal training account",
+    "us": "personal training account",
+    "ex": "She's paying for the course out of her [[personal training account]], so we only need to agree the dates."
+   },
+   "informal": {
+    "uk": "CPF",
+    "us": "CPF",
+    "ex": "You could always use your [[CPF]] for that."
+   }
+  },
+  "collocations": [
+   "to use one's personal training account",
+   "to top up an employee's account",
+   "rights accrued in the account",
+   "training eligible for CPF funding"
+  ],
+  "note_fr": "Aucun équivalent britannique ou américain : gardez le sigle et expliquez-le. Le compte appartient à la personne, la suit tout au long de sa carrière et s'utilise à son initiative ; l'accord de l'employeur n'est nécessaire que pour s'absenter pendant le temps de travail. Aux États-Unis, la notion la plus proche serait le « tuition assistance », qui reste un avantage facultatif de l'employeur.",
+  "french_concept": true,
+  "explain": {
+   "written": "The compte personnel de formation (CPF) is an individual account, credited in euros and attached to the person rather than to the job, which may be used at the holder's initiative to pay for approved training.",
+   "spoken": "Everyone who works in France has a personal training account. Money goes into it each year, it follows you from job to job, and you decide what to spend it on."
+  }
+ },
+ {
+  "id": "cr-013",
+  "level": 1,
+  "fr": "promouvoir / promotion",
+  "term": {
+   "uk": "to promote",
+   "us": "to promote"
+  },
+  "ipa": {
+   "uk": "/prəˈməʊt/",
+   "us": "/prəˈmoʊt/"
+  },
+  "def": "To move someone to a more senior job, usually with more responsibility and higher pay.",
+  "registers": {
+   "formal": {
+    "uk": "to promote",
+    "us": "to promote",
+    "ex": "With effect from 1 April, Ms Leroy is [[promoted]] to the position of Regional Sales Director.",
+    "ex_us": "Effective April 1, Ms. Leroy is [[promoted]] to the position of Regional Sales Director."
+   },
+   "everyday": {
+    "uk": "to get promoted",
+    "us": "to get promoted",
+    "ex": "He [[got promoted]] to team leader after only eighteen months."
+   },
+   "informal": {
+    "uk": "to move up",
+    "us": "to move up",
+    "ex": "She's ambitious and wants to [[move up]] quickly."
+   }
+  },
+  "collocations": [
+   "to be promoted to manager",
+   "to put someone forward for promotion",
+   "to be up for promotion",
+   "a promotion to a senior role"
+  ],
+  "note_fr": "La préposition est « to » : « promoted to manager » (sans article devant la fonction), jamais « promoted as ». « To be up for promotion » = être candidat ou pressenti. « A promotion » désigne aussi une offre commerciale : le contexte tranche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-014",
+  "level": 1,
+  "fr": "mobilité interne",
+  "term": {
+   "uk": "internal mobility",
+   "us": "internal mobility"
+  },
+  "ipa": {
+   "uk": "/ɪnˌtɜːn(ə)l məʊˈbɪləti/",
+   "us": "/ɪnˌtɜːrn(ə)l moʊˈbɪləti/"
+  },
+  "def": "The movement of employees between jobs, departments or sites within the same organisation.",
+  "registers": {
+   "formal": {
+    "uk": "internal mobility",
+    "us": "internal mobility",
+    "ex": "The Group encourages [[internal mobility]] and advertises all vacancies internally before recruiting externally."
+   },
+   "everyday": {
+    "uk": "internal move",
+    "us": "internal transfer",
+    "ex": "She's applied for an [[internal move]] to the Lyon office.",
+    "ex_us": "She's applied for an [[internal transfer]] to the Lyon office."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for an internal vacancy",
+   "to move across to another department",
+   "an internal candidate",
+   "to fill a role internally"
+  ],
+  "note_fr": "« Mobility » seul évoque d'abord la mobilité géographique ou le handicap : précisez « internal mobility » ou, plus naturel à l'oral, « an internal move ». « To move across to » = passer dans un autre service au même niveau.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-015",
+  "level": 1,
+  "fr": "évolution de carrière",
+  "term": {
+   "uk": "career progression",
+   "us": "career advancement"
+  },
+  "ipa": {
+   "uk": "/kəˈrɪə prəˌɡreʃ(ə)n/",
+   "us": "/kəˈrɪr ədˌvænsmənt/"
+  },
+  "def": "The way a person moves forward in working life, to more senior or more interesting jobs.",
+  "registers": {
+   "formal": {
+    "uk": "career progression",
+    "us": "career advancement",
+    "ex": "The agreement guarantees equal access to [[career progression]] for part-time employees.",
+    "ex_us": "The agreement guarantees equal access to [[career advancement]] for part-time employees."
+   },
+   "everyday": {
+    "uk": "to get on",
+    "us": "to get ahead",
+    "ex": "If you want to [[get on]] here, you need to be visible outside your own team.",
+    "ex_us": "If you want to [[get ahead]] here, you need to be visible outside your own team."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "opportunities for career progression",
+   "to progress within the company",
+   "lack of career prospects",
+   "to further one's career"
+  ],
+  "note_fr": "« Career evolution » est un calque : dites « career progression », « career development » ou « career advancement » (plus américain). « Prospects » rend très bien « perspectives d'évolution ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-016",
+  "level": 1,
+  "fr": "responsable hiérarchique (N+1)",
+  "term": {
+   "uk": "line manager",
+   "us": "manager"
+  },
+  "ipa": {
+   "uk": "/ˈlaɪn ˌmænɪdʒə/",
+   "us": "/ˈmænɪdʒər/"
+  },
+  "def": "The person an employee reports to directly and who is responsible for his or her work.",
+  "registers": {
+   "formal": {
+    "uk": "line manager",
+    "us": "direct supervisor",
+    "ex": "Requests for training must first be approved by the employee's [[line manager]].",
+    "ex_us": "Requests for training must first be approved by the employee's [[direct supervisor]]."
+   },
+   "everyday": {
+    "uk": "line manager",
+    "us": "manager",
+    "ex": "Have you talked to your [[line manager]] about it?",
+    "ex_us": "Have you talked to your [[manager]] about it?"
+   },
+   "informal": {
+    "uk": "boss",
+    "us": "boss",
+    "ex": "My [[boss]] is fine with it."
+   }
+  },
+  "collocations": [
+   "to raise something with one's line manager",
+   "line management responsibility",
+   "a first-time manager",
+   "one's manager's manager"
+  ],
+  "note_fr": "« N+1 » et « N+2 » ne sont pas compris hors de France : dites « line manager » (UK), « manager » ou « supervisor » (US), et « my manager's manager » ou « skip-level manager » (US) pour le N+2. « Hierarchical superior » est un calque pesant ; « responsible » n'est pas un nom en anglais.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-017",
+  "level": 1,
+  "fr": "collaborateur direct (N-1)",
+  "term": {
+   "uk": "direct report",
+   "us": "direct report"
+  },
+  "ipa": {
+   "uk": "/dəˌrekt rɪˈpɔːt/",
+   "us": "/dəˌrekt rɪˈpɔːrt/"
+  },
+  "def": "An employee who reports directly to a given manager.",
+  "registers": {
+   "formal": {
+    "uk": "direct report",
+    "us": "direct report",
+    "ex": "Each manager shall hold a mid-year review with every [[direct report]]."
+   },
+   "everyday": {
+    "uk": "direct report",
+    "us": "direct report",
+    "ex": "She's got eight [[direct reports]], which is too many to coach properly."
+   },
+   "informal": {
+    "uk": "my team",
+    "us": "my people",
+    "ex": "I need to tell [[my team]] before it goes public.",
+    "ex_us": "I need to tell [[my people]] before it goes public."
+   }
+  },
+  "collocations": [
+   "to have six direct reports",
+   "to manage a team of ten",
+   "a team member",
+   "span of control"
+  ],
+  "note_fr": "« Collaborator » est un faux ami : en anglais il évoque la collaboration avec l'ennemi. Dites « direct report », « team member » ou « colleague ». « Subordinate » existe, mais il est jugé condescendant dans la plupart des entreprises.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-018",
+  "level": 1,
+  "fr": "mentorat",
+  "term": {
+   "uk": "mentoring",
+   "us": "mentoring"
+  },
+  "ipa": {
+   "uk": "/ˈmentɔːrɪŋ/",
+   "us": "/ˈmentɔːrɪŋ/"
+  },
+  "def": "A relationship in which a more experienced person regularly advises and supports a less experienced colleague.",
+  "registers": {
+   "formal": {
+    "uk": "mentoring programme",
+    "us": "mentoring program",
+    "ex": "All graduates joining the firm are enrolled in the [[mentoring programme]] for their first two years.",
+    "ex_us": "All graduates joining the firm are enrolled in the [[mentoring program]] for their first two years."
+   },
+   "everyday": {
+    "uk": "to mentor",
+    "us": "to mentor",
+    "ex": "She's offered to [[mentor]] two of the new team leaders."
+   },
+   "informal": {
+    "uk": "to take someone under one's wing",
+    "us": "to take someone under one's wing",
+    "ex": "The finance director [[took him under her wing]] when he first arrived."
+   }
+  },
+  "collocations": [
+   "to act as a mentor to someone",
+   "a mentor and a mentee",
+   "reverse mentoring",
+   "to be paired with a mentor"
+  ],
+  "note_fr": "La personne accompagnée est le « mentee ». Le mentor conseille à partir de sa propre expérience, sans lien hiérarchique ; ne confondez pas avec le « coach » (voir cette entrée) ni avec le « tuteur » d'un alternant, qu'on rend plutôt par « workplace supervisor ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-019",
+  "level": 1,
+  "fr": "coaching / accompagnement individuel",
+  "term": {
+   "uk": "coaching",
+   "us": "coaching"
+  },
+  "ipa": {
+   "uk": "/ˈkəʊtʃɪŋ/",
+   "us": "/ˈkoʊtʃɪŋ/"
+  },
+  "def": "Structured one-to-one support, often from a trained professional, that helps a person improve performance or develop a particular skill.",
+  "registers": {
+   "formal": {
+    "uk": "executive coaching",
+    "us": "executive coaching",
+    "ex": "The package includes six sessions of [[executive coaching]] with an external provider."
+   },
+   "everyday": {
+    "uk": "to coach",
+    "us": "to coach",
+    "ex": "A good manager [[coaches]] people rather than telling them what to do."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to coach someone through a change",
+   "a coaching session",
+   "an external coach",
+   "a coaching style of management"
+  ],
+  "note_fr": "« Accompaniment » est un faux ami (accompagnement musical ou garniture) : « accompagner un salarié » se dit « to support » ou « to coach ». Le coaching vise un objectif précis sur une durée limitée ; le mentoring est une relation plus longue et plus informelle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-020",
+  "level": 1,
+  "fr": "organisme de formation",
+  "term": {
+   "uk": "training provider",
+   "us": "training provider"
+  },
+  "ipa": {
+   "uk": "/ˈtreɪnɪŋ prəˌvaɪdə/",
+   "us": "/ˈtreɪnɪŋ prəˌvaɪdər/"
+  },
+  "def": "An outside organisation that designs and delivers training courses for companies or individuals.",
+  "registers": {
+   "formal": {
+    "uk": "external training provider",
+    "us": "external training provider",
+    "ex": "Courses shall be delivered by an [[external training provider]] selected by the Company."
+   },
+   "everyday": {
+    "uk": "training provider",
+    "us": "training vendor",
+    "ex": "We've used the same [[training provider]] for years and the feedback is always good.",
+    "ex_us": "We've used the same [[training vendor]] for years and the feedback is always good."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an approved training provider",
+   "to deliver a course",
+   "to commission a course from a provider",
+   "in-house training"
+  ],
+  "note_fr": "« Training organism » est un calque : un « organism » est un être vivant. Un cours « delivered in-house » est assuré en interne. On dit « to deliver » ou « to run » a course, jamais « to animate ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-021",
+  "level": 1,
+  "fr": "formation en ligne",
+  "term": {
+   "uk": "e-learning",
+   "us": "e-learning"
+  },
+  "ipa": {
+   "uk": "/ˈiː ˌlɜːnɪŋ/",
+   "us": "/ˈiː ˌlɜːrnɪŋ/"
+  },
+  "def": "Training followed on a computer or phone, usually at the learner's own pace.",
+  "registers": {
+   "formal": {
+    "uk": "online learning",
+    "us": "online learning",
+    "ex": "Employees are required to complete the [[online learning]] modules within thirty days of joining."
+   },
+   "everyday": {
+    "uk": "e-learning",
+    "us": "e-learning",
+    "ex": "It's a forty-minute [[e-learning]] module; you can do it whenever suits you."
+   },
+   "informal": {
+    "uk": "online course",
+    "us": "online course",
+    "ex": "I did an [[online course]] on Excel over the weekend."
+   }
+  },
+  "collocations": [
+   "an e-learning module",
+   "to complete a module",
+   "self-paced learning",
+   "a live online session"
+  ],
+  "note_fr": "« Distance learning » désigne plutôt un cursus long suivi à distance. « Self-paced » = à son rythme, en autonomie ; « live online » ou « virtual classroom » = classe virtuelle avec formateur. On dit « to complete a module », pas « to realise ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-022",
+  "level": 1,
+  "fr": "besoins en formation",
+  "term": {
+   "uk": "training needs",
+   "us": "training needs"
+  },
+  "ipa": {
+   "uk": "/ˈtreɪnɪŋ niːdz/",
+   "us": "/ˈtreɪnɪŋ niːdz/"
+  },
+  "def": "The skills or knowledge that employees lack and that training could provide.",
+  "registers": {
+   "formal": {
+    "uk": "training requirements",
+    "us": "training requirements",
+    "ex": "Managers shall identify the [[training requirements]] of their teams during the annual appraisal round."
+   },
+   "everyday": {
+    "uk": "training needs",
+    "us": "training needs",
+    "ex": "Let's go through your [[training needs]] for next year before we finish."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to identify training needs",
+   "to meet a training need",
+   "to request training",
+   "a training request"
+  ],
+  "note_fr": "« Needs in training » est un calque : l'anglais empile les noms (« training needs »). « Recueil des besoins » se dit « collecting training requests » ou « gathering training needs », pas « collect of needs ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-023",
+  "level": 1,
+  "fr": "fidélisation des salariés",
+  "term": {
+   "uk": "employee retention",
+   "us": "employee retention"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː rɪˈtenʃ(ə)n/",
+   "us": "/ɪmˌplɔɪiː rɪˈtenʃ(ə)n/"
+  },
+  "def": "An organisation's ability to keep its employees, and the measures it takes to do so.",
+  "registers": {
+   "formal": {
+    "uk": "employee retention",
+    "us": "employee retention",
+    "ex": "The report recommends a series of measures designed to improve [[employee retention]] among junior staff."
+   },
+   "everyday": {
+    "uk": "to hold on to people",
+    "us": "to hold on to people",
+    "ex": "We're good at hiring; we're less good at [[holding on to people]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to retain talent",
+   "a retention rate",
+   "a retention strategy",
+   "to improve retention"
+  ],
+  "note_fr": "« Fidelisation » et « loyalisation » n'existent pas en anglais des RH : on parle de « retention » et du verbe « to retain ». « Loyalty » désigne le sentiment de fidélité, pas la politique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-024",
+  "level": 1,
+  "fr": "rotation du personnel (turnover)",
+  "term": {
+   "uk": "staff turnover",
+   "us": "employee turnover"
+  },
+  "ipa": {
+   "uk": "/ˌstɑːf ˈtɜːnəʊvə/",
+   "us": "/ɪmˌplɔɪiː ˈtɜːrnoʊvər/"
+  },
+  "def": "The rate at which employees leave an organisation and are replaced.",
+  "registers": {
+   "formal": {
+    "uk": "labour turnover",
+    "us": "employee turnover",
+    "ex": "[[Labour turnover]] in the division rose sharply over the last financial year.",
+    "ex_us": "[[Employee turnover]] in the division rose sharply over the last fiscal year."
+   },
+   "everyday": {
+    "uk": "staff turnover",
+    "us": "turnover",
+    "ex": "[[Staff turnover]] is high in the call centre, and exit interviews tell us why.",
+    "ex_us": "[[Turnover]] is high in the call center, and exit interviews tell us why."
+   },
+   "informal": {
+    "uk": "churn",
+    "us": "churn",
+    "ex": "There's been a lot of [[churn]] in that team."
+   }
+  },
+  "collocations": [
+   "high staff turnover",
+   "voluntary turnover",
+   "to reduce turnover",
+   "the attrition rate"
+  ],
+  "note_fr": "Double piège : en anglais britannique, « turnover » seul désigne d'abord le chiffre d'affaires. Précisez « staff turnover ». « Attrition » désigne les départs naturels non remplacés ou, plus largement, le taux de départ.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-025",
+  "level": 1,
+  "fr": "engagement des salariés",
+  "term": {
+   "uk": "employee engagement",
+   "us": "employee engagement"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː ɪnˈɡeɪdʒmənt/",
+   "us": "/ɪmˌplɔɪiː ɪnˈɡeɪdʒmənt/"
+  },
+  "def": "The degree to which employees feel committed to their work and their organisation and are willing to put effort into it.",
+  "registers": {
+   "formal": {
+    "uk": "employee engagement",
+    "us": "employee engagement",
+    "ex": "[[Employee engagement]] is measured annually by means of an anonymous survey."
+   },
+   "everyday": {
+    "uk": "engaged",
+    "us": "engaged",
+    "ex": "The team's far more [[engaged]] since the reorganisation.",
+    "ex_us": "The team's far more [[engaged]] since the reorganization."
+   },
+   "informal": {
+    "uk": "morale",
+    "us": "morale",
+    "ex": "[[Morale]] has really picked up since she took over."
+   }
+  },
+  "collocations": [
+   "to boost engagement",
+   "an engagement score",
+   "a highly engaged team",
+   "to feel disengaged"
+  ],
+  "note_fr": "Faux ami partiel : « engagement » seul signifie d'abord fiançailles ou rendez-vous. Pour « s'engager à faire quelque chose », dites « to commit to » ou « to undertake to », pas « to engage oneself ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-026",
+  "level": 1,
+  "fr": "enquête d'engagement",
+  "term": {
+   "uk": "engagement survey",
+   "us": "engagement survey"
+  },
+  "ipa": {
+   "uk": "/ɪnˈɡeɪdʒmənt ˌsɜːveɪ/",
+   "us": "/ɪnˈɡeɪdʒmənt ˌsɜːrveɪ/"
+  },
+  "def": "A questionnaire sent to all employees to find out how they feel about their work, their managers and the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "employee engagement survey",
+    "us": "employee engagement survey",
+    "ex": "The results of the [[employee engagement survey]] will be presented to the works council in aggregate form only."
+   },
+   "everyday": {
+    "uk": "staff survey",
+    "us": "employee survey",
+    "ex": "The [[staff survey]] closes on Friday and we're only at fifty per cent.",
+    "ex_us": "The [[employee survey]] closes on Friday and we're only at fifty percent."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to run a survey",
+   "the response rate",
+   "to act on the survey results",
+   "to fill in a survey"
+  ],
+  "note_fr": "On dit « to run » ou « to carry out » a survey, et non « to make » ; « to fill in » (UK) ou « to fill out » (US) a survey. « Enquête » ne se traduit par « inquiry » ou « investigation » que lorsqu'il s'agit d'établir des faits.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-027",
+  "level": 1,
+  "fr": "montée en compétences",
+  "term": {
+   "uk": "upskilling",
+   "us": "upskilling"
+  },
+  "ipa": {
+   "uk": "/ˈʌpˌskɪlɪŋ/",
+   "us": "/ˈʌpˌskɪlɪŋ/"
+  },
+  "def": "Teaching employees new or more advanced skills so that they can do their present job better or take on a bigger one.",
+  "registers": {
+   "formal": {
+    "uk": "upskilling",
+    "us": "upskilling",
+    "ex": "The agreement provides for the [[upskilling]] of all production staff affected by the new equipment."
+   },
+   "everyday": {
+    "uk": "to upskill",
+    "us": "to upskill",
+    "ex": "We'd rather [[upskill]] the people we have than hire from outside."
+   },
+   "informal": {
+    "uk": "to get up to speed",
+    "us": "to get up to speed",
+    "ex": "Give her a month to [[get up to speed]] on the new tool."
+   }
+  },
+  "collocations": [
+   "to upskill the workforce",
+   "an upskilling programme",
+   "to build capability",
+   "to bring someone up to speed"
+  ],
+  "note_fr": "« To rise in competences » ne veut rien dire en anglais. « To upskill » est transitif (« to upskill the team ») ou intransitif. « To get up to speed » concerne une prise en main rapide plutôt qu'un vrai développement des compétences.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-028",
+  "level": 1,
+  "fr": "reconversion professionnelle",
+  "term": {
+   "uk": "retraining",
+   "us": "retraining"
+  },
+  "ipa": {
+   "uk": "/ˌriːˈtreɪnɪŋ/",
+   "us": "/ˌriːˈtreɪnɪŋ/"
+  },
+  "def": "Learning the skills needed for a different job or occupation.",
+  "registers": {
+   "formal": {
+    "uk": "reskilling",
+    "us": "reskilling",
+    "ex": "Employees whose roles are at risk will be offered [[reskilling]] for positions in the new logistics centre.",
+    "ex_us": "Employees whose roles are at risk will be offered [[reskilling]] for positions in the new logistics center."
+   },
+   "everyday": {
+    "uk": "to retrain",
+    "us": "to retrain",
+    "ex": "He [[retrained]] as a data analyst after ten years in sales."
+   },
+   "informal": {
+    "uk": "career change",
+    "us": "career change",
+    "ex": "She's thinking about a complete [[career change]]."
+   }
+  },
+  "collocations": [
+   "to retrain as a nurse",
+   "a reskilling programme",
+   "to change career",
+   "a career changer"
+  ],
+  "note_fr": "« Reconversion » est un faux ami : en anglais, le mot ne s'emploie pas pour les personnes (on l'entend pour un bâtiment ou un site industriel, et encore). Dites « retraining », « reskilling » ou « a career change ». Construction : « to retrain as » + métier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-029",
+  "level": 1,
+  "fr": "auto-évaluation",
+  "term": {
+   "uk": "self-assessment",
+   "us": "self-evaluation"
+  },
+  "ipa": {
+   "uk": "/ˌself əˈsesmənt/",
+   "us": "/ˌself ɪˌvæljuˈeɪʃ(ə)n/"
+  },
+  "def": "The part of the appraisal in which employees judge their own performance before meeting their manager.",
+  "registers": {
+   "formal": {
+    "uk": "self-assessment",
+    "us": "self-evaluation",
+    "ex": "The employee shall complete the [[self-assessment]] section of the form at least one week before the meeting.",
+    "ex_us": "The employee shall complete the [[self-evaluation]] section of the form at least one week before the meeting."
+   },
+   "everyday": {
+    "uk": "self-assessment",
+    "us": "self-review",
+    "ex": "I always find the [[self-assessment]] the hardest part to write.",
+    "ex_us": "I always find the [[self-review]] the hardest part to write."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to complete one's self-assessment",
+   "to rate oneself",
+   "to be hard on oneself",
+   "to submit the form"
+  ],
+  "note_fr": "« Auto-evaluation » n'est pas idiomatique : le préfixe anglais est « self- ». Au Royaume-Uni, « self-assessment » désigne aussi la déclaration de revenus : le contexte suffit en général à lever l'ambiguïté.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-030",
+  "level": 1,
+  "fr": "note / appréciation globale",
+  "term": {
+   "uk": "performance rating",
+   "us": "performance rating"
+  },
+  "ipa": {
+   "uk": "/pəˈfɔːməns ˌreɪtɪŋ/",
+   "us": "/pərˈfɔːrməns ˌreɪtɪŋ/"
+  },
+  "def": "The overall grade or label given to an employee's performance at the end of the appraisal.",
+  "registers": {
+   "formal": {
+    "uk": "overall performance rating",
+    "us": "overall performance rating",
+    "ex": "The [[overall performance rating]] is proposed by the line manager and confirmed after calibration.",
+    "ex_us": "The [[overall performance rating]] is proposed by the manager and confirmed after calibration."
+   },
+   "everyday": {
+    "uk": "rating",
+    "us": "rating",
+    "ex": "He wasn't happy with his [[rating]] and has asked to see me."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rate someone's performance",
+   "to be rated 'meets expectations'",
+   "to award a rating",
+   "to challenge a rating"
+  ],
+  "note_fr": "« Note » ou « notation » ne se traduisent pas ici par « note » ni « mark » (scolaire) : on parle de « rating ». « Appreciation » signifie gratitude ou hausse de valeur, jamais appréciation portée sur le travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-031",
+  "level": 1,
+  "fr": "dépasser les attentes",
+  "term": {
+   "uk": "to exceed expectations",
+   "us": "to exceed expectations"
+  },
+  "ipa": {
+   "uk": "/ɪkˌsiːd ˌekspekˈteɪʃ(ə)nz/",
+   "us": "/ɪkˌsiːd ˌekspekˈteɪʃ(ə)nz/"
+  },
+  "def": "To perform better than the level required for the job; a common label on rating scales.",
+  "registers": {
+   "formal": {
+    "uk": "to exceed expectations",
+    "us": "to exceed expectations",
+    "ex": "An employee whose performance consistently [[exceeds expectations]] may be considered for accelerated progression."
+   },
+   "everyday": {
+    "uk": "to do better than expected",
+    "us": "to do better than expected",
+    "ex": "She's [[done better than expected]] on every one of her objectives."
+   },
+   "informal": {
+    "uk": "to go above and beyond",
+    "us": "to go above and beyond",
+    "ex": "He really [[went above and beyond]] on the migration project."
+   }
+  },
+  "collocations": [
+   "to meet expectations",
+   "to fall below expectations",
+   "to perform well",
+   "an outstanding performer"
+  ],
+  "note_fr": "On dit « to exceed » ou « to surpass » expectations, jamais « to overpass ». L'échelle classique : « below expectations », « meets expectations », « exceeds expectations », « outstanding ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-032",
+  "level": 1,
+  "fr": "point individuel régulier",
+  "term": {
+   "uk": "one-to-one",
+   "us": "one-on-one"
+  },
+  "ipa": {
+   "uk": "/ˌwʌn tə ˈwʌn/",
+   "us": "/ˌwʌn ɑːn ˈwʌn/"
+  },
+  "def": "A regular private meeting between a manager and one member of the team.",
+  "registers": {
+   "formal": {
+    "uk": "one-to-one meeting",
+    "us": "one-on-one meeting",
+    "ex": "Managers are expected to hold a [[one-to-one meeting]] with each team member at least once a month.",
+    "ex_us": "Managers are expected to hold a [[one-on-one meeting]] with each team member at least once a month."
+   },
+   "everyday": {
+    "uk": "one-to-one",
+    "us": "one-on-one",
+    "ex": "Can we cover that in our [[one-to-one]] on Thursday?",
+    "ex_us": "Can we cover that in our [[one-on-one]] on Thursday?"
+   },
+   "informal": {
+    "uk": "catch-up",
+    "us": "check-in",
+    "ex": "Let's have a quick [[catch-up]] tomorrow morning.",
+    "ex_us": "Let's have a quick [[check-in]] tomorrow morning."
+   }
+  },
+  "collocations": [
+   "to have a weekly one-to-one",
+   "to put a one-to-one in the diary",
+   "a regular catch-up",
+   "to check in with someone"
+  ],
+  "note_fr": "Vraie différence de variété : « one-to-one » au Royaume-Uni, « one-on-one » aux États-Unis. « A point » ne veut pas dire réunion : « faire un point » se dit « to have a catch-up » ou « to touch base ». « Diary » (UK) = « calendar » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-033",
+  "level": 1,
+  "fr": "plan de développement individuel",
+  "term": {
+   "uk": "personal development plan",
+   "us": "individual development plan"
+  },
+  "ipa": {
+   "uk": "/ˌpɜːs(ə)n(ə)l dɪˈveləpmənt plæn/",
+   "us": "/ˌɪndɪˌvɪdʒuəl dɪˈveləpmənt plæn/"
+  },
+  "def": "A short document agreed between employee and manager listing the skills the employee wants to develop and how he or she will do it.",
+  "registers": {
+   "formal": {
+    "uk": "personal development plan",
+    "us": "individual development plan",
+    "ex": "A [[personal development plan]] shall be agreed at the end of each appraisal and reviewed at mid-year.",
+    "ex_us": "An [[individual development plan]] shall be agreed at the end of each performance review and reviewed at midyear."
+   },
+   "everyday": {
+    "uk": "development plan",
+    "us": "development plan",
+    "ex": "Let's put that in your [[development plan]] so it doesn't get forgotten."
+   },
+   "informal": {
+    "uk": "PDP",
+    "us": "IDP",
+    "ex": "Have you updated your [[PDP]] yet?",
+    "ex_us": "Have you updated your [[IDP]] yet?"
+   }
+  },
+  "collocations": [
+   "to agree a development plan",
+   "a development goal",
+   "to review the plan at mid-year",
+   "a development action"
+  ],
+  "note_fr": "Les sigles diffèrent : « PDP » au Royaume-Uni, « IDP » aux États-Unis. Ne confondez pas avec le « PIP » (performance improvement plan), qui est un plan de redressement en cas d'insuffisance et n'a rien d'un outil de développement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-034",
+  "level": 1,
+  "fr": "gestion des talents",
+  "term": {
+   "uk": "talent management",
+   "us": "talent management"
+  },
+  "ipa": {
+   "uk": "/ˈtælənt ˌmænɪdʒmənt/",
+   "us": "/ˈtælənt ˌmænɪdʒmənt/"
+  },
+  "def": "Everything an organisation does to attract, identify, develop and keep the people it most needs.",
+  "registers": {
+   "formal": {
+    "uk": "talent management",
+    "us": "talent management",
+    "ex": "Responsibility for [[talent management]] lies with the Group HR Director."
+   },
+   "everyday": {
+    "uk": "talent management",
+    "us": "talent management",
+    "ex": "She runs [[talent management]] for the whole of Europe."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a talent management strategy",
+   "to develop talent",
+   "to nurture talent",
+   "head of talent"
+  ],
+  "note_fr": "« Talent » est le plus souvent indénombrable (« to attract talent ») ; « talents » au pluriel pour désigner des personnes sonne français, même si l'on dit « a talent » pour un don. Ne traduisez pas « gestion » par « gestion » : c'est toujours « management ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-035",
+  "level": 1,
+  "fr": "parcours professionnel",
+  "term": {
+   "uk": "career path",
+   "us": "career path"
+  },
+  "ipa": {
+   "uk": "/kəˈrɪə pɑːθ/",
+   "us": "/kəˈrɪr pæθ/"
+  },
+  "def": "The series of jobs a person holds, or could hold, over working life within a profession or an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "career pathway",
+    "us": "career path",
+    "ex": "The framework defines a clear [[career pathway]] from technician to senior engineer.",
+    "ex_us": "The framework defines a clear [[career path]] from technician to senior engineer."
+   },
+   "everyday": {
+    "uk": "career path",
+    "us": "career path",
+    "ex": "There's no obvious [[career path]] for specialists here, and that's why they leave."
+   },
+   "informal": {
+    "uk": "next step",
+    "us": "next step",
+    "ex": "What do you see as your [[next step]]?"
+   }
+  },
+  "collocations": [
+   "to map out a career path",
+   "a clear career path",
+   "to follow an unusual career path",
+   "a career ladder"
+  ],
+  "note_fr": "« Professional course » ou « professional path » sont des calques. Pour le parcours déjà accompli, on dit plutôt « career history », « background » ou « track record » : « tell me about your background ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-036",
+  "level": 1,
+  "fr": "formation sur le tas / en situation de travail",
+  "term": {
+   "uk": "on-the-job training",
+   "us": "on-the-job training"
+  },
+  "ipa": {
+   "uk": "/ˌɒn ðə dʒɒb ˈtreɪnɪŋ/",
+   "us": "/ˌɑːn ðə dʒɑːb ˈtreɪnɪŋ/"
+  },
+  "def": "Training given at the workplace while the employee is actually doing the job.",
+  "registers": {
+   "formal": {
+    "uk": "on-the-job training",
+    "us": "on-the-job training",
+    "ex": "[[On-the-job training]] is provided by an experienced colleague during the first three months."
+   },
+   "everyday": {
+    "uk": "to learn on the job",
+    "us": "to learn on the job",
+    "ex": "Most of what I know about payroll I [[learnt on the job]].",
+    "ex_us": "Most of what I know about payroll I [[learned on the job]]."
+   },
+   "informal": {
+    "uk": "to learn the ropes",
+    "us": "to learn the ropes",
+    "ex": "It took me a good six months to [[learn the ropes]]."
+   }
+  },
+  "collocations": [
+   "to train someone on the job",
+   "to pick something up as you go",
+   "hands-on experience",
+   "to show someone the ropes"
+  ],
+  "note_fr": "L'expression n'a rien de péjoratif en anglais, contrairement à « sur le tas ». « Hands-on » = pratique, concret. Orthographe : « learnt » (UK) ou « learned » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-037",
+  "level": 1,
+  "fr": "formateur / formatrice",
+  "term": {
+   "uk": "trainer",
+   "us": "trainer"
+  },
+  "ipa": {
+   "uk": "/ˈtreɪnə/",
+   "us": "/ˈtreɪnər/"
+  },
+  "def": "A person who teaches skills to employees.",
+  "registers": {
+   "formal": {
+    "uk": "trainer",
+    "us": "instructor",
+    "ex": "Each session is led by a certified [[trainer]] with experience of the sector.",
+    "ex_us": "Each session is led by a certified [[instructor]] with experience in the sector."
+   },
+   "everyday": {
+    "uk": "trainer",
+    "us": "trainer",
+    "ex": "The [[trainer]] was brilliant; she kept twelve managers awake for a whole afternoon."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an in-house trainer",
+   "to train the trainers",
+   "a facilitator",
+   "to run a workshop"
+  ],
+  "note_fr": "« Formator » n'existe pas, et « animator » désigne un dessinateur de dessins animés : celui qui anime un atelier est un « facilitator », et il le « runs » ou le « facilitates ». « Trainers » désigne aussi des baskets en anglais britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-038",
+  "level": 2,
+  "fr": "bilan de compétences",
+  "term": {
+   "uk": "skills assessment",
+   "us": "skills assessment"
+  },
+  "ipa": {
+   "uk": "/ˈskɪlz əˌsesmənt/",
+   "us": "/ˈskɪlz əˌsesmənt/"
+  },
+  "def": "In France, a structured review of a person's skills, aptitudes and motivations, carried out with an outside adviser in order to define a career or training plan.",
+  "registers": {
+   "formal": {
+    "uk": "skills assessment (bilan de compétences)",
+    "us": "skills assessment (bilan de compétences)",
+    "ex": "The Company agrees to bear the cost of a [[skills assessment (bilan de compétences)]] carried out by a provider of the Employee's choice."
+   },
+   "everyday": {
+    "uk": "skills assessment",
+    "us": "career assessment",
+    "ex": "She's doing a [[skills assessment]] to work out what she wants to do next.",
+    "ex_us": "She's doing a [[career assessment]] to figure out what she wants to do next."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out a skills assessment",
+   "an outside career adviser",
+   "the findings belong to the employee",
+   "to define a career plan"
+  ],
+  "note_fr": "« Competence balance » ne veut rien dire. Il n'existe pas de dispositif légal équivalent au Royaume-Uni ni aux États-Unis, où l'on parlerait de « career counselling » (US : « career counseling »). Point essentiel à expliquer : les conclusions appartiennent au salarié et ne peuvent être communiquées à l'employeur qu'avec son accord.",
+  "french_concept": true,
+  "explain": {
+   "written": "The bilan de compétences is a structured assessment of an individual's skills, aptitudes and motivations, carried out by an external provider with a view to defining a career or training plan; its findings belong to the individual and may be passed on to the employer only with his or her consent.",
+   "spoken": "It's a sort of in-depth career review with an outside adviser. You look at your skills and what motivates you and come out with a plan - and the results are yours; your employer only sees them if you agree."
+  }
+ },
+ {
+  "id": "cr-039",
+  "level": 2,
+  "fr": "validation des acquis de l'expérience (VAE)",
+  "term": {
+   "uk": "validation of prior experience",
+   "us": "validation of prior experience"
+  },
+  "ipa": {
+   "uk": "/ˌvælɪˈdeɪʃ(ə)n əv ˌpraɪər ɪkˈspɪəriəns/",
+   "us": "/ˌvælɪˈdeɪʃ(ə)n əv ˌpraɪər ɪkˈspɪriəns/"
+  },
+  "def": "A French procedure by which a person obtains all or part of a recognised qualification on the strength of experience, without following the usual course.",
+  "registers": {
+   "formal": {
+    "uk": "validation of prior experience (VAE)",
+    "us": "validation of prior experience (VAE)",
+    "ex": "Employees may obtain the qualification through [[validation of prior experience (VAE)]], subject to assessment by a panel."
+   },
+   "everyday": {
+    "uk": "to get one's experience accredited",
+    "us": "to get credit for one's experience",
+    "ex": "He never went to university, so he's [[getting his experience accredited]] to obtain the degree.",
+    "ex_us": "He never went to college, so he's [[getting credit for his experience]] to earn the degree."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for validation of prior experience",
+   "to be assessed by a panel",
+   "to be awarded a qualification",
+   "to obtain part of a qualification"
+  ],
+  "note_fr": "Les notions voisines sont « recognition of prior learning » (RPL) au Royaume-Uni et « prior learning assessment » ou « credit for prior learning » aux États-Unis, mais elles donnent le plus souvent des dispenses ou des crédits, rarement le diplôme entier. « Acquis » ne se traduit pas par « acquired » employé comme nom.",
+  "french_concept": true,
+  "explain": {
+   "written": "Validation des acquis de l'expérience (VAE) is a procedure under French law by which a person may be awarded all or part of a recognised qualification on the basis of his or her experience, after assessment by a panel.",
+   "spoken": "It's a way of turning experience into a qualification. You put together a file showing what you've actually done, a panel assesses it, and you can come out with the full diploma without going back to school."
+  }
+ },
+ {
+  "id": "cr-040",
+  "level": 2,
+  "fr": "alternance",
+  "term": {
+   "uk": "work-study training",
+   "us": "work-study training"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːk ˈstʌdi ˌtreɪnɪŋ/",
+   "us": "/ˌwɜːrk ˈstʌdi ˌtreɪnɪŋ/"
+  },
+  "def": "A system combining periods of paid work in a company with periods of study at a training centre, leading to a qualification.",
+  "registers": {
+   "formal": {
+    "uk": "work-study contract",
+    "us": "work-study contract",
+    "ex": "The Company undertakes to recruit a set number of young people on [[work-study contracts]] each year."
+   },
+   "everyday": {
+    "uk": "work-study student",
+    "us": "work-study student",
+    "ex": "We've got two [[work-study students]] in the team; they're with us three weeks out of four."
+   },
+   "informal": {
+    "uk": "alternant",
+    "us": "alternant",
+    "ex": "Our [[alternant]] is back at school next week."
+   }
+  },
+  "collocations": [
+   "to be on a work-study contract",
+   "to split one's time between school and the company",
+   "a workplace supervisor",
+   "to take on an apprentice"
+  ],
+  "note_fr": "« Alternance » et « alternation » ne sont pas compris. En France, l'alternance recouvre deux contrats de travail (apprentissage et professionnalisation). Au Royaume-Uni, on parlera d'« apprenticeship » ; aux États-Unis, « work-study » évoque surtout des emplois étudiants aidés, et « co-op program » ou « apprenticeship » sont plus proches. Le tuteur ou maître d'apprentissage est un « workplace supervisor » ou « workplace mentor ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Alternance is the French system of work-study training, under which a person is employed by a company on a specific type of employment contract while studying for a qualification at a training centre.",
+   "spoken": "It's work-study: the person is a proper employee, on a contract, and spends part of the time with us and part at school, working towards a qualification."
+  }
+ },
+ {
+  "id": "cr-041",
+  "level": 2,
+  "fr": "formation obligatoire",
+  "term": {
+   "uk": "mandatory training",
+   "us": "mandatory training"
+  },
+  "ipa": {
+   "uk": "/ˌmændət(ə)ri ˈtreɪnɪŋ/",
+   "us": "/ˌmændətɔːri ˈtreɪnɪŋ/"
+  },
+  "def": "Training that employees must complete because the law, a regulator or company policy requires it.",
+  "registers": {
+   "formal": {
+    "uk": "mandatory training",
+    "us": "mandatory training",
+    "ex": "Failure to complete [[mandatory training]] within the prescribed time may be recorded in the employee's file."
+   },
+   "everyday": {
+    "uk": "compliance training",
+    "us": "compliance training",
+    "ex": "Everyone's got [[compliance training]] to finish by the end of the month."
+   },
+   "informal": {
+    "uk": "box-ticking exercise",
+    "us": "check-the-box exercise",
+    "ex": "People see it as a [[box-ticking exercise]], which is a pity.",
+    "ex_us": "People see it as a [[check-the-box exercise]], which is a pity."
+   }
+  },
+  "collocations": [
+   "to complete mandatory training",
+   "statutory training",
+   "to be overdue on a module",
+   "a completion rate"
+  ],
+  "note_fr": "« Obligatory » est possible mais rare ; « mandatory » et « compulsory » sont les mots usuels. « Statutory training » désigne spécifiquement ce qu'impose la loi. « To tick a box » (UK) = « to check a box » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-042",
+  "level": 2,
+  "fr": "formation et développement (fonction)",
+  "term": {
+   "uk": "learning and development",
+   "us": "learning and development"
+  },
+  "ipa": {
+   "uk": "/ˌlɜːnɪŋ ən dɪˈveləpmənt/",
+   "us": "/ˌlɜːrnɪŋ ən dɪˈveləpmənt/"
+  },
+  "def": "The HR function responsible for training employees and developing their skills.",
+  "registers": {
+   "formal": {
+    "uk": "learning and development",
+    "us": "learning and development",
+    "ex": "The Head of [[Learning and Development]] reports annually on the implementation of the training plan."
+   },
+   "everyday": {
+    "uk": "L&D",
+    "us": "L&D",
+    "ex": "Ask [[L&D]]; they'll know whether there's a course on that."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an L&D manager",
+   "the L&D team",
+   "a learning offer",
+   "a learning culture"
+  ],
+  "note_fr": "Le « service formation » est aujourd'hui « L&D » (prononcé « L and D ») ou « Learning » ; « training department » date un peu. « Learner » est le terme courant pour le stagiaire de formation ; « trainee » désigne plutôt un débutant en poste, et « stagiaire » au sens français se dit « intern ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-043",
+  "level": 2,
+  "fr": "formation en présentiel",
+  "term": {
+   "uk": "classroom training",
+   "us": "classroom training"
+  },
+  "ipa": {
+   "uk": "/ˈklɑːsruːm ˌtreɪnɪŋ/",
+   "us": "/ˈklæsruːm ˌtreɪnɪŋ/"
+  },
+  "def": "Training delivered by a trainer to a group of people who are physically in the same room.",
+  "registers": {
+   "formal": {
+    "uk": "face-to-face training",
+    "us": "instructor-led training",
+    "ex": "The programme comprises two days of [[face-to-face training]] followed by three online modules.",
+    "ex_us": "The program comprises two days of [[instructor-led training]] followed by three online modules."
+   },
+   "everyday": {
+    "uk": "classroom training",
+    "us": "classroom training",
+    "ex": "People still prefer [[classroom training]] for the management courses."
+   },
+   "informal": {
+    "uk": "in person",
+    "us": "in person",
+    "ex": "Is it online or [[in person]]?"
+   }
+  },
+  "collocations": [
+   "a face-to-face session",
+   "to attend in person",
+   "a two-day workshop",
+   "an off-site course"
+  ],
+  "note_fr": "« Presential » n'existe pas en anglais : dites « face-to-face », « in person », « classroom » ou « on-site ». « Distanciel » se rend par « remote », « online » ou « virtual ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-044",
+  "level": 2,
+  "fr": "formation mixte (présentiel et distanciel)",
+  "term": {
+   "uk": "blended learning",
+   "us": "blended learning"
+  },
+  "ipa": {
+   "uk": "/ˌblendɪd ˈlɜːnɪŋ/",
+   "us": "/ˌblendɪd ˈlɜːrnɪŋ/"
+  },
+  "def": "A way of training that combines face-to-face sessions with online learning.",
+  "registers": {
+   "formal": {
+    "uk": "blended learning",
+    "us": "blended learning",
+    "ex": "The leadership curriculum is delivered through [[blended learning]] over a period of six months."
+   },
+   "everyday": {
+    "uk": "a mix of online and face-to-face",
+    "us": "a mix of online and in-person",
+    "ex": "It's [[a mix of online and face-to-face]], so people are only out of the office for two days.",
+    "ex_us": "It's [[a mix of online and in-person]], so people are only out of the office for two days."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a blended programme",
+   "to combine online modules with workshops",
+   "a learning journey",
+   "a virtual classroom"
+  ],
+  "note_fr": "« Mixed training » se comprend mais ne se dit pas. « Hybrid » qualifie plutôt une séance suivie en même temps sur place et à distance. « Learning journey » est le jargon courant pour « parcours de formation ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-045",
+  "level": 2,
+  "fr": "analyse des besoins de formation",
+  "term": {
+   "uk": "training needs analysis",
+   "us": "training needs assessment"
+  },
+  "ipa": {
+   "uk": "/ˈtreɪnɪŋ niːdz əˌnæləsɪs/",
+   "us": "/ˈtreɪnɪŋ niːdz əˌsesmənt/"
+  },
+  "def": "A systematic study of the gap between the skills employees have and the skills the organisation needs, used to decide what training to provide.",
+  "registers": {
+   "formal": {
+    "uk": "training needs analysis",
+    "us": "training needs assessment",
+    "ex": "A [[training needs analysis]] shall be conducted before the plan is drawn up.",
+    "ex_us": "A [[training needs assessment]] shall be conducted before the plan is drawn up."
+   },
+   "everyday": {
+    "uk": "TNA",
+    "us": "needs assessment",
+    "ex": "We haven't done a proper [[TNA]] for three years, and it shows.",
+    "ex_us": "We haven't done a proper [[needs assessment]] in three years, and it shows."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out a training needs analysis",
+   "to prioritise training needs",
+   "to identify a gap",
+   "the findings of the analysis"
+  ],
+  "note_fr": "Le sigle « TNA » est britannique ; les Américains disent plutôt « needs assessment ». Pluriel irrégulier : « one analysis, two analyses » (/əˈnæləsiːz/).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-046",
+  "level": 2,
+  "fr": "formation de recyclage / remise à niveau",
+  "term": {
+   "uk": "refresher course",
+   "us": "refresher course"
+  },
+  "ipa": {
+   "uk": "/rɪˈfreʃə kɔːs/",
+   "us": "/rɪˈfreʃər kɔːrs/"
+  },
+  "def": "A short course that brings existing knowledge or skills up to date.",
+  "registers": {
+   "formal": {
+    "uk": "refresher training",
+    "us": "refresher training",
+    "ex": "Certified first-aiders shall attend [[refresher training]] at the intervals laid down by the regulations."
+   },
+   "everyday": {
+    "uk": "refresher course",
+    "us": "refresher course",
+    "ex": "I could do with a [[refresher course]] on the appraisal system before the next round.",
+    "ex_us": "I could use a [[refresher course]] on the review system before the next cycle."
+   },
+   "informal": {
+    "uk": "to brush up on",
+    "us": "to brush up on",
+    "ex": "I need to [[brush up on]] my employment law."
+   }
+  },
+  "collocations": [
+   "to attend a refresher",
+   "to keep one's skills up to date",
+   "to renew a certification",
+   "to brush up one's English"
+  ],
+  "note_fr": "« Recycling » ne s'applique qu'aux déchets : pour les personnes, dites « refresher » ou « update ». « I could do with » (UK) = « I could use » (US) = j'aurais bien besoin de.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-047",
+  "level": 2,
+  "fr": "diplôme / titre / certification",
+  "term": {
+   "uk": "qualification",
+   "us": "qualification"
+  },
+  "ipa": {
+   "uk": "/ˌkwɒlɪfɪˈkeɪʃ(ə)n/",
+   "us": "/ˌkwɑːlɪfɪˈkeɪʃ(ə)n/"
+  },
+  "def": "An official record showing that a person has completed a course of study or training or passed an examination.",
+  "registers": {
+   "formal": {
+    "uk": "recognised qualification",
+    "us": "recognized credential",
+    "ex": "The course leads to a [[recognised qualification]] listed in the national register.",
+    "ex_us": "The course leads to a [[recognized credential]] listed in the national register."
+   },
+   "everyday": {
+    "uk": "qualification",
+    "us": "certification",
+    "ex": "She's studying for an HR [[qualification]] in the evenings.",
+    "ex_us": "She's studying for an HR [[certification]] in the evenings."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to gain a qualification",
+   "to hold a degree in law",
+   "a professional qualification",
+   "a course leading to a qualification"
+  ],
+  "note_fr": "« Diploma » est un faux ami partiel : il désigne un type précis de titre, souvent inférieur au « degree » universitaire (au Royaume-Uni), ou le diplôme de fin d'études secondaires (aux États-Unis). Pour « diplômé de », dites « she has a degree in » ou « she graduated from ». « Formation certifiante » = « a course leading to a qualification ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-048",
+  "level": 2,
+  "fr": "formation continue",
+  "term": {
+   "uk": "continuing professional development",
+   "us": "continuing education"
+  },
+  "ipa": {
+   "uk": "/kənˌtɪnjuːɪŋ prəˌfeʃ(ə)n(ə)l dɪˈveləpmənt/",
+   "us": "/kənˌtɪnjuːɪŋ ˌedʒuˈkeɪʃ(ə)n/"
+  },
+  "def": "The learning that people undertake throughout their careers to keep their knowledge and skills up to date.",
+  "registers": {
+   "formal": {
+    "uk": "continuing professional development",
+    "us": "continuing education",
+    "ex": "Members are required to record at least the prescribed number of hours of [[continuing professional development]] each year.",
+    "ex_us": "Members are required to record at least the prescribed number of hours of [[continuing education]] each year."
+   },
+   "everyday": {
+    "uk": "CPD",
+    "us": "professional development",
+    "ex": "The conference counts towards my [[CPD]].",
+    "ex_us": "The conference counts toward my [[professional development]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to log CPD hours",
+   "lifelong learning",
+   "to keep up to date",
+   "a CPD requirement"
+  ],
+  "note_fr": "« Continuous formation » est un double calque. « CPD » est un sigle britannique lié aux professions réglementées ; aux États-Unis, on parle de « continuing education » (CE). La « formation professionnelle tout au long de la vie » se dit « lifelong learning ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-049",
+  "level": 2,
+  "fr": "entretien de mi-année",
+  "term": {
+   "uk": "mid-year review",
+   "us": "midyear review"
+  },
+  "ipa": {
+   "uk": "/ˌmɪd jɪə rɪˈvjuː/",
+   "us": "/ˌmɪdjɪr rɪˈvjuː/"
+  },
+  "def": "A meeting held halfway through the year to check progress against objectives and adjust them if necessary.",
+  "registers": {
+   "formal": {
+    "uk": "mid-year review",
+    "us": "midyear review",
+    "ex": "Objectives may be revised at the [[mid-year review]] where business circumstances have changed.",
+    "ex_us": "Objectives may be revised at the [[midyear review]] where business circumstances have changed."
+   },
+   "everyday": {
+    "uk": "mid-year check-in",
+    "us": "midyear check-in",
+    "ex": "We've got [[mid-year check-ins]] coming up, so have a think about where you are.",
+    "ex_us": "We've got [[midyear check-ins]] coming up, so think about where you are."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to review progress against objectives",
+   "to adjust an objective",
+   "an interim review",
+   "to take stock"
+  ],
+  "note_fr": "« Faire le point » se dit « to take stock » ou « to review progress », pas « to make the point » (qui signifie faire valoir un argument). « Have a think » est typiquement britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-050",
+  "level": 2,
+  "fr": "objectifs et résultats clés (OKR)",
+  "term": {
+   "uk": "objectives and key results",
+   "us": "objectives and key results"
+  },
+  "ipa": {
+   "uk": "/əbˌdʒektɪvz ən ˌkiː rɪˈzʌlts/",
+   "us": "/əbˌdʒektɪvz ən ˌkiː rɪˈzʌlts/"
+  },
+  "def": "A goal-setting method in which each ambitious objective is paired with a few measurable results that show whether it has been achieved.",
+  "registers": {
+   "formal": {
+    "uk": "objectives and key results",
+    "us": "objectives and key results",
+    "ex": "The division sets its [[objectives and key results]] quarterly and publishes them internally."
+   },
+   "everyday": {
+    "uk": "OKRs",
+    "us": "OKRs",
+    "ex": "Our [[OKRs]] for this quarter are far too vague; nobody can tell whether we've met them."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set quarterly OKRs",
+   "a measurable key result",
+   "to score an objective",
+   "to align OKRs across teams"
+  ],
+  "note_fr": "Le sigle se prononce lettre à lettre et prend un s au pluriel. Les OKR sont en principe un outil de pilotage, souvent dissocié de la rémunération. Pour un objectif individuel classique, on parle d'objectif « SMART » (specific, measurable, achievable, relevant, time-bound).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-051",
+  "level": 2,
+  "fr": "indicateur clé de performance",
+  "term": {
+   "uk": "key performance indicator",
+   "us": "key performance indicator"
+  },
+  "ipa": {
+   "uk": "/ˌkiː pəˈfɔːməns ˌɪndɪkeɪtə/",
+   "us": "/ˌkiː pərˈfɔːrməns ˌɪndɪkeɪtər/"
+  },
+  "def": "A figure used to measure how well a person, a team or an organisation is doing against its objectives.",
+  "registers": {
+   "formal": {
+    "uk": "key performance indicator",
+    "us": "key performance indicator",
+    "ex": "Progress shall be measured against the [[key performance indicators]] set out in the schedule."
+   },
+   "everyday": {
+    "uk": "KPI",
+    "us": "KPI",
+    "ex": "Time to fill isn't a great [[KPI]] for a recruitment team on its own."
+   },
+   "informal": {
+    "uk": "metric",
+    "us": "metric",
+    "ex": "Which [[metrics]] are we actually tracking?"
+   }
+  },
+  "collocations": [
+   "to track a KPI",
+   "to measure performance against KPIs",
+   "a retention metric",
+   "to report on a KPI"
+  ],
+  "note_fr": "On mesure « against » des indicateurs : « performance against KPIs ». « Indicator » seul est rare à l'oral, où l'on dit « KPI », « metric » ou « measure ». « To follow an indicator » est un calque : dites « to track » ou « to monitor ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-052",
+  "level": 2,
+  "fr": "objectif ambitieux",
+  "term": {
+   "uk": "stretch goal",
+   "us": "stretch goal"
+  },
+  "ipa": {
+   "uk": "/ˈstretʃ ɡəʊl/",
+   "us": "/ˈstretʃ ɡoʊl/"
+  },
+  "def": "A deliberately demanding objective that goes beyond what the person is confident of achieving.",
+  "registers": {
+   "formal": {
+    "uk": "stretch objective",
+    "us": "stretch goal",
+    "ex": "In addition to the core objectives, one [[stretch objective]] may be agreed with the employee.",
+    "ex_us": "In addition to the core goals, one [[stretch goal]] may be agreed upon with the employee."
+   },
+   "everyday": {
+    "uk": "stretch goal",
+    "us": "stretch goal",
+    "ex": "Ten per cent is the target; fifteen is the [[stretch goal]].",
+    "ex_us": "Ten percent is the target; fifteen is the [[stretch goal]]."
+   },
+   "informal": {
+    "uk": "a big ask",
+    "us": "a big ask",
+    "ex": "Doubling the numbers in a year is [[a big ask]]."
+   }
+  },
+  "collocations": [
+   "to set a stretch goal",
+   "a challenging but achievable objective",
+   "to stretch someone",
+   "to raise the bar"
+  ],
+  "note_fr": "« Ambitious » convient mais « stretch » est le terme consacré. « Challenging » est positif en anglais (stimulant, exigeant). Attention : en droit français, un objectif irréaliste ne peut pas être opposé au salarié ; un « stretch goal » doit donc rester atteignable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-053",
+  "level": 2,
+  "fr": "être en bonne voie (d'atteindre un objectif)",
+  "term": {
+   "uk": "to be on track",
+   "us": "to be on track"
+  },
+  "ipa": {
+   "uk": "/bi ɒn ˈtræk/",
+   "us": "/bi ɑːn ˈtræk/"
+  },
+  "def": "To be making the progress needed to achieve an objective by the agreed date.",
+  "registers": {
+   "formal": {
+    "uk": "to be progressing satisfactorily",
+    "us": "to be progressing satisfactorily",
+    "ex": "At the mid-year stage, three of the four objectives [[are progressing satisfactorily]].",
+    "ex_us": "At the midyear stage, three of the four objectives [[are progressing satisfactorily]]."
+   },
+   "everyday": {
+    "uk": "to be on track",
+    "us": "to be on track",
+    "ex": "You're [[on track]] to meet all four objectives, which is very good going."
+   },
+   "informal": {
+    "uk": "to be getting there",
+    "us": "to be getting there",
+    "ex": "It's slow, but we're [[getting there]]."
+   }
+  },
+  "collocations": [
+   "to be on track to meet an objective",
+   "to be behind schedule",
+   "to fall behind",
+   "to get back on track"
+  ],
+  "note_fr": "On dit « on track to meet » ou « on track for » : « on track for promotion ». Les contraires usuels : « behind », « off track », « slipping ». « On the good way » est un calque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-054",
+  "level": 2,
+  "fr": "retour constructif",
+  "term": {
+   "uk": "constructive feedback",
+   "us": "constructive feedback"
+  },
+  "ipa": {
+   "uk": "/kənˌstrʌktɪv ˈfiːdbæk/",
+   "us": "/kənˌstrʌktɪv ˈfiːdbæk/"
+  },
+  "def": "Comments on what someone could do better, given in a specific and helpful way so that the person can act on them.",
+  "registers": {
+   "formal": {
+    "uk": "constructive feedback",
+    "us": "constructive feedback",
+    "ex": "Appraisers are trained to give [[constructive feedback]] based on specific, observed examples."
+   },
+   "everyday": {
+    "uk": "constructive feedback",
+    "us": "constructive feedback",
+    "ex": "I've got some [[constructive feedback]] on the workshop, if you're open to it."
+   },
+   "informal": {
+    "uk": "a few pointers",
+    "us": "a few pointers",
+    "ex": "Can I give you [[a few pointers]] for next time?"
+   }
+  },
+  "collocations": [
+   "to give constructive feedback",
+   "to be specific",
+   "to focus on behaviour, not personality",
+   "to deliver a difficult message"
+  ],
+  "note_fr": "Ne dites pas « a critic » (c'est une personne) ni « to critic » : le nom est « criticism », le verbe « to criticise » (US : « criticize »), et tous deux sont nettement négatifs. « Constructive feedback » est l'euphémisme professionnel pour une remarque critique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-055",
+  "level": 2,
+  "fr": "accueillir / prendre en compte un retour",
+  "term": {
+   "uk": "to take feedback on board",
+   "us": "to take feedback on board"
+  },
+  "ipa": {
+   "uk": "/teɪk ˈfiːdbæk ɒn ˌbɔːd/",
+   "us": "/teɪk ˈfiːdbæk ɑːn ˌbɔːrd/"
+  },
+  "def": "To listen to comments about one's work and actually change something as a result.",
+  "registers": {
+   "formal": {
+    "uk": "to act on feedback",
+    "us": "to act on feedback",
+    "ex": "The employee has demonstrably [[acted on the feedback]] received at the previous review."
+   },
+   "everyday": {
+    "uk": "to take feedback on board",
+    "us": "to take feedback to heart",
+    "ex": "She [[took the feedback on board]] and her last two reports were much tighter.",
+    "ex_us": "She [[took the feedback to heart]] and her last two reports were much tighter."
+   },
+   "informal": {
+    "uk": "to take it on the chin",
+    "us": "to take it in stride",
+    "ex": "It was a tough message, but he [[took it on the chin]].",
+    "ex_us": "It was a tough message, but he [[took it in stride]]."
+   }
+  },
+  "collocations": [
+   "to be open to feedback",
+   "to act on feedback",
+   "to get defensive",
+   "to take something personally"
+  ],
+  "note_fr": "« To take on board » est surtout britannique ; un Américain dira plutôt « to take it to heart » ou « to incorporate the feedback ». « To get defensive » = se braquer ; « don't take it personally » = n'y voyez rien de personnel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-056",
+  "level": 2,
+  "fr": "échelle de notation",
+  "term": {
+   "uk": "rating scale",
+   "us": "rating scale"
+  },
+  "ipa": {
+   "uk": "/ˈreɪtɪŋ skeɪl/",
+   "us": "/ˈreɪtɪŋ skeɪl/"
+  },
+  "def": "The set of grades or labels, from lowest to highest, used to rate performance.",
+  "registers": {
+   "formal": {
+    "uk": "rating scale",
+    "us": "rating scale",
+    "ex": "Performance is assessed on a five-point [[rating scale]] ranging from 'unsatisfactory' to 'outstanding'."
+   },
+   "everyday": {
+    "uk": "scale",
+    "us": "scale",
+    "ex": "We moved from a five-point to a four-point [[scale]] so that managers couldn't sit in the middle."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a five-point scale",
+   "to rate someone on a scale of one to five",
+   "the top rating",
+   "to sit in the middle of the scale"
+  ],
+  "note_fr": "On note « on a scale of one to five » ou « on a five-point scale » ; « from one to five » se dit aussi, mais « a scale from five » non. « Central tendency » désigne la tendance des managers à noter tout le monde au milieu.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-057",
+  "level": 2,
+  "fr": "plan de succession",
+  "term": {
+   "uk": "succession planning",
+   "us": "succession planning"
+  },
+  "ipa": {
+   "uk": "/səkˈseʃ(ə)n ˌplænɪŋ/",
+   "us": "/səkˈseʃ(ə)n ˌplænɪŋ/"
+  },
+  "def": "The process of identifying and preparing people who could take over key roles when the present holders leave.",
+  "registers": {
+   "formal": {
+    "uk": "succession planning",
+    "us": "succession planning",
+    "ex": "[[Succession planning]] for members of the executive committee is reviewed annually by the board."
+   },
+   "everyday": {
+    "uk": "succession plan",
+    "us": "succession plan",
+    "ex": "We've no [[succession plan]] for the plant manager, and he retires in two years.",
+    "ex_us": "We have no [[succession plan]] for the plant manager, and he retires in two years."
+   },
+   "informal": {
+    "uk": "to line someone up",
+    "us": "to line someone up",
+    "ex": "They've [[lined her up]] to take over from him."
+   }
+  },
+  "collocations": [
+   "a potential successor",
+   "to take over from someone",
+   "to be ready now",
+   "to groom someone for a role"
+  ],
+  "note_fr": "« Succession » évoque aussi l'héritage, mais « succession planning » est sans ambiguïté en entreprise. On « takes over from » son prédécesseur ; « to succeed someone » existe mais reste plus soutenu. Les étiquettes usuelles : « ready now », « ready in one to two years ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-058",
+  "level": 2,
+  "fr": "haut potentiel",
+  "term": {
+   "uk": "high potential",
+   "us": "high potential"
+  },
+  "ipa": {
+   "uk": "/ˌhaɪ pəˈtenʃ(ə)l/",
+   "us": "/ˌhaɪ pəˈtenʃ(ə)l/"
+  },
+  "def": "An employee judged capable of rising quickly to much more senior roles.",
+  "registers": {
+   "formal": {
+    "uk": "high-potential employee",
+    "us": "high-potential employee",
+    "ex": "[[High-potential employees]] are identified through the annual talent review and offered a dedicated development programme.",
+    "ex_us": "[[High-potential employees]] are identified through the annual talent review and offered a dedicated development program."
+   },
+   "everyday": {
+    "uk": "high potential",
+    "us": "high potential",
+    "ex": "She's one of our [[high potentials]]; we need to give her something bigger soon."
+   },
+   "informal": {
+    "uk": "HiPo",
+    "us": "HiPo",
+    "ex": "He's on the [[HiPo]] list."
+   }
+  },
+  "collocations": [
+   "to identify high potentials",
+   "a high-potential programme",
+   "a rising star",
+   "to have the potential to go further"
+  ],
+  "note_fr": "Ne confondez pas « high potential » (capacité à évoluer) et « high performer » (excellents résultats dans le poste actuel) : toute la revue des talents repose sur cette distinction. « High potential » s'emploie comme nom ou comme adjectif (avec trait d'union).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-059",
+  "level": 2,
+  "fr": "vivier de talents",
+  "term": {
+   "uk": "talent pool",
+   "us": "talent pool"
+  },
+  "ipa": {
+   "uk": "/ˈtælənt puːl/",
+   "us": "/ˈtælənt puːl/"
+  },
+  "def": "The group of employees identified as able to fill more senior or key roles in the future.",
+  "registers": {
+   "formal": {
+    "uk": "talent pool",
+    "us": "talent pool",
+    "ex": "The [[talent pool]] for senior management roles remains insufficiently diverse."
+   },
+   "everyday": {
+    "uk": "talent pipeline",
+    "us": "talent pipeline",
+    "ex": "Our [[talent pipeline]] for plant managers is looking thin."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to build a talent pipeline",
+   "to draw on the talent pool",
+   "a leadership pipeline",
+   "a pool of successors"
+  ],
+  "note_fr": "« Pool » = le réservoir à un instant donné ; « pipeline » insiste sur le flux de personnes en préparation. « Vivier » ne se traduit ni par « fishpond » ni par « nursery ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-060",
+  "level": 2,
+  "fr": "référentiel de compétences",
+  "term": {
+   "uk": "competency framework",
+   "us": "competency model"
+  },
+  "ipa": {
+   "uk": "/ˈkɒmpɪtənsi ˌfreɪmwɜːk/",
+   "us": "/ˈkɑːmpɪtənsi ˌmɑːd(ə)l/"
+  },
+  "def": "A document describing the skills and behaviours expected in each role or at each level of an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "competency framework",
+    "us": "competency model",
+    "ex": "Employees are assessed against the behaviours described in the [[competency framework]].",
+    "ex_us": "Employees are assessed against the behaviors described in the [[competency model]]."
+   },
+   "everyday": {
+    "uk": "competency framework",
+    "us": "competency model",
+    "ex": "The [[competency framework]] hasn't been updated since before anyone worked remotely.",
+    "ex_us": "The [[competency model]] hasn't been updated since before anyone worked remotely."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to assess someone against a framework",
+   "a core competency",
+   "a behavioural indicator",
+   "a level descriptor"
+  ],
+  "note_fr": "« Referential » est un adjectif en anglais, jamais un nom : « a referential of competences » est incompréhensible. Dites « framework » (UK) ou « model » (US). Dans ce contexte, le pluriel usuel est « competencies ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-061",
+  "level": 2,
+  "fr": "compétences comportementales (savoir-être)",
+  "term": {
+   "uk": "soft skills",
+   "us": "soft skills"
+  },
+  "ipa": {
+   "uk": "/ˌsɒft ˈskɪlz/",
+   "us": "/ˌsɔːft ˈskɪlz/"
+  },
+  "def": "Personal and social abilities, such as communicating, listening and working with others, as opposed to technical knowledge.",
+  "registers": {
+   "formal": {
+    "uk": "interpersonal skills",
+    "us": "interpersonal skills",
+    "ex": "The role calls for strong [[interpersonal skills]] and the ability to influence without authority."
+   },
+   "everyday": {
+    "uk": "soft skills",
+    "us": "soft skills",
+    "ex": "Technically he's excellent; it's the [[soft skills]] he needs to work on."
+   },
+   "informal": {
+    "uk": "people skills",
+    "us": "people skills",
+    "ex": "She's got great [[people skills]]."
+   }
+  },
+  "collocations": [
+   "to work on one's soft skills",
+   "hard skills",
+   "communication skills",
+   "to be good with people"
+  ],
+  "note_fr": "« Savoir-être » n'a pas de traduction littérale : dites « soft skills », « interpersonal skills » ou « behaviours ». « Savoir-faire » se rend par « know-how » ou « expertise », et les compétences techniques par « hard skills » ou « technical skills ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-062",
+  "level": 2,
+  "fr": "compétences transférables",
+  "term": {
+   "uk": "transferable skills",
+   "us": "transferable skills"
+  },
+  "ipa": {
+   "uk": "/trænsˌfɜːrəb(ə)l ˈskɪlz/",
+   "us": "/trænsˌfɜːrəb(ə)l ˈskɪlz/"
+  },
+  "def": "Skills acquired in one job or sector that can be used in another.",
+  "registers": {
+   "formal": {
+    "uk": "transferable skills",
+    "us": "transferable skills",
+    "ex": "The assessment identifies the [[transferable skills]] on which a move to another occupation could be based."
+   },
+   "everyday": {
+    "uk": "transferable skills",
+    "us": "transferable skills",
+    "ex": "You've got more [[transferable skills]] than you think; project management is the same everywhere."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draw on transferable skills",
+   "to carry skills over to a new role",
+   "a portable skill",
+   "to build on existing experience"
+  ],
+  "note_fr": "Accent tonique sur la deuxième syllabe : transFERable. « Transversal skills » se rencontre dans les textes européens mais reste rare chez les anglophones, qui disent « transferable » ou « cross-functional ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-063",
+  "level": 2,
+  "fr": "écart de compétences",
+  "term": {
+   "uk": "skills gap",
+   "us": "skills gap"
+  },
+  "ipa": {
+   "uk": "/ˈskɪlz ɡæp/",
+   "us": "/ˈskɪlz ɡæp/"
+  },
+  "def": "The difference between the skills an organisation or a person has and the skills that are needed.",
+  "registers": {
+   "formal": {
+    "uk": "skills gap",
+    "us": "skills gap",
+    "ex": "The analysis reveals a significant [[skills gap]] in data analysis across the finance function."
+   },
+   "everyday": {
+    "uk": "gap",
+    "us": "gap",
+    "ex": "There's a real [[gap]] on the digital side that we need to close before next year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to close a skills gap",
+   "to bridge the gap",
+   "a skills shortage",
+   "to address a gap"
+  ],
+  "note_fr": "On « closes », « bridges » ou « addresses » a gap ; « to fill a gap » se dit surtout d'un poste ou d'un manque ponctuel. « Skills shortage » désigne une pénurie sur le marché du travail, « skills gap » un écart en interne.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-064",
+  "level": 2,
+  "fr": "famille de métiers",
+  "term": {
+   "uk": "job family",
+   "us": "job family"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌfæm(ə)li/",
+   "us": "/ˈdʒɑːb ˌfæm(ə)li/"
+  },
+  "def": "A group of jobs that involve similar work and require similar skills, at different levels of seniority.",
+  "registers": {
+   "formal": {
+    "uk": "job family",
+    "us": "job family",
+    "ex": "Each position is assigned to a [[job family]] and to a level within that family."
+   },
+   "everyday": {
+    "uk": "job family",
+    "us": "job family",
+    "ex": "Moving from one [[job family]] to another is possible, but nobody explains how."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to belong to a job family",
+   "to move between job families",
+   "a job family framework",
+   "a career level"
+  ],
+  "note_fr": "« Métier » n'a pas d'équivalent unique : « job », « occupation », « profession », « trade » (métier manuel) ou « function » selon le cas. « Filière » se rend par « job family », « track » ou « stream ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-065",
+  "level": 2,
+  "fr": "mobilité horizontale",
+  "term": {
+   "uk": "lateral move",
+   "us": "lateral move"
+  },
+  "ipa": {
+   "uk": "/ˌlætərəl ˈmuːv/",
+   "us": "/ˌlætərəl ˈmuːv/"
+  },
+  "def": "A change to a different job at the same level of seniority and pay, usually to gain new experience.",
+  "registers": {
+   "formal": {
+    "uk": "lateral transfer",
+    "us": "lateral transfer",
+    "ex": "A [[lateral transfer]] does not in itself give rise to any change in grade or remuneration."
+   },
+   "everyday": {
+    "uk": "sideways move",
+    "us": "lateral move",
+    "ex": "It's a [[sideways move]], but it gets her the operational experience she's missing.",
+    "ex_us": "It's a [[lateral move]], but it gets her the operational experience she's missing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a lateral move",
+   "to move sideways",
+   "to broaden one's experience",
+   "a cross-functional move"
+  ],
+  "note_fr": "« Horizontal mobility » appartient au vocabulaire des sociologues. « Sideways move » peut être légèrement péjoratif (mise sur une voie de garage) : insistez sur l'intérêt du poste si vous l'employez.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-066",
+  "level": 2,
+  "fr": "ne pas obtenir une promotion attendue",
+  "term": {
+   "uk": "to be passed over for promotion",
+   "us": "to be passed over for promotion"
+  },
+  "ipa": {
+   "uk": "/bi ˌpɑːst ˈəʊvə fə prəˈməʊʃ(ə)n/",
+   "us": "/bi ˌpæst ˈoʊvər fər prəˈmoʊʃ(ə)n/"
+  },
+  "def": "Not to be given a promotion that one expected or deserved, when someone else is chosen instead.",
+  "registers": {
+   "formal": {
+    "uk": "to be unsuccessful in one's application for promotion",
+    "us": "to be unsuccessful in one's application for promotion",
+    "ex": "Employees who [[are unsuccessful in their application for promotion]] are entitled to feedback on request."
+   },
+   "everyday": {
+    "uk": "to be passed over for promotion",
+    "us": "to be passed over for promotion",
+    "ex": "He's been [[passed over for promotion]] twice and he's starting to look elsewhere."
+   },
+   "informal": {
+    "uk": "to miss out",
+    "us": "to miss out",
+    "ex": "She [[missed out]] to an external candidate."
+   }
+  },
+  "collocations": [
+   "to be overlooked for a role",
+   "to miss out on a promotion",
+   "an unsuccessful candidate",
+   "to be turned down"
+  ],
+  "note_fr": "L'expression suggère une injustice ressentie : n'écrivez pas « passed over » dans un document officiel, où « unsuccessful » est le terme neutre. « To miss out on » = passer à côté de.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-067",
+  "level": 2,
+  "fr": "parcours accéléré",
+  "term": {
+   "uk": "fast track",
+   "us": "fast track"
+  },
+  "ipa": {
+   "uk": "/ˈfɑːst træk/",
+   "us": "/ˈfæst træk/"
+  },
+  "def": "A route by which selected employees are promoted more quickly than usual.",
+  "registers": {
+   "formal": {
+    "uk": "accelerated development programme",
+    "us": "accelerated development program",
+    "ex": "Graduates selected for the [[accelerated development programme]] rotate through three functions in two years.",
+    "ex_us": "Graduates selected for the [[accelerated development program]] rotate through three functions in two years."
+   },
+   "everyday": {
+    "uk": "to fast-track",
+    "us": "to fast-track",
+    "ex": "They've [[fast-tracked]] her into a regional role."
+   },
+   "informal": {
+    "uk": "on the fast track",
+    "us": "on the fast track",
+    "ex": "He's very much [[on the fast track]]."
+   }
+  },
+  "collocations": [
+   "to be fast-tracked into management",
+   "a fast-track scheme",
+   "to rotate through functions",
+   "a graduate programme"
+  ],
+  "note_fr": "Nom en deux mots (« the fast track »), verbe et adjectif avec trait d'union (« to fast-track », « a fast-track scheme »). « Scheme » est neutre en anglais britannique (dispositif) mais péjoratif en américain (combine) : dites « program » aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-068",
+  "level": 2,
+  "fr": "observation en situation de travail (« vis ma vie »)",
+  "term": {
+   "uk": "job shadowing",
+   "us": "job shadowing"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌʃædəʊɪŋ/",
+   "us": "/ˈdʒɑːb ˌʃædoʊɪŋ/"
+  },
+  "def": "Spending time following a colleague at work in order to learn what the job involves.",
+  "registers": {
+   "formal": {
+    "uk": "job shadowing",
+    "us": "job shadowing",
+    "ex": "The induction includes two days of [[job shadowing]] in the customer service team.",
+    "ex_us": "The orientation includes two days of [[job shadowing]] on the customer service team."
+   },
+   "everyday": {
+    "uk": "to shadow",
+    "us": "to shadow",
+    "ex": "Why don't you [[shadow]] Priya for a week and see whether the role appeals?"
+   },
+   "informal": {
+    "uk": "to sit in with",
+    "us": "to sit in with",
+    "ex": "I [[sat in with]] the payroll team for a day."
+   }
+  },
+  "collocations": [
+   "to shadow a colleague",
+   "a shadowing day",
+   "to sit in on a meeting",
+   "to see the job at first hand"
+  ],
+  "note_fr": "« To shadow » est transitif : « to shadow someone ». « To sit in on a meeting » = assister à une réunion en observateur. « In the team » (UK) devient « on the team » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-069",
+  "level": 2,
+  "fr": "développement du leadership",
+  "term": {
+   "uk": "leadership development",
+   "us": "leadership development"
+  },
+  "ipa": {
+   "uk": "/ˈliːdəʃɪp dɪˌveləpmənt/",
+   "us": "/ˈliːdərʃɪp dɪˌveləpmənt/"
+  },
+  "def": "Training and experience designed to prepare people to lead teams and organisations.",
+  "registers": {
+   "formal": {
+    "uk": "leadership development programme",
+    "us": "leadership development program",
+    "ex": "Participation in the [[leadership development programme]] is by nomination only.",
+    "ex_us": "Participation in the [[leadership development program]] is by nomination only."
+   },
+   "everyday": {
+    "uk": "leadership programme",
+    "us": "leadership program",
+    "ex": "She's been put on the [[leadership programme]] this year.",
+    "ex_us": "She's been put in the [[leadership program]] this year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to nominate someone for a programme",
+   "a first-line manager",
+   "senior leadership",
+   "to develop future leaders"
+  ],
+  "note_fr": "« Leadership » désigne aussi, collectivement, l'équipe dirigeante : « senior leadership has approved it ». « Cadres dirigeants » se rend par « senior leaders » ou « senior executives » ; « cadre » au sens français n'a pas d'équivalent et ne se traduit pas par « executive » pour un cadre ordinaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-070",
+  "level": 2,
+  "fr": "souhaits d'évolution",
+  "term": {
+   "uk": "career aspirations",
+   "us": "career aspirations"
+  },
+  "ipa": {
+   "uk": "/kəˈrɪər ˌæspəˈreɪʃ(ə)nz/",
+   "us": "/kəˈrɪr ˌæspəˈreɪʃ(ə)nz/"
+  },
+  "def": "What an employee hopes to do or become in his or her working life.",
+  "registers": {
+   "formal": {
+    "uk": "career aspirations",
+    "us": "career aspirations",
+    "ex": "The interview provides an opportunity for the employee to set out his or her [[career aspirations]]."
+   },
+   "everyday": {
+    "uk": "where one wants to go",
+    "us": "where one wants to go",
+    "ex": "Tell me a bit about [[where you want to go]] over the next few years."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to discuss one's career aspirations",
+   "to see oneself in a role",
+   "to be keen to move into management",
+   "to manage expectations"
+  ],
+  "note_fr": "« Wishes of evolution » est un calque. Question naturelle en entretien : « Where do you see yourself in three years' time? ». « To manage expectations » = éviter de laisser espérer ce qu'on ne pourra pas offrir.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-071",
+  "level": 2,
+  "fr": "entretien de départ",
+  "term": {
+   "uk": "exit interview",
+   "us": "exit interview"
+  },
+  "ipa": {
+   "uk": "/ˈeksɪt ˌɪntəvjuː/",
+   "us": "/ˈeksɪt ˌɪntərvjuː/"
+  },
+  "def": "A conversation with an employee who is leaving, held to understand the reasons for the departure and improve retention.",
+  "registers": {
+   "formal": {
+    "uk": "exit interview",
+    "us": "exit interview",
+    "ex": "All employees who resign shall be offered an [[exit interview]] with a member of the HR department."
+   },
+   "everyday": {
+    "uk": "exit interview",
+    "us": "exit interview",
+    "ex": "Her [[exit interview]] was eye-opening; it wasn't about pay at all."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to conduct an exit interview",
+   "the reasons for leaving",
+   "a leaver",
+   "a stay interview"
+  ],
+  "note_fr": "Rien de légal ni d'obligatoire : c'est un outil de fidélisation, à ne pas confondre avec l'entretien préalable à un licenciement. « A leaver » (UK) = un salarié sur le départ. Le « stay interview » est son pendant préventif : on demande aux salariés en poste ce qui les ferait rester.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-072",
+  "level": 2,
+  "fr": "expérience collaborateur",
+  "term": {
+   "uk": "employee experience",
+   "us": "employee experience"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː ɪkˈspɪəriəns/",
+   "us": "/ɪmˌplɔɪiː ɪkˈspɪriəns/"
+  },
+  "def": "Everything an employee encounters and feels in dealing with the organisation, from the first day to the last.",
+  "registers": {
+   "formal": {
+    "uk": "employee experience",
+    "us": "employee experience",
+    "ex": "The strategy places [[employee experience]] on the same footing as customer experience."
+   },
+   "everyday": {
+    "uk": "what it's like to work here",
+    "us": "what it's like to work here",
+    "ex": "The survey is really about [[what it's like to work here]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to improve the employee experience",
+   "the employee journey",
+   "a moment that matters",
+   "head of employee experience"
+  ],
+  "note_fr": "Ne dites pas « collaborator experience ». Rappel : « experience » signifie à la fois vécu et ancienneté professionnelle, mais jamais expérience scientifique (« experiment »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-073",
+  "level": 2,
+  "fr": "reconnaissance",
+  "term": {
+   "uk": "recognition",
+   "us": "recognition"
+  },
+  "ipa": {
+   "uk": "/ˌrekəɡˈnɪʃ(ə)n/",
+   "us": "/ˌrekəɡˈnɪʃ(ə)n/"
+  },
+  "def": "Showing employees, by words or rewards, that their work and achievements are noticed and valued.",
+  "registers": {
+   "formal": {
+    "uk": "recognition",
+    "us": "recognition",
+    "ex": "The scheme provides for the [[recognition]] of exceptional contributions outside the annual review cycle.",
+    "ex_us": "The program provides for the [[recognition]] of exceptional contributions outside the annual review cycle."
+   },
+   "everyday": {
+    "uk": "to give someone credit",
+    "us": "to give someone credit",
+    "ex": "You should [[give her credit]] for that in front of the team."
+   },
+   "informal": {
+    "uk": "a pat on the back",
+    "us": "a pat on the back",
+    "ex": "Everyone likes [[a pat on the back]] now and then."
+   }
+  },
+  "collocations": [
+   "to recognise someone's contribution",
+   "to feel valued",
+   "to take the credit for something",
+   "a recognition scheme"
+  ],
+  "note_fr": "« Reconnaissant » se dit « grateful », pas « recognising ». « To acknowledge » convient pour saluer un effort : « I'd like to acknowledge the work the team has done ». « To feel valued » rend bien « se sentir reconnu ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-074",
+  "level": 2,
+  "fr": "baromètre flash / enquête courte",
+  "term": {
+   "uk": "pulse survey",
+   "us": "pulse survey"
+  },
+  "ipa": {
+   "uk": "/ˈpʌls ˌsɜːveɪ/",
+   "us": "/ˈpʌls ˌsɜːrveɪ/"
+  },
+  "def": "A very short survey sent frequently to employees to track how their mood or opinion is changing.",
+  "registers": {
+   "formal": {
+    "uk": "pulse survey",
+    "us": "pulse survey",
+    "ex": "A quarterly [[pulse survey]] supplements the annual engagement survey."
+   },
+   "everyday": {
+    "uk": "pulse survey",
+    "us": "pulse survey",
+    "ex": "We ran a [[pulse survey]] after the announcement and the mood was better than we feared."
+   },
+   "informal": {
+    "uk": "temperature check",
+    "us": "temperature check",
+    "ex": "Let's do a quick [[temperature check]] with the team."
+   }
+  },
+  "collocations": [
+   "to take the pulse of the organisation",
+   "to run a pulse survey",
+   "survey fatigue",
+   "to track a trend"
+  ],
+  "note_fr": "L'image est médicale : « to take the pulse of » = prendre le pouls. « Barometer » existe mais s'emploie peu pour une enquête interne. « Survey fatigue » = lassitude face aux sondages à répétition.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-075",
+  "level": 2,
+  "fr": "assurer l'intérim d'un poste supérieur (faisant fonction)",
+  "term": {
+   "uk": "to act up",
+   "us": "to serve in an acting capacity"
+  },
+  "ipa": {
+   "uk": "/ækt ˈʌp/",
+   "us": "/sɜːrv ɪn ən ˌæktɪŋ kəˈpæsəti/"
+  },
+  "def": "To do a more senior job temporarily, for example while the usual holder is absent or the post is vacant.",
+  "registers": {
+   "formal": {
+    "uk": "to be appointed on an acting basis",
+    "us": "to be appointed on an acting basis",
+    "ex": "Ms Ahmed is [[appointed on an acting basis]] to the post of Finance Director pending recruitment.",
+    "ex_us": "Ms. Ahmed is [[appointed on an acting basis]] to the position of Finance Director pending recruitment."
+   },
+   "everyday": {
+    "uk": "to act up",
+    "us": "to fill in as interim",
+    "ex": "He's been [[acting up]] as head of department since March.",
+    "ex_us": "He's been [[filling in as interim]] head of department since March."
+   },
+   "informal": {
+    "uk": "to hold the fort",
+    "us": "to hold down the fort",
+    "ex": "She's [[holding the fort]] until the new director arrives.",
+    "ex_us": "She's [[holding down the fort]] until the new director arrives."
+   }
+  },
+  "collocations": [
+   "an acting manager",
+   "an interim head of department",
+   "to step up into a role",
+   "an acting-up allowance"
+  ],
+  "note_fr": "Attention : « to act up » au sens d'assurer un intérim est strictement britannique ; partout ailleurs, et aussi au Royaume-Uni, il signifie se tenir mal ou tomber en panne. Avec un Américain, dites « acting manager » ou « interim manager ». « Interim » ne veut jamais dire travail temporaire (« agency work »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-076",
+  "level": 3,
+  "fr": "gestion des emplois et des parcours professionnels (GEPP)",
+  "term": {
+   "uk": "workforce and skills planning",
+   "us": "workforce and skills planning"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkfɔːs ən ˈskɪlz ˌplænɪŋ/",
+   "us": "/ˈwɜːrkfɔːrs ən ˈskɪlz ˌplænɪŋ/"
+  },
+  "def": "Forward planning of the jobs and skills an organisation will need, and of the measures (training, mobility, recruitment) required to get there.",
+  "registers": {
+   "formal": {
+    "uk": "forward planning of jobs and career paths (GEPP)",
+    "us": "forward planning of jobs and career paths (GEPP)",
+    "ex": "Management and the representative unions shall open negotiations on the [[forward planning of jobs and career paths (GEPP)]]."
+   },
+   "everyday": {
+    "uk": "strategic workforce planning",
+    "us": "strategic workforce planning",
+    "ex": "What the French call GEPP is essentially [[strategic workforce planning]], except that you have to negotiate it with the unions."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to negotiate a GEPP agreement",
+   "to anticipate changes in jobs",
+   "jobs at risk and emerging jobs",
+   "to forecast skills needs"
+  ],
+  "note_fr": "Le sigle (anciennement GPEC) n'est connu qu'en France. L'outil de gestion équivalent s'appelle « strategic workforce planning » ; la différence est juridique : en France, les entreprises d'une certaine taille doivent négocier périodiquement sur ce thème avec les organisations syndicales, ce qui n'existe ni au Royaume-Uni ni aux États-Unis.",
+  "french_concept": true,
+  "explain": {
+   "written": "GEPP (gestion des emplois et des parcours professionnels) is the forward planning of jobs, skills and career paths, a subject on which larger French companies are required to negotiate periodically with their trade unions.",
+   "spoken": "GEPP is the French version of strategic workforce planning. The twist is that, above a certain size, you have to sit down with the unions and negotiate it."
+  }
+ },
+ {
+  "id": "cr-077",
+  "level": 3,
+  "fr": "état des lieux récapitulatif du parcours professionnel",
+  "term": {
+   "uk": "periodic career review",
+   "us": "periodic career review"
+  },
+  "ipa": {
+   "uk": "/ˌpɪəriˌɒdɪk kəˈrɪə rɪˌvjuː/",
+   "us": "/ˌpɪriˌɑːdɪk kəˈrɪr rɪˌvjuː/"
+  },
+  "def": "In France, a written review, carried out at longer intervals fixed by law, checking that the employee has had the required career interviews and at least some training or progression.",
+  "registers": {
+   "formal": {
+    "uk": "periodic review of the employee's career path",
+    "us": "periodic review of the employee's career path",
+    "ex": "The [[periodic review of the employee's career path]] shall be recorded in a document, a copy of which is given to the employee."
+   },
+   "everyday": {
+    "uk": "stocktake",
+    "us": "career review",
+    "ex": "The [[stocktake]] is where you check that the interviews actually happened and that the person has had some training.",
+    "ex_us": "The [[career review]] is where you check that the interviews actually happened and that the person has had some training."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out the periodic review",
+   "to verify that the interviews have been held",
+   "non-compulsory training",
+   "to hand a copy to the employee"
+  ],
+  "note_fr": "Notion sans équivalent étranger. L'enjeu à expliquer : dans les entreprises d'une certaine taille, l'employeur qui ne peut pas justifier des entretiens et d'une formation non obligatoire s'expose à devoir abonder le CPF du salarié. La périodicité a été modifiée par le législateur : vérifiez-la avant de citer un chiffre.",
+  "french_concept": true,
+  "explain": {
+   "written": "The état des lieux récapitulatif is a written review which French law requires the employer to carry out at set intervals in order to verify that the employee has received the statutory career development interviews and has had access to training or progression.",
+   "spoken": "Every so many years there's a formal stocktake: you check, in writing, that the person has had their career interviews and at least some real training. If not, it can cost the company money."
+  }
+ },
+ {
+  "id": "cr-078",
+  "level": 3,
+  "fr": "conseil en évolution professionnelle (CEP)",
+  "term": {
+   "uk": "career guidance service",
+   "us": "career guidance service"
+  },
+  "ipa": {
+   "uk": "/kəˈrɪə ˌɡaɪd(ə)ns ˌsɜːvɪs/",
+   "us": "/kəˈrɪr ˌɡaɪd(ə)ns ˌsɜːrvɪs/"
+  },
+  "def": "A free and confidential advice service, provided in France by approved outside bodies, that helps any working person think through and plan a career move.",
+  "registers": {
+   "formal": {
+    "uk": "career guidance service (CEP)",
+    "us": "career guidance service (CEP)",
+    "ex": "Employees shall be informed, at each career development interview, of their right to use the [[career guidance service (CEP)]]."
+   },
+   "everyday": {
+    "uk": "free career advice",
+    "us": "free career counseling",
+    "ex": "Before you do anything drastic, go and get some [[free career advice]]; it's confidential and it costs you nothing.",
+    "ex_us": "Before you do anything drastic, go get some [[free career counseling]]; it's confidential and it costs you nothing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to seek career guidance",
+   "a career adviser",
+   "free and confidential advice",
+   "to inform employees of their rights"
+  ],
+  "note_fr": "Dispositif public français sans équivalent exact : au Royaume-Uni, on penserait au « National Careers Service » ; aux États-Unis, à un « career counselor ». Orthographe : « adviser » ou « advisor », « counselling » (UK), « counseling » (US).",
+  "french_concept": true,
+  "explain": {
+   "written": "The conseil en évolution professionnelle (CEP) is a free, confidential career guidance service, delivered by approved external bodies, which any working person in France may use to plan a career move or a training project.",
+   "spoken": "It's free, confidential career advice from an outside body. Any employee can use it, and the employer doesn't have to know."
+  }
+ },
+ {
+  "id": "cr-079",
+  "level": 3,
+  "fr": "projet de transition professionnelle (PTP)",
+  "term": {
+   "uk": "career transition leave",
+   "us": "career transition leave"
+  },
+  "ipa": {
+   "uk": "/kəˈrɪə trænˈzɪʃ(ə)n liːv/",
+   "us": "/kəˈrɪr trænˈzɪʃ(ə)n liːv/"
+  },
+  "def": "A French scheme allowing an employee to take leave, with pay maintained in whole or in part, to follow a course leading to a qualification for a different occupation.",
+  "registers": {
+   "formal": {
+    "uk": "career transition leave (projet de transition professionnelle)",
+    "us": "career transition leave (projet de transition professionnelle)",
+    "ex": "An employee who meets the length-of-service conditions may apply for [[career transition leave (projet de transition professionnelle)]]."
+   },
+   "everyday": {
+    "uk": "funded retraining leave",
+    "us": "funded retraining leave",
+    "ex": "She's applied for [[funded retraining leave]] to become a nurse, so we'll need cover for about a year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for career transition leave",
+   "to retrain for a new occupation",
+   "the funding body",
+   "to return to one's post after the course"
+  ],
+  "note_fr": "Ce dispositif a remplacé le congé individuel de formation (CIF). Rien de comparable n'existe en droit britannique ou américain ; « sabbatical » ne convient pas, car il n'implique ni formation ni financement. Le contrat est suspendu, non rompu : le salarié retrouve son poste ou un poste équivalent.",
+  "french_concept": true,
+  "explain": {
+   "written": "The projet de transition professionnelle is a scheme under French law which enables an employee to take leave in order to follow a qualifying course with a view to changing occupation, the contract being suspended and remuneration maintained in whole or in part by a dedicated funding body.",
+   "spoken": "It's a retraining leave. The employee goes off to train for a completely different job, a funding body covers most of the pay, and the contract is just suspended in the meantime."
+  }
+ },
+ {
+  "id": "cr-080",
+  "level": 3,
+  "fr": "opérateur de compétences (OPCO)",
+  "term": {
+   "uk": "skills operator",
+   "us": "skills operator"
+  },
+  "ipa": {
+   "uk": "/ˈskɪlz ˌɒpəreɪtə/",
+   "us": "/ˈskɪlz ˌɑːpəreɪtər/"
+  },
+  "def": "One of the sector-based bodies, approved by the French State and run jointly by unions and employers, that fund work-study training and support smaller companies' training.",
+  "registers": {
+   "formal": {
+    "uk": "sector skills operator (OPCO)",
+    "us": "sector skills operator (OPCO)",
+    "ex": "An application for funding shall be submitted to the relevant [[sector skills operator (OPCO)]] before the course begins."
+   },
+   "everyday": {
+    "uk": "sector training fund",
+    "us": "sector training fund",
+    "ex": "Our [[sector training fund]] will pay for the apprentice's course, so the cost to us is mostly her salary."
+   },
+   "informal": {
+    "uk": "OPCO",
+    "us": "OPCO",
+    "ex": "Have we heard back from the [[OPCO]]?"
+   }
+  },
+  "collocations": [
+   "to apply to the OPCO for funding",
+   "a jointly managed body",
+   "to fund an apprenticeship",
+   "to support small businesses"
+  ],
+  "note_fr": "Aucun équivalent direct. Pour un Britannique, rapprochez-le des anciens « sector skills councils » en précisant le rôle de financeur ; pour un Américain, expliquez simplement « an industry training fund run jointly by unions and employers ». « Operator » seul évoque un standardiste ou un conducteur de machine : gardez le sigle et glosez.",
+  "french_concept": true,
+  "explain": {
+   "written": "An OPCO (opérateur de compétences) is one of the sector-based bodies, approved by the State and jointly managed by employers' organisations and trade unions, which finance work-study contracts and assist smaller companies with their training needs.",
+   "spoken": "Each industry in France has a training fund run jointly by unions and employers. It pays for apprenticeships and helps smaller firms with training."
+  }
+ },
+ {
+  "id": "cr-081",
+  "level": 3,
+  "fr": "abondement (du CPF)",
+  "term": {
+   "uk": "top-up",
+   "us": "additional contribution"
+  },
+  "ipa": {
+   "uk": "/ˈtɒp ʌp/",
+   "us": "/əˌdɪʃ(ə)n(ə)l ˌkɑːntrɪˈbjuːʃ(ə)n/"
+  },
+  "def": "An extra amount paid into an employee's personal training account, by the employer or another funder, on top of the normal yearly credit.",
+  "registers": {
+   "formal": {
+    "uk": "additional contribution",
+    "us": "additional contribution",
+    "ex": "The Company shall make an [[additional contribution]] to the personal training account of any employee who undertakes a course on the approved list."
+   },
+   "everyday": {
+    "uk": "to top up",
+    "us": "to add to",
+    "ex": "We've agreed to [[top up]] her training account so that she can do the full course.",
+    "ex_us": "We've agreed to [[add to]] her training account so that she can do the full course."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to top up an account",
+   "an employer top-up",
+   "a corrective top-up",
+   "to co-fund a course"
+  ],
+  "note_fr": "« Abundance » n'a aucun rapport. « Top-up » est britannique ; un Américain comprendra mieux « additional contribution » ou « employer match » (par analogie avec l'épargne retraite). L'abondement peut être volontaire, prévu par accord, ou imposé à titre de sanction (« corrective top-up ») lorsque l'employeur a manqué à ses obligations en matière d'entretiens.",
+  "french_concept": true,
+  "explain": {
+   "written": "An abondement is an additional sum credited to an employee's personal training account (CPF) by the employer or another funder, whether voluntarily, under a collective agreement or as a penalty for failing to meet statutory obligations.",
+   "spoken": "It's a top-up to the employee's training account. The company can do it voluntarily to co-fund a course - and in some cases it has to, as a penalty."
+  }
+ },
+ {
+  "id": "cr-082",
+  "level": 3,
+  "fr": "employabilité / obligation d'adaptation",
+  "term": {
+   "uk": "employability",
+   "us": "employability"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪəˈbɪləti/",
+   "us": "/ɪmˌplɔɪəˈbɪləti/"
+  },
+  "def": "A person's capacity to keep a job or find another; in France, the employer has a legal duty to help employees remain able to hold one.",
+  "registers": {
+   "formal": {
+    "uk": "duty to maintain employees' employability",
+    "us": "duty to maintain employees' employability",
+    "ex": "The employer is under a [[duty to maintain employees' employability]], in particular in the light of changes in jobs, technology and organisation."
+   },
+   "everyday": {
+    "uk": "to keep people's skills up to date",
+    "us": "to keep people's skills up to date",
+    "ex": "In France you have a legal duty to [[keep people's skills up to date]], whether or not they ask for training."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to remain employable",
+   "to adapt employees to their jobs",
+   "to be in breach of the duty to train",
+   "to keep pace with changes in the job"
+  ],
+  "note_fr": "Différence juridique majeure : l'employeur français doit assurer l'adaptation des salariés à leur poste et veiller au maintien de leur capacité à occuper un emploi ; un salarié resté des années sans formation peut obtenir réparation. Il n'existe pas d'obligation générale comparable en droit britannique ou américain.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law the employer must ensure that employees are adapted to their jobs and must see to it that they remain capable of holding a job, having regard in particular to changes in jobs, technology and organisation.",
+   "spoken": "In France the employer has a legal duty to keep people's skills current. If someone goes years without any training, the company can be held liable."
+  }
+ },
+ {
+  "id": "cr-083",
+  "level": 3,
+  "fr": "calibration (harmonisation des évaluations)",
+  "term": {
+   "uk": "calibration",
+   "us": "calibration"
+  },
+  "ipa": {
+   "uk": "/ˌkælɪˈbreɪʃ(ə)n/",
+   "us": "/ˌkælɪˈbreɪʃ(ə)n/"
+  },
+  "def": "The process in which managers compare and adjust the ratings they propose so that standards are applied consistently across teams.",
+  "registers": {
+   "formal": {
+    "uk": "calibration",
+    "us": "calibration",
+    "ex": "Proposed ratings are subject to [[calibration]] by a panel of managers before they are communicated to employees."
+   },
+   "everyday": {
+    "uk": "calibration meeting",
+    "us": "calibration session",
+    "ex": "My rating for her didn't survive the [[calibration meeting]], and now I have to explain why.",
+    "ex_us": "My rating for her didn't survive the [[calibration session]], and now I have to explain why."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to calibrate ratings",
+   "to move a rating up or down",
+   "to apply consistent standards",
+   "to make the case for someone"
+  ],
+  "note_fr": "Le mot est le même, mais la pratique doit être expliquée avec soin en France : le salarié doit avoir été informé des méthodes d'évaluation, et les critères doivent être objectifs et pertinents. « To make the case for someone » = défendre le dossier de quelqu'un.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-084",
+  "level": 3,
+  "fr": "distribution forcée (quotas de notation)",
+  "term": {
+   "uk": "forced distribution",
+   "us": "forced distribution"
+  },
+  "ipa": {
+   "uk": "/ˌfɔːst ˌdɪstrɪˈbjuːʃ(ə)n/",
+   "us": "/ˌfɔːrst ˌdɪstrɪˈbjuːʃ(ə)n/"
+  },
+  "def": "A system that requires managers to place fixed percentages of employees in each rating category.",
+  "registers": {
+   "formal": {
+    "uk": "forced distribution",
+    "us": "forced distribution",
+    "ex": "The Company does not apply a [[forced distribution]] of ratings; the indicative ranges are for guidance only."
+   },
+   "everyday": {
+    "uk": "forced ranking",
+    "us": "forced ranking",
+    "ex": "Head office wants [[forced ranking]], and I've told them it would be very risky in France."
+   },
+   "informal": {
+    "uk": "rank and yank",
+    "us": "stack ranking",
+    "ex": "It's basically [[rank and yank]].",
+    "ex_us": "It's basically [[stack ranking]]."
+   }
+  },
+  "collocations": [
+   "a guided distribution",
+   "an indicative range",
+   "to rank employees against each other",
+   "the bottom ten per cent"
+  ],
+  "note_fr": "Pratique d'origine américaine. En France, les juges admettent des fourchettes indicatives mais condamnent les quotas imposés, qui conduisent à noter selon d'autres critères que les qualités professionnelles. « Rank and yank » est un terme familier et critique, à ne jamais écrire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-085",
+  "level": 3,
+  "fr": "biais d'évaluation",
+  "term": {
+   "uk": "rater bias",
+   "us": "rater bias"
+  },
+  "ipa": {
+   "uk": "/ˈreɪtə ˌbaɪəs/",
+   "us": "/ˈreɪtər ˌbaɪəs/"
+  },
+  "def": "A systematic error of judgement made by the person rating performance, such as giving too much weight to recent events.",
+  "registers": {
+   "formal": {
+    "uk": "rater bias",
+    "us": "rater bias",
+    "ex": "Appraisers receive training designed to reduce [[rater bias]], including recency and leniency effects."
+   },
+   "everyday": {
+    "uk": "bias",
+    "us": "bias",
+    "ex": "There's a lot of [[bias]] in the ratings; whoever shouts loudest gets the best score."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "recency bias",
+   "the halo effect",
+   "unconscious bias",
+   "to be biased towards someone"
+  ],
+  "note_fr": "« Bias » se prononce /ˈbaɪəs/ ; l'adjectif est « biased ». On est « biased towards » (UK) ou « toward » (US) ce qu'on favorise et « biased against » ce qu'on défavorise. « Recency bias » = surpondération des événements récents ; « leniency » = indulgence.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-086",
+  "level": 3,
+  "fr": "évaluation à 360 degrés",
+  "term": {
+   "uk": "360-degree feedback",
+   "us": "360-degree feedback"
+  },
+  "ipa": {
+   "uk": "/ˌθriː ˌsɪksti dɪˌɡriː ˈfiːdbæk/",
+   "us": "/ˌθriː ˌsɪksti dɪˌɡriː ˈfiːdbæk/"
+  },
+  "def": "Feedback on a person collected, usually anonymously, from his or her manager, peers, direct reports and sometimes clients.",
+  "registers": {
+   "formal": {
+    "uk": "multi-source feedback",
+    "us": "multi-rater feedback",
+    "ex": "[[Multi-source feedback]] is used for development purposes only and has no bearing on remuneration.",
+    "ex_us": "[[Multi-rater feedback]] is used for development purposes only and has no bearing on compensation."
+   },
+   "everyday": {
+    "uk": "360-degree feedback",
+    "us": "360-degree feedback",
+    "ex": "We use [[360-degree feedback]] for everyone at director level and above."
+   },
+   "informal": {
+    "uk": "360",
+    "us": "360",
+    "ex": "I've got my [[360]] debrief on Monday and I'm dreading it."
+   }
+  },
+  "collocations": [
+   "to collect feedback from peers",
+   "a 360 report",
+   "a debrief with a coach",
+   "anonymous feedback"
+  ],
+  "note_fr": "Se dit « three-sixty ». « Peers » = collègues de même niveau. En France, comme tout dispositif d'évaluation, le 360 suppose l'information préalable des salariés et la consultation du CSE ; l'anonymat des répondants doit être concilié avec le droit d'accès du salarié à ses données.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-087",
+  "level": 3,
+  "fr": "revue des talents (people review)",
+  "term": {
+   "uk": "talent review",
+   "us": "talent review"
+  },
+  "ipa": {
+   "uk": "/ˈtælənt rɪˌvjuː/",
+   "us": "/ˈtælənt rɪˌvjuː/"
+  },
+  "def": "A meeting in which senior managers and HR discuss the performance and potential of employees and decide on development and succession.",
+  "registers": {
+   "formal": {
+    "uk": "talent review",
+    "us": "talent review",
+    "ex": "The outcome of the [[talent review]] is confidential and is not, as such, communicated to the individuals concerned."
+   },
+   "everyday": {
+    "uk": "talent review",
+    "us": "talent review",
+    "ex": "Her name came up three times in the [[talent review]], which tells you something."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold a talent review",
+   "to discuss someone's potential",
+   "to agree development actions",
+   "a review committee"
+  ],
+  "note_fr": "« People review » est compris des anglophones, mais ce sont surtout les Français qui l'emploient ; le terme courant est « talent review ». Question sensible à anticiper : ce que l'on dit ou non au salarié de son classement, et son droit d'accès aux données qui le concernent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-088",
+  "level": 3,
+  "fr": "matrice à neuf cases (performance / potentiel)",
+  "term": {
+   "uk": "nine-box grid",
+   "us": "nine-box grid"
+  },
+  "ipa": {
+   "uk": "/ˌnaɪn bɒks ˈɡrɪd/",
+   "us": "/ˌnaɪn bɑːks ˈɡrɪd/"
+  },
+  "def": "A three-by-three table on which employees are placed according to their current performance and their potential.",
+  "registers": {
+   "formal": {
+    "uk": "performance and potential matrix",
+    "us": "performance and potential matrix",
+    "ex": "Each employee in scope is positioned on the [[performance and potential matrix]] by the review committee."
+   },
+   "everyday": {
+    "uk": "nine-box grid",
+    "us": "nine-box",
+    "ex": "On the [[nine-box grid]] he's high performance, medium potential, and that feels right.",
+    "ex_us": "On the [[nine-box]] he's high performance, medium potential, and that feels right."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to place someone on the grid",
+   "the top-right box",
+   "to plot performance against potential",
+   "a solid performer"
+  ],
+  "note_fr": "« To plot X against Y » = placer X en fonction de Y sur un graphique. « A solid performer » est un compliment mesuré : quelqu'un de fiable, sans potentiel exceptionnel. « Top right » = la case des futurs dirigeants.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-089",
+  "level": 3,
+  "fr": "décliner les objectifs (en cascade)",
+  "term": {
+   "uk": "to cascade objectives",
+   "us": "to cascade goals"
+  },
+  "ipa": {
+   "uk": "/kæˌskeɪd əbˈdʒektɪvz/",
+   "us": "/kæˌskeɪd ˈɡoʊlz/"
+  },
+  "def": "To translate the organisation's objectives into objectives for each division, team and individual in turn.",
+  "registers": {
+   "formal": {
+    "uk": "to cascade objectives",
+    "us": "to cascade goals",
+    "ex": "Corporate objectives are [[cascaded]] to business units in January and to individuals by the end of February."
+   },
+   "everyday": {
+    "uk": "to break down",
+    "us": "to break down",
+    "ex": "We need to [[break down]] the group target into something each team can actually own."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to cascade objectives down the organisation",
+   "to align individual and team objectives",
+   "to translate strategy into objectives",
+   "to own an objective"
+  ],
+  "note_fr": "« To decline objectives » voudrait dire les refuser : contresens garanti. Dites « to cascade », « to break down » ou « to translate into ». « To own an objective » = en assumer la responsabilité.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-090",
+  "level": 3,
+  "fr": "classification des emplois",
+  "term": {
+   "uk": "job grading",
+   "us": "job leveling"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌɡreɪdɪŋ/",
+   "us": "/ˈdʒɑːb ˌlev(ə)lɪŋ/"
+  },
+  "def": "The arrangement of jobs into levels according to their responsibility and difficulty, each level being linked to a pay range.",
+  "registers": {
+   "formal": {
+    "uk": "grading structure",
+    "us": "job classification system",
+    "ex": "Positions are allocated to a grade within the Company's [[grading structure]] on the basis of objective criteria.",
+    "ex_us": "Positions are allocated to a grade within the Company's [[job classification system]] on the basis of objective criteria."
+   },
+   "everyday": {
+    "uk": "grade",
+    "us": "level",
+    "ex": "She's moved up a [[grade]], so strictly speaking it is a promotion.",
+    "ex_us": "She's moved up a [[level]], so strictly speaking it is a promotion."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to move up a grade",
+   "to regrade a job",
+   "a grade boundary",
+   "to be at the top of one's grade"
+  ],
+  "note_fr": "« Classification » est rare dans l'usage britannique des RH, où l'on parle de « grading » ; les Américains disent « job leveling » ou « job classification ». En France, la classification découle de la convention collective : dites « the grading structure set by the collective agreement » et précisez que le coefficient détermine un salaire minimum.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-091",
+  "level": 3,
+  "fr": "pesée des postes",
+  "term": {
+   "uk": "job evaluation",
+   "us": "job evaluation"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ɪˌvæljuˈeɪʃ(ə)n/",
+   "us": "/ˈdʒɑːb ɪˌvæljuˈeɪʃ(ə)n/"
+  },
+  "def": "A systematic method of comparing jobs, not the people who hold them, in order to decide their relative level.",
+  "registers": {
+   "formal": {
+    "uk": "job evaluation",
+    "us": "job evaluation",
+    "ex": "A [[job evaluation]] shall be carried out whenever the content of a position changes substantially."
+   },
+   "everyday": {
+    "uk": "to size a job",
+    "us": "to level a job",
+    "ex": "We need to [[size the job]] properly before we advertise it.",
+    "ex_us": "We need to [[level the job]] properly before we post it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to evaluate a role",
+   "a job evaluation method",
+   "to size a role",
+   "to benchmark a job against the market"
+  ],
+  "note_fr": "On évalue le poste, non son titulaire : la confusion avec « performance evaluation » est fréquente. « Job weighing » est un calque de « pesée ». Une pesée objective sert aussi à établir l'égalité de rémunération pour un travail de valeur égale (« work of equal value »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-092",
+  "level": 3,
+  "fr": "double filière (management / expertise)",
+  "term": {
+   "uk": "dual career ladder",
+   "us": "dual career ladder"
+  },
+  "ipa": {
+   "uk": "/ˌdjuːəl kəˈrɪə ˌlædə/",
+   "us": "/ˌduːəl kəˈrɪr ˌlædər/"
+  },
+  "def": "A structure that lets specialists progress in grade and pay without having to become managers.",
+  "registers": {
+   "formal": {
+    "uk": "dual career ladder",
+    "us": "dual career ladder",
+    "ex": "The [[dual career ladder]] enables technical experts to reach grades equivalent to those of senior managers."
+   },
+   "everyday": {
+    "uk": "specialist track",
+    "us": "individual contributor track",
+    "ex": "She doesn't want to manage people, so she's staying on the [[specialist track]].",
+    "ex_us": "She doesn't want to manage people, so she's staying on the [[individual contributor track]]."
+   },
+   "informal": {
+    "uk": "IC track",
+    "us": "IC track",
+    "ex": "He's happy on the [[IC track]]."
+   }
+  },
+  "collocations": [
+   "the management track",
+   "an individual contributor",
+   "to progress as a specialist",
+   "to climb the ladder"
+  ],
+  "note_fr": "« Individual contributor » (IC) désigne, surtout aux États-Unis, un salarié sans équipe à encadrer, quel que soit son niveau. « Filière » se rend ici par « track » ou « ladder » ; « to climb the career ladder » = gravir les échelons.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-093",
+  "level": 3,
+  "fr": "plafonnement de carrière",
+  "term": {
+   "uk": "career plateau",
+   "us": "career plateau"
+  },
+  "ipa": {
+   "uk": "/kəˈrɪə ˌplætəʊ/",
+   "us": "/kəˈrɪr plæˌtoʊ/"
+  },
+  "def": "A point in a career at which further promotion becomes unlikely.",
+  "registers": {
+   "formal": {
+    "uk": "career plateau",
+    "us": "career plateau",
+    "ex": "The policy pays particular attention to employees who have reached a [[career plateau]]."
+   },
+   "everyday": {
+    "uk": "to plateau",
+    "us": "to plateau",
+    "ex": "He [[plateaued]] about five years ago, and I think he knows it."
+   },
+   "informal": {
+    "uk": "stuck in a rut",
+    "us": "stuck in a rut",
+    "ex": "She feels [[stuck in a rut]]."
+   }
+  },
+  "collocations": [
+   "to reach a plateau",
+   "to hit a ceiling",
+   "to feel stuck",
+   "nowhere left to go"
+  ],
+  "note_fr": "« To plateau » est aussi un verbe. L'accent tonique tombe sur la première syllabe en anglais britannique, sur la seconde en américain. « To stagnate » existe mais porte un jugement plus dur ; « stuck in a rut » = enlisé dans la routine.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-094",
+  "level": 3,
+  "fr": "solidité de la relève",
+  "term": {
+   "uk": "bench strength",
+   "us": "bench strength"
+  },
+  "ipa": {
+   "uk": "/ˈbentʃ streŋθ/",
+   "us": "/ˈbentʃ streŋθ/"
+  },
+  "def": "The number and quality of people ready to step into key roles if they become vacant.",
+  "registers": {
+   "formal": {
+    "uk": "succession cover",
+    "us": "succession coverage",
+    "ex": "[[Succession cover]] for critical roles is reported to the board twice a year.",
+    "ex_us": "[[Succession coverage]] for critical roles is reported to the board twice a year."
+   },
+   "everyday": {
+    "uk": "bench strength",
+    "us": "bench strength",
+    "ex": "We've very little [[bench strength]] in finance; if she leaves, we're in trouble.",
+    "ex_us": "We have very little [[bench strength]] in finance; if she leaves, we're in trouble."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to build bench strength",
+   "a deep bench",
+   "a ready-now successor",
+   "to step into a role"
+  ],
+  "note_fr": "Métaphore sportive (le banc des remplaçants), d'origine américaine mais comprise partout. « Relève » ne se traduit pas par « relief » (soulagement, secours).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-095",
+  "level": 3,
+  "fr": "risque de départ",
+  "term": {
+   "uk": "flight risk",
+   "us": "flight risk"
+  },
+  "ipa": {
+   "uk": "/ˈflaɪt rɪsk/",
+   "us": "/ˈflaɪt rɪsk/"
+  },
+  "def": "An employee thought likely to leave the organisation soon, or the likelihood itself.",
+  "registers": {
+   "formal": {
+    "uk": "retention risk",
+    "us": "retention risk",
+    "ex": "The review identifies eleven employees in critical roles as a high [[retention risk]]."
+   },
+   "everyday": {
+    "uk": "flight risk",
+    "us": "flight risk",
+    "ex": "I'd say he's a [[flight risk]]; he's been approached twice this year."
+   },
+   "informal": {
+    "uk": "to have itchy feet",
+    "us": "to have itchy feet",
+    "ex": "She's [[got itchy feet]]."
+   }
+  },
+  "collocations": [
+   "to be at risk of leaving",
+   "to be approached by a headhunter",
+   "a retention bonus",
+   "to have one foot out of the door"
+  ],
+  "note_fr": "« Flight risk » vient du vocabulaire judiciaire (risque de fuite d'un prévenu) : à l'oral entre professionnels des RH, jamais devant l'intéressé ni par écrit. « To be approached » = être sollicité par un recruteur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-096",
+  "level": 3,
+  "fr": "poste clé",
+  "term": {
+   "uk": "critical role",
+   "us": "critical role"
+  },
+  "ipa": {
+   "uk": "/ˌkrɪtɪk(ə)l ˈrəʊl/",
+   "us": "/ˌkrɪtɪk(ə)l ˈroʊl/"
+  },
+  "def": "A job whose vacancy would seriously harm the business and which is therefore a priority for succession planning.",
+  "registers": {
+   "formal": {
+    "uk": "business-critical role",
+    "us": "business-critical role",
+    "ex": "A named successor shall be identified for each [[business-critical role]]."
+   },
+   "everyday": {
+    "uk": "key role",
+    "us": "key role",
+    "ex": "It's a [[key role]], and at the moment only one person can do it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to identify critical roles",
+   "a single point of failure",
+   "a key person",
+   "to be hard to replace"
+  ],
+  "note_fr": "« Critical » signifie ici essentiel, pas critique au sens de défavorable. « A single point of failure » se dit d'une personne dont tout dépend. Évitez « key post », vieilli ; « post » pour un emploi est surtout britannique et administratif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-097",
+  "level": 3,
+  "fr": "mission de développement (hors zone de confort)",
+  "term": {
+   "uk": "stretch assignment",
+   "us": "stretch assignment"
+  },
+  "ipa": {
+   "uk": "/ˈstretʃ əˌsaɪnmənt/",
+   "us": "/ˈstretʃ əˌsaɪnmənt/"
+  },
+  "def": "A project or task slightly beyond a person's current abilities, given in order to help him or her develop.",
+  "registers": {
+   "formal": {
+    "uk": "developmental assignment",
+    "us": "developmental assignment",
+    "ex": "High-potential employees are offered at least one [[developmental assignment]] outside their own function."
+   },
+   "everyday": {
+    "uk": "stretch assignment",
+    "us": "stretch assignment",
+    "ex": "Leading the integration would be a real [[stretch assignment]] for her, which is exactly the point."
+   },
+   "informal": {
+    "uk": "to throw someone in at the deep end",
+    "us": "to throw someone in at the deep end",
+    "ex": "They [[threw him in at the deep end]] and he coped brilliantly."
+   }
+  },
+  "collocations": [
+   "to take on a stretch assignment",
+   "to step outside one's comfort zone",
+   "to give someone exposure to senior management",
+   "to rise to the challenge"
+  ],
+  "note_fr": "« Mission » en anglais évoque la raison d'être d'une entreprise ou une mission diplomatique ; pour un travail confié, dites « assignment » ou « project ». « Exposure » est positif ici : visibilité auprès de la direction.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-098",
+  "level": 3,
+  "fr": "transfert des acquis de la formation",
+  "term": {
+   "uk": "learning transfer",
+   "us": "learning transfer"
+  },
+  "ipa": {
+   "uk": "/ˈlɜːnɪŋ ˌtrænsfɜː/",
+   "us": "/ˈlɜːrnɪŋ ˌtrænsfɜːr/"
+  },
+  "def": "The extent to which people actually apply at work what they learnt in training.",
+  "registers": {
+   "formal": {
+    "uk": "transfer of learning to the workplace",
+    "us": "transfer of learning to the workplace",
+    "ex": "Line managers play a decisive part in the [[transfer of learning to the workplace]].",
+    "ex_us": "Managers play a decisive part in the [[transfer of learning to the workplace]]."
+   },
+   "everyday": {
+    "uk": "to put into practice",
+    "us": "to put into practice",
+    "ex": "The course was fine; the problem is that nobody [[puts it into practice]] afterwards."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply what one has learnt",
+   "to embed learning",
+   "to follow up after a course",
+   "to make learning stick"
+  ],
+  "note_fr": "« Acquis » se rend par « what has been learnt » ou « learning » (indénombrable), pas par « acquisitions ». « To embed » = ancrer durablement ; « to make it stick » en est la version orale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-099",
+  "level": 3,
+  "fr": "évaluation de la formation (à chaud / à froid)",
+  "term": {
+   "uk": "post-training evaluation",
+   "us": "post-training evaluation"
+  },
+  "ipa": {
+   "uk": "/ˌpəʊst ˈtreɪnɪŋ ɪˌvæljuˈeɪʃ(ə)n/",
+   "us": "/ˌpoʊst ˈtreɪnɪŋ ɪˌvæljuˈeɪʃ(ə)n/"
+  },
+  "def": "The assessment of a course's quality and effects, immediately afterwards and again some months later.",
+  "registers": {
+   "formal": {
+    "uk": "post-training evaluation",
+    "us": "post-training evaluation",
+    "ex": "A [[post-training evaluation]] is carried out at the end of each session and repeated three months later."
+   },
+   "everyday": {
+    "uk": "feedback form",
+    "us": "course evaluation",
+    "ex": "Don't forget to fill in the [[feedback form]] before you leave.",
+    "ex_us": "Don't forget to fill out the [[course evaluation]] before you leave."
+   },
+   "informal": {
+    "uk": "happy sheet",
+    "us": "smile sheet",
+    "ex": "The [[happy sheets]] were glowing, but has anything actually changed?",
+    "ex_us": "The [[smile sheets]] were glowing, but has anything actually changed?"
+   }
+  },
+  "collocations": [
+   "an end-of-course evaluation",
+   "a follow-up evaluation",
+   "to measure the impact of training",
+   "return on investment"
+  ],
+  "note_fr": "« Hot » et « cold evaluation » ne sont pas idiomatiques : dites « immediate » ou « end-of-course evaluation » et « follow-up evaluation ». « Happy sheet » (UK) et « smile sheet » (US) sont des termes familiers et légèrement moqueurs pour le questionnaire de satisfaction.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "cr-100",
+  "level": 3,
+  "fr": "cartographie des compétences",
+  "term": {
+   "uk": "skills mapping",
+   "us": "skills mapping"
+  },
+  "ipa": {
+   "uk": "/ˈskɪlz ˌmæpɪŋ/",
+   "us": "/ˈskɪlz ˌmæpɪŋ/"
+  },
+  "def": "Recording systematically which skills exist in an organisation, who has them and at what level.",
+  "registers": {
+   "formal": {
+    "uk": "skills inventory",
+    "us": "skills inventory",
+    "ex": "The Company shall maintain an up-to-date [[skills inventory]] for each of its sites."
+   },
+   "everyday": {
+    "uk": "to map skills",
+    "us": "to map skills",
+    "ex": "Until we've [[mapped the skills]] we've got, we can't say what we're missing.",
+    "ex_us": "Until we've [[mapped the skills]] we have, we can't say what we're missing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a skills matrix",
+   "to map skills against future needs",
+   "to carry out a skills audit",
+   "a critical skill"
+  ],
+  "note_fr": "« Cartography » ne s'emploie que pour les cartes géographiques. Dites « skills mapping », « skills audit » ou « skills inventory » ; le tableau croisant personnes et compétences est une « skills matrix ».",
+  "french_concept": false,
+  "explain": null
+ }
+]

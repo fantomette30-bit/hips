@@ -1,0 +1,3793 @@
+[
+ {
+  "id": "rc-001",
+  "level": 1,
+  "fr": "poste à pourvoir",
+  "term": {
+   "uk": "vacancy",
+   "us": "job opening"
+  },
+  "ipa": {
+   "uk": "/ˈveɪkənsi/",
+   "us": "/ˈdʒɑːb ˌoʊpənɪŋ/"
+  },
+  "def": "A job that is available because nobody is doing it yet or the previous holder has left.",
+  "registers": {
+   "formal": {
+    "uk": "vacancy",
+    "us": "vacant position",
+    "ex": "A [[vacancy]] has arisen in the Finance Department following an internal promotion.",
+    "ex_us": "A [[vacant position]] has arisen in the Finance Department following an internal promotion."
+   },
+   "everyday": {
+    "uk": "vacancy",
+    "us": "opening",
+    "ex": "We've got a [[vacancy]] in the payroll team - do you know anyone who might be interested?",
+    "ex_us": "We've got an [[opening]] on the payroll team - do you know anyone who might be interested?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a vacancy arises",
+   "to have a vacancy for an analyst",
+   "a vacancy in the sales team",
+   "current vacancies"
+  ],
+  "note_fr": "Ne dites pas « a free post » ni « an open post ». « Vacancy » est surtout britannique ; un Américain dira « an opening » ou « an open position » (et « vacancy » lui évoquera plutôt une chambre d'hôtel libre). Attention : « vacation » = vacances.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-002",
+  "level": 1,
+  "fr": "fiche de poste",
+  "term": {
+   "uk": "job description",
+   "us": "job description"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb dɪˌskrɪpʃ(ə)n/",
+   "us": "/ˈdʒɑːb dɪˌskrɪpʃ(ə)n/"
+  },
+  "def": "A written statement of the purpose, main tasks and responsibilities of a job.",
+  "registers": {
+   "formal": {
+    "uk": "job description",
+    "us": "job description",
+    "ex": "The duties of the post are set out in the attached [[job description]], which may be reviewed from time to time."
+   },
+   "everyday": {
+    "uk": "job description",
+    "us": "job description",
+    "ex": "Could you update the [[job description]] before we go out to market?"
+   },
+   "informal": {
+    "uk": "JD",
+    "us": "JD",
+    "ex": "Send me the [[JD]] and I'll have a look tonight."
+   }
+  },
+  "collocations": [
+   "to draw up a job description",
+   "to update a job description",
+   "to fall outside one's job description"
+  ],
+  "note_fr": "Pas de « job sheet » ni de « post file ». La « job description » décrit le poste ; le profil du candidat idéal figure dans la « person specification » (UK) ou sous « qualifications / requirements » (US). L'abréviation « JD » est courante à l'oral et dans les e-mails internes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-003",
+  "level": 2,
+  "fr": "profil recherché",
+  "term": {
+   "uk": "person specification",
+   "us": "job requirements"
+  },
+  "ipa": {
+   "uk": "/ˈpɜːs(ə)n ˌspesɪfɪˈkeɪʃ(ə)n/",
+   "us": "/ˈdʒɑːb rɪˌkwaɪərmənts/"
+  },
+  "def": "The list of skills, experience and qualifications that the ideal candidate for a job should have.",
+  "registers": {
+   "formal": {
+    "uk": "person specification",
+    "us": "job requirements",
+    "ex": "Candidates will be assessed solely against the criteria listed in the [[person specification]].",
+    "ex_us": "Candidates will be assessed solely against the criteria listed in the [[job requirements]]."
+   },
+   "everyday": {
+    "uk": "person spec",
+    "us": "requirements",
+    "ex": "She ticks almost every box on the [[person spec]].",
+    "ex_us": "She checks almost every box on the [[requirements]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "essential and desirable criteria",
+   "required and preferred qualifications",
+   "to meet the person specification",
+   "to draft a person specification"
+  ],
+  "note_fr": "« Profile » seul désigne plutôt le profil d'un candidat donné (« a strong profile »). Au Royaume-Uni, on distingue les critères « essential » et « desirable » ; aux États-Unis, les « required » et « preferred qualifications ». « Wanted profile » est un calque à éviter.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-004",
+  "level": 2,
+  "fr": "manager recruteur (le responsable opérationnel qui recrute pour son équipe)",
+  "term": {
+   "uk": "hiring manager",
+   "us": "hiring manager"
+  },
+  "ipa": {
+   "uk": "/ˈhaɪərɪŋ ˌmænɪdʒə/",
+   "us": "/ˈhaɪərɪŋ ˌmænɪdʒər/"
+  },
+  "def": "The manager who has the vacancy in his or her team and makes the final decision on whom to appoint.",
+  "registers": {
+   "formal": {
+    "uk": "recruiting manager",
+    "us": "hiring manager",
+    "ex": "The [[recruiting manager]] is responsible for ensuring that all interview notes are returned to Human Resources.",
+    "ex_us": "The [[hiring manager]] is responsible for ensuring that all interview notes are returned to Human Resources."
+   },
+   "everyday": {
+    "uk": "hiring manager",
+    "us": "hiring manager",
+    "ex": "The [[hiring manager]] wants to see three candidates before the end of the month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to brief the hiring manager",
+   "to get the hiring manager's sign-off",
+   "to take the brief from the hiring manager"
+  ],
+  "note_fr": "Le « hiring manager » n'est pas le recruteur : c'est le futur supérieur hiérarchique, celui qui a le besoin. Le recruteur interne est « the recruiter » ou « the talent acquisition partner ». « Operational manager » ne rend pas cette idée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-005",
+  "level": 3,
+  "fr": "demande d'ouverture de poste (validation interne avant de recruter)",
+  "term": {
+   "uk": "recruitment request",
+   "us": "job requisition"
+  },
+  "ipa": {
+   "uk": "/rɪˈkruːtmənt rɪˌkwest/",
+   "us": "/ˈdʒɑːb ˌrekwɪˈzɪʃ(ə)n/"
+  },
+  "def": "The internal request, approved by management and finance, that authorises a team to recruit for a post.",
+  "registers": {
+   "formal": {
+    "uk": "recruitment authorisation request",
+    "us": "job requisition",
+    "ex": "No vacancy may be advertised until the [[recruitment authorisation request]] has been approved by the Finance Director.",
+    "ex_us": "No vacancy may be advertised until the [[job requisition]] has been approved by the Finance Director."
+   },
+   "everyday": {
+    "uk": "approval to recruit",
+    "us": "approved requisition",
+    "ex": "We can't brief the agency yet - we still haven't got [[approval to recruit]].",
+    "ex_us": "We can't brief the agency yet - we still don't have an [[approved requisition]]."
+   },
+   "informal": {
+    "uk": "sign-off",
+    "us": "req",
+    "ex": "Has the [[sign-off]] come through for the analyst role?",
+    "ex_us": "Has the [[req]] come through for the analyst role?"
+   }
+  },
+  "collocations": [
+   "to raise a requisition",
+   "to open a req",
+   "headcount approval",
+   "an approved headcount"
+  ],
+  "note_fr": "« Requisition » n'a rien de militaire ici : c'est le terme américain (abrégé « req ») pour la demande de recrutement validée. Au Royaume-Uni, on parle plus volontiers de « approval to recruit » ou de « headcount approval ». « Headcount » = l'effectif budgété.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-006",
+  "level": 3,
+  "fr": "remplacement d'un salarié parti (par opposition à une création de poste)",
+  "term": {
+   "uk": "replacement hire",
+   "us": "backfill"
+  },
+  "ipa": {
+   "uk": "/rɪˈpleɪsmənt ˌhaɪə/",
+   "us": "/ˈbækfɪl/"
+  },
+  "def": "A person recruited to take over a post left empty by someone who has resigned, moved or gone on long leave.",
+  "registers": {
+   "formal": {
+    "uk": "replacement appointment",
+    "us": "replacement hire",
+    "ex": "This is a [[replacement appointment]] and therefore does not increase the approved headcount.",
+    "ex_us": "This is a [[replacement hire]] and therefore does not increase the approved headcount."
+   },
+   "everyday": {
+    "uk": "backfill",
+    "us": "backfill",
+    "ex": "It's not a new role, it's a [[backfill]] for Tom, who moved to the Lyon office."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to backfill a role",
+   "a like-for-like replacement",
+   "a newly created role",
+   "to cover for someone on leave"
+  ],
+  "note_fr": "« To backfill a role » = pourvoir un poste laissé vacant ; le mot, d'origine américaine, est désormais courant dans les groupes internationaux. Une création de poste se dit « a new role » ou « a newly created position », jamais « a post creation ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-007",
+  "level": 1,
+  "fr": "pourvoir un poste",
+  "term": {
+   "uk": "to fill a vacancy",
+   "us": "to fill a position"
+  },
+  "ipa": {
+   "uk": "/tə ˌfɪl ə ˈveɪkənsi/",
+   "us": "/tə ˌfɪl ə pəˈzɪʃ(ə)n/"
+  },
+  "def": "To find and appoint someone for a job that is available.",
+  "registers": {
+   "formal": {
+    "uk": "to fill a vacancy",
+    "us": "to fill a position",
+    "ex": "The Company reserves the right [[to fill a vacancy]] before the advertised closing date.",
+    "ex_us": "The Company reserves the right [[to fill a position]] before the advertised closing date."
+   },
+   "everyday": {
+    "uk": "to fill a role",
+    "us": "to fill a role",
+    "ex": "It took us four months [[to fill the role]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the position has been filled",
+   "to struggle to fill a role",
+   "to fill a vacancy internally"
+  ],
+  "note_fr": "Le verbe est « to fill », jamais « to provide a post » ni « to fulfil a position » (« to fulfil » = remplir une obligation, une condition). Tournure très utile pour répondre à un candidat : « I'm afraid the position has now been filled. »",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-008",
+  "level": 1,
+  "fr": "offre d'emploi (annonce)",
+  "term": {
+   "uk": "job advert",
+   "us": "job posting"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌædvɜːt/",
+   "us": "/ˈdʒɑːb ˌpoʊstɪŋ/"
+  },
+  "def": "A public notice describing a job that is available and inviting people to apply.",
+  "registers": {
+   "formal": {
+    "uk": "job advertisement",
+    "us": "job posting",
+    "ex": "The [[job advertisement]] must state the type of contract and the place of work.",
+    "ex_us": "The [[job posting]] must state the type of contract and the place of work."
+   },
+   "everyday": {
+    "uk": "job advert",
+    "us": "job posting",
+    "ex": "I saw your [[job advert]] on LinkedIn last week.",
+    "ex_us": "I saw your [[job posting]] on LinkedIn last week."
+   },
+   "informal": {
+    "uk": "job ad",
+    "us": "job ad",
+    "ex": "The [[job ad]] doesn't even mention the salary."
+   }
+  },
+  "collocations": [
+   "to place a job advert",
+   "to respond to a job advert",
+   "to take down a posting",
+   "the wording of the advert"
+  ],
+  "note_fr": "Faux ami majeur : « a job offer » est la proposition d'embauche faite à un candidat précis, pas l'annonce. « Announcement » ne convient pas non plus. Prononciation : « adVERtisement » /ədˈvɜːtɪsmənt/ au Royaume-Uni, « ADvertisement » /ˈædvərtaɪzmənt/ aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-009",
+  "level": 1,
+  "fr": "publier une annonce / diffuser une offre",
+  "term": {
+   "uk": "to advertise a vacancy",
+   "us": "to post a job"
+  },
+  "ipa": {
+   "uk": "/tu ˈædvətaɪz ə ˈveɪkənsi/",
+   "us": "/tə ˌpoʊst ə ˈdʒɑːb/"
+  },
+  "def": "To make a job opening public so that people can apply for it.",
+  "registers": {
+   "formal": {
+    "uk": "to advertise a vacancy",
+    "us": "to post a position",
+    "ex": "All vacancies shall be [[advertised]] internally for at least one week before being opened to external candidates.",
+    "ex_us": "All positions shall be [[posted]] internally for at least one week before being opened to external candidates."
+   },
+   "everyday": {
+    "uk": "to put an advert out",
+    "us": "to post a job",
+    "ex": "We [[put the advert out]] on Monday and we've already had sixty applications.",
+    "ex_us": "We [[posted the job]] on Monday and we've already had sixty applications."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to advertise a role externally",
+   "to post a job on LinkedIn",
+   "to go out to market",
+   "to re-advertise a post"
+  ],
+  "note_fr": "« To publish an announce » est un double calque. On dit « to advertise a job / a role » (UK) ou « to post a job » (US, et partout pour une mise en ligne). « To go out to market » = lancer la recherche en externe.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-010",
+  "level": 1,
+  "fr": "site d'emploi",
+  "term": {
+   "uk": "job board",
+   "us": "job board"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb bɔːd/",
+   "us": "/ˈdʒɑːb bɔːrd/"
+  },
+  "def": "A website where employers publish vacancies and jobseekers look for work.",
+  "registers": {
+   "formal": {
+    "uk": "online recruitment platform",
+    "us": "online recruitment platform",
+    "ex": "Vacancies are published on the Company's careers page and on at least one [[online recruitment platform]]."
+   },
+   "everyday": {
+    "uk": "job board",
+    "us": "job board",
+    "ex": "Most of our applicants come through one [[job board]], to be honest."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to post a vacancy on a job board",
+   "a specialist job board",
+   "a careers page",
+   "a jobseeker"
+  ],
+  "note_fr": "« Job site » se comprend, mais « job board » est le terme du métier. La page « Recrutement » du site de l'entreprise s'appelle « the careers page » (UK) ou « the careers site » (US), pas « the recruitment page ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-011",
+  "level": 1,
+  "fr": "date limite de candidature",
+  "term": {
+   "uk": "closing date",
+   "us": "application deadline"
+  },
+  "ipa": {
+   "uk": "/ˈkləʊzɪŋ deɪt/",
+   "us": "/ˌæplɪˈkeɪʃ(ə)n ˌdedlaɪn/"
+  },
+  "def": "The last day on which applications for a job will be accepted.",
+  "registers": {
+   "formal": {
+    "uk": "closing date for applications",
+    "us": "application deadline",
+    "ex": "The [[closing date for applications]] is Friday 14 March; late applications will not be considered.",
+    "ex_us": "The [[application deadline]] is Friday, March 14; late applications will not be considered."
+   },
+   "everyday": {
+    "uk": "closing date",
+    "us": "deadline",
+    "ex": "When's the [[closing date]] for the HR Adviser role?",
+    "ex_us": "When's the [[deadline]] for the HR Advisor role?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply before the closing date",
+   "to extend the closing date",
+   "applications close on 14 March"
+  ],
+  "note_fr": "« Limit date » et « dead line » (en deux mots) sont fautifs. « Closing date » est l'usage britannique des annonces ; « deadline » est compris partout. Notez aussi la tournure « Applications close on... ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-012",
+  "level": 2,
+  "fr": "rémunération selon profil",
+  "term": {
+   "uk": "salary dependent on experience",
+   "us": "salary commensurate with experience"
+  },
+  "ipa": {
+   "uk": "/ˈsæləri dɪˌpendənt ɒn ɪkˈspɪəriəns/",
+   "us": "/ˈsæləri kəˌmenʃərət wɪθ ɪkˈspɪriəns/"
+  },
+  "def": "A phrase used in job adverts to say that the pay offered will depend on what the successful candidate brings.",
+  "registers": {
+   "formal": {
+    "uk": "salary dependent on experience",
+    "us": "salary commensurate with experience",
+    "ex": "Permanent, full-time position; [[salary dependent on experience]].",
+    "ex_us": "Permanent, full-time position; [[salary commensurate with experience]]."
+   },
+   "everyday": {
+    "uk": "depending on experience",
+    "us": "depending on experience",
+    "ex": "We're offering somewhere between 45 and 52, [[depending on experience]]."
+   },
+   "informal": {
+    "uk": "DOE",
+    "us": "DOE",
+    "ex": "The advert just says 'competitive salary, [[DOE]]', which tells you nothing."
+   }
+  },
+  "collocations": [
+   "a competitive salary",
+   "to advertise a salary range",
+   "to disclose the pay range"
+  ],
+  "note_fr": "Jamais « salary according to profile ». « Commensurate with » (à la mesure de) est soutenu et typiquement américain. La transparence salariale progresse : plusieurs États américains imposent d'indiquer une fourchette dans l'annonce, et une directive européenne va dans le même sens ; vérifiez la règle applicable avant de publier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-013",
+  "level": 2,
+  "fr": "sourcing (recherche active de candidats)",
+  "term": {
+   "uk": "candidate sourcing",
+   "us": "candidate sourcing"
+  },
+  "ipa": {
+   "uk": "/ˈkændɪdət ˌsɔːsɪŋ/",
+   "us": "/ˈkændɪdeɪt ˌsɔːrsɪŋ/"
+  },
+  "def": "The work of actively looking for and identifying potential candidates, rather than waiting for applications.",
+  "registers": {
+   "formal": {
+    "uk": "candidate sourcing",
+    "us": "candidate sourcing",
+    "ex": "[[Candidate sourcing]] for senior roles is carried out by the in-house Talent Acquisition team."
+   },
+   "everyday": {
+    "uk": "to source candidates",
+    "us": "to source candidates",
+    "ex": "We [[source most of our candidates]] through LinkedIn and referrals."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to source candidates directly",
+   "a sourcing strategy",
+   "a sourcing channel",
+   "direct sourcing"
+  ],
+  "note_fr": "Le verbe « to source » est transitif : « to source candidates », sans préposition. « Research of candidates » est un calque : « research » = la recherche scientifique ; pour la recherche de candidats, on dit « search » ou « sourcing ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-014",
+  "level": 2,
+  "fr": "vivier de candidats",
+  "term": {
+   "uk": "talent pool",
+   "us": "talent pool"
+  },
+  "ipa": {
+   "uk": "/ˈtælənt puːl/",
+   "us": "/ˈtælənt puːl/"
+  },
+  "def": "A group of people an employer has identified as potential candidates for future vacancies.",
+  "registers": {
+   "formal": {
+    "uk": "talent pool",
+    "us": "talent pool",
+    "ex": "With your consent, we will retain your details in our [[talent pool]] and may contact you about future vacancies."
+   },
+   "everyday": {
+    "uk": "talent pool",
+    "us": "talent pipeline",
+    "ex": "She came second this time, so let's keep her in the [[talent pool]].",
+    "ex_us": "She came in second this time, so let's keep her in the [[talent pipeline]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to build a talent pool",
+   "to tap into a talent pool",
+   "to keep someone's CV on file",
+   "a talent pipeline"
+  ],
+  "note_fr": "Ni « fishpond » ni « nursery » : l'image anglaise est celle du bassin (« pool ») ou du pipeline. « We'll keep your CV on file » est la formule consacrée ; conserver un CV suppose toutefois d'en informer le candidat, et pour une durée limitée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-015",
+  "level": 2,
+  "fr": "marque employeur",
+  "term": {
+   "uk": "employer brand",
+   "us": "employer brand"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪə brænd/",
+   "us": "/ɪmˈplɔɪər brænd/"
+  },
+  "def": "The reputation and image a company has as a place to work, among its staff and potential recruits.",
+  "registers": {
+   "formal": {
+    "uk": "employer brand",
+    "us": "employer brand",
+    "ex": "A consistent candidate experience is central to the Group's [[employer brand]]."
+   },
+   "everyday": {
+    "uk": "reputation as an employer",
+    "us": "reputation as an employer",
+    "ex": "Leaving candidates without an answer does real damage to our [[reputation as an employer]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "employer branding",
+   "to strengthen the employer brand",
+   "an employer of choice",
+   "the employee value proposition"
+  ],
+  "note_fr": "« Employer brand » désigne l'image elle-même, « employer branding » le travail mené pour la construire. « Employer mark » est un calque. Retenez aussi « an employer of choice » (un employeur de référence) et « employee value proposition » (EVP), la promesse faite aux salariés.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-016",
+  "level": 2,
+  "fr": "cooptation",
+  "term": {
+   "uk": "employee referral",
+   "us": "employee referral"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː rɪˈfɜːrəl/",
+   "us": "/ɪmˌplɔɪiː rɪˈfɜːrəl/"
+  },
+  "def": "The recommendation of a candidate for a vacancy by someone who already works for the company.",
+  "registers": {
+   "formal": {
+    "uk": "employee referral",
+    "us": "employee referral",
+    "ex": "A bonus is payable for any [[employee referral]] that results in an appointment, once the new recruit has completed six months' service."
+   },
+   "everyday": {
+    "uk": "to refer someone",
+    "us": "to refer someone",
+    "ex": "One of our developers [[referred her]], and she turned out to be excellent."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an employee referral scheme",
+   "a referral bonus",
+   "to come through a referral",
+   "to recommend someone for a role"
+  ],
+  "note_fr": "« Cooptation » existe en anglais mais relève de la science politique : personne ne le comprendra en RH. Dites « referral » ; le programme est un « referral scheme » (UK) ou « referral program » (US), la prime un « referral bonus ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-017",
+  "level": 1,
+  "fr": "cabinet de recrutement",
+  "term": {
+   "uk": "recruitment agency",
+   "us": "recruiting firm"
+  },
+  "ipa": {
+   "uk": "/rɪˈkruːtmənt ˌeɪdʒ(ə)nsi/",
+   "us": "/rɪˈkruːtɪŋ fɜːrm/"
+  },
+  "def": "A company that finds candidates for employers in exchange for a fee.",
+  "registers": {
+   "formal": {
+    "uk": "recruitment consultancy",
+    "us": "recruiting firm",
+    "ex": "The Company has engaged a [[recruitment consultancy]] to assist with the appointment.",
+    "ex_us": "The Company has engaged a [[recruiting firm]] to assist with the appointment."
+   },
+   "everyday": {
+    "uk": "recruitment agency",
+    "us": "recruiting agency",
+    "ex": "We'll have to go through a [[recruitment agency]] for this one - we don't have the network.",
+    "ex_us": "We'll have to go through a [[recruiting agency]] for this one - we don't have the network."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to instruct an agency",
+   "to go through an agency",
+   "the agency's fee",
+   "a preferred supplier list"
+  ],
+  "note_fr": "« Cabinet » est un faux ami (meuble, ou conseil des ministres) : on dit « agency », « firm » ou « consultancy ». Le consultant du cabinet est « a recruitment consultant » (UK) ou « a recruiter » (US). Au Royaume-Uni, on « instruct » une agence ; aux États-Unis, on « engage » ou « retain » un cabinet.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-018",
+  "level": 1,
+  "fr": "chasseur de têtes",
+  "term": {
+   "uk": "headhunter",
+   "us": "headhunter"
+  },
+  "ipa": {
+   "uk": "/ˈhedˌhʌntə/",
+   "us": "/ˈhedˌhʌntər/"
+  },
+  "def": "A recruiter who approaches people directly, usually for senior jobs, rather than advertising.",
+  "registers": {
+   "formal": {
+    "uk": "executive search consultant",
+    "us": "executive search consultant",
+    "ex": "The Board has appointed an [[executive search consultant]] to identify candidates for the role of Chief Financial Officer."
+   },
+   "everyday": {
+    "uk": "headhunter",
+    "us": "headhunter",
+    "ex": "A [[headhunter]] rang me last week about a job in Geneva.",
+    "ex_us": "A [[headhunter]] called me last week about a job in Geneva."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be headhunted",
+   "an executive search firm",
+   "to be approached by a headhunter"
+  ],
+  "note_fr": "« Headhunter » est courant mais familier : dans un document, écrivez « executive search firm / consultant ». Le passif est très utile : « She was headhunted by a competitor » = elle a été approchée directement par un concurrent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-019",
+  "level": 3,
+  "fr": "mandat de recherche exclusif (honoraires dus quel que soit le résultat)",
+  "term": {
+   "uk": "retained search",
+   "us": "retained search"
+  },
+  "ipa": {
+   "uk": "/rɪˌteɪnd ˈsɜːtʃ/",
+   "us": "/rɪˌteɪnd ˈsɜːrtʃ/"
+  },
+  "def": "A recruitment assignment in which the employer pays the search firm part of its fee in advance, whether or not anyone is hired.",
+  "registers": {
+   "formal": {
+    "uk": "retained search assignment",
+    "us": "retained search assignment",
+    "ex": "The appointment will be conducted as a [[retained search assignment]], the fee being payable in three instalments.",
+    "ex_us": "The appointment will be conducted as a [[retained search assignment]], the fee being payable in three installments."
+   },
+   "everyday": {
+    "uk": "retained search",
+    "us": "retained search",
+    "ex": "For a role this senior, I'd go for a [[retained search]] rather than three agencies racing each other."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on a retained basis",
+   "on a contingency basis",
+   "a contingency fee",
+   "to pay a retainer"
+  ],
+  "note_fr": "L'opposition à connaître : « retained » (acompte, exclusivité) contre « contingency » (honoraires dus seulement en cas d'embauche ; au Royaume-Uni : « no placement, no fee »). « A retainer » est la provision versée d'avance, pas une retenue sur salaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-020",
+  "level": 2,
+  "fr": "débaucher (un salarié d'un concurrent)",
+  "term": {
+   "uk": "to poach",
+   "us": "to poach"
+  },
+  "ipa": {
+   "uk": "/tə pəʊtʃ/",
+   "us": "/tə poʊtʃ/"
+  },
+  "def": "To persuade someone who works for another company, often a competitor, to come and work for you.",
+  "registers": {
+   "formal": {
+    "uk": "to solicit the employees of",
+    "us": "to solicit the employees of",
+    "ex": "The agency undertakes not [[to solicit the employees of]] the Client for twelve months after the end of the assignment."
+   },
+   "everyday": {
+    "uk": "to poach",
+    "us": "to poach",
+    "ex": "They [[poached]] two of our best engineers last year."
+   },
+   "informal": {
+    "uk": "to lure away",
+    "us": "to lure away",
+    "ex": "A start-up [[lured him away]] with share options.",
+    "ex_us": "A startup [[lured him away]] with stock options."
+   }
+  },
+  "collocations": [
+   "to poach staff from a competitor",
+   "to poach a team",
+   "a no-poaching agreement"
+  ],
+  "note_fr": "« To debauch » signifie dépraver, corrompre moralement : contresens garanti. « To poach » (littéralement braconner) est le mot juste, un peu imagé mais admis en réunion. Attention : les accords de non-débauchage entre concurrents (« no-poach agreements ») peuvent poser un problème de droit de la concurrence.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-021",
+  "level": 3,
+  "fr": "candidat passif (en poste, pas en recherche active)",
+  "term": {
+   "uk": "passive candidate",
+   "us": "passive candidate"
+  },
+  "ipa": {
+   "uk": "/ˌpæsɪv ˈkændɪdət/",
+   "us": "/ˌpæsɪv ˈkændɪdeɪt/"
+  },
+  "def": "Someone who is not looking for a new job but might be open to the right opportunity.",
+  "registers": {
+   "formal": {
+    "uk": "passive candidate",
+    "us": "passive candidate",
+    "ex": "The search firm will approach [[passive candidates]] identified through market mapping."
+   },
+   "everyday": {
+    "uk": "someone who isn't actively looking",
+    "us": "someone who isn't actively looking",
+    "ex": "The best person for this is probably [[someone who isn't actively looking]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to approach a passive candidate",
+   "to be open to opportunities",
+   "an active jobseeker",
+   "to put out feelers"
+  ],
+  "note_fr": "L'expression clé côté candidat : « I'm not actively looking, but I'm open to the right opportunity. » Évitez « in post candidate » ; « to be in post » existe au Royaume-Uni mais signifie seulement « occuper le poste ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-022",
+  "level": 2,
+  "fr": "recruter en interne / privilégier la promotion interne",
+  "term": {
+   "uk": "to recruit internally",
+   "us": "to hire internally"
+  },
+  "ipa": {
+   "uk": "/tə rɪˌkruːt ɪnˈtɜːnəli/",
+   "us": "/tə ˌhaɪər ɪnˈtɜːrnəli/"
+  },
+  "def": "To fill a vacancy with someone who already works for the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "to fill a vacancy by internal appointment",
+    "us": "to fill a position by internal appointment",
+    "ex": "Wherever possible, the Company will seek [[to fill vacancies by internal appointment]].",
+    "ex_us": "Wherever possible, the Company will seek [[to fill positions by internal appointment]]."
+   },
+   "everyday": {
+    "uk": "to recruit internally",
+    "us": "to hire internally",
+    "ex": "I'd rather [[recruit internally]] if we can - it's quicker and it's good for morale.",
+    "ex_us": "I'd rather [[hire internally]] if we can - it's quicker and it's good for morale."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to promote from within",
+   "an internal candidate",
+   "an internal vacancy",
+   "an internal move"
+  ],
+  "note_fr": "« Internal mobility » existe, mais la tournure idiomatique est « to promote from within ». Un candidat interne est « an internal candidate » ou « an internal applicant », jamais « an intern » : « an intern » est un stagiaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-023",
+  "level": 3,
+  "fr": "recrutement de jeunes diplômés / relations écoles",
+  "term": {
+   "uk": "graduate recruitment",
+   "us": "campus recruiting"
+  },
+  "ipa": {
+   "uk": "/ˌɡrædʒuət rɪˈkruːtmənt/",
+   "us": "/ˈkæmpəs rɪˌkruːtɪŋ/"
+  },
+  "def": "The organised hiring of students and recent graduates, usually through universities and yearly intakes.",
+  "registers": {
+   "formal": {
+    "uk": "graduate recruitment",
+    "us": "campus recruiting",
+    "ex": "The annual [[graduate recruitment]] campaign opens in September.",
+    "ex_us": "The annual [[campus recruiting]] campaign opens in September."
+   },
+   "everyday": {
+    "uk": "the graduate intake",
+    "us": "the new grad class",
+    "ex": "We're taking on twelve people in [[the graduate intake]] this year.",
+    "ex_us": "We're taking on twelve people in [[the new grad class]] this year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a graduate scheme",
+   "the milk round",
+   "a recent graduate",
+   "a careers fair"
+  ],
+  "note_fr": "« Graduate » désigne au Royaume-Uni un diplômé de l'université ; aux États-Unis, « college graduate » ou « new grad ». « Graduate scheme » (UK) = programme jeunes diplômés ; « the milk round » (UK, familier) = la tournée annuelle des campus. Un salon de l'emploi : « careers fair » (UK), « job fair / career fair » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-024",
+  "level": 3,
+  "fr": "métiers en tension",
+  "term": {
+   "uk": "hard-to-fill roles",
+   "us": "hard-to-fill positions"
+  },
+  "ipa": {
+   "uk": "/ˌhɑːd tə ˈfɪl rəʊlz/",
+   "us": "/ˌhɑːrd tə ˈfɪl pəˌzɪʃ(ə)nz/"
+  },
+  "def": "Jobs for which employers struggle to find enough suitably skilled candidates.",
+  "registers": {
+   "formal": {
+    "uk": "shortage occupations",
+    "us": "shortage occupations",
+    "ex": "Simplified work permit procedures may apply to [[shortage occupations]] listed by the authorities."
+   },
+   "everyday": {
+    "uk": "hard-to-fill roles",
+    "us": "hard-to-fill positions",
+    "ex": "Welders and nurses are our [[hard-to-fill roles]] - we never get enough applicants.",
+    "ex_us": "Welders and nurses are our [[hard-to-fill positions]] - we never get enough applicants."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a skills shortage",
+   "a tight labour market",
+   "a candidate-driven market",
+   "to struggle to recruit"
+  ],
+  "note_fr": "« Jobs in tension » ne veut rien dire. On parle de « skills shortage » (pénurie de compétences), de « shortage occupations » (terme administratif) ou d'un « tight labour market » (US : « labor »). En France, une liste officielle de métiers en tension facilite la délivrance de certaines autorisations de travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-025",
+  "level": 2,
+  "fr": "France Travail (ex-Pôle emploi)",
+  "term": {
+   "uk": "public employment service",
+   "us": "public employment service"
+  },
+  "ipa": {
+   "uk": "/ˌpʌblɪk ɪmˈplɔɪmənt ˌsɜːvɪs/",
+   "us": "/ˌpʌblɪk ɪmˈplɔɪmənt ˌsɜːrvɪs/"
+  },
+  "def": "The government body that registers jobseekers, pays unemployment benefit and helps employers fill vacancies.",
+  "registers": {
+   "formal": {
+    "uk": "the public employment service",
+    "us": "the public employment service",
+    "ex": "The vacancy has also been registered with France Travail, [[the public employment service]]."
+   },
+   "everyday": {
+    "uk": "the job centre",
+    "us": "the unemployment office",
+    "ex": "We've listed the job with France Travail - it's the French equivalent of [[the job centre]].",
+    "ex_us": "We've listed the job with France Travail - it's the French equivalent of [[the unemployment office]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to register as a jobseeker",
+   "to list a vacancy with the public employment service",
+   "to be on unemployment benefit"
+  ],
+  "note_fr": "Gardez le nom français et glosez-le. L'équivalent britannique est « Jobcentre Plus » ; aux États-Unis, ce rôle est réparti entre les agences des États (« state workforce agency », « American Job Center »). « Pole employment » n'existe pas. Un demandeur d'emploi : « a jobseeker ».",
+  "french_concept": true,
+  "explain": {
+   "written": "France Travail (formerly Pôle emploi) is the French public employment service, which registers jobseekers, pays unemployment benefits and assists employers with recruitment.",
+   "spoken": "France Travail is the French job centre - it's where people sign on when they're out of work, and employers can list vacancies there for free."
+  }
+ },
+ {
+  "id": "rc-026",
+  "level": 1,
+  "fr": "candidat(e)",
+  "term": {
+   "uk": "candidate",
+   "us": "candidate"
+  },
+  "ipa": {
+   "uk": "/ˈkændɪdət/",
+   "us": "/ˈkændɪdeɪt/"
+  },
+  "def": "A person who is being considered for a job.",
+  "registers": {
+   "formal": {
+    "uk": "applicant",
+    "us": "applicant",
+    "ex": "Each [[applicant]] will be informed in writing of the outcome of the selection process."
+   },
+   "everyday": {
+    "uk": "candidate",
+    "us": "candidate",
+    "ex": "We've got one really strong [[candidate]] and two possibles."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a strong candidate",
+   "the preferred candidate",
+   "an external candidate",
+   "to put a candidate forward"
+  ],
+  "note_fr": "Nuance : « applicant » = toute personne ayant déposé une candidature ; « candidate » = plutôt celle qui est effectivement dans le processus. « Postulant » n'existe pas dans ce sens (c'est un terme religieux). Prononciation : /ˈkændɪdət/ (UK), souvent /ˈkændɪdeɪt/ (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-027",
+  "level": 1,
+  "fr": "postuler à un poste",
+  "term": {
+   "uk": "to apply for a job",
+   "us": "to apply for a job"
+  },
+  "ipa": {
+   "uk": "/tu əˌplaɪ fər ə ˈdʒɒb/",
+   "us": "/tu əˌplaɪ fər ə ˈdʒɑːb/"
+  },
+  "def": "To ask formally to be considered for a job, usually by sending a CV.",
+  "registers": {
+   "formal": {
+    "uk": "to submit an application",
+    "us": "to submit an application",
+    "ex": "Candidates are invited [[to submit an application]] via the Company's careers page."
+   },
+   "everyday": {
+    "uk": "to apply for",
+    "us": "to apply for",
+    "ex": "I [[applied for]] the HR Manager role last week and haven't heard anything."
+   },
+   "informal": {
+    "uk": "to go for",
+    "us": "to go for",
+    "ex": "Are you going [[to go for]] the team leader job?"
+   }
+  },
+  "collocations": [
+   "to apply for a position",
+   "to apply to a company",
+   "to apply online",
+   "to apply in writing"
+  ],
+  "note_fr": "Deux prépositions à ne pas confondre : « to apply FOR a job » (un poste) mais « to apply TO a company » (une entreprise). « To postulate » = poser un postulat ; « to candidate » n'existe pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-028",
+  "level": 1,
+  "fr": "candidature",
+  "term": {
+   "uk": "application",
+   "us": "application"
+  },
+  "ipa": {
+   "uk": "/ˌæplɪˈkeɪʃ(ə)n/",
+   "us": "/ˌæplɪˈkeɪʃ(ə)n/"
+  },
+  "def": "A formal request to be considered for a job, with the documents that support it.",
+  "registers": {
+   "formal": {
+    "uk": "application",
+    "us": "application",
+    "ex": "Your [[application]] will be treated in the strictest confidence."
+   },
+   "everyday": {
+    "uk": "application",
+    "us": "application",
+    "ex": "Thanks for your [[application]] - we'll be in touch by the end of next week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to submit an application",
+   "to process an application",
+   "an application form",
+   "to acknowledge receipt of an application"
+  ],
+  "note_fr": "« Candidature » est très rare en anglais professionnel : dites « application ». « Candidacy » existe surtout aux États-Unis, dans un registre soutenu ou politique. Accusé de réception d'une candidature : « an acknowledgement ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-029",
+  "level": 1,
+  "fr": "CV (curriculum vitae)",
+  "term": {
+   "uk": "CV",
+   "us": "résumé"
+  },
+  "ipa": {
+   "uk": "/ˌsiː ˈviː/",
+   "us": "/ˈrezəmeɪ/"
+  },
+  "def": "A short written summary of a person's education, career and skills, sent when applying for a job.",
+  "registers": {
+   "formal": {
+    "uk": "curriculum vitae",
+    "us": "résumé",
+    "ex": "Applications should include a full [[curriculum vitae]] and the names of two referees.",
+    "ex_us": "Applications should include a full [[résumé]] and the names of two references."
+   },
+   "everyday": {
+    "uk": "CV",
+    "us": "résumé",
+    "ex": "Can you send me your [[CV]] by Friday?",
+    "ex_us": "Can you send me your [[résumé]] by Friday?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to update one's CV",
+   "to tailor one's CV to the role",
+   "to look good on a CV",
+   "a two-page CV"
+  ],
+  "note_fr": "Au Royaume-Uni, « CV » ; aux États-Unis, « résumé » (souvent écrit « resume »), court, d'une à deux pages - « CV » y désigne le dossier détaillé des universitaires et des médecins. Dans les deux pays, ni photo, ni âge, ni situation de famille. Et « a resume » n'est jamais un résumé de texte (« a summary »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-030",
+  "level": 1,
+  "fr": "lettre de motivation",
+  "term": {
+   "uk": "covering letter",
+   "us": "cover letter"
+  },
+  "ipa": {
+   "uk": "/ˌkʌvərɪŋ ˈletə/",
+   "us": "/ˈkʌvər ˌletər/"
+  },
+  "def": "A letter sent with a CV, explaining why the person is applying and why they suit the job.",
+  "registers": {
+   "formal": {
+    "uk": "covering letter",
+    "us": "cover letter",
+    "ex": "Please send your CV and a [[covering letter]] to the address below.",
+    "ex_us": "Please send your résumé and a [[cover letter]] to the address below."
+   },
+   "everyday": {
+    "uk": "covering letter",
+    "us": "cover letter",
+    "ex": "Her [[covering letter]] was far better than her CV, actually.",
+    "ex_us": "Her [[cover letter]] was far better than her résumé, actually."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to enclose a covering letter",
+   "to tailor one's cover letter",
+   "a well-written cover letter"
+  ],
+  "note_fr": "« Motivation letter » est un calque, compris seulement dans les milieux européens. « Covering letter » est l'usage britannique traditionnel, « cover letter » l'usage américain, de plus en plus répandu partout. Elle tient en une page et s'ouvre sur le poste visé, pas sur une formule de politesse.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-031",
+  "level": 2,
+  "fr": "candidature spontanée",
+  "term": {
+   "uk": "speculative application",
+   "us": "unsolicited application"
+  },
+  "ipa": {
+   "uk": "/ˌspekjʊlətɪv ˌæplɪˈkeɪʃ(ə)n/",
+   "us": "/ˌʌnsəˌlɪsɪtɪd ˌæplɪˈkeɪʃ(ə)n/"
+  },
+  "def": "An application sent to a company that has not advertised any vacancy.",
+  "registers": {
+   "formal": {
+    "uk": "speculative application",
+    "us": "unsolicited application",
+    "ex": "The Company is unable to reply individually to every [[speculative application]] it receives.",
+    "ex_us": "The Company is unable to reply individually to every [[unsolicited application]] it receives."
+   },
+   "everyday": {
+    "uk": "to send one's CV on spec",
+    "us": "to send one's résumé cold",
+    "ex": "I just [[sent my CV on spec]] and they called me the next day.",
+    "ex_us": "I just [[sent my résumé cold]] and they called me the next day."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make a speculative application",
+   "a speculative approach",
+   "to write in on the off-chance"
+  ],
+  "note_fr": "« Spontaneous application » est le calque classique : en anglais, « spontaneous » évoque l'impulsivité, pas l'initiative. « On spec » (UK, familier) = à tout hasard. Aux États-Unis, on dit « unsolicited » ou « cold » (comme dans « cold call »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-032",
+  "level": 1,
+  "fr": "je vous adresse ma candidature au poste de...",
+  "term": {
+   "uk": "I am writing to apply for the position of...",
+   "us": "I am writing to apply for the position of..."
+  },
+  "ipa": {
+   "uk": "/aɪ əm ˈraɪtɪŋ tu əˈplaɪ fə ðə pəˈzɪʃ(ə)n əv/",
+   "us": "/aɪ əm ˈraɪtɪŋ tu əˈplaɪ fər ðə pəˈzɪʃ(ə)n əv/"
+  },
+  "def": "The standard opening sentence of a letter or email of application.",
+  "registers": {
+   "formal": {
+    "uk": "I am writing to apply for the position of",
+    "us": "I am writing to apply for the position of",
+    "ex": "[[I am writing to apply for the position of]] Payroll Manager, as advertised on your website."
+   },
+   "everyday": {
+    "uk": "I'd like to apply for",
+    "us": "I'd like to apply for",
+    "ex": "[[I'd like to apply for]] the HR Adviser role you posted last week.",
+    "ex_us": "[[I'd like to apply for]] the HR Advisor role you posted last week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "as advertised on your website",
+   "with reference to your advertisement",
+   "please find my CV attached"
+  ],
+  "note_fr": "Allez droit au but : pas de « I allow myself to send you my application » (calque de « je me permets ») ni de « I have the honour to ». La première phrase nomme le poste et la source de l'annonce ; la deuxième dit pourquoi vous.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-033",
+  "level": 1,
+  "fr": "dans l'attente de votre réponse",
+  "term": {
+   "uk": "I look forward to hearing from you",
+   "us": "I look forward to hearing from you"
+  },
+  "ipa": {
+   "uk": "/aɪ lʊk ˈfɔːwəd tə ˈhɪərɪŋ frəm juː/",
+   "us": "/aɪ lʊk ˈfɔːrwərd tə ˈhɪrɪŋ frəm juː/"
+  },
+  "def": "The usual polite closing sentence of a letter or email when a reply is expected.",
+  "registers": {
+   "formal": {
+    "uk": "I look forward to hearing from you",
+    "us": "I look forward to hearing from you",
+    "ex": "I would welcome the opportunity to discuss my application further and [[I look forward to hearing from you]]."
+   },
+   "everyday": {
+    "uk": "Looking forward to hearing from you",
+    "us": "Looking forward to hearing from you",
+    "ex": "Thanks again for your time on Tuesday. [[Looking forward to hearing from you]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "I look forward to meeting you",
+   "I look forward to your reply",
+   "I would welcome the opportunity to discuss"
+  ],
+  "note_fr": "Piège grammatical : « to » est ici une préposition, donc suivi de -ing : « to hearing », jamais « to hear ». « In the waiting of your answer » et « Waiting for your answer » sont à proscrire (le second sonne comme un reproche).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-034",
+  "level": 1,
+  "fr": "expérience professionnelle",
+  "term": {
+   "uk": "work experience",
+   "us": "work experience"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːk ɪkˌspɪəriəns/",
+   "us": "/ˈwɜːrk ɪkˌspɪriəns/"
+  },
+  "def": "The jobs a person has done and the knowledge and skills gained from them.",
+  "registers": {
+   "formal": {
+    "uk": "professional experience",
+    "us": "professional experience",
+    "ex": "Applicants must have at least five years' [[professional experience]] in a comparable role."
+   },
+   "everyday": {
+    "uk": "experience",
+    "us": "experience",
+    "ex": "She's got a lot of [[experience]] in retail, but none in logistics.",
+    "ex_us": "She has a lot of [[experience]] in retail, but none in logistics."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "five years' experience in payroll",
+   "relevant experience",
+   "hands-on experience",
+   "to gain experience"
+  ],
+  "note_fr": "« Experience » au sens de vécu professionnel est indénombrable : « she has experience », jamais « an experience » ni « experiences ». Notez l'apostrophe de « five years' experience ». Au Royaume-Uni, « work experience » désigne aussi le stage d'observation des lycéens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-035",
+  "level": 1,
+  "fr": "diplômes / titres",
+  "term": {
+   "uk": "qualifications",
+   "us": "degrees and credentials"
+  },
+  "ipa": {
+   "uk": "/ˌkwɒlɪfɪˈkeɪʃ(ə)nz/",
+   "us": "/dɪˌɡriːz ən krəˈdenʃ(ə)lz/"
+  },
+  "def": "The degrees, diplomas and certificates that show a person has completed a course of study or training.",
+  "registers": {
+   "formal": {
+    "uk": "academic and professional qualifications",
+    "us": "academic and professional credentials",
+    "ex": "The offer is conditional on satisfactory proof of your [[academic and professional qualifications]].",
+    "ex_us": "The offer is conditional on satisfactory proof of your [[academic and professional credentials]]."
+   },
+   "everyday": {
+    "uk": "qualifications",
+    "us": "degree",
+    "ex": "What [[qualifications]] do you need for this job?",
+    "ex_us": "What kind of [[degree]] do you need for this job?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold a degree in law",
+   "a degree-level qualification",
+   "to be educated to master's level",
+   "a professional certification"
+  ],
+  "note_fr": "« Diploma » désigne en anglais un diplôme précis, souvent court ou professionnel ; le diplôme universitaire est « a degree ». Aux États-Unis, « qualifications » signifie plutôt l'ensemble des aptitudes requises pour le poste ; pour les diplômes, on dit « degrees » ou « credentials ». Et « formation » ne veut jamais dire formation (« training », « education »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-036",
+  "level": 2,
+  "fr": "Bac+5 (niveau master)",
+  "term": {
+   "uk": "master's-level degree",
+   "us": "master's-level degree"
+  },
+  "ipa": {
+   "uk": "/ˌmɑːstəz lev(ə)l dɪˈɡriː/",
+   "us": "/ˌmæstərz lev(ə)l dɪˈɡriː/"
+  },
+  "def": "A qualification obtained after five years of higher education, equivalent to a master's degree.",
+  "registers": {
+   "formal": {
+    "uk": "a master's degree or equivalent",
+    "us": "a master's degree or equivalent",
+    "ex": "Candidates should hold [[a master's degree or equivalent]] (five years of higher education) in human resources or employment law."
+   },
+   "everyday": {
+    "uk": "a master's",
+    "us": "a master's",
+    "ex": "She's got [[a master's]] in employment law from a French university.",
+    "ex_us": "She has [[a master's]] in employment law from a French university."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold a master's degree",
+   "a bachelor's degree",
+   "postgraduate study",
+   "to be educated to degree level"
+  ],
+  "note_fr": "« Bac+5 » ne dit rien à un anglophone : traduisez par le niveau (« master's degree », « bachelor's degree » pour Bac+3) et, si besoin, précisez « five years of higher education ». Aux États-Unis, « graduate degree » = diplôme de deuxième cycle ; au Royaume-Uni, on dit « postgraduate degree ».",
+  "french_concept": true,
+  "explain": {
+   "written": "'Bac+5' denotes a qualification obtained after five years of higher education following the French baccalauréat, broadly equivalent to a master's degree.",
+   "spoken": "In France we count the years of study after the school-leaving exam, so 'Bac+5' simply means a master's."
+  }
+ },
+ {
+  "id": "rc-037",
+  "level": 1,
+  "fr": "compétences",
+  "term": {
+   "uk": "skills",
+   "us": "skills"
+  },
+  "ipa": {
+   "uk": "/skɪlz/",
+   "us": "/skɪlz/"
+  },
+  "def": "The abilities a person has developed and needs in order to do a job well.",
+  "registers": {
+   "formal": {
+    "uk": "skills and competencies",
+    "us": "skills and competencies",
+    "ex": "The role requires the [[skills and competencies]] listed in the attached specification."
+   },
+   "everyday": {
+    "uk": "skills",
+    "us": "skills",
+    "ex": "He's got the technical [[skills]], but I'm less sure about his people management.",
+    "ex_us": "He has the technical [[skills]], but I'm less sure about his people management."
+   },
+   "informal": {
+    "uk": "know-how",
+    "us": "know-how",
+    "ex": "She's got years of [[know-how]] in payroll.",
+    "ex_us": "She has years of [[know-how]] in payroll."
+   }
+  },
+  "collocations": [
+   "a skill set",
+   "people skills",
+   "language skills",
+   "to have the right skills for the job"
+  ],
+  "note_fr": "« Competences » se comprend mais reste du jargon RH (« competency framework » = référentiel de compétences) ; dans la conversation, dites « skills ». « Skill set » désigne l'ensemble des compétences d'une personne. « Capacity » = la capacité de production, pas la compétence.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-038",
+  "level": 2,
+  "fr": "savoir-être / compétences comportementales",
+  "term": {
+   "uk": "soft skills",
+   "us": "soft skills"
+  },
+  "ipa": {
+   "uk": "/ˌsɒft ˈskɪlz/",
+   "us": "/ˌsɔːft ˈskɪlz/"
+  },
+  "def": "Personal qualities, such as communication and teamwork, that affect how well someone works with others.",
+  "registers": {
+   "formal": {
+    "uk": "interpersonal skills",
+    "us": "interpersonal skills",
+    "ex": "Excellent [[interpersonal skills]] and the ability to work under pressure are essential."
+   },
+   "everyday": {
+    "uk": "soft skills",
+    "us": "soft skills",
+    "ex": "Technically he's brilliant, but the [[soft skills]] need some work."
+   },
+   "informal": {
+    "uk": "people skills",
+    "us": "people skills",
+    "ex": "You need real [[people skills]] to do that job."
+   }
+  },
+  "collocations": [
+   "strong interpersonal skills",
+   "communication skills",
+   "a team player",
+   "emotional intelligence"
+  ],
+  "note_fr": "« Savoir-être » n'a pas d'équivalent mot pour mot : « soft skills » en réunion, « interpersonal skills » dans une annonce. Évitez « know-how-to-be ». Le savoir-faire technique : « hard skills » ou « technical skills ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-039",
+  "level": 2,
+  "fr": "parcours / réalisations probantes",
+  "term": {
+   "uk": "track record",
+   "us": "track record"
+  },
+  "ipa": {
+   "uk": "/ˈtræk ˌrekɔːd/",
+   "us": "/ˈtræk ˌrekərd/"
+  },
+  "def": "Everything a person has achieved in their career so far, seen as evidence of what they can do.",
+  "registers": {
+   "formal": {
+    "uk": "proven track record",
+    "us": "proven track record",
+    "ex": "The successful candidate will have a [[proven track record]] in managing multi-site HR teams."
+   },
+   "everyday": {
+    "uk": "track record",
+    "us": "track record",
+    "ex": "Her [[track record]] in turnaround situations speaks for itself."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a proven track record in sales",
+   "a strong track record",
+   "career history",
+   "career path"
+  ],
+  "note_fr": "« Parcours » se rend selon le sens : « career history » (la chronologie), « career path » (la trajectoire), « background » (la formation et le milieu professionnel), « track record » (les résultats obtenus). « Professional course » serait un contresens : « a course » = un cours.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-040",
+  "level": 2,
+  "fr": "trou dans le CV / période d'inactivité",
+  "term": {
+   "uk": "gap in one's CV",
+   "us": "gap in one's résumé"
+  },
+  "ipa": {
+   "uk": "/ə ˌɡæp ɪn wʌnz ˌsiː ˈviː/",
+   "us": "/ə ˌɡæp ɪn wʌnz ˈrezəmeɪ/"
+  },
+  "def": "A period during which a person was not in work, visible in their career history.",
+  "registers": {
+   "formal": {
+    "uk": "gap in employment",
+    "us": "gap in employment",
+    "ex": "Applicants are asked to account for any [[gap in employment]] of more than six months."
+   },
+   "everyday": {
+    "uk": "gap in one's CV",
+    "us": "gap in one's résumé",
+    "ex": "There's a two-year [[gap in her CV]] that nobody asked about.",
+    "ex_us": "There's a two-year [[gap in her résumé]] that nobody asked about."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a career break",
+   "to account for a gap",
+   "to take time out to raise a family",
+   "to return to work"
+  ],
+  "note_fr": "« A hole in the CV » se comprend mais n'est pas idiomatique. « Career break » est le terme neutre et positif pour une interruption choisie ; on parle aussi de « returners » pour ceux qui reprennent. Interroger sur un « gap » est admis, mais insister sur une maternité ou un état de santé expose à un grief de discrimination.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-041",
+  "level": 1,
+  "fr": "prétentions salariales",
+  "term": {
+   "uk": "salary expectations",
+   "us": "salary expectations"
+  },
+  "ipa": {
+   "uk": "/ˌsæləri ˌekspekˈteɪʃ(ə)nz/",
+   "us": "/ˌsæləri ˌekspekˈteɪʃ(ə)nz/"
+  },
+  "def": "The level of pay a candidate hopes or asks to receive in a new job.",
+  "registers": {
+   "formal": {
+    "uk": "salary expectations",
+    "us": "salary expectations",
+    "ex": "Please indicate your [[salary expectations]] and notice period in your covering letter.",
+    "ex_us": "Please indicate your [[salary expectations]] and notice period in your cover letter."
+   },
+   "everyday": {
+    "uk": "what one is looking for",
+    "us": "what one is looking for",
+    "ex": "Can I ask [[what you're looking for]] in terms of salary?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to state one's salary expectations",
+   "a salary in the region of",
+   "to be within budget",
+   "to meet someone's expectations"
+  ],
+  "note_fr": "« Salary pretensions » est un faux ami (« pretension » = prétention, vanité). Attention : dans de nombreux États américains, il est interdit de demander au candidat son salaire actuel ou passé ; interrogez-le sur ses attentes, pas sur son historique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-042",
+  "level": 3,
+  "fr": "CV mensonger / embellir son CV",
+  "term": {
+   "uk": "to misrepresent one's qualifications",
+   "us": "to misrepresent one's qualifications"
+  },
+  "ipa": {
+   "uk": "/tə ˌmɪsreprɪˈzent wʌnz ˌkwɒlɪfɪˈkeɪʃ(ə)nz/",
+   "us": "/tə ˌmɪsreprɪˈzent wʌnz ˌkwɑːlɪfɪˈkeɪʃ(ə)nz/"
+  },
+  "def": "To give false or misleading information about one's degrees, experience or past jobs when applying.",
+  "registers": {
+   "formal": {
+    "uk": "to misrepresent one's qualifications",
+    "us": "to misrepresent one's qualifications",
+    "ex": "Any candidate found [[to have misrepresented their qualifications]] will be excluded from the selection process."
+   },
+   "everyday": {
+    "uk": "to embellish one's CV",
+    "us": "to embellish one's résumé",
+    "ex": "Most people [[embellish their CV]] a little, but inventing a degree is another matter.",
+    "ex_us": "Most people [[embellish their résumé]] a little, but inventing a degree is another matter."
+   },
+   "informal": {
+    "uk": "to pad one's CV",
+    "us": "to pad one's résumé",
+    "ex": "He'd [[padded his CV]] with a couple of job titles he never held.",
+    "ex_us": "He'd [[padded his résumé]] with a couple of job titles he never held."
+   }
+  },
+  "collocations": [
+   "a false statement on an application",
+   "to overstate one's experience",
+   "to falsify a degree certificate"
+  ],
+  "note_fr": "« To lie on one's CV » est correct mais abrupt ; « to misrepresent » est le terme des politiques internes et des lettres. En France, un mensonge sur le CV ne justifie pas toujours la rupture : les juges regardent notamment s'il a été déterminant dans l'embauche. Restez donc général et renvoyez à l'avocat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-043",
+  "level": 3,
+  "fr": "instabilité professionnelle (changements d'employeur fréquents)",
+  "term": {
+   "uk": "job-hopping",
+   "us": "job-hopping"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌhɒpɪŋ/",
+   "us": "/ˈdʒɑːb ˌhɑːpɪŋ/"
+  },
+  "def": "The habit of changing employer frequently, staying only a short time in each job.",
+  "registers": {
+   "formal": {
+    "uk": "frequent changes of employer",
+    "us": "frequent changes of employer",
+    "ex": "The panel noted [[frequent changes of employer]] over the past five years and invited the candidate to comment."
+   },
+   "everyday": {
+    "uk": "to move around a lot",
+    "us": "to move around a lot",
+    "ex": "He's [[moved around a lot]] - four companies in five years."
+   },
+   "informal": {
+    "uk": "job-hopping",
+    "us": "job-hopping",
+    "ex": "All that [[job-hopping]] makes me a bit nervous, I must say.",
+    "ex_us": "All that [[job-hopping]] makes me a little nervous, I have to say."
+   }
+  },
+  "collocations": [
+   "a job-hopper",
+   "short tenures",
+   "to stay the course",
+   "a stable career history"
+  ],
+  "note_fr": "« Job-hopping » est familier et un peu péjoratif : à réserver à l'oral entre collègues. Dans un compte rendu, préférez une formule factuelle (« short tenures », « four employers in five years »). « Instability » évoquerait un trouble psychologique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-044",
+  "level": 2,
+  "fr": "tri des CV",
+  "term": {
+   "uk": "CV sifting",
+   "us": "résumé screening"
+  },
+  "ipa": {
+   "uk": "/ˌsiː ˈviː ˌsɪftɪŋ/",
+   "us": "/ˈrezəmeɪ ˌskriːnɪŋ/"
+  },
+  "def": "The first stage of selection, in which applications are read and those that do not meet the requirements are set aside.",
+  "registers": {
+   "formal": {
+    "uk": "initial screening of applications",
+    "us": "initial screening of applications",
+    "ex": "The [[initial screening of applications]] is carried out against the essential criteria only."
+   },
+   "everyday": {
+    "uk": "to sift CVs",
+    "us": "to screen résumés",
+    "ex": "I spent the whole afternoon [[sifting CVs]].",
+    "ex_us": "I spent the whole afternoon [[screening résumés]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to screen applications",
+   "to screen out a candidate",
+   "to sift through two hundred CVs",
+   "to pass the initial sift"
+  ],
+  "note_fr": "« To sort CVs » signifie seulement les classer. Pour le tri sélectif : « to screen » (partout) ou « to sift » (UK, littéralement tamiser). « To screen out » = écarter. Si un logiciel ou une IA effectue ce tri, des règles de transparence et de contrôle humain s'appliquent en Europe.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-045",
+  "level": 1,
+  "fr": "présélectionner / retenir pour l'étape suivante",
+  "term": {
+   "uk": "to shortlist",
+   "us": "to shortlist"
+  },
+  "ipa": {
+   "uk": "/tə ˈʃɔːtlɪst/",
+   "us": "/tə ˈʃɔːrtlɪst/"
+  },
+  "def": "To choose, from all the applicants, the small number who will go on to the next stage.",
+  "registers": {
+   "formal": {
+    "uk": "to shortlist",
+    "us": "to select for interview",
+    "ex": "Only [[shortlisted]] candidates will be contacted.",
+    "ex_us": "Only candidates [[selected for interview]] will be contacted."
+   },
+   "everyday": {
+    "uk": "to shortlist",
+    "us": "to narrow down to",
+    "ex": "We've [[shortlisted]] four people for interview.",
+    "ex_us": "We've [[narrowed it down to]] four people to interview."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be shortlisted for a role",
+   "to draw up a shortlist",
+   "a shortlist of four",
+   "to make the shortlist"
+  ],
+  "note_fr": "« Shortlist » (nom et verbe) est omniprésent au Royaume-Uni ; aux États-Unis, il s'emploie aussi, à côté de « finalists » et de « to narrow down the field ». « Preselect » est rare et sonne technique. « To make the shortlist » = figurer parmi les candidats retenus.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-046",
+  "level": 2,
+  "fr": "logiciel de suivi des candidatures",
+  "term": {
+   "uk": "applicant tracking system",
+   "us": "applicant tracking system"
+  },
+  "ipa": {
+   "uk": "/ˌæplɪkənt ˈtrækɪŋ ˌsɪstəm/",
+   "us": "/ˌæplɪkənt ˈtrækɪŋ ˌsɪstəm/"
+  },
+  "def": "Software used by employers to collect applications, track candidates through each stage and store their records.",
+  "registers": {
+   "formal": {
+    "uk": "applicant tracking system",
+    "us": "applicant tracking system",
+    "ex": "All applications must be logged in the [[applicant tracking system]] within two working days of receipt.",
+    "ex_us": "All applications must be logged in the [[applicant tracking system]] within two business days of receipt."
+   },
+   "everyday": {
+    "uk": "ATS",
+    "us": "ATS",
+    "ex": "Is she in the [[ATS]] yet? I can't find her record."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to log an application in the ATS",
+   "to move a candidate to the next stage",
+   "to run a report from the ATS"
+  ],
+  "note_fr": "L'abréviation « ATS » se prononce lettre par lettre. « To log » = enregistrer, saisir. Pour les étapes du processus dans l'outil, on parle de « stages » ou de « pipeline stages », pas de « steps of the tunnel ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-047",
+  "level": 1,
+  "fr": "entretien d'embauche",
+  "term": {
+   "uk": "job interview",
+   "us": "job interview"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌɪntəvjuː/",
+   "us": "/ˈdʒɑːb ˌɪntərvjuː/"
+  },
+  "def": "A formal meeting at which an employer asks a candidate questions to decide whether to offer them a job.",
+  "registers": {
+   "formal": {
+    "uk": "selection interview",
+    "us": "selection interview",
+    "ex": "Each [[selection interview]] shall be conducted by at least two members of staff."
+   },
+   "everyday": {
+    "uk": "interview",
+    "us": "interview",
+    "ex": "I've got an [[interview]] with them on Thursday morning.",
+    "ex_us": "I have an [[interview]] with them on Thursday morning."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have an interview with a company",
+   "to attend an interview",
+   "a first-round interview",
+   "to do well at interview"
+  ],
+  "note_fr": "On « has » ou « attends » un entretien ; on ne « passes » pas un entretien pour dire qu'on le passe (« to pass » = réussir). « Hiring interview » est rare. Notez l'emploi britannique sans article : « at interview », « to be invited to interview ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-048",
+  "level": 1,
+  "fr": "faire passer un entretien à quelqu'un",
+  "term": {
+   "uk": "to interview someone",
+   "us": "to interview someone"
+  },
+  "ipa": {
+   "uk": "/tu ˈɪntəvjuː ˌsʌmwʌn/",
+   "us": "/tu ˈɪntərvjuː ˌsʌmwʌn/"
+  },
+  "def": "To meet a candidate and ask them questions in order to assess them for a job.",
+  "registers": {
+   "formal": {
+    "uk": "to conduct an interview",
+    "us": "to conduct an interview",
+    "ex": "Managers must complete the training module before [[conducting an interview]]."
+   },
+   "everyday": {
+    "uk": "to interview",
+    "us": "to interview",
+    "ex": "We're [[interviewing]] three people on Monday."
+   },
+   "informal": {
+    "uk": "to see",
+    "us": "to see",
+    "ex": "I'm [[seeing]] two more candidates this afternoon."
+   }
+  },
+  "collocations": [
+   "to interview someone for a role",
+   "to sit in on an interview",
+   "the interviewer",
+   "the interviewee"
+  ],
+  "note_fr": "Le verbe est transitif direct : « to interview a candidate ». « To make pass an interview » est impossible. « To sit in on an interview » = y assister en observateur. « Interviewer » = celui qui mène l'entretien ; « interviewee » = le candidat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-049",
+  "level": 1,
+  "fr": "convoquer à un entretien",
+  "term": {
+   "uk": "to invite someone to interview",
+   "us": "to invite someone for an interview"
+  },
+  "ipa": {
+   "uk": "/tu ɪnˌvaɪt ˌsʌmwʌn tu ˈɪntəvjuː/",
+   "us": "/tu ɪnˌvaɪt ˌsʌmwʌn fər ən ˈɪntərvjuː/"
+  },
+  "def": "To ask a candidate to come to a meeting where they will be assessed for the job.",
+  "registers": {
+   "formal": {
+    "uk": "to invite to attend an interview",
+    "us": "to invite to attend an interview",
+    "ex": "We are pleased [[to invite you to attend an interview]] at our offices on Tuesday 3 June at 10 a.m.",
+    "ex_us": "We are pleased [[to invite you to attend an interview]] at our offices on Tuesday, June 3, at 10 a.m."
+   },
+   "everyday": {
+    "uk": "to get someone in for an interview",
+    "us": "to bring someone in for an interview",
+    "ex": "Let's [[get her in for an interview]] next week.",
+    "ex_us": "Let's [[bring her in for an interview]] next week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be invited to interview",
+   "to schedule an interview",
+   "to confirm one's attendance",
+   "to rearrange an interview"
+  ],
+  "note_fr": "« To convoke » est archaïque, et « to summon » (sommer de comparaître) ferait fuir le candidat : en anglais, on « invite ». Réservez « to call someone to a meeting » aux réunions disciplinaires. Fixer un entretien : « to schedule » ou « to arrange an interview ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-050",
+  "level": 2,
+  "fr": "entretien téléphonique de présélection",
+  "term": {
+   "uk": "telephone interview",
+   "us": "phone screen"
+  },
+  "ipa": {
+   "uk": "/ˈtelɪfəʊn ˌɪntəvjuː/",
+   "us": "/ˈfoʊn skriːn/"
+  },
+  "def": "A short first conversation by phone to check a candidate's basic suitability before a full interview.",
+  "registers": {
+   "formal": {
+    "uk": "preliminary telephone interview",
+    "us": "preliminary telephone interview",
+    "ex": "Shortlisted candidates will first be invited to a [[preliminary telephone interview]] lasting approximately thirty minutes."
+   },
+   "everyday": {
+    "uk": "phone interview",
+    "us": "phone screen",
+    "ex": "I did a quick [[phone interview]] with him yesterday and he came across well.",
+    "ex_us": "I did a quick [[phone screen]] with him yesterday and he came across well."
+   },
+   "informal": {
+    "uk": "a quick call",
+    "us": "a quick call",
+    "ex": "Let's have [[a quick call]] with her before we bring her in."
+   }
+  },
+  "collocations": [
+   "to do a phone screen",
+   "a screening call",
+   "a video interview",
+   "to come across well"
+  ],
+  "note_fr": "« Phone screen » (nom) et « to phone-screen » (verbe) sont typiquement américains. « To come across well » = faire bonne impression. L'entretien en visioconférence : « a video interview » ; s'il est préenregistré, sans interlocuteur, « a one-way video interview ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-051",
+  "level": 2,
+  "fr": "entretien structuré",
+  "term": {
+   "uk": "structured interview",
+   "us": "structured interview"
+  },
+  "ipa": {
+   "uk": "/ˌstrʌktʃəd ˈɪntəvjuː/",
+   "us": "/ˌstrʌktʃərd ˈɪntərvjuː/"
+  },
+  "def": "An interview in which every candidate is asked the same prepared questions and scored in the same way.",
+  "registers": {
+   "formal": {
+    "uk": "structured interview",
+    "us": "structured interview",
+    "ex": "A [[structured interview]], based on a common set of questions, shall be used for all shortlisted candidates."
+   },
+   "everyday": {
+    "uk": "to ask everyone the same questions",
+    "us": "to ask everyone the same questions",
+    "ex": "It's fairer if we [[ask everyone the same questions]] and score them as we go."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an interview guide",
+   "a set of core questions",
+   "to score answers against the criteria",
+   "to probe further"
+  ],
+  "note_fr": "L'entretien structuré est la meilleure protection contre un grief de discrimination : mêmes questions, même grille, notes conservées. « Interview guide » = trame d'entretien. « To probe » = creuser une réponse par des questions de relance (« follow-up questions »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-052",
+  "level": 2,
+  "fr": "entretien comportemental (fondé sur des situations vécues)",
+  "term": {
+   "uk": "competency-based interview",
+   "us": "behavioral interview"
+  },
+  "ipa": {
+   "uk": "/ˌkɒmpɪtənsi beɪst ˈɪntəvjuː/",
+   "us": "/bɪˌheɪvjərəl ˈɪntərvjuː/"
+  },
+  "def": "An interview in which candidates are asked to describe real past situations as evidence of specific skills.",
+  "registers": {
+   "formal": {
+    "uk": "competency-based interview",
+    "us": "behavioral interview",
+    "ex": "The second stage consists of a [[competency-based interview]] with two senior managers.",
+    "ex_us": "The second stage consists of a [[behavioral interview]] with two senior managers."
+   },
+   "everyday": {
+    "uk": "competency questions",
+    "us": "behavioral questions",
+    "ex": "Prepare some examples - they always ask [[competency questions]].",
+    "ex_us": "Prepare some examples - they always ask [[behavioral questions]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "Tell me about a time when...",
+   "Can you give me an example of...",
+   "the STAR method",
+   "a situational question"
+  ],
+  "note_fr": "La question type commence par « Tell me about a time when... » et appelle une réponse structurée selon la méthode STAR (Situation, Task, Action, Result). Orthographe : « behavioural » (UK), « behavioral » (US). À distinguer de la « situational question », hypothétique : « What would you do if... ? »",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-053",
+  "level": 2,
+  "fr": "jury d'entretien",
+  "term": {
+   "uk": "interview panel",
+   "us": "interview panel"
+  },
+  "ipa": {
+   "uk": "/ˈɪntəvjuː ˌpæn(ə)l/",
+   "us": "/ˈɪntərvjuː ˌpæn(ə)l/"
+  },
+  "def": "The group of people who interview a candidate together and assess them.",
+  "registers": {
+   "formal": {
+    "uk": "selection panel",
+    "us": "selection panel",
+    "ex": "The [[selection panel]] shall include at least one member who has completed recruitment training."
+   },
+   "everyday": {
+    "uk": "interview panel",
+    "us": "interview panel",
+    "ex": "Who's on the [[interview panel]] for the finance role?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a panel interview",
+   "to sit on a panel",
+   "to chair the panel",
+   "a panel member"
+  ],
+  "note_fr": "« Jury » est réservé aux procès et aux concours : pour un recrutement, on dit « panel ». « To sit on a panel » = en faire partie ; « to chair the panel » = le présider. Un entretien devant plusieurs personnes est « a panel interview ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-054",
+  "level": 2,
+  "fr": "passer à l'étape suivante (du processus)",
+  "term": {
+   "uk": "to progress to the next stage",
+   "us": "to move on to the next round"
+  },
+  "ipa": {
+   "uk": "/tə prəˌɡres tə ðə ˌnekst ˈsteɪdʒ/",
+   "us": "/tə ˌmuːv ˈɑːn tə ðə ˌnekst ˈraʊnd/"
+  },
+  "def": "To be selected to continue in a recruitment process after an interview or test.",
+  "registers": {
+   "formal": {
+    "uk": "to progress to the next stage",
+    "us": "to advance to the next stage",
+    "ex": "We are pleased to inform you that you [[have progressed to the next stage]] of the selection process.",
+    "ex_us": "We are pleased to inform you that you [[have advanced to the next stage]] of the selection process."
+   },
+   "everyday": {
+    "uk": "to get through to the next round",
+    "us": "to move on to the next round",
+    "ex": "Only two of them [[got through to the next round]].",
+    "ex_us": "Only two of them [[moved on to the next round]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a second interview",
+   "the final round",
+   "to take an application forward",
+   "to reach the final stage"
+  ],
+  "note_fr": "Côté employeur, la tournure élégante est « We'd like to take your application forward ». « To pass to the next step » est un calque. « Round » (tour) est fréquent aux États-Unis ; « stage » domine au Royaume-Uni.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-055",
+  "level": 1,
+  "fr": "points forts et points faibles",
+  "term": {
+   "uk": "strengths and weaknesses",
+   "us": "strengths and weaknesses"
+  },
+  "ipa": {
+   "uk": "/ˌstreŋθs ən ˈwiːknəsɪz/",
+   "us": "/ˌstreŋkθs ən ˈwiːknəsɪz/"
+  },
+  "def": "The things a person does well and the things they do less well.",
+  "registers": {
+   "formal": {
+    "uk": "strengths and areas for development",
+    "us": "strengths and areas for development",
+    "ex": "The report summarises each candidate's [[strengths and areas for development]]."
+   },
+   "everyday": {
+    "uk": "strengths and weaknesses",
+    "us": "strengths and weaknesses",
+    "ex": "What would you say are your main [[strengths and weaknesses]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to play to one's strengths",
+   "a key strength",
+   "an area for improvement",
+   "a development need"
+  ],
+  "note_fr": "« Strong points » et « weak points » se comprennent, mais « strengths » et « weaknesses » sont plus naturels. Dans un compte rendu, l'euphémisme d'usage pour les faiblesses est « areas for development » ou « development needs ». « Défaut » ne se dit jamais « default ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-056",
+  "level": 2,
+  "fr": "mise en situation professionnelle",
+  "term": {
+   "uk": "job simulation exercise",
+   "us": "job simulation exercise"
+  },
+  "ipa": {
+   "uk": "/ˌdʒɒb sɪmjʊˈleɪʃ(ə)n ˌeksəsaɪz/",
+   "us": "/ˌdʒɑːb sɪmjəˈleɪʃ(ə)n ˌeksərsaɪz/"
+  },
+  "def": "A selection test in which the candidate carries out a task that closely resembles the real work.",
+  "registers": {
+   "formal": {
+    "uk": "job simulation exercise",
+    "us": "job simulation exercise",
+    "ex": "Candidates will complete a [[job simulation exercise]] designed to reflect the daily demands of the role."
+   },
+   "everyday": {
+    "uk": "practical exercise",
+    "us": "practical exercise",
+    "ex": "We give them a [[practical exercise]] - drafting a reply to a difficult employee email."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a role play",
+   "an in-tray exercise",
+   "a case study",
+   "a work sample test"
+  ],
+  "note_fr": "« Situation setting » n'existe pas. Selon l'exercice : « role play » (jeu de rôle), « case study » (étude de cas), « in-tray exercise » (UK) ou « in-basket exercise » (US) pour le traitement d'une corbeille de courrier, « presentation exercise ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-057",
+  "level": 2,
+  "fr": "centre d'évaluation (journée de sélection collective)",
+  "term": {
+   "uk": "assessment centre",
+   "us": "assessment center"
+  },
+  "ipa": {
+   "uk": "/əˈsesmənt ˌsentə/",
+   "us": "/əˈsesmənt ˌsentər/"
+  },
+  "def": "A selection event, often lasting a day, where a group of candidates take part in tests, exercises and interviews observed by assessors.",
+  "registers": {
+   "formal": {
+    "uk": "assessment centre",
+    "us": "assessment center",
+    "ex": "Candidates who pass the online tests will be invited to attend an [[assessment centre]] in Manchester.",
+    "ex_us": "Candidates who pass the online tests will be invited to attend an [[assessment center]] in Chicago."
+   },
+   "everyday": {
+    "uk": "assessment day",
+    "us": "assessment day",
+    "ex": "The [[assessment day]] is tough: a group exercise, a presentation and two interviews."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to attend an assessment centre",
+   "a group exercise",
+   "an assessor",
+   "to be observed and scored"
+  ],
+  "note_fr": "Faux lieu : un « assessment centre » n'est pas un bâtiment mais une méthode, une journée d'épreuves. On y « attend » (on y participe). Les évaluateurs sont des « assessors ». Très utilisé au Royaume-Uni pour les jeunes diplômés ; moins répandu sous ce nom aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-058",
+  "level": 2,
+  "fr": "tests psychotechniques / de personnalité",
+  "term": {
+   "uk": "psychometric tests",
+   "us": "pre-employment assessments"
+  },
+  "ipa": {
+   "uk": "/ˌsaɪkəˌmetrɪk ˈtests/",
+   "us": "/ˌpriː ɪmˌplɔɪmənt əˈsesmənts/"
+  },
+  "def": "Standardised tests used in selection to measure a candidate's reasoning ability or personality.",
+  "registers": {
+   "formal": {
+    "uk": "psychometric testing",
+    "us": "pre-employment testing",
+    "ex": "[[Psychometric testing]] forms part of the selection process for all management positions.",
+    "ex_us": "[[Pre-employment testing]] forms part of the selection process for all management positions."
+   },
+   "everyday": {
+    "uk": "psychometric tests",
+    "us": "assessments",
+    "ex": "They made me sit two [[psychometric tests]] before I'd even met anyone.",
+    "ex_us": "They made me take two [[assessments]] before I'd even met anyone."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a numerical reasoning test",
+   "a personality questionnaire",
+   "an aptitude test",
+   "to sit a test (UK) / to take a test (US)"
+  ],
+  "note_fr": "« Psychotechnical » ne se dit pas. Un Britannique « sits » ou « takes » a test ; un Américain « takes » a test ; personne ne « passes » un test, sauf pour dire qu'il l'a réussi. En droit français, les méthodes d'évaluation doivent être pertinentes au regard du poste et le candidat doit en être informé au préalable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-059",
+  "level": 2,
+  "fr": "grille d'évaluation des candidats",
+  "term": {
+   "uk": "scoring matrix",
+   "us": "interview scorecard"
+  },
+  "ipa": {
+   "uk": "/ˈskɔːrɪŋ ˌmeɪtrɪks/",
+   "us": "/ˈɪntərvjuː ˌskɔːrkɑːrd/"
+  },
+  "def": "A table used to give each candidate a mark against each selection criterion.",
+  "registers": {
+   "formal": {
+    "uk": "scoring matrix",
+    "us": "scorecard",
+    "ex": "Each panel member shall complete a [[scoring matrix]] independently before any discussion takes place.",
+    "ex_us": "Each panel member shall complete a [[scorecard]] independently before any discussion takes place."
+   },
+   "everyday": {
+    "uk": "score sheet",
+    "us": "scorecard",
+    "ex": "Fill in your [[score sheet]] before we compare notes, please.",
+    "ex_us": "Fill in your [[scorecard]] before we compare notes, please."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to score a candidate against the criteria",
+   "to compare notes",
+   "a rating scale",
+   "to weight a criterion"
+  ],
+  "note_fr": "« Evaluation grid » se comprend mais sent la traduction. « To score against the criteria » = noter au regard des critères ; « to weight » = pondérer. Ces grilles sont à conserver : ce sont elles qui permettent de justifier la décision en cas de contestation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-060",
+  "level": 2,
+  "fr": "adéquation au poste / à l'équipe",
+  "term": {
+   "uk": "fit",
+   "us": "fit"
+  },
+  "ipa": {
+   "uk": "/fɪt/",
+   "us": "/fɪt/"
+  },
+  "def": "How well a candidate's skills, values and way of working match the job and the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "suitability for the role",
+    "us": "suitability for the role",
+    "ex": "The interview is designed to assess the candidate's [[suitability for the role]] against objective criteria."
+   },
+   "everyday": {
+    "uk": "a good fit",
+    "us": "a good fit",
+    "ex": "On paper she's [[a good fit]], but I'd like a second opinion."
+   },
+   "informal": {
+    "uk": "the right fit",
+    "us": "the right fit",
+    "ex": "Nice guy, but he's just not [[the right fit]] for us."
+   }
+  },
+  "collocations": [
+   "to be a good fit for the role",
+   "cultural fit",
+   "to be well suited to",
+   "a strong match"
+  ],
+  "note_fr": "« Adequacy » signifie « caractère suffisant » : contresens. « Fit » est pratique mais dangereux : « cultural fit » sert trop souvent à écarter ceux qui ne ressemblent pas à l'équipe. Dans un écrit, rattachez toujours la décision à des critères objectifs (« suitability », « meets the criteria »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-061",
+  "level": 3,
+  "fr": "essai professionnel (test pratique avant l'embauche)",
+  "term": {
+   "uk": "work trial",
+   "us": "working interview"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːk ˌtraɪəl/",
+   "us": "/ˌwɜːrkɪŋ ˈɪntərvjuː/"
+  },
+  "def": "A short practical test in which a candidate does real tasks so the employer can judge their ability before deciding to hire.",
+  "registers": {
+   "formal": {
+    "uk": "work trial",
+    "us": "working interview",
+    "ex": "Any [[work trial]] must be brief, strictly limited to assessing the candidate's skills and agreed in advance.",
+    "ex_us": "Any [[working interview]] must be brief, strictly limited to assessing the candidate's skills and agreed in advance."
+   },
+   "everyday": {
+    "uk": "trial shift",
+    "us": "working interview",
+    "ex": "We asked him to do a [[trial shift]] in the kitchen on Saturday.",
+    "ex_us": "We asked him to do a [[working interview]] in the kitchen on Saturday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to do a trial shift",
+   "an unpaid trial",
+   "a skills test",
+   "to be paid for one's time"
+  ],
+  "note_fr": "Ne confondez pas avec la période d'essai (« probationary period »), qui suppose un contrat déjà conclu. En France, l'essai professionnel doit rester un test bref, hors conditions normales d'emploi ; s'il se prolonge ou devient productif, il risque d'être analysé comme un contrat de travail. Aux États-Unis et au Royaume-Uni, un essai qui profite à l'entreprise doit en principe être payé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-062",
+  "level": 3,
+  "fr": "passer un candidat au crible",
+  "term": {
+   "uk": "to vet a candidate",
+   "us": "to vet a candidate"
+  },
+  "ipa": {
+   "uk": "/tə ˌvet ə ˈkændɪdət/",
+   "us": "/tə ˌvet ə ˈkændɪdeɪt/"
+  },
+  "def": "To check a candidate's background and claims carefully before deciding to appoint them.",
+  "registers": {
+   "formal": {
+    "uk": "to carry out due diligence on",
+    "us": "to carry out due diligence on",
+    "ex": "The firm will [[carry out due diligence on]] the preferred candidate before an offer is confirmed."
+   },
+   "everyday": {
+    "uk": "to vet",
+    "us": "to vet",
+    "ex": "The agency is supposed [[to vet]] everyone before they send them over."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a vetting process",
+   "to be thoroughly vetted",
+   "security vetting",
+   "to vet someone's background"
+  ],
+  "note_fr": "« To vet » n'a rien de vétérinaire ici : c'est contrôler soigneusement. « Vetting » désigne en particulier, au Royaume-Uni, l'habilitation de sécurité. Toute vérification doit rester proportionnée au poste, et le candidat doit en être informé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-063",
+  "level": 1,
+  "fr": "candidat(e) retenu(e)",
+  "term": {
+   "uk": "successful candidate",
+   "us": "successful candidate"
+  },
+  "ipa": {
+   "uk": "/səkˌsesf(ə)l ˈkændɪdət/",
+   "us": "/səkˌsesf(ə)l ˈkændɪdeɪt/"
+  },
+  "def": "The person who is chosen for the job at the end of the selection process.",
+  "registers": {
+   "formal": {
+    "uk": "successful candidate",
+    "us": "successful candidate",
+    "ex": "The [[successful candidate]] will report to the Head of Human Resources."
+   },
+   "everyday": {
+    "uk": "the person we've chosen",
+    "us": "the person we chose",
+    "ex": "[[The person we've chosen]] can't start until September.",
+    "ex_us": "[[The person we chose]] can't start until September."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the successful applicant",
+   "an unsuccessful candidate",
+   "the preferred candidate",
+   "to be appointed to a post"
+  ],
+  "note_fr": "« The retained candidate » est un calque (« to retain » = fidéliser, garder un salarié). On dit « the successful candidate » et, pour les autres, « unsuccessful candidates ». Tant que l'offre n'est pas acceptée, on parle du « preferred candidate ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-064",
+  "level": 1,
+  "fr": "ne pas retenir une candidature",
+  "term": {
+   "uk": "to reject an application",
+   "us": "to reject an application"
+  },
+  "ipa": {
+   "uk": "/tə rɪˌdʒekt ən ˌæplɪˈkeɪʃ(ə)n/",
+   "us": "/tə rɪˌdʒekt ən ˌæplɪˈkeɪʃ(ə)n/"
+  },
+  "def": "To decide not to take a candidate any further and to tell them so.",
+  "registers": {
+   "formal": {
+    "uk": "to be unsuccessful",
+    "us": "to be unsuccessful",
+    "ex": "We regret to inform you that on this occasion your application [[has been unsuccessful]]."
+   },
+   "everyday": {
+    "uk": "to turn someone down",
+    "us": "to turn someone down",
+    "ex": "We had [[to turn him down]] - he just didn't have the experience."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a rejection letter",
+   "to let a candidate down gently",
+   "on this occasion",
+   "not to take an application any further"
+  ],
+  "note_fr": "Dans une lettre, on évite « rejected » et « refused » : la formule consacrée est « your application has been unsuccessful » ou « we will not be taking your application any further ». « On this occasion » adoucit et laisse la porte ouverte. « To let someone down gently » = annoncer un refus avec tact.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-065",
+  "level": 1,
+  "fr": "revenir vers quelqu'un / recontacter",
+  "term": {
+   "uk": "to get back to someone",
+   "us": "to get back to someone"
+  },
+  "ipa": {
+   "uk": "/tə ˌɡet ˈbæk tə ˌsʌmwʌn/",
+   "us": "/tə ˌɡet ˈbæk tə ˌsʌmwʌn/"
+  },
+  "def": "To contact someone again later with an answer or a decision.",
+  "registers": {
+   "formal": {
+    "uk": "to revert to someone",
+    "us": "to respond to someone",
+    "ex": "We will [[revert to you]] once the panel has reached its decision.",
+    "ex_us": "We will [[respond to you]] once the panel has reached its decision."
+   },
+   "everyday": {
+    "uk": "to get back to",
+    "us": "to get back to",
+    "ex": "I'll [[get back to you]] by Friday at the latest."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to get back to someone by Friday",
+   "to be in touch",
+   "to keep someone posted",
+   "to let someone know either way"
+  ],
+  "note_fr": "« I come back to you » est le calque le plus répandu chez les francophones. Dites « I'll get back to you » ou « I'll be in touch ». « To revert to » dans ce sens est admis dans les e-mails formels britanniques, mais critiqué et rare aux États-Unis, où « revert » signifie seulement « revenir à un état antérieur ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-066",
+  "level": 2,
+  "fr": "se désister / retirer sa candidature",
+  "term": {
+   "uk": "to withdraw one's application",
+   "us": "to withdraw one's application"
+  },
+  "ipa": {
+   "uk": "/tə wɪðˌdrɔː wʌnz ˌæplɪˈkeɪʃ(ə)n/",
+   "us": "/tə wɪðˌdrɔː wʌnz ˌæplɪˈkeɪʃ(ə)n/"
+  },
+  "def": "To tell an employer that one no longer wishes to be considered for a job.",
+  "registers": {
+   "formal": {
+    "uk": "to withdraw one's application",
+    "us": "to withdraw one's application",
+    "ex": "I regret to inform you that I have decided [[to withdraw my application]] for the position of Compliance Officer."
+   },
+   "everyday": {
+    "uk": "to pull out",
+    "us": "to drop out",
+    "ex": "Our first choice [[pulled out]] at the last minute.",
+    "ex_us": "Our first choice [[dropped out]] at the last minute."
+   },
+   "informal": {
+    "uk": "to ghost",
+    "us": "to ghost",
+    "ex": "He seemed keen, then he just [[ghosted]] us."
+   }
+  },
+  "collocations": [
+   "to pull out of the process",
+   "to drop out at the final stage",
+   "to withdraw from the process",
+   "candidate drop-off"
+  ],
+  "note_fr": "« To desist » = cesser (un comportement), jamais « se désister ». « To ghost » (cesser de répondre sans explication) vient du vocabulaire amoureux et reste familier ; il s'emploie dans les deux sens, car les employeurs aussi « ghost » les candidats.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-067",
+  "level": 3,
+  "fr": "candidat de réserve (second choix en cas de désistement)",
+  "term": {
+   "uk": "reserve candidate",
+   "us": "backup candidate"
+  },
+  "ipa": {
+   "uk": "/rɪˈzɜːv ˌkændɪdət/",
+   "us": "/ˈbækʌp ˌkændɪdeɪt/"
+  },
+  "def": "A candidate who was not chosen but would be offered the job if the first choice declined.",
+  "registers": {
+   "formal": {
+    "uk": "reserve candidate",
+    "us": "alternate candidate",
+    "ex": "The panel also identified a [[reserve candidate]], to whom the post will be offered should the first candidate decline.",
+    "ex_us": "The panel also identified an [[alternate candidate]], to whom the position will be offered should the first candidate decline."
+   },
+   "everyday": {
+    "uk": "second choice",
+    "us": "backup candidate",
+    "ex": "Don't turn anyone down yet - we need to keep our [[second choice]] warm.",
+    "ex_us": "Don't turn anyone down yet - we need to keep our [[backup candidate]] warm."
+   },
+   "informal": {
+    "uk": "runner-up",
+    "us": "runner-up",
+    "ex": "The [[runner-up]] was actually very close."
+   }
+  },
+  "collocations": [
+   "to keep a candidate warm",
+   "to hold a candidate in reserve",
+   "a close second",
+   "to fall through"
+  ],
+  "note_fr": "« To keep a candidate warm » = entretenir l'intérêt d'un candidat sans rien lui promettre. Par prudence, n'envoyez pas les réponses négatives avant que le premier choix ait accepté. « The offer fell through » = l'offre n'a pas abouti.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-068",
+  "level": 2,
+  "fr": "égalité des chances (dans l'accès à l'emploi)",
+  "term": {
+   "uk": "equal opportunities",
+   "us": "equal employment opportunity"
+  },
+  "ipa": {
+   "uk": "/ˌiːkwəl ˌɒpəˈtjuːnətiz/",
+   "us": "/ˌiːkwəl ɪmˌplɔɪmənt ˌɑːpərˈtuːnəti/"
+  },
+  "def": "The principle that everyone should have the same chance of being hired, whatever their sex, origin, age or other personal characteristics.",
+  "registers": {
+   "formal": {
+    "uk": "equal opportunities",
+    "us": "equal employment opportunity",
+    "ex": "The Company is committed to [[equal opportunities]] at every stage of recruitment and selection.",
+    "ex_us": "The Company is committed to [[equal employment opportunity]] at every stage of recruitment and selection."
+   },
+   "everyday": {
+    "uk": "a level playing field",
+    "us": "a level playing field",
+    "ex": "Same questions for everybody - we want [[a level playing field]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an equal opportunities employer",
+   "an equal opportunity employer (US)",
+   "an equal opportunities policy",
+   "to treat all applicants fairly"
+  ],
+  "note_fr": "« Equality of chances » est un calque (« chance » = hasard). Au Royaume-Uni : « equal opportunities » (pluriel) ; aux États-Unis : « equal employment opportunity » (EEO), d'où la mention « We are an equal opportunity employer » au bas des annonces. Les critères protégés ne sont pas identiques dans les trois pays.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-069",
+  "level": 2,
+  "fr": "biais inconscient",
+  "term": {
+   "uk": "unconscious bias",
+   "us": "unconscious bias"
+  },
+  "ipa": {
+   "uk": "/ʌnˌkɒnʃəs ˈbaɪəs/",
+   "us": "/ʌnˌkɑːnʃəs ˈbaɪəs/"
+  },
+  "def": "An unfair preference or prejudice that influences a decision without the person being aware of it.",
+  "registers": {
+   "formal": {
+    "uk": "unconscious bias",
+    "us": "implicit bias",
+    "ex": "All members of selection panels are required to complete [[unconscious bias]] training.",
+    "ex_us": "All members of selection panels are required to complete [[implicit bias]] training."
+   },
+   "everyday": {
+    "uk": "gut feeling",
+    "us": "gut feeling",
+    "ex": "We can't turn someone down on a [[gut feeling]] - what does the score sheet say?",
+    "ex_us": "We can't turn someone down on a [[gut feeling]] - what does the scorecard say?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to guard against bias",
+   "to be biased against someone",
+   "affinity bias",
+   "the halo effect"
+  ],
+  "note_fr": "« Bias » est indénombrable ou dénombrable, et l'adjectif est « biased » : « he is biased », jamais « he is bias ». On est « biased against » (défavorablement) ou « in favour of » (US : « in favor of »). « Implicit bias » est plus courant aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-070",
+  "level": 3,
+  "fr": "CV anonyme / recrutement à l'aveugle",
+  "term": {
+   "uk": "blind recruitment",
+   "us": "blind hiring"
+  },
+  "ipa": {
+   "uk": "/ˌblaɪnd rɪˈkruːtmənt/",
+   "us": "/ˌblaɪnd ˈhaɪərɪŋ/"
+  },
+  "def": "A way of selecting in which names and other personal details are removed from applications so that they cannot influence the decision.",
+  "registers": {
+   "formal": {
+    "uk": "anonymised applications",
+    "us": "anonymized applications",
+    "ex": "Shortlisting shall be carried out on the basis of [[anonymised applications]].",
+    "ex_us": "Screening shall be carried out on the basis of [[anonymized applications]]."
+   },
+   "everyday": {
+    "uk": "name-blind CVs",
+    "us": "blind résumés",
+    "ex": "We've moved to [[name-blind CVs]] for the first sift.",
+    "ex_us": "We've moved to [[blind résumés]] for the first screen."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to anonymise an application",
+   "to strip out personal details",
+   "to redact a name",
+   "name-blind recruitment"
+  ],
+  "note_fr": "« Anonymous CV » laisserait croire que le candidat a lui-même caché son identité : dites « anonymised » (UK) / « anonymized » (US) ou « blind ». « To redact » = occulter une mention dans un document. En France comme au Royaume-Uni et aux États-Unis, la pratique reste volontaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-071",
+  "level": 3,
+  "fr": "questions interdites en entretien",
+  "term": {
+   "uk": "off-limits interview questions",
+   "us": "off-limits interview questions"
+  },
+  "ipa": {
+   "uk": "/ˌɒf ˈlɪmɪts ˈɪntəvjuː ˌkwestʃ(ə)nz/",
+   "us": "/ˌɔːf ˈlɪmɪts ˈɪntərvjuː ˌkwestʃ(ə)nz/"
+  },
+  "def": "Questions an interviewer should not ask because they touch on personal matters unrelated to the job and may lead to discrimination.",
+  "registers": {
+   "formal": {
+    "uk": "questions unrelated to the requirements of the role",
+    "us": "questions unrelated to the requirements of the position",
+    "ex": "Interviewers must refrain from asking [[questions unrelated to the requirements of the role]], in particular about family circumstances or health.",
+    "ex_us": "Interviewers must refrain from asking [[questions unrelated to the requirements of the position]], in particular about family circumstances or health."
+   },
+   "everyday": {
+    "uk": "off-limits questions",
+    "us": "off-limits questions",
+    "ex": "Anything about children or plans to start a family is strictly [[off-limits]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to stick to job-related questions",
+   "to steer clear of personal questions",
+   "a legitimate question",
+   "to be none of the employer's business"
+  ],
+  "note_fr": "En droit français, les informations demandées à un candidat ne peuvent servir qu'à apprécier sa capacité à occuper l'emploi et doivent avoir un lien direct et nécessaire avec celui-ci. L'esprit est le même au Royaume-Uni et aux États-Unis, mais par le biais du droit de la discrimination : une question sur l'âge, la famille ou la santé servira de preuve contre l'employeur. « Forbidden questions » sonne enfantin.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-072",
+  "level": 3,
+  "fr": "exigence professionnelle essentielle et déterminante",
+  "term": {
+   "uk": "occupational requirement",
+   "us": "bona fide occupational qualification"
+  },
+  "ipa": {
+   "uk": "/ˌɒkjʊˌpeɪʃ(ə)nəl rɪˈkwaɪəmənt/",
+   "us": "/ˌboʊnə ˈfaɪdi ˌɑːkjəˌpeɪʃ(ə)nəl ˌkwɑːlɪfɪˈkeɪʃ(ə)n/"
+  },
+  "def": "A narrow legal exception allowing an employer to require a particular characteristic, such as sex, where the nature of the job genuinely demands it.",
+  "registers": {
+   "formal": {
+    "uk": "genuine occupational requirement",
+    "us": "bona fide occupational qualification",
+    "ex": "The advertisement may specify a female candidate only where this constitutes a [[genuine occupational requirement]].",
+    "ex_us": "The advertisement may specify a female candidate only where this constitutes a [[bona fide occupational qualification]]."
+   },
+   "everyday": {
+    "uk": "a genuine requirement of the job",
+    "us": "a BFOQ",
+    "ex": "You can only ask for a woman if it's [[a genuine requirement of the job]] - and that's rare.",
+    "ex_us": "You can only ask for a woman if it's [[a BFOQ]] - and that's rare."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rely on an occupational requirement",
+   "a proportionate means of achieving a legitimate aim",
+   "to be justified by the nature of the work"
+  ],
+  "note_fr": "Trois noms pour une même exception, toujours interprétée strictement : « exigence professionnelle essentielle et déterminante » en France, « occupational requirement » au Royaume-Uni, « bona fide occupational qualification » (BFOQ) aux États-Unis, où elle ne peut jamais porter sur la race. Dans le doute, n'inscrivez aucun critère personnel dans une annonce.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-073",
+  "level": 3,
+  "fr": "liste de candidats diversifiée",
+  "term": {
+   "uk": "diverse shortlist",
+   "us": "diverse slate"
+  },
+  "ipa": {
+   "uk": "/daɪˌvɜːs ˈʃɔːtlɪst/",
+   "us": "/daɪˌvɜːrs ˈsleɪt/"
+  },
+  "def": "A final group of candidates that includes people from different backgrounds, not all of the same sex or origin.",
+  "registers": {
+   "formal": {
+    "uk": "diverse shortlist",
+    "us": "diverse slate of candidates",
+    "ex": "Search firms are asked to present a [[diverse shortlist]] for every senior appointment.",
+    "ex_us": "Search firms are asked to present a [[diverse slate of candidates]] for every senior appointment."
+   },
+   "everyday": {
+    "uk": "balanced shortlist",
+    "us": "diverse slate",
+    "ex": "The agency sent us five men again - I've asked them for a [[balanced shortlist]].",
+    "ex_us": "The agency sent us five men again - I've asked them for a [[diverse slate]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to widen the pool of applicants",
+   "under-represented groups",
+   "positive action (UK)",
+   "affirmative action (US)"
+  ],
+  "note_fr": "Élargir le vivier est licite partout ; choisir un candidat en raison de son sexe ou de son origine ne l'est généralement pas. Vocabulaire : « positive action » (UK) désigne des mesures d'encouragement encadrées, « positive discrimination » y est illicite ; « affirmative action » est le terme américain, aujourd'hui très contesté. Ne promettez jamais de « quotas » à la légère.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-074",
+  "level": 1,
+  "fr": "références (professionnelles)",
+  "term": {
+   "uk": "references",
+   "us": "references"
+  },
+  "ipa": {
+   "uk": "/ˈref(ə)rənsɪz/",
+   "us": "/ˈref(ə)rənsɪz/"
+  },
+  "def": "Statements from former employers or other people confirming a candidate's past work and character.",
+  "registers": {
+   "formal": {
+    "uk": "to take up references",
+    "us": "to check references",
+    "ex": "References will only be [[taken up]] once a conditional offer has been made.",
+    "ex_us": "References will only be [[checked]] once a conditional offer has been made."
+   },
+   "everyday": {
+    "uk": "to follow up references",
+    "us": "to check references",
+    "ex": "Have we [[followed up her references]] yet?",
+    "ex_us": "Have we [[checked her references]] yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to provide two references",
+   "a satisfactory reference",
+   "to give someone a reference",
+   "a reference request"
+  ],
+  "note_fr": "On ne « takes » pas des références au sens français : au Royaume-Uni, on les « takes up » ou « follows up » ; aux États-Unis, on les « checks ». En France, l'employeur ne contacte un ancien employeur qu'après en avoir informé le candidat. Au Royaume-Uni et aux États-Unis, beaucoup d'entreprises ne confirment que les dates et l'intitulé du poste.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-075",
+  "level": 2,
+  "fr": "personne citée en référence",
+  "term": {
+   "uk": "referee",
+   "us": "reference"
+  },
+  "ipa": {
+   "uk": "/ˌrefəˈriː/",
+   "us": "/ˈref(ə)rəns/"
+  },
+  "def": "A person, usually a former manager, who agrees to confirm a candidate's experience and character to a new employer.",
+  "registers": {
+   "formal": {
+    "uk": "referee",
+    "us": "reference",
+    "ex": "Please give the names and contact details of two [[referees]], one of whom should be your current employer.",
+    "ex_us": "Please give the names and contact details of two [[references]], one of whom should be your current employer."
+   },
+   "everyday": {
+    "uk": "to act as a referee",
+    "us": "to be a reference",
+    "ex": "My old boss has agreed [[to act as a referee]].",
+    "ex_us": "My old boss has agreed [[to be a reference]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to name someone as a referee",
+   "to contact a referee",
+   "to list someone as a reference",
+   "to vouch for someone"
+  ],
+  "note_fr": "Au Royaume-Uni, la personne est « a referee » et son témoignage « a reference » ; aux États-Unis, « reference » désigne les deux, et « referee » n'évoque que l'arbitre sportif. « To vouch for someone » = se porter garant de quelqu'un. Ne confondez pas avec « referral » (cooptation, recommandation).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-076",
+  "level": 2,
+  "fr": "vérification du casier judiciaire",
+  "term": {
+   "uk": "criminal record check",
+   "us": "criminal background check"
+  },
+  "ipa": {
+   "uk": "/ˌkrɪmɪn(ə)l ˈrekɔːd tʃek/",
+   "us": "/ˌkrɪmɪn(ə)l ˈbækɡraʊnd tʃek/"
+  },
+  "def": "A check of whether a candidate has criminal convictions, carried out where the nature of the job justifies it.",
+  "registers": {
+   "formal": {
+    "uk": "criminal record check",
+    "us": "criminal background check",
+    "ex": "Given the nature of the role, the offer is subject to a satisfactory [[criminal record check]].",
+    "ex_us": "Given the nature of the role, the offer is subject to a satisfactory [[criminal background check]]."
+   },
+   "everyday": {
+    "uk": "DBS check",
+    "us": "background check",
+    "ex": "You can't work with children until your [[DBS check]] has come through.",
+    "ex_us": "You can't work with children until your [[background check]] has come through."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to run a background check",
+   "a clean record",
+   "a spent conviction",
+   "to disclose a conviction"
+  ],
+  "note_fr": "« Judicial case » ne veut rien dire : le casier est « a criminal record ». En France, l'employeur ne peut demander un extrait (bulletin n° 3) que si le poste le justifie, et c'est le candidat qui le fournit. Au Royaume-Uni, le contrôle passe par le Disclosure and Barring Service (« DBS check »). Aux États-Unis, il exige le consentement écrit du candidat, et de nombreux États et villes interdisent de poser la question avant un certain stade (lois dites « ban the box »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-077",
+  "level": 3,
+  "fr": "vérification des diplômes",
+  "term": {
+   "uk": "qualification check",
+   "us": "education verification"
+  },
+  "ipa": {
+   "uk": "/ˌkwɒlɪfɪˈkeɪʃ(ə)n tʃek/",
+   "us": "/ˌedʒuˈkeɪʃ(ə)n ˌverɪfɪˌkeɪʃ(ə)n/"
+  },
+  "def": "Confirmation, obtained from the school or university, that a candidate really holds the degrees they claim.",
+  "registers": {
+   "formal": {
+    "uk": "verification of academic qualifications",
+    "us": "verification of academic credentials",
+    "ex": "The offer is conditional upon [[verification of academic qualifications]] by a third-party provider.",
+    "ex_us": "The offer is conditional upon [[verification of academic credentials]] by a third-party provider."
+   },
+   "everyday": {
+    "uk": "to check someone's degree",
+    "us": "to check someone's degree",
+    "ex": "Did anyone actually [[check his degree]]? I can't find the certificate on file."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to provide original certificates",
+   "a degree certificate",
+   "a certified copy",
+   "a third-party screening provider"
+  ],
+  "note_fr": "L'original du diplôme est « a degree certificate » (UK) ou « a diploma » (US, le parchemin lui-même) ; le relevé de notes, « a transcript ». Une copie certifiée conforme : « a certified copy ». Prévenez le candidat que la vérification aura lieu et obtenez son accord.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-078",
+  "level": 2,
+  "fr": "titre de séjour",
+  "term": {
+   "uk": "residence permit",
+   "us": "residence permit"
+  },
+  "ipa": {
+   "uk": "/ˈrezɪdəns ˌpɜːmɪt/",
+   "us": "/ˈrezɪdəns ˌpɜːrmɪt/"
+  },
+  "def": "An official document allowing a foreign national to live in a country for a given period.",
+  "registers": {
+   "formal": {
+    "uk": "residence permit",
+    "us": "residence permit",
+    "ex": "The Employee shall inform the Company without delay of any change affecting the validity of his or her [[residence permit]]."
+   },
+   "everyday": {
+    "uk": "residence permit",
+    "us": "residence permit",
+    "ex": "Her [[residence permit]] runs out in March, so she needs to renew it soon."
+   },
+   "informal": {
+    "uk": "papers",
+    "us": "papers",
+    "ex": "He's still waiting for his [[papers]] to come through."
+   }
+  },
+  "collocations": [
+   "to hold a valid residence permit",
+   "to renew a residence permit",
+   "to run out",
+   "immigration status"
+  ],
+  "note_fr": "« Title of stay » est un calque. Les équivalents fonctionnels : « visa » ou « leave to remain » au Royaume-Uni (preuve désormais numérique, « eVisa »), « green card » aux États-Unis pour le résident permanent. Tous les titres de séjour français n'autorisent pas à travailler : vérifiez la mention portée sur le document.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-079",
+  "level": 2,
+  "fr": "autorisation de travail",
+  "term": {
+   "uk": "work permit",
+   "us": "work authorization"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːk ˌpɜːmɪt/",
+   "us": "/ˈwɜːrk ˌɔːθərəˌzeɪʃ(ə)n/"
+  },
+  "def": "Official permission for a foreign national to take up employment in a country.",
+  "registers": {
+   "formal": {
+    "uk": "authorisation to work",
+    "us": "employment authorization",
+    "ex": "The employer must apply for [[authorisation to work]] before the foreign national takes up the post.",
+    "ex_us": "The employer must apply for [[employment authorization]] before the foreign national takes up the position."
+   },
+   "everyday": {
+    "uk": "work permit",
+    "us": "work authorization",
+    "ex": "Does he need a [[work permit]], or can he start straight away?",
+    "ex_us": "Does he need [[work authorization]], or can he start right away?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for a work permit",
+   "to be authorised to work in France",
+   "to be granted a work permit",
+   "a skilled worker visa"
+  ],
+  "note_fr": "En France, l'employeur qui recrute un étranger doit s'assurer, avant l'embauche, qu'il détient un titre l'autorisant à travailler et en faire vérifier l'authenticité auprès de la préfecture ; employer un étranger sans titre est une infraction pénale. Au Royaume-Uni, on parle de « right to work » ; aux États-Unis, de « work authorization », vérifiée au moyen du formulaire I-9.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-080",
+  "level": 2,
+  "fr": "parrainer un salarié étranger (prendre en charge sa demande de visa de travail)",
+  "term": {
+   "uk": "to sponsor a worker",
+   "us": "to sponsor a worker"
+  },
+  "ipa": {
+   "uk": "/tə ˌspɒnsər ə ˈwɜːkə/",
+   "us": "/tə ˌspɑːnsər ə ˈwɜːrkər/"
+  },
+  "def": "To act as the employer officially supporting a foreign national's application for a work visa.",
+  "registers": {
+   "formal": {
+    "uk": "to sponsor",
+    "us": "to sponsor",
+    "ex": "The Company is licensed [[to sponsor]] skilled workers from outside the United Kingdom.",
+    "ex_us": "The Company is willing [[to sponsor]] qualified foreign nationals for employment-based visas."
+   },
+   "everyday": {
+    "uk": "to sponsor someone's visa",
+    "us": "to sponsor someone's visa",
+    "ex": "Would you be willing [[to sponsor my visa]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "visa sponsorship",
+   "a sponsor licence (UK)",
+   "to require sponsorship",
+   "a sponsored worker"
+  ],
+  "note_fr": "Rien à voir avec le mécénat sportif. Au Royaume-Uni, l'employeur doit détenir une « sponsor licence » ; aux États-Unis, il « sponsors » le visa (H-1B, par exemple) ou la carte verte. La question type des annonces américaines : « Will you now or in the future require sponsorship? » En France, on parle plutôt de demande d'autorisation de travail déposée par l'employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-081",
+  "level": 3,
+  "fr": "ressortissant d'un pays tiers (hors UE)",
+  "term": {
+   "uk": "non-EU national",
+   "us": "foreign national"
+  },
+  "ipa": {
+   "uk": "/ˌnɒn iː ˈjuː ˌnæʃ(ə)nəl/",
+   "us": "/ˌfɔːrən ˈnæʃ(ə)nəl/"
+  },
+  "def": "A person who is not a citizen of the country, or group of countries, in which they wish to work.",
+  "registers": {
+   "formal": {
+    "uk": "third-country national",
+    "us": "foreign national",
+    "ex": "A [[third-country national]] may be employed only if he or she holds a document authorising him or her to work in France.",
+    "ex_us": "A [[foreign national]] may be employed only if he or she holds a document authorizing him or her to work in the United States."
+   },
+   "everyday": {
+    "uk": "someone from outside the EU",
+    "us": "someone from overseas",
+    "ex": "Hiring [[someone from outside the EU]] takes a couple of months longer, so plan ahead.",
+    "ex_us": "Hiring [[someone from overseas]] takes a couple of months longer, so plan ahead."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an EU citizen",
+   "freedom of movement",
+   "to hold dual nationality",
+   "an overseas hire"
+  ],
+  "note_fr": "« Third-country national » est le terme du droit européen, incompris hors de ce contexte : expliquez-le à un Américain. « Ressortissant » se dit « national » ou « citizen », jamais « resortissant ». Évitez « alien », encore présent dans les textes américains mais ressenti comme blessant, et « foreigner », peu aimable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-082",
+  "level": 1,
+  "fr": "faire une offre à un candidat",
+  "term": {
+   "uk": "to make someone an offer",
+   "us": "to make someone an offer"
+  },
+  "ipa": {
+   "uk": "/tə ˌmeɪk ˌsʌmwʌn ən ˈɒfə/",
+   "us": "/tə ˌmeɪk ˌsʌmwʌn ən ˈɔːfər/"
+  },
+  "def": "To tell a candidate formally that the employer wants to hire them, and on what terms.",
+  "registers": {
+   "formal": {
+    "uk": "to make an offer of employment",
+    "us": "to extend an offer of employment",
+    "ex": "The Company intends [[to make an offer of employment]] to the preferred candidate this week.",
+    "ex_us": "The Company intends [[to extend an offer of employment]] to the preferred candidate this week."
+   },
+   "everyday": {
+    "uk": "to make someone an offer",
+    "us": "to make someone an offer",
+    "ex": "We'd like [[to make you an offer]]."
+   },
+   "informal": {
+    "uk": "to offer someone the job",
+    "us": "to offer someone the job",
+    "ex": "They rang this morning and [[offered me the job]]!",
+    "ex_us": "They called this morning and [[offered me the job]]!"
+   }
+  },
+  "collocations": [
+   "to make a verbal offer",
+   "to put an offer in writing",
+   "to be at offer stage",
+   "to think an offer over"
+  ],
+  "note_fr": "On « makes » une offre ; « to extend an offer » est le tour formel américain. « To do an offer » et « to propose a job to someone » sont des calques. N'oubliez pas qu'en France une offre ferme et précise engage l'employeur : faites valider les termes avant de les annoncer, même oralement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-083",
+  "level": 2,
+  "fr": "contre-proposition",
+  "term": {
+   "uk": "counter-offer",
+   "us": "counteroffer"
+  },
+  "ipa": {
+   "uk": "/ˈkaʊntər ˌɒfə/",
+   "us": "/ˈkaʊntər ˌɔːfər/"
+  },
+  "def": "A new offer made in reply to one that was not accepted as it stood - by the candidate, or by the current employer to stop them leaving.",
+  "registers": {
+   "formal": {
+    "uk": "counter-offer",
+    "us": "counteroffer",
+    "ex": "The candidate has made a [[counter-offer]] in respect of the basic salary and the start date.",
+    "ex_us": "The candidate has made a [[counteroffer]] with respect to the base salary and the start date."
+   },
+   "everyday": {
+    "uk": "to come back with",
+    "us": "to come back with",
+    "ex": "She [[came back with]] a request for five thousand more and an extra day at home."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to negotiate an offer",
+   "to make a counter-offer",
+   "to match an offer",
+   "to meet someone halfway"
+  ],
+  "note_fr": "Deux sens à distinguer : la contre-proposition du candidat, et la surenchère de son employeur actuel pour le retenir (« his current employer made him a counter-offer »). « To match an offer » = s'aligner. « There's some room for manoeuvre » (US : « some wiggle room ») = il y a une marge de négociation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-084",
+  "level": 3,
+  "fr": "aide à la mobilité (prise en charge du déménagement)",
+  "term": {
+   "uk": "relocation package",
+   "us": "relocation package"
+  },
+  "ipa": {
+   "uk": "/ˌriːləʊˈkeɪʃ(ə)n ˌpækɪdʒ/",
+   "us": "/ˌriːloʊˈkeɪʃ(ə)n ˌpækɪdʒ/"
+  },
+  "def": "The financial and practical help an employer offers a new recruit who has to move home to take the job.",
+  "registers": {
+   "formal": {
+    "uk": "relocation assistance",
+    "us": "relocation assistance",
+    "ex": "The Company will provide [[relocation assistance]] up to the amount set out in the offer letter, against receipts."
+   },
+   "everyday": {
+    "uk": "relocation package",
+    "us": "relocation package",
+    "ex": "Is there a [[relocation package]]? I'd be moving my whole family from Lisbon."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to relocate to Paris",
+   "to cover removal costs",
+   "temporary accommodation",
+   "to be reimbursed against receipts"
+  ],
+  "note_fr": "« Delocalisation » désigne le transfert d'une activité à l'étranger, pas le déménagement d'un salarié : pour une personne, on dit « to relocate ». « Removal costs » (UK) = « moving expenses » (US). « Against receipts » = sur justificatifs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-085",
+  "level": 3,
+  "fr": "DPAE (déclaration préalable à l'embauche)",
+  "term": {
+   "uk": "pre-hiring declaration",
+   "us": "pre-hiring declaration"
+  },
+  "ipa": {
+   "uk": "/ˌpriː ˈhaɪərɪŋ ˌdekləˈreɪʃ(ə)n/",
+   "us": "/ˌpriː ˈhaɪərɪŋ ˌdekləˈreɪʃ(ə)n/"
+  },
+  "def": "The declaration a French employer must file with the social security authorities before a new employee starts work.",
+  "registers": {
+   "formal": {
+    "uk": "pre-hiring declaration",
+    "us": "pre-hiring declaration",
+    "ex": "The employer must file the [[pre-hiring declaration]] (DPAE) with URSSAF before the employee takes up his or her duties."
+   },
+   "everyday": {
+    "uk": "to register a new hire",
+    "us": "to register a new hire",
+    "ex": "Don't let him start on Monday until we've [[registered him]] with the social security office."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to file the pre-hiring declaration",
+   "to register a new employee with the authorities",
+   "undeclared work",
+   "to be filed before the start date"
+  ],
+  "note_fr": "Aucun équivalent exact. Au Royaume-Uni, l'employeur déclare le nouveau salarié à l'administration fiscale via la paie ; aux États-Unis, il existe un « new hire reporting » auprès de l'État, mais après l'embauche. Insistez sur le « before » : l'absence de DPAE expose à des sanctions pour travail dissimulé (« undeclared work »).",
+  "french_concept": true,
+  "explain": {
+   "written": "The DPAE (déclaration préalable à l'embauche) is a mandatory declaration which the employer must file with the social security collection body (URSSAF) before a new employee starts work.",
+   "spoken": "Before anyone starts, we have to register them online with the French social security office - it only takes a few minutes, but it has to be done before day one."
+  }
+ },
+ {
+  "id": "rc-086",
+  "level": 3,
+  "fr": "registre unique du personnel",
+  "term": {
+   "uk": "staff register",
+   "us": "staff register"
+  },
+  "ipa": {
+   "uk": "/ˈstɑːf ˌredʒɪstə/",
+   "us": "/ˈstæf ˌredʒɪstər/"
+  },
+  "def": "The record a French employer must keep, listing everyone hired in the order in which they joined.",
+  "registers": {
+   "formal": {
+    "uk": "statutory staff register",
+    "us": "statutory staff register",
+    "ex": "The new employee's details must be entered in the [[statutory staff register]] at the time of hiring."
+   },
+   "everyday": {
+    "uk": "staff register",
+    "us": "staff register",
+    "ex": "Have we added the two interns to the [[staff register]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to enter someone in the staff register",
+   "to keep the register up to date",
+   "to produce the register on request",
+   "a labour inspector"
+  ],
+  "note_fr": "Il n'existe pas de registre équivalent au Royaume-Uni ni aux États-Unis, où l'on parle simplement de « personnel records ». En France, il est tenu par établissement, dans l'ordre des embauches, et les stagiaires y figurent dans une partie distincte. L'inspecteur du travail peut le demander : « a labour inspector » (US : « labor »).",
+  "french_concept": true,
+  "explain": {
+   "written": "The registre unique du personnel is a mandatory register in which a French employer records, in chronological order of hiring, every employee of the establishment, with a separate section for interns.",
+   "spoken": "It's a register French companies have to keep - everyone we take on goes in it, in order of arrival, and the labour inspector can ask to see it."
+  }
+ },
+ {
+  "id": "rc-087",
+  "level": 3,
+  "fr": "visite d'information et de prévention (ex-visite médicale d'embauche)",
+  "term": {
+   "uk": "occupational health check",
+   "us": "occupational health check"
+  },
+  "ipa": {
+   "uk": "/ˌɒkjʊˌpeɪʃ(ə)nəl ˈhelθ tʃek/",
+   "us": "/ˌɑːkjəˌpeɪʃ(ə)nəl ˈhelθ tʃek/"
+  },
+  "def": "The appointment with the occupational health service that every new employee in France must have shortly after joining.",
+  "registers": {
+   "formal": {
+    "uk": "initial occupational health appointment",
+    "us": "initial occupational health appointment",
+    "ex": "The Employee shall attend an [[initial occupational health appointment]] arranged by the Company after joining."
+   },
+   "everyday": {
+    "uk": "occupational health check",
+    "us": "occupational health check",
+    "ex": "HR will book your [[occupational health check]] in your first few weeks."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to book an appointment with occupational health",
+   "an occupational health physician",
+   "a pre-employment medical",
+   "to be declared fit for work"
+  ],
+  "note_fr": "Ce n'est plus, sauf pour les postes à risques, une visite d'aptitude préalable : c'est un rendez-vous d'information organisé après la prise de poste par le service de prévention et de santé au travail. Au Royaume-Uni, un questionnaire de santé ne peut en principe être demandé qu'après l'offre ; aux États-Unis, un examen médical n'est possible qu'après une offre conditionnelle. « Work doctor » ne se dit pas : « occupational health physician ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The visite d'information et de prévention is a mandatory appointment with the occupational health service, which every new employee must attend shortly after starting work; employees in high-risk jobs undergo a medical fitness examination instead.",
+   "spoken": "In France every new joiner has an appointment with occupational health in their first few months - it's not a fitness test, more of an information session, and the company arranges it."
+  }
+ },
+ {
+  "id": "rc-088",
+  "level": 1,
+  "fr": "stage",
+  "term": {
+   "uk": "internship",
+   "us": "internship"
+  },
+  "ipa": {
+   "uk": "/ˈɪntɜːnʃɪp/",
+   "us": "/ˈɪntɜːrnʃɪp/"
+  },
+  "def": "A fixed period spent working in a company as part of a course of study, in order to gain practical experience.",
+  "registers": {
+   "formal": {
+    "uk": "work placement",
+    "us": "internship",
+    "ex": "Students are required to complete a [[work placement]] of at least three months during their final year.",
+    "ex_us": "Students are required to complete an [[internship]] of at least three months during their final year."
+   },
+   "everyday": {
+    "uk": "internship",
+    "us": "internship",
+    "ex": "She did a six-month [[internship]] with us before we took her on."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to do an internship",
+   "a summer internship",
+   "a paid internship",
+   "to take an intern on permanently"
+  ],
+  "note_fr": "Faux ami célèbre : « a stage » est une scène ou une étape, « a training course » une formation. Dites « internship » (partout) ou « work placement » (UK, surtout dans le cadre d'un cursus). On « does » un stage, on ne le « makes » pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-089",
+  "level": 1,
+  "fr": "stagiaire",
+  "term": {
+   "uk": "intern",
+   "us": "intern"
+  },
+  "ipa": {
+   "uk": "/ˈɪntɜːn/",
+   "us": "/ˈɪntɜːrn/"
+  },
+  "def": "A student or recent graduate who works in a company for a limited period to gain experience.",
+  "registers": {
+   "formal": {
+    "uk": "student on placement",
+    "us": "intern",
+    "ex": "A [[student on placement]] is not an employee and must not be assigned to a permanent post.",
+    "ex_us": "An [[intern]] is not an employee and must not be assigned to a permanent position."
+   },
+   "everyday": {
+    "uk": "intern",
+    "us": "intern",
+    "ex": "We've got two [[interns]] joining the team in June.",
+    "ex_us": "We have two [[interns]] joining the team in June."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take on an intern",
+   "to supervise an intern",
+   "a summer intern",
+   "an intern's supervisor"
+  ],
+  "note_fr": "« Trainee » n'est pas un stagiaire : c'est un salarié débutant en formation (« a trainee solicitor », « a management trainee »). « Stagiaire » n'est compris que dans les cuisines et les institutions européennes. En France, le stagiaire n'est pas salarié ; aux États-Unis et au Royaume-Uni, un « intern » qui effectue un vrai travail a en principe droit au salaire minimum.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-090",
+  "level": 2,
+  "fr": "convention de stage",
+  "term": {
+   "uk": "internship agreement",
+   "us": "internship agreement"
+  },
+  "ipa": {
+   "uk": "/ˈɪntɜːnʃɪp əˌɡriːmənt/",
+   "us": "/ˈɪntɜːrnʃɪp əˌɡriːmənt/"
+  },
+  "def": "The three-party agreement, compulsory in France, signed by the student, the host company and the school before an internship begins.",
+  "registers": {
+   "formal": {
+    "uk": "tripartite internship agreement",
+    "us": "tripartite internship agreement",
+    "ex": "No intern may begin work until the [[tripartite internship agreement]] has been signed by the student, the educational institution and the host organisation.",
+    "ex_us": "No intern may begin work until the [[tripartite internship agreement]] has been signed by the student, the educational institution and the host organization."
+   },
+   "everyday": {
+    "uk": "internship agreement",
+    "us": "internship agreement",
+    "ex": "We can't let her start without a signed [[internship agreement]] from her school."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the host organisation",
+   "the educational institution",
+   "the academic tutor",
+   "the workplace supervisor"
+  ],
+  "note_fr": "« Convention » seul est un faux ami (congrès, usage). L'accord est tripartite, et c'est ce qui le distingue : sans établissement d'enseignement, pas de stage en France. Le stage ne peut pas servir à pourvoir un poste permanent ni à remplacer un salarié absent. Rien de comparable n'est exigé par la loi au Royaume-Uni ou aux États-Unis.",
+  "french_concept": true,
+  "explain": {
+   "written": "A convention de stage is the mandatory three-party agreement between the student, the educational institution and the host organisation which governs an internship in France; the intern is not an employee.",
+   "spoken": "In France you can't just take on an intern - there has to be a three-way agreement signed with the student's school, and the intern isn't an employee."
+  }
+ },
+ {
+  "id": "rc-091",
+  "level": 2,
+  "fr": "gratification de stage",
+  "term": {
+   "uk": "internship allowance",
+   "us": "internship stipend"
+  },
+  "ipa": {
+   "uk": "/ˈɪntɜːnʃɪp əˌlaʊəns/",
+   "us": "/ˈɪntɜːrnʃɪp ˌstaɪpend/"
+  },
+  "def": "The minimum monthly payment a French host organisation must make to an intern once the internship exceeds a certain length.",
+  "registers": {
+   "formal": {
+    "uk": "internship allowance",
+    "us": "internship stipend",
+    "ex": "The intern shall receive a monthly [[internship allowance]] at the rate provided for by law.",
+    "ex_us": "The intern shall receive a monthly [[internship stipend]] at the rate provided for by law."
+   },
+   "everyday": {
+    "uk": "what interns get paid",
+    "us": "what interns get paid",
+    "ex": "It isn't a salary - [[what interns get paid]] is a fixed monthly allowance."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay an intern an allowance",
+   "the statutory minimum allowance",
+   "an unpaid internship",
+   "to be exempt from social security contributions"
+  ],
+  "note_fr": "« Gratification » en anglais signifie satisfaction, plaisir : faux ami complet. Ce n'est pas non plus un « salary » ni un « wage », puisque le stagiaire n'est pas salarié : dites « allowance » (UK) ou « stipend » (US). Elle devient obligatoire au-delà d'une durée minimale de stage fixée par la loi, et son montant plancher est réglementé.",
+  "french_concept": true,
+  "explain": {
+   "written": "The gratification de stage is the minimum monthly allowance which the host organisation must pay an intern whose internship exceeds the length laid down by law; it is not a salary.",
+   "spoken": "Interns in France aren't paid a salary, but once the internship goes beyond a certain length the company has to pay them a set monthly allowance."
+  }
+ },
+ {
+  "id": "rc-092",
+  "level": 1,
+  "fr": "intégration (des nouveaux arrivants)",
+  "term": {
+   "uk": "onboarding",
+   "us": "onboarding"
+  },
+  "ipa": {
+   "uk": "/ˈɒnˌbɔːdɪŋ/",
+   "us": "/ˈɑːnˌbɔːrdɪŋ/"
+  },
+  "def": "The process of helping a new employee settle in, learn how the organisation works and become effective.",
+  "registers": {
+   "formal": {
+    "uk": "onboarding process",
+    "us": "onboarding process",
+    "ex": "The [[onboarding process]] begins when the offer is accepted and continues throughout the first six months."
+   },
+   "everyday": {
+    "uk": "to settle in",
+    "us": "to settle in",
+    "ex": "How's the new analyst [[settling in]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to onboard a new hire",
+   "an onboarding plan",
+   "a smooth onboarding",
+   "to help someone settle in"
+  ],
+  "note_fr": "« Integration » évoque en anglais l'intégration des minorités ou des systèmes informatiques, pas l'accueil d'un salarié. « Onboarding » s'est imposé partout, y compris comme verbe (« to onboard someone »). « To settle in » = prendre ses marques.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-093",
+  "level": 1,
+  "fr": "journée / parcours d'accueil",
+  "term": {
+   "uk": "induction",
+   "us": "orientation"
+  },
+  "ipa": {
+   "uk": "/ɪnˈdʌkʃ(ə)n/",
+   "us": "/ˌɔːriənˈteɪʃ(ə)n/"
+  },
+  "def": "The introduction given to new employees in their first days: the organisation, its rules, the people and the premises.",
+  "registers": {
+   "formal": {
+    "uk": "induction programme",
+    "us": "new hire orientation",
+    "ex": "All new employees are required to attend the [[induction programme]] during their first week.",
+    "ex_us": "All new employees are required to attend [[new hire orientation]] during their first week."
+   },
+   "everyday": {
+    "uk": "induction",
+    "us": "orientation",
+    "ex": "Your [[induction]] is on Monday morning - HR will show you round.",
+    "ex_us": "Your [[orientation]] is on Monday morning - HR will show you around."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an induction day",
+   "to show someone round (UK) / around (US)",
+   "a health and safety briefing",
+   "a welcome pack"
+  ],
+  "note_fr": "« Induction » est britannique ; un Américain dira « orientation ». « Welcome day » se comprend mais n'est pas le terme consacré. Le livret d'accueil remis ce jour-là : « a welcome pack » (UK), « a welcome packet / kit » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-094",
+  "level": 1,
+  "fr": "nouvel arrivant / nouvelle recrue",
+  "term": {
+   "uk": "new starter",
+   "us": "new hire"
+  },
+  "ipa": {
+   "uk": "/ˌnjuː ˈstɑːtə/",
+   "us": "/ˌnuː ˈhaɪər/"
+  },
+  "def": "A person who has just joined an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "new employee",
+    "us": "new employee",
+    "ex": "Each [[new employee]] shall be given a copy of the internal rules on his or her first day."
+   },
+   "everyday": {
+    "uk": "new starter",
+    "us": "new hire",
+    "ex": "We've got three [[new starters]] next week, so the desks need sorting out.",
+    "ex_us": "We've got three [[new hires]] next week, so the desks need to be set up."
+   },
+   "informal": {
+    "uk": "newbie",
+    "us": "newbie",
+    "ex": "I'm still the [[newbie]] here - I only started in March."
+   }
+  },
+  "collocations": [
+   "a new joiner",
+   "to welcome a new starter",
+   "a new recruit",
+   "on someone's first day"
+  ],
+  "note_fr": "« New starter » et « new joiner » sont britanniques, « new hire » américain mais compris partout ; « new recruit » est neutre. « Newcomer » désigne plutôt un nouvel arrivant dans une ville ou un secteur. « Newbie » est familier et affectueux.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-095",
+  "level": 2,
+  "fr": "parrain / marraine d'intégration",
+  "term": {
+   "uk": "buddy",
+   "us": "buddy"
+  },
+  "ipa": {
+   "uk": "/ˈbʌdi/",
+   "us": "/ˈbʌdi/"
+  },
+  "def": "A colleague chosen to help a new employee informally during their first weeks.",
+  "registers": {
+   "formal": {
+    "uk": "workplace buddy",
+    "us": "onboarding buddy",
+    "ex": "Each new starter is assigned a [[workplace buddy]] for the first three months.",
+    "ex_us": "Each new hire is assigned an [[onboarding buddy]] for the first three months."
+   },
+   "everyday": {
+    "uk": "buddy",
+    "us": "buddy",
+    "ex": "Priya will be your [[buddy]], so just ask her if you get stuck."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a buddy scheme (UK) / buddy program (US)",
+   "to be assigned a buddy",
+   "to show someone the ropes",
+   "to take someone under one's wing"
+  ],
+  "note_fr": "« Godfather » évoque la mafia et « sponsor » un appui de carrière au plus haut niveau : pour l'accueil au quotidien, le mot est « buddy », parfaitement admis en contexte professionnel. « Mentor » désigne un accompagnement plus durable. « To show someone the ropes » = montrer les ficelles du métier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-096",
+  "level": 2,
+  "fr": "être rapidement opérationnel",
+  "term": {
+   "uk": "to get up to speed",
+   "us": "to get up to speed"
+  },
+  "ipa": {
+   "uk": "/tə ˌɡet ʌp tə ˈspiːd/",
+   "us": "/tə ˌɡet ʌp tə ˈspiːd/"
+  },
+  "def": "To reach the level of knowledge needed to do a new job properly.",
+  "registers": {
+   "formal": {
+    "uk": "to become fully effective in the role",
+    "us": "to become fully effective in the role",
+    "ex": "The induction plan is designed to enable the new manager [[to become fully effective in the role]] within three months."
+   },
+   "everyday": {
+    "uk": "to get up to speed",
+    "us": "to get up to speed",
+    "ex": "Give her a few weeks [[to get up to speed]] before you judge."
+   },
+   "informal": {
+    "uk": "to find one's feet",
+    "us": "to find one's feet",
+    "ex": "It took me a good month [[to find my feet]]."
+   }
+  },
+  "collocations": [
+   "to bring someone up to speed",
+   "to hit the ground running",
+   "a steep learning curve",
+   "to learn the ropes"
+  ],
+  "note_fr": "« Operational » s'applique aux machines et aux services, rarement aux personnes : « she is operational » fait sourire. Dites « up to speed » ou « fully effective ». « To hit the ground running » = être efficace dès le premier jour ; « a steep learning curve » = un apprentissage exigeant (et non facile).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-097",
+  "level": 3,
+  "fr": "rapport d'étonnement",
+  "term": {
+   "uk": "first-impressions report",
+   "us": "first-impressions report"
+  },
+  "ipa": {
+   "uk": "/ˌfɜːst ɪmˈpreʃ(ə)nz rɪˌpɔːt/",
+   "us": "/ˌfɜːrst ɪmˈpreʃ(ə)nz rɪˌpɔːrt/"
+  },
+  "def": "A short report in which a new employee sets out what has surprised them about the organisation during their first weeks.",
+  "registers": {
+   "formal": {
+    "uk": "first-impressions report",
+    "us": "first-impressions report",
+    "ex": "After two months, each new manager is invited to submit a [[first-impressions report]] to the HR Director."
+   },
+   "everyday": {
+    "uk": "a fresh pair of eyes",
+    "us": "a fresh pair of eyes",
+    "ex": "You're [[a fresh pair of eyes]], so tell us what struck you - good and bad."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take a fresh look at something",
+   "to give candid feedback",
+   "a new joiner survey",
+   "to see something with fresh eyes"
+  ],
+  "note_fr": "« Astonishment report » ferait sourire : la pratique est très française et n'a pas de nom établi en anglais. Glosez-la, ou rapprochez-la de ce que les anglophones connaissent : « new joiner survey », « 90-day feedback ». L'idée se dit très bien avec « a fresh pair of eyes ».",
+  "french_concept": true,
+  "explain": {
+   "written": "A rapport d'étonnement is a short report, common in French companies, in which a new recruit records his or her first impressions of the organisation - what works well and what seems surprising - after a few weeks in post.",
+   "spoken": "It's a French habit: after a few weeks we ask new joiners to write down what surprised them, because they see things the rest of us no longer notice."
+  }
+ },
+ {
+  "id": "rc-098",
+  "level": 3,
+  "fr": "pré-intégration (entre l'acceptation de l'offre et l'arrivée)",
+  "term": {
+   "uk": "preboarding",
+   "us": "preboarding"
+  },
+  "ipa": {
+   "uk": "/ˈpriːˌbɔːdɪŋ/",
+   "us": "/ˈpriːˌbɔːrdɪŋ/"
+  },
+  "def": "Everything an employer does to prepare and stay in touch with a new recruit between the acceptance of the offer and the first day.",
+  "registers": {
+   "formal": {
+    "uk": "pre-joining arrangements",
+    "us": "pre-start arrangements",
+    "ex": "The [[pre-joining arrangements]] include the issue of IT equipment and access to the staff intranet.",
+    "ex_us": "The [[pre-start arrangements]] include the issue of IT equipment and access to the employee intranet."
+   },
+   "everyday": {
+    "uk": "preboarding",
+    "us": "preboarding",
+    "ex": "Good [[preboarding]] is the best way to stop people changing their minds during their notice period."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep in touch before day one",
+   "to get someone set up",
+   "a welcome email",
+   "to have second thoughts"
+  ],
+  "note_fr": "Le risque pendant cette période s'appelle familièrement « a no-show » : le candidat qui ne se présente pas le premier jour. « To get someone set up » = préparer son matériel et ses accès. « To have second thoughts » = se raviser.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-099",
+  "level": 3,
+  "fr": "délai de recrutement",
+  "term": {
+   "uk": "time to hire",
+   "us": "time to hire"
+  },
+  "ipa": {
+   "uk": "/ˌtaɪm tə ˈhaɪə/",
+   "us": "/ˌtaɪm tə ˈhaɪər/"
+  },
+  "def": "The number of days between the start of a recruitment process and the candidate's acceptance of the offer.",
+  "registers": {
+   "formal": {
+    "uk": "time to hire",
+    "us": "time to hire",
+    "ex": "Average [[time to hire]] fell from fifty-two to forty-one days over the reporting period."
+   },
+   "everyday": {
+    "uk": "how long it takes to hire",
+    "us": "how long it takes to hire",
+    "ex": "Honestly, [[how long it takes us to hire]] is what loses us the best people."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to cut time to hire",
+   "time to fill",
+   "average time to hire",
+   "a lengthy recruitment process"
+  ],
+  "note_fr": "Deux indicateurs voisins : « time to fill » court de l'ouverture du poste à l'acceptation de l'offre ; « time to hire », de l'entrée du candidat dans le processus à son acceptation. « Delay » est un faux ami : c'est un retard, pas un délai.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rc-100",
+  "level": 3,
+  "fr": "coût par recrutement",
+  "term": {
+   "uk": "cost per hire",
+   "us": "cost per hire"
+  },
+  "ipa": {
+   "uk": "/ˌkɒst pə ˈhaɪə/",
+   "us": "/ˌkɔːst pər ˈhaɪər/"
+  },
+  "def": "The total amount spent on recruitment divided by the number of people hired.",
+  "registers": {
+   "formal": {
+    "uk": "cost per hire",
+    "us": "cost per hire",
+    "ex": "[[Cost per hire]] includes agency fees, advertising and the time spent by internal staff."
+   },
+   "everyday": {
+    "uk": "what each hire costs",
+    "us": "what each hire costs",
+    "ex": "Once you add the agency fee, [[what each hire costs us]] is frightening."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bring down the cost per hire",
+   "agency spend",
+   "a placement fee",
+   "a bad hire"
+  ],
+  "note_fr": "« Hire » est aussi un nom : « a hire » = une embauche ou la personne embauchée (« a good hire », « a bad hire »). Les honoraires de cabinet se disent « placement fee » ou « agency fee », généralement un pourcentage du salaire annuel.",
+  "french_concept": false,
+  "explain": null
+ }
+]
