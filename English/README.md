@@ -36,7 +36,7 @@ Relais `Tools/vercel-parlance/api/correct.js`, déployé avec l'application :
 
 Variables Vercel du projet `parlance-english` : `ANTHROPIC_API_KEY` (à créer
 dans la Claude Console), `ACCESS_CODE`, `MONTHLY_CAP_USD`, et
-`BLOB_READ_WRITE_TOKEN` (créée en connectant un magasin Blob privé au projet).
+`BLOB_STORE_ID` (créée en connectant le magasin Blob privé `parlance-budget` au projet ; l'accès se fait par OIDC, ou par `BLOB_READ_WRITE_TOKEN` sur les anciens magasins).
 Sans l'une d'elles, le relais refuse de fonctionner et l'application reste sur
 les corrigés modèles.
 

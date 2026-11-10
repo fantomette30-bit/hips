@@ -149,7 +149,7 @@ async function readBody(req) {
 }
 
 module.exports = async (req, res) => {
-  const configured = !!(process.env.ANTHROPIC_API_KEY && process.env.ACCESS_CODE && process.env.BLOB_READ_WRITE_TOKEN);
+  const configured = !!(process.env.ANTHROPIC_API_KEY && process.env.ACCESS_CODE && (process.env.BLOB_READ_WRITE_TOKEN || process.env.BLOB_STORE_ID));
   if (req.method === 'OPTIONS') return send(res, 204, {});
   const code = req.headers['x-access-code'];
 
