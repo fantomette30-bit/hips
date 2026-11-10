@@ -1,0 +1,3779 @@
+[
+ {
+  "id": "ad-001",
+  "level": 1,
+  "fr": "dossiers administratifs des salariés / données du personnel",
+  "term": {
+   "uk": "employee records",
+   "us": "employee records"
+  },
+  "ipa": {
+   "uk": "/ˌemplɔɪˈiː ˈrekɔːdz/",
+   "us": "/ˌemplɔɪˈiː ˈrekərdz/"
+  },
+  "def": "The administrative information an employer holds on each member of staff, from contract and identity details to pay and absence history.",
+  "registers": {
+   "formal": {
+    "uk": "employee records",
+    "us": "employee records",
+    "ex": "The Company shall maintain accurate [[employee records]] and update them promptly following any change in an employee's circumstances."
+   },
+   "everyday": {
+    "uk": "staff records",
+    "us": "employee files",
+    "ex": "Can you check the [[staff records]]? I think her address is out of date.",
+    "ex_us": "Can you check the [[employee files]]? I think her address is out of date."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep employee records up to date",
+   "to maintain accurate records",
+   "record-keeping",
+   "to update someone's record"
+  ],
+  "note_fr": "« Records » est le terme générique pour les données et documents tenus sur les salariés ; « personnel file » désigne plutôt le dossier individuel. Ne dites pas « administrative files of the employees ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-002",
+  "level": 1,
+  "fr": "formalités administratives / paperasse",
+  "term": {
+   "uk": "paperwork",
+   "us": "paperwork"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪpəwɜːk/",
+   "us": "/ˈpeɪpərwɜːrk/"
+  },
+  "def": "The forms, documents and administrative steps needed to complete a process.",
+  "registers": {
+   "formal": {
+    "uk": "administrative formalities",
+    "us": "administrative formalities",
+    "ex": "All [[administrative formalities]] relating to the hire must be completed before the employee's first day."
+   },
+   "everyday": {
+    "uk": "paperwork",
+    "us": "paperwork",
+    "ex": "The [[paperwork]] for a new starter in France takes longer than head office expects.",
+    "ex_us": "The [[paperwork]] for a new hire in France takes longer than headquarters expects."
+   },
+   "informal": {
+    "uk": "red tape",
+    "us": "red tape",
+    "ex": "Our CFO is convinced that French payroll is ninety per cent [[red tape]].",
+    "ex_us": "Our CFO is convinced that French payroll is ninety percent [[red tape]]."
+   }
+  },
+  "collocations": [
+   "to do the paperwork",
+   "to sort out the paperwork",
+   "to cut through red tape",
+   "a mountain of paperwork"
+  ],
+  "note_fr": "« Paperwork » est indénombrable : jamais « paperworks ». « Red tape » est péjoratif (lourdeur bureaucratique) : à éviter devant l'administration elle-même.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-003",
+  "level": 1,
+  "fr": "pièces justificatives",
+  "term": {
+   "uk": "supporting documents",
+   "us": "supporting documents"
+  },
+  "ipa": {
+   "uk": "/səˈpɔːtɪŋ ˈdɒkjʊmənts/",
+   "us": "/səˈpɔːrtɪŋ ˈdɑːkjəmənts/"
+  },
+  "def": "Documents provided as evidence to back up a declaration, a payment or an entry in a file.",
+  "registers": {
+   "formal": {
+    "uk": "supporting documentation",
+    "us": "supporting documentation",
+    "ex": "Any change of bank details must be accompanied by the relevant [[supporting documentation]]."
+   },
+   "everyday": {
+    "uk": "proof",
+    "us": "proof",
+    "ex": "We'll need [[proof]] of address before we can update his file."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to provide supporting documents",
+   "to attach the supporting documents",
+   "documentary evidence",
+   "proof of address"
+  ],
+  "note_fr": "« Justificative pieces » n'existe pas. « Documentation » est indénombrable (pas de « documentations »). Pour un justificatif de dépense, on dit « receipt ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-004",
+  "level": 1,
+  "fr": "portail salarié (libre-service RH)",
+  "term": {
+   "uk": "employee self-service",
+   "us": "employee self-service"
+  },
+  "ipa": {
+   "uk": "/ˌemplɔɪˈiː ˌself ˈsɜːvɪs/",
+   "us": "/ˌemplɔɪˈiː ˌself ˈsɜːrvəs/"
+  },
+  "def": "The part of an HR system in which employees view their payslips and update some of their own data - address, bank details, leave requests - themselves.",
+  "registers": {
+   "formal": {
+    "uk": "employee self-service portal",
+    "us": "employee self-service portal",
+    "ex": "Payslips are made available in electronic form on the [[employee self-service portal]], unless the employee objects."
+   },
+   "everyday": {
+    "uk": "the HR portal",
+    "us": "the HR portal",
+    "ex": "Just update your address on [[the HR portal]] - you don't need to email us."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to log into the portal",
+   "to update one's details",
+   "manager self-service",
+   "to roll out self-service"
+  ],
+  "note_fr": "Souvent abrégé « ESS ». En France, le salarié peut refuser le bulletin de paie électronique : prévoyez toujours une solution papier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-005",
+  "level": 1,
+  "fr": "saisie (de données)",
+  "term": {
+   "uk": "data entry",
+   "us": "data entry"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪtə ˈentri/",
+   "us": "/ˈdeɪt̬ə ˈentri/"
+  },
+  "def": "The task of typing or loading information into a computer system.",
+  "registers": {
+   "formal": {
+    "uk": "data entry",
+    "us": "data entry",
+    "ex": "Payroll [[data entry]] shall be carried out exclusively by authorised members of the HR team.",
+    "ex_us": "Payroll [[data entry]] shall be performed exclusively by authorized members of the HR team."
+   },
+   "everyday": {
+    "uk": "to key in",
+    "us": "to enter",
+    "ex": "Could you [[key in]] the new starters before Thursday?",
+    "ex_us": "Could you [[enter]] the new hires before Thursday?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "manual data entry",
+   "to key data into the system",
+   "double data entry",
+   "to input figures"
+  ],
+  "note_fr": "« Saisir » ne se traduit ni par « to seize » (saisir un bien) ni par « to grasp ». À l'écrit : « to enter » ; à l'oral britannique : « to key in » ou « to input ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-006",
+  "level": 1,
+  "fr": "erreur de saisie",
+  "term": {
+   "uk": "input error",
+   "us": "data entry error"
+  },
+  "ipa": {
+   "uk": "/ˈɪnpʊt ˈerə/",
+   "us": "/ˈdeɪt̬ə ˈentri ˈerər/"
+  },
+  "def": "A mistake made when typing information into a system, such as a wrong figure or a misplaced decimal point.",
+  "registers": {
+   "formal": {
+    "uk": "input error",
+    "us": "input error",
+    "ex": "The overpayment resulted from an [[input error]] in the October payroll."
+   },
+   "everyday": {
+    "uk": "keying error",
+    "us": "typo",
+    "ex": "It wasn't the system - it was a simple [[keying error]], two zeros instead of one.",
+    "ex_us": "It wasn't the system - it was a simple [[typo]], two zeros instead of one."
+   },
+   "informal": {
+    "uk": "fat-finger error",
+    "us": "fat-finger error",
+    "ex": "Someone made a [[fat-finger error]] and paid him ten times his bonus."
+   }
+  },
+  "collocations": [
+   "to correct an input error",
+   "to spot a keying error",
+   "human error",
+   "a misplaced decimal point"
+  ],
+  "note_fr": "« Fat-finger error » est familier mais très courant en finance pour une faute de frappe coûteuse. « Typo » s'emploie pour un texte comme pour un chiffre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-007",
+  "level": 1,
+  "fr": "champ obligatoire",
+  "term": {
+   "uk": "mandatory field",
+   "us": "required field"
+  },
+  "ipa": {
+   "uk": "/ˈmændətri fiːld/",
+   "us": "/rɪˈkwaɪərd fiːld/"
+  },
+  "def": "A box in a form or a system that must be filled in before the record can be saved.",
+  "registers": {
+   "formal": {
+    "uk": "mandatory field",
+    "us": "required field",
+    "ex": "All [[mandatory fields]] must be completed before the record is submitted to payroll.",
+    "ex_us": "All [[required fields]] must be completed before the record is submitted to payroll."
+   },
+   "everyday": {
+    "uk": "mandatory field",
+    "us": "required field",
+    "ex": "The system won't let you save it if a [[mandatory field]] is blank.",
+    "ex_us": "The system won't let you save it if a [[required field]] is blank."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to leave a field blank",
+   "to fill in a field (UK) / to fill out a field (US)",
+   "a drop-down field",
+   "a free-text field"
+  ],
+  "note_fr": "« Obligatory » existe mais sonne vieilli : préférez « mandatory » (UK) ou « required » (US). Remplir un formulaire : « to fill in » (UK), « to fill out » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-008",
+  "level": 1,
+  "fr": "sortir un état / lancer une extraction",
+  "term": {
+   "uk": "to run a report",
+   "us": "to run a report"
+  },
+  "ipa": {
+   "uk": "/tə rʌn ə rɪˈpɔːt/",
+   "us": "/tə rʌn ə rɪˈpɔːrt/"
+  },
+  "def": "To generate a list or summary of data from a system.",
+  "registers": {
+   "formal": {
+    "uk": "to generate a report",
+    "us": "to generate a report",
+    "ex": "The HRIS can [[generate a report]] of all employees whose medical check-up is overdue."
+   },
+   "everyday": {
+    "uk": "to run a report",
+    "us": "to run a report",
+    "ex": "I'll [[run a report]] on everyone who joined last quarter and send it over."
+   },
+   "informal": {
+    "uk": "to pull the data",
+    "us": "to pull the data",
+    "ex": "Give me ten minutes and I'll [[pull the data]] for you."
+   }
+  },
+  "collocations": [
+   "to run a headcount report",
+   "to export to Excel",
+   "a data extract",
+   "a standard report"
+  ],
+  "note_fr": "Un état (document) n'est pas un « state » : dites « report » ou « listing ». « Extraction » se dit « extract » (nom) ; « to extract data » existe mais « to pull » ou « to run a report » sont plus naturels.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-009",
+  "level": 1,
+  "fr": "entrées et sorties (mouvements de personnel)",
+  "term": {
+   "uk": "starters and leavers",
+   "us": "new hires and terminations"
+  },
+  "ipa": {
+   "uk": "/ˈstɑːtəz ən ˈliːvəz/",
+   "us": "/nuː ˈhaɪərz ən ˌtɜːrməˈneɪʃənz/"
+  },
+  "def": "The employees who join and leave the company during a given period, which HR and payroll must process.",
+  "registers": {
+   "formal": {
+    "uk": "joiners and leavers",
+    "us": "new hires and separations",
+    "ex": "A monthly list of [[joiners and leavers]] shall be sent to the payroll provider by the fifth working day.",
+    "ex_us": "A monthly list of [[new hires and separations]] shall be sent to the payroll vendor by the fifth business day."
+   },
+   "everyday": {
+    "uk": "starters and leavers",
+    "us": "new hires and terminations",
+    "ex": "We had twelve [[starters and leavers]] in March, so payroll took a bit longer.",
+    "ex_us": "We had twelve [[new hires and terminations]] in March, so payroll took a little longer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to process starters and leavers",
+   "a leavers' list",
+   "a new starter checklist",
+   "staff movements"
+  ],
+  "note_fr": "Ne traduisez pas « entrées / sorties » par « entries / exits ». Dans le vocabulaire américain de la paie, « termination » couvre tout départ, démission comprise (« voluntary termination »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-010",
+  "level": 2,
+  "fr": "date de sortie (des effectifs)",
+  "term": {
+   "uk": "leaving date",
+   "us": "separation date"
+  },
+  "ipa": {
+   "uk": "/ˈliːvɪŋ deɪt/",
+   "us": "/ˌsepəˈreɪʃən deɪt/"
+  },
+  "def": "The date on which a person's employment ends and after which they are removed from the payroll.",
+  "registers": {
+   "formal": {
+    "uk": "termination date",
+    "us": "termination date",
+    "ex": "The [[termination date]] shall be the last day of the notice period, whether or not the notice is worked."
+   },
+   "everyday": {
+    "uk": "leaving date",
+    "us": "last day",
+    "ex": "What's his [[leaving date]]? Payroll needs it for the final payslip.",
+    "ex_us": "What's his [[last day]]? Payroll needs it for the final paycheck."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to confirm the leaving date",
+   "the date of leaving",
+   "to bring forward a leaving date",
+   "the last day in the office"
+  ],
+  "note_fr": "La date de sortie correspond à la fin du contrat (fin du préavis, même non effectué), pas forcément au dernier jour de présence : précisez « last day in the office » pour le dernier jour travaillé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-011",
+  "level": 2,
+  "fr": "registres obligatoires",
+  "term": {
+   "uk": "statutory registers",
+   "us": "required records"
+  },
+  "ipa": {
+   "uk": "/ˈstætʃʊtri ˈredʒɪstəz/",
+   "us": "/rɪˈkwaɪərd ˈrekərdz/"
+  },
+  "def": "The registers an employer must keep by law and make available to the authorities, such as the single staff register.",
+  "registers": {
+   "formal": {
+    "uk": "statutory registers",
+    "us": "legally required records",
+    "ex": "All [[statutory registers]] shall be kept at each establishment and made available to the labour inspector on request.",
+    "ex_us": "All [[legally required records]] shall be kept at each establishment and made available to the inspector upon request."
+   },
+   "everyday": {
+    "uk": "mandatory registers",
+    "us": "required records",
+    "ex": "Before the inspection, let's make sure the [[mandatory registers]] are all up to date.",
+    "ex_us": "Before the inspection, let's make sure the [[required records]] are all up to date."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep a register",
+   "to make an entry in a register",
+   "to produce the registers",
+   "the single staff register"
+  ],
+  "note_fr": "En France, plusieurs registres sont exigés (registre unique du personnel, registres liés à la sécurité...). Au Royaume-Uni et aux États-Unis, on parle surtout de « records » à conserver plutôt que de registres au sens formel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-012",
+  "level": 2,
+  "fr": "affichages obligatoires",
+  "term": {
+   "uk": "mandatory workplace notices",
+   "us": "required workplace posters"
+  },
+  "ipa": {
+   "uk": "/ˈmændətri ˈwɜːkpleɪs ˈnəʊtɪsɪz/",
+   "us": "/rɪˈkwaɪərd ˈwɜːrkpleɪs ˈpoʊstərz/"
+  },
+  "def": "Information that an employer must by law display or otherwise make available to staff, such as the labour inspector's contact details or working hours.",
+  "registers": {
+   "formal": {
+    "uk": "statutory notices",
+    "us": "mandatory postings",
+    "ex": "The employer shall ensure that all [[statutory notices]] are displayed in a place accessible to staff.",
+    "ex_us": "The employer shall ensure that all [[mandatory postings]] are displayed in a location accessible to employees."
+   },
+   "everyday": {
+    "uk": "mandatory notices",
+    "us": "labor law posters",
+    "ex": "Is anyone looking after the [[mandatory notices]] at the new site?",
+    "ex_us": "Is anyone looking after the [[labor law posters]] at the new site?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to display a notice",
+   "posting requirements (US)",
+   "to put up the notices",
+   "to keep notices up to date"
+  ],
+  "note_fr": "Les États-Unis ont aussi des obligations d'affichage, fédérales et propres à chaque État (« labor law posters ») ; le Royaume-Uni beaucoup moins. En France, certaines informations peuvent désormais être communiquées « par tout moyen » (intranet, par exemple).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-013",
+  "level": 2,
+  "fr": "données de référence des salariés (données maîtres)",
+  "term": {
+   "uk": "employee master data",
+   "us": "employee master data"
+  },
+  "ipa": {
+   "uk": "/ˌemplɔɪˈiː ˈmɑːstə ˈdeɪtə/",
+   "us": "/ˌemplɔɪˈiː ˈmæstər ˈdeɪt̬ə/"
+  },
+  "def": "The core, relatively stable information about each employee - identity, contract, position, bank details - on which every HR and payroll process depends.",
+  "registers": {
+   "formal": {
+    "uk": "employee master data",
+    "us": "employee master data",
+    "ex": "Any change to [[employee master data]] shall be validated by a second member of the team before payroll is run."
+   },
+   "everyday": {
+    "uk": "core employee data",
+    "us": "core employee data",
+    "ex": "If the [[core employee data]] is wrong, every report you run is wrong too."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to clean up master data",
+   "data cleansing",
+   "a single source of truth",
+   "master data management"
+  ],
+  "note_fr": "« Data » s'emploie le plus souvent au singulier en anglais des affaires (« the data is wrong ») ; le pluriel « the data are » relève du registre scientifique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-014",
+  "level": 2,
+  "fr": "règlement intérieur",
+  "term": {
+   "uk": "internal regulations (règlement intérieur)",
+   "us": "internal regulations (règlement intérieur)"
+  },
+  "ipa": {
+   "uk": "/ɪnˈtɜːnl ˌreɡjʊˈleɪʃnz/",
+   "us": "/ɪnˈtɜːrnl ˌreɡjəˈleɪʃnz/"
+  },
+  "def": "A mandatory written document in larger French companies setting out health and safety rules, the general rules on discipline and the range of sanctions.",
+  "registers": {
+   "formal": {
+    "uk": "internal regulations",
+    "us": "internal regulations",
+    "ex": "Any amendment to the [[internal regulations]] must be submitted to the works council and filed with the relevant authorities before it takes effect."
+   },
+   "everyday": {
+    "uk": "company rules",
+    "us": "work rules",
+    "ex": "You can't add a new sanction just by email - it has to go into the [[company rules]] first.",
+    "ex_us": "You can't add a new sanction just by email - it has to go into the [[work rules]] first."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to amend the internal regulations",
+   "to file the internal regulations",
+   "to consult the works council on the internal regulations",
+   "to be set out in the internal regulations"
+  ],
+  "note_fr": "Rien à voir avec un « staff handbook » facultatif : le règlement intérieur est obligatoire à partir de 50 salariés, son contenu est encadré par la loi et il doit suivre une procédure (consultation du CSE, dépôt, communication à l'inspection du travail).",
+  "french_concept": true,
+  "explain": {
+   "written": "The règlement intérieur is a document that French companies with 50 or more employees must adopt, setting out health and safety rules and the disciplinary rules and sanctions; it only takes effect after the works council has been consulted and the document has been filed and sent to the labour inspectorate.",
+   "spoken": "It's a sort of official rulebook that's compulsory once you reach fifty staff. It covers safety and discipline, and you can't change it without consulting the works council and filing it."
+  }
+ },
+ {
+  "id": "ad-015",
+  "level": 1,
+  "fr": "manuel de procédures",
+  "term": {
+   "uk": "procedures manual",
+   "us": "procedures manual"
+  },
+  "ipa": {
+   "uk": "/prəˈsiːdʒəz ˈmænjuəl/",
+   "us": "/prəˈsiːdʒərz ˈmænjuəl/"
+  },
+  "def": "A document that describes, step by step, how recurring tasks must be carried out and by whom.",
+  "registers": {
+   "formal": {
+    "uk": "procedures manual",
+    "us": "procedures manual",
+    "ex": "The payroll [[procedures manual]] shall be reviewed annually and approved by the HR Director."
+   },
+   "everyday": {
+    "uk": "the procedures",
+    "us": "the playbook",
+    "ex": "It's all in [[the procedures]] - who checks what, and when.",
+    "ex_us": "It's all in [[the playbook]] - who checks what, and when."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to update the procedures manual",
+   "to document a procedure",
+   "to follow the procedure",
+   "a policy and procedures manual"
+  ],
+  "note_fr": "« Policy » (politique : ce que l'on fait et pourquoi) ≠ « procedure » (procédure : comment on le fait). « Process » désigne l'enchaînement global des étapes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-016",
+  "level": 2,
+  "fr": "mode opératoire",
+  "term": {
+   "uk": "work instruction",
+   "us": "standard operating procedure (SOP)"
+  },
+  "ipa": {
+   "uk": "/wɜːk ɪnˈstrʌkʃn/",
+   "us": "/ˈstændərd ˈɑːpəreɪt̬ɪŋ prəˈsiːdʒər/"
+  },
+  "def": "A detailed, task-level description of exactly how to perform one operation, often with screenshots.",
+  "registers": {
+   "formal": {
+    "uk": "work instruction",
+    "us": "standard operating procedure",
+    "ex": "Each payroll control is described in a [[work instruction]] stating the source data, the check performed and the evidence retained.",
+    "ex_us": "Each payroll control is described in a [[standard operating procedure]] stating the source data, the check performed and the evidence retained."
+   },
+   "everyday": {
+    "uk": "how-to guide",
+    "us": "SOP",
+    "ex": "There's a [[how-to guide]] for the bank file, so anyone can cover for Julie.",
+    "ex_us": "There's an [[SOP]] for the bank file, so anyone can cover for Julie."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to write up a work instruction",
+   "step-by-step instructions",
+   "to cover for someone",
+   "to be documented"
+  ],
+  "note_fr": "« Operating mode » est un calque : il n'est pas compris dans ce sens. « SOP » se prononce lettre par lettre (/ˌes oʊ ˈpiː/).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-017",
+  "level": 2,
+  "fr": "adaptation locale / exception pays (à une politique groupe)",
+  "term": {
+   "uk": "local carve-out",
+   "us": "country carve-out"
+  },
+  "ipa": {
+   "uk": "/ˈləʊkl ˈkɑːv aʊt/",
+   "us": "/ˈkʌntri ˈkɑːrv aʊt/"
+  },
+  "def": "A part of a group policy that is adapted or excluded in one country because local law or practice requires it.",
+  "registers": {
+   "formal": {
+    "uk": "local exception",
+    "us": "country-specific exception",
+    "ex": "Where local law imposes stricter requirements, a [[local exception]] shall be documented and approved by Group HR.",
+    "ex_us": "Where local law imposes stricter requirements, a [[country-specific exception]] shall be documented and approved by Corporate HR."
+   },
+   "everyday": {
+    "uk": "local carve-out",
+    "us": "country carve-out",
+    "ex": "We'll need a [[local carve-out]] for France - the template's disciplinary section simply doesn't work here.",
+    "ex_us": "We'll need a [[country carve-out]] for France - the template's disciplinary section simply doesn't work here."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carve out France from a policy",
+   "a French addendum",
+   "to localise a policy (UK) / to localize a policy (US)",
+   "a global template"
+  ],
+  "note_fr": "« Carve-out » (découpe) s'emploie aussi en M&A (détourage d'une activité) : le contexte lève l'ambiguïté. Le verbe : « to carve something out of the policy ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-018",
+  "level": 2,
+  "fr": "contrevenir à / être contraire à (la loi)",
+  "term": {
+   "uk": "to fall foul of",
+   "us": "to run afoul of"
+  },
+  "ipa": {
+   "uk": "/tə fɔːl ˈfaʊl əv/",
+   "us": "/tə rʌn əˈfaʊl əv/"
+  },
+  "def": "To break a law or rule, often without intending to, and get into trouble as a result.",
+  "registers": {
+   "formal": {
+    "uk": "to contravene",
+    "us": "to violate",
+    "ex": "As drafted, the clause would [[contravene]] French rules on the processing of sickness absence.",
+    "ex_us": "As drafted, the clause would [[violate]] French rules on the processing of sickness absence."
+   },
+   "everyday": {
+    "uk": "to fall foul of",
+    "us": "to run afoul of",
+    "ex": "If we roll out that template as it is, we'll [[fall foul of]] French law within a week.",
+    "ex_us": "If we roll out that template as is, we'll [[run afoul of]] French law within a week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fall foul of the rules",
+   "to fall foul of the regulator",
+   "to be in breach of",
+   "to stay on the right side of the law"
+  ],
+  "note_fr": "« To fall foul of » est britannique ; l'américain dit « to run afoul of ». « To violate » est neutre en américain mais paraît fort en anglais britannique, où l'on préfère « to breach » ou « to contravene ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-019",
+  "level": 3,
+  "fr": "primauté du droit local (sur la politique groupe)",
+  "term": {
+   "uk": "local law takes precedence",
+   "us": "local law takes precedence"
+  },
+  "ipa": {
+   "uk": "/ˈləʊkl lɔː teɪks ˈpresɪdəns/",
+   "us": "/ˈloʊkl lɑː teɪks ˈpresədəns/"
+  },
+  "def": "The principle that, where a group policy conflicts with mandatory local rules, the local rules apply.",
+  "registers": {
+   "formal": {
+    "uk": "to take precedence",
+    "us": "to take precedence",
+    "ex": "In the event of any conflict between this Policy and mandatory local legislation, the latter shall [[take precedence]]."
+   },
+   "everyday": {
+    "uk": "to override",
+    "us": "to override",
+    "ex": "Whatever the global policy says, French law [[overrides]] it on this point."
+   },
+   "informal": {
+    "uk": "to trump",
+    "us": "to trump",
+    "ex": "I know it's a group standard, but the Labour Code [[trumps]] it, I'm afraid.",
+    "ex_us": "I know it's a corporate standard, but the Labor Code [[trumps]] it, I'm afraid."
+   }
+  },
+  "collocations": [
+   "to take precedence over",
+   "to prevail over",
+   "a conflict-of-laws clause",
+   "mandatory provisions of local law"
+  ],
+  "note_fr": "« Primacy » est un terme de droit constitutionnel ou européen ; dans une politique RH, on écrit « shall take precedence » ou « shall prevail ». Précisez « mandatory » : seules les règles impératives l'emportent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-020",
+  "level": 2,
+  "fr": "tableau des durées de conservation (des documents RH)",
+  "term": {
+   "uk": "document retention schedule",
+   "us": "records retention schedule"
+  },
+  "ipa": {
+   "uk": "/ˈdɒkjʊmənt rɪˈtenʃn ˈʃedjuːl/",
+   "us": "/ˈrekərdz rɪˈtenʃn ˈskedʒuːl/"
+  },
+  "def": "A table listing each category of document, how long it must be kept, in what form, and when it must be destroyed.",
+  "registers": {
+   "formal": {
+    "uk": "document retention schedule",
+    "us": "records retention schedule",
+    "ex": "Payroll records shall be retained in accordance with the [[document retention schedule]] annexed to this policy.",
+    "ex_us": "Payroll records shall be retained in accordance with the [[records retention schedule]] attached to this policy."
+   },
+   "everyday": {
+    "uk": "retention schedule",
+    "us": "retention schedule",
+    "ex": "Before we shred anything, can we check the [[retention schedule]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep records for",
+   "to destroy securely",
+   "to archive",
+   "a records management policy"
+  ],
+  "note_fr": "Attention à la prononciation de « schedule » : /ˈʃedjuːl/ au Royaume-Uni, /ˈskedʒuːl/ aux États-Unis. Les durées diffèrent selon les pays et les documents : ne transposez jamais un tableau groupe sans vérification locale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-021",
+  "level": 2,
+  "fr": "signature manuscrite (originale)",
+  "term": {
+   "uk": "wet-ink signature",
+   "us": "wet signature"
+  },
+  "ipa": {
+   "uk": "/ˌwet ˈɪŋk ˈsɪɡnətʃə/",
+   "us": "/ˌwet ˈsɪɡnətʃər/"
+  },
+  "def": "A signature made by hand in ink on paper, as opposed to an electronic signature.",
+  "registers": {
+   "formal": {
+    "uk": "handwritten signature",
+    "us": "handwritten signature",
+    "ex": "Where a [[handwritten signature]] is required, the original document shall be returned by post.",
+    "ex_us": "Where a [[handwritten signature]] is required, the original document shall be returned by mail."
+   },
+   "everyday": {
+    "uk": "wet-ink signature",
+    "us": "wet signature",
+    "ex": "Does the bank really need a [[wet-ink signature]], or will DocuSign do?",
+    "ex_us": "Does the bank really need a [[wet signature]], or will DocuSign do?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign in wet ink",
+   "an electronic signature",
+   "to sign in counterparts",
+   "the signed original"
+  ],
+  "note_fr": "« Manuscript signature » n'existe pas : « manuscript » désigne un manuscrit. Dites « handwritten » ou, dans le jargon, « wet-ink ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-022",
+  "level": 3,
+  "fr": "valeur probante",
+  "term": {
+   "uk": "evidential value",
+   "us": "evidentiary value"
+  },
+  "ipa": {
+   "uk": "/ˌevɪˈdenʃl ˈvæljuː/",
+   "us": "/ˌevəˈdenʃəri ˈvæljuː/"
+  },
+  "def": "The weight a document carries as proof, for instance in an audit or before a court.",
+  "registers": {
+   "formal": {
+    "uk": "evidential value",
+    "us": "evidentiary value",
+    "ex": "Digitised payslips stored in a certified vault retain their full [[evidential value]].",
+    "ex_us": "Digitized pay statements stored in a certified vault retain their full [[evidentiary value]]."
+   },
+   "everyday": {
+    "uk": "to stand up as evidence",
+    "us": "to hold up as evidence",
+    "ex": "A scan on someone's laptop won't [[stand up as evidence]] if URSSAF questions it.",
+    "ex_us": "A scan on someone's laptop won't [[hold up as evidence]] if URSSAF questions it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have evidential value",
+   "probative value",
+   "admissible in evidence",
+   "the burden of proof"
+  ],
+  "note_fr": "« Probative value » existe mais reste très technique (plutôt américain). Le britannique dit « evidential », l'américain « evidentiary ». « Proof value » n'existe pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-023",
+  "level": 2,
+  "fr": "délégation de pouvoirs",
+  "term": {
+   "uk": "delegation of authority",
+   "us": "delegation of authority"
+  },
+  "ipa": {
+   "uk": "/ˌdelɪˈɡeɪʃn əv ɔːˈθɒrəti/",
+   "us": "/ˌdeləˈɡeɪʃn əv əˈθɔːrət̬i/"
+  },
+  "def": "A written act by which a company head transfers part of his or her powers - and, under French law, the related criminal liability - to a manager.",
+  "registers": {
+   "formal": {
+    "uk": "delegation of authority",
+    "us": "delegation of authority",
+    "ex": "The site director holds a [[delegation of authority]] in matters of health and safety and working time."
+   },
+   "everyday": {
+    "uk": "delegated authority",
+    "us": "delegated authority",
+    "ex": "He can sign the warning himself - he's got [[delegated authority]] for HR matters."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to grant a delegation of authority",
+   "to hold a delegation",
+   "an authority matrix",
+   "to accept a delegation in writing"
+  ],
+  "note_fr": "Dans un groupe anglo-saxon, « delegation of authority » désigne surtout une matrice de seuils de signature. En droit français, une délégation valable (compétence, autorité, moyens) transfère aussi la responsabilité pénale : précisez-le, ce n'est pas intuitif pour vos interlocuteurs.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law, a valid délégation de pouvoirs - granted to a manager with the necessary competence, authority and resources - transfers not only decision-making power but also the criminal liability attached to it.",
+   "spoken": "In France a delegation isn't just about who can sign. If it's done properly, the manager who holds it also takes on the legal risk - including criminal liability - in that area."
+  }
+ },
+ {
+  "id": "ad-024",
+  "level": 3,
+  "fr": "subdélégation",
+  "term": {
+   "uk": "sub-delegation",
+   "us": "subdelegation"
+  },
+  "ipa": {
+   "uk": "/ˌsʌbdelɪˈɡeɪʃn/",
+   "us": "/ˌsʌbdeləˈɡeɪʃn/"
+  },
+  "def": "The further transfer of delegated powers by the person who holds them to someone lower down the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "sub-delegation",
+    "us": "subdelegation",
+    "ex": "Any [[sub-delegation]] shall be made in writing and shall meet the same conditions of competence, authority and means as the original delegation.",
+    "ex_us": "Any [[subdelegation]] shall be made in writing and shall meet the same conditions of competence, authority and means as the original delegation."
+   },
+   "everyday": {
+    "uk": "to pass on (authority)",
+    "us": "to pass down (authority)",
+    "ex": "The plant manager can [[pass on]] his safety authority to the shift supervisors, but only in writing.",
+    "ex_us": "The plant manager can [[pass down]] his safety authority to the shift supervisors, but only in writing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sub-delegate",
+   "a chain of delegations",
+   "the delegator and the delegate",
+   "to revoke a delegation"
+  ],
+  "note_fr": "« Delegate » se prononce différemment selon la nature du mot : nom /ˈdelɪɡət/, verbe /ˈdelɪɡeɪt/. La subdélégation suppose que le subdélégataire dispose lui aussi de la compétence, de l'autorité et des moyens nécessaires.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-025",
+  "level": 3,
+  "fr": "responsabilité pénale (du dirigeant)",
+  "term": {
+   "uk": "personal criminal liability",
+   "us": "personal criminal liability"
+  },
+  "ipa": {
+   "uk": "/ˈpɜːsənl ˈkrɪmɪnl ˌlaɪəˈbɪləti/",
+   "us": "/ˈpɜːrsənl ˈkrɪmənl ˌlaɪəˈbɪlət̬i/"
+  },
+  "def": "The exposure of a company officer to criminal prosecution in his or her own name for offences committed in running the business.",
+  "registers": {
+   "formal": {
+    "uk": "personal criminal liability",
+    "us": "personal criminal liability",
+    "ex": "Breaches of the rules on undeclared work may give rise to [[personal criminal liability]] for the company's legal representative."
+   },
+   "everyday": {
+    "uk": "to be personally on the hook",
+    "us": "to be personally on the hook",
+    "ex": "If there's no valid delegation, it's the managing director who's [[personally on the hook]].",
+    "ex_us": "If there's no valid delegation, it's the general manager who's [[personally on the hook]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to incur criminal liability",
+   "to be held personally liable",
+   "the company's legal representative",
+   "directors' and officers' insurance"
+  ],
+  "note_fr": "« Penal responsibility » est un calque. En anglais, « liability » = responsabilité juridique ; « responsibility » = responsabilité au sens de mission. Le droit français engage facilement la responsabilité pénale du dirigeant en droit du travail, ce qui surprend souvent les groupes étrangers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-026",
+  "level": 1,
+  "fr": "pouvoir de signature / habilitation à signer",
+  "term": {
+   "uk": "signing authority",
+   "us": "signature authority"
+  },
+  "ipa": {
+   "uk": "/ˈsaɪnɪŋ ɔːˈθɒrəti/",
+   "us": "/ˈsɪɡnətʃər əˈθɔːrət̬i/"
+  },
+  "def": "The right, given to a named person, to sign certain documents or approve certain payments on the company's behalf.",
+  "registers": {
+   "formal": {
+    "uk": "authorised signatory",
+    "us": "authorized signatory",
+    "ex": "Only an [[authorised signatory]] may sign employment contracts on behalf of the Company.",
+    "ex_us": "Only an [[authorized signatory]] may sign employment contracts on behalf of the Company."
+   },
+   "everyday": {
+    "uk": "signing authority",
+    "us": "signature authority",
+    "ex": "I don't have [[signing authority]] above fifty thousand euros, so it'll need the CFO.",
+    "ex_us": "I don't have [[signature authority]] above fifty thousand euros, so it'll need the CFO."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have signing authority",
+   "signing limits",
+   "to sign on behalf of the company",
+   "a list of authorised signatories"
+  ],
+  "note_fr": "« Signature power » est peu idiomatique. « To be empowered to sign » est correct mais très formel ; à l'oral, « I can't sign that off » suffit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-027",
+  "level": 1,
+  "fr": "attestation d'emploi (pour un salarié en poste)",
+  "term": {
+   "uk": "letter confirming employment",
+   "us": "employment verification letter"
+  },
+  "ipa": {
+   "uk": "/ˈletə kənˈfɜːmɪŋ ɪmˈplɔɪmənt/",
+   "us": "/ɪmˈplɔɪmənt ˌverəfəˈkeɪʃn ˈlet̬ər/"
+  },
+  "def": "A short letter from the employer confirming that a person works for the company, usually stating position, start date and sometimes salary.",
+  "registers": {
+   "formal": {
+    "uk": "confirmation of employment",
+    "us": "verification of employment",
+    "ex": "Please find enclosed a [[confirmation of employment]] for submission to your landlord.",
+    "ex_us": "Please find enclosed a [[verification of employment]] for submission to your landlord."
+   },
+   "everyday": {
+    "uk": "employment letter",
+    "us": "employment verification letter",
+    "ex": "Could HR do me an [[employment letter]] for the flat I'm trying to rent?",
+    "ex_us": "Could HR give me an [[employment verification letter]] for the apartment I'm trying to rent?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a letter confirming employment",
+   "proof of employment",
+   "to confirm dates of employment",
+   "to request a letter from HR"
+  ],
+  "note_fr": "Ne confondez pas avec le certificat de travail remis en fin de contrat. « Attestation » est rare en anglais courant : préférez « letter confirming... » ou « certificate ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-028",
+  "level": 3,
+  "fr": "attestation de salaire (pour le calcul des indemnités journalières)",
+  "term": {
+   "uk": "salary certificate for sickness benefit",
+   "us": "wage statement for sickness benefits"
+  },
+  "ipa": {
+   "uk": "/ˈsæləri səˈtɪfɪkət fə ˈsɪknəs ˈbenɪfɪt/",
+   "us": "/weɪdʒ ˈsteɪtmənt fər ˈsɪknəs ˈbenəfɪts/"
+  },
+  "def": "A statement of an employee's recent earnings that the French employer provides to the health insurance fund so that it can calculate daily sickness, maternity or work-injury benefits.",
+  "registers": {
+   "formal": {
+    "uk": "salary certificate",
+    "us": "wage statement",
+    "ex": "The [[salary certificate]] is now generated from the monthly social declaration once a sick-leave event has been reported.",
+    "ex_us": "The [[wage statement]] is now generated from the monthly social declaration once a sick-leave event has been reported."
+   },
+   "everyday": {
+    "uk": "earnings statement",
+    "us": "earnings statement",
+    "ex": "The fund hasn't paid her yet because it never received the [[earnings statement]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to report a period of sick leave",
+   "daily sickness benefits",
+   "the health insurance fund",
+   "to top up sick pay"
+  ],
+  "note_fr": "Au Royaume-Uni, l'employeur verse lui-même le « Statutory Sick Pay » ; aux États-Unis, il n'existe pas de régime fédéral d'indemnisation de la maladie de courte durée. Le mécanisme français (caisse + complément employeur) doit donc être expliqué.",
+  "french_concept": true,
+  "explain": {
+   "written": "The attestation de salaire is the statement of recent earnings that a French employer sends to the health insurance fund, now mostly through the monthly social declaration, so that the fund can calculate the employee's daily sickness, maternity or work-injury benefits.",
+   "spoken": "When someone's off sick in France, the state fund pays part of their income, and it needs us to tell it what they've been earning. That's the salary certificate."
+  }
+ },
+ {
+  "id": "ad-029",
+  "level": 1,
+  "fr": "calendrier de paie",
+  "term": {
+   "uk": "payroll calendar",
+   "us": "payroll calendar"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl ˈkælɪndə/",
+   "us": "/ˈpeɪroʊl ˈkæləndər/"
+  },
+  "def": "The schedule of each month's payroll deadlines: input cut-off, checks, approval, pay date and filings.",
+  "registers": {
+   "formal": {
+    "uk": "payroll calendar",
+    "us": "payroll calendar",
+    "ex": "The [[payroll calendar]] for the coming year shall be agreed with the provider by 30 November.",
+    "ex_us": "The [[payroll calendar]] for the coming year shall be agreed upon with the vendor by November 30."
+   },
+   "everyday": {
+    "uk": "payroll timetable",
+    "us": "payroll schedule",
+    "ex": "Can you send the managers the [[payroll timetable]] so they stop sending overtime on the 28th?",
+    "ex_us": "Can you send the managers the [[payroll schedule]] so they stop sending overtime on the 28th?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to publish the payroll calendar",
+   "key dates",
+   "the pay date",
+   "to work back from the pay date"
+  ],
+  "note_fr": "« To agree something » (UK) / « to agree on something » (US). « Calendar » désigne aussi l'agenda : « my calendar is full » ; le britannique dit aussi « diary » dans ce sens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-030",
+  "level": 1,
+  "fr": "éléments variables de paie (EVP)",
+  "term": {
+   "uk": "payroll inputs",
+   "us": "payroll inputs"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl ˈɪnpʊts/",
+   "us": "/ˈpeɪroʊl ˈɪnpʊts/"
+  },
+  "def": "The monthly data that changes from one payroll to the next - overtime, absences, bonuses, starters and leavers - and must reach payroll before the cut-off.",
+  "registers": {
+   "formal": {
+    "uk": "variable payroll data",
+    "us": "variable payroll data",
+    "ex": "Managers shall validate the [[variable payroll data]] for their teams in the HRIS by the 15th of each month."
+   },
+   "everyday": {
+    "uk": "payroll inputs",
+    "us": "payroll inputs",
+    "ex": "Half the [[payroll inputs]] still arrive by email, which is where the errors creep in."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to send the payroll inputs",
+   "to validate inputs",
+   "late inputs",
+   "the input file"
+  ],
+  "note_fr": "« Variable elements » est un calque peu clair : « inputs » est le terme du métier. Ne confondez pas avec « variable pay » (rémunération variable).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-031",
+  "level": 2,
+  "fr": "date de clôture (de la paie, des éléments variables)",
+  "term": {
+   "uk": "payroll cut-off",
+   "us": "payroll cutoff"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl ˈkʌt ɒf/",
+   "us": "/ˈpeɪroʊl ˈkʌt ɑːf/"
+  },
+  "def": "The last date on which changes can be taken into account in the current month's payroll.",
+  "registers": {
+   "formal": {
+    "uk": "cut-off date",
+    "us": "cutoff date",
+    "ex": "Changes received after the [[cut-off date]] shall be processed in the following month's payroll.",
+    "ex_us": "Changes received after the [[cutoff date]] shall be processed in the following month's payroll."
+   },
+   "everyday": {
+    "uk": "cut-off",
+    "us": "cutoff",
+    "ex": "Sorry, we've missed the [[cut-off]] - it'll go through next month.",
+    "ex_us": "Sorry, we missed the [[cutoff]] - it'll go through next month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to miss the cut-off",
+   "after the cut-off",
+   "a hard cut-off",
+   "a late change"
+  ],
+  "note_fr": "Les Britanniques écrivent « cut-off » avec un trait d'union, les Américains souvent « cutoff » en un mot. Le verbe s'écrit toujours en deux mots : « to cut off ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-032",
+  "level": 2,
+  "fr": "validation de la paie",
+  "term": {
+   "uk": "payroll sign-off",
+   "us": "payroll approval"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl ˈsaɪn ɒf/",
+   "us": "/ˈpeɪroʊl əˈpruːvl/"
+  },
+  "def": "The formal approval of the month's payroll by an authorised person before salaries are paid.",
+  "registers": {
+   "formal": {
+    "uk": "payroll approval",
+    "us": "payroll approval",
+    "ex": "[[Payroll approval]] shall be given by the HR Director or, in her absence, by the Finance Director."
+   },
+   "everyday": {
+    "uk": "payroll sign-off",
+    "us": "payroll sign-off",
+    "ex": "I can't give [[payroll sign-off]] until the reconciliation's done."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign off the payroll (UK) / to sign off on the payroll (US)",
+   "final approval",
+   "evidence of approval",
+   "pre-payroll checks"
+  ],
+  "note_fr": "« Validate » est un faux ami fréquent : en anglais, on « validates » des données (on vérifie qu'elles sont correctes) ; on « approves » ou on « signs off » une paie.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-033",
+  "level": 1,
+  "fr": "écart / anomalie (entre deux sources)",
+  "term": {
+   "uk": "discrepancy",
+   "us": "discrepancy"
+  },
+  "ipa": {
+   "uk": "/dɪˈskrepənsi/",
+   "us": "/dɪˈskrepənsi/"
+  },
+  "def": "A difference between two figures or records that ought to match.",
+  "registers": {
+   "formal": {
+    "uk": "discrepancy",
+    "us": "discrepancy",
+    "ex": "Any [[discrepancy]] above the agreed threshold shall be investigated and documented before payroll approval."
+   },
+   "everyday": {
+    "uk": "mismatch",
+    "us": "mismatch",
+    "ex": "There's a [[mismatch]] between the headcount in the HRIS and the number of payslips.",
+    "ex_us": "There's a [[mismatch]] between the headcount in the HRIS and the number of pay stubs."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to identify a discrepancy",
+   "to investigate a discrepancy",
+   "to explain a variance",
+   "an unexplained difference"
+  ],
+  "note_fr": "« Gap » se dit d'un écart structurel (« pay gap ») ; pour un écart de rapprochement, dites « discrepancy », et « variance » pour un écart par rapport au budget ou au mois précédent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-034",
+  "level": 2,
+  "fr": "rapprochement (de la paie avec la comptabilité, la banque, les déclarations)",
+  "term": {
+   "uk": "payroll reconciliation",
+   "us": "payroll reconciliation"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl ˌrekənsɪliˈeɪʃn/",
+   "us": "/ˈpeɪroʊl ˌrekənsɪliˈeɪʃn/"
+  },
+  "def": "The check that payroll totals agree with other sources - the accounts, bank payments and social declarations - and that any difference is explained.",
+  "registers": {
+   "formal": {
+    "uk": "payroll reconciliation",
+    "us": "payroll reconciliation",
+    "ex": "A [[payroll reconciliation]] between the payroll journal, the general ledger and the DSN shall be performed every month."
+   },
+   "everyday": {
+    "uk": "to reconcile",
+    "us": "to reconcile",
+    "ex": "We [[reconcile]] the payroll with the bank file before anything is paid out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to reconcile payroll to the general ledger",
+   "a bank reconciliation",
+   "reconciling items",
+   "to tie out (US)"
+  ],
+  "note_fr": "« Rapprochement » ne se traduit pas par « rapprochement » (réconciliation diplomatique). « To tie out » est le jargon des comptables américains pour « faire concorder ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-035",
+  "level": 2,
+  "fr": "contrôle de cohérence",
+  "term": {
+   "uk": "sense check",
+   "us": "sanity check"
+  },
+  "ipa": {
+   "uk": "/ˈsens tʃek/",
+   "us": "/ˈsænət̬i tʃek/"
+  },
+  "def": "A quick overall check that figures look plausible, before going into detail.",
+  "registers": {
+   "formal": {
+    "uk": "reasonableness check",
+    "us": "reasonableness check",
+    "ex": "A [[reasonableness check]] of gross pay against the previous month shall be performed for each cost centre.",
+    "ex_us": "A [[reasonableness check]] of gross pay against the previous month shall be performed for each cost center."
+   },
+   "everyday": {
+    "uk": "sense check",
+    "us": "sanity check",
+    "ex": "Could you give these figures a quick [[sense check]] before they go to the CFO?",
+    "ex_us": "Could you give these numbers a quick [[sanity check]] before they go to the CFO?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sense-check the figures",
+   "a month-on-month comparison",
+   "a variance analysis",
+   "something looks off"
+  ],
+  "note_fr": "« Coherence check » n'est pas idiomatique. « Sanity check » est très courant aux États-Unis ; certains Britanniques lui préfèrent « sense check », jugé plus neutre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-036",
+  "level": 1,
+  "fr": "contrôle ponctuel / par sondage",
+  "term": {
+   "uk": "spot check",
+   "us": "spot check"
+  },
+  "ipa": {
+   "uk": "/ˈspɒt tʃek/",
+   "us": "/ˈspɑːt tʃek/"
+  },
+  "def": "A check made on a few items chosen at random rather than on everything.",
+  "registers": {
+   "formal": {
+    "uk": "sample check",
+    "us": "sample testing",
+    "ex": "A [[sample check]] of twenty payslips shall be carried out each month by a person independent of their preparation.",
+    "ex_us": "[[Sample testing]] of twenty pay statements shall be performed each month by a person independent of their preparation."
+   },
+   "everyday": {
+    "uk": "spot check",
+    "us": "spot check",
+    "ex": "We do a [[spot check]] on a handful of payslips every month.",
+    "ex_us": "We do a [[spot check]] on a handful of pay stubs every month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to spot-check",
+   "a random sample",
+   "sample size",
+   "to select at random"
+  ],
+  "note_fr": "Le « sondage » statistique se dit « sampling » ; un sondage d'opinion est un « poll » ou une « survey ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-037",
+  "level": 2,
+  "fr": "principe des quatre yeux / double contrôle",
+  "term": {
+   "uk": "four-eyes principle",
+   "us": "dual control"
+  },
+  "ipa": {
+   "uk": "/ˌfɔːr ˈaɪz ˈprɪnsəpl/",
+   "us": "/ˈduːəl kənˈtroʊl/"
+  },
+  "def": "The rule that a sensitive operation must be checked or approved by a second person before it takes effect.",
+  "registers": {
+   "formal": {
+    "uk": "four-eyes principle",
+    "us": "dual control",
+    "ex": "Changes to employees' bank details are subject to the [[four-eyes principle]].",
+    "ex_us": "Changes to employees' bank details are subject to [[dual control]]."
+   },
+   "everyday": {
+    "uk": "second pair of eyes",
+    "us": "second set of eyes",
+    "ex": "Nothing goes to the bank without a [[second pair of eyes]] on it.",
+    "ex_us": "Nothing goes to the bank without a [[second set of eyes]] on it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "maker-checker",
+   "independent review",
+   "to review and approve",
+   "a second signature"
+  ],
+  "note_fr": "« Four-eyes » vient du vocabulaire bancaire européen ; aux États-Unis, on dit plutôt « dual control » ou « maker-checker ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-038",
+  "level": 2,
+  "fr": "séparation des tâches",
+  "term": {
+   "uk": "segregation of duties",
+   "us": "segregation of duties"
+  },
+  "ipa": {
+   "uk": "/ˌseɡrɪˈɡeɪʃn əv ˈdjuːtiz/",
+   "us": "/ˌseɡrəˈɡeɪʃn əv ˈduːt̬iz/"
+  },
+  "def": "The control principle that no single person should be able to run a sensitive process from start to finish, for example both changing pay data and releasing payments.",
+  "registers": {
+   "formal": {
+    "uk": "segregation of duties",
+    "us": "segregation of duties",
+    "ex": "The audit identified a lack of [[segregation of duties]]: the same user could create an employee and release payments."
+   },
+   "everyday": {
+    "uk": "to split the roles",
+    "us": "to split the roles",
+    "ex": "With only two people in payroll, it's hard to [[split the roles]] properly."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a segregation of duties conflict",
+   "incompatible duties",
+   "a review of access rights",
+   "compensating controls"
+  ],
+  "note_fr": "« Separation of tasks » se comprend, mais « segregation of duties » (souvent abrégé « SoD ») est le terme consacré en audit. « Segregation » n'a ici aucune connotation raciale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-039",
+  "level": 2,
+  "fr": "piste d'audit / traçabilité (des modifications)",
+  "term": {
+   "uk": "audit trail",
+   "us": "audit trail"
+  },
+  "ipa": {
+   "uk": "/ˈɔːdɪt treɪl/",
+   "us": "/ˈɑːdət treɪl/"
+  },
+  "def": "A record showing who changed what in a system, when, and with whose approval.",
+  "registers": {
+   "formal": {
+    "uk": "audit trail",
+    "us": "audit trail",
+    "ex": "The system shall maintain a complete [[audit trail]] of all changes to salary data."
+   },
+   "everyday": {
+    "uk": "to leave a trail",
+    "us": "to leave a trail",
+    "ex": "Changing it straight in the database won't [[leave a trail]] - and that's exactly what auditors hate."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a full audit trail",
+   "a change log",
+   "time-stamped entries",
+   "to be traceable"
+  ],
+  "note_fr": "« Traceability » existe (surtout dans l'industrie) ; pour les systèmes et la paie, « audit trail » est l'usage. Une trace écrite au sens large : « paper trail ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-040",
+  "level": 3,
+  "fr": "paie à blanc / paie en parallèle (lors d'un changement de système)",
+  "term": {
+   "uk": "parallel run",
+   "us": "parallel run"
+  },
+  "ipa": {
+   "uk": "/ˈpærəlel rʌn/",
+   "us": "/ˈpærəlel rʌn/"
+  },
+  "def": "Running payroll in both the old and the new system for one or more months and comparing the results before switching over.",
+  "registers": {
+   "formal": {
+    "uk": "parallel run",
+    "us": "parallel run",
+    "ex": "Two [[parallel runs]] shall be completed with no unexplained differences before the new payroll goes live."
+   },
+   "everyday": {
+    "uk": "dry run",
+    "us": "dry run",
+    "ex": "Let's do a [[dry run]] in September so we're not finding errors in October's real payroll."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to go live",
+   "a cutover date",
+   "data migration",
+   "to compare results line by line"
+  ],
+  "note_fr": "« White payroll » (calque de « paie à blanc ») n'existe pas. « Dry run » (répétition générale) s'emploie aussi hors de la paie.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-041",
+  "level": 3,
+  "fr": "contrôle clé",
+  "term": {
+   "uk": "key control",
+   "us": "key control"
+  },
+  "ipa": {
+   "uk": "/kiː kənˈtrəʊl/",
+   "us": "/kiː kənˈtroʊl/"
+  },
+  "def": "A control that on its own is enough to prevent or detect a significant error in a process, and which auditors therefore test as a priority.",
+  "registers": {
+   "formal": {
+    "uk": "key control",
+    "us": "key control",
+    "ex": "The monthly review of payroll variances has been designated as a [[key control]] and will be tested every quarter."
+   },
+   "everyday": {
+    "uk": "the main safeguard",
+    "us": "the main safeguard",
+    "ex": "Honestly, the bank-file review is [[the main safeguard]] - everything else is belt and braces.",
+    "ex_us": "Honestly, the bank-file review is [[the main safeguard]] - everything else is belt and suspenders."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to test a key control",
+   "a compensating control",
+   "a preventive control",
+   "a detective control"
+  ],
+  "note_fr": "« Preventive control » (qui empêche l'erreur) ≠ « detective control » (qui la détecte après coup). « Belt and braces » (UK) / « belt and suspenders » (US) : précaution redondante.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-042",
+  "level": 3,
+  "fr": "provision pour congés payés",
+  "term": {
+   "uk": "holiday pay accrual",
+   "us": "vacation accrual"
+  },
+  "ipa": {
+   "uk": "/ˈhɒlədeɪ peɪ əˈkruːəl/",
+   "us": "/veɪˈkeɪʃn əˈkruːəl/"
+  },
+  "def": "The liability recorded in the accounts for paid leave that employees have earned but not yet taken.",
+  "registers": {
+   "formal": {
+    "uk": "accrued holiday pay",
+    "us": "accrued vacation liability",
+    "ex": "The [[accrued holiday pay]] shall be recalculated at each month end on the basis of leave balances in the HRIS.",
+    "ex_us": "The [[accrued vacation liability]] shall be recalculated at each month end on the basis of leave balances in the HRIS."
+   },
+   "everyday": {
+    "uk": "holiday accrual",
+    "us": "PTO accrual",
+    "ex": "The [[holiday accrual]] jumped in May because nobody took leave during the project.",
+    "ex_us": "The [[PTO accrual]] jumped in May because nobody took time off during the project."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to book an accrual",
+   "to release an accrual",
+   "the month-end close",
+   "leave balances"
+  ],
+  "note_fr": "En anglais comptable, « provision » désigne un passif incertain ; une charge à payer certaine est un « accrual ». Les congés payés français étant plus nombreux, ce poste surprend souvent les contrôleurs de gestion étrangers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-043",
+  "level": 1,
+  "fr": "prestataire de paie",
+  "term": {
+   "uk": "payroll provider",
+   "us": "payroll vendor"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl prəˈvaɪdə/",
+   "us": "/ˈpeɪroʊl ˈvendər/"
+  },
+  "def": "An external company that processes payroll on behalf of an employer.",
+  "registers": {
+   "formal": {
+    "uk": "payroll service provider",
+    "us": "payroll service provider",
+    "ex": "The [[payroll service provider]] shall act only on the documented instructions of the Company."
+   },
+   "everyday": {
+    "uk": "payroll provider",
+    "us": "payroll vendor",
+    "ex": "Our [[payroll provider]] has changed account managers three times this year.",
+    "ex_us": "Our [[payroll vendor]] has changed account managers three times this year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to outsource payroll",
+   "to switch providers",
+   "an account manager",
+   "a payroll bureau (UK)"
+  ],
+  "note_fr": "« Prestataire » n'a pas d'équivalent unique : « provider », « supplier », « vendor » (US). « Prestator » n'existe pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-044",
+  "level": 1,
+  "fr": "gestionnaire de paie",
+  "term": {
+   "uk": "payroll administrator",
+   "us": "payroll specialist"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl ədˈmɪnɪstreɪtə/",
+   "us": "/ˈpeɪroʊl ˈspeʃəlɪst/"
+  },
+  "def": "The person who prepares, checks and processes the payroll and answers employees' pay questions.",
+  "registers": {
+   "formal": {
+    "uk": "payroll administrator",
+    "us": "payroll specialist",
+    "ex": "The [[payroll administrator]] shall not hold access rights to approve payments.",
+    "ex_us": "The [[payroll specialist]] shall not hold access rights to approve payments."
+   },
+   "everyday": {
+    "uk": "payroll",
+    "us": "payroll",
+    "ex": "Ask [[payroll]] - they'll know why your overtime isn't on there."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a payroll officer",
+   "the payroll team",
+   "a payroll manager",
+   "a payroll clerk"
+  ],
+  "note_fr": "« Manager » implique l'encadrement d'une équipe : un gestionnaire de paie n'est pas un « payroll manager ». « Payroll clerk » est plus modeste et un peu daté.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-045",
+  "level": 2,
+  "fr": "contrat de niveau de service / engagements de service",
+  "term": {
+   "uk": "service level agreement (SLA)",
+   "us": "service level agreement (SLA)"
+  },
+  "ipa": {
+   "uk": "/ˈsɜːvɪs ˈlevl əˈɡriːmənt/",
+   "us": "/ˈsɜːrvəs ˈlevl əˈɡriːmənt/"
+  },
+  "def": "The part of an outsourcing contract that sets measurable service standards - deadlines, accuracy rates, response times - and what happens if they are missed.",
+  "registers": {
+   "formal": {
+    "uk": "service level agreement",
+    "us": "service level agreement",
+    "ex": "Under the [[service level agreement]], the provider must deliver draft payslips no later than five working days before the pay date.",
+    "ex_us": "Under the [[service level agreement]], the vendor must deliver draft pay statements no later than five business days before the pay date."
+   },
+   "everyday": {
+    "uk": "SLA",
+    "us": "SLA",
+    "ex": "They've missed the [[SLA]] three months running - it's time to talk about service credits.",
+    "ex_us": "They've missed the [[SLA]] three months in a row - it's time to talk about service credits."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet the SLA",
+   "key performance indicators",
+   "service credits",
+   "to breach an SLA"
+  ],
+  "note_fr": "« SLA » se prononce lettre par lettre. Les « service credits » sont des remises dues par le prestataire en cas de non-respect ; le mot « penalties » est évité dans les contrats de droit anglais.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-046",
+  "level": 3,
+  "fr": "réversibilité (en fin de contrat d'externalisation)",
+  "term": {
+   "uk": "exit assistance",
+   "us": "exit assistance"
+  },
+  "ipa": {
+   "uk": "/ˈeksɪt əˈsɪstəns/",
+   "us": "/ˈeɡzɪt əˈsɪstəns/"
+  },
+  "def": "The provider's contractual obligation to help hand the service back to the client, or over to a new provider, at the end of the contract, including the transfer of data.",
+  "registers": {
+   "formal": {
+    "uk": "exit management provisions",
+    "us": "transition assistance provisions",
+    "ex": "The [[exit management provisions]] require the provider to return the full payroll history in a usable format.",
+    "ex_us": "The [[transition assistance provisions]] require the vendor to return the full payroll history in a usable format."
+   },
+   "everyday": {
+    "uk": "exit plan",
+    "us": "exit plan",
+    "ex": "Before we sign with anyone, I want a proper [[exit plan]] - we can't be held hostage by a provider.",
+    "ex_us": "Before we sign with anyone, I want a real [[exit plan]] - we can't be held hostage by a vendor."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hand over to a new provider",
+   "data portability",
+   "vendor lock-in",
+   "an exit period"
+  ],
+  "note_fr": "« Reversibility » est un calque peu compris hors des contrats rédigés par des Français. Parlez d'« exit assistance » ou d'« exit plan ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-047",
+  "level": 2,
+  "fr": "charges sociales (vues comme coût s'ajoutant au salaire)",
+  "term": {
+   "uk": "employment on-costs",
+   "us": "payroll burden"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪmənt ˈɒn kɒsts/",
+   "us": "/ˈpeɪroʊl ˈbɜːrdn/"
+  },
+  "def": "The costs an employer pays on top of gross salary - mainly social security contributions - often expressed as a percentage of pay.",
+  "registers": {
+   "formal": {
+    "uk": "employer on-costs",
+    "us": "labor burden",
+    "ex": "In France, [[employer on-costs]] represent a considerably higher share of gross salary than in the United States.",
+    "ex_us": "In France, the [[labor burden]] represents a considerably higher share of gross salary than in the United States."
+   },
+   "everyday": {
+    "uk": "on-costs",
+    "us": "burden",
+    "ex": "Don't forget the [[on-costs]] - a fifty-thousand salary costs us a lot more than fifty.",
+    "ex_us": "Don't forget the [[burden]] - a fifty-thousand salary costs us a lot more than fifty."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "fully loaded cost",
+   "total employment cost",
+   "the burden rate (US)",
+   "on top of gross salary"
+  ],
+  "note_fr": "« Social charges » se comprend mais sonne français : dites « employer contributions » pour l'aspect juridique, « on-costs » (UK) ou « burden » (US) pour parler de coût.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-048",
+  "level": 2,
+  "fr": "coût par bulletin de paie",
+  "term": {
+   "uk": "cost per payslip",
+   "us": "cost per paycheck"
+  },
+  "ipa": {
+   "uk": "/kɒst pə ˈpeɪslɪp/",
+   "us": "/kɔːst pər ˈpeɪtʃek/"
+  },
+  "def": "The total cost of running payroll divided by the number of payslips produced, used to benchmark providers or countries.",
+  "registers": {
+   "formal": {
+    "uk": "cost per payslip",
+    "us": "cost per pay statement",
+    "ex": "The [[cost per payslip]] in France remains above the group average, owing chiefly to the complexity of local rules.",
+    "ex_us": "The [[cost per pay statement]] in France remains above the corporate average, due mainly to the complexity of local rules."
+   },
+   "everyday": {
+    "uk": "cost per head",
+    "us": "cost per employee",
+    "ex": "On a [[cost per head]] basis French payroll looks expensive, but it isn't a like-for-like comparison.",
+    "ex_us": "On a [[cost per employee]] basis French payroll looks expensive, but it isn't an apples-to-apples comparison."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to benchmark payroll costs",
+   "a like-for-like comparison",
+   "economies of scale",
+   "a fixed fee per payslip"
+  ],
+  "note_fr": "« Bulletin » ne s'emploie pas pour une fiche de paie : « payslip » (UK), « pay stub » ou « pay statement » (US). « Like for like » (UK) = « apples to apples » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-049",
+  "level": 2,
+  "fr": "veille réglementaire / juridique",
+  "term": {
+   "uk": "regulatory monitoring",
+   "us": "regulatory monitoring"
+  },
+  "ipa": {
+   "uk": "/ˈreɡjələtəri ˈmɒnɪtərɪŋ/",
+   "us": "/ˈreɡjələtɔːri ˈmɑːnət̬ərɪŋ/"
+  },
+  "def": "The ongoing tracking of changes in laws, rates and administrative rules that affect HR and payroll.",
+  "registers": {
+   "formal": {
+    "uk": "regulatory monitoring",
+    "us": "regulatory monitoring",
+    "ex": "The provider is responsible for [[regulatory monitoring]] and for updating contribution rates in the payroll engine."
+   },
+   "everyday": {
+    "uk": "to keep on top of",
+    "us": "to keep on top of",
+    "ex": "With rates changing every January, it's a full-time job to [[keep on top of]] French payroll rules."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep abreast of legal changes",
+   "a legal update",
+   "horizon scanning (UK)",
+   "to flag upcoming changes"
+  ],
+  "note_fr": "« Watch » (calque de « veille ») n'a pas ce sens en anglais. « Horizon scanning » est apprécié dans les organisations britanniques pour l'anticipation des évolutions.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-050",
+  "level": 3,
+  "fr": "assiette des cotisations sociales",
+  "term": {
+   "uk": "contribution base",
+   "us": "taxable wage base"
+  },
+  "ipa": {
+   "uk": "/ˌkɒntrɪˈbjuːʃn beɪs/",
+   "us": "/ˈtæksəbl weɪdʒ beɪs/"
+  },
+  "def": "The amount of pay - salary plus bonuses and taxable benefits - on which social security contributions are calculated.",
+  "registers": {
+   "formal": {
+    "uk": "earnings subject to contributions",
+    "us": "wages subject to payroll taxes",
+    "ex": "Benefits in kind form part of the [[earnings subject to contributions]].",
+    "ex_us": "Fringe benefits form part of the [[wages subject to payroll taxes]]."
+   },
+   "everyday": {
+    "uk": "contribution base",
+    "us": "wage base",
+    "ex": "The auditor's point is that the car allowance should have been in the [[contribution base]].",
+    "ex_us": "The auditor's point is that the car allowance should have been included in the [[wage base]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be included in the contribution base",
+   "to be excluded from the base",
+   "subject to contributions",
+   "exempt from contributions"
+  ],
+  "note_fr": "Aux États-Unis, « wage base » désigne aussi le plafond au-delà duquel certaines taxes ne sont plus dues (« Social Security wage base »). L'assiette est au cœur de nombreux redressements URSSAF.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-051",
+  "level": 3,
+  "fr": "allègements / réduction générale des cotisations patronales",
+  "term": {
+   "uk": "employer contribution relief",
+   "us": "employer payroll tax relief"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪə ˌkɒntrɪˈbjuːʃn rɪˈliːf/",
+   "us": "/ɪmˈplɔɪər ˈpeɪroʊl tæks rɪˈliːf/"
+  },
+  "def": "A statutory reduction in the social security contributions an employer pays - in France mainly on lower salaries - which payroll must calculate correctly.",
+  "registers": {
+   "formal": {
+    "uk": "reduction in employer contributions",
+    "us": "reduction in employer contributions",
+    "ex": "The company qualifies for the general [[reduction in employer contributions]] on salaries below the statutory threshold."
+   },
+   "everyday": {
+    "uk": "contribution relief",
+    "us": "payroll tax relief",
+    "ex": "If the hours are wrong in the system, the [[contribution relief]] is wrong too - and that's exactly what URSSAF picks up.",
+    "ex_us": "If the hours are wrong in the system, the [[payroll tax relief]] is wrong too - and that's exactly what URSSAF picks up."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be eligible for relief",
+   "to claim a reduction",
+   "to lose the benefit of a reduction",
+   "low-wage relief"
+  ],
+  "note_fr": "« Exoneration » signifie en anglais « disculpation » (innocenter quelqu'un) : pour une exonération de cotisations, dites « exemption » ou « relief ». Les paramètres de calcul changent souvent : vérifiez-les chaque année.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-052",
+  "level": 1,
+  "fr": "DSN (déclaration sociale nominative)",
+  "term": {
+   "uk": "the DSN (monthly social declaration)",
+   "us": "the DSN (monthly social declaration)"
+  },
+  "ipa": {
+   "uk": "/ˌdiː es ˈen/",
+   "us": "/ˌdiː es ˈen/"
+  },
+  "def": "The single electronic return, generated from payroll, that every French employer files each month to report each employee's pay, contributions and employment events to the social security bodies and the tax authorities.",
+  "registers": {
+   "formal": {
+    "uk": "monthly social declaration",
+    "us": "monthly social declaration",
+    "ex": "The [[monthly social declaration]] must be filed by the 5th or the 15th of the following month, depending on headcount and pay date."
+   },
+   "everyday": {
+    "uk": "the DSN",
+    "us": "the DSN",
+    "ex": "Payroll's done, but [[the DSN]] still has to go out by the fifth."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to file the DSN",
+   "a DSN rejection",
+   "to correct the DSN",
+   "DSN reporting"
+  ],
+  "note_fr": "Comparable aux « Real Time Information (RTI) submissions » britanniques transmises au fisc à chaque paie ; aux États-Unis, l'équivalent est éclaté (déclarations trimestrielles à l'IRS, déclarations des États, formulaires W-2 annuels).",
+  "french_concept": true,
+  "explain": {
+   "written": "The DSN (déclaration sociale nominative) is a monthly electronic filing, generated from payroll, through which French employers report each employee's pay, contributions, withholding tax and employment events to all the social security and tax bodies at once.",
+   "spoken": "The DSN is one big monthly file that comes straight out of payroll and tells the authorities who we paid, how much, and what we owe. It replaced dozens of separate forms."
+  }
+ },
+ {
+  "id": "ad-053",
+  "level": 1,
+  "fr": "déposer une déclaration (sociale, fiscale)",
+  "term": {
+   "uk": "to file a return",
+   "us": "to file a return"
+  },
+  "ipa": {
+   "uk": "/tə faɪl ə rɪˈtɜːn/",
+   "us": "/tə faɪl ə rɪˈtɜːrn/"
+  },
+  "def": "To submit an official declaration of figures, such as pay or contributions, to the authorities.",
+  "registers": {
+   "formal": {
+    "uk": "to submit a return",
+    "us": "to submit a filing",
+    "ex": "The employer shall [[submit a return]] for each establishment by the due date.",
+    "ex_us": "The employer shall [[submit a filing]] for each establishment by the due date."
+   },
+   "everyday": {
+    "uk": "to file",
+    "us": "to file",
+    "ex": "We [[filed]] on time, but the system rejected two records."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to file on time",
+   "to file late",
+   "to file electronically",
+   "a nil return (UK)"
+  ],
+  "note_fr": "« To declare » s'emploie pour un revenu (« to declare income ») ; pour le dépôt d'un formulaire, on dit « to file » ou « to submit ». Une déclaration se dit « return » (UK) ou « filing » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-054",
+  "level": 1,
+  "fr": "date limite de dépôt / échéance déclarative",
+  "term": {
+   "uk": "filing deadline",
+   "us": "filing deadline"
+  },
+  "ipa": {
+   "uk": "/ˈfaɪlɪŋ ˈdedlaɪn/",
+   "us": "/ˈfaɪlɪŋ ˈdedlaɪn/"
+  },
+  "def": "The last date by which a return or declaration must reach the authorities.",
+  "registers": {
+   "formal": {
+    "uk": "due date for filing",
+    "us": "filing due date",
+    "ex": "Failure to meet the [[due date for filing]] gives rise to a late-filing penalty.",
+    "ex_us": "Failure to meet the [[filing due date]] results in a late-filing penalty."
+   },
+   "everyday": {
+    "uk": "filing deadline",
+    "us": "filing deadline",
+    "ex": "We can't move the [[filing deadline]] - it's set by law, not by the provider.",
+    "ex_us": "We can't move the [[filing deadline]] - it's set by law, not by the vendor."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet a filing deadline",
+   "to miss the filing deadline",
+   "a statutory deadline",
+   "an extension of time"
+  ],
+  "note_fr": "« Deadline » est un nom ; « échoir » se dit « to fall due ». Plutôt que « the deadline expires », on dit naturellement « the deadline passes ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-055",
+  "level": 2,
+  "fr": "déclaration rectificative / correction d'une période antérieure",
+  "term": {
+   "uk": "amended return",
+   "us": "amended filing"
+  },
+  "ipa": {
+   "uk": "/əˈmendɪd rɪˈtɜːn/",
+   "us": "/əˈmendɪd ˈfaɪlɪŋ/"
+  },
+  "def": "A new declaration, or a correction in a later one, filed to put right errors in a return already submitted.",
+  "registers": {
+   "formal": {
+    "uk": "corrective return",
+    "us": "corrected filing",
+    "ex": "Errors identified after submission shall be corrected by a [[corrective return]] or in the following month's declaration.",
+    "ex_us": "Errors identified after submission shall be corrected by a [[corrected filing]] or in the following month's declaration."
+   },
+   "everyday": {
+    "uk": "amended return",
+    "us": "amended filing",
+    "ex": "We'll have to put in an [[amended return]] for March - the bonus was reported twice.",
+    "ex_us": "We'll have to submit an [[amended filing]] for March - the bonus was reported twice."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to file an amended return",
+   "to correct a previous period",
+   "a prior-period adjustment",
+   "to regularise (UK) / to regularize (US)"
+  ],
+  "note_fr": "« Rectificative » n'a pas d'équivalent direct (« rectified » est rare). En DSN, la plupart des erreurs se régularisent dans la déclaration du mois suivant plutôt que par une déclaration « annule et remplace ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-056",
+  "level": 3,
+  "fr": "signalement d'événement (DSN : arrêt de travail, reprise, fin de contrat)",
+  "term": {
+   "uk": "DSN event report",
+   "us": "DSN event report"
+  },
+  "ipa": {
+   "uk": "/ˌdiː es ˈen ɪˈvent rɪˈpɔːt/",
+   "us": "/ˌdiː es ˈen ɪˈvent rɪˈpɔːrt/"
+  },
+  "def": "A separate DSN filing that the employer must send shortly after a specific event, such as sick leave, a return to work or the end of a contract.",
+  "registers": {
+   "formal": {
+    "uk": "event-based report",
+    "us": "event-based report",
+    "ex": "An [[event-based report]] must be filed promptly when a contract ends, so that the employee's unemployment rights can be assessed."
+   },
+   "everyday": {
+    "uk": "event report",
+    "us": "event report",
+    "ex": "Did anyone send the [[event report]] for Marc's sick leave? The fund's chasing us."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to report an event",
+   "an end-of-contract report",
+   "a sick-leave report",
+   "a return-to-work report"
+  ],
+  "note_fr": "« Signalement » se traduit ici par « report » ou « notification », pas par « signal ». Ces signalements ont leurs propres délais, courts et distincts de l'échéance mensuelle.",
+  "french_concept": true,
+  "explain": {
+   "written": "In addition to the monthly DSN, French employers must file DSN event reports when certain events occur - mainly sick leave, a return to work and the end of a contract - so that social security benefits can be calculated without delay.",
+   "spoken": "On top of the monthly file, there are one-off DSN reports for specific events - someone goes off sick, comes back, or leaves - and they have their own short deadlines."
+  }
+ },
+ {
+  "id": "ad-057",
+  "level": 2,
+  "fr": "majorations de retard",
+  "term": {
+   "uk": "late-payment surcharge",
+   "us": "late-payment penalty"
+  },
+  "ipa": {
+   "uk": "/ˌleɪt ˈpeɪmənt ˈsɜːtʃɑːdʒ/",
+   "us": "/ˌleɪt ˈpeɪmənt ˈpenəlti/"
+  },
+  "def": "An additional amount charged by the collection body when contributions are paid or declared late.",
+  "registers": {
+   "formal": {
+    "uk": "surcharge for late payment",
+    "us": "penalty for late payment",
+    "ex": "A [[surcharge for late payment]] is applied automatically to contributions not paid by the due date.",
+    "ex_us": "A [[penalty for late payment]] is applied automatically to contributions not paid by the due date."
+   },
+   "everyday": {
+    "uk": "late-payment penalty",
+    "us": "late fee",
+    "ex": "It's only a day late, but there'll still be a [[late-payment penalty]].",
+    "ex_us": "It's only a day late, but there'll still be a [[late fee]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to incur a surcharge",
+   "to apply for remission of surcharges",
+   "interest on late payment",
+   "a late-filing penalty"
+  ],
+  "note_fr": "« Majoration » se traduit selon le contexte : « surcharge » ou « penalty » pour un retard, « premium » pour des heures supplémentaires. Le mot « majoration » n'existe pas en anglais.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-058",
+  "level": 1,
+  "fr": "URSSAF",
+  "term": {
+   "uk": "the URSSAF (social security contributions collection body)",
+   "us": "the URSSAF (social security contributions collection body)"
+  },
+  "ipa": {
+   "uk": "/ˈʊəsæf/",
+   "us": "/ˈʊrsæf/"
+  },
+  "def": "The French body that collects social security contributions from employers and checks, through audits, that they have been correctly calculated and paid.",
+  "registers": {
+   "formal": {
+    "uk": "social security collection agency",
+    "us": "social security collection agency",
+    "ex": "Contributions are paid monthly to the [[social security collection agency]] on the basis of the DSN."
+   },
+   "everyday": {
+    "uk": "URSSAF",
+    "us": "URSSAF",
+    "ex": "[[URSSAF]] has written to say they're coming in March."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay contributions to URSSAF",
+   "an URSSAF audit",
+   "an URSSAF inspector",
+   "to be up to date with URSSAF"
+  ],
+  "note_fr": "Les anglophones disent « URSSAF » ou « the URSSAF » ; ajoutez une glose la première fois. Équivalents approximatifs : HMRC, qui collecte aussi les « National Insurance contributions », au Royaume-Uni ; l'IRS et les agences des États aux États-Unis.",
+  "french_concept": true,
+  "explain": {
+   "written": "URSSAF is the French network of bodies that collects social security contributions from employers and the self-employed and audits them to check that contributions have been correctly calculated and paid.",
+   "spoken": "URSSAF is basically the agency we pay our social charges to - and the one that comes and audits us to check we've paid the right amount."
+  }
+ },
+ {
+  "id": "ad-059",
+  "level": 1,
+  "fr": "contrôle URSSAF",
+  "term": {
+   "uk": "social security audit",
+   "us": "payroll tax audit"
+  },
+  "ipa": {
+   "uk": "/ˈsəʊʃl sɪˈkjʊərəti ˈɔːdɪt/",
+   "us": "/ˈpeɪroʊl tæks ˈɑːdət/"
+  },
+  "def": "An inspection of an employer's payroll records by the collection body to check that contributions have been correctly calculated and paid.",
+  "registers": {
+   "formal": {
+    "uk": "social security audit",
+    "us": "payroll tax audit",
+    "ex": "The company is currently undergoing a [[social security audit]] covering the last three years.",
+    "ex_us": "The company is currently undergoing a [[payroll tax audit]] covering the last three years."
+   },
+   "everyday": {
+    "uk": "URSSAF audit",
+    "us": "URSSAF audit",
+    "ex": "We had an [[URSSAF audit]] last year and the company cars cost us a fortune."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to undergo an audit",
+   "to prepare for an audit",
+   "an on-site audit",
+   "a desk-based audit"
+  ],
+  "note_fr": "Au Royaume-Uni, on parlerait d'un « HMRC employer compliance review » ; aux États-Unis, d'un « employment tax audit » de l'IRS ou d'un État. « Control » ne s'emploie pas dans ce sens : dites « audit » ou « inspection ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-060",
+  "level": 2,
+  "fr": "avis de contrôle",
+  "term": {
+   "uk": "notice of audit",
+   "us": "audit notification letter"
+  },
+  "ipa": {
+   "uk": "/ˈnəʊtɪs əv ˈɔːdɪt/",
+   "us": "/ˈɑːdət ˌnoʊt̬əfəˈkeɪʃn ˈlet̬ər/"
+  },
+  "def": "The letter by which the collection body informs an employer in advance that an audit will take place, and when.",
+  "registers": {
+   "formal": {
+    "uk": "notice of audit",
+    "us": "notice of audit",
+    "ex": "The [[notice of audit]] specifies the start date and the documents to be made available to the inspector."
+   },
+   "everyday": {
+    "uk": "audit letter",
+    "us": "audit letter",
+    "ex": "The [[audit letter]] came in yesterday - they want to start on the 12th."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to receive a notice of audit",
+   "to acknowledge receipt",
+   "the audit start date",
+   "the charter of the audited employer"
+  ],
+  "note_fr": "L'avis renvoie à la charte du cotisant contrôlé, qui rappelle les droits de l'employeur. « Avis » se traduit ici par « notice », jamais par « advice » (conseil).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-061",
+  "level": 3,
+  "fr": "période contrôlée / années non prescrites",
+  "term": {
+   "uk": "period under review",
+   "us": "look-back period"
+  },
+  "ipa": {
+   "uk": "/ˈpɪəriəd ˈʌndə rɪˈvjuː/",
+   "us": "/ˈlʊk bæk ˈpɪriəd/"
+  },
+  "def": "The span of past months or years that an audit can cover, limited by the statute of limitations.",
+  "registers": {
+   "formal": {
+    "uk": "period under review",
+    "us": "audit period",
+    "ex": "The [[period under review]] covers the three calendar years preceding the audit and the current year.",
+    "ex_us": "The [[audit period]] covers the three calendar years preceding the audit and the current year."
+   },
+   "everyday": {
+    "uk": "look-back period",
+    "us": "look-back period",
+    "ex": "In cases of undeclared work, the [[look-back period]] is longer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be time-barred",
+   "the limitation period",
+   "years still open to audit",
+   "to go back three years"
+  ],
+  "note_fr": "« Prescription » se dit « limitation period » (UK) ou « statute of limitations » (US), jamais « prescription » (ordonnance médicale). En cas de travail dissimulé, la période contrôlable est allongée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-062",
+  "level": 2,
+  "fr": "lettre d'observations (fin de contrôle URSSAF)",
+  "term": {
+   "uk": "letter of observations",
+   "us": "audit findings letter"
+  },
+  "ipa": {
+   "uk": "/ˈletə əv ˌɒbzəˈveɪʃnz/",
+   "us": "/ˈɑːdət ˈfaɪndɪŋz ˈlet̬ər/"
+  },
+  "def": "The letter sent at the end of a French social security audit, setting out each finding, its legal basis and the amounts to be reassessed, and opening a period for the employer to respond.",
+  "registers": {
+   "formal": {
+    "uk": "letter of observations",
+    "us": "letter of findings",
+    "ex": "The employer has a limited period from receipt of the [[letter of observations]] in which to submit its response.",
+    "ex_us": "The employer has a limited period from receipt of the [[letter of findings]] in which to submit its response."
+   },
+   "everyday": {
+    "uk": "findings letter",
+    "us": "findings letter",
+    "ex": "The [[findings letter]] lists six points - and four of them are about benefits in kind."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to respond to the letter of observations",
+   "the findings and the amounts",
+   "to contest a point",
+   "the adversarial stage"
+  ],
+  "note_fr": "Le délai de réponse est en principe de 30 jours, prolongeable sur demande : vérifiez toujours ce qu'indique la lettre. « Observations » est faible en anglais ; parlez de « findings » à vos interlocuteurs.",
+  "french_concept": true,
+  "explain": {
+   "written": "The lettre d'observations is the formal letter that closes the inspection phase of an URSSAF audit: it lists each finding, its legal basis and the proposed reassessment, and gives the employer a set period to respond before any demand for payment is issued.",
+   "spoken": "It's the inspector's written findings at the end of the audit. We get a few weeks to push back on each point before they send us the bill."
+  }
+ },
+ {
+  "id": "ad-063",
+  "level": 2,
+  "fr": "redressement (de cotisations)",
+  "term": {
+   "uk": "reassessment",
+   "us": "audit assessment"
+  },
+  "ipa": {
+   "uk": "/ˌriːəˈsesmənt/",
+   "us": "/ˈɑːdət əˈsesmənt/"
+  },
+  "def": "The additional contributions claimed by the collection body after an audit, on top of what the employer originally paid.",
+  "registers": {
+   "formal": {
+    "uk": "reassessment of contributions",
+    "us": "assessment of additional taxes",
+    "ex": "The audit resulted in a [[reassessment of contributions]] of 84,000 euros, plus late-payment surcharges.",
+    "ex_us": "The audit resulted in an [[assessment of additional taxes]] of 84,000 euros, plus late-payment penalties."
+   },
+   "everyday": {
+    "uk": "reassessment",
+    "us": "adjustment",
+    "ex": "Most of the [[reassessment]] comes down to one thing: the company cars.",
+    "ex_us": "Most of the [[adjustment]] comes down to one thing: the company cars."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be reassessed",
+   "to reduce a reassessment",
+   "a reassessment in the employer's favour",
+   "the reassessed amount"
+  ],
+  "note_fr": "Ne traduisez pas par « recovery » ni « straightening ». « Redressement judiciaire » est tout autre chose : « administration » (UK) / « court-supervised reorganization » (US). Un contrôle peut aussi aboutir à un remboursement en faveur de l'employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-064",
+  "level": 3,
+  "fr": "mise en demeure (de payer, URSSAF)",
+  "term": {
+   "uk": "formal notice to pay",
+   "us": "formal demand for payment"
+  },
+  "ipa": {
+   "uk": "/ˈfɔːml ˈnəʊtɪs tə peɪ/",
+   "us": "/ˈfɔːrml dɪˈmænd fər ˈpeɪmənt/"
+  },
+  "def": "The official demand, sent after an audit or a missed payment, requiring the employer to pay within a set time, failing which enforcement can begin.",
+  "registers": {
+   "formal": {
+    "uk": "formal notice to pay",
+    "us": "formal demand for payment",
+    "ex": "A [[formal notice to pay]] was served on the company once its response to the findings had been considered.",
+    "ex_us": "A [[formal demand for payment]] was issued to the company once its response to the findings had been considered."
+   },
+   "everyday": {
+    "uk": "final demand",
+    "us": "final notice",
+    "ex": "We've had the [[final demand]], so if we want to contest it, the clock is ticking.",
+    "ex_us": "We got the [[final notice]], so if we want to contest it, the clock is ticking."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to serve a formal notice",
+   "to pay under protest",
+   "enforcement proceedings",
+   "to challenge within the time limit"
+  ],
+  "note_fr": "« Put in default » est un calque fréquent et peu idiomatique. La mise en demeure fait courir le délai de contestation : notez précisément sa date de réception.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-065",
+  "level": 3,
+  "fr": "contester un redressement (saisir la commission de recours amiable)",
+  "term": {
+   "uk": "to challenge a reassessment",
+   "us": "to appeal an assessment"
+  },
+  "ipa": {
+   "uk": "/tə ˈtʃælɪndʒ ə ˌriːəˈsesmənt/",
+   "us": "/tʊ əˈpiːl ən əˈsesmənt/"
+  },
+  "def": "To dispute the amounts claimed after an audit, first before a review board within the collection body and then, if necessary, in court.",
+  "registers": {
+   "formal": {
+    "uk": "to contest a reassessment",
+    "us": "to appeal an assessment",
+    "ex": "The company intends to [[contest the reassessment]] before the amicable appeals board within the statutory time limit.",
+    "ex_us": "The company intends to [[appeal the assessment]] before the internal appeals board within the statutory time limit."
+   },
+   "everyday": {
+    "uk": "to challenge",
+    "us": "to fight",
+    "ex": "Two of the points are worth [[challenging]]; the rest, frankly, we should just pay.",
+    "ex_us": "Two of the points are worth [[fighting]]; the rest, frankly, we should just pay."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to lodge an appeal",
+   "the amicable appeals board",
+   "to take the matter to court",
+   "grounds for appeal"
+  ],
+  "note_fr": "Le recours devant la commission de recours amiable (CRA) est un préalable obligatoire avant le tribunal. « Amicable » doit être glosé : « an internal review board of the collection body ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-066",
+  "level": 2,
+  "fr": "délais de paiement / échéancier",
+  "term": {
+   "uk": "time-to-pay arrangement",
+   "us": "installment agreement"
+  },
+  "ipa": {
+   "uk": "/ˌtaɪm tə ˈpeɪ əˈreɪndʒmənt/",
+   "us": "/ɪnˈstɔːlmənt əˈɡriːmənt/"
+  },
+  "def": "An agreement allowing an employer to pay a debt to the authorities in several instalments over an agreed period.",
+  "registers": {
+   "formal": {
+    "uk": "payment schedule",
+    "us": "installment plan",
+    "ex": "The company has requested a [[payment schedule]] over twelve months for the reassessed contributions.",
+    "ex_us": "The company has requested an [[installment plan]] over twelve months for the reassessed contributions."
+   },
+   "everyday": {
+    "uk": "time-to-pay arrangement",
+    "us": "installment agreement",
+    "ex": "If cash is tight, we can ask for a [[time-to-pay arrangement]] - they're usually open to it.",
+    "ex_us": "If cash is tight, we can ask for an [[installment agreement]] - they're usually open to it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay in instalments (UK) / installments (US)",
+   "to agree a payment plan",
+   "to spread the payments",
+   "to keep up with the payments"
+  ],
+  "note_fr": "Orthographe : « instalment » (UK), « installment » (US). « Time to Pay arrangement » est le terme officiel du fisc britannique (HMRC) ; « installment agreement » celui de l'IRS américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-067",
+  "level": 3,
+  "fr": "remise des majorations (de retard)",
+  "term": {
+   "uk": "remission of surcharges",
+   "us": "penalty abatement"
+  },
+  "ipa": {
+   "uk": "/rɪˈmɪʃn əv ˈsɜːtʃɑːdʒɪz/",
+   "us": "/ˈpenəlti əˈbeɪtmənt/"
+  },
+  "def": "The cancellation or reduction, on request, of surcharges for late payment, usually granted where the employer has acted in good faith.",
+  "registers": {
+   "formal": {
+    "uk": "remission of surcharges",
+    "us": "penalty abatement",
+    "ex": "Once the contributions have been settled, the company may apply for [[remission of surcharges]].",
+    "ex_us": "Once the contributions have been paid, the company may request [[penalty abatement]]."
+   },
+   "everyday": {
+    "uk": "to waive the penalties",
+    "us": "to waive the penalties",
+    "ex": "If we pay the contributions now, they may agree to [[waive the penalties]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for remission",
+   "to act in good faith",
+   "to pay the principal",
+   "a first-time failure"
+  ],
+  "note_fr": "« Remise » n'est pas ici une remise commerciale (« discount »). La remise des majorations suppose en principe le paiement préalable des cotisations dues.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-068",
+  "level": 3,
+  "fr": "rescrit social",
+  "term": {
+   "uk": "advance ruling",
+   "us": "advance ruling"
+  },
+  "ipa": {
+   "uk": "/ədˈvɑːns ˈruːlɪŋ/",
+   "us": "/ədˈvæns ˈruːlɪŋ/"
+  },
+  "def": "A formal written answer from the authorities, requested by the employer, on how a rule applies to its specific situation, by which the authorities are then bound.",
+  "registers": {
+   "formal": {
+    "uk": "advance ruling",
+    "us": "advance ruling",
+    "ex": "Before rolling out the new allowance, the company sought an [[advance ruling]] on its treatment for contribution purposes."
+   },
+   "everyday": {
+    "uk": "to get a ruling",
+    "us": "to get a ruling",
+    "ex": "If we're not sure the scheme is exempt, why not [[get a ruling]] first?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to request a ruling",
+   "to be bound by a ruling",
+   "legal certainty",
+   "a private letter ruling (US)"
+  ],
+  "note_fr": "Le rescrit n'engage l'administration que pour la situation décrite et tant que les faits et le droit ne changent pas. Équivalents : « private letter ruling » de l'IRS (US), « non-statutory clearance » de HMRC (UK).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-069",
+  "level": 2,
+  "fr": "contrôle sur pièces (sans visite sur place)",
+  "term": {
+   "uk": "desk-based audit",
+   "us": "desk audit"
+  },
+  "ipa": {
+   "uk": "/ˈdesk beɪst ˈɔːdɪt/",
+   "us": "/ˈdesk ˈɑːdət/"
+  },
+  "def": "An audit carried out remotely, from documents sent in by the employer, without inspectors visiting the premises.",
+  "registers": {
+   "formal": {
+    "uk": "desk-based audit",
+    "us": "desk audit",
+    "ex": "Smaller employers may be subject to a [[desk-based audit]] conducted entirely on the basis of the documents they submit.",
+    "ex_us": "Smaller employers may be subject to a [[desk audit]] conducted entirely on the basis of the documents they submit."
+   },
+   "everyday": {
+    "uk": "remote audit",
+    "us": "remote audit",
+    "ex": "It's only a [[remote audit]], but they still want three years of payroll journals."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an on-site audit",
+   "to submit documents electronically",
+   "a field audit (US)",
+   "a request for further information"
+  ],
+  "note_fr": "Aux États-Unis, l'IRS distingue « correspondence audit » (par courrier), « office audit » et « field audit » (sur place). Ne traduisez jamais « sur pièces » par « on pieces ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-070",
+  "level": 3,
+  "fr": "procès-verbal (de l'inspection du travail) / dresser procès-verbal",
+  "term": {
+   "uk": "official report of an offence (procès-verbal)",
+   "us": "official report of an offense (procès-verbal)"
+  },
+  "ipa": {
+   "uk": "/əˈfɪʃl rɪˈpɔːt əv ən əˈfens/",
+   "us": "/əˈfɪʃl rɪˈpɔːrt əv ən əˈfens/"
+  },
+  "def": "A formal written record in which a labour inspector records an offence; it is sent to the public prosecutor and can lead to criminal proceedings.",
+  "registers": {
+   "formal": {
+    "uk": "official report",
+    "us": "official report",
+    "ex": "The inspector may draw up an [[official report]] recording the offence and forward it to the public prosecutor.",
+    "ex_us": "The inspector may draw up an [[official report]] recording the offense and forward it to the public prosecutor."
+   },
+   "everyday": {
+    "uk": "to be written up",
+    "us": "to be written up",
+    "ex": "If they find people working without a contract, we'll [[be written up]] - and that goes straight to the prosecutor."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draw up a report",
+   "to refer a case to the public prosecutor",
+   "a criminal offence",
+   "a formal warning"
+  ],
+  "note_fr": "Ne confondez pas avec le procès-verbal de réunion (« minutes ») et ne traduisez jamais par « verbal process ». L'inspecteur peut aussi se contenter d'observations écrites ou d'une mise en demeure.",
+  "french_concept": true,
+  "explain": {
+   "written": "A procès-verbal is a formal report in which a French labour inspector records an offence; it is forwarded to the public prosecutor, who decides whether to bring criminal proceedings.",
+   "spoken": "It's the inspector's official write-up of an offence. It goes to the prosecutor, so it's a real step up from a warning letter."
+  }
+ },
+ {
+  "id": "ad-071",
+  "level": 2,
+  "fr": "amende administrative",
+  "term": {
+   "uk": "administrative fine",
+   "us": "administrative fine"
+  },
+  "ipa": {
+   "uk": "/ədˈmɪnɪstrətɪv faɪn/",
+   "us": "/ədˈmɪnəstreɪt̬ɪv faɪn/"
+  },
+  "def": "A financial penalty imposed directly by an administrative authority, without going to court.",
+  "registers": {
+   "formal": {
+    "uk": "administrative fine",
+    "us": "administrative fine",
+    "ex": "Failure to keep working-time records may give rise to an [[administrative fine]] for each employee concerned."
+   },
+   "everyday": {
+    "uk": "to be fined",
+    "us": "to be fined",
+    "ex": "We could [[be fined]] for every employee whose hours weren't recorded."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to impose an administrative fine",
+   "per employee concerned",
+   "to contest a fine",
+   "a criminal fine"
+  ],
+  "note_fr": "En France, l'administration du travail peut infliger des amendes administratives dans certains domaines, sans passer par un juge. « Amende » n'a rien à voir avec « to amend » (modifier).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-072",
+  "level": 1,
+  "fr": "obligations déclaratives",
+  "term": {
+   "uk": "reporting obligations",
+   "us": "reporting requirements"
+  },
+  "ipa": {
+   "uk": "/rɪˈpɔːtɪŋ ˌɒblɪˈɡeɪʃnz/",
+   "us": "/rɪˈpɔːrt̬ɪŋ rɪˈkwaɪərmənts/"
+  },
+  "def": "The legal duties to send information - declarations, indicators, reports - to the authorities, or to publish it, by set dates.",
+  "registers": {
+   "formal": {
+    "uk": "reporting obligations",
+    "us": "reporting requirements",
+    "ex": "The subsidiary's [[reporting obligations]] are summarised in the attached compliance calendar.",
+    "ex_us": "The subsidiary's [[reporting requirements]] are summarized in the attached compliance calendar."
+   },
+   "everyday": {
+    "uk": "filings",
+    "us": "filings",
+    "ex": "January is a nightmare - all the annual [[filings]] land at once."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet one's reporting obligations",
+   "annual reporting",
+   "mandatory disclosures",
+   "to report to the authorities"
+  ],
+  "note_fr": "« Declarative obligations » est un calque. En anglais, « reporting » couvre à la fois les déclarations aux autorités et le reporting interne.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-073",
+  "level": 2,
+  "fr": "bilan social",
+  "term": {
+   "uk": "annual social report (bilan social)",
+   "us": "annual social report (bilan social)"
+  },
+  "ipa": {
+   "uk": "/ˈænjuəl ˈsəʊʃl rɪˈpɔːt/",
+   "us": "/ˈænjuəl ˈsoʊʃl rɪˈpɔːrt/"
+  },
+  "def": "A French statutory report, required in companies with at least 300 employees, that sets out key workforce figures - headcount, pay, working conditions, training, industrial relations - over three years.",
+  "registers": {
+   "formal": {
+    "uk": "annual social report",
+    "us": "annual social report",
+    "ex": "The [[annual social report]] is submitted to the works council for its opinion and sent to the labour inspector."
+   },
+   "everyday": {
+    "uk": "workforce report",
+    "us": "workforce report",
+    "ex": "Can we reuse the [[workforce report]] figures for the group's ESG survey?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to prepare the annual social report",
+   "workforce indicators",
+   "a three-year comparison",
+   "the economic and social database"
+  ],
+  "note_fr": "« Social balance sheet », traduction littérale, est incompréhensible. « Social » renvoie en anglais à la société au sens large : précisez « workforce » ou « employment ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The bilan social is an annual report that French companies with 300 or more employees must draw up, presenting key workforce indicators over a three-year period, for submission to the works council.",
+   "spoken": "It's an annual pack of workforce statistics - headcount, pay, absence, training - that larger French companies have to produce for the works council."
+  }
+ },
+ {
+  "id": "ad-074",
+  "level": 3,
+  "fr": "DOETH (déclaration obligatoire d'emploi des travailleurs handicapés)",
+  "term": {
+   "uk": "disability employment declaration",
+   "us": "disability employment declaration"
+  },
+  "ipa": {
+   "uk": "/ˌdɪsəˈbɪləti ɪmˈplɔɪmənt ˌdekləˈreɪʃn/",
+   "us": "/ˌdɪsəˈbɪlət̬i ɪmˈplɔɪmənt ˌdekləˈreɪʃn/"
+  },
+  "def": "The annual declaration, now made through the DSN, by which French employers report how many disabled workers they employ against the legal quota and calculate any contribution due.",
+  "registers": {
+   "formal": {
+    "uk": "annual disability employment return",
+    "us": "annual disability employment report",
+    "ex": "The [[annual disability employment return]] is now filed through the DSN, and any contribution due is paid to URSSAF.",
+    "ex_us": "The [[annual disability employment report]] is now filed through the DSN, and any contribution due is paid to URSSAF."
+   },
+   "everyday": {
+    "uk": "disability return",
+    "us": "disability report",
+    "ex": "The [[disability return]] shows we're short of the quota again, so there'll be a contribution to pay.",
+    "ex_us": "The [[disability report]] shows we're short of the quota again, so there'll be a contribution to pay."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet the quota",
+   "the employment quota for disabled workers",
+   "a contribution in lieu",
+   "recognised disabled worker status"
+  ],
+  "note_fr": "Le Royaume-Uni n'a pas de quota et les États-Unis ne fixent des objectifs qu'aux entreprises sous contrat fédéral : la notion doit être expliquée. Écrivez « disabled workers » ou « workers with disabilities », jamais « handicapped ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The DOETH is the annual declaration, made through the DSN, by which French employers with 20 or more employees report their employment of disabled workers against the statutory quota and pay a contribution if they fall short.",
+   "spoken": "Every year we have to declare how many people with a recognised disability we employ. If we're below the quota, we pay a contribution."
+  }
+ },
+ {
+  "id": "ad-075",
+  "level": 1,
+  "fr": "travail dissimulé / travail au noir",
+  "term": {
+   "uk": "undeclared work",
+   "us": "off-the-books employment"
+  },
+  "ipa": {
+   "uk": "/ˌʌndɪˈkleəd wɜːk/",
+   "us": "/ˌɔːf ðə ˈbʊks ɪmˈplɔɪmənt/"
+  },
+  "def": "Work hidden, in whole or in part, from the authorities - for example an unregistered business, an undeclared employee or under-reported hours.",
+  "registers": {
+   "formal": {
+    "uk": "undeclared work",
+    "us": "unreported employment",
+    "ex": "The client company may be held jointly liable where its subcontractor has engaged in [[undeclared work]].",
+    "ex_us": "The client company may be held jointly liable where its subcontractor has engaged in [[unreported employment]]."
+   },
+   "everyday": {
+    "uk": "off the books",
+    "us": "off the books",
+    "ex": "The inspectors found two drivers being paid [[off the books]]."
+   },
+   "informal": {
+    "uk": "cash in hand",
+    "us": "under the table",
+    "ex": "He was doing weekend shifts for them, paid [[cash in hand]].",
+    "ex_us": "He was doing weekend shifts for them, paid [[under the table]]."
+   }
+  },
+  "collocations": [
+   "to combat undeclared work",
+   "to be paid off the books",
+   "the shadow economy",
+   "to declare an employee"
+  ],
+  "note_fr": "Au Royaume-Uni, « illegal working » désigne surtout l'emploi de personnes sans droit au travail (immigration) : ne l'employez pas pour « travail dissimulé ». La notion française est large et inclut la sous-déclaration d'heures.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-076",
+  "level": 3,
+  "fr": "dissimulation d'emploi salarié",
+  "term": {
+   "uk": "concealed employment",
+   "us": "concealed employment"
+  },
+  "ipa": {
+   "uk": "/kənˈsiːld ɪmˈplɔɪmənt/",
+   "us": "/kənˈsiːld ɪmˈplɔɪmənt/"
+  },
+  "def": "The form of undeclared work in which an employer deliberately fails to declare an employee or issue payslips, or shows fewer hours on the payslip than were actually worked.",
+  "registers": {
+   "formal": {
+    "uk": "concealed employment",
+    "us": "concealed employment",
+    "ex": "Recording fewer hours on the payslip than were actually worked may constitute [[concealed employment]].",
+    "ex_us": "Recording fewer hours on the pay statement than were actually worked may constitute [[concealed employment]]."
+   },
+   "everyday": {
+    "uk": "under-declaring hours",
+    "us": "underreporting hours",
+    "ex": "Paying overtime as 'expenses' is [[under-declaring hours]], and the inspectors know that trick.",
+    "ex_us": "Paying overtime as 'expenses' is [[underreporting hours]], and the inspectors know that trick."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "intentional concealment",
+   "to fail to issue a payslip",
+   "to under-report hours",
+   "the pre-hiring declaration"
+  ],
+  "note_fr": "L'élément intentionnel est requis : une simple erreur de paie n'est pas du travail dissimulé. Les conséquences sont lourdes : sanctions pénales, annulation des allègements de cotisations, solidarité financière du donneur d'ordre.",
+  "french_concept": true,
+  "explain": {
+   "written": "Dissimulation d'emploi salarié is the form of undeclared work in which an employer intentionally fails to make the pre-hiring declaration or to issue payslips, or shows fewer hours on payslips than were actually worked.",
+   "spoken": "It's when an employer deliberately hides an employee, or part of their hours, from the authorities - no declaration, no payslip, or a payslip showing fewer hours than they really worked."
+  }
+ },
+ {
+  "id": "ad-077",
+  "level": 1,
+  "fr": "entreprise de travail temporaire (agence d'intérim)",
+  "term": {
+   "uk": "temp agency",
+   "us": "staffing agency"
+  },
+  "ipa": {
+   "uk": "/ˈtemp ˈeɪdʒənsi/",
+   "us": "/ˈstæfɪŋ ˈeɪdʒənsi/"
+  },
+  "def": "A company that employs temporary workers and places them with client businesses for limited assignments.",
+  "registers": {
+   "formal": {
+    "uk": "employment business",
+    "us": "temporary staffing firm",
+    "ex": "The [[employment business]] remains the legal employer of the agency worker throughout the assignment.",
+    "ex_us": "The [[temporary staffing firm]] remains the legal employer of the temporary worker throughout the assignment."
+   },
+   "everyday": {
+    "uk": "temp agency",
+    "us": "staffing agency",
+    "ex": "We've asked the [[temp agency]] for three more people for the Christmas peak.",
+    "ex_us": "We've asked the [[staffing agency]] for three more people for the holiday peak."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an agency worker",
+   "a temporary assignment",
+   "agency fees",
+   "to temp"
+  ],
+  "note_fr": "En droit britannique, l'« employment business » (qui place des intérimaires) se distingue de l'« employment agency » (cabinet de recrutement). « Interim » désigne en anglais un intérim de direction (« interim manager »), pas l'intérim au sens français.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-078",
+  "level": 2,
+  "fr": "entreprise utilisatrice",
+  "term": {
+   "uk": "hirer",
+   "us": "client company"
+  },
+  "ipa": {
+   "uk": "/ˈhaɪərə/",
+   "us": "/ˈklaɪənt ˈkʌmpəni/"
+  },
+  "def": "The business in which an agency worker actually carries out the work, as opposed to the agency that employs him or her.",
+  "registers": {
+   "formal": {
+    "uk": "hirer",
+    "us": "client company",
+    "ex": "The [[hirer]] is responsible for health and safety and working time at the place of work.",
+    "ex_us": "The [[client company]] is responsible for health and safety and working time at the worksite."
+   },
+   "everyday": {
+    "uk": "end client",
+    "us": "client",
+    "ex": "The agency pays them, but the [[end client]] decides their hours.",
+    "ex_us": "The agency pays them, but the [[client]] decides their hours."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the user undertaking (EU texts)",
+   "the place of assignment",
+   "the agency and the hirer",
+   "equal treatment with permanent staff"
+  ],
+  "note_fr": "« User company » (calque) se comprend dans les textes européens (« user undertaking »), mais « hirer » est le terme du droit britannique. En France, l'entreprise utilisatrice répond des conditions de travail (durée du travail, sécurité) pendant la mission.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-079",
+  "level": 3,
+  "fr": "cas de recours au travail temporaire",
+  "term": {
+   "uk": "permitted grounds for using agency staff",
+   "us": "permitted grounds for using temporary staff"
+  },
+  "ipa": {
+   "uk": "/pəˈmɪtɪd ɡraʊndz fə ˈjuːzɪŋ ˈeɪdʒənsi stɑːf/",
+   "us": "/pərˈmɪt̬ɪd ɡraʊndz fər ˈjuːzɪŋ ˈtempəreri stæf/"
+  },
+  "def": "The limited list of situations in which French law allows a business to use temporary agency workers, such as replacing an absent employee or coping with a temporary increase in activity.",
+  "registers": {
+   "formal": {
+    "uk": "permitted grounds",
+    "us": "permitted grounds",
+    "ex": "Each assignment contract must state one of the [[permitted grounds]] for agency work set out in the Labour Code.",
+    "ex_us": "Each assignment contract must state one of the [[permitted grounds]] for temporary work set out in the Labor Code."
+   },
+   "everyday": {
+    "uk": "a legitimate reason",
+    "us": "a legitimate reason",
+    "ex": "You can't bring in temps to fill a permanent job - each assignment needs [[a legitimate reason]], like covering an absence."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to replace an absent employee",
+   "a temporary increase in activity",
+   "seasonal work",
+   "to fill a permanent post"
+  ],
+  "note_fr": "Au Royaume-Uni et aux États-Unis, le recours à l'intérim est libre : vos interlocuteurs ignorent souvent que la France l'encadre strictement. Un recours irrégulier expose à la requalification de la mission en CDI auprès de l'entreprise utilisatrice.",
+  "french_concept": true,
+  "explain": {
+   "written": "French law allows businesses to use temporary agency workers only for specific, temporary tasks listed in the Labour Code - for example replacing an absent employee or coping with a temporary increase in activity - and never to fill a permanent position or to replace striking employees.",
+   "spoken": "In France you can't use temps whenever you like. There has to be one of the reasons the law allows - covering an absence, a temporary peak - and you can never use them for a permanent job or to replace strikers."
+  }
+ },
+ {
+  "id": "ad-080",
+  "level": 3,
+  "fr": "prêt de main-d'œuvre illicite / marchandage",
+  "term": {
+   "uk": "unlawful supply of labour",
+   "us": "unlawful supply of labor"
+  },
+  "ipa": {
+   "uk": "/ʌnˈlɔːfl səˈplaɪ əv ˈleɪbə/",
+   "us": "/ʌnˈlɑːfl səˈplaɪ əv ˈleɪbər/"
+  },
+  "def": "The for-profit supply of staff to another business outside the regulated temporary agency framework, or any for-profit supply of labour that harms the workers or circumvents the law, both prohibited in France.",
+  "registers": {
+   "formal": {
+    "uk": "unlawful supply of labour",
+    "us": "unlawful supply of labor",
+    "ex": "A contract that merely provides workers, with no specific service or know-how, may be treated as an [[unlawful supply of labour]].",
+    "ex_us": "A contract that merely provides workers, with no specific service or know-how, may be treated as an [[unlawful supply of labor]]."
+   },
+   "everyday": {
+    "uk": "labour-only subcontracting",
+    "us": "labor-only contracting",
+    "ex": "If the 'consultants' just sit in our teams taking orders from our managers, it looks like [[labour-only subcontracting]].",
+    "ex_us": "If the 'consultants' just sit in our teams taking orders from our managers, it looks like [[labor-only contracting]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a for-profit supply of staff",
+   "genuine subcontracting",
+   "to take orders from the client's managers",
+   "the contractor's own know-how"
+  ],
+  "note_fr": "Notion largement inconnue au Royaume-Uni et aux États-Unis, où la mise à disposition de personnel est courante. Un indice clé : qui donne les ordres au quotidien ? Si c'est le client, le contrat de prestation est fragile.",
+  "french_concept": true,
+  "explain": {
+   "written": "French law prohibits the for-profit supply of staff outside the regulated temporary agency framework (prêt de main-d'œuvre illicite) and any for-profit supply of labour that harms the workers or circumvents the law (marchandage); genuine subcontracting must involve a specific service delivered with the contractor's own know-how and management.",
+   "spoken": "In France, a contractor can't just rent people out to you for profit unless it's a temp agency. If their staff work under your managers like your own employees, it can be treated as an illegal supply of labour."
+  }
+ },
+ {
+  "id": "ad-081",
+  "level": 1,
+  "fr": "sous-traitant / prestataire (au sens commercial)",
+  "term": {
+   "uk": "subcontractor",
+   "us": "subcontractor"
+  },
+  "ipa": {
+   "uk": "/ˌsʌbkənˈtræktə/",
+   "us": "/ˌsʌbˈkɑːntræktər/"
+  },
+  "def": "An outside business that carries out part of the work, or a service, for a company under a commercial contract.",
+  "registers": {
+   "formal": {
+    "uk": "contractor",
+    "us": "contractor",
+    "ex": "The Company shall verify that each [[contractor]] is duly registered and up to date with its social security obligations."
+   },
+   "everyday": {
+    "uk": "subcontractor",
+    "us": "subcontractor",
+    "ex": "The cleaning is done by a [[subcontractor]], so we need their URSSAF certificate every six months."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to use subcontractors",
+   "a cleaning contractor",
+   "to vet a contractor",
+   "on-site contractors"
+  ],
+  "note_fr": "Le « sous-traitant » au sens du RGPD est un « data processor » : rien à voir. En anglais, « contractor » désigne le prestataire principal et « subcontractor » celui à qui il confie une partie du travail ; dans la pratique, les deux s'emploient souvent indifféremment.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-082",
+  "level": 2,
+  "fr": "obligation de vigilance (du donneur d'ordre)",
+  "term": {
+   "uk": "duty to check subcontractors",
+   "us": "duty to check subcontractors"
+  },
+  "ipa": {
+   "uk": "/ˈdjuːti tə tʃek ˌsʌbkənˈtræktəz/",
+   "us": "/ˈduːt̬i tə tʃek ˌsʌbˈkɑːntræktərz/"
+  },
+  "def": "The French client company's legal obligation to check, at signature and periodically during any contract above a set value, that its contractor is registered and up to date with its social security declarations and payments.",
+  "registers": {
+   "formal": {
+    "uk": "due diligence obligation",
+    "us": "due diligence obligation",
+    "ex": "Under its [[due diligence obligation]], the client must obtain the contractor's certificate of compliance when the contract is signed and every six months thereafter."
+   },
+   "everyday": {
+    "uk": "contractor checks",
+    "us": "vendor checks",
+    "ex": "Procurement thought the [[contractor checks]] were HR's job, and HR thought they were procurement's.",
+    "ex_us": "Procurement thought the [[vendor checks]] were HR's job, and HR thought they were procurement's."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out contractor checks",
+   "to obtain documents from the contractor",
+   "every six months",
+   "above a set contract value"
+  ],
+  "note_fr": "Ne confondez pas avec le « devoir de vigilance » des grandes sociétés (loi de 2017 sur les droits humains et l'environnement dans la chaîne d'approvisionnement). Il s'agit ici de lutter contre le travail dissimulé.",
+  "french_concept": true,
+  "explain": {
+   "written": "The obligation de vigilance requires a French company that contracts for services above a set value to check, at signature and every six months, that its contractor is registered and has filed and paid its social security contributions; if it fails to do so, it may be held jointly liable should the contractor use undeclared work.",
+   "spoken": "Whenever we use a contractor above a certain amount, we have to collect proof that they're properly registered and paying their social charges - at the start and every six months. If we don't, and they turn out to be using undeclared workers, we can end up paying for it."
+  }
+ },
+ {
+  "id": "ad-083",
+  "level": 2,
+  "fr": "attestation de vigilance (URSSAF)",
+  "term": {
+   "uk": "social security compliance certificate",
+   "us": "social security compliance certificate"
+  },
+  "ipa": {
+   "uk": "/ˈsəʊʃl sɪˈkjʊərəti kəmˈplaɪəns səˈtɪfɪkət/",
+   "us": "/ˈsoʊʃl səˈkjʊrət̬i kəmˈplaɪəns sərˈtɪfɪkət/"
+  },
+  "def": "A certificate issued by URSSAF confirming that a business is registered and up to date with its social security declarations and payments, which clients must obtain from their contractors.",
+  "registers": {
+   "formal": {
+    "uk": "certificate of compliance",
+    "us": "certificate of compliance",
+    "ex": "The supplier shall provide an up-to-date [[certificate of compliance]] issued by URSSAF every six months for the duration of the contract."
+   },
+   "everyday": {
+    "uk": "URSSAF certificate",
+    "us": "URSSAF certificate",
+    "ex": "Their [[URSSAF certificate]] expired in March and nobody asked for a new one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to request an up-to-date certificate",
+   "to check that a certificate is authentic",
+   "a certificate of good standing",
+   "a supplier portal"
+  ],
+  "note_fr": "Vérifiez l'authenticité de l'attestation (code de sécurité vérifiable sur le site de l'URSSAF) : une simple copie ne suffit pas. « Vigilance certificate » n'est pas compris sans explication.",
+  "french_concept": true,
+  "explain": {
+   "written": "The attestation de vigilance is a certificate issued by URSSAF confirming that a business is registered and has filed and paid its social security contributions; a client company must obtain it from its contractors and check that it is authentic.",
+   "spoken": "It's a certificate from URSSAF saying the contractor is properly registered and up to date with its social charges. We have to collect it and check it's genuine."
+  }
+ },
+ {
+  "id": "ad-084",
+  "level": 3,
+  "fr": "solidarité financière (du donneur d'ordre)",
+  "term": {
+   "uk": "joint and several liability",
+   "us": "joint and several liability"
+  },
+  "ipa": {
+   "uk": "/ˌdʒɔɪnt ən ˈsevrəl ˌlaɪəˈbɪləti/",
+   "us": "/ˌdʒɔɪnt ən ˈsevrəl ˌlaɪəˈbɪlət̬i/"
+  },
+  "def": "A rule under which each of several parties can be made to pay the whole of a debt; in France, a client that failed to carry out its checks can be made to pay the taxes, contributions and wages owed by a contractor using undeclared work.",
+  "registers": {
+   "formal": {
+    "uk": "joint and several liability",
+    "us": "joint and several liability",
+    "ex": "Failure to carry out the required checks exposes the client to [[joint and several liability]] for the contributions and penalties owed by the contractor."
+   },
+   "everyday": {
+    "uk": "to foot the bill",
+    "us": "to foot the bill",
+    "ex": "If the cleaning firm turns out to be using undeclared workers, we could end up [[footing the bill]] for their unpaid contributions."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be held jointly and severally liable",
+   "the client and the contractor",
+   "unpaid contributions and wages",
+   "to recover the sums from"
+  ],
+  "note_fr": "« Financial solidarity » est un contresens : il évoque l'entraide. « Joint and several liability » est le terme juridique exact pour la solidarité entre débiteurs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-085",
+  "level": 1,
+  "fr": "conformité (à la réglementation)",
+  "term": {
+   "uk": "compliance",
+   "us": "compliance"
+  },
+  "ipa": {
+   "uk": "/kəmˈplaɪəns/",
+   "us": "/kəmˈplaɪəns/"
+  },
+  "def": "The fact of following the laws, regulations and internal rules that apply to an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "compliance",
+    "us": "compliance",
+    "ex": "The HR Director is responsible for ensuring the subsidiary's [[compliance]] with French employment and social security law."
+   },
+   "everyday": {
+    "uk": "to be compliant",
+    "us": "to be compliant",
+    "ex": "Before we sign off the new policy, can Legal confirm we're [[compliant]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to ensure compliance with",
+   "to be in compliance with",
+   "a compliance programme (UK) / program (US)",
+   "regulatory compliance"
+  ],
+  "note_fr": "« Conformity » s'emploie pour des produits ou des normes techniques ; pour le droit, on dit « compliance ». Construction : « compliance with », jamais « compliance to ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-086",
+  "level": 1,
+  "fr": "non-conformité / manquement",
+  "term": {
+   "uk": "non-compliance",
+   "us": "noncompliance"
+  },
+  "ipa": {
+   "uk": "/ˌnɒn kəmˈplaɪəns/",
+   "us": "/ˌnɑːn kəmˈplaɪəns/"
+  },
+  "def": "A failure to follow a law, regulation or internal rule.",
+  "registers": {
+   "formal": {
+    "uk": "non-compliance",
+    "us": "noncompliance",
+    "ex": "Any [[non-compliance]] identified during the review shall be reported to the Group Compliance Officer within five working days.",
+    "ex_us": "Any [[noncompliance]] identified during the review shall be reported to the Corporate Compliance Officer within five business days."
+   },
+   "everyday": {
+    "uk": "compliance issue",
+    "us": "compliance issue",
+    "ex": "It's not a disaster, but it's a [[compliance issue]] and it needs fixing before the inspector comes back."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a case of non-compliance",
+   "penalties for non-compliance",
+   "to flag a compliance issue",
+   "a failure to keep records"
+  ],
+  "note_fr": "Américain : « noncompliance » en un mot ; britannique : avec trait d'union. « Manquement » se traduit aussi par « failure to » + verbe : « failure to keep records ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-087",
+  "level": 2,
+  "fr": "se mettre en conformité / régulariser",
+  "term": {
+   "uk": "to bring into compliance",
+   "us": "to bring into compliance"
+  },
+  "ipa": {
+   "uk": "/tə brɪŋ ˈɪntə kəmˈplaɪəns/",
+   "us": "/tə brɪŋ ˈɪntuː kəmˈplaɪəns/"
+  },
+  "def": "To make the changes needed so that a practice, document or system meets legal requirements.",
+  "registers": {
+   "formal": {
+    "uk": "to bring into compliance",
+    "us": "to bring into compliance",
+    "ex": "The registers were [[brought into compliance]] within the period set by the inspector."
+   },
+   "everyday": {
+    "uk": "to get one's house in order",
+    "us": "to get one's house in order",
+    "ex": "Let's [[get our house in order]] before head office sends the auditors in.",
+    "ex_us": "Let's [[get our house in order]] before corporate sends the auditors in."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bring practices into line with the law",
+   "to remedy a breach",
+   "within the time allowed",
+   "to put things right"
+  ],
+  "note_fr": "« Régulariser » se traduit selon le cas par « to bring into compliance », « to rectify » ou « to put right » ; « to regularise » existe mais ne couvre pas tous ces sens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-088",
+  "level": 1,
+  "fr": "calendrier des obligations légales / échéancier de conformité",
+  "term": {
+   "uk": "compliance calendar",
+   "us": "compliance calendar"
+  },
+  "ipa": {
+   "uk": "/kəmˈplaɪəns ˈkælɪndə/",
+   "us": "/kəmˈplaɪəns ˈkæləndər/"
+  },
+  "def": "A schedule of every recurring legal deadline - filings, consultations, publications, registers - with the person responsible for each.",
+  "registers": {
+   "formal": {
+    "uk": "compliance calendar",
+    "us": "compliance calendar",
+    "ex": "The HR [[compliance calendar]] is reviewed each December and shared with Group Legal.",
+    "ex_us": "The HR [[compliance calendar]] is reviewed each December and shared with Corporate Legal."
+   },
+   "everyday": {
+    "uk": "deadlines tracker",
+    "us": "deadlines tracker",
+    "ex": "Put the index publication on the [[deadlines tracker]] - we can't afford to miss it again."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep a compliance calendar",
+   "recurring deadlines",
+   "to assign an owner to each deadline",
+   "automatic reminders"
+  ],
+  "note_fr": "« Échéancier » n'a pas de traduction unique : « calendar », « schedule », « timeline », ou « payment schedule » pour des paiements échelonnés.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-089",
+  "level": 1,
+  "fr": "manquer une échéance / dépasser la date limite",
+  "term": {
+   "uk": "to miss a deadline",
+   "us": "to miss a deadline"
+  },
+  "ipa": {
+   "uk": "/tə mɪs ə ˈdedlaɪn/",
+   "us": "/tə mɪs ə ˈdedlaɪn/"
+  },
+  "def": "To fail to do something by the date on which it was due.",
+  "registers": {
+   "formal": {
+    "uk": "to fail to meet a deadline",
+    "us": "to fail to meet a deadline",
+    "ex": "Should the provider [[fail to meet a deadline]], it shall notify the Company immediately and propose remedial action."
+   },
+   "everyday": {
+    "uk": "to miss a deadline",
+    "us": "to miss a deadline",
+    "ex": "We've never [[missed a deadline]] on the DSN, and I'd like to keep it that way."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet a deadline",
+   "a tight deadline",
+   "to extend a deadline",
+   "a hard deadline"
+  ],
+  "note_fr": "Respecter un délai : « to meet a deadline », pas « to respect a deadline ». « Échéance » peut aussi se traduire par « due date » (date d'exigibilité d'un paiement).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-090",
+  "level": 1,
+  "fr": "relancer (quelqu'un, une demande)",
+  "term": {
+   "uk": "to chase up",
+   "us": "to follow up"
+  },
+  "ipa": {
+   "uk": "/tə tʃeɪs ˈʌp/",
+   "us": "/tə ˈfɑːloʊ ˈʌp/"
+  },
+  "def": "To contact someone again to remind them to do something they have not yet done.",
+  "registers": {
+   "formal": {
+    "uk": "to send a reminder",
+    "us": "to send a reminder",
+    "ex": "If the documents have not been received by Friday, HR will [[send a reminder]] to the managers concerned."
+   },
+   "everyday": {
+    "uk": "to chase up",
+    "us": "to follow up",
+    "ex": "Could you [[chase up]] the managers who haven't sent their overtime?",
+    "ex_us": "Could you [[follow up]] with the managers who haven't sent their overtime?"
+   },
+   "informal": {
+    "uk": "to nudge",
+    "us": "to ping",
+    "ex": "I'll [[nudge]] Simon again - he's still sitting on the timesheets.",
+    "ex_us": "I'll [[ping]] Simon again - he's still sitting on the timesheets."
+   }
+  },
+  "collocations": [
+   "to chase someone for something",
+   "a gentle reminder",
+   "a follow-up email",
+   "to chase up a payment"
+  ],
+  "note_fr": "« To relaunch » est un contresens (relancer un produit, une campagne). En britannique, « to chase » n'a rien d'agressif ; l'américain préfère « to follow up » ou « to circle back ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-091",
+  "level": 1,
+  "fr": "audit social / audit RH",
+  "term": {
+   "uk": "HR audit",
+   "us": "HR audit"
+  },
+  "ipa": {
+   "uk": "/ˌeɪtʃ ˈɑːr ˈɔːdɪt/",
+   "us": "/ˌeɪtʃ ˈɑːr ˈɑːdət/"
+  },
+  "def": "A structured review of an organisation's HR practices, records and compliance with employment law, carried out internally or by an outside firm.",
+  "registers": {
+   "formal": {
+    "uk": "HR compliance audit",
+    "us": "HR compliance audit",
+    "ex": "An external [[HR compliance audit]] will be conducted at each French site before the end of the financial year.",
+    "ex_us": "An external [[HR compliance audit]] will be conducted at each French site before the end of the fiscal year."
+   },
+   "everyday": {
+    "uk": "HR audit",
+    "us": "HR audit",
+    "ex": "The [[HR audit]] picked up our temp contracts - the reason for using a temp wasn't always written down."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to commission an HR audit",
+   "the scope of the audit",
+   "an audit report",
+   "to carry out an audit"
+  ],
+  "note_fr": "« Social audit » désigne souvent l'audit RSE des fournisseurs (conditions de travail dans la chaîne d'approvisionnement) : pour l'audit social au sens français, dites « HR audit » ou « employment law audit ». Exercice : « financial year » (UK), « fiscal year » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-092",
+  "level": 1,
+  "fr": "audit interne",
+  "term": {
+   "uk": "internal audit",
+   "us": "internal audit"
+  },
+  "ipa": {
+   "uk": "/ɪnˈtɜːnl ˈɔːdɪt/",
+   "us": "/ɪnˈtɜːrnl ˈɑːdət/"
+  },
+  "def": "The independent function within a group that reviews processes and controls and reports on risks to senior management and the audit committee.",
+  "registers": {
+   "formal": {
+    "uk": "internal audit",
+    "us": "internal audit",
+    "ex": "The [[internal audit]] team will review the French payroll process as part of its annual plan."
+   },
+   "everyday": {
+    "uk": "the auditors",
+    "us": "the auditors",
+    "ex": "Make sure the evidence folders are complete - [[the auditors]] are in next week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an internal audit report",
+   "the audit committee",
+   "the annual audit plan",
+   "audit fieldwork"
+  ],
+  "note_fr": "Ne confondez pas « internal audit » (audit interne, fonction du groupe) et « internal control » (contrôle interne, ensemble des contrôles opérationnels).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-093",
+  "level": 2,
+  "fr": "contrôle interne (dispositif de)",
+  "term": {
+   "uk": "internal controls",
+   "us": "internal controls"
+  },
+  "ipa": {
+   "uk": "/ɪnˈtɜːnl kənˈtrəʊlz/",
+   "us": "/ɪnˈtɜːrnl kənˈtroʊlz/"
+  },
+  "def": "The set of checks, approvals and rules built into a process to prevent or detect errors and fraud.",
+  "registers": {
+   "formal": {
+    "uk": "internal control framework",
+    "us": "internal control framework",
+    "ex": "The payroll process falls within the group's [[internal control framework]] and is tested every year."
+   },
+   "everyday": {
+    "uk": "controls",
+    "us": "controls",
+    "ex": "The [[controls]] are fine on paper - the problem is that nobody keeps evidence they've been done."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to design a control",
+   "to test a control",
+   "a key control",
+   "control evidence"
+  ],
+  "note_fr": "« Contrôle » se traduit selon le sens : « control » (mesure de maîtrise d'un risque), « check » (vérification), « audit » ou « inspection » (contrôle par une autorité). Un « contrôle URSSAF » n'est jamais « a control ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-094",
+  "level": 3,
+  "fr": "faiblesse majeure (déficience significative) du contrôle interne",
+  "term": {
+   "uk": "material weakness",
+   "us": "material weakness"
+  },
+  "ipa": {
+   "uk": "/məˈtɪəriəl ˈwiːknəs/",
+   "us": "/məˈtɪriəl ˈwiːknəs/"
+  },
+  "def": "A serious flaw in internal controls that creates a reasonable possibility that a material error will not be prevented or detected in time.",
+  "registers": {
+   "formal": {
+    "uk": "material weakness",
+    "us": "material weakness",
+    "ex": "The absence of any review of changes to bank details was reported to the audit committee as a [[material weakness]]."
+   },
+   "everyday": {
+    "uk": "major gap in the controls",
+    "us": "major control gap",
+    "ex": "Nobody checks bank-detail changes? That's a [[major gap in the controls]].",
+    "ex_us": "Nobody checks bank-detail changes? That's a [[major control gap]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to remediate a weakness",
+   "a significant deficiency",
+   "a control deficiency",
+   "to report to the audit committee"
+  ],
+  "note_fr": "Terme précis du référentiel américain (loi Sarbanes-Oxley) : une filiale française d'un groupe coté aux États-Unis peut y être soumise. Le degré inférieur est la « significant deficiency ». « Material » signifie ici « significatif », pas « matériel ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-095",
+  "level": 3,
+  "fr": "auto-évaluation du contrôle interne",
+  "term": {
+   "uk": "control self-assessment",
+   "us": "control self-assessment"
+  },
+  "ipa": {
+   "uk": "/kənˈtrəʊl ˌself əˈsesmənt/",
+   "us": "/kənˈtroʊl ˌself əˈsesmənt/"
+  },
+  "def": "A periodic exercise in which local teams assess and certify, usually through a questionnaire, whether their own key controls are operating.",
+  "registers": {
+   "formal": {
+    "uk": "control self-assessment",
+    "us": "control self-assessment",
+    "ex": "The French subsidiary completes a [[control self-assessment]] twice a year, signed off by the HR Director and the Finance Director."
+   },
+   "everyday": {
+    "uk": "self-certification",
+    "us": "self-certification",
+    "ex": "The [[self-certification]] is only worth something if we can show the evidence behind each 'yes'."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to complete a self-assessment questionnaire",
+   "to certify that controls are operating",
+   "management representations",
+   "to be tested by internal audit"
+  ],
+  "note_fr": "« Auto-evaluation » n'existe pas : le préfixe anglais est « self- ». Ne répondez jamais « yes » sans preuve : l'audit interne vérifie souvent par sondage.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-096",
+  "level": 1,
+  "fr": "mesure corrective / action corrective",
+  "term": {
+   "uk": "corrective action",
+   "us": "corrective action"
+  },
+  "ipa": {
+   "uk": "/kəˈrektɪv ˈækʃn/",
+   "us": "/kəˈrektɪv ˈækʃn/"
+  },
+  "def": "A step taken to fix a problem that has been identified and to stop it happening again.",
+  "registers": {
+   "formal": {
+    "uk": "corrective action",
+    "us": "corrective action",
+    "ex": "Each finding shall be addressed by a [[corrective action]] with a named owner and a target date."
+   },
+   "everyday": {
+    "uk": "fix",
+    "us": "fix",
+    "ex": "The quick [[fix]] is to lock the field; the real answer is to retrain the team."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to take corrective action",
+   "corrective and preventive action",
+   "a quick fix",
+   "a root-cause analysis"
+  ],
+  "note_fr": "« Corrective measure » se comprend, mais « corrective action » est l'usage dans les plans d'audit. « Action » est dénombrable : « three corrective actions ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-097",
+  "level": 2,
+  "fr": "plan de remédiation / plan d'actions correctives",
+  "term": {
+   "uk": "remediation plan",
+   "us": "remediation plan"
+  },
+  "ipa": {
+   "uk": "/rɪˌmiːdiˈeɪʃn plæn/",
+   "us": "/rɪˌmiːdiˈeɪʃn plæn/"
+  },
+  "def": "A structured plan setting out how, by whom and by when each problem identified in an audit or inspection will be fixed.",
+  "registers": {
+   "formal": {
+    "uk": "remediation plan",
+    "us": "remediation plan",
+    "ex": "A [[remediation plan]] addressing each of the auditors' findings shall be submitted within thirty days."
+   },
+   "everyday": {
+    "uk": "action plan",
+    "us": "action plan",
+    "ex": "Let's agree an [[action plan]] with dates before the auditors leave the building.",
+    "ex_us": "Let's agree on an [[action plan]] with dates before the auditors leave the building."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draw up a remediation plan",
+   "to remediate a finding",
+   "to track progress",
+   "target dates"
+  ],
+  "note_fr": "« To remediate » appartient au jargon de l'audit et de la conformité ; « to remedy » est plus général (remédier à). À l'oral, « action plan » ou « fix » suffisent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-098",
+  "level": 2,
+  "fr": "responsable (porteur) d'une action",
+  "term": {
+   "uk": "action owner",
+   "us": "action owner"
+  },
+  "ipa": {
+   "uk": "/ˈækʃn ˈəʊnə/",
+   "us": "/ˈækʃn ˈoʊnər/"
+  },
+  "def": "The named person accountable for completing a specific action in a plan by its due date.",
+  "registers": {
+   "formal": {
+    "uk": "action owner",
+    "us": "action owner",
+    "ex": "Each [[action owner]] shall report progress monthly to the HR compliance committee."
+   },
+   "everyday": {
+    "uk": "to own",
+    "us": "to own",
+    "ex": "Who's going to [[own]] the register clean-up?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to assign an owner",
+   "a named owner",
+   "accountable for",
+   "a RACI matrix"
+  ],
+  "note_fr": "Dans un plan d'action, « responsable » se traduit mieux par « owner » ou « accountable ». Dans une matrice RACI, « responsible » (qui exécute) ≠ « accountable » (qui répond du résultat).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-099",
+  "level": 2,
+  "fr": "clôturer / lever une recommandation d'audit",
+  "term": {
+   "uk": "to close out a finding",
+   "us": "to close out a finding"
+  },
+  "ipa": {
+   "uk": "/tə kləʊz ˈaʊt ə ˈfaɪndɪŋ/",
+   "us": "/tə kloʊz ˈaʊt ə ˈfaɪndɪŋ/"
+  },
+  "def": "To have an audit finding formally marked as resolved, usually after providing evidence that the corrective action has been completed.",
+  "registers": {
+   "formal": {
+    "uk": "to close a finding",
+    "us": "to close a finding",
+    "ex": "Internal audit will only [[close the finding]] once evidence of three months' operation of the control has been provided."
+   },
+   "everyday": {
+    "uk": "to close out",
+    "us": "to close out",
+    "ex": "If we send the evidence this week, they can [[close out]] four of the six points."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an open finding",
+   "an overdue finding",
+   "closure evidence",
+   "to reopen a finding"
+  ],
+  "note_fr": "« To lift a recommendation » est un calque de « lever ». En anglais, une recommandation est « implemented » et la constatation (« finding ») est « closed ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ad-100",
+  "level": 2,
+  "fr": "prendre des raccourcis (au détriment des règles)",
+  "term": {
+   "uk": "to cut corners",
+   "us": "to cut corners"
+  },
+  "ipa": {
+   "uk": "/tə kʌt ˈkɔːnəz/",
+   "us": "/tə kʌt ˈkɔːrnərz/"
+  },
+  "def": "To do something in the quickest or cheapest way, skipping steps or checks that should be carried out.",
+  "registers": {
+   "formal": {
+    "uk": "to circumvent procedures",
+    "us": "to circumvent procedures",
+    "ex": "Under no circumstances may staff [[circumvent procedures]] in order to meet a payroll deadline."
+   },
+   "everyday": {
+    "uk": "to cut corners",
+    "us": "to cut corners",
+    "ex": "We're short-staffed, but we can't [[cut corners]] on the bank-detail checks."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to skip a step",
+   "to bypass a control",
+   "to bend the rules",
+   "under time pressure"
+  ],
+  "note_fr": "« Shortcut » (raccourci) est neutre ; « to cut corners » est toujours péjoratif. Pour « s'arranger avec les règles », dites « to bend the rules ».",
+  "french_concept": false,
+  "explain": null
+ }
+]

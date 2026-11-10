@@ -1,0 +1,3683 @@
+[
+ {
+  "id": "wb-001",
+  "level": 1,
+  "fr": "QVCT (qualité de vie et des conditions de travail)",
+  "term": {
+   "uk": "quality of working life",
+   "us": "quality of work life"
+  },
+  "ipa": {
+   "uk": "/ˈkwɒləti əv ˌwɜːkɪŋ ˈlaɪf/",
+   "us": "/ˈkwɑːləti əv ˌwɜːrk ˈlaɪf/"
+  },
+  "def": "The overall conditions in which people work and how they experience them, covering workload, work organisation, relationships, the working environment and the balance with personal life.",
+  "registers": {
+   "formal": {
+    "uk": "quality of working life and working conditions",
+    "us": "quality of work life and working conditions",
+    "ex": "The parties have agreed to open negotiations on [[quality of working life and working conditions]] in the first quarter.",
+    "ex_us": "The parties have agreed to open negotiations on [[quality of work life and working conditions]] in the first quarter."
+   },
+   "everyday": {
+    "uk": "quality of working life",
+    "us": "quality of work life",
+    "ex": "Our [[quality of working life]] scores dropped sharply after the move to the new site.",
+    "ex_us": "Our [[quality of work life]] scores dropped sharply after the move to the new site."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to improve the quality of working life",
+   "quality of working life initiatives",
+   "a quality of working life survey"
+  ],
+  "note_fr": "« QVCT » n'est pas un sigle connu à l'étranger : développez-le ou parlez de « wellbeing and working conditions ». La notion française (ex-QVT) est plus large que le « wellbeing » anglo-saxon : elle inclut l'organisation du travail, la charge et le dialogue social.",
+  "french_concept": true,
+  "explain": {
+   "written": "QVCT (qualité de vie et des conditions de travail) is a French concept covering employees' working conditions, work organisation, workload and work-life balance, on which employers with union representation are required to negotiate periodically.",
+   "spoken": "QVCT is the French umbrella term for quality of working life - wellbeing, yes, but also how work is organised and how much people have on their plate."
+  }
+ },
+ {
+  "id": "wb-002",
+  "level": 2,
+  "fr": "accord QVCT",
+  "term": {
+   "uk": "agreement on quality of working life",
+   "us": "agreement on quality of work life"
+  },
+  "ipa": {
+   "uk": "/əˈɡriːmənt ɒn ˈkwɒləti əv ˌwɜːkɪŋ ˈlaɪf/",
+   "us": "/əˈɡriːmənt ɑːn ˈkwɑːləti əv ˌwɜːrk ˈlaɪf/"
+  },
+  "def": "A company-level collective agreement setting out the measures an employer will take on working conditions, work organisation and work-life balance.",
+  "registers": {
+   "formal": {
+    "uk": "agreement on quality of working life",
+    "us": "agreement on quality of work life",
+    "ex": "The [[agreement on quality of working life]] was concluded for a period of three years.",
+    "ex_us": "The [[agreement on quality of work life]] was concluded for a period of three years."
+   },
+   "everyday": {
+    "uk": "wellbeing agreement",
+    "us": "well-being agreement",
+    "ex": "We signed a [[wellbeing agreement]] with the unions two years ago, and it's up for renewal.",
+    "ex_us": "We signed a [[well-being agreement]] with the unions two years ago, and it's up for renewal."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to negotiate a wellbeing agreement",
+   "to renew the agreement",
+   "the monitoring committee of the agreement"
+  ],
+  "note_fr": "En France, la QVCT fait partie d'un bloc de négociation obligatoire périodique (avec l'égalité professionnelle) dans les entreprises où existent des sections syndicales représentatives. Au Royaume-Uni et aux États-Unis, ces sujets relèvent en général de politiques internes décidées par l'employeur, pas d'accords.",
+  "french_concept": true,
+  "explain": {
+   "written": "An accord QVCT is a French collective agreement, negotiated with the unions, on working conditions, work organisation and work-life balance; this subject forms part of the periodic negotiations required by law.",
+   "spoken": "It's an agreement we negotiate with the unions on wellbeing and working conditions - things like workload, remote work and the right to disconnect."
+  }
+ },
+ {
+  "id": "wb-003",
+  "level": 1,
+  "fr": "équilibre vie professionnelle / vie personnelle",
+  "term": {
+   "uk": "work-life balance",
+   "us": "work-life balance"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːk ˈlaɪf ˈbæləns/",
+   "us": "/ˌwɜːrk ˈlaɪf ˈbæləns/"
+  },
+  "def": "The degree to which people can meet the demands of their job while keeping enough time and energy for their personal and family life.",
+  "registers": {
+   "formal": {
+    "uk": "balance between professional and private life",
+    "us": "balance between professional and private life",
+    "ex": "The Company is committed to promoting a healthy [[balance between professional and private life]]."
+   },
+   "everyday": {
+    "uk": "work-life balance",
+    "us": "work-life balance",
+    "ex": "Most people who leave us mention [[work-life balance]] in their exit interview."
+   },
+   "informal": {
+    "uk": "a life outside work",
+    "us": "a life outside work",
+    "ex": "People want a decent salary, but they also want [[a life outside work]]."
+   }
+  },
+  "collocations": [
+   "to strike a better work-life balance",
+   "a healthy work-life balance",
+   "to improve work-life balance"
+  ],
+  "note_fr": "On dit simplement « work-life balance », sans « personal ». « Private life » est formel et peut évoquer la vie privée au sens juridique. Le verbe usuel : « to strike a balance » (trouver un équilibre).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-004",
+  "level": 1,
+  "fr": "décrocher, déconnecter (après le travail)",
+  "term": {
+   "uk": "to switch off",
+   "us": "to switch off"
+  },
+  "ipa": {
+   "uk": "/tə ˌswɪtʃ ˈɒf/",
+   "us": "/tə ˌswɪtʃ ˈɔːf/"
+  },
+  "def": "To stop thinking about work and relax properly when you are not working.",
+  "registers": {
+   "formal": {
+    "uk": "to disconnect from work",
+    "us": "to disconnect from work",
+    "ex": "Managers should allow employees [[to disconnect from work]] outside their normal working hours."
+   },
+   "everyday": {
+    "uk": "to switch off",
+    "us": "to switch off",
+    "ex": "I find it really hard [[to switch off]] when my laptop's on the kitchen table."
+   },
+   "informal": {
+    "uk": "to unplug",
+    "us": "to unplug",
+    "ex": "Everyone needs [[to unplug]] properly over the summer."
+   }
+  },
+  "collocations": [
+   "to switch off at weekends",
+   "to be unable to switch off",
+   "to switch off notifications"
+  ],
+  "note_fr": "« Se déconnecter » au sens psychologique = « to switch off » ou « to unwind ». « To disconnect » existe mais sonne technique ; le droit à la déconnexion se dit « right to disconnect ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-005",
+  "level": 1,
+  "fr": "se sentir reconnu, valorisé",
+  "term": {
+   "uk": "to feel valued",
+   "us": "to feel valued"
+  },
+  "ipa": {
+   "uk": "/tə ˌfiːl ˈvæljuːd/",
+   "us": "/tə ˌfiːl ˈvæljuːd/"
+  },
+  "def": "To feel that your work and your contribution are noticed and appreciated by your employer and colleagues.",
+  "registers": {
+   "formal": {
+    "uk": "to feel that one's contribution is recognised",
+    "us": "to feel that one's contribution is recognized",
+    "ex": "Employees need [[to feel that their contribution is recognised]].",
+    "ex_us": "Employees need [[to feel that their contribution is recognized]]."
+   },
+   "everyday": {
+    "uk": "to feel valued",
+    "us": "to feel valued",
+    "ex": "People don't leave because of pay alone; they leave because they don't [[feel valued]]."
+   },
+   "informal": {
+    "uk": "to feel appreciated",
+    "us": "to feel appreciated",
+    "ex": "A quick thank-you goes a long way - people just want [[to feel appreciated]]."
+   }
+  },
+  "collocations": [
+   "to make people feel valued",
+   "to feel undervalued",
+   "to feel taken for granted"
+  ],
+  "note_fr": "« Valorisé » ne se traduit pas par « valorised » (inexistant dans ce sens). Le contraire : « to feel undervalued » ou « to feel taken for granted » (avoir l'impression qu'on vous doit tout).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-006",
+  "level": 1,
+  "fr": "se sentir écouté",
+  "term": {
+   "uk": "to feel heard",
+   "us": "to feel heard"
+  },
+  "ipa": {
+   "uk": "/tə ˌfiːl ˈhɜːd/",
+   "us": "/tə ˌfiːl ˈhɜːrd/"
+  },
+  "def": "To feel that your opinions have been listened to and taken seriously.",
+  "registers": {
+   "formal": {
+    "uk": "to feel that one's views are taken into account",
+    "us": "to feel that one's views are taken into account",
+    "ex": "Staff must [[feel that their views are taken into account]] if the consultation is to mean anything."
+   },
+   "everyday": {
+    "uk": "to feel heard",
+    "us": "to feel heard",
+    "ex": "The survey only works if people [[feel heard]] at the end of it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make people feel heard",
+   "to feel listened to",
+   "to feel ignored"
+  ],
+  "note_fr": "« Se sentir écouté » : « to feel heard » ou « to feel listened to ». Oublier le « to » final (« to feel listened ») est une faute fréquente.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-007",
+  "level": 1,
+  "fr": "sentiment d'appartenance",
+  "term": {
+   "uk": "sense of belonging",
+   "us": "sense of belonging"
+  },
+  "ipa": {
+   "uk": "/ˌsens əv bɪˈlɒŋɪŋ/",
+   "us": "/ˌsens əv bɪˈlɔːŋɪŋ/"
+  },
+  "def": "The feeling of being accepted and of being an integral part of a team or an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "sense of belonging",
+    "us": "sense of belonging",
+    "ex": "Our team rituals are designed to strengthen employees' [[sense of belonging]] across all sites."
+   },
+   "everyday": {
+    "uk": "to feel part of the team",
+    "us": "to feel part of the team",
+    "ex": "New joiners who work mostly from home don't always [[feel part of the team]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to foster a sense of belonging",
+   "a strong sense of belonging",
+   "to feel like an outsider"
+  ],
+  "note_fr": "« Appartenance » ne se traduit pas par « appurtenance » (terme juridique rare). « To belong » se construit avec « to » ou un lieu : « they feel they belong here ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-008",
+  "level": 1,
+  "fr": "esprit d'équipe, cohésion d'équipe",
+  "term": {
+   "uk": "team spirit",
+   "us": "team spirit"
+  },
+  "ipa": {
+   "uk": "/ˌtiːm ˈspɪrɪt/",
+   "us": "/ˌtiːm ˈspɪrɪt/"
+  },
+  "def": "The feeling of loyalty and willingness to cooperate that holds the members of a team together.",
+  "registers": {
+   "formal": {
+    "uk": "team cohesion",
+    "us": "team cohesion",
+    "ex": "The move to hybrid working has put [[team cohesion]] under strain."
+   },
+   "everyday": {
+    "uk": "team spirit",
+    "us": "team spirit",
+    "ex": "There's a great [[team spirit]] in the Lyon office."
+   },
+   "informal": {
+    "uk": "to gel",
+    "us": "to gel",
+    "ex": "It took a few months, but the new team has really started [[to gel]]."
+   }
+  },
+  "collocations": [
+   "to build team spirit",
+   "to strengthen team cohesion",
+   "a close-knit team"
+  ],
+  "note_fr": "« Cohesion » existe mais « team spirit » est bien plus courant à l'oral. « To gel » (prendre, se souder) se dit d'une équipe qui commence à bien fonctionner ensemble.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-009",
+  "level": 1,
+  "fr": "renforcer l'engagement (des salariés)",
+  "term": {
+   "uk": "to boost engagement",
+   "us": "to boost engagement"
+  },
+  "ipa": {
+   "uk": "/tə ˌbuːst ɪnˈɡeɪdʒmənt/",
+   "us": "/tə ˌbuːst ɪnˈɡeɪdʒmənt/"
+  },
+  "def": "To increase the commitment, energy and involvement that employees bring to their work.",
+  "registers": {
+   "formal": {
+    "uk": "to strengthen employee engagement",
+    "us": "to strengthen employee engagement",
+    "ex": "The plan sets out six measures [[to strengthen employee engagement]] next year."
+   },
+   "everyday": {
+    "uk": "to boost engagement",
+    "us": "to boost engagement",
+    "ex": "Free breakfasts won't [[boost engagement]] if the real problem is workload."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to drive engagement",
+   "engagement levels",
+   "to measure engagement"
+  ],
+  "note_fr": "En anglais RH, « engagement » = implication dans le travail, pas « promesse » ni « embauche ». « Engagement levels » (niveaux d'engagement) est la collocation standard dans les rapports.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-010",
+  "level": 1,
+  "fr": "désengagé, démotivé",
+  "term": {
+   "uk": "disengaged",
+   "us": "disengaged"
+  },
+  "ipa": {
+   "uk": "/ˌdɪsɪnˈɡeɪdʒd/",
+   "us": "/ˌdɪsɪnˈɡeɪdʒd/"
+  },
+  "def": "No longer interested in or committed to one's work, and doing only what is strictly necessary.",
+  "registers": {
+   "formal": {
+    "uk": "disengaged",
+    "us": "disengaged",
+    "ex": "A significant minority of respondents appear [[disengaged]] from their work."
+   },
+   "everyday": {
+    "uk": "demotivated",
+    "us": "unmotivated",
+    "ex": "He's been [[demotivated]] ever since the reorganisation.",
+    "ex_us": "He's been [[unmotivated]] ever since the reorganization."
+   },
+   "informal": {
+    "uk": "to check out",
+    "us": "to check out",
+    "ex": "You can tell when someone has [[checked out]] - they do the minimum and leave on the dot."
+   }
+  },
+  "collocations": [
+   "to become disengaged",
+   "actively disengaged",
+   "disengaged employees"
+  ],
+  "note_fr": "« Démotivé » : « demotivated » (UK) ou « unmotivated » (US). « Checked out » (familier) décrit quelqu'un encore présent physiquement mais plus mentalement. À ne pas confondre avec « to check out » d'un hôtel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-011",
+  "level": 1,
+  "fr": "en faire plus que demandé, se surpasser",
+  "term": {
+   "uk": "to go the extra mile",
+   "us": "to go the extra mile"
+  },
+  "ipa": {
+   "uk": "/tə ˌɡəʊ ði ˌekstrə ˈmaɪl/",
+   "us": "/tə ˌɡoʊ ði ˌekstrə ˈmaɪl/"
+  },
+  "def": "To make more effort than is expected or required of you.",
+  "registers": {
+   "formal": {
+    "uk": "to make an exceptional contribution",
+    "us": "to make an exceptional contribution",
+    "ex": "The award recognises colleagues who have [[made an exceptional contribution]] this year.",
+    "ex_us": "The award recognizes colleagues who have [[made an exceptional contribution]] this year."
+   },
+   "everyday": {
+    "uk": "to go the extra mile",
+    "us": "to go the extra mile",
+    "ex": "She always [[goes the extra mile]] for new joiners."
+   },
+   "informal": {
+    "uk": "to bend over backwards",
+    "us": "to bend over backwards",
+    "ex": "The IT team [[bent over backwards]] to get everyone set up before the move."
+   }
+  },
+  "collocations": [
+   "to be willing to go the extra mile",
+   "to go above and beyond",
+   "to put in the extra effort"
+  ],
+  "note_fr": "Expression très courante dans les messages de remerciement. Variante américaine fréquente : « to go above and beyond ». Ne pas confondre avec « to go too far » (aller trop loin).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-012",
+  "level": 2,
+  "fr": "sens au travail, travail porteur de sens",
+  "term": {
+   "uk": "meaningful work",
+   "us": "meaningful work"
+  },
+  "ipa": {
+   "uk": "/ˌmiːnɪŋfl ˈwɜːk/",
+   "us": "/ˌmiːnɪŋfəl ˈwɜːrk/"
+  },
+  "def": "Work that people feel is worthwhile and that gives them a sense of purpose.",
+  "registers": {
+   "formal": {
+    "uk": "meaningful work",
+    "us": "meaningful work",
+    "ex": "Younger employees increasingly expect [[meaningful work]] as well as fair pay."
+   },
+   "everyday": {
+    "uk": "a sense of purpose",
+    "us": "a sense of purpose",
+    "ex": "People here have a real [[sense of purpose]] - they know why their job matters."
+   },
+   "informal": {
+    "uk": "to make a difference",
+    "us": "to make a difference",
+    "ex": "Our care staff want to feel they [[make a difference]], not just fill in forms."
+   }
+  },
+  "collocations": [
+   "to find meaning in one's work",
+   "a loss of meaning",
+   "purpose-driven"
+  ],
+  "note_fr": "« Le sens au travail » ne se dit pas « the sense of work ». Dites « meaningful work » ou « a sense of purpose ». « Sense » seul = sensation ou bon sens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-013",
+  "level": 1,
+  "fr": "avoir son mot à dire, avoir voix au chapitre",
+  "term": {
+   "uk": "to have a say",
+   "us": "to have a say"
+  },
+  "ipa": {
+   "uk": "/tə ˌhæv ə ˈseɪ/",
+   "us": "/tə ˌhæv ə ˈseɪ/"
+  },
+  "def": "To have the right or the opportunity to influence a decision.",
+  "registers": {
+   "formal": {
+    "uk": "to be involved in decision-making",
+    "us": "to be involved in decision-making",
+    "ex": "Employees should [[be involved in decision-making]] on matters that affect their daily work."
+   },
+   "everyday": {
+    "uk": "to have a say",
+    "us": "to have a say",
+    "ex": "If people [[have a say]] in how the office is laid out, they're far more likely to use it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have a say in",
+   "to have no say",
+   "to give staff a say"
+  ],
+  "note_fr": "« Say » est ici un nom. Comparez « to have one's say » (donner son avis) et « to have a say in something » (avoir voix au chapitre, peser sur la décision).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-014",
+  "level": 3,
+  "fr": "expression des salariés",
+  "term": {
+   "uk": "employee voice",
+   "us": "employee voice"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː ˈvɔɪs/",
+   "us": "/ɪmˌplɔɪiː ˈvɔɪs/"
+  },
+  "def": "The ways in which employees express their views and influence decisions, whether directly or through representatives.",
+  "registers": {
+   "formal": {
+    "uk": "employee voice",
+    "us": "employee voice",
+    "ex": "We have strengthened the channels through which [[employee voice]] reaches the executive committee."
+   },
+   "everyday": {
+    "uk": "to make oneself heard",
+    "us": "to make oneself heard",
+    "ex": "Frontline staff have very few ways [[to make themselves heard]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "channels for employee voice",
+   "to amplify employee voice",
+   "listening mechanisms"
+  ],
+  "note_fr": "« Employee voice » désigne l'ensemble des moyens par lesquels les salariés s'expriment (enquêtes, représentants, réunions). À distinguer du droit d'expression directe et collective, notion légale française.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-015",
+  "level": 3,
+  "fr": "droit d'expression directe et collective des salariés",
+  "term": {
+   "uk": "right of direct and collective expression",
+   "us": "right of direct and collective expression"
+  },
+  "ipa": {
+   "uk": "/ˌraɪt əv dəˌrekt ənd kəˈlektɪv ɪkˈspreʃn/",
+   "us": "/ˌraɪt əv dəˌrekt ənd kəˈlektɪv ɪkˈspreʃən/"
+  },
+  "def": "A French statutory right allowing employees to express their views directly and as a group, rather than through representatives, on the content, conditions and organisation of their work.",
+  "registers": {
+   "formal": {
+    "uk": "right of direct and collective expression",
+    "us": "right of direct and collective expression",
+    "ex": "Arrangements for exercising the [[right of direct and collective expression]] are set out in Appendix 2."
+   },
+   "everyday": {
+    "uk": "space to talk about the work",
+    "us": "space to talk about the work",
+    "ex": "We've set up monthly sessions to give teams [[space to talk about the work]] itself."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "expression groups",
+   "to exercise the right of expression",
+   "discussion forums on work"
+  ],
+  "note_fr": "Notion propre au droit français, distincte de la liberté d'expression (« freedom of expression ») et de la représentation du personnel. Expliquez-la plutôt que de la traduire mot à mot.",
+  "french_concept": true,
+  "explain": {
+   "written": "French law gives employees a right to express their views directly and collectively on the content, conditions and organisation of their work, without going through their representatives.",
+   "spoken": "In France, employees have a legal right to get together and say how their work could be organised better - directly, not through the unions."
+  }
+ },
+ {
+  "id": "wb-016",
+  "level": 2,
+  "fr": "baromètre social",
+  "term": {
+   "uk": "employee opinion survey",
+   "us": "employee opinion survey"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː əˈpɪnjən ˈsɜːveɪ/",
+   "us": "/ɪmˌplɔɪiː əˈpɪnjən ˈsɜːrveɪ/"
+  },
+  "def": "A regular survey that measures how employees feel about their work, their managers and the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "employee opinion survey",
+    "us": "employee opinion survey",
+    "ex": "The annual [[employee opinion survey]] will run from 2 to 20 March.",
+    "ex_us": "The annual [[employee opinion survey]] will run from March 2 to 20."
+   },
+   "everyday": {
+    "uk": "staff survey",
+    "us": "employee survey",
+    "ex": "Have you filled in the [[staff survey]] yet?",
+    "ex_us": "Have you filled out the [[employee survey]] yet?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to run a survey",
+   "to take part in the survey",
+   "to launch the annual survey"
+  ],
+  "note_fr": "Faux ami : « social barometer » n'est pas compris. « Social » en anglais renvoie à la vie en société ou aux loisirs, pas aux relations de travail. Notez aussi « to fill in » (UK) / « to fill out » (US) un questionnaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-017",
+  "level": 1,
+  "fr": "taux de participation (à une enquête)",
+  "term": {
+   "uk": "response rate",
+   "us": "response rate"
+  },
+  "ipa": {
+   "uk": "/rɪˈspɒns reɪt/",
+   "us": "/rɪˈspɑːns reɪt/"
+  },
+  "def": "The percentage of people invited to take part in a survey who actually complete it.",
+  "registers": {
+   "formal": {
+    "uk": "response rate",
+    "us": "response rate",
+    "ex": "The [[response rate]] rose to 78%, the highest since the survey was introduced."
+   },
+   "everyday": {
+    "uk": "participation rate",
+    "us": "participation rate",
+    "ex": "We need to push the [[participation rate]] up in the warehouses."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a high response rate",
+   "to boost the response rate",
+   "a response rate of 70%"
+  ],
+  "note_fr": "« Taux de participation » à une enquête = « response rate ». « Turnout » est réservé aux élections. Ne confondez pas avec « turnover » (rotation du personnel).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-018",
+  "level": 2,
+  "fr": "verbatims (commentaires libres)",
+  "term": {
+   "uk": "free-text comments",
+   "us": "free-text comments"
+  },
+  "ipa": {
+   "uk": "/ˌfriː tekst ˈkɒments/",
+   "us": "/ˌfriː tekst ˈkɑːments/"
+  },
+  "def": "The answers that survey respondents write in their own words, as opposed to the scores they give.",
+  "registers": {
+   "formal": {
+    "uk": "open-ended responses",
+    "us": "open-ended responses",
+    "ex": "Over 1,200 [[open-ended responses]] were analysed by theme.",
+    "ex_us": "Over 1,200 [[open-ended responses]] were analyzed by theme."
+   },
+   "everyday": {
+    "uk": "free-text comments",
+    "us": "free-text comments",
+    "ex": "The scores look fine, but the [[free-text comments]] tell a different story."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to analyse the comments",
+   "recurring themes in the comments",
+   "verbatim quotes"
+  ],
+  "note_fr": "Faux ami : « verbatims » (nom pluriel) n'existe pas en anglais. « Verbatim » est un adjectif ou un adverbe (« verbatim quotes », « to quote verbatim »). Dites « comments » ou « free-text responses ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-019",
+  "level": 2,
+  "fr": "leviers d'engagement",
+  "term": {
+   "uk": "engagement drivers",
+   "us": "engagement drivers"
+  },
+  "ipa": {
+   "uk": "/ɪnˈɡeɪdʒmənt ˌdraɪvəz/",
+   "us": "/ɪnˈɡeɪdʒmənt ˌdraɪvərz/"
+  },
+  "def": "The factors that have the strongest influence on how engaged employees are, such as career prospects, recognition or trust in management.",
+  "registers": {
+   "formal": {
+    "uk": "drivers of engagement",
+    "us": "drivers of engagement",
+    "ex": "Career development emerged as the strongest of the [[drivers of engagement]] identified."
+   },
+   "everyday": {
+    "uk": "engagement drivers",
+    "us": "engagement drivers",
+    "ex": "Pay isn't one of our top [[engagement drivers]], surprisingly."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "key drivers",
+   "to act on the drivers",
+   "driver analysis"
+  ],
+  "note_fr": "« Levier » se traduit rarement par « lever » dans ce contexte : on parle de « drivers ». « To drive » = faire progresser, pas seulement conduire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-020",
+  "level": 3,
+  "fr": "seuil d'anonymat (nombre minimal de répondants)",
+  "term": {
+   "uk": "anonymity threshold",
+   "us": "anonymity threshold"
+  },
+  "ipa": {
+   "uk": "/ˌænəˈnɪməti ˈθreʃhəʊld/",
+   "us": "/ˌænəˈnɪməti ˈθreʃhoʊld/"
+  },
+  "def": "The minimum number of respondents a group must have before its survey results are reported, so that no individual can be identified.",
+  "registers": {
+   "formal": {
+    "uk": "anonymity threshold",
+    "us": "anonymity threshold",
+    "ex": "No results are reported for teams below the [[anonymity threshold]] of five respondents."
+   },
+   "everyday": {
+    "uk": "minimum group size",
+    "us": "minimum group size",
+    "ex": "His team's too small - it's below the [[minimum group size]], so he won't get a report."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fall below the threshold",
+   "to guarantee anonymity",
+   "to protect respondents' anonymity"
+  ],
+  "note_fr": "Garantie essentielle pour la confiance des répondants. « Anonymous » (anonyme) ≠ « confidential » (identifiable par le prestataire mais jamais communiqué) : ne promettez pas l'un pour l'autre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-021",
+  "level": 3,
+  "fr": "eNPS (propension des salariés à recommander l'entreprise)",
+  "term": {
+   "uk": "employee net promoter score",
+   "us": "employee net promoter score"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪiː ˌnet prəˈməʊtə skɔː/",
+   "us": "/ɪmˌplɔɪiː ˌnet prəˈmoʊtər skɔːr/"
+  },
+  "def": "An indicator based on how likely employees say they are to recommend the organisation as a place to work.",
+  "registers": {
+   "formal": {
+    "uk": "employee net promoter score",
+    "us": "employee net promoter score",
+    "ex": "Our [[employee net promoter score]] stands at +12, against +4 last year."
+   },
+   "everyday": {
+    "uk": "eNPS",
+    "us": "eNPS",
+    "ex": "What's our [[eNPS]] looking like this quarter?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "promoters, passives and detractors",
+   "to track eNPS",
+   "a positive score"
+  ],
+  "note_fr": "Indicateur fondé sur une seule question (« Recommanderiez-vous l'entreprise comme employeur ? »). Se prononce lettre par lettre : /ˌiː en piː ˈes/. Le score peut être négatif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-022",
+  "level": 1,
+  "fr": "plan d'action(s)",
+  "term": {
+   "uk": "action plan",
+   "us": "action plan"
+  },
+  "ipa": {
+   "uk": "/ˈækʃn plæn/",
+   "us": "/ˈækʃən plæn/"
+  },
+  "def": "A document listing the steps to be taken, by whom and by when, to achieve a goal or respond to a problem.",
+  "registers": {
+   "formal": {
+    "uk": "action plan",
+    "us": "action plan",
+    "ex": "Each department will draw up an [[action plan]] by the end of June."
+   },
+   "everyday": {
+    "uk": "next steps",
+    "us": "next steps",
+    "ex": "Let's agree on three [[next steps]] before we leave the room."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draw up an action plan",
+   "an action owner",
+   "to follow up on actions"
+  ],
+  "note_fr": "« Plan d'actions » au pluriel en français, mais « action plan » au singulier en anglais (le premier nom est invariable). Le responsable d'une action = « action owner ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-023",
+  "level": 2,
+  "fr": "« vous avez dit, nous avons fait » (restitution des suites données)",
+  "term": {
+   "uk": "you said, we did",
+   "us": "you said, we did"
+  },
+  "ipa": {
+   "uk": "/juː ˌsed wiː ˈdɪd/",
+   "us": "/juː ˌsed wiː ˈdɪd/"
+  },
+  "def": "A way of reporting back to employees that links what they said in a survey or consultation to the changes made in response.",
+  "registers": {
+   "formal": {
+    "uk": "to report back on the actions taken",
+    "us": "to report back on the actions taken",
+    "ex": "Management will [[report back on the actions taken]] within six months of the survey."
+   },
+   "everyday": {
+    "uk": "you said, we did",
+    "us": "you said, we did",
+    "ex": "We're putting a [[you said, we did]] poster up in every canteen.",
+    "ex_us": "We're putting a [[you said, we did]] poster up in every break room."
+   },
+   "informal": {
+    "uk": "to close the loop",
+    "us": "to close the loop",
+    "ex": "If we don't [[close the loop]], nobody will bother filling it in next year."
+   }
+  },
+  "collocations": [
+   "a 'you said, we did' update",
+   "to report back to staff",
+   "to close the feedback loop"
+  ],
+  "note_fr": "Format très répandu au Royaume-Uni pour montrer les suites d'une enquête. « To close the loop » = boucler la boucle, faire un retour à ceux qui ont donné leur avis. « Restituer » ne se traduit pas par « to restitute » (rendre un bien).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-024",
+  "level": 2,
+  "fr": "reconnaissance entre pairs",
+  "term": {
+   "uk": "peer-to-peer recognition",
+   "us": "peer-to-peer recognition"
+  },
+  "ipa": {
+   "uk": "/ˌpɪə tə ˌpɪə ˌrekəɡˈnɪʃn/",
+   "us": "/ˌpɪr tə ˌpɪr ˌrekəɡˈnɪʃən/"
+  },
+  "def": "A system or practice in which colleagues, not only managers, publicly thank and acknowledge each other's work.",
+  "registers": {
+   "formal": {
+    "uk": "peer-to-peer recognition",
+    "us": "peer-to-peer recognition",
+    "ex": "The new platform enables [[peer-to-peer recognition]] across all our sites."
+   },
+   "everyday": {
+    "uk": "to thank someone publicly",
+    "us": "to thank someone publicly",
+    "ex": "Anyone can [[thank a colleague publicly]] on the platform."
+   },
+   "informal": {
+    "uk": "a shout-out",
+    "us": "a shout-out",
+    "ex": "Big [[shout-out]] to the payroll team for getting everyone paid on time."
+   }
+  },
+  "collocations": [
+   "a recognition platform",
+   "to nominate a colleague",
+   "to give someone a shout-out"
+  ],
+  "note_fr": "« Shout-out » (remerciement public) est très courant à l'oral et sur les messageries internes, surtout aux États-Unis ; à éviter dans un écrit formel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-025",
+  "level": 3,
+  "fr": "médaille du travail, récompense d'ancienneté",
+  "term": {
+   "uk": "long-service award",
+   "us": "service award"
+  },
+  "ipa": {
+   "uk": "/ˌlɒŋ ˈsɜːvɪs əˌwɔːd/",
+   "us": "/ˈsɜːrvɪs əˌwɔːrd/"
+  },
+  "def": "A gift or distinction given to an employee to mark a significant number of years with the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "long-service award",
+    "us": "service award",
+    "ex": "Twelve employees will receive a [[long-service award]] at the ceremony.",
+    "ex_us": "Twelve employees will receive a [[service award]] at the ceremony."
+   },
+   "everyday": {
+    "uk": "work anniversary",
+    "us": "work anniversary",
+    "ex": "Happy [[work anniversary]], Priya - ten years already!"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to mark twenty years' service",
+   "a long-service ceremony",
+   "to celebrate a work anniversary"
+  ],
+  "note_fr": "La médaille d'honneur du travail est une distinction officielle française, sans équivalent public au Royaume-Uni ou aux États-Unis, où les « long-service awards » sont décidés par l'entreprise. Expliquez-la si vous en parlez.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-026",
+  "level": 1,
+  "fr": "communication interne",
+  "term": {
+   "uk": "internal communication",
+   "us": "internal communication"
+  },
+  "ipa": {
+   "uk": "/ɪnˌtɜːnl kəˌmjuːnɪˈkeɪʃn/",
+   "us": "/ɪnˌtɜːrnl kəˌmjuːnəˈkeɪʃən/"
+  },
+  "def": "The way an organisation shares information with its employees and enables them to share information with each other.",
+  "registers": {
+   "formal": {
+    "uk": "internal communication",
+    "us": "internal communication",
+    "ex": "Responsibility for [[internal communication]] lies with the Communications Director."
+   },
+   "everyday": {
+    "uk": "internal comms",
+    "us": "internal comms",
+    "ex": "Can you run the draft past [[internal comms]] before it goes out?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the internal comms team",
+   "an internal communication plan",
+   "communication channels"
+  ],
+  "note_fr": "« Communication » est indénombrable dans ce sens. « Comms » est l'abréviation courante (UK et US) pour le service comme pour l'activité. « To run something past someone » = soumettre pour avis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-027",
+  "level": 1,
+  "fr": "e-mail à l'ensemble des collaborateurs",
+  "term": {
+   "uk": "all-staff email",
+   "us": "company-wide email"
+  },
+  "ipa": {
+   "uk": "/ˌɔːl ˈstɑːf ˈiːmeɪl/",
+   "us": "/ˌkʌmpəni ˈwaɪd ˈiːmeɪl/"
+  },
+  "def": "An email sent to every employee in the organisation at once.",
+  "registers": {
+   "formal": {
+    "uk": "message to all staff",
+    "us": "message to all employees",
+    "ex": "A [[message to all staff]] will be sent by the Chief Executive at 9 a.m.",
+    "ex_us": "A [[message to all employees]] will be sent by the CEO at 9 a.m."
+   },
+   "everyday": {
+    "uk": "all-staff email",
+    "us": "company-wide email",
+    "ex": "Did you see the [[all-staff email]] about the new canteen?",
+    "ex_us": "Did you see the [[company-wide email]] about the new cafeteria?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to send an all-staff email",
+   "to copy in all managers",
+   "to reply all"
+  ],
+  "note_fr": "« Collaborateurs » ne se traduit pas par « collaborators », qui évoque la complicité (voire la collaboration avec l'ennemi) : dites « staff », « employees » ou « colleagues ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-028",
+  "level": 1,
+  "fr": "lettre d'information interne, newsletter",
+  "term": {
+   "uk": "staff newsletter",
+   "us": "employee newsletter"
+  },
+  "ipa": {
+   "uk": "/ˌstɑːf ˈnjuːzletə/",
+   "us": "/ɪmˌplɔɪiː ˈnuːzletər/"
+  },
+  "def": "A regular publication, usually digital, that keeps employees up to date with news from the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "staff newsletter",
+    "us": "employee newsletter",
+    "ex": "The [[staff newsletter]] is published on the first Monday of each month.",
+    "ex_us": "The [[employee newsletter]] is published on the first Monday of each month."
+   },
+   "everyday": {
+    "uk": "newsletter",
+    "us": "newsletter",
+    "ex": "Could we get a piece in the [[newsletter]] about the volunteering day?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to feature in the newsletter",
+   "a monthly newsletter",
+   "to write a piece for the newsletter"
+  ],
+  "note_fr": "Un article de newsletter = « a piece », « a feature » ou « an item ». Le journal interne imprimé : « in-house magazine ». Prononciation US : /ˈnuːz-/, UK : /ˈnjuːz-/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-029",
+  "level": 1,
+  "fr": "panneau d'affichage",
+  "term": {
+   "uk": "noticeboard",
+   "us": "bulletin board"
+  },
+  "ipa": {
+   "uk": "/ˈnəʊtɪsbɔːd/",
+   "us": "/ˈbʊlətn bɔːrd/"
+  },
+  "def": "A board on a wall where official notices and information for staff are displayed.",
+  "registers": {
+   "formal": {
+    "uk": "noticeboard",
+    "us": "bulletin board",
+    "ex": "The agreement will be displayed on the staff [[noticeboard]] at each site.",
+    "ex_us": "The agreement will be displayed on the staff [[bulletin board]] at each site."
+   },
+   "everyday": {
+    "uk": "to put up a notice",
+    "us": "to post a notice",
+    "ex": "Can you [[put up a notice]] in the warehouse about the blood drive?",
+    "ex_us": "Can you [[post a notice]] in the warehouse about the blood drive?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to display on the noticeboard",
+   "a union noticeboard",
+   "digital signage"
+  ],
+  "note_fr": "UK « noticeboard », US « bulletin board ». Afficher = « to put up » (UK) ou « to post » (US). Pour les salariés sans adresse e-mail (atelier, entrepôt), l'affichage reste un canal essentiel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-030",
+  "level": 1,
+  "fr": "intranet (publier sur l')",
+  "term": {
+   "uk": "intranet",
+   "us": "intranet"
+  },
+  "ipa": {
+   "uk": "/ˈɪntrənet/",
+   "us": "/ˈɪntrənet/"
+  },
+  "def": "A private website, accessible only to employees, where an organisation shares documents, news and tools.",
+  "registers": {
+   "formal": {
+    "uk": "intranet",
+    "us": "intranet",
+    "ex": "The full policy is available on the [[intranet]]."
+   },
+   "everyday": {
+    "uk": "to put something up",
+    "us": "to post something",
+    "ex": "We'll [[put the slides up]] on the intranet after the meeting.",
+    "ex_us": "We'll [[post the slides]] on the intranet after the meeting."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to post on the intranet",
+   "the intranet homepage",
+   "to find something on the intranet"
+  ],
+  "note_fr": "Préposition : « on the intranet » (pas « in »). Accent tonique sur la première syllabe : /ˈɪn-/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-031",
+  "level": 1,
+  "fr": "donner la parole à la salle",
+  "term": {
+   "uk": "to open the floor",
+   "us": "to open the floor"
+  },
+  "ipa": {
+   "uk": "/tə ˌəʊpən ðə ˈflɔː/",
+   "us": "/tə ˌoʊpən ðə ˈflɔːr/"
+  },
+  "def": "To invite the audience at a meeting or presentation to ask questions or make comments.",
+  "registers": {
+   "formal": {
+    "uk": "to open the floor to questions",
+    "us": "to open the floor to questions",
+    "ex": "I will now [[open the floor to questions]]."
+   },
+   "everyday": {
+    "uk": "to take questions",
+    "us": "to take questions",
+    "ex": "I'll talk for ten minutes and then [[take questions]]."
+   },
+   "informal": {
+    "uk": "to throw it open",
+    "us": "to throw it open",
+    "ex": "Right, let's [[throw it open]] - who wants to go first?"
+   }
+  },
+  "collocations": [
+   "questions from the floor",
+   "to have the floor",
+   "to hand over to the audience"
+  ],
+  "note_fr": "« The floor » = l'assistance, la salle. « Questions from the floor » = questions du public. « To have the floor » = avoir la parole.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-032",
+  "level": 1,
+  "fr": "séance de questions-réponses",
+  "term": {
+   "uk": "Q&A session",
+   "us": "Q&A session"
+  },
+  "ipa": {
+   "uk": "/ˌkjuː ən ˈeɪ ˌseʃn/",
+   "us": "/ˌkjuː ən ˈeɪ ˌseʃən/"
+  },
+  "def": "Part of a meeting or event in which the audience asks questions and the speakers answer them.",
+  "registers": {
+   "formal": {
+    "uk": "question-and-answer session",
+    "us": "question-and-answer session",
+    "ex": "The presentation will be followed by a [[question-and-answer session]]."
+   },
+   "everyday": {
+    "uk": "Q&A",
+    "us": "Q&A",
+    "ex": "We'll keep twenty minutes at the end for [[Q&A]]."
+   },
+   "informal": {
+    "uk": "ask-me-anything session",
+    "us": "ask-me-anything session",
+    "ex": "The CEO's doing an [[ask-me-anything session]] on Thursday."
+   }
+  },
+  "collocations": [
+   "a live Q&A",
+   "to submit questions in advance",
+   "an anonymous question tool"
+  ],
+  "note_fr": "Prononcez « Q and A » /ˌkjuː ən ˈeɪ/. « Ask me anything » vient des forums en ligne : format informel où le dirigeant accepte toutes les questions.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-033",
+  "level": 1,
+  "fr": "point d'équipe, réunion d'information d'équipe",
+  "term": {
+   "uk": "team briefing",
+   "us": "team briefing"
+  },
+  "ipa": {
+   "uk": "/ˌtiːm ˈbriːfɪŋ/",
+   "us": "/ˌtiːm ˈbriːfɪŋ/"
+  },
+  "def": "A short meeting in which a manager passes on information to the team and answers questions.",
+  "registers": {
+   "formal": {
+    "uk": "team briefing",
+    "us": "team briefing",
+    "ex": "Managers will hold a [[team briefing]] within 24 hours of the announcement."
+   },
+   "everyday": {
+    "uk": "quick catch-up",
+    "us": "huddle",
+    "ex": "Let's have a [[quick catch-up]] at nine to go through it.",
+    "ex_us": "Let's have a [[huddle]] at nine to go through it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold a team briefing",
+   "a briefing note",
+   "a stand-up meeting"
+  ],
+  "note_fr": "« Briefing » = réunion d'information (ou note d'information), alors que « brief » = cahier des charges, consignes. « Huddle » (US) = point rapide, souvent debout.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-034",
+  "level": 2,
+  "fr": "kit de communication managérial",
+  "term": {
+   "uk": "manager briefing pack",
+   "us": "manager toolkit"
+  },
+  "ipa": {
+   "uk": "/ˌmænɪdʒə ˈbriːfɪŋ pæk/",
+   "us": "/ˌmænɪdʒər ˈtuːlkɪt/"
+  },
+  "def": "A set of materials, such as key messages, a script, slides and FAQs, given to managers so that they can pass on a message to their teams consistently.",
+  "registers": {
+   "formal": {
+    "uk": "manager briefing pack",
+    "us": "manager communication toolkit",
+    "ex": "A [[manager briefing pack]] will be sent to all people managers on Monday.",
+    "ex_us": "A [[manager communication toolkit]] will be sent to all people managers on Monday."
+   },
+   "everyday": {
+    "uk": "toolkit",
+    "us": "toolkit",
+    "ex": "Everything you need is in the [[toolkit]] - slides, FAQs and a short script."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to send out a briefing pack",
+   "a manager FAQ",
+   "a briefing script"
+  ],
+  "note_fr": "« Kit » s'emploie (« comms kit »), mais « briefing pack » (UK) et « toolkit » (US) sont plus naturels. Un kit managérial contient en général des « talking points », une FAQ et un calendrier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-035",
+  "level": 1,
+  "fr": "tenir les salariés informés",
+  "term": {
+   "uk": "to keep staff informed",
+   "us": "to keep staff informed"
+  },
+  "ipa": {
+   "uk": "/tə ˌkiːp ˈstɑːf ɪnˈfɔːmd/",
+   "us": "/tə ˌkiːp ˈstæf ɪnˈfɔːrmd/"
+  },
+  "def": "To give employees regular updates so that they know what is happening.",
+  "registers": {
+   "formal": {
+    "uk": "to keep employees informed",
+    "us": "to keep employees informed",
+    "ex": "We undertake [[to keep employees informed]] at each stage of the project."
+   },
+   "everyday": {
+    "uk": "to keep someone posted",
+    "us": "to keep someone posted",
+    "ex": "I'll [[keep you posted]] as soon as I hear anything."
+   },
+   "informal": {
+    "uk": "to keep someone in the loop",
+    "us": "to keep someone in the loop",
+    "ex": "Just [[keep me in the loop]], will you?"
+   }
+  },
+  "collocations": [
+   "to keep people up to date",
+   "to update staff regularly",
+   "to let people know"
+  ],
+  "note_fr": "« Informer » se dit « to inform » à l'écrit, mais à l'oral « to let someone know » ou « to keep someone posted » sont bien plus naturels. « To inform » ne s'emploie pas sans complément de personne.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-036",
+  "level": 2,
+  "fr": "annoncer (une mauvaise nouvelle)",
+  "term": {
+   "uk": "to break the news",
+   "us": "to break the news"
+  },
+  "ipa": {
+   "uk": "/tə ˌbreɪk ðə ˈnjuːz/",
+   "us": "/tə ˌbreɪk ðə ˈnuːz/"
+  },
+  "def": "To tell someone about something important and usually unpleasant.",
+  "registers": {
+   "formal": {
+    "uk": "to inform staff of",
+    "us": "to inform staff of",
+    "ex": "It is with regret that we must [[inform staff of]] the closure of the Nantes branch."
+   },
+   "everyday": {
+    "uk": "to break the news",
+    "us": "to break the news",
+    "ex": "Who's going to [[break the news]] to the team?"
+   },
+   "informal": {
+    "uk": "to drop a bombshell",
+    "us": "to drop a bombshell",
+    "ex": "He [[dropped a bombshell]] right at the end of the meeting."
+   }
+  },
+  "collocations": [
+   "to break the news gently",
+   "to break bad news",
+   "to soften the blow"
+  ],
+  "note_fr": "« To break the news » s'emploie presque toujours pour une mauvaise nouvelle. « News » est indénombrable et singulier : « the news is bad ». « Annonce » ≠ « advertisement » (publicité).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-037",
+  "level": 1,
+  "fr": "faire passer le message",
+  "term": {
+   "uk": "to get the message across",
+   "us": "to get the message across"
+  },
+  "ipa": {
+   "uk": "/tə ˌɡet ðə ˈmesɪdʒ əˌkrɒs/",
+   "us": "/tə ˌɡet ðə ˈmesɪdʒ əˌkrɔːs/"
+  },
+  "def": "To communicate an idea successfully so that people understand it.",
+  "registers": {
+   "formal": {
+    "uk": "to convey the message",
+    "us": "to convey the message",
+    "ex": "The letter must [[convey the message]] clearly and without ambiguity."
+   },
+   "everyday": {
+    "uk": "to get the message across",
+    "us": "to get the message across",
+    "ex": "Short videos [[get the message across]] better than long emails."
+   },
+   "informal": {
+    "uk": "to land the message",
+    "us": "to land the message",
+    "ex": "The town hall didn't really [[land the message]]."
+   }
+  },
+  "collocations": [
+   "to get a point across",
+   "a clear message",
+   "to reinforce the message"
+  ],
+  "note_fr": "« To get across » = faire comprendre. « To land » (jargon d'entreprise) = que le message soit bien reçu. « Passer un message » ≠ « to pass on a message » (transmettre le message de quelqu'un).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-038",
+  "level": 2,
+  "fr": "être franc, transparent sur",
+  "term": {
+   "uk": "to be upfront about",
+   "us": "to be upfront about"
+  },
+  "ipa": {
+   "uk": "/tə bi ˌʌpˈfrʌnt əˌbaʊt/",
+   "us": "/tə bi ˌʌpˈfrʌnt əˌbaʊt/"
+  },
+  "def": "To be honest and open about something from the start, rather than hiding it.",
+  "registers": {
+   "formal": {
+    "uk": "to be transparent about",
+    "us": "to be transparent about",
+    "ex": "We intend [[to be transparent about]] the reasons for this decision."
+   },
+   "everyday": {
+    "uk": "to be upfront about",
+    "us": "to be upfront about",
+    "ex": "It's better [[to be upfront about]] what we don't know yet."
+   },
+   "informal": {
+    "uk": "to tell it like it is",
+    "us": "to tell it like it is",
+    "ex": "People respect her because she [[tells it like it is]]."
+   }
+  },
+  "collocations": [
+   "to be upfront with staff",
+   "to be open about",
+   "to be honest about the uncertainty"
+  ],
+  "note_fr": "« Upfront » = franc, direct (et aussi « payé d'avance » dans « upfront payment »). « Transparent » existe mais est surexploité dans les communications d'entreprise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-039",
+  "level": 1,
+  "fr": "répondre aux inquiétudes",
+  "term": {
+   "uk": "to address concerns",
+   "us": "to address concerns"
+  },
+  "ipa": {
+   "uk": "/tə əˌdres kənˈsɜːnz/",
+   "us": "/tə əˌdres kənˈsɜːrnz/"
+  },
+  "def": "To deal with the worries that people have expressed, by giving information or taking action.",
+  "registers": {
+   "formal": {
+    "uk": "to address the concerns",
+    "us": "to address the concerns",
+    "ex": "This FAQ seeks [[to address the concerns]] raised by employees at the meeting."
+   },
+   "everyday": {
+    "uk": "to put people's minds at rest",
+    "us": "to put people's minds at rest",
+    "ex": "A clear timetable would [[put people's minds at rest]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to raise concerns",
+   "to allay fears",
+   "to acknowledge concerns"
+  ],
+  "note_fr": "« To address » = traiter, répondre à (pas « adresser »). « Concerns » = inquiétudes. « To allay fears » (apaiser les craintes) est plus soutenu.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-040",
+  "level": 1,
+  "fr": "gérer les attentes",
+  "term": {
+   "uk": "to manage expectations",
+   "us": "to manage expectations"
+  },
+  "ipa": {
+   "uk": "/tə ˌmænɪdʒ ˌekspekˈteɪʃnz/",
+   "us": "/tə ˌmænɪdʒ ˌekspekˈteɪʃənz/"
+  },
+  "def": "To make sure that people do not expect more than can realistically be delivered.",
+  "registers": {
+   "formal": {
+    "uk": "to manage expectations",
+    "us": "to manage expectations",
+    "ex": "It will be important [[to manage expectations]] regarding the pace of change."
+   },
+   "everyday": {
+    "uk": "not to overpromise",
+    "us": "not to overpromise",
+    "ex": "Let's be careful [[not to overpromise]] - we can't fix everything this year."
+   },
+   "informal": {
+    "uk": "to under-promise and over-deliver",
+    "us": "to under-promise and over-deliver",
+    "ex": "The rule is simple: [[under-promise and over-deliver]]."
+   }
+  },
+  "collocations": [
+   "to manage people's expectations",
+   "unrealistic expectations",
+   "to fall short of expectations"
+  ],
+  "note_fr": "« Expectations » = attentes (faux ami partiel avec « expectative »). « To set expectations » = fixer le cadre ; « to manage expectations » = éviter les déceptions.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-041",
+  "level": 2,
+  "fr": "communication du changement",
+  "term": {
+   "uk": "change communication",
+   "us": "change communication"
+  },
+  "ipa": {
+   "uk": "/ˈtʃeɪndʒ kəˌmjuːnɪˌkeɪʃn/",
+   "us": "/ˈtʃeɪndʒ kəˌmjuːnəˌkeɪʃən/"
+  },
+  "def": "Communication designed to explain a change to employees, help them understand its reasons and support them through it.",
+  "registers": {
+   "formal": {
+    "uk": "change communication",
+    "us": "change communication",
+    "ex": "A dedicated [[change communication]] plan will accompany the roll-out."
+   },
+   "everyday": {
+    "uk": "to explain the why",
+    "us": "to explain the why",
+    "ex": "People cope better with change when we [[explain the why]], not just the what."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a change communication plan",
+   "to support people through change",
+   "to explain the rationale"
+  ],
+  "note_fr": "« Accompagner le changement » : dites « to support people through change » plutôt que « to accompany the change » (calque). « Rationale » (/ˌræʃəˈnɑːl/) = justification.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-042",
+  "level": 2,
+  "fr": "relais du changement, ambassadeurs",
+  "term": {
+   "uk": "change champions",
+   "us": "change champions"
+  },
+  "ipa": {
+   "uk": "/ˈtʃeɪndʒ ˌtʃæmpiənz/",
+   "us": "/ˈtʃeɪndʒ ˌtʃæmpiənz/"
+  },
+  "def": "Employees chosen or volunteering to promote a change within their teams, relay information and collect feedback.",
+  "registers": {
+   "formal": {
+    "uk": "change network",
+    "us": "change network",
+    "ex": "A [[change network]] of forty volunteers will relay information in each department."
+   },
+   "everyday": {
+    "uk": "change champions",
+    "us": "change champions",
+    "ex": "We've recruited [[change champions]] on every site to answer questions."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set up a network of champions",
+   "to act as a relay",
+   "to champion a project"
+  ],
+  "note_fr": "« Ambassadors » se dit aussi, mais « champions » est très courant en entreprise. « To champion something » = défendre, porter un projet.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-043",
+  "level": 2,
+  "fr": "cellule de crise",
+  "term": {
+   "uk": "crisis management team",
+   "us": "crisis management team"
+  },
+  "ipa": {
+   "uk": "/ˈkraɪsɪs ˌmænɪdʒmənt tiːm/",
+   "us": "/ˈkraɪsɪs ˌmænɪdʒmənt tiːm/"
+  },
+  "def": "A small group of senior people who take charge of decisions and communication when a serious incident occurs.",
+  "registers": {
+   "formal": {
+    "uk": "crisis management team",
+    "us": "crisis management team",
+    "ex": "The [[crisis management team]] met at 7 a.m. to agree the initial response.",
+    "ex_us": "The [[crisis management team]] met at 7 a.m. to agree on the initial response."
+   },
+   "everyday": {
+    "uk": "crisis team",
+    "us": "crisis team",
+    "ex": "The [[crisis team]] is meeting again at two."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to convene the crisis team",
+   "to activate the crisis plan",
+   "a crisis room"
+  ],
+  "note_fr": "« Cellule de crise » ne se dit pas « crisis cell » (peu compris). Préférez « crisis team » ou « crisis management team ». Notez « to agree something » (UK) / « to agree on something » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-044",
+  "level": 2,
+  "fr": "communication de crise",
+  "term": {
+   "uk": "crisis communication",
+   "us": "crisis communication"
+  },
+  "ipa": {
+   "uk": "/ˈkraɪsɪs kəˌmjuːnɪˌkeɪʃn/",
+   "us": "/ˈkraɪsɪs kəˌmjuːnəˌkeɪʃən/"
+  },
+  "def": "The way an organisation communicates with employees and other audiences during a serious, unexpected event.",
+  "registers": {
+   "formal": {
+    "uk": "crisis communication",
+    "us": "crisis communication",
+    "ex": "Our [[crisis communication]] protocol sets out who speaks, to whom and when."
+   },
+   "everyday": {
+    "uk": "to get the facts out",
+    "us": "to get the facts out",
+    "ex": "Our priority is [[to get the facts out]] before the rumours take over.",
+    "ex_us": "Our priority is [[to get the facts out]] before the rumors take over."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a crisis communication plan",
+   "to issue a statement",
+   "to refer media enquiries to"
+  ],
+  "note_fr": "En crise, les salariés doivent être informés avant ou en même temps que l'extérieur : ils sont les premiers relais, et les premiers lecteurs des réseaux sociaux. « Media enquiries » (UK) / « media inquiries » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-045",
+  "level": 3,
+  "fr": "déclaration d'attente, communication d'attente",
+  "term": {
+   "uk": "holding statement",
+   "us": "holding statement"
+  },
+  "ipa": {
+   "uk": "/ˈhəʊldɪŋ ˌsteɪtmənt/",
+   "us": "/ˈhoʊldɪŋ ˌsteɪtmənt/"
+  },
+  "def": "A short statement issued quickly after an incident, before all the facts are known, to acknowledge the situation and say that action is being taken.",
+  "registers": {
+   "formal": {
+    "uk": "holding statement",
+    "us": "holding statement",
+    "ex": "A [[holding statement]] was issued to staff within the hour."
+   },
+   "everyday": {
+    "uk": "holding line",
+    "us": "holding line",
+    "ex": "Send managers a [[holding line]] for now; we'll update them at four."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a holding statement",
+   "to prepare a holding line",
+   "a further update will follow"
+  ],
+  "note_fr": "Structure type : on reconnaît la situation, on montre qu'on agit, on annonce quand viendra la prochaine information. Ne spéculez jamais sur les causes dans un « holding statement ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-046",
+  "level": 3,
+  "fr": "prendre les devants (en communication)",
+  "term": {
+   "uk": "to get ahead of the story",
+   "us": "to get ahead of the story"
+  },
+  "ipa": {
+   "uk": "/tə ˌɡet əˌhed əv ðə ˈstɔːri/",
+   "us": "/tə ˌɡet əˌhed əv ðə ˈstɔːri/"
+  },
+  "def": "To communicate about a situation before others do, so that you control how it is first presented.",
+  "registers": {
+   "formal": {
+    "uk": "to communicate proactively",
+    "us": "to communicate proactively",
+    "ex": "We recommend [[communicating proactively]] before the information reaches the press."
+   },
+   "everyday": {
+    "uk": "to get ahead of the story",
+    "us": "to get ahead of the story",
+    "ex": "If we don't [[get ahead of the story]], staff will read about it on social media first."
+   },
+   "informal": {
+    "uk": "to get out in front of it",
+    "us": "to get out in front of it",
+    "ex": "We need [[to get out in front of this]] today."
+   }
+  },
+  "collocations": [
+   "to control the narrative",
+   "to pre-empt a leak",
+   "to set the record straight"
+  ],
+  "note_fr": "Dans un contexte français, prendre les devants ne doit jamais conduire à informer les salariés avant les représentants du personnel lorsque ceux-ci doivent l'être en premier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-047",
+  "level": 3,
+  "fr": "s'en tenir aux messages convenus",
+  "term": {
+   "uk": "to stay on message",
+   "us": "to stay on message"
+  },
+  "ipa": {
+   "uk": "/tə ˌsteɪ ɒn ˈmesɪdʒ/",
+   "us": "/tə ˌsteɪ ɑːn ˈmesɪdʒ/"
+  },
+  "def": "To keep to the agreed key points when speaking, without improvising or speculating.",
+  "registers": {
+   "formal": {
+    "uk": "to adhere to the agreed messages",
+    "us": "to adhere to the agreed messages",
+    "ex": "Managers are asked [[to adhere to the agreed messages]] and not to speculate."
+   },
+   "everyday": {
+    "uk": "to stay on message",
+    "us": "to stay on message",
+    "ex": "Whatever they ask, [[stay on message]] and don't guess."
+   },
+   "informal": {
+    "uk": "to stick to the script",
+    "us": "to stick to the script",
+    "ex": "If you're unsure, just [[stick to the script]]."
+   }
+  },
+  "collocations": [
+   "to go off message",
+   "to keep to the agreed lines",
+   "to avoid speculation"
+  ],
+  "note_fr": "« On message » = conforme à la ligne convenue ; « off message » = hors ligne. Pour briefer les managers sans les infantiliser, expliquez aussi le pourquoi des messages.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-048",
+  "level": 3,
+  "fr": "séquencement de l'annonce (représentants du personnel avant salariés)",
+  "term": {
+   "uk": "sequencing of announcements",
+   "us": "sequencing of announcements"
+  },
+  "ipa": {
+   "uk": "/ˈsiːkwənsɪŋ əv əˈnaʊnsmənts/",
+   "us": "/ˈsiːkwənsɪŋ əv əˈnaʊnsmənts/"
+  },
+  "def": "The order in which different groups, such as employee representatives, managers, staff and the outside world, are told about a decision or project.",
+  "registers": {
+   "formal": {
+    "uk": "sequencing of announcements",
+    "us": "sequencing of announcements",
+    "ex": "The [[sequencing of announcements]] must ensure that the works council is informed before employees."
+   },
+   "everyday": {
+    "uk": "who hears what first",
+    "us": "who hears what first",
+    "ex": "Before we write a word, we need to agree [[who hears what first]]."
+   },
+   "informal": {
+    "uk": "under wraps",
+    "us": "under wraps",
+    "ex": "Please keep this [[under wraps]] until Thursday."
+   }
+  },
+  "collocations": [
+   "to agree the sequencing",
+   "under embargo",
+   "announcement day"
+  ],
+  "note_fr": "En France, présenter aux salariés comme définitive une décision sur laquelle le CSE doit être informé ou consulté peut constituer un délit d'entrave. D'où l'ordre habituel : CSE, managers, salariés, puis extérieur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-049",
+  "level": 2,
+  "fr": "répondre aux questions (avec aisance)",
+  "term": {
+   "uk": "to field questions",
+   "us": "to field questions"
+  },
+  "ipa": {
+   "uk": "/tə ˌfiːld ˈkwestʃənz/",
+   "us": "/tə ˌfiːld ˈkwestʃənz/"
+  },
+  "def": "To answer questions, often difficult or unexpected ones, from an audience.",
+  "registers": {
+   "formal": {
+    "uk": "to respond to questions",
+    "us": "to respond to questions",
+    "ex": "The HR Director will [[respond to questions]] from employees at the end of the session."
+   },
+   "everyday": {
+    "uk": "to field questions",
+    "us": "to field questions",
+    "ex": "She [[fielded questions]] for forty minutes without notes."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to field questions from the floor",
+   "to field a difficult question",
+   "to handle questions"
+  ],
+  "note_fr": "« To field » vient du cricket et du base-ball : rattraper la balle. Le verbe suggère qu'on répond avec aisance à des questions imprévues.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-050",
+  "level": 2,
+  "fr": "question piège, question déstabilisante",
+  "term": {
+   "uk": "tricky question",
+   "us": "tricky question"
+  },
+  "ipa": {
+   "uk": "/ˌtrɪki ˈkwestʃən/",
+   "us": "/ˌtrɪki ˈkwestʃən/"
+  },
+  "def": "A question that is difficult to answer, especially in public, because it is sensitive or unexpected.",
+  "registers": {
+   "formal": {
+    "uk": "challenging question",
+    "us": "challenging question",
+    "ex": "Speakers should prepare for [[challenging questions]] on job security."
+   },
+   "everyday": {
+    "uk": "tricky question",
+    "us": "tricky question",
+    "ex": "Expect a [[tricky question]] about the bonus."
+   },
+   "informal": {
+    "uk": "curveball",
+    "us": "curveball",
+    "ex": "Someone's bound to throw you a [[curveball]] about the car park.",
+    "ex_us": "Someone's bound to throw you a [[curveball]] about the parking lot."
+   }
+  },
+  "collocations": [
+   "a loaded question",
+   "to dodge a question",
+   "to see a question coming"
+  ],
+  "note_fr": "« Curveball » vient du base-ball (balle à effet) : « to throw someone a curveball » = déstabiliser. « Question piège » ne se dit pas « trap question ». « A loaded question » = une question orientée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-051",
+  "level": 3,
+  "fr": "maladroit, déconnecté (se dit d'un message)",
+  "term": {
+   "uk": "tone-deaf",
+   "us": "tone-deaf"
+  },
+  "ipa": {
+   "uk": "/ˌtəʊn ˈdef/",
+   "us": "/ˌtoʊn ˈdef/"
+  },
+  "def": "Showing a lack of awareness of how people feel, especially in a public message.",
+  "registers": {
+   "formal": {
+    "uk": "insensitive",
+    "us": "insensitive",
+    "ex": "Announcing record bonuses during a pay freeze was widely perceived as [[insensitive]]."
+   },
+   "everyday": {
+    "uk": "tone-deaf",
+    "us": "tone-deaf",
+    "ex": "Sending that video the day after the redundancies was completely [[tone-deaf]].",
+    "ex_us": "Sending that video the day after the layoffs was completely [[tone-deaf]]."
+   },
+   "informal": {
+    "uk": "to miss the mark",
+    "us": "to miss the mark",
+    "ex": "The CEO's email really [[missed the mark]]."
+   }
+  },
+  "collocations": [
+   "a tone-deaf message",
+   "to strike the right tone",
+   "to misjudge the mood"
+  ],
+  "note_fr": "Au sens propre : qui chante faux. Au figuré : qui ne perçoit pas l'état d'esprit de son public. Critique fréquente des communications de direction en période difficile.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-052",
+  "level": 2,
+  "fr": "enjoliver, édulcorer",
+  "term": {
+   "uk": "to sugar-coat",
+   "us": "to sugar-coat"
+  },
+  "ipa": {
+   "uk": "/tə ˌʃʊɡə ˈkəʊt/",
+   "us": "/tə ˌʃʊɡər ˈkoʊt/"
+  },
+  "def": "To present bad news in a way that makes it seem less unpleasant than it really is.",
+  "registers": {
+   "formal": {
+    "uk": "to minimise",
+    "us": "to minimize",
+    "ex": "The message should neither dramatise nor [[minimise]] the situation.",
+    "ex_us": "The message should neither dramatize nor [[minimize]] the situation."
+   },
+   "everyday": {
+    "uk": "to sugar-coat",
+    "us": "to sugar-coat",
+    "ex": "Don't [[sugar-coat]] it - people can tell."
+   },
+   "informal": {
+    "uk": "to spin",
+    "us": "to spin",
+    "ex": "Staff will see straight through any attempt [[to spin]] the figures."
+   }
+  },
+  "collocations": [
+   "to sugar-coat bad news",
+   "to put a positive spin on",
+   "to tell it straight"
+  ],
+  "note_fr": "« Spin » = présentation orientée (vocabulaire politique). Les salariés détectent vite l'enrobage : en communication interne, la franchise paie davantage.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-053",
+  "level": 3,
+  "fr": "aborder le sujet qui fâche",
+  "term": {
+   "uk": "to address the elephant in the room",
+   "us": "to address the elephant in the room"
+  },
+  "ipa": {
+   "uk": "/tə əˌdres ði ˌelɪfənt ɪn ðə ˈruːm/",
+   "us": "/tə əˌdres ði ˌeləfənt ɪn ðə ˈruːm/"
+  },
+  "def": "To talk openly about an obvious problem that everyone is aware of but nobody wants to mention.",
+  "registers": {
+   "formal": {
+    "uk": "to address the issue directly",
+    "us": "to address the issue directly",
+    "ex": "The Chief Executive chose [[to address the issue directly]] in her opening remarks."
+   },
+   "everyday": {
+    "uk": "to address the elephant in the room",
+    "us": "to address the elephant in the room",
+    "ex": "Let me [[address the elephant in the room]]: yes, the Lyon site is part of the review."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the elephant in the room",
+   "to name the issue",
+   "to tackle something head-on"
+  ],
+  "note_fr": "Nommer d'emblée le sujet que tout le monde attend, en début de réunion plénière, désamorce souvent l'hostilité. « Head-on » = de front.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-054",
+  "level": 3,
+  "fr": "présence (visibilité) de la direction sur le terrain",
+  "term": {
+   "uk": "visible leadership",
+   "us": "visible leadership"
+  },
+  "ipa": {
+   "uk": "/ˌvɪzəbl ˈliːdəʃɪp/",
+   "us": "/ˌvɪzəbəl ˈliːdərʃɪp/"
+  },
+  "def": "The practice of senior leaders being present, accessible and seen by employees, especially during difficult periods.",
+  "registers": {
+   "formal": {
+    "uk": "visible leadership",
+    "us": "visible leadership",
+    "ex": "Employees have asked for more [[visible leadership]] during the transition."
+   },
+   "everyday": {
+    "uk": "to walk the floor",
+    "us": "to walk the floor",
+    "ex": "He tries [[to walk the floor]] every Friday morning."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be visible on site",
+   "management by walking around",
+   "leadership presence"
+  ],
+  "note_fr": "« To walk the floor » (aller sur le terrain, dans les ateliers ou les plateaux). Dans les enquêtes, le manque de visibilité de la direction est un irritant classique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-055",
+  "level": 3,
+  "fr": "réunion avec le N+2 (sans le N+1)",
+  "term": {
+   "uk": "skip-level meeting",
+   "us": "skip-level meeting"
+  },
+  "ipa": {
+   "uk": "/ˈskɪp ˌlevl ˌmiːtɪŋ/",
+   "us": "/ˈskɪp ˌlevəl ˌmiːtɪŋ/"
+  },
+  "def": "A meeting between a senior manager and employees who report to one of that manager's direct reports.",
+  "registers": {
+   "formal": {
+    "uk": "skip-level meeting",
+    "us": "skip-level meeting",
+    "ex": "Directors will hold quarterly [[skip-level meetings]] with team members."
+   },
+   "everyday": {
+    "uk": "skip-level",
+    "us": "skip-level",
+    "ex": "I've got a [[skip-level]] with the VP on Tuesday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold skip-level meetings",
+   "my manager's manager",
+   "an open conversation"
+  ],
+  "note_fr": "Pratique d'origine américaine. « N+1 / N+2 » ne s'emploient pas en anglais : dites « my manager », « my manager's manager » ou « my boss's boss ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-056",
+  "level": 2,
+  "fr": "règles de bonne conduite en réunion hybride",
+  "term": {
+   "uk": "hybrid meeting etiquette",
+   "us": "hybrid meeting etiquette"
+  },
+  "ipa": {
+   "uk": "/ˌhaɪbrɪd ˈmiːtɪŋ ˌetɪket/",
+   "us": "/ˌhaɪbrɪd ˈmiːtɪŋ ˌetɪkət/"
+  },
+  "def": "Simple shared rules that make meetings fair and effective when some participants are in the room and others are remote.",
+  "registers": {
+   "formal": {
+    "uk": "hybrid meeting etiquette",
+    "us": "hybrid meeting etiquette",
+    "ex": "The guide sets out simple rules of [[hybrid meeting etiquette]]."
+   },
+   "everyday": {
+    "uk": "cameras on",
+    "us": "cameras on",
+    "ex": "We've agreed it's [[cameras on]] for team meetings."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "remote-first meetings",
+   "to give remote participants a voice",
+   "to mute oneself"
+  ],
+  "note_fr": "« Etiquette » s'écrit sans accent. « Remote-first » : tout le monde se connecte depuis son poste, même au bureau, pour éviter que les participants à distance soient relégués.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-057",
+  "level": 2,
+  "fr": "rituels d'équipe",
+  "term": {
+   "uk": "team rituals",
+   "us": "team rituals"
+  },
+  "ipa": {
+   "uk": "/ˌtiːm ˈrɪtʃuəlz/",
+   "us": "/ˌtiːm ˈrɪtʃuəlz/"
+  },
+  "def": "Regular shared moments, such as a weekly meeting or a monthly lunch, that help a team stay connected.",
+  "registers": {
+   "formal": {
+    "uk": "team rituals",
+    "us": "team rituals",
+    "ex": "Managers are encouraged to establish regular [[team rituals]], such as a weekly check-in."
+   },
+   "everyday": {
+    "uk": "weekly catch-up",
+    "us": "weekly catch-up",
+    "ex": "Our Monday [[weekly catch-up]] is the only time we're all together."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a weekly check-in",
+   "a team lunch",
+   "an office day"
+  ],
+  "note_fr": "« Rituals » est compris, mais « routines » ou « traditions » sonnent souvent plus naturel. Un point régulier = « a check-in » ou « a catch-up ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-058",
+  "level": 2,
+  "fr": "séminaire d'équipe (hors site)",
+  "term": {
+   "uk": "team away day",
+   "us": "team offsite"
+  },
+  "ipa": {
+   "uk": "/ˌtiːm əˈweɪ deɪ/",
+   "us": "/ˌtiːm ˈɔːfsaɪt/"
+  },
+  "def": "A day or more spent away from the usual workplace, for a team to reflect, plan and build relationships.",
+  "registers": {
+   "formal": {
+    "uk": "team away day",
+    "us": "team offsite",
+    "ex": "The [[team away day]] will be held at a venue near Reims.",
+    "ex_us": "The [[team offsite]] will be held at a venue near Reims."
+   },
+   "everyday": {
+    "uk": "away day",
+    "us": "offsite",
+    "ex": "We're planning an [[away day]] in June.",
+    "ex_us": "We're planning an [[offsite]] in June."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to organise an away day",
+   "a strategy away day",
+   "a two-day retreat"
+  ],
+  "note_fr": "« Séminaire » ≠ « seminar » (cours, conférence). Au Royaume-Uni : « away day » ; aux États-Unis : « offsite », ou « retreat » pour plusieurs jours.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-059",
+  "level": 2,
+  "fr": "échanges informels (à la machine à café)",
+  "term": {
+   "uk": "watercooler conversations",
+   "us": "watercooler conversations"
+  },
+  "ipa": {
+   "uk": "/ˈwɔːtəkuːlə ˌkɒnvəˌseɪʃnz/",
+   "us": "/ˈwɔːtərkuːlər ˌkɑːnvərˌseɪʃənz/"
+  },
+  "def": "The casual conversations colleagues have when they bump into each other at work, which help information and relationships to flow.",
+  "registers": {
+   "formal": {
+    "uk": "informal interactions",
+    "us": "informal interactions",
+    "ex": "Remote work reduces the [[informal interactions]] through which knowledge is shared."
+   },
+   "everyday": {
+    "uk": "watercooler conversations",
+    "us": "watercooler conversations",
+    "ex": "New joiners miss out on the [[watercooler conversations]]."
+   },
+   "informal": {
+    "uk": "a chat by the coffee machine",
+    "us": "a chat by the coffee machine",
+    "ex": "Half our decisions used to get made over [[a chat by the coffee machine]]."
+   }
+  },
+  "collocations": [
+   "watercooler moments",
+   "to bump into colleagues",
+   "informal networks"
+  ],
+  "note_fr": "Image américaine de la fontaine à eau, équivalent de notre machine à café. C'est l'argument classique des défenseurs du retour au bureau ; « to bump into » = croiser par hasard.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-060",
+  "level": 2,
+  "fr": "flex office (bureaux partagés sans poste attribué)",
+  "term": {
+   "uk": "hot-desking",
+   "us": "hot-desking"
+  },
+  "ipa": {
+   "uk": "/ˈhɒt ˌdeskɪŋ/",
+   "us": "/ˈhɑːt ˌdeskɪŋ/"
+  },
+  "def": "A way of organising an office in which employees do not have their own desk but use whichever one is available.",
+  "registers": {
+   "formal": {
+    "uk": "desk-sharing",
+    "us": "desk-sharing",
+    "ex": "The new premises will operate on a [[desk-sharing]] basis, with seven desks for every ten employees."
+   },
+   "everyday": {
+    "uk": "hot-desking",
+    "us": "hot-desking",
+    "ex": "Nobody likes [[hot-desking]] when it means hunting for a seat at nine."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a hot desk",
+   "desk booking",
+   "a desk-sharing ratio"
+  ],
+  "note_fr": "« Flex office » est un anglicisme français peu employé en anglais. Dites « hot-desking » ou « desk sharing » ; aux États-Unis, « hoteling » désigne la réservation de postes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-061",
+  "level": 1,
+  "fr": "open space (bureau paysager)",
+  "term": {
+   "uk": "open-plan office",
+   "us": "open office"
+  },
+  "ipa": {
+   "uk": "/ˌəʊpən plæn ˈɒfɪs/",
+   "us": "/ˌoʊpən ˈɑːfɪs/"
+  },
+  "def": "A large office space without walls or private offices, shared by many employees.",
+  "registers": {
+   "formal": {
+    "uk": "open-plan office",
+    "us": "open office",
+    "ex": "Most teams work in an [[open-plan office]] on the third floor.",
+    "ex_us": "Most teams work in an [[open office]] on the third floor."
+   },
+   "everyday": {
+    "uk": "open-plan",
+    "us": "open office",
+    "ex": "The noise in the [[open-plan]] is getting to people.",
+    "ex_us": "The noise in the [[open office]] is getting to people."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "quiet rooms",
+   "focus areas",
+   "noise levels"
+  ],
+  "note_fr": "Faux ami : « open space » désigne en anglais un espace vert ou un terrain non bâti. Pour le bureau, dites « open-plan office » (UK) ou « open office » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-062",
+  "level": 2,
+  "fr": "conciergerie d'entreprise",
+  "term": {
+   "uk": "workplace concierge service",
+   "us": "workplace concierge service"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːkpleɪs ˈkɒnsieəʒ ˌsɜːvɪs/",
+   "us": "/ˌwɜːrkpleɪs ˌkɑːnsiˈerʒ ˌsɜːrvɪs/"
+  },
+  "def": "A service at work that handles everyday errands for employees, such as dry cleaning, parcels or shoe repairs.",
+  "registers": {
+   "formal": {
+    "uk": "workplace concierge service",
+    "us": "workplace concierge service",
+    "ex": "Employees have access to a [[workplace concierge service]] for dry cleaning, parcels and shoe repairs."
+   },
+   "everyday": {
+    "uk": "concierge",
+    "us": "concierge",
+    "ex": "You can leave your shoes with the [[concierge]] - they'll be ready by Thursday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to use the concierge service",
+   "everyday errands",
+   "to save employees time"
+  ],
+  "note_fr": "Faux ami : en anglais, « concierge » évoque l'accueil d'un grand hôtel, pas un gardien d'immeuble (« caretaker » UK, « superintendent » US). « Conciergerie » n'existe pas en anglais.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-063",
+  "level": 2,
+  "fr": "joindre le geste à la parole",
+  "term": {
+   "uk": "to walk the talk",
+   "us": "to walk the talk"
+  },
+  "ipa": {
+   "uk": "/tə ˌwɔːk ðə ˈtɔːk/",
+   "us": "/tə ˌwɔːk ðə ˈtɔːk/"
+  },
+  "def": "To act in a way that is consistent with what you say or promise.",
+  "registers": {
+   "formal": {
+    "uk": "to match words with action",
+    "us": "to match words with action",
+    "ex": "Management will be judged on its ability [[to match words with action]]."
+   },
+   "everyday": {
+    "uk": "to walk the talk",
+    "us": "to walk the talk",
+    "ex": "We talk a lot about wellbeing, but are we [[walking the talk]]?"
+   },
+   "informal": {
+    "uk": "to put one's money where one's mouth is",
+    "us": "to put one's money where one's mouth is",
+    "ex": "If they care about wellbeing, they should [[put their money where their mouth is]]."
+   }
+  },
+  "collocations": [
+   "to practise what you preach",
+   "words and deeds",
+   "to lose credibility"
+  ],
+  "note_fr": "« To practise what you preach » (UK) / « practice » (US) a le même sens. « Put your money where your mouth is » = mettre les moyens financiers derrière ses promesses.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-064",
+  "level": 1,
+  "fr": "programme bien-être",
+  "term": {
+   "uk": "wellbeing programme",
+   "us": "wellness program"
+  },
+  "ipa": {
+   "uk": "/ˈwelbiːɪŋ ˌprəʊɡræm/",
+   "us": "/ˈwelnəs ˌproʊɡræm/"
+  },
+  "def": "A set of activities and services offered by an employer to support employees' physical, mental and financial health.",
+  "registers": {
+   "formal": {
+    "uk": "wellbeing programme",
+    "us": "wellness program",
+    "ex": "The [[wellbeing programme]] includes workshops, sports activities and a confidential helpline.",
+    "ex_us": "The [[wellness program]] includes workshops, sports activities and a confidential support line."
+   },
+   "everyday": {
+    "uk": "wellbeing initiatives",
+    "us": "wellness initiatives",
+    "ex": "Fruit bowls are nice, but [[wellbeing initiatives]] won't fix a workload problem.",
+    "ex_us": "Fruit bowls are nice, but [[wellness initiatives]] won't fix a workload problem."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to launch a wellbeing programme",
+   "take-up of the programme",
+   "a wellbeing budget"
+  ],
+  "note_fr": "UK « wellbeing programme », US « wellness program » (souvent lié à l'assurance santé). « Take-up » (UK) / « utilization » (US) = taux d'utilisation. Les salariés jugent ces programmes à l'aune de leur charge de travail réelle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-065",
+  "level": 2,
+  "fr": "ligne d'écoute (psychologique) confidentielle",
+  "term": {
+   "uk": "confidential helpline",
+   "us": "confidential support line"
+  },
+  "ipa": {
+   "uk": "/ˌkɒnfɪˈdenʃl ˈhelplaɪn/",
+   "us": "/ˌkɑːnfəˈdenʃəl səˈpɔːrt laɪn/"
+  },
+  "def": "A free telephone service through which employees can speak in confidence to a trained counsellor or adviser.",
+  "registers": {
+   "formal": {
+    "uk": "confidential helpline",
+    "us": "confidential support line",
+    "ex": "A free, [[confidential helpline]] is available 24 hours a day, seven days a week.",
+    "ex_us": "A free, [[confidential support line]] is available 24 hours a day, seven days a week."
+   },
+   "everyday": {
+    "uk": "someone to talk to",
+    "us": "someone to talk to",
+    "ex": "The main thing is that people know there's [[someone to talk to]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to call the helpline",
+   "a 24/7 helpline",
+   "to speak to a counsellor"
+  ],
+  "note_fr": "Ne confondez pas avec le dispositif d'alerte (« reporting hotline »), qui sert à signaler des manquements. La ligne d'écoute fait souvent partie d'un programme d'aide aux salariés (EAP). « Counsellor » (UK) / « counselor » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-066",
+  "level": 2,
+  "fr": "secouriste en santé mentale",
+  "term": {
+   "uk": "mental health first aider",
+   "us": "mental health first aider"
+  },
+  "ipa": {
+   "uk": "/ˌmentl ˈhelθ ˌfɜːst ˈeɪdə/",
+   "us": "/ˌmentəl ˈhelθ ˌfɜːrst ˈeɪdər/"
+  },
+  "def": "An employee trained to recognise signs of mental distress in colleagues, offer initial support and direct them to professional help.",
+  "registers": {
+   "formal": {
+    "uk": "mental health first aider",
+    "us": "mental health first aider",
+    "ex": "Forty [[mental health first aiders]] have been trained across the network."
+   },
+   "everyday": {
+    "uk": "wellbeing champion",
+    "us": "well-being champion",
+    "ex": "If you're struggling, have a word with your local [[wellbeing champion]].",
+    "ex_us": "If you're struggling, talk to your local [[well-being champion]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to train as a mental health first aider",
+   "to signpost to support",
+   "to look out for colleagues"
+  ],
+  "note_fr": "Le secouriste en santé mentale écoute et oriente ; il ne pose pas de diagnostic et ne remplace ni le médecin du travail ni la prévention des risques psychosociaux.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-067",
+  "level": 3,
+  "fr": "orienter (vers des ressources)",
+  "term": {
+   "uk": "to signpost",
+   "us": "to refer"
+  },
+  "ipa": {
+   "uk": "/tə ˈsaɪnpəʊst/",
+   "us": "/tə rɪˈfɜːr/"
+  },
+  "def": "To direct someone to the service or person that can help them.",
+  "registers": {
+   "formal": {
+    "uk": "to signpost employees to",
+    "us": "to refer employees to",
+    "ex": "Managers are not counsellors; their role is [[to signpost employees to]] appropriate support.",
+    "ex_us": "Managers are not counselors; their role is [[to refer employees to]] appropriate support."
+   },
+   "everyday": {
+    "uk": "to point someone in the right direction",
+    "us": "to point someone in the right direction",
+    "ex": "If you don't know the answer, just [[point them in the right direction]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to signpost to the helpline",
+   "to signpost resources",
+   "to direct someone to"
+  ],
+  "note_fr": "« To signpost » est très britannique ; aux États-Unis on dit plutôt « to refer » ou « to direct someone to ». Rappel utile pour les managers : orienter, ce n'est pas jouer les thérapeutes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-068",
+  "level": 2,
+  "fr": "mesures en faveur de la parentalité",
+  "term": {
+   "uk": "family-friendly policies",
+   "us": "family-friendly policies"
+  },
+  "ipa": {
+   "uk": "/ˌfæməli ˈfrendli ˈpɒləsiz/",
+   "us": "/ˌfæməli ˈfrendli ˈpɑːləsiz/"
+  },
+  "def": "Workplace measures that help employees combine work with bringing up children, such as flexible hours, childcare support or coaching for new parents.",
+  "registers": {
+   "formal": {
+    "uk": "family-friendly policies",
+    "us": "family-friendly policies",
+    "ex": "The Group has strengthened its [[family-friendly policies]], including support for adoptive parents."
+   },
+   "everyday": {
+    "uk": "support for working parents",
+    "us": "support for working parents",
+    "ex": "We're losing good people because there's so little [[support for working parents]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a parenthood charter",
+   "back-to-work coaching",
+   "school-friendly hours"
+  ],
+  "note_fr": "« Parentalité » ne se traduit pas par « parentality » (inexistant) : dites « parenthood » ou « being a working parent ». Les règles de congés relèvent d'un autre thème ; ici, il s'agit d'accompagnement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-069",
+  "level": 2,
+  "fr": "crèche d'entreprise",
+  "term": {
+   "uk": "workplace nursery",
+   "us": "on-site daycare"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːkpleɪs ˈnɜːsəri/",
+   "us": "/ˌɑːnsaɪt ˈdeɪker/"
+  },
+  "def": "A childcare facility provided or reserved by an employer for the young children of its staff.",
+  "registers": {
+   "formal": {
+    "uk": "workplace nursery places",
+    "us": "employer-sponsored child care",
+    "ex": "The company reserves [[workplace nursery places]] for employees' children.",
+    "ex_us": "The company offers [[employer-sponsored child care]] for employees' children."
+   },
+   "everyday": {
+    "uk": "nursery place",
+    "us": "daycare spot",
+    "ex": "She only came back full-time because she got a [[nursery place]].",
+    "ex_us": "She only came back full-time because she got a [[daycare spot]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "childcare support",
+   "to reserve places in a nursery",
+   "a childcare voucher"
+  ],
+  "note_fr": "En anglais britannique, « crèche » désigne surtout la crèche de Noël ! Dites « nursery » (UK) ou « daycare » / « child care » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-070",
+  "level": 2,
+  "fr": "salarié aidant",
+  "term": {
+   "uk": "working carer",
+   "us": "working caregiver"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːkɪŋ ˈkeərə/",
+   "us": "/ˌwɜːrkɪŋ ˈkerɡɪvər/"
+  },
+  "def": "An employee who, alongside their job, looks after a family member or friend who is ill, disabled or elderly.",
+  "registers": {
+   "formal": {
+    "uk": "employee with caring responsibilities",
+    "us": "employee with caregiving responsibilities",
+    "ex": "The guide explains the support available to any [[employee with caring responsibilities]].",
+    "ex_us": "The guide explains the support available to any [[employee with caregiving responsibilities]]."
+   },
+   "everyday": {
+    "uk": "working carer",
+    "us": "working caregiver",
+    "ex": "We had no idea how many [[working carers]] we had until we asked.",
+    "ex_us": "We had no idea how many [[working caregivers]] we had until we asked."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to support working carers",
+   "caring responsibilities",
+   "a carers' network"
+  ],
+  "note_fr": "« Aidant » = « carer » (UK) ou « caregiver » (US). Ne confondez pas avec « care worker » (aide-soignant, auxiliaire de vie), qui est un métier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-071",
+  "level": 2,
+  "fr": "bien-être financier",
+  "term": {
+   "uk": "financial wellbeing",
+   "us": "financial well-being"
+  },
+  "ipa": {
+   "uk": "/faɪˌnænʃl ˈwelbiːɪŋ/",
+   "us": "/fəˌnænʃəl ˌwelˈbiːɪŋ/"
+  },
+  "def": "The extent to which employees feel secure and in control of their money, now and in the future.",
+  "registers": {
+   "formal": {
+    "uk": "financial wellbeing",
+    "us": "financial well-being",
+    "ex": "Our [[financial wellbeing]] programme offers free, confidential guidance on budgeting and debt.",
+    "ex_us": "Our [[financial well-being]] program offers free, confidential guidance on budgeting and debt."
+   },
+   "everyday": {
+    "uk": "money worries",
+    "us": "money worries",
+    "ex": "[[Money worries]] are now the main source of stress mentioned in the survey."
+   },
+   "informal": {
+    "uk": "strapped for cash",
+    "us": "strapped for cash",
+    "ex": "A lot of younger staff are [[strapped for cash]] by the end of the month."
+   }
+  },
+  "collocations": [
+   "financial education",
+   "debt advice",
+   "budgeting workshops"
+  ],
+  "note_fr": "UK « wellbeing » (souvent en un mot), US « well-being ». « Financial education » = éducation financière ; « debt advice » = conseil en cas d'endettement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-072",
+  "level": 2,
+  "fr": "joindre les deux bouts",
+  "term": {
+   "uk": "to make ends meet",
+   "us": "to make ends meet"
+  },
+  "ipa": {
+   "uk": "/tə ˌmeɪk ˌendz ˈmiːt/",
+   "us": "/tə ˌmeɪk ˌendz ˈmiːt/"
+  },
+  "def": "To have just enough money to pay for the things you need.",
+  "registers": {
+   "formal": {
+    "uk": "to meet one's essential living costs",
+    "us": "to meet one's essential living costs",
+    "ex": "Some employees report difficulty [[meeting their essential living costs]]."
+   },
+   "everyday": {
+    "uk": "to make ends meet",
+    "us": "to make ends meet",
+    "ex": "With rents going up, some of our warehouse staff are struggling [[to make ends meet]]."
+   },
+   "informal": {
+    "uk": "to live from payday to payday",
+    "us": "to live paycheck to paycheck",
+    "ex": "Plenty of people [[live from payday to payday]].",
+    "ex_us": "Plenty of people [[live paycheck to paycheck]]."
+   }
+  },
+  "collocations": [
+   "to struggle to make ends meet",
+   "the cost of living",
+   "to be in financial difficulty"
+  ],
+  "note_fr": "Même image qu'en français, avec un verbe différent : « make », pas « join ». « Cost of living » = coût de la vie ; « cost-of-living crisis » est une expression très britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-073",
+  "level": 3,
+  "fr": "budget bien-être individuel (enveloppe à dépenser)",
+  "term": {
+   "uk": "wellbeing allowance",
+   "us": "lifestyle spending account"
+  },
+  "ipa": {
+   "uk": "/ˈwelbiːɪŋ əˌlaʊəns/",
+   "us": "/ˈlaɪfstaɪl ˌspendɪŋ əˌkaʊnt/"
+  },
+  "def": "A sum of money that each employee can spend on approved activities such as sport, relaxation or learning.",
+  "registers": {
+   "formal": {
+    "uk": "wellbeing allowance",
+    "us": "lifestyle spending account",
+    "ex": "Each employee receives an annual [[wellbeing allowance]] of 300 euros for sport or relaxation.",
+    "ex_us": "Each employee gets a [[lifestyle spending account]] worth 300 euros a year for sport or relaxation."
+   },
+   "everyday": {
+    "uk": "wellbeing pot",
+    "us": "LSA",
+    "ex": "I spent my [[wellbeing pot]] on a yoga course.",
+    "ex_us": "I used my [[LSA]] on a yoga class."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to claim against the allowance",
+   "eligible expenses",
+   "to top up the budget"
+  ],
+  "note_fr": "En France, avant de lancer ce type d'avantage, vérifiez son traitement social (cotisations) et son articulation avec les activités sociales et culturelles gérées par le CSE.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-074",
+  "level": 1,
+  "fr": "RSE (responsabilité sociétale des entreprises)",
+  "term": {
+   "uk": "corporate social responsibility",
+   "us": "corporate social responsibility"
+  },
+  "ipa": {
+   "uk": "/ˌkɔːpərət ˌsəʊʃl rɪˌspɒnsəˈbɪləti/",
+   "us": "/ˌkɔːrpərət ˌsoʊʃəl rɪˌspɑːnsəˈbɪləti/"
+  },
+  "def": "A company's commitment to managing the social and environmental effects of its activities and to acting responsibly towards its employees and society.",
+  "registers": {
+   "formal": {
+    "uk": "corporate social responsibility",
+    "us": "corporate social responsibility",
+    "ex": "The Board reviews the Group's [[corporate social responsibility]] strategy every year."
+   },
+   "everyday": {
+    "uk": "CSR",
+    "us": "CSR",
+    "ex": "She's moved from HR into the [[CSR]] team."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a CSR strategy",
+   "CSR commitments",
+   "a CSR report"
+  ],
+  "note_fr": "Dans CSR, « social » renvoie à la société au sens large. Les grandes entreprises parlent de plus en plus de « sustainability » ou d'« ESG ». Sigle prononcé /ˌsiː es ˈɑː/ (UK), /ˌsiː es ˈɑːr/ (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-075",
+  "level": 1,
+  "fr": "développement durable, durabilité",
+  "term": {
+   "uk": "sustainability",
+   "us": "sustainability"
+  },
+  "ipa": {
+   "uk": "/səˌsteɪnəˈbɪləti/",
+   "us": "/səˌsteɪnəˈbɪləti/"
+  },
+  "def": "Acting in a way that meets present needs without harming people, the environment or the ability of future generations to meet their own needs.",
+  "registers": {
+   "formal": {
+    "uk": "sustainability",
+    "us": "sustainability",
+    "ex": "[[Sustainability]] is now a standing item on the executive committee agenda."
+   },
+   "everyday": {
+    "uk": "going green",
+    "us": "going green",
+    "ex": "Staff are keen on [[going green]], but they want to see real changes, not posters."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a sustainability strategy",
+   "sustainability targets",
+   "the Chief Sustainability Officer"
+  ],
+  "note_fr": "« Développement durable » se dit « sustainable development » pour les politiques publiques, mais en entreprise on dit « sustainability ». Faux ami : « durable » en anglais = robuste, résistant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-076",
+  "level": 2,
+  "fr": "critères ESG (environnement, social, gouvernance)",
+  "term": {
+   "uk": "ESG",
+   "us": "ESG"
+  },
+  "ipa": {
+   "uk": "/ˌiː es ˈdʒiː/",
+   "us": "/ˌiː es ˈdʒiː/"
+  },
+  "def": "Environmental, social and governance factors, used by investors and others to assess a company's sustainability and conduct.",
+  "registers": {
+   "formal": {
+    "uk": "environmental, social and governance",
+    "us": "environmental, social and governance",
+    "ex": "Investors increasingly assess companies on [[environmental, social and governance]] criteria."
+   },
+   "everyday": {
+    "uk": "ESG",
+    "us": "ESG",
+    "ex": "Our [[ESG]] rating came up at the investor meeting."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "ESG criteria",
+   "an ESG rating",
+   "ESG data"
+  ],
+  "note_fr": "Le « S » d'ESG couvre les salariés (santé-sécurité, formation, égalité, dialogue social) mais aussi les clients et les communautés. C'est souvent la RH qui fournit ces données.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-077",
+  "level": 3,
+  "fr": "volet social, pilier social (ESG)",
+  "term": {
+   "uk": "social pillar",
+   "us": "social pillar"
+  },
+  "ipa": {
+   "uk": "/ˈsəʊʃl ˌpɪlə/",
+   "us": "/ˈsoʊʃəl ˌpɪlər/"
+  },
+  "def": "The part of a sustainability strategy or report that deals with people: employees, workers in the supply chain, communities and customers.",
+  "registers": {
+   "formal": {
+    "uk": "social pillar",
+    "us": "social pillar",
+    "ex": "Under the [[social pillar]], the Group reports on headcount, training, health and safety and diversity."
+   },
+   "everyday": {
+    "uk": "the S in ESG",
+    "us": "the S in ESG",
+    "ex": "HR owns most of [[the S in ESG]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "social indicators",
+   "the people side",
+   "social performance"
+  ],
+  "note_fr": "« Pillar » est l'usage établi. « Volet social » peut aussi se rendre par « the social dimension » ou, à l'oral, « the people side ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-078",
+  "level": 2,
+  "fr": "reporting de durabilité (extra-financier)",
+  "term": {
+   "uk": "sustainability reporting",
+   "us": "sustainability reporting"
+  },
+  "ipa": {
+   "uk": "/səˌsteɪnəˈbɪləti rɪˌpɔːtɪŋ/",
+   "us": "/səˌsteɪnəˈbɪləti rɪˌpɔːrtɪŋ/"
+  },
+  "def": "The publication by a company of information on its environmental, social and governance performance and impacts.",
+  "registers": {
+   "formal": {
+    "uk": "sustainability reporting",
+    "us": "sustainability reporting",
+    "ex": "[[Sustainability reporting]] requirements now extend to detailed information on the company's own workforce."
+   },
+   "everyday": {
+    "uk": "non-financial reporting",
+    "us": "non-financial reporting",
+    "ex": "Who's pulling together the HR figures for the [[non-financial reporting]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a sustainability report",
+   "workforce disclosures",
+   "to disclose data on"
+  ],
+  "note_fr": "« Extra-financier » se traduit par « non-financial » (terme ancien) ou « sustainability » (terme actuel). « Disclosure » = information publiée, pas « divulgation » au sens négatif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-079",
+  "level": 3,
+  "fr": "CSRD (directive européenne sur le reporting de durabilité)",
+  "term": {
+   "uk": "Corporate Sustainability Reporting Directive",
+   "us": "Corporate Sustainability Reporting Directive"
+  },
+  "ipa": {
+   "uk": "/ˌkɔːpərət səˌsteɪnəˈbɪləti rɪˈpɔːtɪŋ dəˌrektɪv/",
+   "us": "/ˌkɔːrpərət səˌsteɪnəˈbɪləti rɪˈpɔːrtɪŋ dəˌrektɪv/"
+  },
+  "def": "An EU directive requiring certain companies to publish standardised information on sustainability matters, including their own workforce.",
+  "registers": {
+   "formal": {
+    "uk": "Corporate Sustainability Reporting Directive",
+    "us": "Corporate Sustainability Reporting Directive",
+    "ex": "The Group falls within the scope of the [[Corporate Sustainability Reporting Directive]]."
+   },
+   "everyday": {
+    "uk": "CSRD",
+    "us": "CSRD",
+    "ex": "Is the [[CSRD]] going to apply to us, or are we below the thresholds?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fall within the scope of",
+   "reporting standards",
+   "limited assurance"
+  ],
+  "note_fr": "Texte européen : le Royaume-Uni et les États-Unis ont leurs propres régimes. Son champ d'application et son calendrier ont été modifiés depuis son adoption : vérifiez toujours les règles en vigueur avant d'affirmer qu'elle s'applique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-080",
+  "level": 3,
+  "fr": "double matérialité",
+  "term": {
+   "uk": "double materiality",
+   "us": "double materiality"
+  },
+  "ipa": {
+   "uk": "/ˌdʌbl məˌtɪəriˈæləti/",
+   "us": "/ˌdʌbəl məˌtɪriˈæləti/"
+  },
+  "def": "The principle that a sustainability topic must be reported if it has a significant impact on people or the environment, or a significant financial effect on the company, or both.",
+  "registers": {
+   "formal": {
+    "uk": "double materiality assessment",
+    "us": "double materiality assessment",
+    "ex": "The [[double materiality assessment]] identified working conditions as a material topic."
+   },
+   "everyday": {
+    "uk": "double materiality",
+    "us": "double materiality",
+    "ex": "In plain terms, [[double materiality]] means looking at how we affect people and how issues affect us."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a material topic",
+   "impact materiality",
+   "financial materiality"
+  ],
+  "note_fr": "« Material » = significatif, important (faux ami partiel avec « matériel »). Notion clé du reporting européen de durabilité.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-081",
+  "level": 3,
+  "fr": "effectifs propres (personnel de l'entreprise, au sens du reporting)",
+  "term": {
+   "uk": "own workforce",
+   "us": "own workforce"
+  },
+  "ipa": {
+   "uk": "/ˌəʊn ˈwɜːkfɔːs/",
+   "us": "/ˌoʊn ˈwɜːrkfɔːrs/"
+  },
+  "def": "In sustainability reporting, the people who work for the company itself, as opposed to workers employed elsewhere in its value chain.",
+  "registers": {
+   "formal": {
+    "uk": "own workforce",
+    "us": "own workforce",
+    "ex": "Disclosures on the company's [[own workforce]] cover working conditions, equal treatment and other work-related rights."
+   },
+   "everyday": {
+    "uk": "our own people",
+    "us": "our own people",
+    "ex": "Before we talk about suppliers, let's look at [[our own people]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "workers in the value chain",
+   "workforce data",
+   "non-employee workers"
+  ],
+  "note_fr": "Dans le reporting européen, « own workforce » (salariés et certains non-salariés travaillant pour l'entreprise) se distingue de « workers in the value chain » (travailleurs des fournisseurs, sous-traitants, etc.).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-082",
+  "level": 3,
+  "fr": "devoir de vigilance",
+  "term": {
+   "uk": "duty of vigilance",
+   "us": "duty of vigilance"
+  },
+  "ipa": {
+   "uk": "/ˌdjuːti əv ˈvɪdʒɪləns/",
+   "us": "/ˌduːti əv ˈvɪdʒələns/"
+  },
+  "def": "A French legal obligation on large companies to identify and prevent serious harm to human rights, health and safety and the environment arising from their activities and those of their subsidiaries, subcontractors and suppliers.",
+  "registers": {
+   "formal": {
+    "uk": "duty of vigilance",
+    "us": "duty of vigilance",
+    "ex": "The Group's [[duty of vigilance]] extends to subcontractors and suppliers with which it has an established commercial relationship."
+   },
+   "everyday": {
+    "uk": "supply chain responsibility",
+    "us": "supply chain responsibility",
+    "ex": "The board wants a clear answer on [[supply chain responsibility]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to comply with the duty of vigilance",
+   "serious risks to human rights",
+   "established commercial relationships"
+  ],
+  "note_fr": "Loi française de 2017, sans équivalent exact au Royaume-Uni ou aux États-Unis, où l'on parle plutôt de « human rights due diligence ». Une directive européenne sur le devoir de vigilance a depuis été adoptée, avec un calendrier qui a évolué.",
+  "french_concept": true,
+  "explain": {
+   "written": "The French duty of vigilance requires large companies to draw up, publish and implement a plan to identify and prevent serious risks to human rights, health and safety and the environment in their own operations and their supply chains.",
+   "spoken": "It's a French law that makes big groups responsible for checking that their suppliers and subcontractors don't harm people or the environment - and for publishing a plan to show how."
+  }
+ },
+ {
+  "id": "wb-083",
+  "level": 3,
+  "fr": "plan de vigilance",
+  "term": {
+   "uk": "vigilance plan",
+   "us": "vigilance plan"
+  },
+  "ipa": {
+   "uk": "/ˈvɪdʒɪləns plæn/",
+   "us": "/ˈvɪdʒələns plæn/"
+  },
+  "def": "The document that French law requires large companies to publish, setting out how they map, assess and mitigate serious risks to people and the environment.",
+  "registers": {
+   "formal": {
+    "uk": "vigilance plan",
+    "us": "vigilance plan",
+    "ex": "The [[vigilance plan]] includes a risk map, assessment procedures, mitigation measures and an alert mechanism."
+   },
+   "everyday": {
+    "uk": "risk map",
+    "us": "risk map",
+    "ex": "We're updating the [[risk map]] for our logistics subcontractors."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to publish the vigilance plan",
+   "to map risks",
+   "an alert mechanism"
+  ],
+  "note_fr": "Le plan doit aussi rendre compte de sa mise en œuvre effective. La RH y contribue pour les risques liés aux conditions de travail, chez soi et chez les sous-traitants.",
+  "french_concept": true,
+  "explain": {
+   "written": "A vigilance plan is the document French law requires large companies to publish, setting out how they map, assess and mitigate serious risks to human rights, health and safety and the environment, including at their suppliers.",
+   "spoken": "It's the plan you have to publish to show how you spot and deal with human rights and environmental risks, including at your suppliers."
+  }
+ },
+ {
+  "id": "wb-084",
+  "level": 3,
+  "fr": "déclaration sur l'esclavage moderne (Royaume-Uni)",
+  "term": {
+   "uk": "modern slavery statement",
+   "us": "modern slavery statement"
+  },
+  "ipa": {
+   "uk": "/ˌmɒdn ˈsleɪvəri ˌsteɪtmənt/",
+   "us": "/ˌmɑːdərn ˈsleɪvəri ˌsteɪtmənt/"
+  },
+  "def": "A statement that certain organisations operating in the UK must publish each year, describing the steps they have taken to prevent slavery and human trafficking in their business and supply chains.",
+  "registers": {
+   "formal": {
+    "uk": "modern slavery statement",
+    "us": "modern slavery statement",
+    "ex": "Our UK subsidiary publishes an annual [[modern slavery statement]] on its website."
+   },
+   "everyday": {
+    "uk": "slavery statement",
+    "us": "slavery statement",
+    "ex": "Legal want HR's input on the [[slavery statement]] by Friday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to publish a statement",
+   "forced labour",
+   "human trafficking"
+  ],
+  "note_fr": "Obligation britannique (Modern Slavery Act 2015) pour les organisations dépassant un certain seuil de chiffre d'affaires. Pas d'obligation fédérale générale équivalente aux États-Unis. « Forced labour » (UK) / « forced labor » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-085",
+  "level": 2,
+  "fr": "écoblanchiment",
+  "term": {
+   "uk": "greenwashing",
+   "us": "greenwashing"
+  },
+  "ipa": {
+   "uk": "/ˈɡriːnwɒʃɪŋ/",
+   "us": "/ˈɡriːnwɑːʃɪŋ/"
+  },
+  "def": "Making misleading claims about how environmentally or socially responsible an organisation is.",
+  "registers": {
+   "formal": {
+    "uk": "misleading environmental claims",
+    "us": "misleading environmental claims",
+    "ex": "The company must avoid [[misleading environmental claims]] in its reporting."
+   },
+   "everyday": {
+    "uk": "greenwashing",
+    "us": "greenwashing",
+    "ex": "If we publish that without data, it'll look like [[greenwashing]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "social washing",
+   "to be accused of greenwashing",
+   "to back up claims with data"
+  ],
+  "note_fr": "Sur le même modèle : « social washing » ou « purpose-washing » (afficher des engagements sociaux sans les tenir). Les salariés sont souvent les premiers à le dénoncer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-086",
+  "level": 2,
+  "fr": "exercice de pure forme",
+  "term": {
+   "uk": "box-ticking exercise",
+   "us": "check-the-box exercise"
+  },
+  "ipa": {
+   "uk": "/ˈbɒks ˌtɪkɪŋ ˌeksəsaɪz/",
+   "us": "/ˌtʃek ðə ˈbɑːks ˌeksərsaɪz/"
+  },
+  "def": "An activity done only to comply with a rule or appear to do the right thing, without real effect.",
+  "registers": {
+   "formal": {
+    "uk": "formality",
+    "us": "formality",
+    "ex": "The consultation must not be treated as a mere [[formality]]."
+   },
+   "everyday": {
+    "uk": "box-ticking exercise",
+    "us": "check-the-box exercise",
+    "ex": "If the action plan is just a [[box-ticking exercise]], people will see through it.",
+    "ex_us": "If the action plan is just a [[check-the-box exercise]], people will see through it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a tick-box approach",
+   "to go through the motions",
+   "a paper exercise"
+  ],
+  "note_fr": "UK « to tick a box », US « to check a box ». Dans les deux cas, critique d'une démarche formelle sans effet réel. « To go through the motions » = faire le minimum, sans conviction.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-087",
+  "level": 2,
+  "fr": "raison d'être (de l'entreprise)",
+  "term": {
+   "uk": "company purpose",
+   "us": "company purpose"
+  },
+  "ipa": {
+   "uk": "/ˌkʌmpəni ˈpɜːpəs/",
+   "us": "/ˌkʌmpəni ˈpɜːrpəs/"
+  },
+  "def": "A short statement of why a company exists and what it aims to contribute, beyond making a profit.",
+  "registers": {
+   "formal": {
+    "uk": "statement of purpose",
+    "us": "statement of purpose",
+    "ex": "The shareholders approved the inclusion of a [[statement of purpose]] in the articles of association.",
+    "ex_us": "The shareholders approved the inclusion of a [[statement of purpose]] in the articles of incorporation."
+   },
+   "everyday": {
+    "uk": "purpose",
+    "us": "purpose",
+    "ex": "Our [[purpose]] has to mean something on the shop floor, not just in the annual report."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a purpose statement",
+   "purpose-led",
+   "to live our purpose"
+  ],
+  "note_fr": "Depuis la loi PACTE (2019), une société française peut inscrire une « raison d'être » dans ses statuts. En anglais, « raison d'être » s'emploie aussi, mais au sens général de justification d'existence.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-088",
+  "level": 3,
+  "fr": "société à mission",
+  "term": {
+   "uk": "mission-led company",
+   "us": "mission-driven company"
+  },
+  "ipa": {
+   "uk": "/ˈmɪʃn led ˈkʌmpəni/",
+   "us": "/ˈmɪʃən ˌdrɪvn ˈkʌmpəni/"
+  },
+  "def": "A French company that has written a purpose and specific social and environmental objectives into its articles, with a body to monitor them.",
+  "registers": {
+   "formal": {
+    "uk": "mission-led company",
+    "us": "mission-driven company",
+    "ex": "In 2024 the shareholders voted to become a [[mission-led company]].",
+    "ex_us": "In 2024 the shareholders voted to become a [[mission-driven company]]."
+   },
+   "everyday": {
+    "uk": "purpose-driven business",
+    "us": "purpose-driven business",
+    "ex": "We like to think of ourselves as a [[purpose-driven business]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a mission committee",
+   "independent verification",
+   "social and environmental objectives"
+  ],
+  "note_fr": "Statut juridique français (loi PACTE) proche, sans être identique, de la « public benefit corporation » américaine. La certification « B Corp » est un label privé, pas un statut juridique.",
+  "french_concept": true,
+  "explain": {
+   "written": "A société à mission is a French company that has written its purpose and specific social and environmental objectives into its articles, with a mission committee and independent verification of progress.",
+   "spoken": "It's a legal status in France: the company commits in its articles to social and environmental goals, and someone independent checks whether it delivers."
+  }
+ },
+ {
+  "id": "wb-089",
+  "level": 1,
+  "fr": "journée de bénévolat (solidaire)",
+  "term": {
+   "uk": "volunteering day",
+   "us": "volunteer day"
+  },
+  "ipa": {
+   "uk": "/ˌvɒlənˈtɪərɪŋ deɪ/",
+   "us": "/ˌvɑːlənˈtɪrɪŋ deɪ/"
+  },
+  "def": "A working day that an employee spends, with the employer's agreement, helping a charity or community project.",
+  "registers": {
+   "formal": {
+    "uk": "paid volunteering day",
+    "us": "paid volunteer day",
+    "ex": "Every employee may take two [[paid volunteering days]] a year.",
+    "ex_us": "Every employee may take two [[paid volunteer days]] a year."
+   },
+   "everyday": {
+    "uk": "volunteering day",
+    "us": "volunteer day",
+    "ex": "Our team spent its [[volunteering day]] renovating a youth centre.",
+    "ex_us": "Our team spent its [[volunteer day]] renovating a youth center."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign up for a volunteering day",
+   "a team volunteering day",
+   "to volunteer with a local charity"
+  ],
+  "note_fr": "« Bénévolat » = « volunteering » ; « bénévole » = « volunteer ». Mais « volontariat » au sens RH (se porter volontaire pour un départ) se dit aussi « volunteer » : précisez le contexte.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-090",
+  "level": 3,
+  "fr": "mécénat de compétences",
+  "term": {
+   "uk": "skills-based volunteering",
+   "us": "skills-based volunteering"
+  },
+  "ipa": {
+   "uk": "/ˌskɪlz beɪst ˌvɒlənˈtɪərɪŋ/",
+   "us": "/ˌskɪlz beɪst ˌvɑːlənˈtɪrɪŋ/"
+  },
+  "def": "An arrangement in which employees use their professional skills, during working time, to help a charity or public-interest organisation.",
+  "registers": {
+   "formal": {
+    "uk": "skills-based volunteering",
+    "us": "skills-based volunteering",
+    "ex": "Through [[skills-based volunteering]], employees advise local charities during working hours.",
+    "ex_us": "Through [[skills-based volunteering]], employees advise local nonprofits during working hours."
+   },
+   "everyday": {
+    "uk": "pro bono work",
+    "us": "pro bono work",
+    "ex": "Our finance team does a fair amount of [[pro bono work]] for the food bank."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a skills-based volunteering programme",
+   "to second an employee to a charity",
+   "a public-interest organisation"
+  ],
+  "note_fr": "En France, le mécénat de compétences (mise à disposition de salariés au profit d'un organisme d'intérêt général) peut ouvrir droit à une réduction d'impôt. Faux ami : « patronage » signifie favoritisme ou clientèle, pas mécénat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-091",
+  "level": 2,
+  "fr": "engagement local, ancrage territorial",
+  "term": {
+   "uk": "community engagement",
+   "us": "community engagement"
+  },
+  "ipa": {
+   "uk": "/kəˈmjuːnəti ɪnˌɡeɪdʒmənt/",
+   "us": "/kəˈmjuːnəti ɪnˌɡeɪdʒmənt/"
+  },
+  "def": "The ways in which a company contributes to and builds relationships with the local communities where it operates.",
+  "registers": {
+   "formal": {
+    "uk": "community engagement",
+    "us": "community engagement",
+    "ex": "Our [[community engagement]] policy focuses on education and employment in the areas where we operate."
+   },
+   "everyday": {
+    "uk": "to give back",
+    "us": "to give back",
+    "ex": "People want [[to give back]] to the town where we've been based for fifty years."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "local roots",
+   "to partner with local schools",
+   "community investment"
+  ],
+  "note_fr": "« Ancrage territorial » n'a pas d'équivalent direct ; parlez de « local roots » ou de « community engagement ». « Community » désigne ici la population locale, pas une communauté au sens identitaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-092",
+  "level": 1,
+  "fr": "collecter des fonds pour une association",
+  "term": {
+   "uk": "to raise money for charity",
+   "us": "to raise money for charity"
+  },
+  "ipa": {
+   "uk": "/tə ˌreɪz ˈmʌni fə ˈtʃærəti/",
+   "us": "/tə ˌreɪz ˈmʌni fər ˈtʃerəti/"
+  },
+  "def": "To collect money, for example through a sponsored event, and give it to a charitable organisation.",
+  "registers": {
+   "formal": {
+    "uk": "to raise funds for",
+    "us": "to raise funds for",
+    "ex": "The event [[raised funds for]] three local charities.",
+    "ex_us": "The event [[raised funds for]] three local nonprofits."
+   },
+   "everyday": {
+    "uk": "to raise money for charity",
+    "us": "to raise money for charity",
+    "ex": "The Paris office ran a half-marathon [[to raise money for charity]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a fundraising event",
+   "a sponsored run",
+   "to match the amount raised"
+  ],
+  "note_fr": "Une association (loi de 1901) se dit « charity » (UK) ou « nonprofit » (US) ; « association » évoque plutôt un groupement professionnel. « To raise » = collecter (des fonds).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-093",
+  "level": 3,
+  "fr": "don sur salaire, arrondi sur salaire",
+  "term": {
+   "uk": "payroll giving",
+   "us": "workplace giving"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl ˌɡɪvɪŋ/",
+   "us": "/ˈwɜːrkpleɪs ˌɡɪvɪŋ/"
+  },
+  "def": "A scheme that allows employees to give regularly to charity through deductions from their pay.",
+  "registers": {
+   "formal": {
+    "uk": "payroll giving scheme",
+    "us": "workplace giving program",
+    "ex": "Employees can donate through the [[payroll giving scheme]].",
+    "ex_us": "Employees can donate through the [[workplace giving program]]."
+   },
+   "everyday": {
+    "uk": "to give through payroll",
+    "us": "to give through payroll",
+    "ex": "You can [[give through payroll]] - it comes straight out of your pay."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign up to payroll giving",
+   "a monthly donation",
+   "the employer match"
+  ],
+  "note_fr": "En France, l'arrondi sur salaire permet de donner quelques centimes ou euros par mois. Au Royaume-Uni, le « payroll giving » bénéficie d'un régime fiscal propre ; aux États-Unis, on parle de « workplace giving ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-094",
+  "level": 1,
+  "fr": "sensibiliser",
+  "term": {
+   "uk": "to raise awareness",
+   "us": "to raise awareness"
+  },
+  "ipa": {
+   "uk": "/tə ˌreɪz əˈweənəs/",
+   "us": "/tə ˌreɪz əˈwernəs/"
+  },
+  "def": "To help people know more about a subject and understand why it matters.",
+  "registers": {
+   "formal": {
+    "uk": "to raise awareness",
+    "us": "to raise awareness",
+    "ex": "The campaign aims [[to raise awareness]] of the support available to working carers."
+   },
+   "everyday": {
+    "uk": "to get the word out",
+    "us": "to get the word out",
+    "ex": "We need [[to get the word out]] that the helpline exists."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an awareness campaign",
+   "an awareness week",
+   "to raise awareness of"
+  ],
+  "note_fr": "« Sensibiliser à » = « to raise awareness of » ; « to sensitise » ne s'emploie pas dans ce sens. « Awareness week » = semaine de sensibilisation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-095",
+  "level": 2,
+  "fr": "réseau interne de salariés (ERG)",
+  "term": {
+   "uk": "staff network",
+   "us": "employee resource group"
+  },
+  "ipa": {
+   "uk": "/ˈstɑːf ˌnetwɜːk/",
+   "us": "/ɪmˌplɔɪiː rɪˈsɔːrs ɡruːp/"
+  },
+  "def": "A voluntary group of employees who share a characteristic or interest, such as parents, women in engineering or LGBT+ staff, and support each other at work.",
+  "registers": {
+   "formal": {
+    "uk": "employee network",
+    "us": "employee resource group",
+    "ex": "The women's [[employee network]] now has members in twelve countries.",
+    "ex_us": "The women's [[employee resource group]] now has members in twelve countries."
+   },
+   "everyday": {
+    "uk": "staff network",
+    "us": "ERG",
+    "ex": "She co-chairs the LGBT+ [[staff network]].",
+    "ex_us": "She co-chairs the LGBTQ+ [[ERG]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to join a network",
+   "an executive sponsor",
+   "to co-chair a network"
+  ],
+  "note_fr": "Aux États-Unis, « ERG » est le terme établi ; au Royaume-Uni, « staff network » ou « employee network ». Ces réseaux naissent de l'initiative des salariés, avec le soutien de la direction.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-096",
+  "level": 2,
+  "fr": "langage inclusif",
+  "term": {
+   "uk": "inclusive language",
+   "us": "inclusive language"
+  },
+  "ipa": {
+   "uk": "/ɪnˌkluːsɪv ˈlæŋɡwɪdʒ/",
+   "us": "/ɪnˌkluːsɪv ˈlæŋɡwɪdʒ/"
+  },
+  "def": "Wording that avoids excluding or stereotyping people, for example by using gender-neutral terms.",
+  "registers": {
+   "formal": {
+    "uk": "inclusive language",
+    "us": "inclusive language",
+    "ex": "The communications guide recommends [[inclusive language]] in all internal materials."
+   },
+   "everyday": {
+    "uk": "gender-neutral wording",
+    "us": "gender-neutral wording",
+    "ex": "We've switched to [[gender-neutral wording]] in the intranet templates."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to use inclusive language",
+   "the singular 'they'",
+   "a style guide"
+  ],
+  "note_fr": "« Inclusive language » ne correspond pas à l'« écriture inclusive » française (point médian) : en anglais, il s'agit surtout de formulations neutres (« they », « chair », « staff ») et de termes non stigmatisants.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-097",
+  "level": 1,
+  "fr": "célébrer les réussites",
+  "term": {
+   "uk": "to celebrate successes",
+   "us": "to celebrate successes"
+  },
+  "ipa": {
+   "uk": "/tə ˌseləbreɪt səkˈsesɪz/",
+   "us": "/tə ˌseləbreɪt səkˈsesəz/"
+  },
+  "def": "To mark achievements, large or small, so that people feel their work is recognised.",
+  "registers": {
+   "formal": {
+    "uk": "to celebrate successes",
+    "us": "to celebrate successes",
+    "ex": "It is important [[to celebrate successes]], however small."
+   },
+   "everyday": {
+    "uk": "to celebrate wins",
+    "us": "to celebrate wins",
+    "ex": "We [[celebrate wins]] every Friday on the team channel."
+   },
+   "informal": {
+    "uk": "a pat on the back",
+    "us": "a pat on the back",
+    "ex": "The whole team deserves [[a pat on the back]]."
+   }
+  },
+  "collocations": [
+   "to celebrate milestones",
+   "a quick win",
+   "to mark an achievement"
+  ],
+  "note_fr": "« Wins » (succès) est très courant à l'oral, surtout aux États-Unis. « Success » est dénombrable quand on parle de réussites concrètes : « two big successes ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-098",
+  "level": 1,
+  "fr": "soirée de fin d'année",
+  "term": {
+   "uk": "office Christmas party",
+   "us": "holiday party"
+  },
+  "ipa": {
+   "uk": "/ˌɒfɪs ˈkrɪsməs ˌpɑːti/",
+   "us": "/ˈhɑːlədeɪ ˌpɑːrti/"
+  },
+  "def": "A party organised by the employer for staff at the end of the year.",
+  "registers": {
+   "formal": {
+    "uk": "end-of-year celebration",
+    "us": "end-of-year celebration",
+    "ex": "The [[end-of-year celebration]] will take place on 12 December.",
+    "ex_us": "The [[end-of-year celebration]] will take place on December 12."
+   },
+   "everyday": {
+    "uk": "Christmas party",
+    "us": "holiday party",
+    "ex": "Are you going to the [[Christmas party]]?",
+    "ex_us": "Are you going to the [[holiday party]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the office party",
+   "a seasonal celebration",
+   "to organise the party"
+  ],
+  "note_fr": "Aux États-Unis, « holiday party » est la forme inclusive usuelle. Rappel utile : les règles de comportement au travail s'appliquent aussi aux soirées d'entreprise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-099",
+  "level": 2,
+  "fr": "politique de la porte ouverte",
+  "term": {
+   "uk": "open-door policy",
+   "us": "open-door policy"
+  },
+  "ipa": {
+   "uk": "/ˌəʊpən ˈdɔː ˌpɒləsi/",
+   "us": "/ˌoʊpən ˈdɔːr ˌpɑːləsi/"
+  },
+  "def": "A practice by which managers invite employees to come and talk to them at any time about any issue.",
+  "registers": {
+   "formal": {
+    "uk": "open-door policy",
+    "us": "open-door policy",
+    "ex": "Under our [[open-door policy]], employees may raise any matter directly with senior management."
+   },
+   "everyday": {
+    "uk": "my door is always open",
+    "us": "my door is always open",
+    "ex": "As I always say, [[my door is always open]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have an open-door policy",
+   "to drop by",
+   "to raise an issue informally"
+  ],
+  "note_fr": "Formule très répandue, parfois moquée si elle n'est pas suivie d'effet. Elle ne remplace ni les instances représentatives ni les procédures formelles de réclamation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "wb-100",
+  "level": 1,
+  "fr": "afterwork, pot entre collègues",
+  "term": {
+   "uk": "after-work drinks",
+   "us": "happy hour"
+  },
+  "ipa": {
+   "uk": "/ˌɑːftə wɜːk ˈdrɪŋks/",
+   "us": "/ˈhæpi ˌaʊər/"
+  },
+  "def": "An informal gathering of colleagues for a drink after the working day.",
+  "registers": {
+   "formal": {
+    "uk": "informal social gathering",
+    "us": "informal social gathering",
+    "ex": "An [[informal social gathering]] will follow the meeting."
+   },
+   "everyday": {
+    "uk": "after-work drinks",
+    "us": "happy hour",
+    "ex": "Are you coming to [[after-work drinks]] on Thursday?",
+    "ex_us": "Are you coming to [[happy hour]] on Thursday?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to organise drinks",
+   "a team social",
+   "alcohol-free options"
+  ],
+  "note_fr": "« Un afterwork » n'existe pas en anglais : dites « after-work drinks » (UK) ou « happy hour » (US). Pensez aux options sans alcool, de plus en plus attendues.",
+  "french_concept": false,
+  "explain": null
+ }
+]
