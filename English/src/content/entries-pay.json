@@ -1,0 +1,3753 @@
+[
+ {
+  "id": "py-001",
+  "level": 1,
+  "fr": "salaire",
+  "term": {
+   "uk": "salary",
+   "us": "salary"
+  },
+  "ipa": {
+   "uk": "/ˈsæləri/",
+   "us": "/ˈsæləri/"
+  },
+  "def": "A fixed amount of money paid regularly to an employee, usually expressed as a yearly figure and paid monthly.",
+  "registers": {
+   "formal": {
+    "uk": "salary",
+    "us": "salary",
+    "ex": "The Employee shall receive a gross annual [[salary]] of EUR 52,000, payable in twelve equal monthly instalments.",
+    "ex_us": "The Employee shall receive a gross annual [[salary]] of EUR 52,000, payable in twelve equal monthly installments."
+   },
+   "everyday": {
+    "uk": "pay",
+    "us": "pay",
+    "ex": "The [[pay]] is decent, but it's the flexibility that made me say yes."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on a salary of",
+   "a starting salary",
+   "a salary in the region of",
+   "to draw a salary"
+  ],
+  "note_fr": "En anglais, on annonce presque toujours le salaire en brut annuel, pas en net mensuel comme en France. « Pay » est indénombrable : jamais « a pay » ni « pays ». Au Royaume-Uni on dit « she's on 45k », aux États-Unis « she makes 45k ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-002",
+  "level": 1,
+  "fr": "salaire (payé à l'heure ou à la semaine) / paie ouvrière",
+  "term": {
+   "uk": "wages",
+   "us": "wages"
+  },
+  "ipa": {
+   "uk": "/ˈweɪdʒɪz/",
+   "us": "/ˈweɪdʒɪz/"
+  },
+  "def": "Money paid to a worker according to the hours or days worked, typically weekly, as opposed to a fixed monthly salary.",
+  "registers": {
+   "formal": {
+    "uk": "wages",
+    "us": "wages",
+    "ex": "[[Wages]] shall be paid weekly in arrears by bank transfer."
+   },
+   "everyday": {
+    "uk": "pay",
+    "us": "pay",
+    "ex": "The [[pay]] goes into my account every Friday."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "hourly wages",
+   "a wage earner",
+   "wage growth",
+   "to pay a decent wage"
+  ],
+  "note_fr": "« Salary » = rémunération fixe des salariés mensualisés (cadres, employés) ; « wages » = paie calculée à l'heure ou à la semaine. Le singulier « wage » s'emploie surtout en composé : « minimum wage », « wage bill ». Ne traduisez pas systématiquement « salaire » par « salary ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-003",
+  "level": 1,
+  "fr": "salaire brut",
+  "term": {
+   "uk": "gross salary",
+   "us": "gross salary"
+  },
+  "ipa": {
+   "uk": "/ɡrəʊs ˈsæləri/",
+   "us": "/ɡroʊs ˈsæləri/"
+  },
+  "def": "The salary before income tax and employee social security contributions are deducted.",
+  "registers": {
+   "formal": {
+    "uk": "gross salary",
+    "us": "gross salary",
+    "ex": "All amounts stated in this Agreement are [[gross salary]] figures, before statutory deductions."
+   },
+   "everyday": {
+    "uk": "before tax",
+    "us": "before taxes",
+    "ex": "That's 3,800 a month [[before tax]], so expect a bit under 3,000 in your account.",
+    "ex_us": "That's 3,800 a month [[before taxes]], so expect a bit under 3,000 in your account."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "gross annual salary",
+   "gross monthly pay",
+   "to gross up a payment"
+  ],
+  "note_fr": "« Gross » se prononce avec une diphtongue, comme « close », et non comme « boss ». Ne dites jamais « brut salary ». Attention : en France « brut » et « avant impôt » ne coïncident pas (il existe un net avant impôt), alors que « before tax » recouvre en pratique toutes les retenues.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-004",
+  "level": 1,
+  "fr": "salaire net / net à payer",
+  "term": {
+   "uk": "net pay",
+   "us": "net pay"
+  },
+  "ipa": {
+   "uk": "/net peɪ/",
+   "us": "/net peɪ/"
+  },
+  "def": "The amount an employee actually receives once tax and contributions have been deducted.",
+  "registers": {
+   "formal": {
+    "uk": "net pay",
+    "us": "net pay",
+    "ex": "The Employee's [[net pay]] will vary according to the contribution rates in force."
+   },
+   "everyday": {
+    "uk": "take-home pay",
+    "us": "take-home pay",
+    "ex": "With the new pension contribution, my [[take-home pay]] has gone down slightly."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "net of tax",
+   "net of contributions",
+   "what you take home"
+  ],
+  "note_fr": "« Take-home pay » est l'expression naturelle à l'oral ; « net salary » se comprend mais s'entend moins. Un Britannique ou un Américain raisonne en brut : précisez toujours « net » quand vous annoncez un chiffre à la française.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-005",
+  "level": 1,
+  "fr": "bulletin de paie / fiche de paie",
+  "term": {
+   "uk": "payslip",
+   "us": "pay stub"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪslɪp/",
+   "us": "/ˈpeɪ stʌb/"
+  },
+  "def": "The document given to an employee each pay period showing gross pay, deductions and net pay.",
+  "registers": {
+   "formal": {
+    "uk": "itemised pay statement",
+    "us": "pay statement",
+    "ex": "The Employer shall provide an [[itemised pay statement]] on or before each payment date.",
+    "ex_us": "The Employer shall provide a [[pay statement]] on or before each payment date."
+   },
+   "everyday": {
+    "uk": "payslip",
+    "us": "pay stub",
+    "ex": "Could you send me your last three [[payslips]]? The bank needs them for the mortgage.",
+    "ex_us": "Could you send me your last three [[pay stubs]]? The bank needs them for the mortgage."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a payslip",
+   "to query a payslip",
+   "an online payslip"
+  ],
+  "note_fr": "Ne dites pas « pay sheet » ni « salary bulletin ». Le bulletin français, très détaillé, surprend les anglophones : un payslip britannique tient en quelques lignes. Au Royaume-Uni, le droit à un « itemised pay statement » est légal ; aux États-Unis, l'obligation dépend de chaque État.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-006",
+  "level": 1,
+  "fr": "la paie (service, traitement, registre)",
+  "term": {
+   "uk": "payroll",
+   "us": "payroll"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl/",
+   "us": "/ˈpeɪroʊl/"
+  },
+  "def": "The process of calculating and paying employees' wages, or the list of people a company pays.",
+  "registers": {
+   "formal": {
+    "uk": "payroll",
+    "us": "payroll",
+    "ex": "Any change to bank details must be notified to [[payroll]] before the 10th of the month."
+   },
+   "everyday": {
+    "uk": "payroll",
+    "us": "payroll",
+    "ex": "I'll check with [[payroll]] and get back to you this afternoon."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on the payroll",
+   "the payroll department",
+   "a payroll provider",
+   "payroll cut-off"
+  ],
+  "note_fr": "« To be on the payroll » = faire partie des effectifs salariés. « Payroll » désigne aussi le service : on dit « ask payroll », sans article. Ne confondez pas avec « payslip » (le bulletin) ni avec « wage bill » (la masse salariale).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-007",
+  "level": 1,
+  "fr": "établir la paie / faire tourner la paie",
+  "term": {
+   "uk": "to run payroll",
+   "us": "to run payroll"
+  },
+  "ipa": {
+   "uk": "/tə rʌn ˈpeɪrəʊl/",
+   "us": "/tə rʌn ˈpeɪroʊl/"
+  },
+  "def": "To carry out the monthly or weekly calculation and payment of employees' pay.",
+  "registers": {
+   "formal": {
+    "uk": "to process payroll",
+    "us": "to process payroll",
+    "ex": "The Provider shall [[process payroll]] on the Client's behalf on a monthly basis."
+   },
+   "everyday": {
+    "uk": "to run payroll",
+    "us": "to run payroll",
+    "ex": "We [[run payroll]] on the 25th, so anything after the 15th goes into next month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to outsource payroll",
+   "a payroll run",
+   "to miss the payroll cut-off"
+  ],
+  "note_fr": "On ne dit pas « to make the payroll » dans ce sens : « to make payroll » (surtout US) signifie avoir assez de trésorerie pour payer les salaires. Le calque « to establish the pay » n'existe pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-008",
+  "level": 1,
+  "fr": "salaire minimum",
+  "term": {
+   "uk": "minimum wage",
+   "us": "minimum wage"
+  },
+  "ipa": {
+   "uk": "/ˈmɪnɪməm weɪdʒ/",
+   "us": "/ˈmɪnɪməm weɪdʒ/"
+  },
+  "def": "The lowest hourly pay that an employer is legally allowed to give a worker.",
+  "registers": {
+   "formal": {
+    "uk": "statutory minimum wage",
+    "us": "statutory minimum wage",
+    "ex": "No employee shall be paid less than the [[statutory minimum wage]] applicable from time to time."
+   },
+   "everyday": {
+    "uk": "minimum wage",
+    "us": "minimum wage",
+    "ex": "Most of the seasonal staff are on [[minimum wage]].",
+    "ex_us": "Most of the seasonal staff make [[minimum wage]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be on minimum wage",
+   "to raise the minimum wage",
+   "a minimum-wage job",
+   "the National Living Wage"
+  ],
+  "note_fr": "Royaume-Uni : « National Minimum Wage » et, pour les adultes, « National Living Wage », avec des taux selon l'âge. États-Unis : un minimum fédéral, que les États et certaines villes peuvent dépasser. On dit « to be on minimum wage » (UK) ou « to make minimum wage » (US), sans article.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-009",
+  "level": 1,
+  "fr": "SMIC",
+  "term": {
+   "uk": "French statutory minimum wage",
+   "us": "French statutory minimum wage"
+  },
+  "ipa": {
+   "uk": "/frentʃ ˈstætʃʊt(ə)ri ˈmɪnɪməm weɪdʒ/",
+   "us": "/frentʃ ˈstætʃətɔːri ˈmɪnɪməm weɪdʒ/"
+  },
+  "def": "The national minimum hourly wage in France, which applies to almost all employees and is adjusted automatically in line with inflation.",
+  "registers": {
+   "formal": {
+    "uk": "the French statutory minimum wage (SMIC)",
+    "us": "the French statutory minimum wage (SMIC)",
+    "ex": "The basic salary may not fall below [[the French statutory minimum wage (SMIC)]] for the hours actually worked."
+   },
+   "everyday": {
+    "uk": "the French minimum wage",
+    "us": "the French minimum wage",
+    "ex": "Anyone paid close to [[the French minimum wage]] gets an automatic increase when it goes up."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be paid at the SMIC",
+   "a multiple of the SMIC",
+   "to be indexed to inflation"
+  ],
+  "note_fr": "Le sigle seul ne dit rien à un anglophone : glosez-le à la première occurrence. Particularité à expliquer : le SMIC est revalorisé automatiquement en fonction de l'inflation, et de nombreux seuils (allègements de cotisations notamment) s'expriment en multiples du SMIC.",
+  "french_concept": true,
+  "explain": {
+   "written": "The SMIC (salaire minimum interprofessionnel de croissance) is the French statutory minimum hourly wage; it applies across all sectors and is uprated automatically by reference to inflation.",
+   "spoken": "The SMIC is the French minimum wage - one national hourly rate, and it goes up automatically when prices rise."
+  }
+ },
+ {
+  "id": "py-010",
+  "level": 1,
+  "fr": "cotisations sociales",
+  "term": {
+   "uk": "social security contributions",
+   "us": "payroll taxes"
+  },
+  "ipa": {
+   "uk": "/ˈsəʊʃ(ə)l sɪˈkjʊərəti ˌkɒntrɪˈbjuːʃ(ə)nz/",
+   "us": "/ˈpeɪroʊl ˈtæksɪz/"
+  },
+  "def": "Compulsory payments made by employers and employees to fund health cover, pensions, unemployment insurance and other social protection.",
+  "registers": {
+   "formal": {
+    "uk": "social security contributions",
+    "us": "social security contributions",
+    "ex": "The remuneration is stated gross and is subject to [[social security contributions]] at the rates in force."
+   },
+   "everyday": {
+    "uk": "National Insurance",
+    "us": "payroll taxes",
+    "ex": "Once you take off tax and [[National Insurance]], it's not quite as generous as it sounds.",
+    "ex_us": "Once you take off income tax and [[payroll taxes]], it's not quite as generous as it sounds."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay contributions on",
+   "to be subject to contributions",
+   "exempt from contributions",
+   "contribution rates"
+  ],
+  "note_fr": "Faux ami : « social charges » est un calque que les anglophones comprennent mal ; dites « social security contributions ». Équivalents : « National Insurance contributions (NICs) » au Royaume-Uni, « payroll taxes » ou « FICA » aux États-Unis. Prévenez vos interlocuteurs que les taux français sont nettement plus élevés.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-011",
+  "level": 1,
+  "fr": "retenue sur salaire",
+  "term": {
+   "uk": "deduction",
+   "us": "deduction"
+  },
+  "ipa": {
+   "uk": "/dɪˈdʌkʃ(ə)n/",
+   "us": "/dɪˈdʌkʃ(ə)n/"
+  },
+  "def": "An amount taken out of an employee's gross pay, for example for tax, contributions or a benefit.",
+  "registers": {
+   "formal": {
+    "uk": "deduction from wages",
+    "us": "deduction from wages",
+    "ex": "No [[deduction from wages]] shall be made unless it is required by law or authorised in writing by the Employee.",
+    "ex_us": "No [[deduction from wages]] shall be made unless it is required by law or authorized in writing by the Employee."
+   },
+   "everyday": {
+    "uk": "to take off",
+    "us": "to take out",
+    "ex": "They [[take off]] about 22% before it reaches your account.",
+    "ex_us": "They [[take out]] about 22% before it reaches your account."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "statutory deductions",
+   "to deduct from pay",
+   "an unlawful deduction",
+   "before deductions"
+  ],
+  "note_fr": "« To deduct something FROM pay » ; le calque « to retain on salary » est incorrect. Dans les trois pays, l'employeur ne peut pas opérer librement des retenues : en France les sanctions pécuniaires sont interdites, et au Royaume-Uni une « unlawful deduction from wages » peut être contestée devant l'employment tribunal.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-012",
+  "level": 1,
+  "fr": "impôt sur le revenu",
+  "term": {
+   "uk": "income tax",
+   "us": "income tax"
+  },
+  "ipa": {
+   "uk": "/ˈɪnkʌm tæks/",
+   "us": "/ˈɪnkʌm tæks/"
+  },
+  "def": "Tax paid to the state on the money a person earns.",
+  "registers": {
+   "formal": {
+    "uk": "income tax",
+    "us": "income tax",
+    "ex": "The Employer shall deduct [[income tax]] at source in accordance with the rate notified by the tax authorities."
+   },
+   "everyday": {
+    "uk": "tax",
+    "us": "taxes",
+    "ex": "How much do you actually keep after [[tax]]?",
+    "ex_us": "How much do you actually keep after [[taxes]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be liable to income tax",
+   "a tax bracket",
+   "the tax year",
+   "to file a tax return"
+  ],
+  "note_fr": "On dit « after tax » (UK, singulier) mais « after taxes » (US). « Tax bracket » = tranche d'imposition. Le « tax year » britannique court d'avril à avril, ce qui surprend toujours : vérifiez de quelle année on parle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-013",
+  "level": 1,
+  "fr": "prime",
+  "term": {
+   "uk": "bonus",
+   "us": "bonus"
+  },
+  "ipa": {
+   "uk": "/ˈbəʊnəs/",
+   "us": "/ˈboʊnəs/"
+  },
+  "def": "An extra payment on top of salary, usually linked to results, a special occasion or a particular constraint of the job.",
+  "registers": {
+   "formal": {
+    "uk": "bonus payment",
+    "us": "bonus payment",
+    "ex": "Any [[bonus payment]] shall be made with the March salary, subject to the Employee being in employment on that date."
+   },
+   "everyday": {
+    "uk": "bonus",
+    "us": "bonus",
+    "ex": "Did you get your [[bonus]] this year, or has it been pushed back again?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay out a bonus",
+   "to be eligible for a bonus",
+   "an annual bonus",
+   "a bonus scheme"
+  ],
+  "note_fr": "Faux ami majeur : « prime » ne signifie pas prime, et « premium » désigne une majoration ou une cotisation d'assurance. Pour les primes liées à une sujétion (panier, transport, astreinte), l'anglais dit plutôt « allowance ». Pluriel : « bonuses ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-014",
+  "level": 1,
+  "fr": "commission",
+  "term": {
+   "uk": "commission",
+   "us": "commission"
+  },
+  "ipa": {
+   "uk": "/kəˈmɪʃ(ə)n/",
+   "us": "/kəˈmɪʃ(ə)n/"
+  },
+  "def": "Pay calculated as a percentage of the sales an employee makes.",
+  "registers": {
+   "formal": {
+    "uk": "commission",
+    "us": "commission",
+    "ex": "[[Commission]] shall be calculated on invoiced sales net of VAT and paid quarterly."
+   },
+   "everyday": {
+    "uk": "commission",
+    "us": "commission",
+    "ex": "Half of what the sales team earns is [[commission]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be paid on commission",
+   "to earn commission on sales",
+   "a commission plan",
+   "commission-only"
+  ],
+  "note_fr": "Indénombrable dans ce sens : « she earns commission », plutôt que « commissions » (plus fréquent aux États-Unis). « On commission » = à la commission. « Commission-only » = sans fixe, ce qui est très encadré en France puisque le SMIC reste dû.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-015",
+  "level": 1,
+  "fr": "augmentation de salaire",
+  "term": {
+   "uk": "pay rise",
+   "us": "raise"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪ raɪz/",
+   "us": "/reɪz/"
+  },
+  "def": "An increase in the amount an employee is paid.",
+  "registers": {
+   "formal": {
+    "uk": "salary increase",
+    "us": "salary increase",
+    "ex": "A [[salary increase]] of 3% will take effect on 1 April.",
+    "ex_us": "A [[salary increase]] of 3% will take effect on April 1."
+   },
+   "everyday": {
+    "uk": "pay rise",
+    "us": "raise",
+    "ex": "I'm going to ask for a [[pay rise]] at my review next month.",
+    "ex_us": "I'm going to ask for a [[raise]] at my review next month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to ask for a pay rise",
+   "to award a pay rise",
+   "an above-inflation pay rise",
+   "to turn down a pay rise"
+  ],
+  "note_fr": "UK : « a pay rise » ; US : « a raise ». Un Britannique ne dit pas « a raise », un Américain ne dit pas « a rise ». « Augmentation » se comprend mais n'est pas idiomatique ; « increase » est le terme neutre de l'écrit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-016",
+  "level": 1,
+  "fr": "rémunération des heures supplémentaires",
+  "term": {
+   "uk": "overtime pay",
+   "us": "overtime pay"
+  },
+  "ipa": {
+   "uk": "/ˈəʊvətaɪm peɪ/",
+   "us": "/ˈoʊvərtaɪm peɪ/"
+  },
+  "def": "The money paid for hours worked beyond normal working hours, often at a higher rate.",
+  "registers": {
+   "formal": {
+    "uk": "overtime pay",
+    "us": "overtime pay",
+    "ex": "[[Overtime pay]] is due only for hours worked at the express request of the line manager.",
+    "ex_us": "[[Overtime pay]] is due only for hours worked at the express request of the supervisor."
+   },
+   "everyday": {
+    "uk": "overtime",
+    "us": "overtime",
+    "ex": "Do we get paid [[overtime]] for the stocktake weekend?",
+    "ex_us": "Do we get paid [[overtime]] for the inventory weekend?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be paid overtime",
+   "to claim overtime",
+   "overtime rates",
+   "unpaid overtime"
+  ],
+  "note_fr": "« Overtime » est indénombrable : « to work overtime », jamais « overtimes » ni « supplementary hours ». Le droit diffère : majoration légale en France, « time and a half » au-delà de 40 heures pour les salariés « non-exempt » aux États-Unis, aucune majoration légale au Royaume-Uni (tout dépend du contrat).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-017",
+  "level": 1,
+  "fr": "note de frais",
+  "term": {
+   "uk": "expense claim",
+   "us": "expense report"
+  },
+  "ipa": {
+   "uk": "/ɪkˈspens kleɪm/",
+   "us": "/ɪkˈspens rɪˌpɔːrt/"
+  },
+  "def": "A request to be paid back money spent for work, with the supporting receipts.",
+  "registers": {
+   "formal": {
+    "uk": "expense claim",
+    "us": "expense report",
+    "ex": "Each [[expense claim]] must be submitted within thirty days, together with the original receipts.",
+    "ex_us": "Each [[expense report]] must be submitted within thirty days, together with the original receipts."
+   },
+   "everyday": {
+    "uk": "expenses",
+    "us": "expenses",
+    "ex": "I still haven't done my [[expenses]] for the Lyon trip."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to submit an expense claim",
+   "to approve a claim",
+   "to put something on expenses",
+   "to claim something back"
+  ],
+  "note_fr": "« To do one's expenses » = faire sa note de frais ; « to put it on expenses » = le passer en note de frais. Ne dites pas « note of fees » : « fees » désigne des honoraires. US : « to file an expense report », « to expense a meal ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-018",
+  "level": 1,
+  "fr": "rembourser des frais",
+  "term": {
+   "uk": "to reimburse expenses",
+   "us": "to reimburse expenses"
+  },
+  "ipa": {
+   "uk": "/tə ˌriːɪmˈbɜːs ɪkˈspensɪz/",
+   "us": "/tə ˌriːɪmˈbɜːrs ɪkˈspensɪz/"
+  },
+  "def": "To pay back to an employee the money they have spent for work purposes.",
+  "registers": {
+   "formal": {
+    "uk": "to reimburse",
+    "us": "to reimburse",
+    "ex": "The Company shall [[reimburse]] all reasonable expenses properly incurred in the performance of the Employee's duties."
+   },
+   "everyday": {
+    "uk": "to pay back",
+    "us": "to pay back",
+    "ex": "Keep the receipt and it'll be [[paid back]] with your next salary.",
+    "ex_us": "Keep the receipt and it'll be [[paid back]] with your next paycheck."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to reimburse someone for something",
+   "to claim back",
+   "reimbursement of expenses",
+   "to be out of pocket"
+  ],
+  "note_fr": "Construction : « to reimburse someone FOR something ». « To refund » s'emploie plutôt pour un client à qui l'on rend le prix d'un achat. « To incur expenses » = engager des frais ; « to be out of pocket » = en être de sa poche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-019",
+  "level": 1,
+  "fr": "voiture de fonction",
+  "term": {
+   "uk": "company car",
+   "us": "company car"
+  },
+  "ipa": {
+   "uk": "/ˈkʌmpəni kɑː/",
+   "us": "/ˈkʌmpəni kɑːr/"
+  },
+  "def": "A car provided by the employer that the employee may also use privately.",
+  "registers": {
+   "formal": {
+    "uk": "company car",
+    "us": "company vehicle",
+    "ex": "The Employee shall be provided with a [[company car]] in accordance with the Company's car policy.",
+    "ex_us": "The Employee shall be provided with a [[company vehicle]] in accordance with the Company's vehicle policy."
+   },
+   "everyday": {
+    "uk": "company car",
+    "us": "company car",
+    "ex": "She gave up the [[company car]] and took the cash instead."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a car allowance",
+   "private use of a company car",
+   "a pool car",
+   "to be taxed on a company car"
+  ],
+  "note_fr": "Distinguez « company car » (voiture de fonction, usage privé autorisé, donc avantage en nature) et « pool car » (voiture de service, usage strictement professionnel). « Car allowance » = indemnité versée à la place du véhicule, pratique très répandue au Royaume-Uni et aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-020",
+  "level": 1,
+  "fr": "titres-restaurant",
+  "term": {
+   "uk": "meal vouchers",
+   "us": "meal vouchers"
+  },
+  "ipa": {
+   "uk": "/ˈmiːl ˌvaʊtʃəz/",
+   "us": "/ˈmiːl ˌvaʊtʃərz/"
+  },
+  "def": "Vouchers or a prepaid card, part-funded by the employer, that employees use to pay for lunch on working days.",
+  "registers": {
+   "formal": {
+    "uk": "meal vouchers",
+    "us": "meal vouchers",
+    "ex": "The Employee shall receive [[meal vouchers]] for each day worked, part of the cost being borne by the Company."
+   },
+   "everyday": {
+    "uk": "lunch vouchers",
+    "us": "meal vouchers",
+    "ex": "You get [[lunch vouchers]] on a card - it works in most restaurants and supermarkets.",
+    "ex_us": "You get [[meal vouchers]] on a card - it works in most restaurants and grocery stores."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to top up the card",
+   "the employer's share",
+   "a subsidised canteen"
+  ],
+  "note_fr": "L'avantage est typiquement français : au Royaume-Uni les « luncheon vouchers » ont pratiquement disparu et le terme sonne daté ; aux États-Unis on parle parfois de « meal allowance ». Expliquez le mécanisme : cofinancement par l'employeur et le salarié, avec un régime social favorable dans certaines limites.",
+  "french_concept": true,
+  "explain": {
+   "written": "Meal vouchers (titres-restaurant) are a French employee benefit: the employer and the employee share the cost of vouchers, usually loaded onto a card, which may be used to pay for meals on working days.",
+   "spoken": "They're lunch vouchers on a card. The company pays roughly half, you pay the rest, and you use them to buy lunch."
+  }
+ },
+ {
+  "id": "py-021",
+  "level": 1,
+  "fr": "mutuelle (complémentaire santé d'entreprise)",
+  "term": {
+   "uk": "complementary health insurance",
+   "us": "supplemental health insurance"
+  },
+  "ipa": {
+   "uk": "/ˌkɒmplɪˈment(ə)ri ˈhelθ ɪnˌʃʊərəns/",
+   "us": "/ˌsʌpləˈment(ə)l ˈhelθ ɪnˌʃʊrəns/"
+  },
+  "def": "Insurance that tops up what the French state health system reimburses, which private-sector employers must offer to all their employees.",
+  "registers": {
+   "formal": {
+    "uk": "complementary health insurance",
+    "us": "supplemental health insurance",
+    "ex": "The Employee shall be enrolled in the Company's [[complementary health insurance]] scheme, to which the Company contributes at least half of the cost.",
+    "ex_us": "The Employee shall be enrolled in the Company's [[supplemental health insurance]] plan, to which the Company contributes at least half of the cost."
+   },
+   "everyday": {
+    "uk": "top-up health cover",
+    "us": "supplemental health coverage",
+    "ex": "The [[top-up health cover]] kicks in from your first day.",
+    "ex_us": "The [[supplemental health coverage]] kicks in from your first day."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be enrolled in the scheme",
+   "to opt out",
+   "to cover dependants",
+   "the employer's contribution"
+  ],
+  "note_fr": "Ne traduisez pas par « mutual », qui n'évoque rien. La logique est inverse de celle des pays anglophones : en France la mutuelle complète le régime public ; au Royaume-Uni le « private medical insurance » double le NHS ; aux États-Unis le « health insurance » de l'employeur est souvent la couverture principale. UK « cover », US « coverage ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The 'mutuelle' is a complementary health insurance scheme which French private-sector employers are required to provide for all employees, and at least half of whose cost they must bear; it supplements the reimbursements made by the state health insurance system.",
+   "spoken": "It's top-up health insurance. The state system pays part of your medical bills, the mutuelle covers most of the rest, and the employer has to pay at least half of the premium."
+  }
+ },
+ {
+  "id": "py-022",
+  "level": 1,
+  "fr": "régime de retraite",
+  "term": {
+   "uk": "pension scheme",
+   "us": "retirement plan"
+  },
+  "ipa": {
+   "uk": "/ˈpenʃ(ə)n skiːm/",
+   "us": "/rɪˈtaɪərmənt plæn/"
+  },
+  "def": "An arrangement into which the employer, the employee or both pay money so that the employee receives an income after retiring.",
+  "registers": {
+   "formal": {
+    "uk": "pension scheme",
+    "us": "retirement plan",
+    "ex": "The Employee is eligible to join the Company's [[pension scheme]], subject to its rules.",
+    "ex_us": "The Employee is eligible to participate in the Company's [[retirement plan]], subject to its terms."
+   },
+   "everyday": {
+    "uk": "pension",
+    "us": "retirement plan",
+    "ex": "How much does the company put into your [[pension]]?",
+    "ex_us": "How much does the company put into your [[retirement plan]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay into a pension",
+   "a workplace pension",
+   "pension contributions",
+   "to draw one's pension"
+  ],
+  "note_fr": "UK « scheme », US « plan » : aux États-Unis, « scheme » évoque une combine. Faux ami : « retreat » n'a rien à voir avec la retraite ; « to retire » = prendre sa retraite. Le système français repose surtout sur la répartition obligatoire, ce qui rend l'épargne d'entreprise moins centrale qu'outre-Manche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-023",
+  "level": 1,
+  "fr": "salaire de base / fixe",
+  "term": {
+   "uk": "basic salary",
+   "us": "base salary"
+  },
+  "ipa": {
+   "uk": "/ˈbeɪsɪk ˈsæləri/",
+   "us": "/beɪs ˈsæləri/"
+  },
+  "def": "The fixed part of an employee's pay, before bonuses, commission, overtime or benefits.",
+  "registers": {
+   "formal": {
+    "uk": "basic salary",
+    "us": "base salary",
+    "ex": "The bonus is expressed as a percentage of the Employee's [[basic salary]].",
+    "ex_us": "The bonus is expressed as a percentage of the Employee's [[base salary]]."
+   },
+   "everyday": {
+    "uk": "basic",
+    "us": "base",
+    "ex": "The [[basic]] isn't huge, but with commission it adds up.",
+    "ex_us": "The [[base]] isn't huge, but with commission it adds up."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on top of basic salary",
+   "a percentage of base",
+   "basic pay"
+  ],
+  "note_fr": "UK : « basic salary » ; US : « base salary » ou « base pay ». « Fixed salary » se comprend, mais « the fix » n'existe pas : dites « the basic » (UK) ou « the base » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-024",
+  "level": 1,
+  "fr": "rémunération variable / part variable",
+  "term": {
+   "uk": "variable pay",
+   "us": "variable pay"
+  },
+  "ipa": {
+   "uk": "/ˈveəriəb(ə)l peɪ/",
+   "us": "/ˈveriəb(ə)l peɪ/"
+  },
+  "def": "The part of an employee's pay that depends on individual, team or company results.",
+  "registers": {
+   "formal": {
+    "uk": "variable remuneration",
+    "us": "variable compensation",
+    "ex": "The Employee's [[variable remuneration]] shall be determined by reference to objectives set annually.",
+    "ex_us": "The Employee's [[variable compensation]] shall be determined by reference to objectives set annually."
+   },
+   "everyday": {
+    "uk": "variable pay",
+    "us": "variable pay",
+    "ex": "About a fifth of her package is [[variable pay]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the fixed and variable elements of pay",
+   "a variable pay plan",
+   "at-risk pay"
+  ],
+  "note_fr": "« The variable » seul est un calque : dites « variable pay » ou « the variable element ». En droit français, les objectifs doivent être réalisables et portés à la connaissance du salarié en début de période, dans une langue qu'il comprend : un point à signaler aux groupes étrangers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-025",
+  "level": 1,
+  "fr": "gagner (un salaire)",
+  "term": {
+   "uk": "to earn",
+   "us": "to earn"
+  },
+  "ipa": {
+   "uk": "/tu ɜːn/",
+   "us": "/tu ɜːrn/"
+  },
+  "def": "To receive money in return for work.",
+  "registers": {
+   "formal": {
+    "uk": "to earn",
+    "us": "to earn",
+    "ex": "Employees who [[earn]] less than the threshold are exempt from the contribution."
+   },
+   "everyday": {
+    "uk": "to be on",
+    "us": "to make",
+    "ex": "She must [[be on]] at least sixty thousand by now.",
+    "ex_us": "She must [[make]] at least sixty thousand by now."
+   },
+   "informal": {
+    "uk": "to pull in",
+    "us": "to pull in",
+    "ex": "With bonuses, some of the traders [[pull in]] three times that."
+   }
+  },
+  "collocations": [
+   "to earn a living",
+   "earnings",
+   "high earners",
+   "to earn above the average"
+  ],
+  "note_fr": "Faux ami : « to gain » s'emploie pour l'expérience ou le poids, pas pour un salaire ; « to win » pour un concours. « Earnings » = l'ensemble des gains. « To be on 60k » est britannique, « to make 60k » américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-026",
+  "level": 1,
+  "fr": "jour de paie",
+  "term": {
+   "uk": "payday",
+   "us": "payday"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪdeɪ/",
+   "us": "/ˈpeɪdeɪ/"
+  },
+  "def": "The day on which employees receive their pay.",
+  "registers": {
+   "formal": {
+    "uk": "payment date",
+    "us": "payment date",
+    "ex": "Where the [[payment date]] falls on a weekend, salaries shall be paid on the preceding working day.",
+    "ex_us": "Where the [[payment date]] falls on a weekend, salaries shall be paid on the preceding business day."
+   },
+   "everyday": {
+    "uk": "payday",
+    "us": "payday",
+    "ex": "[[Payday]] is the 28th, or the Friday before if that's a weekend."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be paid monthly",
+   "to be paid fortnightly",
+   "the end-of-month pay run"
+  ],
+  "note_fr": "En France la mensualisation est la règle. Au Royaume-Uni on paie au mois ou à la semaine ; aux États-Unis, souvent toutes les deux semaines : « biweekly » (US), « fortnightly » (UK). « Paycheck » (US) désigne la paie elle-même : « my first paycheck ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-027",
+  "level": 1,
+  "fr": "taux horaire",
+  "term": {
+   "uk": "hourly rate",
+   "us": "hourly rate"
+  },
+  "ipa": {
+   "uk": "/ˈaʊəli reɪt/",
+   "us": "/ˈaʊərli reɪt/"
+  },
+  "def": "The amount of money paid for each hour of work.",
+  "registers": {
+   "formal": {
+    "uk": "hourly rate of pay",
+    "us": "hourly rate of pay",
+    "ex": "The [[hourly rate of pay]] is obtained by dividing the monthly salary by the contractual number of hours."
+   },
+   "everyday": {
+    "uk": "hourly rate",
+    "us": "hourly rate",
+    "ex": "What's the [[hourly rate]] for the weekend shifts?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be paid by the hour",
+   "hourly-paid staff",
+   "a day rate",
+   "the going rate"
+  ],
+  "note_fr": "« To be paid by the hour » = être payé à l'heure. « Rate » = tarif ou taux : « day rate » pour un consultant, « the going rate » = le tarif du marché. Aux États-Unis, « hourly employees » s'oppose à « salaried employees ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-028",
+  "level": 1,
+  "fr": "salaire annuel",
+  "term": {
+   "uk": "annual salary",
+   "us": "annual salary"
+  },
+  "ipa": {
+   "uk": "/ˈænjuəl ˈsæləri/",
+   "us": "/ˈænjuəl ˈsæləri/"
+  },
+  "def": "The total salary an employee is paid over a year.",
+  "registers": {
+   "formal": {
+    "uk": "per annum",
+    "us": "per year",
+    "ex": "The post attracts a salary of GBP 48,000 [[per annum]].",
+    "ex_us": "The position pays a salary of USD 60,000 [[per year]]."
+   },
+   "everyday": {
+    "uk": "a year",
+    "us": "a year",
+    "ex": "They're offering fifty-five thousand [[a year]], plus bonus."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on an annualised basis",
+   "a six-figure salary",
+   "paid in twelve instalments"
+  ],
+  "note_fr": "« Per annum » (abrégé « p.a. ») est courant dans les contrats et annonces britanniques, plus rare aux États-Unis. Pensez à préciser sur combien de mois le salaire est versé : douze partout ailleurs, parfois treize en France. « 55k » se lit « fifty-five K ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-029",
+  "level": 1,
+  "fr": "fourchette de salaire",
+  "term": {
+   "uk": "salary range",
+   "us": "salary range"
+  },
+  "ipa": {
+   "uk": "/ˈsæləri reɪndʒ/",
+   "us": "/ˈsæləri reɪndʒ/"
+  },
+  "def": "The lowest and highest salary an employer is prepared to pay for a given job.",
+  "registers": {
+   "formal": {
+    "uk": "salary range",
+    "us": "salary range",
+    "ex": "The [[salary range]] for the position must be communicated to applicants before the first interview."
+   },
+   "everyday": {
+    "uk": "range",
+    "us": "range",
+    "ex": "What [[range]] did you have in mind for this role?"
+   },
+   "informal": {
+    "uk": "ballpark",
+    "us": "ballpark",
+    "ex": "Can you give me a [[ballpark]] so we don't waste each other's time?"
+   }
+  },
+  "collocations": [
+   "within the range",
+   "at the top end of the range",
+   "to advertise the salary range"
+  ],
+  "note_fr": "Ne dites pas « salary fork ». « Ballpark (figure) » = ordre de grandeur. La transparence progresse : plusieurs États américains imposent déjà d'indiquer la fourchette dans les annonces, et la directive européenne sur la transparence salariale va dans le même sens.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-030",
+  "level": 1,
+  "fr": "prétentions salariales",
+  "term": {
+   "uk": "salary expectations",
+   "us": "salary expectations"
+  },
+  "ipa": {
+   "uk": "/ˈsæləri ˌekspekˈteɪʃ(ə)nz/",
+   "us": "/ˈsæləri ˌekspekˈteɪʃ(ə)nz/"
+  },
+  "def": "The pay that a job applicant hopes or asks to receive.",
+  "registers": {
+   "formal": {
+    "uk": "salary expectations",
+    "us": "salary expectations",
+    "ex": "Applicants are invited to state their [[salary expectations]] in the covering letter.",
+    "ex_us": "Applicants are invited to state their [[salary expectations]] in the cover letter."
+   },
+   "everyday": {
+    "uk": "to be looking for",
+    "us": "to be looking for",
+    "ex": "She [[is looking for]] something around fifty, which is within our range."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet someone's expectations",
+   "in line with expectations",
+   "current salary"
+  ],
+  "note_fr": "« Salary pretensions » est un faux ami comique : « pretension » évoque la prétention. Attention : dans de nombreux États américains, il est interdit de demander au candidat son salaire actuel ou passé (« salary history bans ») ; demandez ses attentes, pas son historique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-031",
+  "level": 1,
+  "fr": "négocier son salaire",
+  "term": {
+   "uk": "to negotiate one's salary",
+   "us": "to negotiate one's salary"
+  },
+  "ipa": {
+   "uk": "/tə nɪˈɡəʊʃieɪt wʌnz ˈsæləri/",
+   "us": "/tə nɪˈɡoʊʃieɪt wʌnz ˈsæləri/"
+  },
+  "def": "To discuss pay with an employer in order to reach an agreed figure.",
+  "registers": {
+   "formal": {
+    "uk": "to negotiate",
+    "us": "to negotiate",
+    "ex": "The salary shown is indicative and may be [[negotiated]] according to experience."
+   },
+   "everyday": {
+    "uk": "to push for more",
+    "us": "to push for more",
+    "ex": "She [[pushed for more]] and got another three thousand."
+   },
+   "informal": {
+    "uk": "to haggle",
+    "us": "to haggle",
+    "ex": "I'd rather not [[haggle]] over a few hundred euros."
+   }
+  },
+  "collocations": [
+   "room for negotiation",
+   "to make a counter-offer",
+   "to meet in the middle",
+   "negotiable"
+  ],
+  "note_fr": "« Salary negotiable » dans une annonce = à négocier. « A counter-offer » désigne aussi bien la contre-proposition du candidat que la surenchère de l'employeur actuel pour le retenir. « To haggle » (marchander) est légèrement péjoratif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-032",
+  "level": 1,
+  "fr": "virement bancaire (du salaire)",
+  "term": {
+   "uk": "bank transfer",
+   "us": "direct deposit"
+  },
+  "ipa": {
+   "uk": "/ˈbæŋk ˌtrænsfɜː/",
+   "us": "/dəˌrekt dɪˈpɑːzɪt/"
+  },
+  "def": "Payment of wages straight into the employee's bank account.",
+  "registers": {
+   "formal": {
+    "uk": "bank transfer",
+    "us": "direct deposit",
+    "ex": "Salary shall be paid by [[bank transfer]] to the account designated by the Employee.",
+    "ex_us": "Salary shall be paid by [[direct deposit]] to the account designated by the Employee."
+   },
+   "everyday": {
+    "uk": "to go into one's account",
+    "us": "to hit one's account",
+    "ex": "It usually [[goes into your account]] on the last working day of the month.",
+    "ex_us": "It usually [[hits your account]] on the last business day of the month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "bank details",
+   "to pay by BACS",
+   "to set up direct deposit"
+  ],
+  "note_fr": "Ne dites pas « bank wire » pour un salaire : « wire transfer » évoque un virement international. UK : « bank transfer » ou « BACS payment » ; US : « direct deposit ». RIB = « bank details » ; le document lui-même n'a pas d'équivalent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-033",
+  "level": 1,
+  "fr": "indemnité / prime (liée à une sujétion ou à des frais)",
+  "term": {
+   "uk": "allowance",
+   "us": "allowance"
+  },
+  "ipa": {
+   "uk": "/əˈlaʊəns/",
+   "us": "/əˈlaʊəns/"
+  },
+  "def": "A fixed sum paid regularly to an employee to cover a particular cost or to compensate for a particular constraint.",
+  "registers": {
+   "formal": {
+    "uk": "allowance",
+    "us": "allowance",
+    "ex": "Employees working from home shall receive a monthly [[allowance]] towards their costs.",
+    "ex_us": "Employees working from home shall receive a monthly [[allowance]] toward their costs."
+   },
+   "everyday": {
+    "uk": "allowance",
+    "us": "stipend",
+    "ex": "There's a small [[allowance]] for working from home - it covers the broadband, more or less.",
+    "ex_us": "There's a small [[stipend]] for working from home - it covers the internet, more or less."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a housing allowance",
+   "a travel allowance",
+   "a meal allowance",
+   "a shift allowance"
+  ],
+  "note_fr": "« Allowance » est la bonne traduction de nombreuses « primes » et « indemnités » françaises (panier, transport, télétravail, équipe). Faux ami : « indemnity » désigne en anglais une garantie contre un préjudice, pas une indemnité de salaire. « Stipend » est surtout américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-034",
+  "level": 1,
+  "fr": "justificatif (de dépense)",
+  "term": {
+   "uk": "receipt",
+   "us": "receipt"
+  },
+  "ipa": {
+   "uk": "/rɪˈsiːt/",
+   "us": "/rɪˈsiːt/"
+  },
+  "def": "A document proving that money has been paid, which an employee must provide to be reimbursed.",
+  "registers": {
+   "formal": {
+    "uk": "supporting documentation",
+    "us": "supporting documentation",
+    "ex": "Claims submitted without [[supporting documentation]] will not be reimbursed."
+   },
+   "everyday": {
+    "uk": "receipt",
+    "us": "receipt",
+    "ex": "No [[receipt]], no refund - finance are very strict about it.",
+    "ex_us": "No [[receipt]], no refund - finance is very strict about it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep the receipt",
+   "a VAT receipt",
+   "proof of payment",
+   "to attach receipts"
+  ],
+  "note_fr": "Le « p » de « receipt » est muet. Faux amis : « recipe » = recette de cuisine ; « justificative » n'existe pas comme nom. Notez l'accord britannique « finance are » (nom collectif au pluriel), contre « finance is » en anglais américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-035",
+  "level": 1,
+  "fr": "salaire attractif / compétitif",
+  "term": {
+   "uk": "competitive salary",
+   "us": "competitive salary"
+  },
+  "ipa": {
+   "uk": "/kəmˈpetətɪv ˈsæləri/",
+   "us": "/kəmˈpetətɪv ˈsæləri/"
+  },
+  "def": "A salary at least as good as what other employers pay for similar work.",
+  "registers": {
+   "formal": {
+    "uk": "competitive salary",
+    "us": "competitive salary",
+    "ex": "We offer a [[competitive salary]] and a comprehensive benefits package."
+   },
+   "everyday": {
+    "uk": "to pay well",
+    "us": "to pay well",
+    "ex": "They [[pay well]], but they expect a lot in return."
+   },
+   "informal": {
+    "uk": "good money",
+    "us": "good money",
+    "ex": "It's [[good money]] for a first job."
+   }
+  },
+  "collocations": [
+   "above the market rate",
+   "to pay the going rate",
+   "well paid",
+   "underpaid"
+  ],
+  "note_fr": "Dans une annonce, « competitive salary » sans chiffre signifie souvent que l'employeur ne veut pas s'engager. « Attractive » se dit du package, moins du salaire. « Well paid » (attribut) mais « a well-paid job » (épithète, avec trait d'union).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-036",
+  "level": 2,
+  "fr": "treizième mois",
+  "term": {
+   "uk": "thirteenth-month salary",
+   "us": "thirteenth-month salary"
+  },
+  "ipa": {
+   "uk": "/ˌθɜːˈtiːnθ mʌnθ ˈsæləri/",
+   "us": "/ˌθɜːrˈtiːnθ mʌnθ ˈsæləri/"
+  },
+  "def": "An extra month's salary paid once a year, usually in December, under a collective agreement, the contract or company practice.",
+  "registers": {
+   "formal": {
+    "uk": "thirteenth-month payment",
+    "us": "thirteenth-month payment",
+    "ex": "The annual salary includes a [[thirteenth-month payment]], paid with the December salary pro rata to time worked during the year."
+   },
+   "everyday": {
+    "uk": "thirteenth month",
+    "us": "thirteenth month",
+    "ex": "Bear in mind the [[thirteenth month]] when you compare the two offers - the annual figure already includes it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be paid over thirteen months",
+   "to be included in the annual figure",
+   "paid pro rata"
+  ],
+  "note_fr": "Inconnu au Royaume-Uni et aux États-Unis, où l'on raisonne en salaire annuel versé sur douze mois : précisez toujours si le chiffre annoncé inclut le treizième mois. Ne le présentez pas comme un « bonus » : il n'est pas lié à la performance. Il n'est pas imposé par la loi mais par la convention collective, le contrat ou l'usage.",
+  "french_concept": true,
+  "explain": {
+   "written": "The thirteenth-month salary is an additional month's pay, customarily paid in December, to which employees are entitled where it is provided for by the collective agreement, the contract of employment or established company practice.",
+   "spoken": "It's an extra month's pay at the end of the year. It isn't a performance bonus - it's simply part of the annual salary, paid in thirteen instalments instead of twelve."
+  }
+ },
+ {
+  "id": "py-037",
+  "level": 2,
+  "fr": "prime d'ancienneté",
+  "term": {
+   "uk": "seniority bonus",
+   "us": "seniority bonus"
+  },
+  "ipa": {
+   "uk": "/ˌsiːniˈɒrəti ˈbəʊnəs/",
+   "us": "/ˌsiːnˈjɔːrəti ˈboʊnəs/"
+  },
+  "def": "A regular pay supplement that increases with the number of years an employee has spent with the company.",
+  "registers": {
+   "formal": {
+    "uk": "length-of-service supplement",
+    "us": "length-of-service supplement",
+    "ex": "A [[length-of-service supplement]] is payable under the collective agreement after three years' continuous service.",
+    "ex_us": "A [[length-of-service supplement]] is payable under the collective agreement after three years of continuous service."
+   },
+   "everyday": {
+    "uk": "seniority bonus",
+    "us": "seniority bonus",
+    "ex": "After three years you start getting a [[seniority bonus]] on top of your basic.",
+    "ex_us": "After three years you start getting a [[seniority bonus]] on top of your base."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to accrue seniority",
+   "years of service",
+   "a long-service award"
+  ],
+  "note_fr": "La prime d'ancienneté française, versée chaque mois et prévue par de nombreuses conventions collectives, n'a pas de véritable équivalent : un « long-service award » britannique est une récompense ponctuelle (après 10 ou 25 ans). Aux États-Unis, « seniority » évoque surtout l'ordre de priorité dans les entreprises syndiquées.",
+  "french_concept": true,
+  "explain": {
+   "written": "The seniority bonus (prime d'ancienneté) is a recurring salary supplement, provided for by many French collective agreements, the amount of which rises with the employee's length of service.",
+   "spoken": "It's a small monthly top-up you get for staying with the company - the longer you've been there, the higher it is. It comes from the collective agreement, not from the law."
+  }
+ },
+ {
+  "id": "py-038",
+  "level": 2,
+  "fr": "participation (aux résultats de l'entreprise)",
+  "term": {
+   "uk": "mandatory profit-sharing",
+   "us": "mandatory profit-sharing"
+  },
+  "ipa": {
+   "uk": "/ˈmændət(ə)ri ˈprɒfɪt ˌʃeərɪŋ/",
+   "us": "/ˈmændətɔːri ˈprɑːfɪt ˌʃerɪŋ/"
+  },
+  "def": "A French scheme, compulsory in companies with at least fifty employees, under which a share of profits calculated by a statutory formula is distributed to staff.",
+  "registers": {
+   "formal": {
+    "uk": "statutory profit-sharing scheme",
+    "us": "statutory profit-sharing plan",
+    "ex": "The Employee shall benefit from the [[statutory profit-sharing scheme]] in accordance with the applicable company agreement.",
+    "ex_us": "The Employee shall benefit from the [[statutory profit-sharing plan]] in accordance with the applicable company agreement."
+   },
+   "everyday": {
+    "uk": "profit share",
+    "us": "profit sharing",
+    "ex": "The [[profit share]] was worth about three weeks' pay last year.",
+    "ex_us": "The [[profit sharing]] was worth about three weeks' pay last year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to distribute a share of profits",
+   "the special profit-sharing reserve",
+   "to pay into the savings plan"
+  ],
+  "note_fr": "Faux ami total : « participation » en anglais signifie le fait de prendre part. Glosez toujours : « mandatory profit-sharing (participation) ». Au Royaume-Uni et aux États-Unis, le « profit-sharing » relève du libre choix de l'employeur ; c'est le caractère obligatoire au-delà de cinquante salariés qui surprend.",
+  "french_concept": true,
+  "explain": {
+   "written": "'Participation' is a statutory profit-sharing scheme, compulsory in French companies with fifty or more employees, under which a portion of annual profits determined by a legal formula is allocated to employees.",
+   "spoken": "It's profit-sharing that's required by law once you have fifty employees. A formula sets the amount, and people can either take the cash or put it into the company savings plan."
+  }
+ },
+ {
+  "id": "py-039",
+  "level": 2,
+  "fr": "intéressement",
+  "term": {
+   "uk": "voluntary profit-sharing",
+   "us": "voluntary profit-sharing"
+  },
+  "ipa": {
+   "uk": "/ˈvɒlənt(ə)ri ˈprɒfɪt ˌʃeərɪŋ/",
+   "us": "/ˈvɑːlənteri ˈprɑːfɪt ˌʃerɪŋ/"
+  },
+  "def": "An optional French scheme, set up by agreement, that pays employees a collective bonus when the company meets results or performance targets.",
+  "registers": {
+   "formal": {
+    "uk": "collective incentive scheme",
+    "us": "collective incentive plan",
+    "ex": "Sums paid under the [[collective incentive scheme]] do not form part of salary and may not replace any element of it.",
+    "ex_us": "Sums paid under the [[collective incentive plan]] do not form part of salary and may not replace any element of it."
+   },
+   "everyday": {
+    "uk": "incentive bonus",
+    "us": "incentive bonus",
+    "ex": "If we hit the safety and margin targets, everyone gets the [[incentive bonus]] in May."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign an incentive agreement",
+   "a collective performance target",
+   "to qualify for the scheme"
+  ],
+  "note_fr": "Ne dites pas « interestment ». Distinguez-le de la participation : l'intéressement est facultatif, fondé sur des critères choisis par l'entreprise et nécessairement collectif et aléatoire. Il ne peut pas se substituer au salaire, point à souligner devant un client étranger tenté d'y voir un bonus individuel.",
+  "french_concept": true,
+  "explain": {
+   "written": "'Intéressement' is an optional collective incentive scheme established by agreement, under which employees receive a bonus linked to the company's results or performance; the sums paid benefit from favourable social security treatment subject to conditions.",
+   "spoken": "It's an optional bonus scheme for the whole workforce. The company picks the targets, and if they're met, everybody gets a share."
+  }
+ },
+ {
+  "id": "py-040",
+  "level": 2,
+  "fr": "plan d'épargne entreprise (PEE)",
+  "term": {
+   "uk": "employee savings plan",
+   "us": "employee savings plan"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪˈiː ˈseɪvɪŋz plæn/",
+   "us": "/ɪmˌplɔɪˈiː ˈseɪvɪŋz plæn/"
+  },
+  "def": "A company scheme in which employees can invest their profit-sharing or their own money, often with a top-up from the employer, in return for tax advantages.",
+  "registers": {
+   "formal": {
+    "uk": "company savings plan",
+    "us": "company savings plan",
+    "ex": "Sums invested in the [[company savings plan]] are, save in the cases provided for by law, unavailable for a period of five years."
+   },
+   "everyday": {
+    "uk": "savings plan",
+    "us": "savings plan",
+    "ex": "Most people put their profit share straight into the [[savings plan]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pay into the plan",
+   "to be locked in for five years",
+   "to withdraw one's savings",
+   "an investment fund"
+  ],
+  "note_fr": "Pas d'équivalent exact : au Royaume-Uni, pensez au « Share Incentive Plan » ou au « Save As You Earn » ; aux États-Unis, l'épargne salariale passe surtout par le plan de retraite 401(k). Le blocage de cinq ans se dit « locked in for five years », pas « blocked ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The PEE (plan d'épargne entreprise) is a collective savings plan through which employees may invest profit-sharing payments and voluntary contributions, with possible employer matching, the sums being locked in for five years save in specified circumstances.",
+   "spoken": "It's a company savings plan. You can put your profit-sharing or your own money in, the employer may add something, and the money is tied up for five years unless you buy a home, get married and so on."
+  }
+ },
+ {
+  "id": "py-041",
+  "level": 2,
+  "fr": "abondement",
+  "term": {
+   "uk": "employer matching contribution",
+   "us": "employer match"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪə ˈmætʃɪŋ ˌkɒntrɪˈbjuːʃ(ə)n/",
+   "us": "/ɪmˈplɔɪər mætʃ/"
+  },
+  "def": "Money the employer adds to a savings or pension plan in proportion to what the employee pays in.",
+  "registers": {
+   "formal": {
+    "uk": "matching contribution",
+    "us": "matching contribution",
+    "ex": "The Company shall make a [[matching contribution]] equal to the Employee's own payments, up to the annual limit."
+   },
+   "everyday": {
+    "uk": "to match",
+    "us": "to match",
+    "ex": "They [[match]] whatever you put in, up to 5%."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to match contributions pound for pound",
+   "up to a ceiling",
+   "a 100% match"
+  ],
+  "note_fr": "Ne cherchez pas un mot proche d'« abondement » : l'anglais passe par le verbe « to match ». « Pound for pound » (UK) et « dollar for dollar » (US) signifient un abondement de 100 %. Aux États-Unis, « the company match » est un argument de recrutement classique pour le 401(k).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-042",
+  "level": 2,
+  "fr": "stock-options / options de souscription d'actions",
+  "term": {
+   "uk": "share options",
+   "us": "stock options"
+  },
+  "ipa": {
+   "uk": "/ˈʃeər ˌɒpʃ(ə)nz/",
+   "us": "/ˈstɑːk ˌɑːpʃ(ə)nz/"
+  },
+  "def": "Rights given to employees to buy shares in the company at a fixed price at a later date.",
+  "registers": {
+   "formal": {
+    "uk": "share options",
+    "us": "stock options",
+    "ex": "The grant of [[share options]] is governed exclusively by the rules of the plan and confers no contractual entitlement.",
+    "ex_us": "The grant of [[stock options]] is governed exclusively by the terms of the plan and confers no contractual entitlement."
+   },
+   "everyday": {
+    "uk": "options",
+    "us": "options",
+    "ex": "Half the appeal of the job was the [[options]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to grant options",
+   "an option plan",
+   "options that are under water",
+   "to cash in one's options"
+  ],
+  "note_fr": "UK « shares », US « stock » : « share options » d'un côté, « stock options » de l'autre. Le mot français « stock-options » est un emprunt américain. « Under water » se dit d'options dont le prix d'exercice dépasse le cours : elles ne valent rien pour l'instant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-043",
+  "level": 2,
+  "fr": "actions gratuites (attribution gratuite d'actions)",
+  "term": {
+   "uk": "free shares",
+   "us": "restricted stock units"
+  },
+  "ipa": {
+   "uk": "/friː ʃeəz/",
+   "us": "/rɪˈstrɪktɪd ˈstɑːk ˌjuːnɪts/"
+  },
+  "def": "Shares given to employees at no cost, which they come to own fully only after a set period and usually on condition of staying with the company.",
+  "registers": {
+   "formal": {
+    "uk": "free share award",
+    "us": "restricted stock unit award",
+    "ex": "The [[free share award]] shall vest at the end of the acquisition period, provided the beneficiary is still employed by the Group.",
+    "ex_us": "The [[restricted stock unit award]] shall vest at the end of the vesting period, provided the participant is still employed by the Group."
+   },
+   "everyday": {
+    "uk": "free shares",
+    "us": "RSUs",
+    "ex": "On top of the salary, she gets [[free shares]] every year.",
+    "ex_us": "On top of the salary, she gets [[RSUs]] every year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to award shares",
+   "a performance condition",
+   "a holding period",
+   "equity compensation"
+  ],
+  "note_fr": "Le régime français des actions gratuites prévoit une période d'acquisition, éventuellement suivie d'une période de conservation. L'équivalent fonctionnel américain est le plan de « RSUs » ; au Royaume-Uni on parle de « free shares » ou de « conditional share awards ». « Equity » désigne l'ensemble de ces dispositifs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-044",
+  "level": 2,
+  "fr": "être définitivement acquis (droits, actions)",
+  "term": {
+   "uk": "to vest",
+   "us": "to vest"
+  },
+  "ipa": {
+   "uk": "/tə vest/",
+   "us": "/tə vest/"
+  },
+  "def": "To become the employee's definitive property after a period of time or once conditions have been met.",
+  "registers": {
+   "formal": {
+    "uk": "to vest",
+    "us": "to vest",
+    "ex": "The options shall [[vest]] in three equal tranches on each anniversary of the grant date."
+   },
+   "everyday": {
+    "uk": "to vest",
+    "us": "to vest",
+    "ex": "A third of my shares [[vest]] next March, so I'm not going anywhere before then."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a vesting period",
+   "a vesting schedule",
+   "unvested shares",
+   "to vest in full"
+  ],
+  "note_fr": "Verbe intransitif : ce sont les actions qui « vest », pas le salarié. Les « unvested shares » sont en général perdues en cas de départ (« forfeited »). Aux États-Unis, « cliff vesting » désigne l'acquisition en bloc après une durée minimale, souvent un an.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-045",
+  "level": 2,
+  "fr": "avantage en nature",
+  "term": {
+   "uk": "benefit in kind",
+   "us": "fringe benefit"
+  },
+  "ipa": {
+   "uk": "/ˈbenɪfɪt ɪn kaɪnd/",
+   "us": "/ˈfrɪndʒ ˌbenəfɪt/"
+  },
+  "def": "Something of value other than money that an employee receives from the employer, and which is generally taxed as part of pay.",
+  "registers": {
+   "formal": {
+    "uk": "benefit in kind",
+    "us": "fringe benefit",
+    "ex": "Private use of the vehicle constitutes a [[benefit in kind]] and is subject to tax and social security contributions.",
+    "ex_us": "Personal use of the vehicle constitutes a taxable [[fringe benefit]] and is subject to tax withholding."
+   },
+   "everyday": {
+    "uk": "taxable benefit",
+    "us": "taxable benefit",
+    "ex": "The car's great, but remember it's a [[taxable benefit]] - it'll show up on your payslip.",
+    "ex_us": "The car's great, but remember it's a [[taxable benefit]] - it'll show up on your pay stub."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be taxed as a benefit in kind",
+   "to value a benefit",
+   "payment in kind"
+  ],
+  "note_fr": "Ne dites pas « advantage in nature ». « In kind » = en nature (par opposition à « in cash »). Au Royaume-Uni, l'abréviation « BIK » est courante. Aux États-Unis, « fringe benefits » est le terme fiscal, mais « in-kind » existe aussi.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-046",
+  "level": 2,
+  "fr": "frais professionnels",
+  "term": {
+   "uk": "business expenses",
+   "us": "business expenses"
+  },
+  "ipa": {
+   "uk": "/ˈbɪznəs ɪkˌspensɪz/",
+   "us": "/ˈbɪznəs ɪkˌspensɪz/"
+  },
+  "def": "Costs that an employee has to bear in order to do the job, such as travel, accommodation or client meals.",
+  "registers": {
+   "formal": {
+    "uk": "expenses incurred",
+    "us": "expenses incurred",
+    "ex": "The Company shall bear all [[expenses incurred]] wholly and necessarily in the course of the Employee's duties."
+   },
+   "everyday": {
+    "uk": "work expenses",
+    "us": "work expenses",
+    "ex": "Train tickets and hotels are [[work expenses]], so you shouldn't be paying for them yourself."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to incur expenses",
+   "travel and subsistence",
+   "out-of-pocket expenses",
+   "an expenses policy"
+  ],
+  "note_fr": "« To incur expenses » = engager des frais. Principe français à savoir formuler : les frais engagés pour les besoins de l'activité doivent être supportés par l'employeur et ne peuvent pas être imputés sur le salaire. « Subsistence » (UK) = frais de repas et d'hébergement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-047",
+  "level": 2,
+  "fr": "indemnités kilométriques",
+  "term": {
+   "uk": "mileage allowance",
+   "us": "mileage reimbursement"
+  },
+  "ipa": {
+   "uk": "/ˈmaɪlɪdʒ əˌlaʊəns/",
+   "us": "/ˈmaɪlɪdʒ ˌriːɪmˈbɜːrsmənt/"
+  },
+  "def": "Money paid to an employee for each mile or kilometre driven for work in their own vehicle.",
+  "registers": {
+   "formal": {
+    "uk": "mileage allowance",
+    "us": "mileage reimbursement",
+    "ex": "Business journeys made in a private vehicle give rise to a [[mileage allowance]] at the rate published by the tax authorities.",
+    "ex_us": "Business trips made in a personal vehicle give rise to [[mileage reimbursement]] at the rate published by the tax authorities."
+   },
+   "everyday": {
+    "uk": "mileage",
+    "us": "mileage",
+    "ex": "If you drive to the client's site, don't forget to claim your [[mileage]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to claim mileage",
+   "the approved mileage rate",
+   "a mileage log",
+   "business mileage"
+  ],
+  "note_fr": "« Mileage » s'emploie même quand on compte en kilomètres ; « kilometric allowance » est un calque. Le barème fiscal se dit « approved mileage rates » au Royaume-Uni et « the IRS standard mileage rate » aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-048",
+  "level": 2,
+  "fr": "prime sur objectifs",
+  "term": {
+   "uk": "performance-related bonus",
+   "us": "performance bonus"
+  },
+  "ipa": {
+   "uk": "/pəˈfɔːməns rɪˌleɪtɪd ˈbəʊnəs/",
+   "us": "/pərˈfɔːrməns ˈboʊnəs/"
+  },
+  "def": "A bonus whose amount depends on how far the employee or the company has met agreed targets.",
+  "registers": {
+   "formal": {
+    "uk": "performance-related bonus",
+    "us": "performance bonus",
+    "ex": "The Employee may earn a [[performance-related bonus]] of up to 15% of basic salary, subject to the achievement of objectives notified at the start of each financial year.",
+    "ex_us": "The Employee may earn a [[performance bonus]] of up to 15% of base salary, subject to the achievement of objectives communicated at the start of each fiscal year."
+   },
+   "everyday": {
+    "uk": "target bonus",
+    "us": "target bonus",
+    "ex": "My [[target bonus]] is 15%, but nobody got more than half of that last year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hit one's targets",
+   "to pay out at 80%",
+   "bonus criteria",
+   "performance-related pay"
+  ],
+  "note_fr": "« Objectives » à l'écrit, « targets » à l'oral ; « to hit / to miss one's targets ». « Bonus on objectives » est un calque. En France, des objectifs irréalistes ou communiqués tardivement exposent l'employeur à devoir verser la prime en totalité.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-049",
+  "level": 2,
+  "fr": "prime exceptionnelle",
+  "term": {
+   "uk": "one-off bonus",
+   "us": "one-time bonus"
+  },
+  "ipa": {
+   "uk": "/ˌwʌn ˈɒf ˈbəʊnəs/",
+   "us": "/ˈwʌn taɪm ˈboʊnəs/"
+  },
+  "def": "A single payment made on a particular occasion, with no promise that it will be repeated.",
+  "registers": {
+   "formal": {
+    "uk": "exceptional payment",
+    "us": "one-time payment",
+    "ex": "This [[exceptional payment]] is made on a wholly discretionary basis and shall not create any entitlement for the future.",
+    "ex_us": "This [[one-time payment]] is made on a wholly discretionary basis and shall not create any entitlement for the future."
+   },
+   "everyday": {
+    "uk": "one-off bonus",
+    "us": "one-time bonus",
+    "ex": "Everyone on the project got a [[one-off bonus]] in January.",
+    "ex_us": "Everyone on the project got a [[one-time bonus]] in January."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a one-off payment",
+   "an ex gratia payment",
+   "to set a precedent",
+   "a spot bonus"
+  ],
+  "note_fr": "« One-off » est britannique, « one-time » américain. « Ex gratia » = versé à titre gracieux, sans obligation. « Exceptional » signifie surtout remarquable : préférez « one-off » pour dire « non récurrent ». En France, une prime versée de façon générale, constante et fixe peut devenir un usage.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-050",
+  "level": 2,
+  "fr": "prime de bienvenue / prime d'embauche",
+  "term": {
+   "uk": "signing-on bonus",
+   "us": "sign-on bonus"
+  },
+  "ipa": {
+   "uk": "/ˌsaɪnɪŋ ˈɒn ˌbəʊnəs/",
+   "us": "/ˈsaɪn ɑːn ˌboʊnəs/"
+  },
+  "def": "A sum paid to a new employee for joining the company, often to make up for a bonus lost at the previous employer.",
+  "registers": {
+   "formal": {
+    "uk": "joining bonus",
+    "us": "sign-on bonus",
+    "ex": "The [[joining bonus]] shall be repayable in full if the Employee resigns within twelve months of the start date.",
+    "ex_us": "The [[sign-on bonus]] shall be repayable in full if the Employee resigns within twelve months of the start date."
+   },
+   "everyday": {
+    "uk": "golden hello",
+    "us": "signing bonus",
+    "ex": "They offered her a [[golden hello]] to make up for the bonus she was walking away from.",
+    "ex_us": "They offered her a [[signing bonus]] to make up for the bonus she was walking away from."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to buy out a bonus",
+   "repayable on resignation",
+   "a relocation package"
+  ],
+  "note_fr": "« Welcome bonus » appartient au vocabulaire commercial (banques, sites de paris), pas aux RH. « Golden hello » est britannique et un peu journalistique. La clause de remboursement en cas de départ rapide est classique en droit anglo-saxon ; en droit français, sa validité se discute au regard de la liberté de démissionner.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-051",
+  "level": 2,
+  "fr": "prime de fidélisation / de rétention",
+  "term": {
+   "uk": "retention bonus",
+   "us": "retention bonus"
+  },
+  "ipa": {
+   "uk": "/rɪˈtenʃ(ə)n ˌbəʊnəs/",
+   "us": "/rɪˈtenʃ(ə)n ˌboʊnəs/"
+  },
+  "def": "A bonus promised to an employee on condition that they stay with the company until a given date.",
+  "registers": {
+   "formal": {
+    "uk": "retention bonus",
+    "us": "retention bonus",
+    "ex": "The [[retention bonus]] will be paid provided the Employee remains in employment, and is not under notice, on 30 June.",
+    "ex_us": "The [[retention bonus]] will be paid provided the Employee remains employed, and has not given or received notice, on June 30."
+   },
+   "everyday": {
+    "uk": "stay bonus",
+    "us": "stay bonus",
+    "ex": "They're offering key people a [[stay bonus]] to see the merger through."
+   },
+   "informal": {
+    "uk": "golden handcuffs",
+    "us": "golden handcuffs",
+    "ex": "Between the shares and the bonus, it's [[golden handcuffs]] - he can't afford to leave."
+   }
+  },
+  "collocations": [
+   "to retain key talent",
+   "to be under notice",
+   "a lock-in period"
+  ],
+  "note_fr": "« Fidelisation » n'existe pas : on parle de « retention » pour les salariés et de « loyalty » pour les clients. « Golden handcuffs » désigne toute rémunération différée qui dissuade de partir. « To be under notice » = avoir démissionné ou été licencié, préavis en cours.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-052",
+  "level": 2,
+  "fr": "revue des salaires / révision salariale",
+  "term": {
+   "uk": "pay review",
+   "us": "compensation review"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪ rɪˌvjuː/",
+   "us": "/ˌkɑːmpənˈseɪʃ(ə)n rɪˌvjuː/"
+  },
+  "def": "The regular process, usually once a year, in which the employer decides whether and how much to increase salaries.",
+  "registers": {
+   "formal": {
+    "uk": "salary review",
+    "us": "salary review",
+    "ex": "The Employee's salary shall be subject to an annual [[salary review]], which shall not imply any obligation to increase it."
+   },
+   "everyday": {
+    "uk": "pay review",
+    "us": "comp review",
+    "ex": "The [[pay review]] is in March, so there's no point raising it before then.",
+    "ex_us": "The [[comp review]] is in March, so there's no point raising it before then."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the annual pay round",
+   "to be due a review",
+   "to review salaries",
+   "the review cycle"
+  ],
+  "note_fr": "« Review » ne promet rien : la clause type précise que la révision n'emporte aucune obligation d'augmenter. Ne dites pas « revision of salary », qui suggère une correction. Aux États-Unis, « compensation » (familièrement « comp ») est le mot courant là où les Britanniques disent « pay » ou « reward ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-053",
+  "level": 2,
+  "fr": "augmentation générale",
+  "term": {
+   "uk": "across-the-board increase",
+   "us": "across-the-board increase"
+  },
+  "ipa": {
+   "uk": "/əˌkrɒs ðə ˈbɔːd ˈɪnkriːs/",
+   "us": "/əˌkrɔːs ðə ˈbɔːrd ˈɪnkriːs/"
+  },
+  "def": "A pay rise given to all employees, or to a whole category, at the same rate.",
+  "registers": {
+   "formal": {
+    "uk": "general increase",
+    "us": "general increase",
+    "ex": "Management proposes a [[general increase]] of 2% for all non-managerial staff with effect from 1 January.",
+    "ex_us": "Management proposes a [[general increase]] of 2% for all nonmanagerial staff effective January 1."
+   },
+   "everyday": {
+    "uk": "across-the-board increase",
+    "us": "across-the-board raise",
+    "ex": "The unions want an [[across-the-board increase]]; management would rather keep the money for individual rises.",
+    "ex_us": "The unions want an [[across-the-board raise]]; management would rather keep the money for individual raises."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a cost-of-living increase",
+   "a blanket rise",
+   "to apply to all grades"
+  ],
+  "note_fr": "« Across the board » = pour tout le monde, sans distinction. Comme nom, « increase » est accentué sur la première syllabe ; comme verbe, sur la seconde. « Cost-of-living increase » désigne une augmentation destinée à compenser l'inflation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-054",
+  "level": 2,
+  "fr": "augmentation individuelle (au mérite)",
+  "term": {
+   "uk": "merit increase",
+   "us": "merit increase"
+  },
+  "ipa": {
+   "uk": "/ˈmerɪt ˌɪnkriːs/",
+   "us": "/ˈmerɪt ˌɪnkriːs/"
+  },
+  "def": "A pay rise given to an individual employee in recognition of their performance.",
+  "registers": {
+   "formal": {
+    "uk": "merit increase",
+    "us": "merit increase",
+    "ex": "Any [[merit increase]] is determined by the line manager on the basis of the annual appraisal, within the budget allocated.",
+    "ex_us": "Any [[merit increase]] is determined by the manager on the basis of the annual performance review, within the budget allocated."
+   },
+   "everyday": {
+    "uk": "individual rise",
+    "us": "merit raise",
+    "ex": "There's not much left for [[individual rises]] once the general increase has gone through.",
+    "ex_us": "There's not much left for [[merit raises]] once the general increase has gone through."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be awarded a merit increase",
+   "performance-based pay",
+   "a merit matrix"
+  ],
+  "note_fr": "« Merit » n'a rien de moral ici : il renvoie simplement à la performance évaluée. Le « merit matrix » croise la note d'évaluation et la position dans la fourchette pour fixer le pourcentage d'augmentation, pratique très répandue dans les groupes américains.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-055",
+  "level": 2,
+  "fr": "grille de salaires",
+  "term": {
+   "uk": "pay scale",
+   "us": "pay scale"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪ skeɪl/",
+   "us": "/ˈpeɪ skeɪl/"
+  },
+  "def": "A table showing the pay that corresponds to each grade or level of job in an organisation or sector.",
+  "registers": {
+   "formal": {
+    "uk": "salary scale",
+    "us": "salary schedule",
+    "ex": "The minimum salaries for each grade are set out in the [[salary scale]] appended to the collective agreement.",
+    "ex_us": "The minimum salaries for each grade are set out in the [[salary schedule]] attached to the collective bargaining agreement."
+   },
+   "everyday": {
+    "uk": "pay scale",
+    "us": "pay scale",
+    "ex": "She's already at the top of the [[pay scale]], so the only way up is a promotion."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to move up the scale",
+   "a point on the scale",
+   "an incremental scale",
+   "the top of the scale"
+  ],
+  "note_fr": "Ne dites pas « salary grid » : « grid » ne s'emploie pas ainsi. « Increment » (UK) = échelon, augmentation automatique annuelle. Les grilles de branche à la française sont rares dans le secteur privé britannique et américain, où chaque entreprise fixe sa propre structure.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-056",
+  "level": 2,
+  "fr": "classification / niveau de poste (coefficient)",
+  "term": {
+   "uk": "job grade",
+   "us": "job grade"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ɡreɪd/",
+   "us": "/ˈdʒɑːb ɡreɪd/"
+  },
+  "def": "The level at which a job is placed in an organisation's or a sector's classification, which determines its pay.",
+  "registers": {
+   "formal": {
+    "uk": "grade",
+    "us": "grade",
+    "ex": "The position is classified at [[grade]] C2 under the applicable collective agreement."
+   },
+   "everyday": {
+    "uk": "level",
+    "us": "level",
+    "ex": "What [[level]] is the role? That'll tell us where the salary should sit."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to regrade a post",
+   "a grading structure",
+   "job evaluation",
+   "to be promoted to the next grade"
+  ],
+  "note_fr": "Le « coefficient » ou la « position » des conventions collectives françaises se rend par « grade » ou « level », éventuellement « classification level ». « Job evaluation » désigne la méthode de pesée des postes, pas l'évaluation du salarié (« appraisal »). « Cadre / non-cadre » n'a pas d'équivalent : dites « managerial / non-managerial status ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-057",
+  "level": 2,
+  "fr": "tranche de salaire (d'une structure de rémunération)",
+  "term": {
+   "uk": "salary band",
+   "us": "salary band"
+  },
+  "ipa": {
+   "uk": "/ˈsæləri bænd/",
+   "us": "/ˈsæləri bænd/"
+  },
+  "def": "The range between the minimum and maximum pay that an organisation has set for a given grade.",
+  "registers": {
+   "formal": {
+    "uk": "pay band",
+    "us": "pay band",
+    "ex": "Each grade is assigned a [[pay band]] defined by a minimum, a midpoint and a maximum."
+   },
+   "everyday": {
+    "uk": "band",
+    "us": "band",
+    "ex": "He's right at the top of his [[band]], so a rise is going to be difficult.",
+    "ex_us": "He's right at the top of his [[band]], so a raise is going to be difficult."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fall within the band",
+   "the band midpoint",
+   "to move up a band",
+   "broad banding"
+  ],
+  "note_fr": "« Salary range » se dit de la fourchette d'un poste ou d'une offre ; « band » est la tranche attachée à un grade dans la structure. « Midpoint » = le milieu de la tranche, référence du marché. À ne pas confondre avec les « tax bands » britanniques, qui sont les tranches d'imposition.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-058",
+  "level": 2,
+  "fr": "majoration pour heures supplémentaires",
+  "term": {
+   "uk": "overtime premium",
+   "us": "overtime premium"
+  },
+  "ipa": {
+   "uk": "/ˈəʊvətaɪm ˌpriːmiəm/",
+   "us": "/ˈoʊvərtaɪm ˌpriːmiəm/"
+  },
+  "def": "The extra percentage added to the normal hourly rate for hours worked as overtime.",
+  "registers": {
+   "formal": {
+    "uk": "overtime premium",
+    "us": "overtime premium",
+    "ex": "Hours worked in excess of the statutory working week attract an [[overtime premium]] at the rate fixed by law or by collective agreement."
+   },
+   "everyday": {
+    "uk": "time and a half",
+    "us": "time and a half",
+    "ex": "Anything over your contracted hours is paid at [[time and a half]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be paid at double time",
+   "premium rates",
+   "to attract a premium",
+   "the enhanced rate"
+  ],
+  "note_fr": "« Time and a half » = majoration de 50 % ; « double time » = 100 % ; pour 25 %, dites « time and a quarter ». Ici « premium » = majoration (autre sens : prime d'assurance). En France, la loi fixe des taux par défaut qu'un accord collectif peut aménager dans une certaine limite.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-059",
+  "level": 2,
+  "fr": "cotisations patronales / charges patronales",
+  "term": {
+   "uk": "employer contributions",
+   "us": "employer payroll taxes"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪə ˌkɒntrɪˈbjuːʃ(ə)nz/",
+   "us": "/ɪmˈplɔɪər ˈpeɪroʊl ˌtæksɪz/"
+  },
+  "def": "The social security payments that the employer makes on top of the gross salary.",
+  "registers": {
+   "formal": {
+    "uk": "employer's social security contributions",
+    "us": "employer payroll taxes",
+    "ex": "The figures shown exclude [[employer's social security contributions]], which the Company bears in addition.",
+    "ex_us": "The figures shown exclude [[employer payroll taxes]], which the Company bears in addition."
+   },
+   "everyday": {
+    "uk": "on-costs",
+    "us": "employer taxes",
+    "ex": "Once you add the [[on-costs]], that hire is going to cost us far more than the headline salary.",
+    "ex_us": "Once you add the [[employer taxes]], that hire is going to cost us far more than the headline salary."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the total cost to the employer",
+   "on top of gross salary",
+   "employer's National Insurance",
+   "a fully loaded cost"
+  ],
+  "note_fr": "« Patronal charges » est un calque incompréhensible. Message clé pour un client étranger : en France, le coût total employeur dépasse très sensiblement le brut. « On-costs » (UK) et « fully loaded cost » (US) désignent ce surcoût. Évitez de donner un pourcentage unique : le taux varie avec le niveau de salaire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-060",
+  "level": 2,
+  "fr": "cotisations salariales",
+  "term": {
+   "uk": "employee contributions",
+   "us": "employee payroll taxes"
+  },
+  "ipa": {
+   "uk": "/ɪmˌplɔɪˈiː ˌkɒntrɪˈbjuːʃ(ə)nz/",
+   "us": "/ɪmˌplɔɪˈiː ˈpeɪroʊl ˌtæksɪz/"
+  },
+  "def": "The social security payments deducted from the employee's gross pay.",
+  "registers": {
+   "formal": {
+    "uk": "employee's contributions",
+    "us": "employee payroll taxes",
+    "ex": "The [[employee's contributions]] are deducted at source and paid over to the collecting bodies by the Employer.",
+    "ex_us": "The [[employee payroll taxes]] are withheld and paid over to the collecting agencies by the Employer."
+   },
+   "everyday": {
+    "uk": "employee contributions",
+    "us": "employee taxes",
+    "ex": "In France, [[employee contributions]] take roughly a fifth of gross pay, and that's before income tax.",
+    "ex_us": "In France, [[employee taxes]] for social security take roughly a fifth of gross pay, and that's before income tax."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be deducted at source",
+   "the employee's share",
+   "the gross-to-net calculation"
+  ],
+  "note_fr": "Distinguez bien « employer » /ɪmˈplɔɪə/ et « employee » /ɪmˌplɔɪˈiː/ : à l'oral, la confusion entre les deux parts est fréquente. « The employee's share » = la part salariale. « Gross-to-net » désigne le passage du brut au net. L'ordre de grandeur d'un cinquième du brut est indicatif et varie selon le statut.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-061",
+  "level": 2,
+  "fr": "prélèvement à la source",
+  "term": {
+   "uk": "deduction at source",
+   "us": "tax withholding"
+  },
+  "ipa": {
+   "uk": "/dɪˈdʌkʃ(ə)n ət sɔːs/",
+   "us": "/ˈtæks wɪθˌhoʊldɪŋ/"
+  },
+  "def": "The system under which the employer takes income tax out of each salary payment and pays it directly to the tax authorities.",
+  "registers": {
+   "formal": {
+    "uk": "deduction of tax at source",
+    "us": "income tax withholding",
+    "ex": "The Employer is responsible for the [[deduction of tax at source]] at the rate communicated by the tax authorities.",
+    "ex_us": "The Employer is responsible for [[income tax withholding]] at the rate communicated by the tax authorities."
+   },
+   "everyday": {
+    "uk": "PAYE",
+    "us": "withholding",
+    "ex": "It all goes through [[PAYE]], so most employees never have to fill in a tax return.",
+    "ex_us": "Your [[withholding]] depends on what you put on your W-4."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to withhold tax",
+   "a withholding rate",
+   "to be taxed at source",
+   "a tax code"
+  ],
+  "note_fr": "UK : « PAYE » (Pay As You Earn) ; US : « withholding ». La France n'a adopté le prélèvement à la source qu'en 2019 et l'employeur y applique un taux transmis par l'administration, sans connaître les revenus du foyer. Contrairement à la plupart des salariés britanniques, le salarié français doit toujours déposer une déclaration annuelle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-062",
+  "level": 2,
+  "fr": "trop-perçu (de salaire)",
+  "term": {
+   "uk": "overpayment",
+   "us": "overpayment"
+  },
+  "ipa": {
+   "uk": "/ˌəʊvəˈpeɪmənt/",
+   "us": "/ˌoʊvərˈpeɪmənt/"
+  },
+  "def": "Money paid to an employee by mistake in excess of what was due.",
+  "registers": {
+   "formal": {
+    "uk": "overpayment of wages",
+    "us": "overpayment of wages",
+    "ex": "The Company reserves the right to recover any [[overpayment of wages]] by deduction from subsequent salary payments, within the limits permitted by law."
+   },
+   "everyday": {
+    "uk": "to be overpaid",
+    "us": "to be overpaid",
+    "ex": "It turns out she's [[been overpaid]] since January - payroll never took the allowance off."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to recover an overpayment",
+   "to repay in instalments",
+   "to claw back",
+   "an underpayment"
+  ],
+  "note_fr": "Ne dites pas « too-perceived ». Le droit encadre la récupération : en France la compensation sur le salaire est plafonnée à une fraction de celui-ci ; aux États-Unis les règles varient selon les États. « Underpayment » = moins-perçu. « To claw back » = récupérer, sur un ton familier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-063",
+  "level": 2,
+  "fr": "rappel de salaire",
+  "term": {
+   "uk": "back pay",
+   "us": "back pay"
+  },
+  "ipa": {
+   "uk": "/ˈbæk peɪ/",
+   "us": "/ˈbæk peɪ/"
+  },
+  "def": "Money owed to an employee for a past period, paid later than it should have been.",
+  "registers": {
+   "formal": {
+    "uk": "arrears of pay",
+    "us": "back pay",
+    "ex": "The Employee shall receive [[arrears of pay]] covering the period from 1 January to the date of this letter.",
+    "ex_us": "The Employee shall receive [[back pay]] covering the period from January 1 to the date of this letter."
+   },
+   "everyday": {
+    "uk": "back pay",
+    "us": "back pay",
+    "ex": "The rise was agreed in May but applies from January, so there'll be four months' [[back pay]].",
+    "ex_us": "The raise was agreed in May but applies from January, so there'll be four months of [[back pay]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be owed back pay",
+   "to claim back pay",
+   "to pay arrears",
+   "unpaid wages"
+  ],
+  "note_fr": "« Salary recall » est un calque : « recall » s'emploie pour le rappel d'un produit. « Arrears » (toujours au pluriel) = sommes en retard ; « to be in arrears » = avoir un arriéré. Les délais pour agir en justice diffèrent selon les pays : ne les annoncez pas de mémoire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-064",
+  "level": 2,
+  "fr": "prévoyance (décès, incapacité, invalidité)",
+  "term": {
+   "uk": "death and disability cover",
+   "us": "life and disability insurance"
+  },
+  "ipa": {
+   "uk": "/deθ ən ˌdɪsəˈbɪləti ˈkʌvə/",
+   "us": "/laɪf ən ˌdɪsəˈbɪləti ɪnˈʃʊrəns/"
+  },
+  "def": "Collective insurance that pays benefits if an employee dies, is off sick for a long time or becomes permanently unable to work.",
+  "registers": {
+   "formal": {
+    "uk": "death, incapacity and disability insurance",
+    "us": "life and disability insurance",
+    "ex": "The Employee shall be covered by the Company's [[death, incapacity and disability insurance]] scheme from the first day of employment.",
+    "ex_us": "The Employee shall be covered by the Company's [[life and disability insurance]] plan from the first day of employment."
+   },
+   "everyday": {
+    "uk": "income protection and life cover",
+    "us": "life and disability",
+    "ex": "You've also got [[income protection and life cover]] through the company, on top of the health insurance.",
+    "ex_us": "You've also got [[life and disability]] through the company, on top of the health insurance."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "death-in-service benefit",
+   "long-term disability",
+   "to top up sick pay",
+   "to name a beneficiary"
+  ],
+  "note_fr": "« Prevoyance » ou « providence » ne disent rien à un anglophone. Les notions voisines sont « death in service », « income protection » et « life assurance » au Royaume-Uni, « life insurance » et « short-term / long-term disability » aux États-Unis. Distinguez-la bien de la mutuelle, qui ne couvre que les frais de santé.",
+  "french_concept": true,
+  "explain": {
+   "written": "'Prévoyance' is a collective insurance scheme, distinct from health insurance, which provides benefits in the event of the employee's death, long-term sickness absence or permanent disability; for certain categories of staff it is compulsory under collective agreements.",
+   "spoken": "It's the insurance that pays out if you die, or if you're off sick for a long time or can't work again. Think life insurance plus income protection, arranged through the employer."
+  }
+ },
+ {
+  "id": "py-065",
+  "level": 2,
+  "fr": "régime à cotisations définies",
+  "term": {
+   "uk": "defined contribution scheme",
+   "us": "defined contribution plan"
+  },
+  "ipa": {
+   "uk": "/dɪˌfaɪnd ˌkɒntrɪˈbjuːʃ(ə)n skiːm/",
+   "us": "/dɪˌfaɪnd ˌkɑːntrɪˈbjuːʃ(ə)n plæn/"
+  },
+  "def": "A pension arrangement in which the contributions are fixed but the final pension depends on how the investments perform.",
+  "registers": {
+   "formal": {
+    "uk": "defined contribution scheme",
+    "us": "defined contribution plan",
+    "ex": "The Company operates a [[defined contribution scheme]] to which it contributes a percentage of pensionable salary.",
+    "ex_us": "The Company sponsors a [[defined contribution plan]] to which it contributes a percentage of eligible compensation."
+   },
+   "everyday": {
+    "uk": "DC scheme",
+    "us": "DC plan",
+    "ex": "It's a [[DC scheme]], so what you end up with depends on the markets.",
+    "ex_us": "It's a [[DC plan]], so what you end up with depends on the markets."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "pensionable salary",
+   "a pension pot",
+   "to build up a pension",
+   "investment risk"
+  ],
+  "note_fr": "Par opposition au « defined benefit scheme », qui garantit un niveau de pension. « Pension pot » (UK) = l'épargne accumulée. Les régimes « DC » sont devenus la norme dans le secteur privé britannique et américain ; en France, la retraite repose d'abord sur les régimes obligatoires par répartition.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-066",
+  "level": 2,
+  "fr": "affiliation automatique à un régime de retraite d'entreprise",
+  "term": {
+   "uk": "auto-enrolment",
+   "us": "automatic enrollment"
+  },
+  "ipa": {
+   "uk": "/ˌɔːtəʊ ɪnˈrəʊlmənt/",
+   "us": "/ˌɔːtəˈmætɪk ɪnˈroʊlmənt/"
+  },
+  "def": "The system under which employees are put into a workplace pension automatically unless they choose to leave it.",
+  "registers": {
+   "formal": {
+    "uk": "automatic enrolment",
+    "us": "automatic enrollment",
+    "ex": "Eligible jobholders are subject to [[automatic enrolment]] in the scheme and may opt out within the statutory period.",
+    "ex_us": "Eligible employees are subject to [[automatic enrollment]] in the plan and may opt out at any time."
+   },
+   "everyday": {
+    "uk": "auto-enrolment",
+    "us": "auto-enrollment",
+    "ex": "With [[auto-enrolment]], you're in the pension unless you actively opt out.",
+    "ex_us": "With [[auto-enrollment]], you're in the plan unless you actively opt out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to opt out",
+   "to opt back in",
+   "to be enrolled by default",
+   "minimum contributions"
+  ],
+  "note_fr": "Notion britannique à connaître : les employeurs doivent affilier d'office les salariés éligibles à un « workplace pension » et y cotiser. « To opt out » = renoncer, se retirer d'un dispositif. Orthographe : « enrolment » (UK), « enrollment » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-067",
+  "level": 2,
+  "fr": "égalité de rémunération",
+  "term": {
+   "uk": "equal pay",
+   "us": "equal pay"
+  },
+  "ipa": {
+   "uk": "/ˌiːkwəl ˈpeɪ/",
+   "us": "/ˌiːkwəl ˈpeɪ/"
+  },
+  "def": "The principle that women and men must receive the same pay for the same work or for work of equal value.",
+  "registers": {
+   "formal": {
+    "uk": "equal pay for equal work",
+    "us": "equal pay for equal work",
+    "ex": "The Company is committed to the principle of [[equal pay for equal work]] or work of equal value."
+   },
+   "everyday": {
+    "uk": "equal pay",
+    "us": "equal pay",
+    "ex": "If two people do the same job, [[equal pay]] isn't a favour - it's the law.",
+    "ex_us": "If two people do the same job, [[equal pay]] isn't a favor - it's the law."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an equal pay claim",
+   "an equal pay audit",
+   "to justify a pay difference",
+   "a comparator"
+  ],
+  "note_fr": "« Equal pay » vise l'égalité entre personnes faisant un travail égal ou de valeur égale ; ne le confondez pas avec le « gender pay gap », qui est un écart statistique moyen. Le droit français connaît en outre le principe plus large « à travail égal, salaire égal » entre tous les salariés, que vous pouvez rendre par « the general principle of equal pay for equal work ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-068",
+  "level": 2,
+  "fr": "écart de rémunération entre les femmes et les hommes",
+  "term": {
+   "uk": "gender pay gap",
+   "us": "gender pay gap"
+  },
+  "ipa": {
+   "uk": "/ˌdʒendə ˈpeɪ ɡæp/",
+   "us": "/ˌdʒendər ˈpeɪ ɡæp/"
+  },
+  "def": "The difference between the average pay of men and the average pay of women in an organisation or an economy.",
+  "registers": {
+   "formal": {
+    "uk": "gender pay gap",
+    "us": "gender pay gap",
+    "ex": "Employers above the statutory headcount threshold are required to publish their [[gender pay gap]] figures each year."
+   },
+   "everyday": {
+    "uk": "pay gap",
+    "us": "pay gap",
+    "ex": "Our [[pay gap]] is mostly down to who holds the senior roles, not to unequal pay for the same job."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to close the gap",
+   "to narrow the gap",
+   "the median pay gap",
+   "gender pay gap reporting"
+  ],
+  "note_fr": "« To close / to narrow the gap » = combler / réduire l'écart. Au Royaume-Uni, les grands employeurs publient chaque année leur « gender pay gap » ; en France, l'obligation prend la forme de l'index de l'égalité professionnelle, à gloser en « the French gender equality index ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-069",
+  "level": 2,
+  "fr": "transparence salariale",
+  "term": {
+   "uk": "pay transparency",
+   "us": "pay transparency"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪ trænˌspærənsi/",
+   "us": "/ˈpeɪ trænˌsperənsi/"
+  },
+  "def": "The practice or obligation of making information about pay levels and pay criteria available to employees and applicants.",
+  "registers": {
+   "formal": {
+    "uk": "pay transparency",
+    "us": "pay transparency",
+    "ex": "The directive on [[pay transparency]] gives workers a right to information on average pay levels for comparable work."
+   },
+   "everyday": {
+    "uk": "to be open about pay",
+    "us": "to be open about pay",
+    "ex": "Younger candidates expect us to [[be open about pay]] from the very first call."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "pay transparency rules",
+   "to disclose the salary range",
+   "pay secrecy",
+   "a right to information"
+  ],
+  "note_fr": "Sujet d'actualité : la directive européenne sur la transparence des rémunérations doit être transposée par les États membres, et plusieurs États américains imposent déjà la publication des fourchettes. « Pay secrecy clauses » = clauses interdisant aux salariés de parler de leur salaire, de plus en plus souvent prohibées.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-070",
+  "level": 2,
+  "fr": "étude de rémunération / comparaison au marché",
+  "term": {
+   "uk": "salary benchmarking",
+   "us": "salary benchmarking"
+  },
+  "ipa": {
+   "uk": "/ˈsæləri ˌbentʃmɑːkɪŋ/",
+   "us": "/ˈsæləri ˌbentʃmɑːrkɪŋ/"
+  },
+  "def": "Comparing the pay for a company's jobs with what other employers pay for similar jobs.",
+  "registers": {
+   "formal": {
+    "uk": "market pay analysis",
+    "us": "market pay analysis",
+    "ex": "A [[market pay analysis]] was carried out for all positions at grades 5 to 8."
+   },
+   "everyday": {
+    "uk": "to benchmark",
+    "us": "to benchmark",
+    "ex": "We [[benchmarked]] the role against three surveys, and we're about 8% behind the market."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a salary survey",
+   "the market median",
+   "to lag the market",
+   "to pay at the upper quartile"
+  ],
+  "note_fr": "« To benchmark something AGAINST something ». « To lag the market » = payer en dessous du marché ; « to lead the market » = payer au-dessus. « Salary survey » = enquête de rémunération. Évitez « study of remuneration », qui sonne traduit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-071",
+  "level": 2,
+  "fr": "gel des salaires",
+  "term": {
+   "uk": "pay freeze",
+   "us": "pay freeze"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪ friːz/",
+   "us": "/ˈpeɪ friːz/"
+  },
+  "def": "A decision not to increase salaries for a given period.",
+  "registers": {
+   "formal": {
+    "uk": "pay freeze",
+    "us": "salary freeze",
+    "ex": "In view of the results for the year, the Board has decided on a [[pay freeze]] for the next twelve months.",
+    "ex_us": "In view of the results for the year, the Board has decided on a [[salary freeze]] for the next twelve months."
+   },
+   "everyday": {
+    "uk": "to freeze pay",
+    "us": "to freeze pay",
+    "ex": "They've [[frozen pay]] for the second year running, and people are starting to leave.",
+    "ex_us": "They've [[frozen pay]] for the second year in a row, and people are starting to leave."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to impose a pay freeze",
+   "to lift the freeze",
+   "a hiring freeze",
+   "a real-terms pay cut"
+  ],
+  "note_fr": "« For the second year running » (UK) = pour la deuxième année consécutive. « A real-terms pay cut » : un gel en période d'inflation équivaut à une baisse du pouvoir d'achat. En France, le gel général n'empêche pas la revalorisation des salaires rattrapés par le SMIC ou par les minima conventionnels.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-072",
+  "level": 2,
+  "fr": "baisse de salaire",
+  "term": {
+   "uk": "pay cut",
+   "us": "pay cut"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪ kʌt/",
+   "us": "/ˈpeɪ kʌt/"
+  },
+  "def": "A reduction in the amount an employee is paid.",
+  "registers": {
+   "formal": {
+    "uk": "reduction in salary",
+    "us": "reduction in salary",
+    "ex": "Any [[reduction in salary]] constitutes a variation of the contract and requires the Employee's express agreement."
+   },
+   "everyday": {
+    "uk": "to take a pay cut",
+    "us": "to take a pay cut",
+    "ex": "He [[took a pay cut]] to move to the charity sector.",
+    "ex_us": "He [[took a pay cut]] to move to the nonprofit sector."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to accept a pay cut",
+   "to impose a pay cut",
+   "a temporary pay cut",
+   "to cut pay by 10%"
+  ],
+  "note_fr": "« To take a pay cut » = accepter une baisse. Différence juridique essentielle : en France, toute modification de la rémunération contractuelle exige l'accord du salarié ; aux États-Unis, sous le régime « at-will », l'employeur peut en principe réduire le salaire pour l'avenir moyennant information préalable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-073",
+  "level": 2,
+  "fr": "au prorata (du temps de présence)",
+  "term": {
+   "uk": "pro rata",
+   "us": "prorated"
+  },
+  "ipa": {
+   "uk": "/ˌprəʊ ˈrɑːtə/",
+   "us": "/ˌproʊˈreɪtɪd/"
+  },
+  "def": "Calculated in proportion to the time worked or to the part of the year the employee was present.",
+  "registers": {
+   "formal": {
+    "uk": "on a pro rata basis",
+    "us": "on a prorated basis",
+    "ex": "Employees joining during the year shall receive the bonus [[on a pro rata basis]].",
+    "ex_us": "Employees joining during the year shall receive the bonus [[on a prorated basis]]."
+   },
+   "everyday": {
+    "uk": "pro rata",
+    "us": "prorated",
+    "ex": "It's 40,000 full-time, so 32,000 [[pro rata]] for four days a week.",
+    "ex_us": "It's 40,000 full-time, so 32,000 [[prorated]] for four days a week."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to pro-rate a bonus",
+   "full-time equivalent salary",
+   "pro rata to time worked"
+  ],
+  "note_fr": "Les annonces britanniques affichent souvent « £30,000 pro rata » : c'est le salaire équivalent temps plein, pas ce que touchera le salarié à temps partiel. US : « prorated ». Ne dites pas « at the prorata ». « FTE » = full-time equivalent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-074",
+  "level": 2,
+  "fr": "prime discrétionnaire",
+  "term": {
+   "uk": "discretionary bonus",
+   "us": "discretionary bonus"
+  },
+  "ipa": {
+   "uk": "/dɪˈskreʃ(ə)n(ə)ri ˈbəʊnəs/",
+   "us": "/dɪˈskreʃəneri ˈboʊnəs/"
+  },
+  "def": "A bonus that the employer is free to pay or not, and whose amount it decides.",
+  "registers": {
+   "formal": {
+    "uk": "at the Company's absolute discretion",
+    "us": "at the Company's sole discretion",
+    "ex": "Any bonus is awarded [[at the Company's absolute discretion]] and does not form part of the Employee's contractual remuneration.",
+    "ex_us": "Any bonus is awarded [[at the Company's sole discretion]] and does not form part of the Employee's contractual compensation."
+   },
+   "everyday": {
+    "uk": "discretionary bonus",
+    "us": "discretionary bonus",
+    "ex": "It's a [[discretionary bonus]], so in a bad year there may be nothing at all."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to exercise discretion",
+   "a non-contractual bonus",
+   "no entitlement to a bonus"
+  ],
+  "note_fr": "Prudence : la mention « discretionary » ne suffit pas toujours. En France, une prime versée de façon constante, fixe et générale peut devenir obligatoire par usage ; au Royaume-Uni, le pouvoir discrétionnaire ne doit pas être exercé de manière irrationnelle ou arbitraire. Orthographe : « discretion », pas « discrection ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-075",
+  "level": 2,
+  "fr": "masse salariale",
+  "term": {
+   "uk": "wage bill",
+   "us": "payroll costs"
+  },
+  "ipa": {
+   "uk": "/ˈweɪdʒ bɪl/",
+   "us": "/ˈpeɪroʊl kɔːsts/"
+  },
+  "def": "The total amount a company spends on paying its employees, including contributions.",
+  "registers": {
+   "formal": {
+    "uk": "total payroll costs",
+    "us": "total payroll costs",
+    "ex": "[[Total payroll costs]] rose by 4.2% over the financial year, mainly as a result of new hires.",
+    "ex_us": "[[Total payroll costs]] rose by 4.2% over the fiscal year, mainly as a result of new hires."
+   },
+   "everyday": {
+    "uk": "wage bill",
+    "us": "payroll",
+    "ex": "We can't add another head without pushing the [[wage bill]] over budget.",
+    "ex_us": "We can't add another head without pushing [[payroll]] over budget."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to keep the wage bill under control",
+   "staff costs",
+   "as a percentage of revenue",
+   "headcount"
+  ],
+  "note_fr": "« Salary mass » est un calque à proscrire. Dans les comptes, on lit « staff costs » (UK) ou « personnel expenses ». Certains seuils français (budget du CSE, contributions formation) se calculent en pourcentage de la masse salariale : dites « a percentage of total payroll ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-076",
+  "level": 3,
+  "fr": "négociation annuelle obligatoire (NAO)",
+  "term": {
+   "uk": "mandatory annual pay negotiations",
+   "us": "mandatory annual pay negotiations"
+  },
+  "ipa": {
+   "uk": "/ˈmændət(ə)ri ˈænjuəl ˈpeɪ nɪˌɡəʊʃiˌeɪʃ(ə)nz/",
+   "us": "/ˈmændətɔːri ˈænjuəl ˈpeɪ nɪˌɡoʊʃiˌeɪʃ(ə)nz/"
+  },
+  "def": "The negotiations on pay and related matters that a French employer with union representatives must open at regular intervals, without being obliged to reach an agreement.",
+  "registers": {
+   "formal": {
+    "uk": "mandatory collective bargaining on pay",
+    "us": "mandatory collective bargaining on pay",
+    "ex": "The Company opened [[mandatory collective bargaining on pay]] with the representative trade unions in January."
+   },
+   "everyday": {
+    "uk": "annual pay talks",
+    "us": "annual pay talks",
+    "ex": "The [[annual pay talks]] start next week, and the unions are asking for 4% across the board."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to open negotiations",
+   "to reach a pay deal",
+   "a record of disagreement",
+   "the pay round"
+  ],
+  "note_fr": "Point à bien faire comprendre : l'obligation porte sur le fait de négocier loyalement, pas de conclure. En l'absence d'accord, on dresse un procès-verbal de désaccord (« a formal record of disagreement »). Le sigle NAO est inconnu hors de France. « Pay talks » et « pay deal » sont les termes de la presse britannique.",
+  "french_concept": true,
+  "explain": {
+   "written": "The NAO (négociation annuelle obligatoire) is the statutory obligation for French employers with trade union representatives to open periodic negotiations on, among other things, actual pay; the duty is to negotiate in good faith, not to reach agreement.",
+   "spoken": "Every year, companies that have union reps have to sit down and negotiate pay with them. They have to negotiate properly, but they don't have to end up with a deal."
+  }
+ },
+ {
+  "id": "py-077",
+  "level": 3,
+  "fr": "minimum conventionnel",
+  "term": {
+   "uk": "minimum rate under the collective agreement",
+   "us": "minimum rate under the collective agreement"
+  },
+  "ipa": {
+   "uk": "/ˈmɪnɪməm reɪt ˌʌndə ðə kəˈlektɪv əˈɡriːmənt/",
+   "us": "/ˈmɪnɪməm reɪt ˌʌndər ðə kəˈlektɪv əˈɡriːmənt/"
+  },
+  "def": "The lowest salary that an employer may pay for a given grade under the sector-level collective agreement that applies to it.",
+  "registers": {
+   "formal": {
+    "uk": "minimum salary laid down by the collective agreement",
+    "us": "minimum salary established by the collective agreement",
+    "ex": "The Employee's remuneration may not be lower than the [[minimum salary laid down by the collective agreement]] for his or her grade.",
+    "ex_us": "The Employee's compensation may not be lower than the [[minimum salary established by the collective agreement]] for his or her grade."
+   },
+   "everyday": {
+    "uk": "sector minimum",
+    "us": "sector minimum",
+    "ex": "Check the [[sector minimum]] for her grade before you make the offer - it went up in July."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fall below the minimum",
+   "sector-level pay minima",
+   "to bring salaries into line",
+   "agreed minimum rates"
+  ],
+  "note_fr": "Notion mal connue des clients anglo-saxons : en plus du SMIC, chaque convention collective de branche fixe des minima par niveau de classification, qui s'imposent à l'employeur. Un salaire peut donc être supérieur au SMIC et pourtant illégal. « Conventional minimum » est un contresens : « conventional » signifie classique, habituel.",
+  "french_concept": true,
+  "explain": {
+   "written": "The 'minimum conventionnel' is the minimum salary set for each grade by the applicable sector-level collective agreement, which is binding on the employer in addition to the statutory minimum wage.",
+   "spoken": "On top of the national minimum wage, each industry agreement sets its own minimum pay for every job level, and you can't go below that either."
+  }
+ },
+ {
+  "id": "py-078",
+  "level": 3,
+  "fr": "plafond de la sécurité sociale",
+  "term": {
+   "uk": "social security ceiling",
+   "us": "social security ceiling"
+  },
+  "ipa": {
+   "uk": "/ˈsəʊʃ(ə)l sɪˈkjʊərəti ˈsiːlɪŋ/",
+   "us": "/ˈsoʊʃ(ə)l sɪˈkjʊrəti ˈsiːlɪŋ/"
+  },
+  "def": "A reference amount, revised every year, which is used in France to calculate certain contributions, benefits and legal thresholds.",
+  "registers": {
+   "formal": {
+    "uk": "social security ceiling",
+    "us": "social security ceiling",
+    "ex": "Contributions to the supplementary scheme are calculated on the portion of salary up to the [[social security ceiling]] and on the portion above it."
+   },
+   "everyday": {
+    "uk": "social security cap",
+    "us": "social security cap",
+    "ex": "Above the [[social security cap]], the contribution rates change, which is why her payslip looks different from yours.",
+    "ex_us": "Above the [[social security cap]], the contribution rates change, which is why her pay stub looks different from yours."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "up to the ceiling",
+   "a multiple of the ceiling",
+   "the portion of salary above the ceiling",
+   "the annual ceiling"
+  ],
+  "note_fr": "Le « PASS » est un pur outil de calcul français : expliquez-le plutôt que de le traduire. Notions voisines : l'« upper earnings limit » britannique pour le National Insurance et la « Social Security wage base » américaine. « Ceiling » et « cap » sont interchangeables ; « plafond » se dit aussi « upper limit ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The social security ceiling (plafond de la sécurité sociale) is a reference amount, revised annually, by reference to which certain social security contributions, benefits and statutory thresholds are calculated in France.",
+   "spoken": "It's a reference figure that's updated every year. A lot of French contributions and limits are worked out as a multiple of it."
+  }
+ },
+ {
+  "id": "py-079",
+  "level": 3,
+  "fr": "CSG et CRDS",
+  "term": {
+   "uk": "social levies (CSG and CRDS)",
+   "us": "social levies (CSG and CRDS)"
+  },
+  "ipa": {
+   "uk": "/ˈsəʊʃ(ə)l ˈleviz/",
+   "us": "/ˈsoʊʃ(ə)l ˈleviz/"
+  },
+  "def": "Two French levies deducted from pay and other income to help fund the social security system.",
+  "registers": {
+   "formal": {
+    "uk": "social security levies",
+    "us": "social security levies",
+    "ex": "The amounts are stated before deduction of the [[social security levies]] known as CSG and CRDS."
+   },
+   "everyday": {
+    "uk": "social levies",
+    "us": "social levies",
+    "ex": "The two lines at the bottom are [[social levies]] - they come off almost everything, including your profit share.",
+    "ex_us": "The two lines at the bottom are [[social levies]] - they come off almost everything, including your profit sharing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be subject to CSG and CRDS",
+   "to be levied on income",
+   "deductible and non-deductible portions"
+  ],
+  "note_fr": "Ni tout à fait cotisations ni tout à fait impôts : « levy » est le terme le plus juste. Elles frappent aussi des sommes exonérées de cotisations, comme l'intéressement ou la participation. « Levy » se prononce /ˈlevi/, comme « heavy ».",
+  "french_concept": true,
+  "explain": {
+   "written": "CSG (contribution sociale généralisée) and CRDS (contribution au remboursement de la dette sociale) are levies charged on earned and other income to finance social protection in France; they are deducted from pay in addition to social security contributions.",
+   "spoken": "They're two French levies that come off your pay on top of the normal contributions, and they go towards funding the social security system."
+  }
+ },
+ {
+  "id": "py-080",
+  "level": 3,
+  "fr": "saisie sur salaire",
+  "term": {
+   "uk": "attachment of earnings",
+   "us": "wage garnishment"
+  },
+  "ipa": {
+   "uk": "/əˈtætʃmənt əv ˈɜːnɪŋz/",
+   "us": "/ˈweɪdʒ ˌɡɑːrnɪʃmənt/"
+  },
+  "def": "A legal procedure under which the employer must take part of an employee's pay and send it to a creditor.",
+  "registers": {
+   "formal": {
+    "uk": "attachment of earnings order",
+    "us": "wage garnishment order",
+    "ex": "On receipt of an [[attachment of earnings order]], the Employer is required to make the deductions specified and remit them to the court.",
+    "ex_us": "On receipt of a [[wage garnishment order]], the Employer is required to withhold the amounts specified and remit them to the creditor."
+   },
+   "everyday": {
+    "uk": "to have one's wages docked",
+    "us": "to have one's wages garnished",
+    "ex": "He's [[having his wages docked]] to pay off a court debt, and payroll has no say in it.",
+    "ex_us": "He's [[having his wages garnished]] to pay off a court debt, and payroll has no say in it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the protected portion of earnings",
+   "to remit deductions to a creditor",
+   "a child maintenance order"
+  ],
+  "note_fr": "« Seizure of salary » se comprend mais n'est le terme technique nulle part. Dans les trois systèmes, une fraction du salaire reste insaisissable (« protected earnings »). « To dock someone's pay » = opérer une retenue, souvent à titre de sanction, ce qui est interdit en France.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-081",
+  "level": 3,
+  "fr": "à terme échu",
+  "term": {
+   "uk": "in arrears",
+   "us": "in arrears"
+  },
+  "ipa": {
+   "uk": "/ɪn əˈrɪəz/",
+   "us": "/ɪn əˈrɪrz/"
+  },
+  "def": "Paid at the end of the period of work to which the payment relates, not at the beginning.",
+  "registers": {
+   "formal": {
+    "uk": "monthly in arrears",
+    "us": "monthly in arrears",
+    "ex": "The salary shall accrue from day to day and be payable [[monthly in arrears]] on or about the 28th of each month."
+   },
+   "everyday": {
+    "uk": "at the end of the month",
+    "us": "at the end of the month",
+    "ex": "You're paid [[at the end of the month]] for the month you've just worked."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "payable in arrears",
+   "to accrue from day to day",
+   "payable in advance",
+   "to fall into arrears"
+  ],
+  "note_fr": "Double sens : « paid in arrears » = payé à terme échu (normal), mais « to be in arrears » = être en retard de paiement. Le contexte tranche. Contraire : « in advance ». « Arrears » est toujours au pluriel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-082",
+  "level": 3,
+  "fr": "rémunération à objectifs atteints",
+  "term": {
+   "uk": "on-target earnings",
+   "us": "on-target earnings"
+  },
+  "ipa": {
+   "uk": "/ˌɒn ˈtɑːɡɪt ˈɜːnɪŋz/",
+   "us": "/ˌɑːn ˈtɑːrɡɪt ˈɜːrnɪŋz/"
+  },
+  "def": "The total pay, basic salary plus commission or bonus, that an employee will receive if they meet all their targets.",
+  "registers": {
+   "formal": {
+    "uk": "on-target earnings",
+    "us": "on-target earnings",
+    "ex": "The package comprises a basic salary of EUR 45,000 and [[on-target earnings]] of EUR 75,000.",
+    "ex_us": "The package comprises a base salary of USD 45,000 and [[on-target earnings]] of USD 75,000."
+   },
+   "everyday": {
+    "uk": "OTE",
+    "us": "OTE",
+    "ex": "It's forty-five basic, seventy-five [[OTE]].",
+    "ex_us": "It's forty-five base, seventy-five [[OTE]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "uncapped OTE",
+   "a 60/40 pay mix",
+   "to hit quota",
+   "at 100% of target"
+  ],
+  "note_fr": "Abréviation omniprésente dans les annonces commerciales : « £45k basic, £75k OTE ». Il s'agit d'une cible, pas d'une garantie. « Pay mix » = répartition fixe / variable. « Quota » (US) = objectif de vente.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-083",
+  "level": 3,
+  "fr": "plafonner (une prime, une commission)",
+  "term": {
+   "uk": "to cap",
+   "us": "to cap"
+  },
+  "ipa": {
+   "uk": "/tə kæp/",
+   "us": "/tə kæp/"
+  },
+  "def": "To set a maximum amount that a payment cannot exceed.",
+  "registers": {
+   "formal": {
+    "uk": "to be capped at",
+    "us": "to be capped at",
+    "ex": "The annual bonus shall [[be capped at]] 150% of the target amount."
+   },
+   "everyday": {
+    "uk": "to cap",
+    "us": "to cap",
+    "ex": "They [[cap]] commission at twice your basic, which the top sellers hate.",
+    "ex_us": "They [[cap]] commission at twice your base, which the top sellers hate."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an uncapped commission plan",
+   "a cap on bonuses",
+   "a floor and a cap",
+   "subject to a maximum of"
+  ],
+  "note_fr": "« To cap » = plafonner ; « a floor » = un plancher. Ne dites pas « to ceil » ni « plafonned ». « Uncapped commission » (sans plafond) est un argument d'annonce classique. Également utile : « up to a maximum of ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-084",
+  "level": 3,
+  "fr": "prix d'exercice",
+  "term": {
+   "uk": "exercise price",
+   "us": "strike price"
+  },
+  "ipa": {
+   "uk": "/ˈeksəsaɪz praɪs/",
+   "us": "/ˈstraɪk praɪs/"
+  },
+  "def": "The fixed price at which the holder of a share option may buy the shares.",
+  "registers": {
+   "formal": {
+    "uk": "exercise price",
+    "us": "exercise price",
+    "ex": "The [[exercise price]] of each option shall be determined on the date of grant in accordance with the rules of the plan.",
+    "ex_us": "The [[exercise price]] of each option shall be determined on the grant date in accordance with the terms of the plan."
+   },
+   "everyday": {
+    "uk": "exercise price",
+    "us": "strike price",
+    "ex": "The [[exercise price]] is twelve euros and the shares are trading at nine, so the options aren't worth much at the moment.",
+    "ex_us": "The [[strike price]] is twelve dollars and the stock is trading at nine, so the options aren't worth much right now."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the date of grant",
+   "the market value of the shares",
+   "to be in the money",
+   "to be under water"
+  ],
+  "note_fr": "« Exercise price » est le terme des règlements de plan dans les deux pays ; « strike price » domine à l'oral aux États-Unis. « In the money » : le cours dépasse le prix d'exercice ; « under water » : l'inverse.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-085",
+  "level": 3,
+  "fr": "lever ses options",
+  "term": {
+   "uk": "to exercise one's options",
+   "us": "to exercise one's options"
+  },
+  "ipa": {
+   "uk": "/tu ˈeksəsaɪz wʌnz ˈɒpʃ(ə)nz/",
+   "us": "/tu ˈeksərsaɪz wʌnz ˈɑːpʃ(ə)nz/"
+  },
+  "def": "To use the right given by share options to buy the shares at the agreed price.",
+  "registers": {
+   "formal": {
+    "uk": "to exercise",
+    "us": "to exercise",
+    "ex": "Vested options may be [[exercised]] at any time during the exercise period, after which they shall lapse."
+   },
+   "everyday": {
+    "uk": "to cash in",
+    "us": "to cash in",
+    "ex": "She [[cashed in]] her options as soon as the share price recovered.",
+    "ex_us": "She [[cashed in]] her options as soon as the stock price recovered."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the exercise period",
+   "to lapse",
+   "to exercise and sell",
+   "a capital gain on exercise"
+  ],
+  "note_fr": "« To lift an option » est un calque de « lever » : dites « to exercise ». « To lapse » = devenir caduc. « To cash in » implique en général de lever puis de vendre aussitôt. Le traitement fiscal et social varie fortement d'un pays à l'autre : renvoyez à un fiscaliste.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-086",
+  "level": 3,
+  "fr": "« good leaver » / « bad leaver » (sort des droits en cas de départ)",
+  "term": {
+   "uk": "good leaver",
+   "us": "good leaver"
+  },
+  "ipa": {
+   "uk": "/ˌɡʊd ˈliːvə/",
+   "us": "/ˌɡʊd ˈliːvər/"
+  },
+  "def": "A participant in a share or bonus plan who leaves for a reason, such as retirement, ill health or redundancy, that allows them to keep all or part of their awards.",
+  "registers": {
+   "formal": {
+    "uk": "good leaver",
+    "us": "good leaver",
+    "ex": "A participant who ceases employment as a [[good leaver]] shall retain a time-apportioned part of the unvested award.",
+    "ex_us": "A participant whose employment ends as a [[good leaver]] shall retain a prorated portion of the unvested award."
+   },
+   "everyday": {
+    "uk": "to leave on good terms",
+    "us": "to leave on good terms",
+    "ex": "If you [[leave on good terms]] - retirement, redundancy, that sort of thing - you keep part of your shares.",
+    "ex_us": "If you [[leave on good terms]] - retirement, a layoff, that sort of thing - you keep part of your stock."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "bad leaver provisions",
+   "to forfeit unvested awards",
+   "leaver status",
+   "at the committee's discretion"
+  ],
+  "note_fr": "Les expressions « good leaver » et « bad leaver » s'emploient telles quelles, y compris dans les plans français. Le démissionnaire est en général « bad leaver » et perd ses droits non acquis (« forfeits »). Ce sont des catégories contractuelles, définies par chaque plan, et non par la loi.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-087",
+  "level": 3,
+  "fr": "régime à prestations définies",
+  "term": {
+   "uk": "defined benefit scheme",
+   "us": "defined benefit plan"
+  },
+  "ipa": {
+   "uk": "/dɪˌfaɪnd ˈbenɪfɪt skiːm/",
+   "us": "/dɪˌfaɪnd ˈbenəfɪt plæn/"
+  },
+  "def": "A pension arrangement that promises a pension calculated by a formula, usually based on salary and years of service, whatever the investments return.",
+  "registers": {
+   "formal": {
+    "uk": "defined benefit scheme",
+    "us": "defined benefit plan",
+    "ex": "The [[defined benefit scheme]] was closed to new entrants and replaced by a defined contribution arrangement.",
+    "ex_us": "The [[defined benefit plan]] was closed to new participants and replaced by a defined contribution arrangement."
+   },
+   "everyday": {
+    "uk": "final salary pension",
+    "us": "traditional pension",
+    "ex": "The older staff are still on a [[final salary pension]]; everyone hired since then is in the DC scheme.",
+    "ex_us": "The older staff still have a [[traditional pension]]; everyone hired since then is in the 401(k)."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to close the scheme to new entrants",
+   "accrued rights",
+   "a funding deficit",
+   "years of pensionable service"
+  ],
+  "note_fr": "Dans un régime « DB », le risque financier pèse sur l'employeur, d'où leur fermeture progressive dans le secteur privé britannique et américain. En France, la « retraite chapeau » des dirigeants en est l'exemple le plus connu : glosez-la par « a top-up defined benefit pension for senior executives ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-088",
+  "level": 3,
+  "fr": "« salary sacrifice » (renonciation à une part de salaire contre un avantage)",
+  "term": {
+   "uk": "salary sacrifice",
+   "us": "pre-tax deduction"
+  },
+  "ipa": {
+   "uk": "/ˈsæləri ˌsækrɪfaɪs/",
+   "us": "/ˌpriːˈtæks dɪˈdʌkʃ(ə)n/"
+  },
+  "def": "An arrangement in which an employee agrees to a lower salary in exchange for a non-cash benefit, which reduces the tax or contributions payable.",
+  "registers": {
+   "formal": {
+    "uk": "salary sacrifice arrangement",
+    "us": "pre-tax salary reduction",
+    "ex": "Pension contributions are made by way of a [[salary sacrifice arrangement]], which constitutes a variation of the contract of employment.",
+    "ex_us": "Employee contributions are made by way of a [[pre-tax salary reduction]] elected by the Employee."
+   },
+   "everyday": {
+    "uk": "salary sacrifice",
+    "us": "pre-tax",
+    "ex": "If you pay for the bike through [[salary sacrifice]], you save the tax and the National Insurance on it.",
+    "ex_us": "If you pay for your transit pass [[pre-tax]], you save the income tax on it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sacrifice part of one's salary",
+   "a cycle-to-work scheme",
+   "to reduce pensionable pay",
+   "a pre-tax benefit"
+  ],
+  "note_fr": "Mécanisme britannique sans équivalent en France, où l'on ne peut pas librement substituer un avantage exonéré à du salaire. Attention aux effets de bord : le salaire contractuel diminue réellement. Aux États-Unis, l'idée voisine est celle des « pre-tax deductions » (401(k), couverture santé).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-089",
+  "level": 3,
+  "fr": "salarié « exempt » (non éligible aux heures supplémentaires, droit américain)",
+  "term": {
+   "uk": "exempt employee",
+   "us": "exempt employee"
+  },
+  "ipa": {
+   "uk": "/ɪɡˈzempt ɪmˌplɔɪˈiː/",
+   "us": "/ɪɡˈzempt ɪmˌplɔɪˈiː/"
+  },
+  "def": "In US law, an employee who is not entitled to overtime pay because of the nature of the job and the way they are paid.",
+  "registers": {
+   "formal": {
+    "uk": "exempt employee",
+    "us": "exempt employee",
+    "ex": "The position is classified as that of an [[exempt employee]] under the Fair Labor Standards Act and is not eligible for overtime pay."
+   },
+   "everyday": {
+    "uk": "exempt",
+    "us": "exempt",
+    "ex": "Is the role [[exempt]] or non-exempt? It changes how we handle the extra hours."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "non-exempt employees",
+   "to be eligible for overtime",
+   "to misclassify a role as exempt",
+   "paid on a salary basis"
+  ],
+  "note_fr": "Distinction propre au droit fédéral américain : les « non-exempt » ont droit à la majoration au-delà de 40 heures hebdomadaires, les « exempt » (certains cadres, fonctions administratives et professions intellectuelles rémunérés au forfait) non. Ne l'assimilez pas trop vite au statut cadre ni au forfait jours français : les critères n'ont rien de commun.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-090",
+  "level": 3,
+  "fr": "plan d'épargne retraite d'entreprise américain « 401(k) »",
+  "term": {
+   "uk": "401(k) plan",
+   "us": "401(k) plan"
+  },
+  "ipa": {
+   "uk": "/ˌfɔːr əʊ wʌn ˈkeɪ plæn/",
+   "us": "/ˌfɔːr oʊ wʌn ˈkeɪ plæn/"
+  },
+  "def": "A US retirement savings plan sponsored by the employer, into which employees pay part of their salary before tax, often with a contribution from the employer.",
+  "registers": {
+   "formal": {
+    "uk": "401(k) plan",
+    "us": "401(k) plan",
+    "ex": "Employees become eligible to participate in the Company's [[401(k) plan]] on the first day of the month following their hire date."
+   },
+   "everyday": {
+    "uk": "401(k)",
+    "us": "401(k)",
+    "ex": "Most of my retirement savings are in my [[401(k)]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to contribute to a 401(k)",
+   "the employer match",
+   "to roll over a 401(k)",
+   "to be fully vested"
+  ],
+  "note_fr": "Se lit « four-oh-one K ». C'est la principale forme d'épargne retraite des salariés américains du privé, en complément de la Social Security. L'équivalent britannique est le « workplace pension » ; en France, le dispositif le plus proche est le plan d'épargne retraite d'entreprise, de portée bien moindre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-091",
+  "level": 3,
+  "fr": "plan d'épargne retraite d'entreprise collectif (PER collectif, ex-PERCO)",
+  "term": {
+   "uk": "company retirement savings plan",
+   "us": "company retirement savings plan"
+  },
+  "ipa": {
+   "uk": "/ˈkʌmpəni rɪˈtaɪəmənt ˈseɪvɪŋz plæn/",
+   "us": "/ˈkʌmpəni rɪˈtaɪərmənt ˈseɪvɪŋz plæn/"
+  },
+  "def": "A French company plan in which employees save for retirement, the money being available in principle only when they retire.",
+  "registers": {
+   "formal": {
+    "uk": "collective retirement savings plan",
+    "us": "collective retirement savings plan",
+    "ex": "Employees may allocate all or part of their profit-sharing to the [[collective retirement savings plan]] set up within the Company."
+   },
+   "everyday": {
+    "uk": "retirement savings plan",
+    "us": "retirement savings plan",
+    "ex": "You can split your profit share between the ordinary savings plan and the [[retirement savings plan]].",
+    "ex_us": "You can split your profit sharing between the regular savings plan and the [[retirement savings plan]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be locked in until retirement",
+   "to take the savings as a lump sum",
+   "to take an annuity",
+   "to transfer one's plan"
+  ],
+  "note_fr": "À distinguer du PEE : ici les sommes sont en principe bloquées jusqu'à la retraite, sauf cas de déblocage anticipé comme l'achat de la résidence principale. Sortie en capital = « lump sum » ; en rente = « annuity ». Ne laissez pas croire à un Américain qu'il s'agit de l'équivalent du 401(k) : le dispositif reste complémentaire.",
+  "french_concept": true,
+  "explain": {
+   "written": "The PER collectif is a French company retirement savings plan into which employees may pay profit-sharing, voluntary contributions and employer matching contributions, the savings being locked in until retirement save in limited circumstances.",
+   "spoken": "It's a retirement savings plan run by the company. You can put your profit-sharing in, the employer can top it up, and you normally can't touch the money until you retire."
+  }
+ },
+ {
+  "id": "py-092",
+  "level": 3,
+  "fr": "déblocage anticipé (de l'épargne salariale)",
+  "term": {
+   "uk": "early release",
+   "us": "early withdrawal"
+  },
+  "ipa": {
+   "uk": "/ˌɜːli rɪˈliːs/",
+   "us": "/ˌɜːrli wɪðˈdrɔːəl/"
+  },
+  "def": "Taking money out of a locked-in savings plan before the end of the lock-in period, in one of the situations allowed by law.",
+  "registers": {
+   "formal": {
+    "uk": "early release of funds",
+    "us": "early withdrawal of funds",
+    "ex": "A request for [[early release of funds]] must be accompanied by evidence of the qualifying event.",
+    "ex_us": "A request for [[early withdrawal of funds]] must be accompanied by evidence of the qualifying event."
+   },
+   "everyday": {
+    "uk": "to take the money out early",
+    "us": "to take the money out early",
+    "ex": "You can [[take the money out early]] if you get married, buy your main home or leave the company."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a qualifying event",
+   "a lock-in period",
+   "to be locked in",
+   "to unlock one's savings"
+  ],
+  "note_fr": "« Blocked » ne convient pas pour l'épargne : dites « locked in » ; « déblocage » = « release » ou « withdrawal », pas « unblocking ». Les cas légaux (mariage, acquisition de la résidence principale, cessation du contrat, etc.) sont des « qualifying events ». Aux États-Unis, un « early withdrawal » d'un 401(k) entraîne en général une pénalité fiscale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-093",
+  "level": 3,
+  "fr": "prime de partage de la valeur",
+  "term": {
+   "uk": "value-sharing bonus",
+   "us": "value-sharing bonus"
+  },
+  "ipa": {
+   "uk": "/ˈvæljuː ˌʃeərɪŋ ˈbəʊnəs/",
+   "us": "/ˈvæljuː ˌʃerɪŋ ˈboʊnəs/"
+  },
+  "def": "An optional bonus that French employers may pay to employees, which is exempt from certain contributions within limits and under conditions set by law.",
+  "registers": {
+   "formal": {
+    "uk": "value-sharing bonus",
+    "us": "value-sharing bonus",
+    "ex": "The Company has decided to pay a [[value-sharing bonus]], the amount of which shall vary according to the criteria permitted by law."
+   },
+   "everyday": {
+    "uk": "tax-favoured bonus",
+    "us": "tax-favored bonus",
+    "ex": "It's a [[tax-favoured bonus]] - the government lets us pay it with lower contributions, up to a limit.",
+    "ex_us": "It's a [[tax-favored bonus]] - the government lets us pay it with lower contributions, up to a limit."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be exempt from contributions up to a limit",
+   "to vary the amount by salary level",
+   "to be set up by agreement or unilateral decision"
+  ],
+  "note_fr": "Dispositif purement français, successeur de la prime dite « Macron ». Le régime d'exonération a évolué à plusieurs reprises : ne citez pas de plafond de mémoire. Elle ne peut pas se substituer à un élément de salaire, ce qu'on formule ainsi : « it may not replace any element of pay ».",
+  "french_concept": true,
+  "explain": {
+   "written": "The value-sharing bonus (prime de partage de la valeur) is an optional bonus which French employers may award to employees and which, within statutory limits and subject to conditions, benefits from exemptions from social security contributions.",
+   "spoken": "It's an optional bonus that French law encourages: up to a certain amount, the company pays lower contributions on it. It can't be used to replace normal pay."
+  }
+ },
+ {
+  "id": "py-094",
+  "level": 3,
+  "fr": "travail de valeur égale",
+  "term": {
+   "uk": "work of equal value",
+   "us": "work of equal value"
+  },
+  "ipa": {
+   "uk": "/wɜːk əv ˌiːkwəl ˈvæljuː/",
+   "us": "/wɜːrk əv ˌiːkwəl ˈvæljuː/"
+  },
+  "def": "Different jobs that make comparable demands in terms of skills, effort, responsibility and working conditions, and must therefore be paid equally.",
+  "registers": {
+   "formal": {
+    "uk": "work of equal value",
+    "us": "work of comparable value",
+    "ex": "Jobs are to be regarded as [[work of equal value]] where they require a comparable set of knowledge, skills, responsibilities and effort.",
+    "ex_us": "Jobs are to be regarded as [[work of comparable value]] where they require a comparable set of knowledge, skills, responsibilities and effort."
+   },
+   "everyday": {
+    "uk": "comparable roles",
+    "us": "comparable roles",
+    "ex": "They're [[comparable roles]] in terms of responsibility, so it's hard to explain a 15% difference."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a comparator",
+   "to objectively justify a difference",
+   "a material factor",
+   "a job evaluation scheme"
+  ],
+  "note_fr": "Notion centrale du droit européen et britannique de l'égalité salariale : on compare des postes différents mais de valeur équivalente. Le droit fédéral américain est plus étroit et vise un travail « substantially equal ». « Comparator » = le salarié auquel on se compare.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-095",
+  "level": 3,
+  "fr": "indexation des salaires sur l'inflation",
+  "term": {
+   "uk": "index-linking of pay",
+   "us": "cost-of-living adjustment"
+  },
+  "ipa": {
+   "uk": "/ˈɪndeks ˌlɪŋkɪŋ əv peɪ/",
+   "us": "/ˌkɔːst əv ˈlɪvɪŋ əˈdʒʌstmənt/"
+  },
+  "def": "A mechanism that raises pay automatically in line with the rise in prices.",
+  "registers": {
+   "formal": {
+    "uk": "index-linked",
+    "us": "indexed to inflation",
+    "ex": "Salaries are not [[index-linked]]; any increase is determined at the annual review.",
+    "ex_us": "Salaries are not [[indexed to inflation]]; any increase is determined at the annual review."
+   },
+   "everyday": {
+    "uk": "to keep pace with inflation",
+    "us": "to keep up with inflation",
+    "ex": "Pay simply hasn't [[kept pace with inflation]] over the last three years.",
+    "ex_us": "Pay simply hasn't [[kept up with inflation]] over the last three years."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a cost-of-living increase",
+   "in real terms",
+   "to erode purchasing power",
+   "an inflation-linked rise"
+  ],
+  "note_fr": "Piège juridique français : sauf pour le SMIC, les clauses d'indexation automatique des salaires sur le niveau général des prix ou sur le SMIC sont en principe interdites. Aux États-Unis, « COLA » (cost-of-living adjustment) est courant dans les conventions syndicales et le secteur public. « In real terms » = en termes réels, inflation déduite.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-096",
+  "level": 3,
+  "fr": "salaire de référence",
+  "term": {
+   "uk": "reference salary",
+   "us": "reference salary"
+  },
+  "ipa": {
+   "uk": "/ˈref(ə)rəns ˈsæləri/",
+   "us": "/ˈref(ə)rəns ˈsæləri/"
+  },
+  "def": "The salary figure, defined by law, by agreement or by a plan, that is used as the basis for calculating a bonus, a benefit or another payment.",
+  "registers": {
+   "formal": {
+    "uk": "reference salary",
+    "us": "reference salary",
+    "ex": "For the purposes of this plan, the [[reference salary]] means the average gross basic salary paid over the preceding twelve months.",
+    "ex_us": "For purposes of this plan, the [[reference salary]] means the average gross base salary paid over the preceding twelve months."
+   },
+   "everyday": {
+    "uk": "to be based on",
+    "us": "to be based on",
+    "ex": "The bonus [[is based on]] your basic salary only - commission and overtime don't count.",
+    "ex_us": "The bonus [[is based on]] your base salary only - commission and overtime don't count."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "for the purposes of calculating",
+   "pensionable salary",
+   "to be excluded from the calculation base",
+   "average earnings"
+  ],
+  "note_fr": "Toujours définir ce que le salaire de référence inclut ou exclut (variable, primes, avantages en nature) : c'est une source classique de litiges. Au Royaume-Uni, « pensionable salary » est la base de calcul des cotisations de retraite ; « assiette » se rend par « calculation base » ou « basis ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-097",
+  "level": 3,
+  "fr": "enveloppe d'augmentations / budget d'augmentation",
+  "term": {
+   "uk": "pay budget",
+   "us": "merit budget"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪ ˌbʌdʒɪt/",
+   "us": "/ˈmerɪt ˌbʌdʒɪt/"
+  },
+  "def": "The total amount of money, usually expressed as a percentage of the wage bill, that a company sets aside for salary increases in a given year.",
+  "registers": {
+   "formal": {
+    "uk": "salary increase budget",
+    "us": "salary increase budget",
+    "ex": "The [[salary increase budget]] for the coming year has been set at 3% of total payroll, of which 1% is reserved for individual increases."
+   },
+   "everyday": {
+    "uk": "pay pot",
+    "us": "raise pool",
+    "ex": "The [[pay pot]] is 3% this year, so if I give one person 6%, somebody else gets nothing.",
+    "ex_us": "The [[raise pool]] is 3% this year, so if I give one person 6%, somebody else gets nothing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to allocate the budget",
+   "to ring-fence part of the budget",
+   "to stay within budget",
+   "a budget of 3% of payroll"
+  ],
+  "note_fr": "« Envelope » ne s'emploie pas pour un budget, sauf dans le jargon financier. « Pot » (UK) et « pool » (US) sont les images idiomatiques. « To ring-fence » (UK) = sanctuariser une somme, par exemple pour les rattrapages d'égalité salariale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-098",
+  "level": 3,
+  "fr": "rémunération des dirigeants",
+  "term": {
+   "uk": "executive pay",
+   "us": "executive compensation"
+  },
+  "ipa": {
+   "uk": "/ɪɡˈzekjətɪv peɪ/",
+   "us": "/ɪɡˈzekjətɪv ˌkɑːmpənˈseɪʃ(ə)n/"
+  },
+  "def": "The salary, bonuses, shares and other benefits paid to a company's most senior managers.",
+  "registers": {
+   "formal": {
+    "uk": "executive remuneration",
+    "us": "executive compensation",
+    "ex": "[[Executive remuneration]] is determined by the Board on the recommendation of the remuneration committee.",
+    "ex_us": "[[Executive compensation]] is determined by the Board on the recommendation of the compensation committee."
+   },
+   "everyday": {
+    "uk": "executive pay",
+    "us": "executive pay",
+    "ex": "[[Executive pay]] is going to be the awkward question at the shareholders' meeting."
+   },
+   "informal": {
+    "uk": "fat-cat pay",
+    "us": "fat-cat pay",
+    "ex": "The tabloids will have a field day with another [[fat-cat pay]] story."
+   }
+  },
+  "collocations": [
+   "the remuneration committee",
+   "a say-on-pay vote",
+   "a long-term incentive plan",
+   "the CEO pay ratio"
+  ],
+  "note_fr": "UK : « remuneration committee » (familièrement « RemCo ») ; US : « compensation committee ». « Say on pay » = vote des actionnaires sur la rémunération. En droit français, le mandataire social n'est pas un salarié : ne parlez pas de son « salary » mais de sa « remuneration ». « Fat cat » est péjoratif et journalistique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-099",
+  "level": 3,
+  "fr": "régularisation (de paie)",
+  "term": {
+   "uk": "payroll adjustment",
+   "us": "payroll adjustment"
+  },
+  "ipa": {
+   "uk": "/ˈpeɪrəʊl əˌdʒʌstmənt/",
+   "us": "/ˈpeɪroʊl əˌdʒʌstmənt/"
+  },
+  "def": "A correction made on a later payslip to put right an error or omission in an earlier pay period.",
+  "registers": {
+   "formal": {
+    "uk": "adjustment",
+    "us": "adjustment",
+    "ex": "Any discrepancy will be corrected by way of an [[adjustment]] on the following month's payslip.",
+    "ex_us": "Any discrepancy will be corrected by way of an [[adjustment]] on the following pay statement."
+   },
+   "everyday": {
+    "uk": "to put right",
+    "us": "to fix",
+    "ex": "Sorry about that - we'll [[put it right]] in next month's pay.",
+    "ex_us": "Sorry about that - we'll [[fix]] it in your next paycheck."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to correct an error",
+   "a retroactive adjustment",
+   "to show up on next month's payslip",
+   "a year-end reconciliation"
+  ],
+  "note_fr": "Faux ami : « regularisation » existe mais s'emploie surtout pour la situation d'un étranger ou d'un contrat ; pour la paie, dites « adjustment » ou « correction ». « Reconciliation » = rapprochement des comptes, pas réconciliation. « To put something right » est très britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "py-100",
+  "level": 3,
+  "fr": "indemnité forfaitaire journalière (de déplacement)",
+  "term": {
+   "uk": "daily subsistence allowance",
+   "us": "per diem"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪli səbˈsɪstəns əˌlaʊəns/",
+   "us": "/pər ˈdiːəm/"
+  },
+  "def": "A fixed daily amount paid to an employee who is travelling for work, to cover meals and incidental costs without the need for receipts.",
+  "registers": {
+   "formal": {
+    "uk": "flat-rate daily allowance",
+    "us": "per diem allowance",
+    "ex": "Employees on assignment abroad shall receive a [[flat-rate daily allowance]] in lieu of reimbursement of actual costs.",
+    "ex_us": "Employees on assignment abroad shall receive a [[per diem allowance]] in lieu of reimbursement of actual costs."
+   },
+   "everyday": {
+    "uk": "daily allowance",
+    "us": "per diem",
+    "ex": "You get a [[daily allowance]] for meals, so there's no need to keep every café receipt.",
+    "ex_us": "You get a [[per diem]] for meals, so there's no need to keep every coffee receipt."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a flat-rate allowance",
+   "actual costs",
+   "in lieu of receipts",
+   "to exceed the daily limit"
+  ],
+  "note_fr": "« Forfait » n'a pas de traduction unique : ici « flat rate » ; « forfeit » est un faux ami qui signifie perdre un droit. « Per diem » est courant aux États-Unis, plus rare au Royaume-Uni, où l'on dit « subsistence allowance ». En France, les allocations forfaitaires sont exonérées de cotisations dans les limites fixées par l'administration.",
+  "french_concept": false,
+  "explain": null
+ }
+]

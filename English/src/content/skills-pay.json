@@ -1,0 +1,1608 @@
+{
+ "reading": [
+  {
+   "id": "rd-py-1",
+   "title": "Remuneration and Benefits",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "6. REMUNERATION",
+    "6.1 In consideration of the performance of his or her duties, the Employee shall receive a gross annual basic salary of EUR [58,500], payable in thirteen equal instalments. Twelve instalments shall be paid monthly in arrears by bank transfer; the thirteenth shall be paid with the December salary, pro rata to the Employee's period of employment during the calendar year.",
+    "6.2 The Employee may in addition be eligible for a performance-related bonus of up to [10]% of the gross annual basic salary, subject to the achievement of objectives which the Company shall notify to the Employee in writing at the beginning of each financial year.",
+    "6.3 The salary shall be reviewed annually. Such review shall not give rise to any obligation on the part of the Company to increase it.",
+    "6.4 All sums payable under this clause are stated gross and shall be subject to the deduction of social security contributions and income tax at source in accordance with the legislation in force.",
+    "7. BENEFITS AND EXPENSES",
+    "7.1 The Employee shall be enrolled in the complementary health insurance and the death and disability schemes in force within the Company, the cost of which is shared between the Company and the Employee at the rates applicable from time to time.",
+    "7.2 The Employee shall receive meal vouchers for each day worked, in accordance with Company policy.",
+    "7.3 The Company shall reimburse all reasonable business expenses properly incurred by the Employee in the performance of his or her duties, upon production of receipts and in accordance with the expenses policy.",
+    "7.4 Save as expressly provided herein, no benefit granted by the Company on a discretionary basis shall be deemed to form part of the Employee's contractual remuneration."
+   ],
+   "glossary": [
+    {
+     "term": "gross annual basic salary",
+     "plain": "the fixed yearly salary before tax and contributions, without bonuses",
+     "fr": "salaire de base annuel brut"
+    },
+    {
+     "term": "instalments",
+     "plain": "equal parts of a sum that are paid at regular intervals",
+     "fr": "versements / mensualités"
+    },
+    {
+     "term": "in arrears",
+     "plain": "at the end of the period worked, not at the beginning",
+     "fr": "à terme échu"
+    },
+    {
+     "term": "pro rata",
+     "plain": "in proportion to the time actually worked",
+     "fr": "au prorata"
+    },
+    {
+     "term": "performance-related bonus",
+     "plain": "extra pay that depends on meeting agreed targets",
+     "fr": "prime sur objectifs"
+    },
+    {
+     "term": "at source",
+     "plain": "taken directly from the salary by the employer before it is paid",
+     "fr": "à la source"
+    },
+    {
+     "term": "meal vouchers",
+     "plain": "vouchers, part-paid by the employer, used to buy lunch",
+     "fr": "titres-restaurant"
+    },
+    {
+     "term": "properly incurred",
+     "plain": "genuinely and legitimately spent for work",
+     "fr": "régulièrement engagés"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "In consideration of",
+     "plain": "in return for"
+    },
+    {
+     "phrase": "shall not give rise to any obligation",
+     "plain": "does not oblige (the Company) in any way"
+    },
+    {
+     "phrase": "from time to time",
+     "plain": "as they may change in the future"
+    },
+    {
+     "phrase": "upon production of",
+     "plain": "when (receipts) are shown"
+    },
+    {
+     "phrase": "Save as expressly provided herein",
+     "plain": "except where this contract clearly says otherwise"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How is the thirteenth instalment calculated for someone who joins in July?",
+     "options": [
+      "It is paid in full in December",
+      "It is reduced in proportion to the months worked that year",
+      "It is not paid in the first year",
+      "It is added to the bonus"
+     ],
+     "answer": 1,
+     "explain_fr": "« Pro rata to the Employee's period of employment during the calendar year » : le treizième mois est proratisé selon le temps de présence dans l'année."
+    },
+    {
+     "q": "What does clause 6.3 commit the Company to?",
+     "options": [
+      "Increasing the salary every year",
+      "Increasing the salary in line with inflation",
+      "Looking at the salary each year, with no promise of a rise",
+      "Renegotiating the bonus every year"
+     ],
+     "answer": 2,
+     "explain_fr": "« Reviewed annually » n'emporte aucune obligation d'augmenter : la clause le précise expressément (« shall not give rise to any obligation »)."
+    },
+    {
+     "q": "Who pays for the health insurance scheme?",
+     "options": [
+      "The Company and the Employee, each paying a share",
+      "The Company alone",
+      "The Employee alone",
+      "The state"
+     ],
+     "answer": 0,
+     "explain_fr": "« The cost of which is shared between the Company and the Employee » : cofinancement, conformément au droit français qui impose une part patronale d'au moins la moitié."
+    },
+    {
+     "q": "What must the Employee do to have expenses reimbursed?",
+     "options": [
+      "Obtain approval before every purchase",
+      "Pay with a company card",
+      "Claim within thirty days",
+      "Provide receipts and follow the expenses policy"
+     ],
+     "answer": 3,
+     "explain_fr": "« Upon production of receipts and in accordance with the expenses policy » : justificatifs et respect de la politique de frais. Les autres conditions ne figurent pas dans la clause."
+    }
+   ]
+  },
+  {
+   "id": "rd-py-2",
+   "title": "Travel and Expenses Policy",
+   "kind": "policy extract",
+   "level": 2,
+   "paragraphs": [
+    "3. Principles",
+    "The Company will meet the cost of travel, accommodation and meals that employees incur wholly for business purposes. Employees should not be out of pocket as a result of doing their job; equally, they are expected to spend the Company's money as carefully as they would their own.",
+    "4. Submitting a claim",
+    "Expense claims must be submitted through the online portal no later than the last day of the month following the month in which the expense was incurred. Each item must be supported by a receipt showing the date, the supplier and the amount. Card slips and bank statements are not accepted as receipts. Claims received before the payroll cut-off on the 15th are reimbursed with that month's salary and shown as a separate line on the payslip.",
+    "5. Use of a private vehicle",
+    "Where public transport is impractical, employees may use their own vehicle with their line manager's prior approval. Business journeys are reimbursed by way of a mileage allowance at the rates published by the tax authorities. The allowance is deemed to cover fuel, insurance and wear and tear; no further claim may be made in respect of these costs. Travel between home and the normal place of work is not a business journey.",
+    "6. Daily allowances",
+    "Employees on assignment abroad for more than five consecutive days receive a flat-rate daily allowance for meals instead of reimbursement of actual costs. No receipts are required for expenses covered by the allowance.",
+    "7. Non-compliant claims",
+    "Claims that are late, incomplete or not in line with this policy may be rejected. Deliberately submitting a false claim is a disciplinary matter."
+   ],
+   "glossary": [
+    {
+     "term": "out of pocket",
+     "plain": "having spent your own money without getting it back",
+     "fr": "en être de sa poche"
+    },
+    {
+     "term": "incurred",
+     "plain": "spent or become liable for (a cost)",
+     "fr": "engagé (pour une dépense)"
+    },
+    {
+     "term": "payroll cut-off",
+     "plain": "the last date on which changes can be included in that month's pay",
+     "fr": "date limite de prise en compte en paie"
+    },
+    {
+     "term": "mileage allowance",
+     "plain": "a fixed amount paid for each mile or kilometre driven for work",
+     "fr": "indemnités kilométriques"
+    },
+    {
+     "term": "wear and tear",
+     "plain": "the damage that comes from normal use over time",
+     "fr": "usure normale"
+    },
+    {
+     "term": "flat-rate daily allowance",
+     "plain": "a fixed sum per day, whatever is actually spent",
+     "fr": "indemnité forfaitaire journalière"
+    },
+    {
+     "term": "a disciplinary matter",
+     "plain": "something that can lead to a formal sanction",
+     "fr": "un fait relevant du disciplinaire"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "wholly for business purposes",
+     "plain": "only for work, with no private element"
+    },
+    {
+     "phrase": "by way of",
+     "plain": "in the form of"
+    },
+    {
+     "phrase": "is deemed to cover",
+     "plain": "is treated as covering, whatever the real cost"
+    },
+    {
+     "phrase": "in respect of",
+     "plain": "for; concerning"
+    }
+   ],
+   "questions": [
+    {
+     "q": "An employee pays for a hotel on 10 March. What is the deadline for claiming?",
+     "options": [
+      "15 March",
+      "31 March",
+      "15 April",
+      "30 April"
+     ],
+     "answer": 3,
+     "explain_fr": "« No later than the last day of the month following the month in which the expense was incurred » : dépense en mars, donc jusqu'au dernier jour d'avril."
+    },
+    {
+     "q": "Which of these is accepted as proof of an expense?",
+     "options": [
+      "A receipt showing date, supplier and amount",
+      "A card slip",
+      "A bank statement",
+      "A signed declaration by the employee"
+     ],
+     "answer": 0,
+     "explain_fr": "Seul le reçu mentionnant la date, le fournisseur et le montant est admis ; tickets de carte et relevés bancaires sont expressément exclus."
+    },
+    {
+     "q": "An employee who receives the mileage allowance also wants to claim for fuel. What does the policy say?",
+     "options": [
+      "Fuel can be claimed with a receipt",
+      "Fuel is reimbursed at half its cost",
+      "Fuel is already covered by the allowance",
+      "Fuel is paid only for journeys abroad"
+     ],
+     "answer": 2,
+     "explain_fr": "« The allowance is deemed to cover fuel, insurance and wear and tear; no further claim may be made » : le carburant est réputé inclus dans l'indemnité kilométrique."
+    },
+    {
+     "q": "What is the Company's position on the daily commute?",
+     "options": [
+      "It is reimbursed at the mileage rate",
+      "It is not treated as business travel",
+      "It is reimbursed with the manager's approval",
+      "It is covered by the daily allowance"
+     ],
+     "answer": 1,
+     "explain_fr": "« Travel between home and the normal place of work is not a business journey » : le trajet domicile-travail n'est pas un déplacement professionnel au sens de cette politique."
+    }
+   ]
+  },
+  {
+   "id": "rd-py-3",
+   "title": "What a French hire really costs",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Dana Whitfield, VP People, Northlake Software Inc.\nFrom: Claire Morel\nRe: Budgeting for your first five hires in France",
+    "Dana, you asked why the budget I sent looks so much higher than the salaries we discussed. The short answer is that a French gross salary is only part of the picture.",
+    "First, employer contributions. On top of each gross salary, the company pays social security contributions that fund health care, pensions, unemployment insurance and family benefits. They are far heavier than US employer payroll taxes, and the rate varies with the level of pay, so I have budgeted them position by position rather than applying a single percentage.",
+    "Second, mandatory benefits. You must offer every employee complementary health insurance and pay at least half of the premium. Your collective agreement also requires death and disability cover for some categories of staff. You will have to pay half the cost of employees' public transport passes, and most employers in your sector provide meal vouchers. None of this is negotiable in the way a US benefits plan is.",
+    "Third, how salary is quoted. Candidates will think in gross annual terms, but several will ask what the offer means net per month. Some will also expect a thirteenth month, which your collective agreement does not require; if you decide against it, say so clearly in the offer so the annual figures can be compared like for like.",
+    "Finally, note that profit-sharing becomes compulsory once you have had fifty employees for a sustained period. That is not an issue today, but it belongs in your three-year plan.",
+    "I would suggest we walk through the spreadsheet together on Thursday."
+   ],
+   "glossary": [
+    {
+     "term": "employer contributions",
+     "plain": "payments the company makes to the social security system on top of salaries",
+     "fr": "cotisations patronales"
+    },
+    {
+     "term": "premium",
+     "plain": "the regular price paid for an insurance policy",
+     "fr": "cotisation (d'assurance)"
+    },
+    {
+     "term": "death and disability cover",
+     "plain": "insurance that pays out if an employee dies or can no longer work",
+     "fr": "prévoyance"
+    },
+    {
+     "term": "meal vouchers",
+     "plain": "vouchers, part-paid by the employer, used to buy lunch",
+     "fr": "titres-restaurant"
+    },
+    {
+     "term": "thirteenth month",
+     "plain": "an extra month's salary paid at the end of the year",
+     "fr": "treizième mois"
+    },
+    {
+     "term": "like for like",
+     "plain": "comparing things calculated in the same way",
+     "fr": "à périmètre comparable"
+    },
+    {
+     "term": "profit-sharing",
+     "plain": "a scheme that gives employees a share of the company's profits",
+     "fr": "participation aux résultats"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "Why did Claire not apply one percentage for employer contributions?",
+     "options": [
+      "Because the rate depends on how much each person is paid",
+      "Because the rate is secret",
+      "Because contributions are optional",
+      "Because US payroll taxes apply instead"
+     ],
+     "answer": 0,
+     "explain_fr": "« The rate varies with the level of pay, so I have budgeted them position by position » : le taux de cotisations patronales varie selon le niveau de salaire."
+    },
+    {
+     "q": "Which benefit does the memo present as common practice and not a legal obligation?",
+     "options": [
+      "Complementary health insurance",
+      "Half the cost of public transport passes",
+      "Meal vouchers",
+      "Death and disability cover"
+     ],
+     "answer": 2,
+     "explain_fr": "« Most employers in your sector provide meal vouchers » : c'est une pratique répandue. Les trois autres sont présentés comme des obligations (« must », « requires », « will have to »)."
+    },
+    {
+     "q": "What does Claire recommend about the thirteenth month?",
+     "options": [
+      "Paying it, because the law requires it",
+      "Paying it only to managers",
+      "Not mentioning it to candidates",
+      "Stating clearly in the offer whether it is included"
+     ],
+     "answer": 3,
+     "explain_fr": "« If you decide against it, say so clearly in the offer » : l'essentiel est la clarté, afin que les candidats comparent les chiffres annuels à périmètre identique."
+    },
+    {
+     "q": "When will profit-sharing become an issue for the client?",
+     "options": [
+      "Immediately, with the first hire",
+      "Once the company reaches fifty employees for a sustained period",
+      "After three years, whatever the headcount",
+      "Never, because the parent company is American"
+     ],
+     "answer": 1,
+     "explain_fr": "La participation devient obligatoire lorsque le seuil de cinquante salariés est atteint durablement ; la nationalité de la société mère est sans incidence."
+    }
+   ]
+  },
+  {
+   "id": "rd-py-4",
+   "title": "Your first payslip, line by line",
+   "kind": "long email",
+   "level": 1,
+   "paragraphs": [
+    "Subject: Your first payslip - a quick guide",
+    "Hi Tom,",
+    "Welcome again! Your first payslip will be available on the portal on Thursday, and your salary will reach your account the same day. French payslips are famously long, so here is what to look for.",
+    "At the top you will see your gross salary. As you joined on the 8th, it has been calculated pro rata for September; from October you will see the full monthly amount.",
+    "The middle section lists the social security contributions. There are two columns: what is deducted from your pay, and what the company pays on top. Only the first column reduces your salary. Together, your own contributions come to roughly a fifth of the gross.",
+    "Next you will find a few smaller lines. One is your share of the health insurance. Another is your share of the meal vouchers: the company pays 60% and you pay 40%, which is taken off your pay. You will also see half the cost of your travel pass added back as a reimbursement.",
+    "Near the bottom there are two figures. The first is your net pay before income tax. The second, in bold, is your take-home pay, once income tax has been deducted at source. For now the tax office has given us a default rate; it will be adjusted once you have registered with them.",
+    "If anything looks wrong, just drop me a line before the 15th and we will put it right in the next pay run.",
+    "Best wishes,\nNadia\nPayroll and HR Administration"
+   ],
+   "glossary": [
+    {
+     "term": "payslip",
+     "plain": "the document showing your pay and what has been taken off it",
+     "fr": "bulletin de paie"
+    },
+    {
+     "term": "gross salary",
+     "plain": "your salary before anything is deducted",
+     "fr": "salaire brut"
+    },
+    {
+     "term": "pro rata",
+     "plain": "in proportion to the days you actually worked",
+     "fr": "au prorata"
+    },
+    {
+     "term": "deducted",
+     "plain": "taken off an amount",
+     "fr": "retenu / prélevé"
+    },
+    {
+     "term": "take-home pay",
+     "plain": "the money that actually arrives in your bank account",
+     "fr": "net à payer"
+    },
+    {
+     "term": "default rate",
+     "plain": "the standard rate used when no personal rate is known yet",
+     "fr": "taux par défaut (taux neutre)"
+    },
+    {
+     "term": "pay run",
+     "plain": "one cycle of calculating and paying salaries",
+     "fr": "cycle de paie"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "Why is Tom's September salary lower than his normal monthly salary?",
+     "options": [
+      "He is on probation",
+      "The tax rate is too high",
+      "He started after the beginning of the month",
+      "The company made a mistake"
+     ],
+     "answer": 2,
+     "explain_fr": "« As you joined on the 8th, it has been calculated pro rata for September » : entrée en cours de mois, donc salaire proratisé."
+    },
+    {
+     "q": "Which column of contributions reduces Tom's pay?",
+     "options": [
+      "Both columns",
+      "The one showing what is deducted from his pay",
+      "The one showing what the company pays",
+      "Neither"
+     ],
+     "answer": 1,
+     "explain_fr": "« Only the first column reduces your salary » : seule la part salariale vient en déduction ; la part patronale s'ajoute au coût pour l'entreprise."
+    },
+    {
+     "q": "How are the meal vouchers paid for?",
+     "options": [
+      "The company pays 60% and Tom pays 40%",
+      "The company pays everything",
+      "Tom pays everything",
+      "They are split equally"
+     ],
+     "answer": 0,
+     "explain_fr": "« The company pays 60% and you pay 40%, which is taken off your pay » : la part salariale apparaît en retenue sur le bulletin."
+    },
+    {
+     "q": "What will happen to Tom's income tax rate?",
+     "options": [
+      "It will stay the same all year",
+      "It will be refunded in December",
+      "It will be set by the company",
+      "It will change once he has registered with the tax office"
+     ],
+     "answer": 3,
+     "explain_fr": "« It will be adjusted once you have registered with them » : le taux par défaut sera remplacé par un taux personnalisé transmis par l'administration fiscale."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-py-1",
+   "title": "Confirming a salary increase",
+   "stage": 1,
+   "kind": "email",
+   "brief": "Following the annual pay review, write to Mr Okafor, a project manager, to confirm his salary increase: new gross annual salary, effective date, back pay for the months already elapsed, unchanged bonus, and a word of thanks.",
+   "brief_fr": "À l'issue de la revue annuelle des salaires, écrivez à M. Okafor, chef de projet, pour lui confirmer son augmentation : nouveau salaire annuel brut, date d'effet, rappel de salaire pour les mois écoulés, bonus inchangé et un mot de remerciement.",
+   "gaps": [
+    {
+     "text": "I am pleased to confirm that, ___ the annual pay review, your salary will be increased.",
+     "answer": "following",
+     "accept": [
+      "further to",
+      "as a result of"
+     ],
+     "explain_fr": "'Following' + nom = à la suite de. Ne dites pas 'following to' ni 'after the review of salaries'."
+    },
+    {
+     "text": "Your gross annual salary will rise from EUR 54,000 to EUR 56,700, an ___ of 5%.",
+     "answer": "increase",
+     "accept": [
+      "uplift",
+      "rise"
+     ],
+     "explain_fr": "'An increase of 5%' : le nom 'increase' est accentué sur la première syllabe. 'Augmentation' se comprend mais n'est pas idiomatique."
+    },
+    {
+     "text": "The new salary takes ___ from 1 January.",
+     "answer": "effect",
+     "accept": [],
+     "explain_fr": "'To take effect from' = prendre effet à compter de. Collocation figée : on ne dit pas 'take effects' ni 'make effect'."
+    },
+    {
+     "text": "As the increase is ___ to 1 January, the difference for January and February will be paid with your March salary.",
+     "answer": "backdated",
+     "accept": [
+      "retroactive"
+     ],
+     "explain_fr": "'Backdated to' = avec effet rétroactif au. La somme correspondante s'appelle 'back pay'."
+    },
+    {
+     "text": "Your bonus arrangements remain ___.",
+     "answer": "unchanged",
+     "accept": [
+      "the same"
+     ],
+     "explain_fr": "'Remain unchanged' = restent inchangés. Formule sobre et rassurante, préférable à 'do not change'."
+    },
+    {
+     "text": "This increase reflects your contribution over the past year, for ___ I would like to thank you personally.",
+     "answer": "which",
+     "accept": [],
+     "explain_fr": "Relative avec préposition antéposée, de registre soutenu : 'for which'. À l'oral on dirait '...which I'd like to thank you for'."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Your salary from 1 January\n\nDear Mr Okafor,\n\nI am pleased to confirm that, following the annual pay review, your salary will be increased.\n\nYour gross annual salary will rise from EUR 54,000 to EUR 56,700, an increase of 5%. The new salary takes effect from 1 January. As the increase is backdated to 1 January, the difference for January and February will be paid with your March salary and will appear as a separate line on your payslip.\n\nYour bonus arrangements remain unchanged. All other terms and conditions of your employment are likewise unaffected.\n\nThis increase reflects your contribution over the past year, for which I would like to thank you personally.\n\nYours sincerely,\nClaire Morel\nHR Director",
+   "model_us": "Subject: Your salary effective January 1\n\nDear Mr. Okafor,\n\nI am pleased to confirm that, following the annual compensation review, your salary will be increased.\n\nYour gross annual salary will rise from EUR 54,000 to EUR 56,700, an increase of 5%. The new salary takes effect on January 1. As the increase is retroactive to January 1, the difference for January and February will be paid with your March salary and will appear as a separate line on your pay statement.\n\nYour bonus arrangements remain unchanged. All other terms and conditions of your employment are likewise unaffected.\n\nThis increase reflects your contribution over the past year, for which I would like to thank you personally.\n\nSincerely,\nClaire Morel\nHR Director",
+   "commentary": [
+    {
+     "quote": "I am pleased to confirm that",
+     "note_fr": "Ouverture standard d'une bonne nouvelle écrite. 'I have the pleasure to' est un calque : dites 'I am pleased to' ou 'I am delighted to'."
+    },
+    {
+     "quote": "will rise from EUR 54,000 to EUR 56,700",
+     "note_fr": "'To rise from... to...' : l'ancien et le nouveau montant, toujours en brut annuel. La devise précède le chiffre dans un courrier formel."
+    },
+    {
+     "quote": "will appear as a separate line on your payslip",
+     "note_fr": "Anticiper la question du salarié ('où est mon rappel ?') est une marque de professionnalisme. 'To appear on the payslip' = figurer sur le bulletin."
+    },
+    {
+     "quote": "are likewise unaffected",
+     "note_fr": "'Likewise' = de même. Formule utile pour préciser qu'aucun autre élément du contrat n'est modifié."
+    },
+    {
+     "quote": "for which I would like to thank you personally",
+     "note_fr": "La reconnaissance est exprimée sobrement, en fin de message. L'anglais professionnel évite l'emphase : pas de 'huge thanks' dans un courrier formel."
+    }
+   ],
+   "checklist": [
+    "Have I given both the old and the new figure, and said that they are gross?",
+    "Is the effective date stated without ambiguity?",
+    "Have I explained when and how the back pay will be paid?",
+    "Have I made clear what does not change?",
+    "Is the tone warm but measured, without promising anything for next year?"
+   ],
+   "phrasebank": [
+    "I am pleased to confirm that...",
+    "Your gross annual salary will rise from... to...",
+    "The new salary takes effect from...",
+    "The increase is backdated to...",
+    "The difference will be paid with your [March] salary.",
+    "All other terms and conditions remain unchanged.",
+    "This reflects your contribution over the past year."
+   ]
+  },
+  {
+   "id": "wr-py-2",
+   "title": "Answering a payslip query",
+   "stage": 1,
+   "kind": "email",
+   "brief": "An employee, Sarah, has written to say her net pay is lower than last month. Reply: you have looked into it; the difference comes from a higher income tax rate sent by the tax office and from the end of an overtime payment; nothing is wrong; offer to go through the payslip with her.",
+   "brief_fr": "Une salariée, Sarah, vous signale que son net est inférieur à celui du mois dernier. Répondez : vous avez vérifié ; l'écart vient d'un taux de prélèvement à la source plus élevé transmis par l'administration et de la fin d'un paiement d'heures supplémentaires ; il n'y a pas d'erreur ; proposez de parcourir le bulletin avec elle.",
+   "gaps": [
+    {
+     "text": "Thanks for getting in touch. I've ___ into it, and I can see why the figure surprised you.",
+     "answer": "looked",
+     "accept": [
+      "checked"
+     ],
+     "explain_fr": "'To look into something' = examiner, se pencher sur. Verbe à particule naturel dans un e-mail ; 'I have investigated' serait trop solennel."
+    },
+    {
+     "text": "Your gross salary is the same as last month; the difference is ___ to two things.",
+     "answer": "down",
+     "accept": [
+      "due"
+     ],
+     "explain_fr": "'To be down to' = s'expliquer par (UK, courant). 'Due to' est correct et plus neutre."
+    },
+    {
+     "text": "First, the tax office sent us a new rate for you, so more income tax was ___ at source.",
+     "answer": "deducted",
+     "accept": [
+      "withheld",
+      "taken off"
+     ],
+     "explain_fr": "'Deducted at source' = prélevé à la source. Aux États-Unis on dirait 'withheld'."
+    },
+    {
+     "text": "Second, last month's pay ___ twelve hours of overtime, which pushed the total up.",
+     "answer": "included",
+     "accept": [
+      "contained"
+     ],
+     "explain_fr": "'To include' : le salaire du mois dernier comprenait des heures supplémentaires. 'Overtime' est indénombrable."
+    },
+    {
+     "text": "So there is no mistake on our ___, but I do understand it's an unwelcome surprise.",
+     "answer": "side",
+     "accept": [
+      "part",
+      "end"
+     ],
+     "explain_fr": "'On our side' = de notre côté. Notez le 'do' d'insistance, qui adoucit le message en marquant l'empathie."
+    },
+    {
+     "text": "I'd be happy to go ___ the payslip with you if that would help.",
+     "answer": "through",
+     "accept": [
+      "over"
+     ],
+     "explain_fr": "'To go through a document with someone' = le parcourir point par point. Offre concrète, plus utile qu'un simple 'do not hesitate'."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Re: My pay this month\n\nHi Sarah,\n\nThanks for getting in touch. I've looked into it, and I can see why the figure surprised you.\n\nYour gross salary is the same as last month; the difference is down to two things. First, the tax office sent us a new rate for you, so more income tax was deducted at source. We simply apply the rate we are given, so if you think it is wrong, you would need to raise it with them directly through your online account. Second, last month's pay included twelve hours of overtime, which pushed the total up.\n\nSo there is no mistake on our side, but I do understand it's an unwelcome surprise.\n\nI'd be happy to go through the payslip with you if that would help. I'm free tomorrow after two.\n\nBest wishes,\nNadia",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I can see why the figure surprised you",
+     "note_fr": "Reconnaître l'étonnement avant d'expliquer : réflexe typiquement britannique, qui désamorce le reproche implicite."
+    },
+    {
+     "quote": "the difference is down to two things",
+     "note_fr": "Annoncer le plan en une phrase ('two things'), puis dérouler avec 'First' et 'Second' : clarté maximale pour un sujet technique."
+    },
+    {
+     "quote": "We simply apply the rate we are given",
+     "note_fr": "Point de droit formulé simplement : l'employeur applique le taux transmis et ne peut pas le modifier. 'Simply' évite le ton défensif."
+    },
+    {
+     "quote": "you would need to raise it with them directly",
+     "note_fr": "'To raise something with someone' = soulever une question auprès de quelqu'un. Le conditionnel 'would need to' est plus courtois que 'you must'."
+    },
+    {
+     "quote": "I'm free tomorrow after two",
+     "note_fr": "Une proposition précise vaut mieux qu'une offre vague. Dans un e-mail entre collègues, les contractions ('I'm', 'I've') sont naturelles."
+    }
+   ],
+   "checklist": [
+    "Have I shown that I actually checked before answering?",
+    "Is each cause of the difference explained in one plain sentence?",
+    "Have I said clearly whether or not there is an error?",
+    "Have I told her who to contact about the tax rate?",
+    "Have I offered a concrete next step?"
+   ],
+   "phrasebank": [
+    "Thanks for getting in touch.",
+    "I've looked into it, and...",
+    "The difference is down to two things.",
+    "We simply apply the rate we are given.",
+    "You would need to raise it with... directly.",
+    "There is no mistake on our side, but I do understand...",
+    "I'd be happy to go through it with you."
+   ]
+  },
+  {
+   "id": "wr-py-3",
+   "title": "Explaining French profit-sharing to a client",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "A British finance director has asked you to explain, in one paragraph of 110-150 words, the difference between 'participation' and 'intéressement', and where the money goes. Write the paragraph from the outline.",
+   "brief_fr": "Un directeur financier britannique vous demande d'expliquer, en un paragraphe de 110 à 150 mots, la différence entre participation et intéressement, et ce que deviennent les sommes. Rédigez le paragraphe à partir du plan.",
+   "gaps": [],
+   "outline": [
+    "Two distinct schemes, often confused",
+    "Participation: compulsory from fifty employees, statutory formula based on profits",
+    "Intéressement: optional, set up by agreement, criteria chosen by the company",
+    "Both collective; neither can replace salary",
+    "Employee's choice: immediate payment or company savings plan (locked in five years, favourable tax treatment)"
+   ],
+   "model": "French law provides for two profit-sharing schemes, which are often confused. The first, known as 'participation', is compulsory in companies with fifty or more employees: a share of annual profits, calculated by a statutory formula, must be distributed to staff. The second, 'intéressement', is optional. It is set up by agreement, and the company is free to choose the criteria, which may relate to financial results or to operational targets such as quality or safety. Both schemes are collective, and neither may be used to replace salary. In each case, employees may either take the money straight away, in which case it is taxed as income, or pay it into the company savings plan, where it is locked in for five years in return for more favourable tax treatment.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "which are often confused",
+     "note_fr": "Une relative courte suffit à annoncer l'enjeu du paragraphe. Évitez 'that people mix' ; 'to confuse A with B' est le verbe juste."
+    },
+    {
+     "quote": "The first, known as 'participation', is compulsory",
+     "note_fr": "Le terme français est conservé entre guillemets et immédiatement expliqué : c'est la bonne méthode pour une notion sans équivalent. 'Known as' = dit, appelé."
+    },
+    {
+     "quote": "the company is free to choose the criteria",
+     "note_fr": "'To be free to' + verbe exprime la latitude laissée à l'entreprise, par contraste avec 'statutory formula'. 'Criteria' est un pluriel (singulier : 'criterion')."
+    },
+    {
+     "quote": "neither may be used to replace salary",
+     "note_fr": "'Neither' + verbe au singulier. 'May' exprime ici l'interdiction juridique (may not / neither may), plus formel que 'can'."
+    },
+    {
+     "quote": "in return for more favourable tax treatment",
+     "note_fr": "'In return for' = en contrepartie de. 'Tax treatment' = régime fiscal ; on ne dit pas 'fiscal regime' dans ce contexte."
+    }
+   ],
+   "checklist": [
+    "Does the first sentence tell the reader there are two schemes?",
+    "Have I kept the French terms and glossed each one at first mention?",
+    "Is the contrast compulsory / optional unmistakable?",
+    "Have I explained the two options open to the employee?",
+    "Have I avoided figures and rates that I cannot guarantee?"
+   ],
+   "phrasebank": [
+    "French law provides for...",
+    "The first, known as '...', is...",
+    "It is set up by agreement.",
+    "The company is free to choose...",
+    "Neither may be used to...",
+    "Employees may either... or...",
+    "in return for more favourable tax treatment"
+   ]
+  },
+  {
+   "id": "wr-py-4",
+   "title": "Minutes of a pay review meeting",
+   "stage": 2,
+   "kind": "meeting minutes",
+   "brief": "Write the minutes item (110-150 words) recording the discussion of the annual pay budget at a management committee meeting: the proposal, the objection raised by the Finance Director, the decision and the action points.",
+   "brief_fr": "Rédigez le point de compte rendu (110 à 150 mots) consignant la discussion du budget annuel d'augmentations en comité de direction : la proposition, l'objection du directeur financier, la décision et les actions à mener.",
+   "gaps": [],
+   "outline": [
+    "HR Director presented the proposal: 3% budget, 1.5% general increase + 1.5% merit",
+    "Finance Director: concern about the wage bill; suggested 2.5%",
+    "Discussion: turnover among engineers, market benchmark",
+    "Decision: 3% approved, 0.3% ring-fenced for equal pay adjustments",
+    "Actions: HR to brief managers; proposals by a set date"
+   ],
+   "model": "3. Annual pay review\n\nC. Morel presented the proposed pay budget of 3% of the wage bill, split equally between a general increase and individual merit increases. P. Lambert expressed concern about the impact on payroll costs and suggested limiting the budget to 2.5%. C. Morel pointed out that turnover among engineers had risen sharply and that the latest benchmarking placed the company below the market median for those roles. After discussion, the committee approved the 3% budget with effect from 1 April, on the understanding that 0.3% would be ring-fenced for equal pay adjustments.\n\nActions: C. Morel to brief line managers by 15 February; managers to submit their individual proposals by 1 March.",
+   "model_us": "3. Annual compensation review\n\nC. Morel presented the proposed salary increase budget of 3% of payroll, split equally between a general increase and individual merit increases. P. Lambert expressed concern about the impact on payroll costs and suggested limiting the budget to 2.5%. C. Morel pointed out that turnover among engineers had risen sharply and that the latest benchmarking placed the company below the market median for those roles. After discussion, the committee approved the 3% budget effective April 1, with the understanding that 0.3% would be set aside for pay equity adjustments.\n\nActions: C. Morel to brief managers by February 15; managers to submit their individual proposals by March 1.",
+   "commentary": [
+    {
+     "quote": "presented the proposed pay budget",
+     "note_fr": "Un compte rendu se rédige au prétérit, à la troisième personne, avec des verbes de parole précis : 'presented', 'suggested', 'pointed out'."
+    },
+    {
+     "quote": "expressed concern about",
+     "note_fr": "Formule neutre pour consigner une objection sans dramatiser. 'Was worried' serait trop personnel pour un compte rendu."
+    },
+    {
+     "quote": "had risen sharply",
+     "note_fr": "Discours indirect : le present perfect d'origine ('has risen') recule au past perfect. 'Sharply' = fortement, pour une hausse."
+    },
+    {
+     "quote": "on the understanding that",
+     "note_fr": "= étant entendu que. Introduit la condition attachée à la décision ; très utile dans les comptes rendus et les courriers."
+    },
+    {
+     "quote": "C. Morel to brief line managers by 15 February",
+     "note_fr": "Style télégraphique des actions : nom + infinitif + échéance. 'To brief' = informer, donner les consignes ; 'by' = au plus tard le."
+    }
+   ],
+   "checklist": [
+    "Is everything in the past tense and the third person?",
+    "Have I recorded positions without commenting on them?",
+    "Is the decision stated in one clear sentence?",
+    "Does every action have an owner and a deadline?",
+    "Have I used reporting verbs other than 'said'?"
+   ],
+   "phrasebank": [
+    "X presented the proposed...",
+    "Y expressed concern about...",
+    "X pointed out that...",
+    "After discussion, the committee approved...",
+    "on the understanding that...",
+    "X to... by [date]."
+   ]
+  },
+  {
+   "id": "wr-py-5",
+   "title": "Recovering an overpayment",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "Because of a payroll error, Ms Bennett continued to receive a monthly on-call allowance of EUR 180 for five months after moving to a role without on-call duties. Write the letter informing her: explain what happened, apologise, state the total, propose repayment by instalments and invite her to discuss it.",
+   "brief_fr": "À la suite d'une erreur de paie, Mme Bennett a continué de percevoir pendant cinq mois une prime d'astreinte mensuelle de 180 euros après son passage à un poste sans astreinte. Rédigez la lettre l'en informant : expliquez ce qui s'est passé, présentez vos excuses, indiquez le total, proposez un remboursement échelonné et invitez-la à en discuter.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the letter and apology for the error",
+    "What happened: allowance not stopped when she changed roles; period and total",
+    "The company's proposal: recovery by monthly deductions, spread to limit the impact",
+    "Invitation to discuss, alternative arrangements possible",
+    "Reassurance: correction made, no reflection on her"
+   ],
+   "model": "Dear Ms Bennett,\n\nOverpayment of on-call allowance\n\nI am writing to let you know about an error in your pay, for which I would like to apologise on behalf of the Company.\n\nWhen you moved to your current role on 1 April, the on-call allowance attached to your previous position should have ceased. Owing to an administrative oversight, it continued to be paid from April to August inclusive. As a result, you have received EUR 900 gross to which you were not entitled.\n\nI am afraid we are obliged to recover this sum. To limit the effect on your monthly income, we propose to do so by six equal deductions from your salary, starting in October. Each deduction will be shown clearly on your payslip.\n\nIf this arrangement would cause you difficulty, please let me know by 25 September and we will gladly consider a longer period. I would also be happy to meet you to go through the figures.\n\nThe error has now been corrected. I should stress that it was entirely ours and reflects in no way on you.\n\nYours sincerely,\nClaire Morel\nHR Director",
+   "model_us": "Dear Ms. Bennett:\n\nRe: Overpayment of on-call pay\n\nI am writing to let you know about an error in your pay, for which I would like to apologize on behalf of the Company.\n\nWhen you moved to your current role on April 1, the on-call pay attached to your previous position should have ended. Due to an administrative oversight, it continued to be paid from April through August. As a result, you have received EUR 900 gross to which you were not entitled.\n\nUnfortunately, we are required to recover this amount. To limit the effect on your monthly income, we propose to do so through six equal deductions from your salary, starting in October. Each deduction will be shown clearly on your pay statement.\n\nIf this arrangement would cause you difficulty, please let me know by September 25 and we will gladly consider a longer period. I would also be happy to meet with you to go over the numbers.\n\nThe error has now been corrected. I want to stress that it was entirely ours and reflects in no way on you.\n\nSincerely,\nClaire Morel\nHR Director",
+   "commentary": [
+    {
+     "quote": "for which I would like to apologise on behalf of the Company",
+     "note_fr": "Les excuses viennent dès le premier paragraphe, au nom de l'entreprise ('on behalf of'). 'To apologise for something', jamais 'to excuse myself'."
+    },
+    {
+     "quote": "Owing to an administrative oversight",
+     "note_fr": "'Oversight' = omission involontaire : le mot reconnaît l'erreur sans désigner de coupable. 'Owing to' est la variante soutenue de 'because of'."
+    },
+    {
+     "quote": "to which you were not entitled",
+     "note_fr": "'To be entitled to' = avoir droit à. La préposition remonte devant le relatif, tournure typique de la lettre formelle."
+    },
+    {
+     "quote": "I am afraid we are obliged to recover this sum",
+     "note_fr": "'I am afraid' adoucit une mauvaise nouvelle ; 'to recover' est le verbe juste (pas 'to take back'). Le ton reste ferme sur le principe."
+    },
+    {
+     "quote": "we will gladly consider a longer period",
+     "note_fr": "La souplesse est offerte spontanément. En droit français, la récupération sur salaire est de toute façon limitée à une fraction de celui-ci : l'échelonnement s'impose."
+    },
+    {
+     "quote": "reflects in no way on you",
+     "note_fr": "'To reflect on someone' = rejaillir sur quelqu'un. Phrase de clôture qui préserve la relation."
+    }
+   ],
+   "checklist": [
+    "Have I apologised early and taken responsibility for the error?",
+    "Are the period, the monthly amount and the total all stated?",
+    "Is the repayment proposal precise (number of deductions, start date)?",
+    "Have I left room for the employee to ask for a different arrangement?",
+    "Is the tone firm on the principle but considerate towards the person?",
+    "Have I avoided any wording that suggests she was at fault?"
+   ],
+   "phrasebank": [
+    "I am writing to let you know about...",
+    "I would like to apologise on behalf of the Company.",
+    "Owing to an administrative oversight, ...",
+    "... to which you were not entitled.",
+    "I am afraid we are obliged to recover this sum.",
+    "We propose to do so by [six] equal deductions from your salary.",
+    "If this arrangement would cause you difficulty, please let me know by...",
+    "The error was entirely ours."
+   ]
+  },
+  {
+   "id": "wr-py-6",
+   "title": "Pay benchmarking: summary and recommendations",
+   "stage": 3,
+   "kind": "report",
+   "brief": "Write the executive summary (170-220 words) of a pay benchmarking report for the management committee of a 300-employee software company: scope and method, main findings (engineers below market, support functions in line, a gender gap in one grade), and three recommendations.",
+   "brief_fr": "Rédigez la synthèse (170 à 220 mots) d'un rapport d'étude de rémunération destiné au comité de direction d'un éditeur de logiciels de 300 salariés : périmètre et méthode, principaux constats (ingénieurs sous le marché, fonctions support alignées, écart femmes-hommes dans un niveau), et trois recommandations.",
+   "gaps": [],
+   "outline": [
+    "Scope and method: all roles, two salary surveys, basic salary and total cash",
+    "Finding 1: engineers 8% below market median; link with turnover",
+    "Finding 2: support functions broadly in line",
+    "Finding 3: unexplained gap between women and men at one grade",
+    "Recommendations: targeted adjustment, equal pay correction, published salary bands"
+   ],
+   "model": "Executive summary\n\nThis report compares the pay of all 300 employees with the market, using two recognised salary surveys for the software sector. Both basic salary and total cash (basic salary plus bonus) were examined.\n\nThree findings stand out. First, software engineers are paid on average 8% below the market median, and the gap widens with experience. This is consistent with the rise in resignations among senior engineers over the past eighteen months. Second, pay in the support functions is broadly in line with the market. Third, at grade 6, women earn on average 4% less than men in comparable roles, a difference that length of service and performance ratings do not fully explain.\n\nWe therefore recommend three measures:\n\n1. a targeted adjustment for engineers, phased over two years, to bring them up to the market median;\n2. an immediate correction of the unexplained differences at grade 6, funded from a ring-fenced budget;\n3. the introduction of published salary bands for every grade, in anticipation of the forthcoming pay transparency requirements.\n\nThe estimated cost of these measures is set out in section 5.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "Three findings stand out.",
+     "note_fr": "Phrase courte qui annonce la structure. 'To stand out' = ressortir. L'alternance de phrases brèves et longues donne du rythme à la synthèse."
+    },
+    {
+     "quote": "This is consistent with the rise in resignations",
+     "note_fr": "'To be consistent with' = être cohérent avec : on suggère un lien sans affirmer une causalité que les données ne prouvent pas."
+    },
+    {
+     "quote": "is broadly in line with the market",
+     "note_fr": "'Broadly' = globalement ; 'in line with' = conforme à. Formulation prudente et typique d'un rapport."
+    },
+    {
+     "quote": "a difference that length of service and performance ratings do not fully explain",
+     "note_fr": "Sur l'égalité salariale, on parle d'écart 'unexplained' et non de 'discrimination' : le rapport constate, il ne qualifie pas juridiquement."
+    },
+    {
+     "quote": "We therefore recommend three measures:",
+     "note_fr": "'Therefore' relie constats et recommandations. Suivent trois groupes nominaux parallèles ('a targeted adjustment', 'an immediate correction', 'the introduction') : la symétrie facilite la lecture."
+    },
+    {
+     "quote": "in anticipation of the forthcoming pay transparency requirements",
+     "note_fr": "'In anticipation of' = en prévision de ; 'forthcoming' = à venir. On évoque l'évolution réglementaire sans citer de texte ni de date incertaine."
+    }
+   ],
+   "checklist": [
+    "Could a busy director understand the summary without reading the report?",
+    "Are scope and method covered in two sentences at most?",
+    "Is each finding backed by one figure and no more?",
+    "Have I separated what the data show from what I infer?",
+    "Are the recommendations parallel in form and concrete?",
+    "Have I pointed to where the detail and the costs can be found?"
+   ],
+   "phrasebank": [
+    "This report compares... with...",
+    "Three findings stand out.",
+    "This is consistent with...",
+    "... is broadly in line with the market.",
+    "a difference that... does not fully explain",
+    "We therefore recommend three measures:",
+    "phased over two years",
+    "... is set out in section 5."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-py-1",
+   "title": "A pay rise outside the review cycle",
+   "variety": "uk",
+   "context": "London office of a French group. Oliver, an engineering manager, drops in on Claire, the HR consultant supporting the pay review, about one of his developers.",
+   "context_fr": "Bureau londonien d'un groupe français. Oliver, responsable d'une équipe d'ingénierie, passe voir Claire, la consultante RH qui accompagne la revue des salaires, au sujet d'une de ses développeuses.",
+   "lines": [
+    {
+     "speaker": "Oliver",
+     "text": "Claire, have you got five minutes? It's about Priya. She's had an offer from a competitor, and it's a good ten thousand more than she's on here.",
+     "note_fr": "'What she's on' = ce qu'elle gagne (UK). 'A good ten thousand' = dix mille au bas mot."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Ah. Has she actually resigned, or is she giving you the chance to respond?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Oliver",
+     "text": "The latter, I think. She said she'd rather stay, but she can't ignore that sort of money.",
+     "note_fr": "'The latter' = ce dernier, la seconde option. 'That sort of money' = une somme pareille."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Right. Well, the pay review isn't until March, and strictly speaking we don't do out-of-cycle rises.",
+     "note_fr": "'Strictly speaking' annonce une règle... que l'on s'apprête souvent à assouplir. 'Out-of-cycle' = hors calendrier de revue."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "I know, but if we lose her, replacing her will cost us a great deal more than ten thousand.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "I don't disagree. Where does she sit in her band at the moment?",
+     "note_fr": "'I don't disagree' : litote britannique, accord prudent. 'To sit in a band' = se situer dans la tranche de salaire."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Just below the midpoint, which is a bit embarrassing given her ratings.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then there's a case for an adjustment on market grounds rather than a counter-offer as such. That's easier to defend to the rest of the team.",
+     "note_fr": "'There's a case for' = cela se justifie. 'As such' = à proprement parler. On évite de créer un précédent de surenchère."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Fair enough. What sort of figure could we get to?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "I can't promise anything, but taking her to the upper part of the band would be about seven thousand. I'd need sign-off from the Head of Reward.",
+     "note_fr": "'I can't promise anything, but' protège avant d'avancer un chiffre. 'Sign-off' = validation. 'Reward' = la fonction rémunération (UK)."
+    },
+    {
+     "speaker": "Oliver",
+     "text": "Seven might just do it, especially if we bring her bonus target up a touch.",
+     "note_fr": "'Might just do it' = pourrait bien suffire. 'A touch' = un peu (UK, familier)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Let's not get ahead of ourselves. Leave it with me, and I'll come back to you by Thursday. In the meantime, please don't quote her a number.",
+     "note_fr": "'Let's not get ahead of ourselves' = n'allons pas trop vite. 'Leave it with me' = je m'en occupe. 'To quote a number' = annoncer un chiffre."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What has Priya done so far?",
+     "options": [
+      "Handed in her resignation",
+      "Told her manager about an outside offer",
+      "Asked HR for a pay review",
+      "Accepted a counter-offer"
+     ],
+     "answer": 1,
+     "explain_fr": "Elle a informé Oliver d'une offre concurrente sans démissionner : 'She'd rather stay, but she can't ignore that sort of money.'"
+    },
+    {
+     "q": "How does Claire suggest presenting an increase?",
+     "options": [
+      "As a market adjustment within her band",
+      "As a counter-offer matching the competitor",
+      "As an early bonus payment",
+      "As a promotion to the next grade"
+     ],
+     "answer": 0,
+     "explain_fr": "'An adjustment on market grounds rather than a counter-offer as such' : un rattrapage justifié par le marché, plus défendable vis-à-vis de l'équipe."
+    },
+    {
+     "q": "What does Claire ask Oliver not to do?",
+     "options": [
+      "Speak to Priya at all",
+      "Contact the Head of Reward",
+      "Mention the bonus",
+      "Give Priya a figure before approval"
+     ],
+     "answer": 3,
+     "explain_fr": "'Please don't quote her a number' : ne pas annoncer de chiffre tant que la validation n'est pas obtenue."
+    }
+   ]
+  },
+  {
+   "id": "dl-py-2",
+   "title": "A missing bonus on the payslip",
+   "variety": "uk",
+   "context": "A phone call. Hannah, a sales executive in Manchester, rings Dev in the payroll team because her quarterly commission is not on her payslip.",
+   "context_fr": "Appel téléphonique. Hannah, commerciale à Manchester, appelle Dev, du service paie, parce que sa commission trimestrielle ne figure pas sur son bulletin.",
+   "lines": [
+    {
+     "speaker": "Hannah",
+     "text": "Hi Dev, it's Hannah Reid from the sales team. Sorry to bother you, but I've just looked at my payslip and my Q3 commission doesn't seem to be on it.",
+     "note_fr": "'Sorry to bother you, but' : entrée en matière polie avant une réclamation. 'Doesn't seem to be' atténue l'affirmation."
+    },
+    {
+     "speaker": "Dev",
+     "text": "Hi Hannah. Let me pull up your record. Bear with me a second.",
+     "note_fr": "'To pull up a record' = afficher un dossier. 'Bear with me' = un instant, je vous prie."
+    },
+    {
+     "speaker": "Hannah",
+     "text": "Of course. It should be about eighteen hundred pounds.",
+     "note_fr": "'Eighteen hundred' = 1 800 : lecture courante des milliers non ronds."
+    },
+    {
+     "speaker": "Dev",
+     "text": "Right, I can see what's happened. The commission file from sales came in on the 17th, and our cut-off was the 15th.",
+     "note_fr": "'Cut-off' = date limite de prise en compte en paie."
+    },
+    {
+     "speaker": "Hannah",
+     "text": "Oh. So it's missed this month's pay run altogether?",
+     "note_fr": "'Pay run' = cycle de paie. 'Altogether' = complètement."
+    },
+    {
+     "speaker": "Dev",
+     "text": "I'm afraid so. It'll go through automatically next month, with your November salary.",
+     "note_fr": "'I'm afraid so' = malheureusement oui. 'To go through' = passer, être traité."
+    },
+    {
+     "speaker": "Hannah",
+     "text": "That's a bit of a blow, to be honest. I was counting on it for a deposit this month.",
+     "note_fr": "'A bit of a blow' : euphémisme pour une vraie contrariété. 'Deposit' = acompte, dépôt de garantie."
+    },
+    {
+     "speaker": "Dev",
+     "text": "I do understand. Look, I can't rerun payroll, but I could ask for an off-cycle payment. You'd have it by the end of next week.",
+     "note_fr": "'I do understand' : 'do' d'insistance, marque d'empathie. 'Off-cycle payment' = paiement hors cycle."
+    },
+    {
+     "speaker": "Hannah",
+     "text": "That would be brilliant. Would it be taxed any differently?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Dev",
+     "text": "No, it goes through PAYE in exactly the same way. It'll just show up on a separate payslip.",
+     "note_fr": "'PAYE' (Pay As You Earn) = le prélèvement à la source britannique. 'To show up on' = apparaître sur."
+    },
+    {
+     "speaker": "Hannah",
+     "text": "Perfect. Do you need anything from me?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Dev",
+     "text": "Just a quick email so I've got the request in writing. I'll get it approved today.",
+     "note_fr": "'In writing' = par écrit. 'To get something approved' : structure causative, faire valider."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why was the commission not paid?",
+     "options": [
+      "Hannah missed her target",
+      "Payroll made a calculation error",
+      "The sales data arrived after the payroll deadline",
+      "Her manager had not approved it"
+     ],
+     "answer": 2,
+     "explain_fr": "'The commission file from sales came in on the 17th, and our cut-off was the 15th' : le fichier est arrivé après la date limite de paie."
+    },
+    {
+     "q": "What does Dev offer to do?",
+     "options": [
+      "Arrange a separate payment before the next pay run",
+      "Rerun the whole payroll",
+      "Give her a cash advance",
+      "Pay it with the December salary"
+     ],
+     "answer": 0,
+     "explain_fr": "'I could ask for an off-cycle payment' : un paiement hors cycle, versé d'ici la fin de la semaine suivante."
+    },
+    {
+     "q": "What does Dev need from Hannah?",
+     "options": [
+      "Her bank details",
+      "Her manager's signature",
+      "A copy of her payslip",
+      "A written request by email"
+     ],
+     "answer": 3,
+     "explain_fr": "'Just a quick email so I've got the request in writing' : une simple demande écrite."
+    }
+   ]
+  },
+  {
+   "id": "dl-py-3",
+   "title": "Why does France cost so much?",
+   "variety": "us",
+   "context": "A video call between Greg, CFO of a US company opening a Paris office, and Claire, a French HR consultant. Greg is reviewing the payroll budget.",
+   "context_fr": "Visioconférence entre Greg, directeur financier d'une société américaine qui ouvre un bureau à Paris, et Claire, consultante RH française. Greg passe en revue le budget de masse salariale.",
+   "lines": [
+    {
+     "speaker": "Greg",
+     "text": "Claire, I'm looking at your numbers and I have to be honest: they're way above what I had in mind. We agreed on seventy thousand for the sales lead. Why am I seeing over a hundred?",
+     "note_fr": "'Way above' = très au-dessus (familier, US). 'I have to be honest' annonce une objection directe."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's a fair question. Seventy is the gross salary. What you're seeing is the fully loaded cost, with employer contributions on top.",
+     "note_fr": "'Fully loaded cost' = coût complet, charges comprises. 'On top' = en plus."
+    },
+    {
+     "speaker": "Greg",
+     "text": "Sure, we have payroll taxes too. But that's maybe eight, ten percent here.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "In France it's a lot more than that at this salary level. Those contributions pay for health care, pensions and unemployment insurance, which in the US you'd be funding partly through your benefits plans.",
+     "note_fr": "Comparaison utile : les cotisations françaises financent ce que l'employeur américain paie via ses 'benefits plans'."
+    },
+    {
+     "speaker": "Greg",
+     "text": "Okay, that puts it in perspective. And this line here, 'thirteenth month'? Is that a bonus?",
+     "note_fr": "'That puts it in perspective' = cela relativise, cela éclaire les choses."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not really. It's an extra month of salary paid in December. It isn't required by law, but candidates in this sector tend to expect it.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Greg",
+     "text": "So could we just fold it into the base and pay twelve months?",
+     "note_fr": "'To fold something into' = intégrer à. 'The base' = le salaire de base (US)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "You could, absolutely, as long as the offer letter is clear about it. The annual number is what matters.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Greg",
+     "text": "Got it. What about the commission plan? Back home we change it every year.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's where I'd be careful. If the plan is part of the contract, you can't change it without the employee's agreement. I'd set the targets in a separate annual document, and make sure it's in French.",
+     "note_fr": "'That's where I'd be careful' : mise en garde directe mais courtoise. Point de droit : la rémunération contractuelle ne se modifie pas unilatéralement."
+    },
+    {
+     "speaker": "Greg",
+     "text": "In French? Even though the whole team speaks English?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Yes. If the targets aren't provided in French, the employee can argue they don't apply, and you may end up owing the full bonus.",
+     "note_fr": "'To end up owing' = finir par devoir. Les documents fixant les objectifs doivent être rédigés en français pour être opposables au salarié."
+    },
+    {
+     "speaker": "Greg",
+     "text": "Wow. Okay, glad I asked. Send me a one-pager on that and I'll walk our comp team through it.",
+     "note_fr": "'A one-pager' = une note d'une page. 'Comp team' = équipe rémunération (US). 'To walk someone through' = expliquer pas à pas."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What explains the gap between seventy thousand and the figure in the budget?",
+     "options": [
+      "A calculation error",
+      "The employer's social security contributions",
+      "The exchange rate",
+      "A signing bonus"
+     ],
+     "answer": 1,
+     "explain_fr": "'The fully loaded cost, with employer contributions on top' : la différence correspond aux cotisations patronales."
+    },
+    {
+     "q": "What does Claire say about the thirteenth month?",
+     "options": [
+      "It is a legal requirement",
+      "It is a performance bonus",
+      "It can be built into the annual salary if the offer is clear",
+      "It must be paid in June"
+     ],
+     "answer": 2,
+     "explain_fr": "Il n'est pas imposé par la loi et peut être intégré au salaire annuel versé sur douze mois, à condition que l'offre soit claire."
+    },
+    {
+     "q": "Why should the targets be written in French?",
+     "options": [
+      "Otherwise the employee may claim they cannot be relied on against him or her",
+      "Because the team does not speak English",
+      "Because the tax office requires it",
+      "Because the collective agreement is in French"
+     ],
+     "answer": 0,
+     "explain_fr": "Des objectifs non communiqués en français peuvent être déclarés inopposables au salarié, qui peut alors réclamer la totalité de la prime."
+    }
+   ]
+  },
+  {
+   "id": "dl-py-4",
+   "title": "Walking a candidate through the offer",
+   "variety": "us",
+   "context": "A call between Rachel, a product designer from Chicago who has been offered a job in the Paris office, and Claire, the HR consultant handling the offer.",
+   "context_fr": "Appel entre Rachel, designer produit de Chicago à qui l'on propose un poste au bureau de Paris, et Claire, la consultante RH chargée de l'offre.",
+   "lines": [
+    {
+     "speaker": "Rachel",
+     "text": "Thanks for making time, Claire. I've read the offer, and I'll be upfront: sixty-two thousand euros is less than I make now.",
+     "note_fr": "'I'll be upfront' = je vais être franche. 'What I make' = ce que je gagne (US)."
+    },
+    {
+     "speaker": "Claire",
+     "text": "I appreciate you being direct. Can I walk you through the whole package before we talk about the base? The comparison isn't quite apples to apples.",
+     "note_fr": "'Apples to apples' (US) = comparaison à périmètre identique ; les Britanniques disent 'like for like'."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Sure, go ahead.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "So, sixty-two is gross. After social contributions and income tax, you'd take home somewhere around thirty-six hundred a month. I'll send you a simulation, because it depends on your personal situation.",
+     "note_fr": "'To take home' = toucher en net. 'Thirty-six hundred' = 3 600. Elle reste prudente : 'somewhere around', 'it depends'."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Okay. And what does that cover? At my current job I pay about four hundred dollars a month for health insurance.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's the big difference. Here, the public system covers most of your medical costs, and the company's supplemental plan picks up nearly all the rest. Your share is a few dozen euros a month.",
+     "note_fr": "'To pick up' = prendre en charge. 'Supplemental plan' = la mutuelle, en vocabulaire américain."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Huh. That's a real number. What about retirement? Is there a match?",
+     "note_fr": "'That's a real number' = c'est une somme qui compte. 'A match' = un abondement (réflexe 401(k))."
+    },
+    {
+     "speaker": "Claire",
+     "text": "It works differently. Most of your pension comes from mandatory contributions that are already deducted. On top of that, there's a company savings plan, and the company matches what you put in, up to a limit.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Got it. And vacation?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Five weeks by law, plus a few extra days under the company agreement. You'll also get meal vouchers and half of your transit pass.",
+     "note_fr": "'Vacation' et 'transit pass' : vocabulaire américain adapté à l'interlocutrice (UK : 'holiday', 'travel pass')."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "That does change the picture. I'd still like to see the base closer to sixty-eight.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "I hear you. I can't commit to that number today, but let me take it back to the hiring manager. Would a sign-on bonus help bridge the gap if the base can't move that far?",
+     "note_fr": "'I hear you' = je vous entends (US). 'To take it back to' = soumettre à. 'To bridge the gap' = combler l'écart."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "It might. Let's see what they come back with.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does Claire say the comparison is not 'apples to apples'?",
+     "options": [
+      "Because the currencies are different",
+      "Because Rachel's current job is more senior",
+      "Because the offer is for a part-time job",
+      "Because benefits and deductions work differently in France"
+     ],
+     "answer": 3,
+     "explain_fr": "Le salaire seul ne se compare pas : santé, retraite et congés sont financés et organisés différemment en France."
+    },
+    {
+     "q": "What does Claire say about Rachel's monthly net pay?",
+     "options": [
+      "She gives an approximate figure and promises a simulation",
+      "She guarantees an exact amount",
+      "She refuses to estimate it",
+      "She says it equals the gross divided by twelve"
+     ],
+     "answer": 0,
+     "explain_fr": "'Somewhere around thirty-six hundred a month. I'll send you a simulation' : un ordre de grandeur, assorti d'une simulation personnalisée."
+    },
+    {
+     "q": "How does Claire respond to the request for sixty-eight thousand?",
+     "options": [
+      "She accepts it",
+      "She says she will consult the hiring manager and suggests a sign-on bonus",
+      "She rejects it outright",
+      "She offers extra vacation instead"
+     ],
+     "answer": 1,
+     "explain_fr": "Elle ne s'engage pas, soumet la demande au manager recruteur et propose une prime d'embauche pour combler l'écart."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-py-1",
+   "title": "Explaining a French payslip to a British colleague",
+   "situation": "James has just transferred from the Manchester office to Lyon. He has received his first French payslip and is baffled. Take him through it and answer his questions.",
+   "situation_fr": "James vient d'être muté du bureau de Manchester à celui de Lyon. Il a reçu son premier bulletin de paie français et n'y comprend rien. Expliquez-le-lui et répondez à ses questions.",
+   "turns": [
+    {
+     "say": "I've got my first payslip and, honestly, it's two pages of hieroglyphics. Where on earth do I start?",
+     "seconds": 30,
+     "model": "Don't worry, everyone says that. You only really need three figures: the gross at the top, the net before tax near the bottom, and the amount in bold, which is what actually goes into your account. Everything in between explains how you get from one to the other.",
+     "tips_fr": "Rassurez d'abord ('everyone says that'), puis donnez une structure simple en trois points. 'What actually goes into your account' = le net à payer."
+    },
+    {
+     "say": "Right. But there seem to be two columns of deductions. Am I really paying all of that?",
+     "seconds": 30,
+     "model": "No, only the first column comes out of your pay. The second one shows what the company pays on top of your salary, so it doesn't affect your take-home pay at all. French payslips show both; a UK one would only show yours.",
+     "tips_fr": "Opposez clairement 'comes out of your pay' et 'on top of your salary'. La comparaison avec le Royaume-Uni aide votre interlocuteur."
+    },
+    {
+     "say": "And what's this 'mutuelle' line? I didn't sign up for anything.",
+     "seconds": 35,
+     "model": "That's the company's top-up health insurance. The state system reimburses part of your medical costs, and the mutuelle covers most of the rest. It's compulsory for all employees, with a few exceptions, and the company pays at least half of the premium.",
+     "tips_fr": "Glosez 'mutuelle' par 'top-up health insurance'. 'Premium' = cotisation d'assurance. Mentionnez sans détailler qu'il existe des cas de dispense ('a few exceptions')."
+    },
+    {
+     "say": "OK. My take-home pay is quite a bit less than I expected, though. Is the tax right?",
+     "seconds": 35,
+     "model": "It may not be, actually. As you've only just arrived, the tax office hasn't given us a personal rate for you yet, so we've had to apply a default rate. Once you've registered with them, the rate will be adjusted, and anything you've overpaid will be sorted out when you file your return.",
+     "tips_fr": "'It may not be, actually' : franchise mesurée. Expliquez le taux par défaut sans jargon. 'To file a return' = déposer sa déclaration ; 'sorted out' = régularisé."
+    },
+    {
+     "say": "That's helpful, thanks. Who do I speak to if something looks wrong next month?",
+     "seconds": 20,
+     "model": "Come straight to me or email the payroll team, ideally before the 15th. That way we can put it right in the same month's pay instead of the following one.",
+     "tips_fr": "Donnez un interlocuteur et une échéance. 'To put it right' = corriger. 'That way' introduit le bénéfice concret."
+    }
+   ]
+  },
+  {
+   "id": "rp-py-2",
+   "title": "Responding to a request for a pay rise",
+   "situation": "You are the HR business partner. Megan, a marketing specialist with three years' service and good appraisals, has asked to see you. She wants a 10% rise. The annual review is four months away and the budget is tight.",
+   "situation_fr": "Vous êtes HR business partner. Megan, chargée de marketing, trois ans d'ancienneté et de bonnes évaluations, a demandé à vous voir. Elle veut 10 % d'augmentation. La revue annuelle a lieu dans quatre mois et le budget est serré.",
+   "turns": [
+    {
+     "say": "Thanks for seeing me. I'll come straight to the point: I think I'm underpaid, and I'd like a 10% rise.",
+     "seconds": 30,
+     "model": "Thank you for raising it with me directly; I'd much rather hear it from you than find out another way. Before I respond, could you tell me what's behind the 10% figure? Is it based on what you've seen in the market, or on how your role has changed?",
+     "tips_fr": "Remerciez pour la démarche, puis faites préciser avant de répondre. 'What's behind the figure' = sur quoi repose ce chiffre."
+    },
+    {
+     "say": "Both, really. I've taken over the whole social media budget since Kate left, and similar jobs are advertised at five to six thousand more.",
+     "seconds": 35,
+     "model": "That's useful, and you're right that your responsibilities have grown. I'll be honest with you: I can't agree a rise today, because increases are decided at the annual review in March. What I can do is make sure your case is properly prepared for it.",
+     "tips_fr": "Reconnaissez ce qui est fondé, puis dites non clairement mais sans fermer la porte : 'I can't... What I can do is...'."
+    },
+    {
+     "say": "March is four months away. Why can't it be done now if everyone agrees I deserve it?",
+     "seconds": 35,
+     "model": "I understand the frustration. We keep to a single review date so that everyone is assessed on the same basis and within the same budget. Out-of-cycle rises are only made in exceptional cases. What I'd suggest is that we look at whether your job should be regraded, given the budget you now manage.",
+     "tips_fr": "Expliquez la règle par son principe (équité, budget), puis ouvrez une piste concrète. 'To regrade a job' = revoir la classification du poste."
+    },
+    {
+     "say": "And if the review comes and there's only 2% in the pot?",
+     "seconds": 30,
+     "model": "I can't promise you a number, and I wouldn't want to mislead you. What I can tell you is that a change of grade is funded separately from the general budget. I'll benchmark your role against the market this month and share the result with you and your manager before Christmas.",
+     "tips_fr": "Ne promettez rien que vous ne maîtrisez pas : 'I can't promise you a number'. Compensez par un engagement daté et vérifiable."
+    },
+    {
+     "say": "All right. I appreciate you being straight with me.",
+     "seconds": 20,
+     "model": "And I appreciate your patience. I'll put what we've agreed in a short email this afternoon, so we both have the same record. Let's meet again in the week of the 15th.",
+     "tips_fr": "Concluez par un écrit et un rendez-vous. 'To be straight with someone' = parler franchement ; reprenez le registre de l'interlocutrice."
+    }
+   ]
+  },
+  {
+   "id": "rp-py-3",
+   "title": "Profit-sharing explained to a US HR director",
+   "situation": "Karen, HR director of the US parent company, is preparing next year's budget for the French subsidiary, which now has 120 employees. She has seen 'participation', 'intéressement' and 'PEE' in the accounts and wants to know what they are.",
+   "situation_fr": "Karen, DRH de la société mère américaine, prépare le budget de l'an prochain pour la filiale française, qui compte désormais 120 salariés. Elle a vu « participation », « intéressement » et « PEE » dans les comptes et veut comprendre de quoi il s'agit.",
+   "turns": [
+    {
+     "say": "I'm seeing a line called 'participation' in the French accounts. Is that some kind of bonus plan we approved?",
+     "seconds": 35,
+     "model": "Not exactly. Participation is profit-sharing that's required by law for any French company with fifty employees or more. The amount comes from a formula based on the year's profits, so it isn't something the company approves or decides; in a good year it's due automatically.",
+     "tips_fr": "Corrigez en douceur ('Not exactly'), puis donnez les trois idées clés : obligatoire, seuil de cinquante, formule légale."
+    },
+    {
+     "say": "So we have no control over it at all? What happens in a year with no profit?",
+     "seconds": 30,
+     "model": "If there's no profit, or not enough under the formula, nothing is paid. You do have some room: the formula can be improved by agreement with the employee representatives, but you can't go below the legal minimum.",
+     "tips_fr": "'You do have some room' : le 'do' d'insistance nuance la réponse. 'Employee representatives' suffit, inutile de détailler les instances."
+    },
+    {
+     "say": "Okay. And then there's another one, intéressement. How is that different?",
+     "seconds": 35,
+     "model": "That one is optional. It's a collective incentive plan the company set up by agreement, and here you choose the targets, for example revenue growth or customer satisfaction. If the targets are met, everyone gets a share. It's attractive because, within limits, it's paid with much lower social contributions than salary.",
+     "tips_fr": "Marquez le contraste dès la première phrase ('That one is optional'). Donnez un exemple de critère et l'intérêt financier, sans chiffrer les exonérations."
+    },
+    {
+     "say": "Could we use it to replace part of the individual bonuses, then? That would save us money.",
+     "seconds": 35,
+     "model": "I'm afraid that's the one thing you can't do. It has to be collective, and it can't take the place of any element of pay that already exists. If the authorities considered it a disguised salary, you'd lose the exemptions and have to pay the contributions retroactively.",
+     "tips_fr": "Refus net mais courtois : 'I'm afraid that's the one thing you can't do'. Expliquez le risque : requalification et redressement de cotisations."
+    },
+    {
+     "say": "Got it. Last question: what's the PEE, and does it cost us anything?",
+     "seconds": 30,
+     "model": "It's the company savings plan. Employees can put their profit-sharing into it instead of taking the cash; the money is then locked in for five years and gets better tax treatment. It only costs you something if you decide to match their contributions, which is optional.",
+     "tips_fr": "'Locked in for five years' pour le blocage ; 'to match contributions' pour l'abondement. Terminez par la réponse à la question du coût."
+    }
+   ]
+  },
+  {
+   "id": "rp-py-4",
+   "title": "Announcing an overpayment to an employee",
+   "situation": "You work in HR. Because of a payroll error, Daniel, a technician, has been paid a shift allowance he was no longer entitled to for six months: EUR 1,200 in total. You have asked to see him to explain and to agree how it will be repaid.",
+   "situation_fr": "Vous travaillez aux RH. À la suite d'une erreur de paie, Daniel, technicien, a perçu pendant six mois une prime d'équipe à laquelle il n'avait plus droit : 1 200 euros au total. Vous l'avez convoqué pour lui expliquer la situation et convenir des modalités de remboursement.",
+   "turns": [
+    {
+     "say": "You wanted to see me? Is something wrong?",
+     "seconds": 30,
+     "model": "Thanks for coming, Daniel. It's nothing you've done, but I'm afraid we've found a mistake in your pay. When you moved to day shifts in March, the shift allowance should have stopped, and it didn't. That's our error, and I'm sorry about it.",
+     "tips_fr": "Rassurez d'emblée ('It's nothing you've done'), annoncez le problème, assumez l'erreur. 'I'm afraid' introduit la mauvaise nouvelle."
+    },
+    {
+     "say": "I did think my pay looked a bit high, but I assumed it was the new rate. How much are we talking about?",
+     "seconds": 25,
+     "model": "It comes to twelve hundred euros gross over the six months. I've brought a breakdown month by month so you can check it against your payslips.",
+     "tips_fr": "'It comes to' = cela représente. 'A breakdown' = un détail chiffré. 'To check something against' = rapprocher de."
+    },
+    {
+     "say": "Twelve hundred? I can't pay that back in one go. I've got a mortgage.",
+     "seconds": 35,
+     "model": "I wouldn't ask you to. In any case, the law limits how much we can take from your salary each month. What I'd propose is to spread it over twelve months, so about a hundred euros a month. Would that be manageable?",
+     "tips_fr": "'In one go' = en une fois. Proposez l'échelonnement et vérifiez qu'il convient : 'Would that be manageable?'. Rappelez que la loi plafonne la retenue."
+    },
+    {
+     "say": "I suppose so. But it's your mistake. Why should I have to pay anything back?",
+     "seconds": 35,
+     "model": "I understand why you feel that way, and you're right that the mistake was ours. The difficulty is that the money wasn't due to you, so we do have to recover it. What I can do is make it as painless as possible, and if twelve months is still too much, we can look at a longer period.",
+     "tips_fr": "Validez le sentiment, maintenez le principe ('we do have to recover it'), puis offrez de la souplesse. Évitez 'you must' et 'you have to'."
+    },
+    {
+     "say": "All right. Twelve months, then. Will I get that in writing?",
+     "seconds": 20,
+     "model": "Of course. I'll send you a letter today setting out the amount and the schedule, and each deduction will appear as a separate line on your payslip. If your situation changes, just come and see me.",
+     "tips_fr": "'To set out' = exposer par écrit ; 'the schedule' = l'échéancier. Terminez par une porte ouverte."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Presenting a pay offer and talking figures",
+   "function_fr": "Présenter une proposition salariale et parler chiffres",
+   "phrases": [
+    {
+     "text": "We are pleased to offer you a gross annual salary of fifty-two thousand euros.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "The package comprises a basic salary, a performance-related bonus and the benefits set out below.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "Let me walk you through the whole package before we get to the base.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "That works out at roughly three thousand two hundred a month after deductions.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "On top of that, there's a thirteenth month paid in December.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "To give you a like-for-like comparison, I've included the employer's pension and health contributions.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "There's some room on the bonus, but not much on the base, I'm afraid.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "What sort of ballpark were you thinking of?",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Turning down or deferring a pay request",
+   "function_fr": "Refuser ou différer une demande d'augmentation",
+   "phrases": [
+    {
+     "text": "I'm afraid we are not in a position to review your salary outside the annual cycle.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I can't promise you a figure today, and I wouldn't want to mislead you.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I take your point about the market, but my hands are tied until the review in March.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "What I can do is make sure your case is properly prepared for the review.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "It's not a no; it's a not yet.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "You're already at the top of your band, so the way forward is really a change of grade.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Let me take it back to the comp team and get you an answer by Friday.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "Any increase remains subject to the budget approved by the management committee.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Explaining a deduction or correcting a pay error",
+   "function_fr": "Expliquer une retenue ou corriger une erreur de paie",
+   "phrases": [
+    {
+     "text": "The difference between gross and net is made up of social security contributions and income tax.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "That line is your share of the health insurance; the company pays the rest.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "It's taken off at source, so there's nothing for you to do.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "That's withheld automatically, so you don't need to do anything.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "You're quite right, and I apologise: the overtime was left off this month's payslip.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "We'll put it right in next month's pay, and you'll see it as a separate line.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "The shortfall will be made good with your next salary payment.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Leave it with me - I'll chase payroll and come back to you.",
+     "register": "informal",
+     "variety": "uk"
+    }
+   ]
+  }
+ ]
+}

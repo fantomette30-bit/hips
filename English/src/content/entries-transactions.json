@@ -1,0 +1,3844 @@
+[
+ {
+  "id": "ma-001",
+  "level": 1,
+  "fr": "fusion",
+  "term": {
+   "uk": "merger",
+   "us": "merger"
+  },
+  "ipa": {
+   "uk": "/ˈmɜːdʒə/",
+   "us": "/ˈmɜːrdʒər/"
+  },
+  "def": "The combination of two companies into a single legal entity or group.",
+  "registers": {
+   "formal": {
+    "uk": "merger",
+    "us": "merger",
+    "ex": "The proposed [[merger]] remains subject to clearance by the competition authorities."
+   },
+   "everyday": {
+    "uk": "to merge",
+    "us": "to merge",
+    "ex": "The two French entities are going to [[merge]] next year, so we'll end up with one employer instead of two."
+   },
+   "informal": {
+    "uk": "tie-up",
+    "us": "tie-up",
+    "ex": "The trade press has been speculating about a [[tie-up]] for weeks."
+   }
+  },
+  "collocations": [
+   "a merger between two companies",
+   "to merge with a competitor",
+   "merger talks",
+   "mergers and acquisitions (M&A)"
+  ],
+  "note_fr": "« Fusion » ne se dit pas « fusion » (physique, cuisine) mais « merger ». On fusionne « with » quelqu'un. « M&A » se prononce lettre à lettre : « em and ay ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-002",
+  "level": 1,
+  "fr": "acquisition, rachat",
+  "term": {
+   "uk": "acquisition",
+   "us": "acquisition"
+  },
+  "ipa": {
+   "uk": "/ˌækwɪˈzɪʃ(ə)n/",
+   "us": "/ˌækwɪˈzɪʃ(ə)n/"
+  },
+  "def": "The purchase of a company or business by another company.",
+  "registers": {
+   "formal": {
+    "uk": "acquisition",
+    "us": "acquisition",
+    "ex": "Following the [[acquisition]] of the entire share capital, the Company became a wholly owned subsidiary of the Group."
+   },
+   "everyday": {
+    "uk": "takeover",
+    "us": "takeover",
+    "ex": "Nobody on the shop floor saw the [[takeover]] coming."
+   },
+   "informal": {
+    "uk": "to snap up",
+    "us": "to snap up",
+    "ex": "A US group has just [[snapped up]] their main competitor."
+   }
+  },
+  "collocations": [
+   "to make an acquisition",
+   "to be acquired by",
+   "a takeover bid",
+   "a hostile takeover"
+  ],
+  "note_fr": "« Takeover » suggère une prise de contrôle parfois subie ; « buyout » un rachat par les dirigeants ou par un fonds. « Repurchase » et « buyback » désignent le rachat par une société de ses propres actions : faux ami pour « rachat ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-003",
+  "level": 1,
+  "fr": "cession de titres (share deal)",
+  "term": {
+   "uk": "share deal",
+   "us": "stock deal"
+  },
+  "ipa": {
+   "uk": "/ˈʃeə diːl/",
+   "us": "/ˈstɑːk diːl/"
+  },
+  "def": "A transaction in which the buyer acquires the shares of the company that employs the staff, so that the employer itself does not change.",
+  "registers": {
+   "formal": {
+    "uk": "share purchase",
+    "us": "stock purchase",
+    "ex": "The transaction is structured as a [[share purchase]], and the employing entity will therefore remain unchanged.",
+    "ex_us": "The transaction is structured as a [[stock purchase]], and the employing entity will therefore remain unchanged."
+   },
+   "everyday": {
+    "uk": "share deal",
+    "us": "stock deal",
+    "ex": "It's a [[share deal]], so nobody's contract moves - the employer stays the same.",
+    "ex_us": "It's a [[stock deal]], so nobody's contract moves - the employer stays the same."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a share purchase agreement (SPA)",
+   "to structure the transaction as a share deal",
+   "to acquire the entire share capital"
+  ],
+  "note_fr": "Dans un share deal, l'employeur reste le même : pas de transfert des contrats, mais le CSE doit tout de même être consulté sur le changement de contrôle. UK « shares », US « stock ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-004",
+  "level": 1,
+  "fr": "cession d'actifs, cession de fonds de commerce",
+  "term": {
+   "uk": "asset deal",
+   "us": "asset deal"
+  },
+  "ipa": {
+   "uk": "/ˈæset diːl/",
+   "us": "/ˈæset diːl/"
+  },
+  "def": "A transaction in which the buyer acquires a business or specific assets and not the company's shares, so that the employees change employer.",
+  "registers": {
+   "formal": {
+    "uk": "asset purchase",
+    "us": "asset purchase",
+    "ex": "In the event of an [[asset purchase]], the contracts of the employees assigned to the business will pass to the Purchaser by operation of law."
+   },
+   "everyday": {
+    "uk": "asset deal",
+    "us": "asset deal",
+    "ex": "If we go for an [[asset deal]], the staff move across automatically - that's the law in France."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an asset purchase agreement (APA)",
+   "to buy the business and assets",
+   "to cherry-pick assets"
+  ],
+  "note_fr": "En France et au Royaume-Uni (TUPE), les contrats suivent l'activité cédée. Aux États-Unis, rien d'automatique : l'acquéreur choisit qui il réembauche. Prévenez d'emblée un interlocuteur américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-005",
+  "level": 2,
+  "fr": "LBO (rachat avec effet de levier)",
+  "term": {
+   "uk": "leveraged buyout",
+   "us": "leveraged buyout"
+  },
+  "ipa": {
+   "uk": "/ˌliːvərɪdʒd ˈbaɪaʊt/",
+   "us": "/ˌlevərɪdʒd ˈbaɪaʊt/"
+  },
+  "def": "The acquisition of a company financed largely by debt, which is then repaid out of the company's own cash flow.",
+  "registers": {
+   "formal": {
+    "uk": "leveraged buyout",
+    "us": "leveraged buyout",
+    "ex": "The Company was acquired by way of a [[leveraged buyout]] led by Halden Capital."
+   },
+   "everyday": {
+    "uk": "LBO",
+    "us": "LBO",
+    "ex": "This is the company's third [[LBO]] in ten years, so the management team knows the drill."
+   },
+   "informal": {
+    "uk": "buyout",
+    "us": "buyout",
+    "ex": "Since the [[buyout]], every spare euro has gone on servicing the debt."
+   }
+  },
+  "collocations": [
+   "a secondary buyout",
+   "a management buyout (MBO)",
+   "to service the debt",
+   "a private-equity-backed company"
+  ],
+  "note_fr": "UK « LEE-veridged », US « LEV-eridged ». « To be under LBO » se comprend en France, mais un natif dira « to be private-equity-backed » ou « PE-owned ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-006",
+  "level": 2,
+  "fr": "fonds d'investissement (capital-investissement)",
+  "term": {
+   "uk": "private equity firm",
+   "us": "private equity firm"
+  },
+  "ipa": {
+   "uk": "/ˌpraɪvət ˈekwəti fɜːm/",
+   "us": "/ˌpraɪvət ˈekwəti fɜːrm/"
+  },
+  "def": "An investment firm that buys companies with its investors' money, typically in order to sell them a few years later at a profit.",
+  "registers": {
+   "formal": {
+    "uk": "financial sponsor",
+    "us": "financial sponsor",
+    "ex": "The [[financial sponsor]] intends to realise its investment within five years.",
+    "ex_us": "The [[financial sponsor]] intends to realize its investment within five years."
+   },
+   "everyday": {
+    "uk": "private equity owner",
+    "us": "private equity owner",
+    "ex": "Our [[private equity owner]] wants a monthly update on headcount and on anything that might reach the press."
+   },
+   "informal": {
+    "uk": "PE house",
+    "us": "PE shop",
+    "ex": "She has worked for three [[PE houses]] and knows exactly what they want to see in a report.",
+    "ex_us": "She has worked for three [[PE shops]] and knows exactly what they want to see in a report."
+   }
+  },
+  "collocations": [
+   "a portfolio company",
+   "the investment horizon",
+   "to exit an investment",
+   "a PE-backed business"
+  ],
+  "note_fr": "« Fund » désigne le véhicule, « firm » ou « house » la société de gestion. « Equity » = capitaux propres (jamais « équité ») et se prononce EK-wi-ti. Dans un LBO, « the sponsor » est le fonds, pas un mécène.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-007",
+  "level": 1,
+  "fr": "coentreprise (joint-venture)",
+  "term": {
+   "uk": "joint venture",
+   "us": "joint venture"
+  },
+  "ipa": {
+   "uk": "/ˌdʒɔɪnt ˈventʃə/",
+   "us": "/ˌdʒɔɪnt ˈventʃər/"
+  },
+  "def": "A business set up and owned jointly by two or more companies that otherwise remain separate.",
+  "registers": {
+   "formal": {
+    "uk": "joint venture",
+    "us": "joint venture",
+    "ex": "Each party shall second employees to the [[joint venture]] for an initial term of three years."
+   },
+   "everyday": {
+    "uk": "JV",
+    "us": "JV",
+    "ex": "About sixty of our engineers will move into the [[JV]] in January."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set up a joint venture",
+   "a 50/50 joint venture",
+   "a joint venture partner",
+   "to unwind a joint venture"
+  ],
+  "note_fr": "Pas de trait d'union en anglais. La question RH à poser tout de suite : les salariés sont-ils détachés (« seconded ») ou transférés (« transferred ») à la JV ?",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-008",
+  "level": 2,
+  "fr": "détourage (carve-out)",
+  "term": {
+   "uk": "carve-out",
+   "us": "carve-out"
+  },
+  "ipa": {
+   "uk": "/ˈkɑːv aʊt/",
+   "us": "/ˈkɑːrv aʊt/"
+  },
+  "def": "The separation of a business unit from its parent group so that it can be sold or run as a separate company.",
+  "registers": {
+   "formal": {
+    "uk": "carve-out",
+    "us": "carve-out",
+    "ex": "The [[carve-out]] of the Coatings division will be effected by contributing the business to a newly incorporated company."
+   },
+   "everyday": {
+    "uk": "to carve out",
+    "us": "to carve out",
+    "ex": "They're [[carving out]] the French logistics business and selling it to a fund."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the scope of the carve-out",
+   "to carve a business out of the group",
+   "carve-out financials",
+   "shared employees"
+  ],
+  "note_fr": "Nom avec trait d'union, verbe à particule sans. Pour « périmètre », « scope » est plus naturel que « perimeter ». Enjeu RH typique : l'affectation des salariés qui travaillent pour plusieurs activités (« shared employees »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-009",
+  "level": 2,
+  "fr": "cession (d'une activité)",
+  "term": {
+   "uk": "divestment",
+   "us": "divestiture"
+  },
+  "ipa": {
+   "uk": "/daɪˈvestmənt/",
+   "us": "/daɪˈvestɪtʃər/"
+  },
+  "def": "The sale by a group of a business, subsidiary or asset that it no longer wishes to keep.",
+  "registers": {
+   "formal": {
+    "uk": "disposal",
+    "us": "divestiture",
+    "ex": "The Board has approved the [[disposal]] of the Group's non-core activities in France.",
+    "ex_us": "The Board has approved the [[divestiture]] of the Company's non-core operations in France."
+   },
+   "everyday": {
+    "uk": "to sell off",
+    "us": "to sell off",
+    "ex": "The group is [[selling off]] everything that isn't core."
+   },
+   "informal": {
+    "uk": "to offload",
+    "us": "to offload",
+    "ex": "Head office has been trying to [[offload]] the plant for two years."
+   }
+  },
+  "collocations": [
+   "to divest a business",
+   "a non-core business",
+   "to put a business up for sale",
+   "the sale process"
+  ],
+  "note_fr": "« Cession » ne se traduit pas par « cession » (rare : cession de territoire ou de droits). Dites « sale », « disposal » (UK) ou « divestiture » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-010",
+  "level": 3,
+  "fr": "scission",
+  "term": {
+   "uk": "demerger",
+   "us": "spin-off"
+  },
+  "ipa": {
+   "uk": "/diːˈmɜːdʒə/",
+   "us": "/ˈspɪn ɔːf/"
+  },
+  "def": "The separation of part of a group into a new independent company, usually by distributing its shares to the existing shareholders.",
+  "registers": {
+   "formal": {
+    "uk": "demerger",
+    "us": "spin-off",
+    "ex": "The [[demerger]] of the Consumer division is expected to take effect in the second half of the year.",
+    "ex_us": "The [[spin-off]] of the Consumer division is expected to take effect in the second half of the year."
+   },
+   "everyday": {
+    "uk": "to spin off",
+    "us": "to spin off",
+    "ex": "They've decided to [[spin off]] the services arm and list it separately."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to spin off a division",
+   "the demerged business",
+   "to split the group in two",
+   "a separately listed company"
+  ],
+  "note_fr": "« Spin-off » est compris partout ; « demerger » est strictement britannique. À distinguer du « carve-out », où l'activité est le plus souvent vendue à un tiers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-011",
+  "level": 2,
+  "fr": "redressement (d'une entreprise)",
+  "term": {
+   "uk": "turnaround",
+   "us": "turnaround"
+  },
+  "ipa": {
+   "uk": "/ˈtɜːnəraʊnd/",
+   "us": "/ˈtɜːrnəraʊnd/"
+  },
+  "def": "The process of restoring a loss-making or failing business to profitability.",
+  "registers": {
+   "formal": {
+    "uk": "turnaround plan",
+    "us": "turnaround plan",
+    "ex": "The Board has asked the Chief Executive to present a [[turnaround plan]] by the end of the quarter."
+   },
+   "everyday": {
+    "uk": "to turn the business around",
+    "us": "to turn the business around",
+    "ex": "We've got eighteen months to [[turn the business around]]."
+   },
+   "informal": {
+    "uk": "to get back on track",
+    "us": "to get back on track",
+    "ex": "It took two years and a new management team to [[get back on track]]."
+   }
+  },
+  "collocations": [
+   "a turnaround situation",
+   "a turnaround specialist",
+   "a distressed business",
+   "to return to profit"
+  ],
+  "note_fr": "« Recovery » seul désigne plutôt la reprise économique. Le redressement judiciaire français se glose « court-supervised reorganisation proceedings » ; « administration » (UK) et « Chapter 11 » (US) n'en sont que des équivalents approximatifs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-012",
+  "level": 1,
+  "fr": "réduction d'effectifs",
+  "term": {
+   "uk": "downsizing",
+   "us": "downsizing"
+  },
+  "ipa": {
+   "uk": "/ˈdaʊnsaɪzɪŋ/",
+   "us": "/ˈdaʊnsaɪzɪŋ/"
+  },
+  "def": "A deliberate reduction in the number of people a company employs.",
+  "registers": {
+   "formal": {
+    "uk": "workforce reduction",
+    "us": "reduction in force",
+    "ex": "The Company does not envisage any [[workforce reduction]] as a result of the transaction.",
+    "ex_us": "The Company does not anticipate any [[reduction in force]] as a result of the transaction."
+   },
+   "everyday": {
+    "uk": "downsizing",
+    "us": "downsizing",
+    "ex": "After two rounds of [[downsizing]], the people who are left are stretched very thin."
+   },
+   "informal": {
+    "uk": "to slim down",
+    "us": "to slim down",
+    "ex": "They want to [[slim down]] the support functions before the sale."
+   }
+  },
+  "collocations": [
+   "to downsize the workforce",
+   "to right-size the organisation",
+   "a leaner structure",
+   "to cut headcount"
+  ],
+  "note_fr": "« Right-sizing » est l'euphémisme managérial ; « RIF » (prononcé « riff ») est américain. Au Royaume-Uni, le terme juridique est « redundancies ». « Reduction of effectives » n'existe pas.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-013",
+  "level": 1,
+  "fr": "filiale",
+  "term": {
+   "uk": "subsidiary",
+   "us": "subsidiary"
+  },
+  "ipa": {
+   "uk": "/səbˈsɪdiəri/",
+   "us": "/səbˈsɪdieri/"
+  },
+  "def": "A company that is owned or controlled by another company.",
+  "registers": {
+   "formal": {
+    "uk": "wholly owned subsidiary",
+    "us": "wholly owned subsidiary",
+    "ex": "Brevane SAS is a [[wholly owned subsidiary]] of Brevane Holdings Ltd."
+   },
+   "everyday": {
+    "uk": "subsidiary",
+    "us": "subsidiary",
+    "ex": "The French [[subsidiary]] has its own works council and its own collective agreements."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the French subsidiary of a US group",
+   "the parent company",
+   "a sister company",
+   "a branch office"
+  ],
+  "note_fr": "« Filiale » ≠ « filial » (relatif aux enfants) ni « affiliate » (société liée, lien plus lâche). « Branch » = succursale sans personnalité morale : la différence compte pour savoir qui est l'employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-014",
+  "level": 2,
+  "fr": "signature et réalisation (signing / closing)",
+  "term": {
+   "uk": "signing and completion",
+   "us": "signing and closing"
+  },
+  "ipa": {
+   "uk": "/ˈsaɪnɪŋ ən kəmˈpliːʃ(ə)n/",
+   "us": "/ˈsaɪnɪŋ ən ˈkloʊzɪŋ/"
+  },
+  "def": "The two key stages of a transaction: signing, when the parties commit themselves, and completion, when ownership actually passes.",
+  "registers": {
+   "formal": {
+    "uk": "completion",
+    "us": "closing",
+    "ex": "[[Completion]] shall take place ten business days after the last of the conditions has been satisfied.",
+    "ex_us": "The [[closing]] shall take place ten business days after the last of the conditions has been satisfied."
+   },
+   "everyday": {
+    "uk": "to complete",
+    "us": "to close",
+    "ex": "We sign in March and hope to [[complete]] by the end of June.",
+    "ex_us": "We sign in March and hope to [[close]] by the end of June."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "between signing and completion",
+   "the completion date",
+   "a simultaneous sign and close",
+   "pre-completion undertakings"
+  ],
+  "note_fr": "UK « completion », US « closing » (de plus en plus entendu à Londres). En France, le CSE doit être consulté avant que la décision soit prise, donc en pratique avant le signing de l'accord engageant : c'est ce qui surprend les équipes anglo-saxonnes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-015",
+  "level": 2,
+  "fr": "lettre d'intention",
+  "term": {
+   "uk": "heads of terms",
+   "us": "letter of intent"
+  },
+  "ipa": {
+   "uk": "/ˌhedz əv ˈtɜːmz/",
+   "us": "/ˌletər əv ɪnˈtent/"
+  },
+  "def": "A short preliminary document recording the main terms the parties have agreed in principle, usually not legally binding as to the deal itself.",
+  "registers": {
+   "formal": {
+    "uk": "heads of terms",
+    "us": "letter of intent",
+    "ex": "The [[heads of terms]] are expressed to be non-binding, save for the exclusivity and confidentiality provisions.",
+    "ex_us": "The [[letter of intent]] is expressly non-binding, except for the exclusivity and confidentiality provisions."
+   },
+   "everyday": {
+    "uk": "heads of terms",
+    "us": "LOI",
+    "ex": "We've agreed [[heads of terms]], but nothing is binding yet.",
+    "ex_us": "We've signed an [[LOI]], but nothing is binding yet."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to agree heads of terms",
+   "a non-binding offer",
+   "a term sheet",
+   "a memorandum of understanding (MoU)"
+  ],
+  "note_fr": "« Heads of terms » est toujours pluriel. Un document non engageant peut en général être signé avant la consultation du CSE ; un accord ferme, non : la nuance « binding / non-binding » est donc capitale.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-016",
+  "level": 3,
+  "fr": "promesse d'achat consentie par l'acquéreur (put option)",
+  "term": {
+   "uk": "put option",
+   "us": "put option"
+  },
+  "ipa": {
+   "uk": "/ˈpʊt ˌɒpʃ(ə)n/",
+   "us": "/ˈpʊt ˌɑːpʃ(ə)n/"
+  },
+  "def": "In French deal practice, a unilateral undertaking by the buyer to acquire the business on agreed terms, which the seller may accept once its works council has been consulted.",
+  "registers": {
+   "formal": {
+    "uk": "put option agreement",
+    "us": "put option agreement",
+    "ex": "Under the [[put option agreement]], the Purchaser irrevocably undertakes to acquire the Business if the Seller exercises the option once the works council consultation has been completed."
+   },
+   "everyday": {
+    "uk": "put option",
+    "us": "put option",
+    "ex": "We'll use a [[put option]]: the buyer commits now, and we only sign the sale agreement once the works council has given its opinion."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to grant a put option",
+   "to exercise the option",
+   "the option period",
+   "a binding offer"
+  ],
+  "note_fr": "Mécanisme propre à la pratique française, à expliquer systématiquement : l'acquéreur s'engage seul, le vendeur reste libre tant que le CSE n'a pas rendu son avis. Les Anglo-Saxons connaissent le « put » financier, pas cet usage.",
+  "french_concept": true,
+  "explain": {
+   "written": "Because a French seller must consult its works council before committing to a sale, the buyer first grants a put option - a unilateral promise to buy on the agreed terms - and the sale agreement itself is signed only once the consultation has been completed.",
+   "spoken": "In France the seller can't sign before its works council has been consulted, so the buyer commits first through a put option and the seller signs afterwards."
+  }
+ },
+ {
+  "id": "ma-017",
+  "level": 3,
+  "fr": "conditions suspensives",
+  "term": {
+   "uk": "conditions precedent",
+   "us": "closing conditions"
+  },
+  "ipa": {
+   "uk": "/kənˌdɪʃ(ə)nz prɪˈsiːd(ə)nt/",
+   "us": "/ˈkloʊzɪŋ kənˌdɪʃ(ə)nz/"
+  },
+  "def": "Conditions that must be satisfied before the parties are obliged to complete the transaction.",
+  "registers": {
+   "formal": {
+    "uk": "conditions precedent",
+    "us": "conditions to closing",
+    "ex": "Completion is subject to the satisfaction of the [[conditions precedent]] set out in Schedule 2.",
+    "ex_us": "The closing is subject to satisfaction of the [[conditions to closing]] set forth in Article 7."
+   },
+   "everyday": {
+    "uk": "CPs",
+    "us": "closing conditions",
+    "ex": "The only [[CPs]] left are merger clearance and the labour inspector's sign-off on the two representatives.",
+    "ex_us": "The only [[closing conditions]] left are antitrust clearance and the labor inspector's sign-off on the two representatives."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to satisfy a condition",
+   "to waive a condition",
+   "subject to regulatory clearance"
+  ],
+  "note_fr": "« Suspensive condition » est un calque. Dans cette expression, l'adjectif est postposé et se prononce « pri-SEE-dent ». En France, on évite de faire de la consultation du CSE une simple condition suspensive d'un accord déjà ferme : elle doit le précéder.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-018",
+  "level": 3,
+  "fr": "date butoir",
+  "term": {
+   "uk": "long-stop date",
+   "us": "outside date"
+  },
+  "ipa": {
+   "uk": "/ˈlɒŋ stɒp deɪt/",
+   "us": "/ˌaʊtˈsaɪd deɪt/"
+  },
+  "def": "The final date by which the conditions must be satisfied, failing which either party may walk away from the deal.",
+  "registers": {
+   "formal": {
+    "uk": "long-stop date",
+    "us": "outside date",
+    "ex": "If the conditions have not been satisfied by the [[long-stop date]], either party may terminate this Agreement.",
+    "ex_us": "If the conditions have not been satisfied by the [[outside date]], either party may terminate this Agreement."
+   },
+   "everyday": {
+    "uk": "long-stop date",
+    "us": "drop-dead date",
+    "ex": "The [[long-stop date]] leaves us very little margin if the consultation overruns.",
+    "ex_us": "The [[drop-dead date]] leaves us very little room if the consultation runs over."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to extend the long-stop date",
+   "to walk away from the deal",
+   "to build in a buffer"
+  ],
+  "note_fr": "« Long-stop » vient du cricket ; les Américains disent « outside date » ou, familièrement, « drop-dead date ». « Limit date » est un calque : hors contrat, « final deadline » suffit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-019",
+  "level": 1,
+  "fr": "audit d'acquisition (due diligence)",
+  "term": {
+   "uk": "due diligence",
+   "us": "due diligence"
+  },
+  "ipa": {
+   "uk": "/ˌdjuː ˈdɪlɪdʒ(ə)ns/",
+   "us": "/ˌduː ˈdɪlɪdʒ(ə)ns/"
+  },
+  "def": "The investigation a buyer carries out into a target business before committing to buy it.",
+  "registers": {
+   "formal": {
+    "uk": "due diligence exercise",
+    "us": "due diligence review",
+    "ex": "The Purchaser has carried out a [[due diligence exercise]] covering all employment matters.",
+    "ex_us": "The Purchaser has conducted a [[due diligence review]] covering all employment matters."
+   },
+   "everyday": {
+    "uk": "due diligence",
+    "us": "due diligence",
+    "ex": "We're doing the HR [[due diligence]] this week, and the picture is better than I expected."
+   },
+   "informal": {
+    "uk": "DD",
+    "us": "DD",
+    "ex": "The [[DD]] turned up two unpleasant surprises on overtime."
+   }
+  },
+  "collocations": [
+   "to carry out due diligence",
+   "HR due diligence",
+   "a vendor due diligence report",
+   "due diligence findings"
+  ],
+  "note_fr": "Indénombrable : « a due diligence » est un calque fréquent ; dites « a due diligence exercise / review ». « Audit » évoque d'abord, en anglais, l'audit des comptes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-020",
+  "level": 1,
+  "fr": "data room",
+  "term": {
+   "uk": "data room",
+   "us": "data room"
+  },
+  "ipa": {
+   "uk": "/ˈdeɪtə ruːm/",
+   "us": "/ˈdeɪt̬ə ruːm/"
+  },
+  "def": "A secure, usually online, space in which the seller makes confidential documents available to prospective buyers.",
+  "registers": {
+   "formal": {
+    "uk": "virtual data room",
+    "us": "virtual data room",
+    "ex": "All collective agreements in force have been uploaded to the [[virtual data room]]."
+   },
+   "everyday": {
+    "uk": "data room",
+    "us": "data room",
+    "ex": "I can't find the payroll files in the [[data room]] - can you chase the seller?"
+   },
+   "informal": {
+    "uk": "VDR",
+    "us": "VDR",
+    "ex": "Everything you need should be in the [[VDR]] by tonight."
+   }
+  },
+  "collocations": [
+   "to upload documents to the data room",
+   "to populate the data room",
+   "the data room index",
+   "to raise a question through the Q&A process"
+  ],
+  "note_fr": "On y place des données salariales anonymisées ou agrégées (« an anonymised employee census »), pas les dossiers individuels. « Data » : DAY-ta au Royaume-Uni ; DAY-ta ou DA-ta aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-021",
+  "level": 1,
+  "fr": "point d'alerte",
+  "term": {
+   "uk": "red flag",
+   "us": "red flag"
+  },
+  "ipa": {
+   "uk": "/ˌred ˈflæɡ/",
+   "us": "/ˌred ˈflæɡ/"
+  },
+  "def": "A warning sign of a serious problem or risk identified during a review.",
+  "registers": {
+   "formal": {
+    "uk": "material issue",
+    "us": "material issue",
+    "ex": "The review identified two [[material issues]] relating to working time."
+   },
+   "everyday": {
+    "uk": "red flag",
+    "us": "red flag",
+    "ex": "The biggest [[red flag]] is the way they've been using fixed-term contracts."
+   },
+   "informal": {
+    "uk": "deal-breaker",
+    "us": "deal-breaker",
+    "ex": "It's a concern, but I wouldn't call it a [[deal-breaker]]."
+   }
+  },
+  "collocations": [
+   "to raise a red flag",
+   "a red-flag report",
+   "to flag an issue",
+   "nothing jumped out"
+  ],
+  "note_fr": "« To flag » = signaler (« I just wanted to flag that... »), verbe très courant. « Alert point » est un calque. En droit, « material » signifie significatif, non « matériel ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-022",
+  "level": 2,
+  "fr": "passif social, engagements",
+  "term": {
+   "uk": "liabilities",
+   "us": "liabilities"
+  },
+  "ipa": {
+   "uk": "/ˌlaɪəˈbɪlətiz/",
+   "us": "/ˌlaɪəˈbɪlətiz/"
+  },
+  "def": "Debts or legal obligations that a company owes or may come to owe, such as unpaid wages, accrued holiday or potential claims.",
+  "registers": {
+   "formal": {
+    "uk": "employment liabilities",
+    "us": "employment liabilities",
+    "ex": "The Seller shall remain responsible for all [[employment liabilities]] arising before the Transfer Date."
+   },
+   "everyday": {
+    "uk": "exposure",
+    "us": "exposure",
+    "ex": "Our [[exposure]] on unpaid overtime could run into seven figures."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to assume liabilities",
+   "contingent liabilities",
+   "accrued holiday pay",
+   "to make a provision for"
+  ],
+  "note_fr": "« Liability » = dette ou responsabilité juridique, à ne pas confondre avec « reliability » (fiabilité). Provisionner : « to make a provision » (UK), « to set up a reserve » ou « to accrue » (US). « Passif social » n'a pas d'équivalent figé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-023",
+  "level": 1,
+  "fr": "effectif",
+  "term": {
+   "uk": "headcount",
+   "us": "headcount"
+  },
+  "ipa": {
+   "uk": "/ˈhedkaʊnt/",
+   "us": "/ˈhedkaʊnt/"
+  },
+  "def": "The number of people employed by a company or working in a team.",
+  "registers": {
+   "formal": {
+    "uk": "number of employees",
+    "us": "number of employees",
+    "ex": "The [[number of employees]] assigned to the Business as at the reference date is set out in Schedule 4.",
+    "ex_us": "The [[number of employees]] assigned to the Business as of the reference date is set forth in Schedule 4."
+   },
+   "everyday": {
+    "uk": "headcount",
+    "us": "headcount",
+    "ex": "Total [[headcount]] is 412, which works out at about 390 full-time equivalents."
+   },
+   "informal": {
+    "uk": "heads",
+    "us": "heads",
+    "ex": "We're about twenty [[heads]] over budget in the support functions."
+   }
+  },
+  "collocations": [
+   "headcount and cost analysis",
+   "a headcount freeze",
+   "full-time equivalents (FTEs)",
+   "to bring headcount down"
+  ],
+  "note_fr": "« Effectives » n'existe pas dans ce sens. Distinguez « headcount » (personnes physiques) et « FTEs » (équivalents temps plein). « Staff » est un collectif : « the staff are » (UK), « the staff is » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-024",
+  "level": 2,
+  "fr": "masse salariale",
+  "term": {
+   "uk": "staff costs",
+   "us": "payroll costs"
+  },
+  "ipa": {
+   "uk": "/ˈstɑːf kɒsts/",
+   "us": "/ˈpeɪroʊl kɔːsts/"
+  },
+  "def": "The total cost to the employer of paying its workforce, including salaries, bonuses and employer social security contributions.",
+  "registers": {
+   "formal": {
+    "uk": "total staff costs",
+    "us": "total compensation expense",
+    "ex": "[[Total staff costs]], including employer social security contributions, represent a little over a third of revenue.",
+    "ex_us": "[[Total compensation expense]], including employer payroll taxes, represents a little over a third of revenue."
+   },
+   "everyday": {
+    "uk": "the wage bill",
+    "us": "payroll",
+    "ex": "[[The wage bill]] has gone up sharply since the last pay round.",
+    "ex_us": "[[Payroll]] has gone up sharply since the last pay cycle."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "fully loaded costs",
+   "employer social security contributions",
+   "cost per FTE",
+   "to keep staff costs under control"
+  ],
+  "note_fr": "« Salary mass » est un calque à bannir. Précisez toujours si le chiffre est chargé (« fully loaded », « including employer contributions ») : le niveau des charges patronales françaises surprend les lecteurs anglo-saxons.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-025",
+  "level": 2,
+  "fr": "contentieux en cours",
+  "term": {
+   "uk": "pending litigation",
+   "us": "pending litigation"
+  },
+  "ipa": {
+   "uk": "/ˌpendɪŋ ˌlɪtɪˈɡeɪʃ(ə)n/",
+   "us": "/ˌpendɪŋ ˌlɪt̬əˈɡeɪʃ(ə)n/"
+  },
+  "def": "Legal claims that have been brought against the company and have not yet been decided or settled.",
+  "registers": {
+   "formal": {
+    "uk": "pending and threatened litigation",
+    "us": "pending and threatened litigation",
+    "ex": "Details of all [[pending and threatened litigation]] involving current or former employees are set out in the Disclosure Letter.",
+    "ex_us": "Details of all [[pending and threatened litigation]] involving current or former employees are set forth in the Disclosure Schedules."
+   },
+   "everyday": {
+    "uk": "ongoing tribunal claims",
+    "us": "open lawsuits",
+    "ex": "There are eleven [[ongoing tribunal claims]], most of them about overtime.",
+    "ex_us": "There are eleven [[open lawsuits]], most of them over overtime."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bring a claim against",
+   "to settle a claim",
+   "a provision for litigation",
+   "a run of similar claims"
+  ],
+  "note_fr": "« Contentious » = qui prête à controverse ; « contentieux » se dit « litigation » ou « claims ». Le conseil de prud'hommes se glose « the employment tribunal » (UK) ou « the French labor court » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-026",
+  "level": 3,
+  "fr": "déclarations et garanties",
+  "term": {
+   "uk": "warranties",
+   "us": "representations and warranties"
+  },
+  "ipa": {
+   "uk": "/ˈwɒrəntiz/",
+   "us": "/ˌreprɪzenˈteɪʃ(ə)nz ən ˈwɔːrəntiz/"
+  },
+  "def": "Statements of fact about the business that the seller gives the buyer in the sale agreement, and for which it is liable if they prove untrue.",
+  "registers": {
+   "formal": {
+    "uk": "warranties",
+    "us": "representations and warranties",
+    "ex": "The employment [[warranties]] are qualified by the matters fairly disclosed in the data room.",
+    "ex_us": "The employment [[representations and warranties]] are qualified by the matters set forth in the disclosure schedules."
+   },
+   "everyday": {
+    "uk": "warranties",
+    "us": "reps and warranties",
+    "ex": "We need the seller to give [[warranties]] on compliance with the working-time rules.",
+    "ex_us": "We need the seller to give [[reps and warranties]] on wage-and-hour compliance."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give a warranty",
+   "breach of warranty",
+   "a disclosure letter",
+   "warranty and indemnity (W&I) insurance"
+  ],
+  "note_fr": "« Warranty » ≠ « guarantee » (engagement d'un tiers garant ou garantie commerciale). Les praticiens anglais parlent de « warranties », les Américains de « reps and warranties ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-027",
+  "level": 3,
+  "fr": "garantie de passif (indemnisation spécifique)",
+  "term": {
+   "uk": "specific indemnity",
+   "us": "specific indemnity"
+  },
+  "ipa": {
+   "uk": "/spəˌsɪfɪk ɪnˈdemnəti/",
+   "us": "/spəˌsɪfɪk ɪnˈdemnət̬i/"
+  },
+  "def": "An undertaking by the seller to reimburse the buyer in full for a particular, identified liability if it materialises.",
+  "registers": {
+   "formal": {
+    "uk": "specific indemnity",
+    "us": "specific indemnity",
+    "ex": "The Seller shall grant the Purchaser a [[specific indemnity]] in respect of the pending social security audit.",
+    "ex_us": "The Seller shall grant the Purchaser a [[specific indemnity]] with respect to the pending social security audit."
+   },
+   "everyday": {
+    "uk": "to be covered",
+    "us": "to be covered",
+    "ex": "We need [[to be covered]] for anything that comes out of the social security audit."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to indemnify the buyer against a loss",
+   "to hold harmless",
+   "a cap on liability",
+   "a price reduction"
+  ],
+  "note_fr": "« Indemnity » ici ≠ indemnité versée au salarié (« severance », « compensation »). La « garantie de passif » se rend, selon le cas, par « warranties » (générales) ou « specific indemnity » (risque identifié).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-028",
+  "level": 3,
+  "fr": "prise de contrôle anticipée (gun-jumping)",
+  "term": {
+   "uk": "gun-jumping",
+   "us": "gun-jumping"
+  },
+  "ipa": {
+   "uk": "/ˈɡʌn ˌdʒʌmpɪŋ/",
+   "us": "/ˈɡʌn ˌdʒʌmpɪŋ/"
+  },
+  "def": "Acting as if the deal had already completed - for instance by integrating teams or sharing sensitive information - before clearance has been obtained or ownership has passed.",
+  "registers": {
+   "formal": {
+    "uk": "premature implementation of the transaction",
+    "us": "premature implementation of the transaction",
+    "ex": "Any [[premature implementation of the transaction]] may expose both parties to substantial fines."
+   },
+   "everyday": {
+    "uk": "gun-jumping",
+    "us": "gun-jumping",
+    "ex": "We can plan the integration, but giving instructions to their managers before we own the business would be [[gun-jumping]]."
+   },
+   "informal": {
+    "uk": "to jump the gun",
+    "us": "to jump the gun",
+    "ex": "Let's not [[jump the gun]] - they're still a competitor until the deal goes through."
+   }
+  },
+  "collocations": [
+   "gun-jumping rules",
+   "a clean team",
+   "to ring-fence sensitive information",
+   "business as usual until completion"
+  ],
+  "note_fr": "Avant la réalisation, on planifie mais on n'intègre pas : pas d'instructions aux équipes de la cible, pas d'échange de données salariales individuelles hors « clean team ». « To jump the gun » : agir trop tôt (image du faux départ).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-029",
+  "level": 1,
+  "fr": "informer et consulter le CSE",
+  "term": {
+   "uk": "to inform and consult the works council",
+   "us": "to inform and consult the works council"
+  },
+  "ipa": {
+   "uk": "/tu ɪnˌfɔːm ən kənˌsʌlt ðə ˈwɜːks ˌkaʊns(ə)l/",
+   "us": "/tu ɪnˌfɔːrm ən kənˌsʌlt ðə ˈwɜːrks ˌkaʊns(ə)l/"
+  },
+  "def": "To give the elected employee representatives full information about a proposed decision and obtain their opinion before the decision is taken.",
+  "registers": {
+   "formal": {
+    "uk": "information and consultation process",
+    "us": "information and consultation process",
+    "ex": "The [[information and consultation process]] must be completed before any binding agreement is entered into."
+   },
+   "everyday": {
+    "uk": "to consult the works council",
+    "us": "to consult the works council",
+    "ex": "In France we have [[to consult the works council]] before we sign, not after."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to launch the consultation",
+   "prior consultation",
+   "a proposed transaction",
+   "to complete the consultation process"
+  ],
+  "note_fr": "Tant que l'avis n'est pas rendu, parlez de « proposed » ou « contemplated transaction » : un e-mail affirmant « the decision has been made » peut suffire à nourrir une action pour délit d'entrave. « Consult » est transitif : « consult the works council ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law, the employer must inform and consult its works council (comité social et économique, or CSE) on any proposed change in the ownership or organisation of the company before the decision is finally taken; the council gives an opinion but has no veto.",
+   "spoken": "Before we commit to anything, we have to present the project to the elected staff representatives and get their opinion. They can't block the deal, but we can't skip the step."
+  }
+ },
+ {
+  "id": "ma-030",
+  "level": 2,
+  "fr": "avis du CSE",
+  "term": {
+   "uk": "works council opinion",
+   "us": "works council opinion"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːks ˈkaʊns(ə)l əˌpɪnjən/",
+   "us": "/ˌwɜːrks ˈkaʊns(ə)l əˌpɪnjən/"
+  },
+  "def": "The formal view, favourable or not, that the works council expresses at the end of a consultation; it does not bind the employer.",
+  "registers": {
+   "formal": {
+    "uk": "to deliver its opinion",
+    "us": "to deliver its opinion",
+    "ex": "The works council [[delivered its opinion]] on the proposed sale at its last meeting."
+   },
+   "everyday": {
+    "uk": "to give its opinion",
+    "us": "to give its opinion",
+    "ex": "Once the works council has [[given its opinion]], we're free to sign - whatever the opinion says."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a favourable / unfavourable opinion",
+   "a non-binding opinion",
+   "to be deemed to have been consulted",
+   "no right of veto"
+  ],
+  "note_fr": "« Advice » = conseil ; l'avis du CSE est « an opinion ». Insistez sur les deux faces : avis purement consultatif (« no veto »), mais étape incontournable. Faute d'avis dans le délai, le CSE est réputé avoir rendu un avis négatif.",
+  "french_concept": true,
+  "explain": {
+   "written": "The works council's opinion (avis) closes the consultation: it is advisory only, and if the council does not respond within the applicable time limit it is deemed to have given a negative opinion.",
+   "spoken": "They give their view at the end. It's purely advisory - even a no doesn't stop us - but we do have to wait for it."
+  }
+ },
+ {
+  "id": "ma-031",
+  "level": 2,
+  "fr": "calendrier de consultation",
+  "term": {
+   "uk": "consultation timetable",
+   "us": "consultation timeline"
+  },
+  "ipa": {
+   "uk": "/ˌkɒns(ə)lˈteɪʃ(ə)n ˌtaɪmteɪb(ə)l/",
+   "us": "/ˌkɑːns(ə)lˈteɪʃ(ə)n ˌtaɪmlaɪn/"
+  },
+  "def": "The schedule of meetings and deadlines within which the employee representatives must be consulted.",
+  "registers": {
+   "formal": {
+    "uk": "consultation period",
+    "us": "consultation period",
+    "ex": "The [[consultation period]] starts to run when the works council receives the written information on the proposed transaction."
+   },
+   "everyday": {
+    "uk": "consultation timetable",
+    "us": "consultation timeline",
+    "ex": "Realistically, the [[consultation timetable]] adds one to three months before we can sign.",
+    "ex_us": "Realistically, the [[consultation timeline]] adds one to three months before we can sign."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "statutory time limits",
+   "to build the consultation into the deal timetable",
+   "to agree a timetable with the works council",
+   "the clock starts running"
+  ],
+  "note_fr": "« Delay » = retard, pas délai : dites « time limit », « period » ou « deadline ». « Planning » n'est pas un nom de calendrier en anglais. UK « timetable », US « timeline » ou « schedule ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-032",
+  "level": 1,
+  "fr": "transfert automatique des contrats de travail",
+  "term": {
+   "uk": "automatic transfer of employment contracts",
+   "us": "automatic transfer of employment contracts"
+  },
+  "ipa": {
+   "uk": "/ˌɔːtəˈmætɪk ˈtrænsfɜːr əv ɪmˈplɔɪmənt ˌkɒntrækts/",
+   "us": "/ˌɔːt̬əˈmæt̬ɪk ˈtrænsfɜːr əv ɪmˈplɔɪmənt ˌkɑːntrækts/"
+  },
+  "def": "The rule under which, when a business changes hands, the employees assigned to it move to the new owner with their contracts unchanged, without anyone having to agree.",
+  "registers": {
+   "formal": {
+    "uk": "to transfer by operation of law",
+    "us": "to transfer by operation of law",
+    "ex": "The employment contracts of the employees assigned to the Business shall [[transfer by operation of law]] to the Purchaser on the Transfer Date."
+   },
+   "everyday": {
+    "uk": "to transfer automatically",
+    "us": "to transfer automatically",
+    "ex": "Their contracts [[transfer automatically]] - nobody signs anything, and nobody can opt out."
+   },
+   "informal": {
+    "uk": "to move across",
+    "us": "to move across",
+    "ex": "Everyone in the warehouse [[moves across]] on the same terms."
+   }
+  },
+  "collocations": [
+   "on their existing terms and conditions",
+   "the transfer date",
+   "to move to the new owner",
+   "a TUPE transfer (UK)"
+  ],
+  "note_fr": "Équivalent britannique : TUPE (prononcé « tioupi »). Aux États-Unis, pas de transfert automatique : l'acquéreur d'actifs fait des offres d'embauche. « By operation of law » = de plein droit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-033",
+  "level": 2,
+  "fr": "salariés transférés",
+  "term": {
+   "uk": "transferring employees",
+   "us": "transferring employees"
+  },
+  "ipa": {
+   "uk": "/trænsˌfɜːrɪŋ ɪmˈplɔɪiːz/",
+   "us": "/trænsˌfɜːrɪŋ ɪmˈplɔɪiːz/"
+  },
+  "def": "The employees whose contracts pass to the buyer as part of a business transfer.",
+  "registers": {
+   "formal": {
+    "uk": "the Transferring Employees",
+    "us": "the Transferring Employees",
+    "ex": "The Seller shall provide the Purchaser with an up-to-date list of [[the Transferring Employees]] no later than ten business days before Completion."
+   },
+   "everyday": {
+    "uk": "the people in scope",
+    "us": "the people in scope",
+    "ex": "We need to agree exactly who [[the people in scope]] are before we talk to the works council."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "in-scope employees",
+   "employees assigned to the business",
+   "shared employees",
+   "to be wholly or mainly assigned to"
+  ],
+  "note_fr": "« In scope / out of scope » est le jargon courant. « Transferring » avant le transfert, « transferred » après. Point sensible : les salariés qui ne travaillent qu'en partie pour l'activité cédée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-034",
+  "level": 3,
+  "fr": "cédant et cessionnaire (ancien et nouvel employeur)",
+  "term": {
+   "uk": "transferor and transferee",
+   "us": "transferor and transferee"
+  },
+  "ipa": {
+   "uk": "/trænsˈfɜːrə(r) ən ˌtrænsfɜːˈriː/",
+   "us": "/trænsˈfɜːrər ən ˌtrænsfɜːˈriː/"
+  },
+  "def": "The employer that hands over the business (the transferor) and the employer that takes it on (the transferee).",
+  "registers": {
+   "formal": {
+    "uk": "the transferor and the transferee",
+    "us": "the transferor and the transferee",
+    "ex": "The respective obligations of [[the transferor and the transferee]] towards the employees are set out in clause 11.",
+    "ex_us": "The respective obligations of [[the transferor and the transferee]] toward the employees are set forth in Section 11."
+   },
+   "everyday": {
+    "uk": "the outgoing and incoming employers",
+    "us": "the outgoing and incoming employers",
+    "ex": "[[The outgoing and incoming employers]] ought to write to the staff together."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the incoming employer",
+   "the outgoing employer",
+   "to take on the staff",
+   "to hand over employee records"
+  ],
+  "note_fr": "Accent tonique : transFERor mais transferEE (comme employEE). En France, le nouvel employeur reprend en principe les obligations de l'ancien envers les salariés à la date du transfert, sauf exceptions ; la répartition finale entre les deux se règle dans le contrat de cession.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-035",
+  "level": 3,
+  "fr": "entité économique autonome",
+  "term": {
+   "uk": "autonomous economic entity",
+   "us": "autonomous economic entity"
+  },
+  "ipa": {
+   "uk": "/ɔːˌtɒnəməs ˌiːkəˌnɒmɪk ˈentəti/",
+   "us": "/ɔːˌtɑːnəməs ˌekəˌnɑːmɪk ˈentət̬i/"
+  },
+  "def": "An organised grouping of people and assets that pursues an activity with its own objective; if it keeps its identity after changing hands, the employees' contracts transfer with it.",
+  "registers": {
+   "formal": {
+    "uk": "an economic entity which retains its identity",
+    "us": "an economic entity which retains its identity",
+    "ex": "The automatic transfer applies only where the activity constitutes [[an economic entity which retains its identity]] in the hands of the new operator."
+   },
+   "everyday": {
+    "uk": "a self-standing business",
+    "us": "a self-standing business",
+    "ex": "The question is whether the maintenance team is really [[a self-standing business]] or just a few people from a bigger department."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to retain its identity",
+   "an organised grouping of resources",
+   "dedicated staff and assets",
+   "to meet the test"
+  ],
+  "note_fr": "Notion issue du droit européen : la formule consacrée est « an economic entity which retains its identity ». Si le critère n'est pas rempli, pas de transfert automatique : il faut l'accord individuel de chaque salarié.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-036",
+  "level": 3,
+  "fr": "transfert partiel d'activité",
+  "term": {
+   "uk": "partial transfer",
+   "us": "partial transfer"
+  },
+  "ipa": {
+   "uk": "/ˌpɑːʃ(ə)l ˈtrænsfɜː/",
+   "us": "/ˌpɑːrʃ(ə)l ˈtrænsfɜːr/"
+  },
+  "def": "A transfer of only part of a company's business, which raises the question of which employees and which representatives go with it.",
+  "registers": {
+   "formal": {
+    "uk": "transfer of part of the business",
+    "us": "transfer of part of the business",
+    "ex": "On a [[transfer of part of the business]], the transfer of an employee representative's contract requires the prior authorisation of the labour inspector.",
+    "ex_us": "On a [[transfer of part of the business]], the transfer of an employee representative's contract requires the prior authorization of the labor inspector."
+   },
+   "everyday": {
+    "uk": "partial transfer",
+    "us": "partial transfer",
+    "ex": "Because it's only a [[partial transfer]], the two reps in scope can't move until the labour inspector says yes.",
+    "ex_us": "Because it's only a [[partial transfer]], the two reps in scope can't move until the labor inspector says yes."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be assigned mainly to the transferred activity",
+   "the labour inspector's authorisation",
+   "protected employees"
+  ],
+  "note_fr": "Piège de calendrier : en cas de transfert partiel, le transfert des représentants du personnel suppose l'autorisation préalable de l'inspecteur du travail. À anticiper bien avant la réalisation ; rien de tel au Royaume-Uni ni aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-037",
+  "level": 2,
+  "fr": "reprise de l'ancienneté",
+  "term": {
+   "uk": "continuity of employment",
+   "us": "continuity of employment"
+  },
+  "ipa": {
+   "uk": "/ˌkɒntɪˈnjuːəti əv ɪmˈplɔɪmənt/",
+   "us": "/ˌkɑːntəˈnuːət̬i əv ɪmˈplɔɪmənt/"
+  },
+  "def": "The principle that an employee's period of service is treated as unbroken when the employer changes.",
+  "registers": {
+   "formal": {
+    "uk": "continuity of employment",
+    "us": "continuity of employment",
+    "ex": "The Transferring Employees' [[continuity of employment]] shall be preserved, and their service with the Seller shall count as service with the Purchaser."
+   },
+   "everyday": {
+    "uk": "to carry over one's service",
+    "us": "to carry over one's service",
+    "ex": "You [[carry over your service]] in full, so nothing that depends on it changes."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "continuous service",
+   "accrued rights",
+   "to recognise past service",
+   "service-related entitlements"
+  ],
+  "note_fr": "« Seniority » au sens d'ancienneté est surtout américain ; au Royaume-Uni, on dit « length of service ». « Seniority recovery » est un calque : dites « past service is recognised ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-038",
+  "level": 2,
+  "fr": "s'opposer à son transfert",
+  "term": {
+   "uk": "to object to the transfer",
+   "us": "to object to the transfer"
+  },
+  "ipa": {
+   "uk": "/tu əbˈdʒekt tə ðə ˈtrænsfɜː/",
+   "us": "/tu əbˈdʒekt tə ðə ˈtrænsfɜːr/"
+  },
+  "def": "To refuse, as an employee, to move to the new employer in a business transfer.",
+  "registers": {
+   "formal": {
+    "uk": "to object to the transfer",
+    "us": "to object to the transfer",
+    "ex": "Where the statutory conditions are met, an employee is not entitled [[to object to the transfer]] of his or her contract."
+   },
+   "everyday": {
+    "uk": "to refuse to transfer",
+    "us": "to refuse to transfer",
+    "ex": "What if somebody [[refuses to transfer]]? In France they can't, really - the contract moves whether they like it or not."
+   },
+   "informal": {
+    "uk": "to opt out",
+    "us": "to opt out",
+    "ex": "There's no way [[to opt out]] of the transfer here, unlike in the UK."
+   }
+  },
+  "collocations": [
+   "to have no right to object",
+   "to consent to the transfer",
+   "a voluntary transfer"
+  ],
+  "note_fr": "Différence majeure : au Royaume-Uni (TUPE), le salarié peut « object », et son contrat prend alors fin sans licenciement ; en France, le transfert légal s'impose aux deux parties. Construction : « to object TO + nom ou -ing ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-039",
+  "level": 3,
+  "fr": "mise en cause des accords collectifs",
+  "term": {
+   "uk": "challenge to collective agreements",
+   "us": "challenge to collective agreements"
+  },
+  "ipa": {
+   "uk": "/ˈtʃælɪndʒ tə kəˌlektɪv əˈɡriːmənts/",
+   "us": "/ˈtʃælɪndʒ tə kəˌlektɪv əˈɡriːmənts/"
+  },
+  "def": "In French law, the effect of a transfer on the former employer's company-level agreements: they stop applying to the transferred employees after a limited period unless they are replaced.",
+  "registers": {
+   "formal": {
+    "uk": "to be automatically called into question",
+    "us": "to be automatically called into question",
+    "ex": "The collective agreements in force at the Seller will [[be automatically called into question]] as a result of the transfer."
+   },
+   "everyday": {
+    "uk": "to fall away",
+    "us": "to fall away",
+    "ex": "The seller's agreements don't [[fall away]] on day one - they carry on for a while so that we can negotiate."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the transferor's company agreements",
+   "to continue to apply for a limited period",
+   "to open negotiations"
+  ],
+  "note_fr": "Ne traduisez pas par « denunciation » (dénonciation publique). Rien de comparable au Royaume-Uni, où les clauses issues d'accords collectifs sont en principe incorporées au contrat et suivent le salarié.",
+  "french_concept": true,
+  "explain": {
+   "written": "On a transfer, the transferor's collective agreements are automatically 'called into question' (mise en cause): they continue to apply to the transferred employees for a limited period, during which the new employer must negotiate a replacement.",
+   "spoken": "The old employer's agreements don't follow people for ever. They keep applying for a while - a bit over a year at most - and in that time we have to negotiate something to replace them."
+  }
+ },
+ {
+  "id": "ma-040",
+  "level": 3,
+  "fr": "délai de survie (des accords)",
+  "term": {
+   "uk": "survival period",
+   "us": "survival period"
+  },
+  "ipa": {
+   "uk": "/səˈvaɪv(ə)l ˌpɪəriəd/",
+   "us": "/sərˈvaɪv(ə)l ˌpɪriəd/"
+  },
+  "def": "The limited period during which the former employer's collective agreements go on applying to transferred employees after a transfer.",
+  "registers": {
+   "formal": {
+    "uk": "survival period",
+    "us": "survival period",
+    "ex": "During the [[survival period]], the Transferring Employees shall continue to benefit from the Seller's company agreements."
+   },
+   "everyday": {
+    "uk": "to carry on applying",
+    "us": "to carry on applying",
+    "ex": "Their working-time agreement [[carries on applying]] for up to fifteen months unless we agree something new sooner."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a notice period followed by twelve months",
+   "to run out",
+   "until a substitution agreement is signed"
+  ],
+  "note_fr": "Calque assumé : « survival period » ne dit rien à un Anglo-Saxon sans explication ; glosez par « transitional period ». Durée : un préavis, puis douze mois au plus, sauf accord de substitution conclu entre-temps.",
+  "french_concept": true,
+  "explain": {
+   "written": "The 'survival period' is the time during which the transferor's collective agreements continue to apply after the transfer - a notice period followed by up to twelve months - unless a substitution agreement is concluded earlier.",
+   "spoken": "It's a grace period: the old agreements keep running for up to about fifteen months while we negotiate the new one."
+  }
+ },
+ {
+  "id": "ma-041",
+  "level": 3,
+  "fr": "accord de substitution",
+  "term": {
+   "uk": "substitution agreement",
+   "us": "substitution agreement"
+  },
+  "ipa": {
+   "uk": "/ˌsʌbstɪˈtjuːʃ(ə)n əˌɡriːmənt/",
+   "us": "/ˌsʌbstɪˈtuːʃ(ə)n əˌɡriːmənt/"
+  },
+  "def": "A collective agreement negotiated after a transfer or merger to replace the agreements that previously applied to the transferred employees.",
+  "registers": {
+   "formal": {
+    "uk": "substitution agreement",
+    "us": "substitution agreement",
+    "ex": "The Purchaser intends to open negotiations with a view to concluding a [[substitution agreement]] within six months of the Transfer Date."
+   },
+   "everyday": {
+    "uk": "replacement agreement",
+    "us": "replacement agreement",
+    "ex": "If we sign a [[replacement agreement]] by the summer, everyone will be on the same terms from January."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to negotiate a substitution agreement",
+   "to replace the legacy agreements",
+   "failing agreement",
+   "to preserve the level of pay"
+  ],
+  "note_fr": "À défaut d'accord dans le délai, les salariés transférés ne conservent qu'une garantie de rémunération. La loi permet aussi d'anticiper cette négociation avant le transfert : utile à dire à un acquéreur pressé.",
+  "french_concept": true,
+  "explain": {
+   "written": "A substitution agreement (accord de substitution) is the company-level agreement negotiated with the unions after a transfer to replace the transferor's agreements; once signed, it applies in their place.",
+   "spoken": "It's the new agreement we negotiate with the unions to replace the ones people brought with them."
+  }
+ },
+ {
+  "id": "ma-042",
+  "level": 1,
+  "fr": "harmonisation des statuts",
+  "term": {
+   "uk": "harmonisation of terms and conditions",
+   "us": "harmonization of terms and conditions"
+  },
+  "ipa": {
+   "uk": "/ˌhɑːmənaɪˈzeɪʃ(ə)n əv ˌtɜːmz ən kənˈdɪʃ(ə)nz/",
+   "us": "/ˌhɑːrmənəˈzeɪʃ(ə)n əv ˌtɜːrmz ən kənˈdɪʃ(ə)nz/"
+  },
+  "def": "Bringing the pay, benefits and working arrangements of employees from different companies into line after a merger or transfer.",
+  "registers": {
+   "formal": {
+    "uk": "harmonisation of terms and conditions",
+    "us": "harmonization of terms and conditions",
+    "ex": "The [[harmonisation of terms and conditions]] will be the subject of negotiations with the representative trade unions.",
+    "ex_us": "The [[harmonization of terms and conditions]] will be the subject of negotiations with the representative labor unions."
+   },
+   "everyday": {
+    "uk": "to bring everyone onto the same terms",
+    "us": "to bring everyone onto the same terms",
+    "ex": "It'll take us a good year [[to bring everyone onto the same terms]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to harmonise pay scales",
+   "to harmonise benefits",
+   "a two-tier workforce",
+   "a like-for-like comparison"
+  ],
+  "note_fr": "« Statut » ≠ « status » : dites « terms and conditions » ou « package ». Au Royaume-Uni, modifier les conditions en raison même du transfert est très encadré par TUPE : vos collègues britanniques s'étonneront qu'en France l'harmonisation passe par la négociation collective.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-043",
+  "level": 2,
+  "fr": "aligner par le haut",
+  "term": {
+   "uk": "to level up",
+   "us": "to level up"
+  },
+  "ipa": {
+   "uk": "/tu ˌlev(ə)l ˈʌp/",
+   "us": "/tu ˌlev(ə)l ˈʌp/"
+  },
+  "def": "To align different groups of employees on the more generous of their respective terms.",
+  "registers": {
+   "formal": {
+    "uk": "to align on the more favourable terms",
+    "us": "to align on the more favorable terms",
+    "ex": "The unions are asking for all benefits to be [[aligned on the more favourable terms]].",
+    "ex_us": "The unions are asking for all benefits to be [[aligned on the more favorable terms]]."
+   },
+   "everyday": {
+    "uk": "to level up",
+    "us": "to level up",
+    "ex": "We can't afford [[to level up]] across the board, so we'll have to trade some things off."
+   },
+   "informal": {
+    "uk": "to cherry-pick",
+    "us": "to cherry-pick",
+    "ex": "The unions will try [[to cherry-pick]] the best of both packages."
+   }
+  },
+  "collocations": [
+   "to level down",
+   "a cost-neutral harmonisation",
+   "to trade one benefit off against another",
+   "the best of both worlds"
+  ],
+  "note_fr": "« Level up / level down » : aligner par le haut / par le bas. « Cherry-picking » (prendre le meilleur de chaque statut) est le mot que les financiers comprennent immédiatement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-044",
+  "level": 3,
+  "fr": "maintien du salaire à titre personnel",
+  "term": {
+   "uk": "red-circling",
+   "us": "grandfathering"
+  },
+  "ipa": {
+   "uk": "/ˈred ˌsɜːk(ə)lɪŋ/",
+   "us": "/ˈɡræn(d)ˌfɑːðərɪŋ/"
+  },
+  "def": "Allowing existing employees to keep, on a personal basis, a rate of pay or a benefit that is higher than the new scheme provides.",
+  "registers": {
+   "formal": {
+    "uk": "pay protection on a personal basis",
+    "us": "grandfathered terms",
+    "ex": "Employees whose current salary exceeds the new scale will receive [[pay protection on a personal basis]].",
+    "ex_us": "Employees whose current salary exceeds the new range will keep it under [[grandfathered terms]]."
+   },
+   "everyday": {
+    "uk": "to be red-circled",
+    "us": "to be grandfathered",
+    "ex": "Anyone above the new band will [[be red-circled]] until the scale catches up.",
+    "ex_us": "Anyone above the new range will [[be grandfathered]] until the range catches up."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a red-circled salary",
+   "legacy terms",
+   "a personal allowance",
+   "to phase out a benefit"
+  ],
+  "note_fr": "« Red-circling » vise surtout la rémunération ; « grandfathering » (américain, compris partout) tout droit maintenu au profit des anciens. « Legacy terms » = conditions héritées de l'ancien employeur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-045",
+  "level": 2,
+  "fr": "intégration post-fusion",
+  "term": {
+   "uk": "post-merger integration",
+   "us": "post-merger integration"
+  },
+  "ipa": {
+   "uk": "/ˌpəʊst ˌmɜːdʒər ɪntɪˈɡreɪʃ(ə)n/",
+   "us": "/ˌpoʊst ˌmɜːrdʒər ɪnt̬əˈɡreɪʃ(ə)n/"
+  },
+  "def": "The process of combining two organisations - their people, systems and ways of working - once a deal has completed.",
+  "registers": {
+   "formal": {
+    "uk": "post-merger integration",
+    "us": "post-merger integration",
+    "ex": "Responsibility for [[post-merger integration]] rests with a steering committee chaired by the Chief Operating Officer."
+   },
+   "everyday": {
+    "uk": "integration",
+    "us": "integration",
+    "ex": "The deal was the easy part; the [[integration]] is where it usually goes wrong."
+   },
+   "informal": {
+    "uk": "PMI",
+    "us": "PMI",
+    "ex": "She ran the [[PMI]] on their last two acquisitions."
+   }
+  },
+  "collocations": [
+   "an integration plan",
+   "the integration team",
+   "to integrate the two businesses",
+   "a light-touch integration"
+  ],
+  "note_fr": "« PMI » est un sigle de consultants ; en France il évoque les petites et moyennes industries, donc explicitez-le. Si l'opération n'est pas une fusion au sens strict, dites « post-acquisition integration ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-046",
+  "level": 1,
+  "fr": "premier jour après la réalisation (Day One)",
+  "term": {
+   "uk": "Day One",
+   "us": "Day One"
+  },
+  "ipa": {
+   "uk": "/ˌdeɪ ˈwʌn/",
+   "us": "/ˌdeɪ ˈwʌn/"
+  },
+  "def": "The first day on which the business operates under its new owner or as a separate company.",
+  "registers": {
+   "formal": {
+    "uk": "Day One readiness",
+    "us": "Day One readiness",
+    "ex": "The HR workstream has confirmed [[Day One readiness]] for payroll, benefits and employee communications."
+   },
+   "everyday": {
+    "uk": "day one",
+    "us": "day one",
+    "ex": "On [[day one]], people need to be paid, to know who their manager is and to have a badge that works - everything else can wait."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a Day One checklist",
+   "Day One communications",
+   "to be ready for Day One",
+   "from day one"
+  ],
+  "note_fr": "Sans article : « on day one ». Par extension, « from day one » = dès le début. Pour un système informatique, on parle plutôt de « go-live ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-047",
+  "level": 2,
+  "fr": "contrat de services transitoires (TSA)",
+  "term": {
+   "uk": "transitional services agreement",
+   "us": "transition services agreement"
+  },
+  "ipa": {
+   "uk": "/trænˌzɪʃ(ə)n(ə)l ˈsɜːvɪsɪz əˌɡriːmənt/",
+   "us": "/trænˌzɪʃ(ə)n ˈsɜːrvɪsɪz əˌɡriːmənt/"
+  },
+  "def": "An agreement under which the seller goes on providing services such as payroll or IT to the business it has sold for a limited time after completion.",
+  "registers": {
+   "formal": {
+    "uk": "transitional services agreement",
+    "us": "transition services agreement",
+    "ex": "Payroll will continue to be processed by the Seller under the [[transitional services agreement]] for a period of nine months.",
+    "ex_us": "Payroll will continue to be processed by the Seller under the [[transition services agreement]] for a period of nine months."
+   },
+   "everyday": {
+    "uk": "TSA",
+    "us": "TSA",
+    "ex": "Payroll stays with the seller under the [[TSA]] until we've got our own system up and running."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to exit the TSA",
+   "to extend the TSA",
+   "a service schedule",
+   "TSA charges"
+  ],
+  "note_fr": "Se prononce lettre à lettre. Vigilance RH : les salariés du vendeur qui rendent le service ne sont pas transférés, et la fin du TSA (paie, SIRH, mutuelle) est un jalon à risque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-048",
+  "level": 3,
+  "fr": "en autonomie (hors groupe)",
+  "term": {
+   "uk": "on a standalone basis",
+   "us": "on a standalone basis"
+  },
+  "ipa": {
+   "uk": "/ɒn ə ˈstændələʊn ˌbeɪsɪs/",
+   "us": "/ɑːn ə ˈstændəloʊn ˌbeɪsɪs/"
+  },
+  "def": "As an independent business, without relying on the support functions, systems or schemes of the former parent group.",
+  "registers": {
+   "formal": {
+    "uk": "on a standalone basis",
+    "us": "on a standalone basis",
+    "ex": "The cost of running the HR function [[on a standalone basis]] has been estimated in the separation plan."
+   },
+   "everyday": {
+    "uk": "to stand on its own two feet",
+    "us": "to stand on its own two feet",
+    "ex": "The business has never had its own payroll or HR system, so it'll take time [[to stand on its own two feet]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "standalone costs",
+   "separation costs",
+   "to stand up a function",
+   "group-wide schemes"
+  ],
+  "note_fr": "Dans un carve-out, recensez tout ce qui dépend du groupe : mutuelle, prévoyance, épargne salariale, SIRH. « To stand up a function » (la créer de toutes pièces) est du jargon projet, surtout américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-049",
+  "level": 2,
+  "fr": "synergies",
+  "term": {
+   "uk": "synergies",
+   "us": "synergies"
+  },
+  "ipa": {
+   "uk": "/ˈsɪnədʒiz/",
+   "us": "/ˈsɪnərdʒiz/"
+  },
+  "def": "The savings or extra revenue expected from combining two businesses.",
+  "registers": {
+   "formal": {
+    "uk": "cost synergies",
+    "us": "cost synergies",
+    "ex": "The business plan assumes substantial [[cost synergies]], roughly half of which relate to support functions."
+   },
+   "everyday": {
+    "uk": "savings",
+    "us": "savings",
+    "ex": "When they say synergies, what they mean is [[savings]] - and in the support functions that means jobs."
+   },
+   "informal": {
+    "uk": "overlap",
+    "us": "overlap",
+    "ex": "There's a lot of [[overlap]] between the two finance teams."
+   }
+  },
+  "collocations": [
+   "to deliver synergies",
+   "headcount synergies",
+   "duplicate roles",
+   "to realise savings"
+  ],
+  "note_fr": "Prononcez SIN-er-djiz (« g » doux). Pour des représentants du personnel, « synergies » veut presque toujours dire suppressions de postes : pesez le mot. « Doublons » = « duplicate roles » ou « overlap ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-050",
+  "level": 2,
+  "fr": "choc des cultures",
+  "term": {
+   "uk": "culture clash",
+   "us": "culture clash"
+  },
+  "ipa": {
+   "uk": "/ˈkʌltʃə klæʃ/",
+   "us": "/ˈkʌltʃər klæʃ/"
+  },
+  "def": "Conflict or misunderstanding that arises when organisations with different values and working habits are brought together.",
+  "registers": {
+   "formal": {
+    "uk": "cultural integration",
+    "us": "cultural integration",
+    "ex": "[[Cultural integration]] has been identified as one of the principal risks to the success of the merger."
+   },
+   "everyday": {
+    "uk": "culture clash",
+    "us": "culture clash",
+    "ex": "It's a classic [[culture clash]]: a family-owned French company and a US group that runs everything by the quarterly numbers."
+   },
+   "informal": {
+    "uk": "us and them",
+    "us": "us and them",
+    "ex": "Six months on, there's still a lot of [[us and them]] between the two sites."
+   }
+  },
+  "collocations": [
+   "a good cultural fit",
+   "ways of working",
+   "to bridge the gap",
+   "an us-and-them mentality"
+  ],
+  "note_fr": "« Culture shock » concerne une personne à l'étranger ; pour deux organisations, on dit « culture clash ». « Corporate culture » = culture d'entreprise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-051",
+  "level": 2,
+  "fr": "lignes hiérarchiques, rattachements",
+  "term": {
+   "uk": "reporting lines",
+   "us": "reporting lines"
+  },
+  "ipa": {
+   "uk": "/rɪˈpɔːtɪŋ laɪnz/",
+   "us": "/rɪˈpɔːrt̬ɪŋ laɪnz/"
+  },
+  "def": "The formal relationships that show who is accountable to whom in an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "reporting lines",
+    "us": "reporting lines",
+    "ex": "The new [[reporting lines]] will take effect on Completion and will be communicated to all managers beforehand.",
+    "ex_us": "The new [[reporting lines]] will take effect at Closing and will be communicated to all managers beforehand."
+   },
+   "everyday": {
+    "uk": "who reports to whom",
+    "us": "who reports to whom",
+    "ex": "People don't care about the legal structure; they want to know [[who reports to whom]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a solid-line report",
+   "dotted-line reporting",
+   "an organisation chart (org chart)",
+   "a matrix organisation"
+  ],
+  "note_fr": "« Hierarchical line » et « my hierarchy » sont des calques : dites « my line manager », « senior management ». Rattachement fonctionnel = « dotted line » ; hiérarchique = « solid line ». « N+1 » n'existe pas en anglais.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-052",
+  "level": 1,
+  "fr": "prime de rétention",
+  "term": {
+   "uk": "retention bonus",
+   "us": "retention bonus"
+  },
+  "ipa": {
+   "uk": "/rɪˈtenʃ(ə)n ˌbəʊnəs/",
+   "us": "/rɪˈtenʃ(ə)n ˌboʊnəs/"
+  },
+  "def": "A payment promised to an employee on condition that he or she is still with the company on a given date.",
+  "registers": {
+   "formal": {
+    "uk": "retention bonus",
+    "us": "retention bonus",
+    "ex": "The [[retention bonus]] shall be payable provided that the Employee is still employed, and not under notice, on the payment date."
+   },
+   "everyday": {
+    "uk": "retention bonus",
+    "us": "stay bonus",
+    "ex": "We've offered the plant manager a [[retention bonus]] payable six months after the deal closes.",
+    "ex_us": "We've offered the plant manager a [[stay bonus]] payable six months after the deal closes."
+   },
+   "informal": {
+    "uk": "golden handcuffs",
+    "us": "golden handcuffs",
+    "ex": "The scheme is basically [[golden handcuffs]] for the top twelve."
+   }
+  },
+  "collocations": [
+   "a retention plan",
+   "a retention pool",
+   "to lock in key people",
+   "to be conditional on continued employment"
+  ],
+  "note_fr": "En anglais, « retention » est neutre (fidélisation), sans la connotation négative de « rétention ». Condition de présence : « conditional on continued employment ». « Golden handcuffs » est familier mais courant, y compris dans la presse.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-053",
+  "level": 2,
+  "fr": "risque hommes clés",
+  "term": {
+   "uk": "key-person risk",
+   "us": "key-person risk"
+  },
+  "ipa": {
+   "uk": "/ˌkiː ˈpɜːs(ə)n rɪsk/",
+   "us": "/ˌkiː ˈpɜːrs(ə)n rɪsk/"
+  },
+  "def": "The risk that the business will suffer if a small number of people with critical skills or relationships leave.",
+  "registers": {
+   "formal": {
+    "uk": "key-person dependency",
+    "us": "key-person dependency",
+    "ex": "The report highlights a significant [[key-person dependency]] in the research and development team."
+   },
+   "everyday": {
+    "uk": "key people",
+    "us": "key people",
+    "ex": "If we lose three or four [[key people]] in the first six months, the business case falls apart."
+   },
+   "informal": {
+    "uk": "flight risk",
+    "us": "flight risk",
+    "ex": "The sales director is a serious [[flight risk]] - she's already had two calls from headhunters."
+   }
+  },
+  "collocations": [
+   "to identify key people",
+   "a single point of failure",
+   "a succession plan",
+   "to be approached by a competitor"
+  ],
+  "note_fr": "« Key man » a vieilli : préférez « key person ». « A flight risk » qualifie la personne susceptible de partir (« she's a flight risk »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-054",
+  "level": 1,
+  "fr": "rotation du personnel (turnover)",
+  "term": {
+   "uk": "staff turnover",
+   "us": "employee turnover"
+  },
+  "ipa": {
+   "uk": "/ˌstɑːf ˈtɜːnəʊvə/",
+   "us": "/ɪmˌplɔɪiː ˈtɜːrnoʊvər/"
+  },
+  "def": "The rate at which employees leave a company and have to be replaced.",
+  "registers": {
+   "formal": {
+    "uk": "attrition rate",
+    "us": "attrition rate",
+    "ex": "The voluntary [[attrition rate]] almost doubled in the twelve months following the announcement."
+   },
+   "everyday": {
+    "uk": "staff turnover",
+    "us": "turnover",
+    "ex": "[[Staff turnover]] has nearly doubled since the announcement.",
+    "ex_us": "[[Turnover]] has nearly doubled since the announcement."
+   },
+   "informal": {
+    "uk": "to jump ship",
+    "us": "to jump ship",
+    "ex": "Several engineers [[jumped ship]] as soon as the sale was announced."
+   }
+  },
+  "collocations": [
+   "voluntary departures",
+   "regretted leavers",
+   "a spike in resignations",
+   "natural attrition"
+  ],
+  "note_fr": "Au Royaume-Uni, « turnover » seul signifie chiffre d'affaires : précisez « staff turnover ». « Attrition » désigne aussi les départs naturels non remplacés (« natural wastage », UK).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-055",
+  "level": 2,
+  "fr": "changement de contrôle",
+  "term": {
+   "uk": "change of control",
+   "us": "change of control"
+  },
+  "ipa": {
+   "uk": "/ˌtʃeɪndʒ əv kənˈtrəʊl/",
+   "us": "/ˌtʃeɪndʒ əv kənˈtroʊl/"
+  },
+  "def": "A change in who ultimately owns or controls a company, which may trigger rights under certain contracts.",
+  "registers": {
+   "formal": {
+    "uk": "change-of-control clause",
+    "us": "change-of-control clause",
+    "ex": "The Chief Executive's contract contains a [[change-of-control clause]] entitling him to an enhanced severance payment."
+   },
+   "everyday": {
+    "uk": "change of control",
+    "us": "change of control",
+    "ex": "Does a [[change of control]] trigger anything in the top team's contracts?"
+   },
+   "informal": {
+    "uk": "golden parachute",
+    "us": "golden parachute",
+    "ex": "Two of the directors have a [[golden parachute]] if the company is sold."
+   }
+  },
+  "collocations": [
+   "to trigger a change-of-control provision",
+   "to be triggered by the sale",
+   "a double-trigger clause",
+   "enhanced severance"
+  ],
+  "note_fr": "Point classique de due diligence : les clauses « triggered by » la cession. « To control » = diriger, maîtriser ; « contrôler » au sens de vérifier se dit « to check ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-056",
+  "level": 3,
+  "fr": "management package",
+  "term": {
+   "uk": "management incentive plan",
+   "us": "management incentive plan"
+  },
+  "ipa": {
+   "uk": "/ˌmænɪdʒmənt ɪnˈsentɪv plæn/",
+   "us": "/ˌmænɪdʒmənt ɪnˈsent̬ɪv plæn/"
+  },
+  "def": "The arrangement by which the managers of a company under LBO invest alongside the fund and share in the gain when it sells.",
+  "registers": {
+   "formal": {
+    "uk": "management incentive plan",
+    "us": "management incentive plan",
+    "ex": "Participation in the [[management incentive plan]] is offered to members of the executive committee and to a limited number of key managers."
+   },
+   "everyday": {
+    "uk": "MIP",
+    "us": "MIP",
+    "ex": "The new CFO wants to know what the [[MIP]] looks like before she signs."
+   },
+   "informal": {
+    "uk": "skin in the game",
+    "us": "skin in the game",
+    "ex": "The fund wants the top team to have real [[skin in the game]]."
+   }
+  },
+  "collocations": [
+   "to invest alongside the fund",
+   "management equity",
+   "sweet equity",
+   "to share in the upside"
+  ],
+  "note_fr": "« Management package » est un franglais : en anglais, « management incentive plan (MIP) » ou « management equity ». Le traitement fiscal et social français de ces gains est un sujet de spécialistes : restez générale et renvoyez aux conseils.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-057",
+  "level": 3,
+  "fr": "clauses de départ (good leaver / bad leaver)",
+  "term": {
+   "uk": "leaver provisions",
+   "us": "leaver provisions"
+  },
+  "ipa": {
+   "uk": "/ˈliːvə prəˌvɪʒ(ə)nz/",
+   "us": "/ˈliːvər prəˌvɪʒ(ə)nz/"
+  },
+  "def": "The terms of a management equity plan that determine what happens to a manager's shares, and at what price, depending on why he or she leaves.",
+  "registers": {
+   "formal": {
+    "uk": "good leaver and bad leaver provisions",
+    "us": "good leaver and bad leaver provisions",
+    "ex": "Under the [[good leaver and bad leaver provisions]], the price at which a departing manager must sell his or her shares depends on the circumstances of the departure."
+   },
+   "everyday": {
+    "uk": "good leaver",
+    "us": "good leaver",
+    "ex": "If she's dismissed without any misconduct, does she count as a [[good leaver]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be treated as a bad leaver",
+   "a compulsory transfer of shares",
+   "a vesting schedule",
+   "to leave before the exit"
+  ],
+  "note_fr": "Lien direct avec le droit du travail : la qualification de « bad leaver » dépend souvent du motif de la rupture (démission, faute), d'où des contentieux. « Leaver » = personne qui part ; « quitter » est péjoratif.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-058",
+  "level": 3,
+  "fr": "UES (unité économique et sociale)",
+  "term": {
+   "uk": "economic and social unit",
+   "us": "economic and social unit"
+  },
+  "ipa": {
+   "uk": "/ˌiːkəˌnɒmɪk ən ˌsəʊʃ(ə)l ˈjuːnɪt/",
+   "us": "/ˌekəˌnɑːmɪk ən ˌsoʊʃ(ə)l ˈjuːnɪt/"
+  },
+  "def": "A group of legally separate companies treated as a single employer for employee representation purposes because they share management, activities and a workforce community.",
+  "registers": {
+   "formal": {
+    "uk": "economic and social unit",
+    "us": "economic and social unit",
+    "ex": "The three companies have been recognised as forming an [[economic and social unit]], with a single works council.",
+    "ex_us": "The three companies have been recognized as forming an [[economic and social unit]], with a single works council."
+   },
+   "everyday": {
+    "uk": "to be treated as one company for staff representation",
+    "us": "to be treated as one company for staff representation",
+    "ex": "Legally they're three companies, but they're [[treated as one company for staff representation]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to recognise a UES by agreement or by court decision",
+   "a single works council",
+   "to leave the UES",
+   "common management"
+  ],
+  "note_fr": "Enjeu de l'opération : la société cédée sort de l'UES, ce qui remet en cause le périmètre des instances et, parfois, les accords conclus à ce niveau. Aux États-Unis, la notion de « single employer » en est un parent éloigné.",
+  "french_concept": true,
+  "explain": {
+   "written": "An economic and social unit (unité économique et sociale, or UES) is a group of legally distinct companies recognised, by collective agreement or by a court, as a single entity for the purpose of electing employee representatives.",
+   "spoken": "It's a French mechanism: several companies that work as one are treated as a single company when it comes to electing staff representatives."
+  }
+ },
+ {
+  "id": "ma-059",
+  "level": 3,
+  "fr": "établissement distinct",
+  "term": {
+   "uk": "distinct establishment",
+   "us": "distinct establishment"
+  },
+  "ipa": {
+   "uk": "/dɪˌstɪŋkt ɪˈstæblɪʃmənt/",
+   "us": "/dɪˌstɪŋkt ɪˈstæblɪʃmənt/"
+  },
+  "def": "A site or unit of a company recognised as having enough management autonomy to have its own works council.",
+  "registers": {
+   "formal": {
+    "uk": "distinct establishment",
+    "us": "distinct establishment",
+    "ex": "Following the merger, the number and boundaries of the [[distinct establishments]] will be renegotiated with the unions."
+   },
+   "everyday": {
+    "uk": "a site with its own works council",
+    "us": "a site with its own works council",
+    "ex": "Lyon is [[a site with its own works council]], so we have a local consultation as well as the central one."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an establishment-level works council",
+   "the central works council",
+   "to redraw the boundaries",
+   "management autonomy"
+  ],
+  "note_fr": "« Establishment » évoque spontanément, en anglais, les élites ou un commerce : ajoutez « site » ou glosez. Le critère est l'autonomie de gestion du responsable de l'établissement.",
+  "french_concept": true,
+  "explain": {
+   "written": "A distinct establishment (établissement distinct) is a part of the company recognised, by agreement or failing that by the employer's decision, as sufficiently autonomous in its management to have its own works council alongside the central one.",
+   "spoken": "Some of our sites count as separate establishments, which means each one has its own local works council under a central one."
+  }
+ },
+ {
+  "id": "ma-060",
+  "level": 2,
+  "fr": "périmètre des instances représentatives",
+  "term": {
+   "uk": "scope of employee representation",
+   "us": "scope of employee representation"
+  },
+  "ipa": {
+   "uk": "/ˌskəʊp əv ɪmˌplɔɪiː ˌreprɪzenˈteɪʃ(ə)n/",
+   "us": "/ˌskoʊp əv ɪmˌplɔɪiː ˌreprɪzenˈteɪʃ(ə)n/"
+  },
+  "def": "The level - site, company or group of companies - at which employee representative bodies are set up and elected.",
+  "registers": {
+   "formal": {
+    "uk": "the scope of the employee representative bodies",
+    "us": "the scope of the employee representative bodies",
+    "ex": "The merger will require [[the scope of the employee representative bodies]] to be redefined."
+   },
+   "everyday": {
+    "uk": "who represents whom",
+    "us": "who represents whom",
+    "ex": "After the merger we'll need to sort out [[who represents whom]], and at what level."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to redefine the scope",
+   "to hold fresh elections",
+   "a pre-election agreement",
+   "a bargaining unit (US)"
+  ],
+  "note_fr": "« Perimeter » passe en jargon de projet, mais « scope » est plus naturel. La « bargaining unit » américaine est une notion voisine, mais elle concerne la négociation syndicale et non une instance élue.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-061",
+  "level": 3,
+  "fr": "maintien des mandats après un transfert",
+  "term": {
+   "uk": "continuation of terms of office",
+   "us": "continuation of terms of office"
+  },
+  "ipa": {
+   "uk": "/kənˌtɪnjuˈeɪʃ(ə)n əv ˌtɜːmz əv ˈɒfɪs/",
+   "us": "/kənˌtɪnjuˈeɪʃ(ə)n əv ˌtɜːrmz əv ˈɔːfɪs/"
+  },
+  "def": "The rule that employee representatives keep their elected office after a transfer if the entity transferred retains its autonomy.",
+  "registers": {
+   "formal": {
+    "uk": "to remain in office",
+    "us": "to remain in office",
+    "ex": "Where the transferred entity retains its autonomy, the members of its works council shall [[remain in office]] until the end of their term."
+   },
+   "everyday": {
+    "uk": "to keep one's seat",
+    "us": "to keep one's seat",
+    "ex": "If the site moves across as a whole, the reps [[keep their seats]]; if it's absorbed into our organisation, they don't.",
+    "ex_us": "If the site moves across as a whole, the reps [[keep their seats]]; if it's absorbed into our organization, they don't."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a term of office",
+   "to stand for election",
+   "to lose one's seat",
+   "protected status"
+  ],
+  "note_fr": "« Mandate » = mission confiée ou légitimité issue d'un vote (« a mandate to negotiate ») ; pour la durée du mandat d'un élu, dites « term of office ». Si l'entité perd son autonomie, les mandats cessent, mais la protection contre le licenciement subsiste un temps.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-062",
+  "level": 3,
+  "fr": "transfert conventionnel (changement de prestataire)",
+  "term": {
+   "uk": "transfer under a sector agreement",
+   "us": "transfer under a sector agreement"
+  },
+  "ipa": {
+   "uk": "/ˈtrænsfɜːr ˌʌndər ə ˈsektər əˌɡriːmənt/",
+   "us": "/ˈtrænsfɜːr ˌʌndər ə ˈsektər əˌɡriːmənt/"
+  },
+  "def": "In some French sectors, such as cleaning or security, the obligation under the industry collective agreement for an incoming contractor to take on the staff assigned to a contract it has won.",
+  "registers": {
+   "formal": {
+    "uk": "transfer pursuant to the sector collective agreement",
+    "us": "transfer pursuant to the sector collective agreement",
+    "ex": "On a change of contractor, eligible employees are offered a [[transfer pursuant to the sector collective agreement]], which requires their express consent."
+   },
+   "everyday": {
+    "uk": "to take on the incumbent's staff",
+    "us": "to take on the incumbent's staff",
+    "ex": "If we switch cleaning contractors, the new one has [[to take on the incumbent's staff]] under the sector agreement."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a change of contractor",
+   "the incumbent contractor",
+   "the incoming contractor",
+   "a service provision change (UK)"
+  ],
+  "note_fr": "Au Royaume-Uni, le changement de prestataire relève directement de TUPE (« service provision change »). En France, la simple perte d'un marché n'emporte pas le transfert légal : la reprise résulte, le cas échéant, de la convention de branche et suppose l'accord du salarié.",
+  "french_concept": true,
+  "explain": {
+   "written": "Where a service contract changes hands and the statutory automatic transfer does not apply, certain French industry-wide agreements require the incoming contractor to offer employment to the staff assigned to the contract; unlike the statutory transfer, this requires each employee's consent.",
+   "spoken": "When a service contract changes hands in sectors like cleaning or security, the new contractor has to offer jobs to the people working on it - but each person has to agree."
+  }
+ },
+ {
+  "id": "ma-063",
+  "level": 1,
+  "fr": "centre de services partagés (CSP)",
+  "term": {
+   "uk": "shared service centre",
+   "us": "shared services center"
+  },
+  "ipa": {
+   "uk": "/ˌʃeəd ˈsɜːvɪs ˌsentə/",
+   "us": "/ˌʃerd ˈsɜːrvɪsɪz ˌsent̬ər/"
+  },
+  "def": "A unit that provides support services such as payroll, accounting or HR administration to several entities of a group.",
+  "registers": {
+   "formal": {
+    "uk": "shared service centre",
+    "us": "shared services center",
+    "ex": "Payroll and HR administration for all French entities will be migrated to the Group's [[shared service centre]] in Kraków.",
+    "ex_us": "Payroll and HR administration for all French entities will be migrated to the Group's [[shared services center]] in Kraków."
+   },
+   "everyday": {
+    "uk": "SSC",
+    "us": "SSC",
+    "ex": "Once payroll moves to the [[SSC]], we'll only keep two people on site."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to migrate an activity to the SSC",
+   "transactional HR",
+   "a service level agreement (SLA)",
+   "global business services"
+  ],
+  "note_fr": "Évitez le sigle français « CSP » en réunion anglophone (il désigne aussi le contrat de sécurisation professionnelle). UK « centre », US « center ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-064",
+  "level": 1,
+  "fr": "externalisation",
+  "term": {
+   "uk": "outsourcing",
+   "us": "outsourcing"
+  },
+  "ipa": {
+   "uk": "/ˈaʊtsɔːsɪŋ/",
+   "us": "/ˈaʊtsɔːrsɪŋ/"
+  },
+  "def": "Having an activity carried out by an outside provider instead of the company's own employees.",
+  "registers": {
+   "formal": {
+    "uk": "outsourcing",
+    "us": "outsourcing",
+    "ex": "The proposed [[outsourcing]] of facilities management will be submitted to the works council for consultation."
+   },
+   "everyday": {
+    "uk": "to outsource",
+    "us": "to outsource",
+    "ex": "They want [[to outsource]] payroll and bring recruitment back in-house."
+   },
+   "informal": {
+    "uk": "to farm out",
+    "us": "to farm out",
+    "ex": "IT support was [[farmed out]] years ago."
+   }
+  },
+  "collocations": [
+   "to outsource an activity to a provider",
+   "to bring an activity back in-house",
+   "an outsourcing provider",
+   "a managed service"
+  ],
+  "note_fr": "« Externalization » n'est pas le mot. Ne confondez pas « outsourcing » (vers un tiers) et « offshoring » (vers l'étranger) : l'un n'implique pas l'autre. En France, externaliser une entité économique autonome emporte le transfert des contrats.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-065",
+  "level": 1,
+  "fr": "délocalisation",
+  "term": {
+   "uk": "offshoring",
+   "us": "offshoring"
+  },
+  "ipa": {
+   "uk": "/ˈɒfʃɔːrɪŋ/",
+   "us": "/ˈɔːfʃɔːrɪŋ/"
+  },
+  "def": "Moving an activity to another country, usually in order to reduce costs.",
+  "registers": {
+   "formal": {
+    "uk": "relocation of activities abroad",
+    "us": "relocation of activities abroad",
+    "ex": "The Company has no plans for any [[relocation of activities abroad]]."
+   },
+   "everyday": {
+    "uk": "offshoring",
+    "us": "offshoring",
+    "ex": "The unions see the shared service centre as [[offshoring]] by another name.",
+    "ex_us": "The unions see the shared services center as [[offshoring]] by another name."
+   },
+   "informal": {
+    "uk": "to ship jobs overseas",
+    "us": "to ship jobs overseas",
+    "ex": "The local paper accused the group of [[shipping jobs overseas]]."
+   }
+  },
+  "collocations": [
+   "to offshore back-office functions",
+   "nearshoring",
+   "reshoring",
+   "a low-cost location"
+  ],
+  "note_fr": "« Delocalisation » n'est pas idiomatique. « Relocation » seul est neutre (tout déménagement). « Nearshoring » = vers un pays proche ; « reshoring » = relocalisation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-066",
+  "level": 1,
+  "fr": "transfert de site, déménagement",
+  "term": {
+   "uk": "site relocation",
+   "us": "site relocation"
+  },
+  "ipa": {
+   "uk": "/ˈsaɪt ˌriːləʊˌkeɪʃ(ə)n/",
+   "us": "/ˈsaɪt ˌriːloʊˌkeɪʃ(ə)n/"
+  },
+  "def": "Moving a company's premises, and the people who work there, to a different place.",
+  "registers": {
+   "formal": {
+    "uk": "relocation of the site",
+    "us": "relocation of the site",
+    "ex": "The [[relocation of the site]] to Villeneuve will take effect in September and remains within the same geographical area."
+   },
+   "everyday": {
+    "uk": "the move",
+    "us": "the move",
+    "ex": "[[The move]] adds forty minutes to some people's commute, and that's what they'll want to talk about."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to relocate to new premises",
+   "within the same geographical area",
+   "a site closure",
+   "commuting distance"
+  ],
+  "note_fr": "En droit français, tout dépend du « secteur géographique » : à l'intérieur, simple changement des conditions de travail ; au-delà, modification du contrat qui suppose l'accord du salarié, sauf clause de mobilité. « Premises » est toujours pluriel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-067",
+  "level": 2,
+  "fr": "mesures d'accompagnement à la mobilité",
+  "term": {
+   "uk": "relocation package",
+   "us": "relocation package"
+  },
+  "ipa": {
+   "uk": "/ˌriːləʊˈkeɪʃ(ə)n ˌpækɪdʒ/",
+   "us": "/ˌriːloʊˈkeɪʃ(ə)n ˌpækɪdʒ/"
+  },
+  "def": "The financial and practical support offered to employees who move home because their job moves.",
+  "registers": {
+   "formal": {
+    "uk": "relocation assistance",
+    "us": "relocation assistance",
+    "ex": "Employees who agree to move will be eligible for [[relocation assistance]], including removal costs and a settling-in allowance.",
+    "ex_us": "Employees who agree to move will be eligible for [[relocation assistance]], including moving expenses and a settling-in allowance."
+   },
+   "everyday": {
+    "uk": "relocation package",
+    "us": "relocation package",
+    "ex": "The [[relocation package]] is generous, but it won't persuade people with children at school."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "removal costs (UK) / moving expenses (US)",
+   "a settling-in allowance",
+   "partner career support",
+   "a house-hunting trip"
+  ],
+  "note_fr": "UK « removal costs », US « moving expenses » (aux États-Unis, « removal » évoque l'expulsion). « Accompaniment measures » est un calque : dites « support measures » ou « assistance ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-068",
+  "level": 1,
+  "fr": "conduite du changement",
+  "term": {
+   "uk": "change management",
+   "us": "change management"
+  },
+  "ipa": {
+   "uk": "/ˈtʃeɪndʒ ˌmænɪdʒmənt/",
+   "us": "/ˈtʃeɪndʒ ˌmænɪdʒmənt/"
+  },
+  "def": "The structured approach used to prepare and support people through an organisational change.",
+  "registers": {
+   "formal": {
+    "uk": "change management",
+    "us": "change management",
+    "ex": "A dedicated [[change management]] team will support line managers throughout the transition."
+   },
+   "everyday": {
+    "uk": "to take people with you",
+    "us": "to bring people along",
+    "ex": "The plan is sound on paper; the hard part is [[taking people with you]].",
+    "ex_us": "The plan is sound on paper; the hard part is [[bringing people along]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a change management plan",
+   "to drive change",
+   "to embed the change",
+   "to support people through the change"
+  ],
+  "note_fr": "« Change conduct » n'existe pas. « To embed » = ancrer durablement. Pour « accompagner », évitez « accompany » : « to support people through the change ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-069",
+  "level": 1,
+  "fr": "résistance au changement",
+  "term": {
+   "uk": "resistance to change",
+   "us": "resistance to change"
+  },
+  "ipa": {
+   "uk": "/rɪˌzɪstəns tə ˈtʃeɪndʒ/",
+   "us": "/rɪˌzɪstəns tə ˈtʃeɪndʒ/"
+  },
+  "def": "The reluctance or opposition people show when their working environment or habits are changed.",
+  "registers": {
+   "formal": {
+    "uk": "resistance to change",
+    "us": "resistance to change",
+    "ex": "[[Resistance to change]] is expected to be strongest among middle managers, whose roles are most affected."
+   },
+   "everyday": {
+    "uk": "pushback",
+    "us": "pushback",
+    "ex": "We're getting a lot of [[pushback]] from the Lyon team on the new shift pattern."
+   },
+   "informal": {
+    "uk": "to drag one's feet",
+    "us": "to drag one's feet",
+    "ex": "Some of the site managers are [[dragging their feet]] on the new process."
+   }
+  },
+  "collocations": [
+   "to overcome resistance",
+   "to meet with resistance",
+   "to push back on a proposal",
+   "a vocal minority"
+  ],
+  "note_fr": "« Pushback » (nom) et « to push back on something » (verbe) = objection, résistance : très courant et sans agressivité. « Reticent » = taciturne ; « réticent » se dit « reluctant ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-070",
+  "level": 1,
+  "fr": "plan de communication",
+  "term": {
+   "uk": "communication plan",
+   "us": "communication plan"
+  },
+  "ipa": {
+   "uk": "/kəˌmjuːnɪˈkeɪʃ(ə)n plæn/",
+   "us": "/kəˌmjuːnɪˈkeɪʃ(ə)n plæn/"
+  },
+  "def": "A document setting out who will be told what, when, by whom and through which channel.",
+  "registers": {
+   "formal": {
+    "uk": "communication plan",
+    "us": "communication plan",
+    "ex": "The [[communication plan]] provides that employee representatives will be informed before any announcement is made to staff or to the press."
+   },
+   "everyday": {
+    "uk": "comms plan",
+    "us": "comms plan",
+    "ex": "Can you share the [[comms plan]] before Friday? I want to check the sequencing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "internal and external communications",
+   "the sequencing of announcements",
+   "a holding statement",
+   "under embargo"
+  ],
+  "note_fr": "Règle française à intégrer au plan et à expliquer au siège : les représentants du personnel d'abord, les salariés ensuite, la presse en dernier. « Comms » est l'abréviation usuelle, toujours au pluriel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-071",
+  "level": 2,
+  "fr": "diffuser en cascade (par la ligne managériale)",
+  "term": {
+   "uk": "to cascade",
+   "us": "to cascade"
+  },
+  "ipa": {
+   "uk": "/tu kæˈskeɪd/",
+   "us": "/tu kæˈskeɪd/"
+  },
+  "def": "To pass information down through the organisation, level by level, through line managers.",
+  "registers": {
+   "formal": {
+    "uk": "to cascade",
+    "us": "to cascade",
+    "ex": "The key messages will be [[cascaded]] to all employees through their line managers within 24 hours of the announcement."
+   },
+   "everyday": {
+    "uk": "to pass on",
+    "us": "to pass on",
+    "ex": "Managers get the briefing pack at nine and [[pass on]] the message to their teams by lunchtime."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a manager briefing pack",
+   "a cascade briefing",
+   "to brief line managers",
+   "to feed questions back up"
+  ],
+  "note_fr": "« To cascade » est transitif en jargon d'entreprise. Pensez au mouvement inverse : « to feed back up » (faire remonter). « Briefing pack » (UK), « briefing deck » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-072",
+  "level": 1,
+  "fr": "réunion plénière du personnel",
+  "term": {
+   "uk": "town hall meeting",
+   "us": "town hall"
+  },
+  "ipa": {
+   "uk": "/ˌtaʊn ˈhɔːl ˌmiːtɪŋ/",
+   "us": "/ˌtaʊn ˈhɔːl/"
+  },
+  "def": "A meeting at which senior management addresses all employees and takes their questions.",
+  "registers": {
+   "formal": {
+    "uk": "all-employee meeting",
+    "us": "all-employee meeting",
+    "ex": "An [[all-employee meeting]] will be held on each site on the day of the announcement."
+   },
+   "everyday": {
+    "uk": "town hall",
+    "us": "town hall",
+    "ex": "The CEO is doing a [[town hall]] in Lyon on Thursday, and I'm drafting the talking points."
+   },
+   "informal": {
+    "uk": "all-hands",
+    "us": "all-hands",
+    "ex": "There's an [[all-hands]] at ten, and nobody knows what it's about."
+   }
+  },
+  "collocations": [
+   "to hold a town hall",
+   "to take questions from the floor",
+   "a virtual town hall",
+   "a Q&A session"
+  ],
+  "note_fr": "Rien à voir ici avec la mairie. « All-hands (meeting) », venu de la marine, est très courant dans les groupes américains. « Plenary meeting » est réservé aux congrès et aux institutions.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-073",
+  "level": 2,
+  "fr": "éléments de langage",
+  "term": {
+   "uk": "talking points",
+   "us": "talking points"
+  },
+  "ipa": {
+   "uk": "/ˈtɔːkɪŋ pɔɪnts/",
+   "us": "/ˈtɔːkɪŋ pɔɪnts/"
+  },
+  "def": "A short list of the main things a speaker should say, and how to say them, on a given subject.",
+  "registers": {
+   "formal": {
+    "uk": "key messages",
+    "us": "key messages",
+    "ex": "The [[key messages]] have been approved by the Chief Executive and reviewed by legal counsel."
+   },
+   "everyday": {
+    "uk": "talking points",
+    "us": "talking points",
+    "ex": "I'll send you [[talking points]] and a Q&A so that every manager says the same thing."
+   },
+   "informal": {
+    "uk": "the party line",
+    "us": "the party line",
+    "ex": "For now, [[the party line]] is that no decision has been taken."
+   }
+  },
+  "collocations": [
+   "to stick to the script",
+   "to stay on message",
+   "a Q&A document",
+   "a holding line"
+  ],
+  "note_fr": "« Language elements » est un calque incompréhensible. « To stay on message » = s'en tenir aux éléments de langage. « The party line » est légèrement ironique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-074",
+  "level": 1,
+  "fr": "adhésion (au projet)",
+  "term": {
+   "uk": "buy-in",
+   "us": "buy-in"
+  },
+  "ipa": {
+   "uk": "/ˈbaɪ ɪn/",
+   "us": "/ˈbaɪ ɪn/"
+  },
+  "def": "The genuine support of the people whose cooperation is needed to make a project work.",
+  "registers": {
+   "formal": {
+    "uk": "endorsement",
+    "us": "endorsement",
+    "ex": "The project cannot succeed without the [[endorsement]] of site management."
+   },
+   "everyday": {
+    "uk": "buy-in",
+    "us": "buy-in",
+    "ex": "We've got [[buy-in]] from the plant managers, but the unions aren't there yet."
+   },
+   "informal": {
+    "uk": "to be on board",
+    "us": "to be on board",
+    "ex": "Is the finance director [[on board]]?"
+   }
+  },
+  "collocations": [
+   "to get buy-in from someone",
+   "to secure the unions' support",
+   "to bring someone on board",
+   "to win hearts and minds"
+  ],
+  "note_fr": "« Adhesion » = adhérence (de la colle) ! L'adhésion à un projet se dit « buy-in » ou « support ». À ne pas confondre avec le « management buy-in (MBI) », rachat par des dirigeants venus de l'extérieur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-075",
+  "level": 2,
+  "fr": "bruits de couloir, radio moquette",
+  "term": {
+   "uk": "rumour mill",
+   "us": "rumor mill"
+  },
+  "ipa": {
+   "uk": "/ˈruːmə mɪl/",
+   "us": "/ˈruːmər mɪl/"
+  },
+  "def": "The informal circulation of unconfirmed information among employees.",
+  "registers": {
+   "formal": {
+    "uk": "speculation",
+    "us": "speculation",
+    "ex": "In order to avoid [[speculation]], staff will be informed as soon as the works council meeting has ended."
+   },
+   "everyday": {
+    "uk": "rumour mill",
+    "us": "rumor mill",
+    "ex": "The [[rumour mill]] has been in overdrive since the auditors turned up.",
+    "ex_us": "The [[rumor mill]] has been in overdrive since the auditors showed up."
+   },
+   "informal": {
+    "uk": "the grapevine",
+    "us": "the grapevine",
+    "ex": "I heard on [[the grapevine]] that the site is up for sale."
+   }
+  },
+  "collocations": [
+   "to quash a rumour",
+   "a leak to the press",
+   "to hear something on the grapevine",
+   "to fill the vacuum"
+  ],
+  "note_fr": "UK « rumour », US « rumor ». « A leak » = une fuite. Une phrase qui porte auprès d'un comité : « If we don't communicate, the rumour mill will fill the vacuum. »",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-076",
+  "level": 1,
+  "fr": "conseil d'administration",
+  "term": {
+   "uk": "board of directors",
+   "us": "board of directors"
+  },
+  "ipa": {
+   "uk": "/ˌbɔːd əv dəˈrektəz/",
+   "us": "/ˌbɔːrd əv dəˈrektərz/"
+  },
+  "def": "The body that governs a company on behalf of its shareholders and to which the chief executive answers.",
+  "registers": {
+   "formal": {
+    "uk": "board of directors",
+    "us": "board of directors",
+    "ex": "The [[Board of Directors]] approved the proposed transaction in principle, subject to completion of the employee consultation process."
+   },
+   "everyday": {
+    "uk": "the board",
+    "us": "the board",
+    "ex": "I'm presenting the social risks to [[the board]] on Tuesday, and I've got ten minutes."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a board meeting",
+   "to sit on the board",
+   "to go to the board for approval",
+   "a board paper"
+  ],
+  "note_fr": "Au Royaume-Uni, « director » = administrateur, membre du board : un « HR Director » n'y siège pas forcément. « Board pack » (UK), « board book » ou « board deck » (US) = dossier du conseil.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-077",
+  "level": 2,
+  "fr": "comité exécutif (comex), comité de direction",
+  "term": {
+   "uk": "executive committee",
+   "us": "executive leadership team"
+  },
+  "ipa": {
+   "uk": "/ɪɡˌzekjətɪv kəˈmɪti/",
+   "us": "/ɪɡˌzekjət̬ɪv ˈliːdərʃɪp tiːm/"
+  },
+  "def": "The group of senior executives who run the company day to day under the chief executive.",
+  "registers": {
+   "formal": {
+    "uk": "executive committee",
+    "us": "executive leadership team",
+    "ex": "The proposal was reviewed by the [[Executive Committee]] at its last meeting.",
+    "ex_us": "The proposal was reviewed by the [[Executive Leadership Team]] at its last meeting."
+   },
+   "everyday": {
+    "uk": "ExCo",
+    "us": "leadership team",
+    "ex": "I'll take it to [[ExCo]] on Monday.",
+    "ex_us": "I'll take it to the [[leadership team]] on Monday."
+   },
+   "informal": {
+    "uk": "the top team",
+    "us": "the C-suite",
+    "ex": "[[The top team]] is split on the timing.",
+    "ex_us": "[[The C-suite]] is split on the timing."
+   }
+  },
+  "collocations": [
+   "to sit on the executive committee",
+   "an ExCo member",
+   "to take a paper to ExCo",
+   "the senior leadership team (SLT)"
+  ],
+  "note_fr": "« Comex » et « codir » ne sont pas compris : dites « ExCo », « executive committee » ou « leadership team ». « Direction committee » est un calque. « C-suite » = l'ensemble des « Chief ... Officers ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-078",
+  "level": 1,
+  "fr": "comité de pilotage (copil)",
+  "term": {
+   "uk": "steering committee",
+   "us": "steering committee"
+  },
+  "ipa": {
+   "uk": "/ˈstɪərɪŋ kəˌmɪti/",
+   "us": "/ˈstɪrɪŋ kəˌmɪt̬i/"
+  },
+  "def": "The group of senior people who oversee a project, take the key decisions and resolve the issues escalated by the project team.",
+  "registers": {
+   "formal": {
+    "uk": "steering committee",
+    "us": "steering committee",
+    "ex": "The [[steering committee]] meets every two weeks and reports to the Group Chief Executive."
+   },
+   "everyday": {
+    "uk": "SteerCo",
+    "us": "SteerCo",
+    "ex": "Let's take that to [[SteerCo]] - it's above my pay grade."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to chair the steering committee",
+   "a SteerCo update",
+   "to take a decision to SteerCo",
+   "a standing agenda item"
+  ],
+  "note_fr": "« Pilotage committee » n'existe pas, et « to pilot a project » signifie le tester à petite échelle : piloter se dit « to run », « to lead » ou « to steer ». « Fortnightly » (tous les quinze jours) est britannique ; « biweekly » est ambigu.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-079",
+  "level": 2,
+  "fr": "sponsor (du projet)",
+  "term": {
+   "uk": "executive sponsor",
+   "us": "executive sponsor"
+  },
+  "ipa": {
+   "uk": "/ɪɡˌzekjətɪv ˈspɒnsə/",
+   "us": "/ɪɡˌzekjət̬ɪv ˈspɑːnsər/"
+  },
+  "def": "The senior executive who is ultimately accountable for a project and champions it at the top of the organisation.",
+  "registers": {
+   "formal": {
+    "uk": "executive sponsor",
+    "us": "executive sponsor",
+    "ex": "The Chief Financial Officer acts as [[executive sponsor]] of the integration project."
+   },
+   "everyday": {
+    "uk": "sponsor",
+    "us": "sponsor",
+    "ex": "Without a strong [[sponsor]] on the board, the HR workstream will always come last."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to act as sponsor",
+   "to have the sponsor's backing",
+   "to be accountable for",
+   "senior sponsorship"
+  ],
+  "note_fr": "Double sens à surveiller : en LBO, « the sponsor » est le fonds. « Accountable » (qui répond du résultat) ≠ « responsible » (qui exécute).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-080",
+  "level": 1,
+  "fr": "parties prenantes",
+  "term": {
+   "uk": "stakeholders",
+   "us": "stakeholders"
+  },
+  "ipa": {
+   "uk": "/ˈsteɪkhəʊldəz/",
+   "us": "/ˈsteɪkhoʊldərz/"
+  },
+  "def": "The people and groups who have an interest in, or can influence, a project or decision.",
+  "registers": {
+   "formal": {
+    "uk": "stakeholders",
+    "us": "stakeholders",
+    "ex": "A map of internal and external [[stakeholders]] is appended to this note."
+   },
+   "everyday": {
+    "uk": "everyone with a stake in this",
+    "us": "everyone with a stake in this",
+    "ex": "Before we announce anything, let's list [[everyone with a stake in this]]: the unions, the mayor, the main customers."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "stakeholder mapping",
+   "key stakeholders",
+   "to manage stakeholders",
+   "to engage with stakeholders"
+  ],
+  "note_fr": "« Stakeholder » (partie prenante) ≠ « shareholder » (actionnaire ; US « stockholder »). En France, la liste comprend les élus locaux, la préfecture et l'inspection du travail : à expliciter pour un siège étranger.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-081",
+  "level": 1,
+  "fr": "jalon",
+  "term": {
+   "uk": "milestone",
+   "us": "milestone"
+  },
+  "ipa": {
+   "uk": "/ˈmaɪlstəʊn/",
+   "us": "/ˈmaɪlstoʊn/"
+  },
+  "def": "A significant, dated point in a project that marks the completion of a stage.",
+  "registers": {
+   "formal": {
+    "uk": "milestone",
+    "us": "milestone",
+    "ex": "The works council's opinion is a critical [[milestone]] on the path to signing."
+   },
+   "everyday": {
+    "uk": "to be on track",
+    "us": "to be on track",
+    "ex": "We're [[on track]] for the first two milestones, but the third is at risk."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hit a milestone",
+   "to miss a milestone",
+   "a key milestone",
+   "to slip by two weeks"
+  ],
+  "note_fr": "« To hit a milestone » = l'atteindre ; « to slip » = glisser. N'employez pas « planning » comme nom : dites « schedule », « timetable » ou « timeline ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-082",
+  "level": 1,
+  "fr": "livrable",
+  "term": {
+   "uk": "deliverable",
+   "us": "deliverable"
+  },
+  "ipa": {
+   "uk": "/dɪˈlɪv(ə)rəb(ə)l/",
+   "us": "/dɪˈlɪv(ə)rəb(ə)l/"
+  },
+  "def": "A concrete output that a project or assignment is expected to produce by a given date.",
+  "registers": {
+   "formal": {
+    "uk": "deliverable",
+    "us": "deliverable",
+    "ex": "The [[deliverables]] for phase one are a risk register, a consultation timetable and a draft communication plan."
+   },
+   "everyday": {
+    "uk": "to deliver",
+    "us": "to deliver",
+    "ex": "What exactly do you need me [[to deliver]] by the end of the month?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to agree the deliverables",
+   "a key deliverable",
+   "to deliver on time and on budget",
+   "to sign off a deliverable"
+  ],
+  "note_fr": "« To deliver » s'emploie seul en anglais des affaires (« she delivers » : elle tient ses engagements). « Deliverable » est du jargon projet ; dans un courrier formel, préférez « output » ou nommez le document.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-083",
+  "level": 2,
+  "fr": "chantier (d'un projet)",
+  "term": {
+   "uk": "workstream",
+   "us": "workstream"
+  },
+  "ipa": {
+   "uk": "/ˈwɜːkstriːm/",
+   "us": "/ˈwɜːrkstriːm/"
+  },
+  "def": "One of the parallel strands of work into which a large project is divided, each with its own lead.",
+  "registers": {
+   "formal": {
+    "uk": "workstream",
+    "us": "workstream",
+    "ex": "The HR [[workstream]] comprises employee relations, payroll, benefits and communications."
+   },
+   "everyday": {
+    "uk": "to lead on",
+    "us": "to lead on",
+    "ex": "I [[lead on]] employee relations, and Tom has payroll and benefits."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the HR workstream lead",
+   "to own a workstream",
+   "dependencies between workstreams",
+   "to lead on a topic"
+  ],
+  "note_fr": "En gestion de projet, « chantier » ne se dit ni « yard » ni « construction site ». « To lead on something » (surtout UK) = être responsable d'un sujet ; « owner » = responsable désigné.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-084",
+  "level": 2,
+  "fr": "registre des risques",
+  "term": {
+   "uk": "risk register",
+   "us": "risk register"
+  },
+  "ipa": {
+   "uk": "/ˈrɪsk ˌredʒɪstə/",
+   "us": "/ˈrɪsk ˌredʒɪstər/"
+  },
+  "def": "A table listing the risks to a project, with their likelihood, their impact, the planned response and the person responsible for each.",
+  "registers": {
+   "formal": {
+    "uk": "risk register",
+    "us": "risk register",
+    "ex": "The [[risk register]] is reviewed at each meeting of the steering committee, and risks rated high are escalated to the Board."
+   },
+   "everyday": {
+    "uk": "risk log",
+    "us": "risk log",
+    "ex": "I've added the strike threat to the [[risk log]] and rated it amber.",
+    "ex_us": "I've added the strike threat to the [[risk log]] and rated it yellow."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "likelihood and impact",
+   "a risk owner",
+   "to rate a risk high, medium or low",
+   "a RAG status (red, amber, green)"
+  ],
+  "note_fr": "« Likelihood » (probabilité) et « impact » (gravité) sont les deux axes. Pour l'orange du feu tricolore : « amber » au Royaume-Uni, « yellow » aux États-Unis. « Risk owner » = porteur du risque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-085",
+  "level": 2,
+  "fr": "mesures d'atténuation (d'un risque)",
+  "term": {
+   "uk": "mitigation",
+   "us": "mitigation"
+  },
+  "ipa": {
+   "uk": "/ˌmɪtɪˈɡeɪʃ(ə)n/",
+   "us": "/ˌmɪt̬əˈɡeɪʃ(ə)n/"
+  },
+  "def": "Action taken to reduce the likelihood of a risk or to limit its consequences.",
+  "registers": {
+   "formal": {
+    "uk": "mitigating measures",
+    "us": "mitigating measures",
+    "ex": "The [[mitigating measures]] proposed include early engagement with the unions and a retention plan for key staff."
+   },
+   "everyday": {
+    "uk": "to mitigate",
+    "us": "to mitigate",
+    "ex": "We can't remove the risk of a strike, but we can [[mitigate]] it by starting talks early."
+   },
+   "informal": {
+    "uk": "plan B",
+    "us": "plan B",
+    "ex": "What's our [[plan B]] if the works council asks for an expert?"
+   }
+  },
+  "collocations": [
+   "to mitigate a risk",
+   "a mitigation plan",
+   "residual risk",
+   "a contingency plan"
+  ],
+  "note_fr": "« To mitigate » est transitif : « to mitigate a risk », jamais « mitigate against » (confusion avec « militate against »). « Mitigé » ne se dit pas « mitigated » mais « mixed » : « mixed results ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-086",
+  "level": 2,
+  "fr": "décision de go / no-go",
+  "term": {
+   "uk": "go / no-go decision",
+   "us": "go / no-go decision"
+  },
+  "ipa": {
+   "uk": "/ˌɡəʊ nəʊ ˈɡəʊ dɪˌsɪʒ(ə)n/",
+   "us": "/ˌɡoʊ noʊ ˈɡoʊ dɪˌsɪʒ(ə)n/"
+  },
+  "def": "The decision, taken at a fixed point, whether to proceed with the next stage of a project or to stop.",
+  "registers": {
+   "formal": {
+    "uk": "go / no-go decision",
+    "us": "go / no-go decision",
+    "ex": "The [[go / no-go decision]] on the payroll migration will be taken by the steering committee in June."
+   },
+   "everyday": {
+    "uk": "the go-ahead",
+    "us": "the go-ahead",
+    "ex": "We're waiting for [[the go-ahead]] from head office before we convene the works council."
+   },
+   "informal": {
+    "uk": "the green light",
+    "us": "the green light",
+    "ex": "London has finally given us [[the green light]]."
+   }
+  },
+  "collocations": [
+   "to give the go-ahead",
+   "go / no-go criteria",
+   "a decision gate",
+   "to put a project on hold"
+  ],
+  "note_fr": "« The go » seul ne se dit pas : « the go-ahead », « the green light ». « To validate » est plus étroit que « valider » : préférez « to approve » ou « to sign off ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-087",
+  "level": 2,
+  "fr": "faire remonter (un problème)",
+  "term": {
+   "uk": "to escalate",
+   "us": "to escalate"
+  },
+  "ipa": {
+   "uk": "/tu ˈeskəleɪt/",
+   "us": "/tu ˈeskəleɪt/"
+  },
+  "def": "To refer an issue to a higher level of management because it cannot be resolved at the current level.",
+  "registers": {
+   "formal": {
+    "uk": "to escalate",
+    "us": "to escalate",
+    "ex": "Any issue likely to delay signing must be [[escalated]] to the steering committee without delay."
+   },
+   "everyday": {
+    "uk": "to flag up",
+    "us": "to flag",
+    "ex": "I [[flagged it up]] to the CFO last week, and I still haven't had an answer.",
+    "ex_us": "I [[flagged]] it to the CFO last week, and I still haven't heard back."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to escalate an issue to someone",
+   "an escalation path",
+   "to raise a concern",
+   "to go over someone's head"
+  ],
+  "note_fr": "En anglais des affaires, « to escalate » = faire remonter à la hiérarchie, et pas seulement « s'aggraver ». « To make it go up » est un calque de « faire remonter ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-088",
+  "level": 1,
+  "fr": "management de transition",
+  "term": {
+   "uk": "interim management",
+   "us": "interim management"
+  },
+  "ipa": {
+   "uk": "/ˈɪntərɪm ˌmænɪdʒmənt/",
+   "us": "/ˈɪnt̬ərɪm ˌmænɪdʒmənt/"
+  },
+  "def": "The temporary appointment of an experienced executive to run a function or lead a project during a period of change or vacancy.",
+  "registers": {
+   "formal": {
+    "uk": "interim management",
+    "us": "interim management",
+    "ex": "The Company has engaged an [[interim management]] provider to cover the position of HR Director during the sale process."
+   },
+   "everyday": {
+    "uk": "interim",
+    "us": "interim",
+    "ex": "I've been working as an [[interim]] for eight years, mostly on carve-outs and restructurings."
+   },
+   "informal": {
+    "uk": "a safe pair of hands",
+    "us": "a safe pair of hands",
+    "ex": "They wanted [[a safe pair of hands]] to get them through the sale."
+   }
+  },
+  "collocations": [
+   "an interim HR Director",
+   "an interim assignment",
+   "to step in at short notice",
+   "to cover a vacancy"
+  ],
+  "note_fr": "« Transition manager » est un faux ami. Dites « interim manager », « interim HR Director ». À distinguer de « acting HR Director » (salarié interne faisant fonction) et de l'intérim au sens de travail temporaire (« agency work », « temping »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-089",
+  "level": 1,
+  "fr": "mission",
+  "term": {
+   "uk": "assignment",
+   "us": "assignment"
+  },
+  "ipa": {
+   "uk": "/əˈsaɪnmənt/",
+   "us": "/əˈsaɪnmənt/"
+  },
+  "def": "A defined piece of work carried out for a client over a limited period.",
+  "registers": {
+   "formal": {
+    "uk": "engagement",
+    "us": "engagement",
+    "ex": "The [[engagement]] will run for an initial period of six months and may be renewed by agreement."
+   },
+   "everyday": {
+    "uk": "assignment",
+    "us": "assignment",
+    "ex": "My last [[assignment]] was a nine-month carve-out for a US industrial group."
+   },
+   "informal": {
+    "uk": "gig",
+    "us": "gig",
+    "ex": "It's a six-month [[gig]], possibly longer if the sale drags on."
+   }
+  },
+  "collocations": [
+   "to take on an assignment",
+   "a six-month assignment",
+   "an engagement letter",
+   "to be on assignment"
+  ],
+  "note_fr": "« Mission » en anglais = raison d'être (« mission statement ») ou mission militaire, diplomatique, religieuse. Pour une mission de conseil ou de transition : « assignment » ou « engagement ». Lettre de mission = « engagement letter ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-090",
+  "level": 2,
+  "fr": "périmètre de la mission",
+  "term": {
+   "uk": "scope of the assignment",
+   "us": "scope of the assignment"
+  },
+  "ipa": {
+   "uk": "/ˌskəʊp əv ði əˈsaɪnmənt/",
+   "us": "/ˌskoʊp əv ði əˈsaɪnmənt/"
+  },
+  "def": "The limits of what an interim manager or adviser has been asked to do, and what falls outside it.",
+  "registers": {
+   "formal": {
+    "uk": "scope of work",
+    "us": "scope of work",
+    "ex": "Any services falling outside the [[scope of work]] shall be agreed in writing in advance."
+   },
+   "everyday": {
+    "uk": "remit",
+    "us": "scope",
+    "ex": "Pay negotiations aren't in my [[remit]], but I'm happy to help if you want to extend it.",
+    "ex_us": "Pay negotiations aren't in my [[scope]], but I'm happy to help if you want to extend it."
+   },
+   "informal": {
+    "uk": "scope creep",
+    "us": "scope creep",
+    "ex": "We need to watch out for [[scope creep]] - this started as a consultation and it's turning into a full reorganisation.",
+    "ex_us": "We need to watch out for [[scope creep]] - this started as a consultation and it's turning into a full reorganization."
+   }
+  },
+  "collocations": [
+   "in scope / out of scope",
+   "to define the scope",
+   "to go beyond one's remit",
+   "a change request"
+  ],
+  "note_fr": "« Remit » (nom, accent sur la première syllabe : REE-mit) = champ de responsabilité ; britannique, peu usité aux États-Unis. « Perimeter » se comprend mais sonne continental.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-091",
+  "level": 3,
+  "fr": "lettre de cadrage, cahier des charges de la mission",
+  "term": {
+   "uk": "terms of reference",
+   "us": "statement of work"
+  },
+  "ipa": {
+   "uk": "/ˌtɜːmz əv ˈref(ə)rəns/",
+   "us": "/ˌsteɪtmənt əv ˈwɜːrk/"
+  },
+  "def": "The document that defines the purpose, scope, authority and reporting lines of an assignment, a committee or a review.",
+  "registers": {
+   "formal": {
+    "uk": "terms of reference",
+    "us": "statement of work",
+    "ex": "The [[terms of reference]] of the assignment are attached as Appendix 1 and may be varied only with the Chief Executive's written agreement.",
+    "ex_us": "The [[statement of work]] for the engagement is attached as Exhibit A and may be amended only with the Chief Executive Officer's written consent."
+   },
+   "everyday": {
+    "uk": "brief",
+    "us": "mandate",
+    "ex": "My [[brief]] was simple: get the consultation done without a strike.",
+    "ex_us": "My [[mandate]] was simple: get the consultation done without a strike."
+   },
+   "informal": {
+    "uk": "marching orders",
+    "us": "marching orders",
+    "ex": "I got my [[marching orders]] from the CEO on the first morning."
+   }
+  },
+  "collocations": [
+   "to draw up terms of reference",
+   "within the terms of reference",
+   "a clear brief",
+   "to brief someone on something"
+  ],
+  "note_fr": "« Cahier des charges » ≠ « book of charges ». « Brief » (nom) = le cadrage donné par le client. Attention : au Royaume-Uni, « to get one's marching orders » signifie aussi se faire renvoyer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-092",
+  "level": 1,
+  "fr": "passation",
+  "term": {
+   "uk": "handover",
+   "us": "handoff"
+  },
+  "ipa": {
+   "uk": "/ˈhændəʊvə/",
+   "us": "/ˈhændɔːf/"
+  },
+  "def": "The transfer of responsibility, information and open files from one person to his or her successor.",
+  "registers": {
+   "formal": {
+    "uk": "handover",
+    "us": "transition",
+    "ex": "A two-week [[handover]] period is planned with the incoming HR Director.",
+    "ex_us": "A two-week [[transition]] period is planned with the incoming HR Director."
+   },
+   "everyday": {
+    "uk": "to hand over to",
+    "us": "to hand off to",
+    "ex": "I [[hand over to]] my successor on the 30th, and I'd like to walk her through the open files first.",
+    "ex_us": "I [[hand off to]] my successor on the 30th, and I'd like to walk her through the open files first."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a handover note",
+   "to hand over the reins",
+   "open issues",
+   "to bring someone up to speed"
+  ],
+  "note_fr": "Nom en un mot (« handover »), verbe en deux (« to hand over »). « Passing » ou « passation » ne conviennent pas. « To bring someone up to speed » = mettre quelqu'un au courant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-093",
+  "level": 1,
+  "fr": "résultats rapides (quick wins)",
+  "term": {
+   "uk": "quick wins",
+   "us": "quick wins"
+  },
+  "ipa": {
+   "uk": "/ˌkwɪk ˈwɪnz/",
+   "us": "/ˌkwɪk ˈwɪnz/"
+  },
+  "def": "Improvements that are easy to achieve and deliver visible results early in a project.",
+  "registers": {
+   "formal": {
+    "uk": "early, visible improvements",
+    "us": "early, visible improvements",
+    "ex": "The first ninety days will focus on a small number of [[early, visible improvements]] in order to build confidence."
+   },
+   "everyday": {
+    "uk": "quick wins",
+    "us": "quick wins",
+    "ex": "Fixing the payslip errors is one of the [[quick wins]] - it costs nothing and everyone notices."
+   },
+   "informal": {
+    "uk": "low-hanging fruit",
+    "us": "low-hanging fruit",
+    "ex": "Let's start with the [[low-hanging fruit]] before we tackle working time."
+   }
+  },
+  "collocations": [
+   "to deliver quick wins",
+   "to build momentum",
+   "to build credibility",
+   "to pick the low-hanging fruit"
+  ],
+  "note_fr": "« Low-hanging fruit » est indénombrable (jamais « fruits »). Deux expressions de jargon : efficaces à l'oral, à doser à l'écrit.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-094",
+  "level": 2,
+  "fr": "être opérationnel immédiatement",
+  "term": {
+   "uk": "to hit the ground running",
+   "us": "to hit the ground running"
+  },
+  "ipa": {
+   "uk": "/tu ˌhɪt ðə ˌɡraʊnd ˈrʌnɪŋ/",
+   "us": "/tu ˌhɪt ðə ˌɡraʊnd ˈrʌnɪŋ/"
+  },
+  "def": "To start a new role or project and be effective straight away.",
+  "registers": {
+   "formal": {
+    "uk": "to be fully effective from the first day",
+    "us": "to be fully effective from the first day",
+    "ex": "The assignment calls for a practitioner able [[to be fully effective from the first day]]."
+   },
+   "everyday": {
+    "uk": "to hit the ground running",
+    "us": "to hit the ground running",
+    "ex": "I've done four carve-outs in the last six years, so I can [[hit the ground running]]."
+   },
+   "informal": {
+    "uk": "to get stuck in",
+    "us": "to dive right in",
+    "ex": "I'd rather [[get stuck in]] than spend a month on an audit.",
+    "ex_us": "I'd rather [[dive right in]] than spend a month on an audit."
+   }
+  },
+  "collocations": [
+   "to get up to speed quickly",
+   "a steep learning curve",
+   "to need no hand-holding",
+   "from day one"
+  ],
+  "note_fr": "« Operational » appliqué à une personne est un calque : on le dit d'un site ou d'un système. « A steep learning curve » = un apprentissage exigeant et rapide.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-095",
+  "level": 2,
+  "fr": "gestion prévisionnelle des emplois et des compétences (GEPP, ex-GPEC)",
+  "term": {
+   "uk": "strategic workforce planning",
+   "us": "strategic workforce planning"
+  },
+  "ipa": {
+   "uk": "/strəˌtiːdʒɪk ˈwɜːkfɔːs ˌplænɪŋ/",
+   "us": "/strəˌtiːdʒɪk ˈwɜːrkfɔːrs ˌplænɪŋ/"
+  },
+  "def": "The process of working out what jobs and skills a company will need in the coming years and how to close the gap with what it has today.",
+  "registers": {
+   "formal": {
+    "uk": "strategic workforce planning",
+    "us": "strategic workforce planning",
+    "ex": "[[Strategic workforce planning]] will be used to identify the roles at risk and the internal moves available before any restructuring is considered."
+   },
+   "everyday": {
+    "uk": "workforce planning",
+    "us": "workforce planning",
+    "ex": "If we do the [[workforce planning]] properly now, we can handle a lot of this through retraining and natural attrition."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a skills gap",
+   "skills mapping",
+   "to anticipate future skills needs",
+   "reskilling and upskilling"
+  ],
+  "note_fr": "En France, c'est aussi un thème de négociation périodique obligatoire dans les grandes entreprises : précisez-le, car ailleurs « workforce planning » est une simple pratique de gestion. « Skills » est plus naturel que « competences ».",
+  "french_concept": true,
+  "explain": {
+   "written": "In France, large companies are required to negotiate periodically with their unions on the forward-looking management of jobs and skills (known as GEPP), which makes strategic workforce planning a subject of collective bargaining and not merely a management tool.",
+   "spoken": "In France workforce planning isn't just an HR exercise: big companies have to negotiate on it with the unions every few years."
+  }
+ },
+ {
+  "id": "ma-096",
+  "level": 1,
+  "fr": "marque employeur",
+  "term": {
+   "uk": "employer brand",
+   "us": "employer brand"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪə brænd/",
+   "us": "/ɪmˈplɔɪər brænd/"
+  },
+  "def": "A company's reputation as a place to work, among its own employees and in the job market.",
+  "registers": {
+   "formal": {
+    "uk": "employer brand",
+    "us": "employer brand",
+    "ex": "The Group's [[employer brand]] in France has been weakened by two years of uncertainty over the future of the site."
+   },
+   "everyday": {
+    "uk": "reputation as an employer",
+    "us": "reputation as an employer",
+    "ex": "Our [[reputation as an employer]] has taken a knock locally, and recruitment is already harder.",
+    "ex_us": "Our [[reputation as an employer]] has taken a hit locally, and recruiting is already harder."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the employee value proposition (EVP)",
+   "to damage the employer brand",
+   "to attract and retain talent",
+   "employer review sites"
+  ],
+  "note_fr": "« Employer brand », jamais « employer mark ». En période de transformation, l'enjeu est moins d'attirer que de retenir : « to retain talent » (indénombrable dans ce sens).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-097",
+  "level": 2,
+  "fr": "paysage concurrentiel",
+  "term": {
+   "uk": "competitive landscape",
+   "us": "competitive landscape"
+  },
+  "ipa": {
+   "uk": "/kəmˌpetətɪv ˈlændskeɪp/",
+   "us": "/kəmˌpet̬ət̬ɪv ˈlændskeɪp/"
+  },
+  "def": "The overall picture of the competitors in a market, their relative strengths and their likely moves.",
+  "registers": {
+   "formal": {
+    "uk": "competitive landscape",
+    "us": "competitive landscape",
+    "ex": "The [[competitive landscape]] has changed significantly since two of the Company's main rivals merged."
+   },
+   "everyday": {
+    "uk": "who we're up against",
+    "us": "who we're up against",
+    "ex": "Before we talk about retention, it's worth looking at [[who we're up against]] in the local job market."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to map the competitive landscape",
+   "a crowded market",
+   "a key competitor",
+   "to poach staff from a competitor"
+  ],
+  "note_fr": "« Concurrent » en anglais = simultané ; un concurrent est « a competitor », la concurrence « the competition ». « To poach » = débaucher.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-098",
+  "level": 2,
+  "fr": "signaux faibles",
+  "term": {
+   "uk": "early warning signals",
+   "us": "early warning signals"
+  },
+  "ipa": {
+   "uk": "/ˌɜːli ˈwɔːnɪŋ ˌsɪɡn(ə)lz/",
+   "us": "/ˌɜːrli ˈwɔːrnɪŋ ˌsɪɡn(ə)lz/"
+  },
+  "def": "Small, early indications that a problem is developing, picked up before it becomes obvious.",
+  "registers": {
+   "formal": {
+    "uk": "early warning indicators",
+    "us": "early warning indicators",
+    "ex": "Absenteeism, resignations and the tone of union leaflets are monitored as [[early warning indicators]] of a deteriorating climate."
+   },
+   "everyday": {
+    "uk": "early warning signs",
+    "us": "early warning signs",
+    "ex": "The [[early warning signs]] were all there: sick leave was up, and two of the union reps had stopped talking to us."
+   },
+   "informal": {
+    "uk": "straws in the wind",
+    "us": "straws in the wind",
+    "ex": "They're only [[straws in the wind]], but I'd take them seriously."
+   }
+  },
+  "collocations": [
+   "to pick up on a signal",
+   "to keep an ear to the ground",
+   "to monitor the mood",
+   "a leading indicator"
+  ],
+  "note_fr": "« Weak signals » existe en prospective mais reste jargonnant ; « early warning signs » est compris de tous. « To keep an ear to the ground » = rester à l'écoute du terrain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-099",
+  "level": 3,
+  "fr": "risque d'image",
+  "term": {
+   "uk": "reputational exposure",
+   "us": "reputational exposure"
+  },
+  "ipa": {
+   "uk": "/ˌrepjuˌteɪʃ(ə)n(ə)l ɪkˈspəʊʒə/",
+   "us": "/ˌrepjuˌteɪʃ(ə)n(ə)l ɪkˈspoʊʒər/"
+  },
+  "def": "The extent to which a company's public image could be damaged by an event or decision.",
+  "registers": {
+   "formal": {
+    "uk": "reputational exposure",
+    "us": "reputational exposure",
+    "ex": "The closure of the site would carry significant [[reputational exposure]] for the Fund, given the public subsidies received."
+   },
+   "everyday": {
+    "uk": "bad press",
+    "us": "bad press",
+    "ex": "The last thing the fund wants is [[bad press]] in the middle of a fundraising."
+   },
+   "informal": {
+    "uk": "to look bad",
+    "us": "to look bad",
+    "ex": "It would [[look bad]] if the story broke before the works council had been told."
+   }
+  },
+  "collocations": [
+   "reputational damage",
+   "adverse media coverage",
+   "to hit the headlines",
+   "headline risk"
+  ],
+  "note_fr": "« Image risk » est un calque : dites « reputational risk » ou « reputational exposure ». « Exposure » = degré d'exposition à un risque, qu'il soit financier, juridique ou médiatique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "ma-100",
+  "level": 3,
+  "fr": "intelligence économique, veille concurrentielle",
+  "term": {
+   "uk": "competitive intelligence",
+   "us": "competitive intelligence"
+  },
+  "ipa": {
+   "uk": "/kəmˌpetətɪv ɪnˈtelɪdʒ(ə)ns/",
+   "us": "/kəmˌpet̬ət̬ɪv ɪnˈtelɪdʒ(ə)ns/"
+  },
+  "def": "The lawful gathering and analysis of information about competitors, markets and the business environment in order to support decisions.",
+  "registers": {
+   "formal": {
+    "uk": "competitive intelligence",
+    "us": "competitive intelligence",
+    "ex": "[[Competitive intelligence]] gathered from public sources suggests that two rival bidders are preparing an offer."
+   },
+   "everyday": {
+    "uk": "to keep tabs on",
+    "us": "to keep tabs on",
+    "ex": "We [[keep tabs on]] what the competitors are paying, mostly through recruiters and job ads."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "market intelligence",
+   "open-source information",
+   "to monitor the market",
+   "to protect sensitive information"
+  ],
+  "note_fr": "« Economic intelligence » est un calque qui évoque le renseignement d'État : dites « competitive intelligence » ou « market intelligence ». Veille = « monitoring » ou « watch ».",
+  "french_concept": false,
+  "explain": null
+ }
+]

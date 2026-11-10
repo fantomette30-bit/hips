@@ -1,916 +1,902 @@
 {
  "reading": [
   {
-   "id": "rd-lt-1",
-   "title": "What to expect now that a claim has been filed",
-   "kind": "client memo",
-   "level": 2,
-   "paragraphs": [
-    "MEMORANDUM",
-    "To: Karen Mitchell, VP Human Resources (Chicago). From: Claire Morel. Re: Claim brought by Mr Thomas Girard before the Lyon employment tribunal.",
-    "You asked what to expect now that Mr Girard has brought a claim. In short: a slow, largely written process, with no jury, no depositions and nothing resembling US-style discovery.",
-    "The claim will be heard by the conseil de prud'hommes, the French employment tribunal. Its members are not career judges but lay judges, drawn in equal numbers from employers and employees.",
-    "The first step is a conciliation hearing, held in private before two of those judges. Its purpose is to see whether the parties can settle. Few cases do at that stage, but the panel will also set the timetable for the exchange of written submissions and exhibits.",
-    "The case then goes to a full hearing before four judges. Each side's lawyer argues the case briefly; witnesses are rarely heard, and their evidence is given in the form of written witness statements. Judgment is reserved and handed down some weeks later. If the four judges are evenly divided, the case is heard again with a professional judge in the chair, which can add many months.",
-    "As to the amount at stake, damages for a dismissal found to be without real and serious cause are capped by a statutory scale based on length of service. Mr Girard is also claiming unpaid overtime, which falls outside that scale and for which the burden of proof is shared between the parties.",
-    "Either party may appeal, and the court of appeal will look again at both the facts and the law. It is not unusual for a final decision to take two to three years. I would therefore suggest that we assess our exposure now and keep the option of settling open."
-   ],
-   "glossary": [
-    {
-     "term": "lay judges",
-     "plain": "judges who are not professional judges but ordinary employers and employees",
-     "fr": "conseillers prud'homaux (juges non professionnels)"
-    },
-    {
-     "term": "conciliation hearing",
-     "plain": "a first, private session where the judges try to get the two sides to agree",
-     "fr": "audience de conciliation"
-    },
-    {
-     "term": "written submissions",
-     "plain": "the documents in which each lawyer sets out the facts and legal arguments",
-     "fr": "conclusions"
-    },
-    {
-     "term": "exhibits",
-     "plain": "the numbered documents each side produces as evidence",
-     "fr": "pièces"
-    },
-    {
-     "term": "witness statements",
-     "plain": "signed written accounts of what a person saw or heard",
-     "fr": "attestations"
-    },
-    {
-     "term": "capped",
-     "plain": "limited to a maximum amount",
-     "fr": "plafonnés"
-    },
-    {
-     "term": "burden of proof",
-     "plain": "the obligation to prove what you say",
-     "fr": "charge de la preuve"
-    },
-    {
-     "term": "exposure",
-     "plain": "the amount of money the company risks having to pay",
-     "fr": "risque financier, exposition"
-    }
-   ],
-   "legalese": [
-    {
-     "phrase": "without real and serious cause",
-     "plain": "without a genuine and sufficiently serious reason - the French test for an unjustified dismissal"
-    },
-    {
-     "phrase": "Judgment is reserved",
-     "plain": "the judges do not decide on the day; they give their decision later"
-    },
-    {
-     "phrase": "As to",
-     "plain": "concerning; on the subject of"
-    },
-    {
-     "phrase": "falls outside",
-     "plain": "is not covered by"
-    }
-   ],
-   "questions": [
-    {
-     "q": "Who decides the case at first instance?",
-     "options": [
-      "A professional judge sitting alone",
-      "A jury of twelve citizens",
-      "Four lay judges, two from each side",
-      "An arbitrator chosen by the parties"
-     ],
-     "answer": 2,
-     "explain_fr": "Le mémo précise que les juges sont des « lay judges, drawn in equal numbers from employers and employees » et que l'audience de jugement se tient devant quatre d'entre eux."
-    },
-    {
-     "q": "What is the main practical outcome of the conciliation hearing in most cases?",
-     "options": [
-      "A timetable for exchanging arguments and documents",
-      "A final judgment",
-      "The questioning of witnesses",
-      "An order to pay damages"
-     ],
-     "answer": 0,
-     "explain_fr": "« Few cases do [settle] at that stage, but the panel will also set the timetable » : l'audience sert surtout à fixer le calendrier de procédure."
-    },
-    {
-     "q": "Why is the overtime claim a particular concern?",
-     "options": [
-      "It will be decided by a jury",
-      "It is time-barred",
-      "The employer alone must prove everything",
-      "It is not limited by the statutory scale"
-     ],
-     "answer": 3,
-     "explain_fr": "Le barème ne plafonne que les dommages-intérêts pour licenciement sans cause réelle et sérieuse : les heures supplémentaires « fall outside that scale ». La charge de la preuve y est partagée, et non supportée par le seul employeur."
-    },
-    {
-     "q": "What does the writer recommend?",
-     "options": [
-      "Appealing immediately",
-      "Working out the financial risk and staying open to a settlement",
-      "Preparing managers for depositions",
-      "Waiting for the final decision before doing anything"
-     ],
-     "answer": 1,
-     "explain_fr": "Dernière phrase : « assess our exposure now and keep the option of settling open ». « Exposure » = le risque financier ; « to keep an option open » = ne pas fermer la porte."
-    }
-   ]
-  },
-  {
-   "id": "rd-lt-2",
-   "title": "Quarterly litigation report - France",
-   "kind": "report extract",
-   "level": 3,
-   "paragraphs": [
-    "3. EMPLOYMENT LITIGATION - FRANCE (extract)",
-    "3.1 Dubois v Northgate France SAS. The claimant, a former regional sales manager dismissed for poor performance, challenges her dismissal and seeks damages at the top of the statutory scale, together with arrears of commission. Following an unsuccessful conciliation hearing, the matter was heard on the merits in March. The panel was evenly divided and the case has been referred to the tie-breaking judge; a new hearing is not expected before the first quarter of next year. Counsel assesses the Company's prospects of success as fair on the dismissal and weak on the commission claim, where the documentary evidence is thin. A provision has been made for the upper end of the estimated exposure.",
-    "3.2 Lemaire v Northgate France SAS. By a judgment handed down in May, the tribunal dismissed the claim for unfair dismissal but ordered the Company to pay back pay for overtime, plus a contribution towards the claimant's legal costs. The award of back pay is provisionally enforceable and has been paid. The claimant has lodged an appeal; the Company has cross-appealed on the overtime. No hearing date has yet been fixed.",
-    "3.3 Interim proceedings. A former employee obtained an order, on an application for interim relief, requiring delivery of his end-of-contract documents, subject to a penalty per day of delay. The documents were delivered within the time limit and no penalty is payable.",
-    "3.4 Trends. No new claims were received during the quarter, and one threatened claim is now time-barred. Two matters were settled before hearing, in each case for less than the amount provided for."
-   ],
-   "glossary": [
-    {
-     "term": "arrears of commission",
-     "plain": "commission that should already have been paid",
-     "fr": "rappel de commissions"
-    },
-    {
-     "term": "tie-breaking judge",
-     "plain": "the professional judge brought in when the lay judges are split two against two",
-     "fr": "juge départiteur"
-    },
-    {
-     "term": "prospects of success",
-     "plain": "the chances of winning",
-     "fr": "chances de succès"
-    },
-    {
-     "term": "provision",
-     "plain": "a sum set aside in the accounts to cover a possible future cost",
-     "fr": "provision (comptable)"
-    },
-    {
-     "term": "back pay",
-     "plain": "wages owed for a past period",
-     "fr": "rappel de salaire"
-    },
-    {
-     "term": "provisionally enforceable",
-     "plain": "to be paid at once, even though an appeal is pending",
-     "fr": "assorti de l'exécution provisoire"
-    },
-    {
-     "term": "cross-appealed",
-     "plain": "appealed in return against the part of the judgment it lost",
-     "fr": "a formé un appel incident"
-    },
-    {
-     "term": "time-barred",
-     "plain": "too late to be brought, because the legal time limit has passed",
-     "fr": "prescrit"
-    }
-   ],
-   "legalese": [
-    {
-     "phrase": "on the merits",
-     "plain": "on the substance of the dispute, as opposed to procedure or interim measures"
-    },
-    {
-     "phrase": "handed down",
-     "plain": "officially given (of a judgment)"
-    },
-    {
-     "phrase": "subject to a penalty per day of delay",
-     "plain": "with a fixed sum to pay for every day the order is not obeyed"
-    },
-    {
-     "phrase": "has lodged an appeal",
-     "plain": "has formally started an appeal"
-    },
-    {
-     "phrase": "the amount provided for",
-     "plain": "the sum set aside in the accounts"
-    }
-   ],
-   "questions": [
-    {
-     "q": "Why has the Dubois case not yet been decided?",
-     "options": [
-      "The claimant withdrew her claim",
-      "The four judges could not reach a majority",
-      "The Company appealed",
-      "The claim was out of time"
-     ],
-     "answer": 1,
-     "explain_fr": "« The panel was evenly divided and the case has been referred to the tie-breaking judge » : c'est un partage de voix, d'où le renvoi en départage."
-    },
-    {
-     "q": "In the Lemaire case, who won on the dismissal?",
-     "options": [
-      "The Company",
-      "The claimant",
-      "Neither: the case was settled",
-      "It has not been decided"
-     ],
-     "answer": 0,
-     "explain_fr": "« The tribunal dismissed the claim for unfair dismissal » : la demande du salarié a été rejetée sur ce point. Attention au double sens de « dismiss » dans la même phrase."
-    },
-    {
-     "q": "Why has the back pay in the Lemaire case already been paid, although an appeal is pending?",
-     "options": [
-      "The Company decided to be generous",
-      "The claimant agreed to drop the appeal",
-      "The appeal was dismissed",
-      "That part of the judgment had to be complied with immediately"
-     ],
-     "answer": 3,
-     "explain_fr": "« Provisionally enforceable » : la condamnation est exécutoire par provision, c'est-à-dire nonobstant appel."
-    },
-    {
-     "q": "What does paragraph 3.4 tell us about the two settlements?",
-     "options": [
-      "They cost more than expected",
-      "They were reached after judgment",
-      "They cost less than the sums set aside",
-      "They were rejected by the tribunal"
-     ],
-     "answer": 2,
-     "explain_fr": "« For less than the amount provided for » : pour un montant inférieur à la provision constituée. « To provide for » a ici son sens comptable."
-    }
-   ]
-  },
-  {
-   "id": "rd-lt-3",
-   "title": "A US arbitration agreement",
-   "kind": "contract clause",
-   "level": 3,
-   "paragraphs": [
-    "12. DISPUTE RESOLUTION AND ARBITRATION",
-    "12.1 Any dispute, claim or controversy arising out of or relating to the Employee's employment or its termination (a 'Covered Claim') shall be resolved exclusively by final and binding arbitration before a single neutral arbitrator, and not by a court or jury.",
-    "12.2 Before commencing arbitration, the party asserting a Covered Claim shall give the other party written notice of the claim, and the parties shall attempt in good faith to resolve it through mediation.",
-    "12.3 The arbitrator shall have authority to award any remedy that would have been available in a court of competent jurisdiction, including back pay, reinstatement and attorney's fees where provided by statute. The arbitrator shall issue a written, reasoned award.",
-    "12.4 To the fullest extent permitted by law, the Employee and the Company each waive the right to trial by jury and the right to bring or participate in any class action or collective action. Covered Claims shall be arbitrated on an individual basis only.",
-    "12.5 The Company shall bear the arbitrator's fees and the administrative costs of the arbitration. Each party shall otherwise bear its own attorney's fees and costs, unless the arbitrator awards them to the prevailing party in accordance with applicable law.",
-    "12.6 Nothing in this clause shall prevent either party from applying to a court for a temporary restraining order or preliminary injunction where necessary to prevent irreparable harm pending the arbitrator's decision, nor shall it apply to any claim which, under applicable law, cannot be made subject to mandatory arbitration."
-   ],
-   "glossary": [
-    {
-     "term": "binding arbitration",
-     "plain": "a private procedure whose result the parties must accept, instead of going to court",
-     "fr": "arbitrage s'imposant aux parties"
-    },
-    {
-     "term": "arbitrator",
-     "plain": "the neutral person who decides the dispute",
-     "fr": "arbitre"
-    },
-    {
-     "term": "mediation",
-     "plain": "a discussion led by a neutral person who helps the parties reach their own agreement",
-     "fr": "médiation"
-    },
-    {
-     "term": "reinstatement",
-     "plain": "giving a dismissed employee his or her job back",
-     "fr": "réintégration"
-    },
-    {
-     "term": "class action",
-     "plain": "a case brought on behalf of a whole group of people with the same claim",
-     "fr": "action de groupe"
-    },
-    {
-     "term": "prevailing party",
-     "plain": "the side that wins",
-     "fr": "partie gagnante"
-    },
-    {
-     "term": "preliminary injunction",
-     "plain": "a temporary court order made before the final decision",
-     "fr": "mesure provisoire ordonnée par le juge (proche du référé)"
-    }
-   ],
-   "legalese": [
-    {
-     "phrase": "arising out of or relating to",
-     "plain": "connected in any way with"
-    },
-    {
-     "phrase": "a court of competent jurisdiction",
-     "plain": "a court that has the legal power to hear the case"
-    },
-    {
-     "phrase": "To the fullest extent permitted by law",
-     "plain": "as far as the law allows, and no further"
-    },
-    {
-     "phrase": "Nothing in this clause shall prevent",
-     "plain": "this clause does not stop"
-    },
-    {
-     "phrase": "pending the arbitrator's decision",
-     "plain": "while waiting for the arbitrator to decide"
-    }
-   ],
-   "questions": [
-    {
-     "q": "What do both parties give up under clause 12.4?",
-     "options": [
-      "The right to be represented by a lawyer",
-      "The right to claim back pay",
-      "The right to mediation",
-      "The right to a jury and to group proceedings"
-     ],
-     "answer": 3,
-     "explain_fr": "« Each waive the right to trial by jury and the right to bring or participate in any class action or collective action » : « to waive » = renoncer à."
-    },
-    {
-     "q": "Who pays the arbitrator?",
-     "options": [
-      "The Company",
-      "The Employee",
-      "The losing party in every case",
-      "Both parties equally"
-     ],
-     "answer": 0,
-     "explain_fr": "Clause 12.5 : « The Company shall bear the arbitrator's fees ». Chaque partie garde en revanche ses propres honoraires d'avocat, sauf décision contraire de l'arbitre conforme à la loi."
-    },
-    {
-     "q": "What must happen before arbitration starts?",
-     "options": [
-      "A court must approve the claim",
-      "The Employee must resign",
-      "Written notice of the claim and an attempt at mediation",
-      "A jury must be selected"
-     ],
-     "answer": 2,
-     "explain_fr": "Clause 12.2 : notification écrite de la demande, puis tentative de médiation « in good faith »."
-    },
-    {
-     "q": "A US parent company wants to insert this clause in the contracts of its employees in France. What should the consultant say?",
-     "options": [
-      "It is fine as long as it is translated into French",
-      "It could not be relied on against the employee, who keeps access to the employment tribunal",
-      "It is valid but only for managers",
-      "It is compulsory under French law"
-     ],
-     "answer": 1,
-     "explain_fr": "En droit français, la clause compromissoire insérée dans un contrat de travail est inopposable au salarié, qui conserve le droit de saisir le conseil de prud'hommes. La clause 12.6 réserve d'ailleurs les demandes qui « cannot be made subject to mandatory arbitration »."
-    }
-   ]
-  },
-  {
-   "id": "rd-lt-4",
-   "title": "Asking a manager for a witness statement",
-   "kind": "long email",
+   "id": "rd-hs-1",
+   "title": "Reporting accidents, incidents and near misses",
+   "kind": "policy extract",
    "level": 1,
    "paragraphs": [
-    "Subject: Tribunal claim - Marc Vidal: what I need from you",
-    "Dear Antoine,",
-    "As you may have heard, Marc Vidal has brought a claim against the company before the employment tribunal. He is challenging his dismissal and claiming damages. Our lawyer, Ms Rey, is preparing our defence, and I need your help on three points.",
-    "First, please keep everything. Do not delete any emails, messages or notes about Marc, even those that seem unimportant. Our lawyer will decide what is useful as evidence.",
-    "Second, could you send me by Friday the documents you have on his performance: the two appraisals, the objectives you set in January and your follow-up emails? We have to send our exhibits to the other side by the end of the month, and the deadline is strict.",
-    "Third, we would like you to write a witness statement. This is a short signed document in which you describe, in your own words, what you saw and heard yourself: the missed targets, the meetings you had with him, the warnings you gave. Please stick to facts and dates, and leave out opinions. In France you will almost certainly not have to attend the hearing or answer questions from his lawyer; the judges simply read the statement.",
-    "Finally, please do not discuss the case with the team or contact Marc directly. If anyone asks, just say that the matter is with our lawyers.",
-    "I'll call you tomorrow to go through all this. Thank you in advance for your help.",
+    "4. REPORTING ACCIDENTS, INCIDENTS AND NEAR MISSES",
+    "4.1 The Company's aim is to learn from every event that harms someone, or could have done so. All accidents, cases of work-related ill health and near misses must therefore be reported, however minor they may appear at the time.",
+    "4.2 An employee who is injured at work, or who witnesses an accident, must inform his or her line manager straight away and, in any event, before the end of the shift. If first aid is needed, the nearest first aider should be called at once.",
+    "4.3 The line manager shall ensure that the area is made safe, enter the details in the accident book and complete an incident report form within 24 hours. The form should record the facts only: what happened, where, when and who was involved. It is not the place to apportion blame.",
+    "4.4 A near miss is an event that did not cause injury or damage but could easily have done so. Near misses are a valuable warning. Employees are encouraged to report them using the same form, and may do so anonymously if they prefer.",
+    "4.5 The Health and Safety Manager will review each report, decide whether a full investigation is required and notify the enforcing authority where the incident is reportable by law. The findings, together with any corrective action, will be shared with the team concerned.",
+    "4.6 No one will suffer any detriment for reporting an incident or raising a safety concern in good faith. Failure to report, on the other hand, may be treated as a disciplinary matter."
+   ],
+   "glossary": [
+    {
+     "term": "near miss",
+     "plain": "something that nearly caused an accident but did not",
+     "fr": "presqu'accident"
+    },
+    {
+     "term": "line manager",
+     "plain": "the person you report to directly",
+     "fr": "supérieur hiérarchique direct"
+    },
+    {
+     "term": "first aider",
+     "plain": "an employee trained to give basic medical help",
+     "fr": "sauveteur secouriste du travail"
+    },
+    {
+     "term": "accident book",
+     "plain": "the record in which workplace accidents are written down",
+     "fr": "registre des accidents"
+    },
+    {
+     "term": "enforcing authority",
+     "plain": "the public body that makes sure safety law is applied",
+     "fr": "autorité de contrôle"
+    },
+    {
+     "term": "corrective action",
+     "plain": "what is done to stop the same thing happening again",
+     "fr": "mesure corrective"
+    },
+    {
+     "term": "detriment",
+     "plain": "unfavourable treatment, a disadvantage",
+     "fr": "mesure défavorable, préjudice"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "however minor they may appear",
+     "plain": "even if they seem unimportant"
+    },
+    {
+     "phrase": "in any event",
+     "plain": "whatever happens, at the latest"
+    },
+    {
+     "phrase": "apportion blame",
+     "plain": "decide who is at fault"
+    },
+    {
+     "phrase": "in good faith",
+     "plain": "honestly, sincerely believing it to be true"
+    }
+   ],
+   "questions": [
+    {
+     "q": "By when must an injured employee tell his or her line manager?",
+     "options": [
+      "Within 24 hours",
+      "Before the end of the shift at the latest",
+      "By the following morning",
+      "Once the accident book has been completed"
+     ],
+     "answer": 1,
+     "explain_fr": "Le texte dit « straight away and, in any event, before the end of the shift ». Les 24 heures concernent le formulaire que remplit le manager."
+    },
+    {
+     "q": "What should the incident report form contain?",
+     "options": [
+      "The manager's view of who was responsible",
+      "A proposal for disciplinary action",
+      "The facts only",
+      "The employee's medical details"
+     ],
+     "answer": 2,
+     "explain_fr": "« The form should record the facts only » et « it is not the place to apportion blame » : on consigne les faits, pas les responsabilités."
+    },
+    {
+     "q": "Why does the policy want near misses to be reported?",
+     "options": [
+      "Because they serve as a warning",
+      "Because the law requires every near miss to be notified",
+      "Because they are used to assess employees",
+      "Because they must be entered in the accident book"
+     ],
+     "answer": 0,
+     "explain_fr": "« Near misses are a valuable warning » : le presqu'accident d'aujourd'hui annonce l'accident de demain."
+    },
+    {
+     "q": "What may happen to an employee who fails to report an incident?",
+     "options": [
+      "Nothing, since reporting is voluntary",
+      "He or she will suffer a detriment",
+      "The enforcing authority will be notified",
+      "It may be treated as a disciplinary matter"
+     ],
+     "answer": 3,
+     "explain_fr": "La dernière clause oppose la protection de celui qui signale de bonne foi à la sanction possible de celui qui ne signale pas."
+    }
+   ]
+  },
+  {
+   "id": "rd-hs-2",
+   "title": "Medical unfitness: what the employer must do next",
+   "kind": "client memo",
+   "level": 3,
+   "paragraphs": [
+    "MEMORANDUM - Mr D.: medical unfitness and next steps",
+    "You asked what the occupational health physician's opinion of 6 October means for the company, and whether Mr D.'s employment can now be brought to an end. In short: not yet.",
+    "Under French law, a finding of unfitness can only be made by the occupational health physician, after examining the employee and studying the position. It is binding on the employer unless it is challenged before the employment tribunal. The opinion does not end the contract; it triggers a duty to look for another role.",
+    "The company must therefore carry out a genuine search for a suitable alternative role, taking account of the physician's written findings. The search covers vacant positions in the company and, where it belongs to a group, in the group's other French entities between which staff can be moved. If necessary, the role should be adapted, for instance through adjustments to the workstation or to working hours. The works council must be consulted before any proposal is put to Mr D.",
+    "There are two exceptions. No search is required where the physician has expressly stated either that keeping the employee in any job would be seriously detrimental to his health, or that his state of health precludes redeployment to any job. Neither statement appears in the opinion we have received.",
+    "Dismissal may be contemplated only if no suitable role exists or if Mr D. turns down the roles offered. Please note that if he has been neither redeployed nor dismissed within one month of the examination, the company must resume paying his salary.",
+    "I would suggest that we draw up a list of vacancies this week and keep a written record of every step, since the burden of proving that the search was genuine lies with the employer."
+   ],
+   "glossary": [
+    {
+     "term": "finding of unfitness",
+     "plain": "a formal medical decision that the employee can no longer do the job",
+     "fr": "avis d'inaptitude"
+    },
+    {
+     "term": "binding on",
+     "plain": "having to be followed by",
+     "fr": "qui s'impose à"
+    },
+    {
+     "term": "suitable alternative role",
+     "plain": "another job that fits the person's skills and medical limits",
+     "fr": "poste de reclassement adapté"
+    },
+    {
+     "term": "works council",
+     "plain": "the body of elected employee representatives",
+     "fr": "comité social et économique (CSE)"
+    },
+    {
+     "term": "redeployment",
+     "plain": "moving someone to a different job in the organisation",
+     "fr": "reclassement"
+    },
+    {
+     "term": "turns down",
+     "plain": "refuses",
+     "fr": "refuse"
+    },
+    {
+     "term": "vacancies",
+     "plain": "jobs that are open and need to be filled",
+     "fr": "postes vacants"
+    },
+    {
+     "term": "burden of proving",
+     "plain": "the responsibility for showing that something is true",
+     "fr": "charge de la preuve"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "seriously detrimental to",
+     "plain": "very harmful to"
+    },
+    {
+     "phrase": "precludes",
+     "plain": "makes impossible"
+    },
+    {
+     "phrase": "may be contemplated",
+     "plain": "can be considered"
+    },
+    {
+     "phrase": "lies with the employer",
+     "plain": "is the employer's responsibility"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Can the company end Mr D.'s employment straight away?",
+     "options": [
+      "No, it must first look for another role for him",
+      "Yes, because the opinion is binding",
+      "Yes, provided the works council agrees",
+      "No, not until a tribunal has confirmed the opinion"
+     ],
+     "answer": 0,
+     "explain_fr": "« In short: not yet. » L'avis d'inaptitude ne rompt pas le contrat : il déclenche l'obligation de reclassement."
+    },
+    {
+     "q": "Where must the search for an alternative role be carried out?",
+     "options": [
+      "Only in the site where Mr D. works",
+      "In every company of the group worldwide",
+      "Only in roles identical to his previous one",
+      "In the company and, where relevant, the group's other French entities"
+     ],
+     "answer": 3,
+     "explain_fr": "Le mémo vise les postes vacants de l'entreprise et, s'il y a un groupe, ceux des autres entités françaises entre lesquelles le personnel peut être permuté."
+    },
+    {
+     "q": "In which case is the employer released from the search?",
+     "options": [
+      "Where the physician expressly states that the employee's health precludes any redeployment",
+      "Where the employee has been absent for a long time",
+      "Where the works council has not replied",
+      "Where the company has no time to carry it out"
+     ],
+     "answer": 0,
+     "explain_fr": "Deux mentions expresses du médecin du travail dispensent de la recherche ; aucune ne figure dans l'avis reçu."
+    },
+    {
+     "q": "What happens if, a month after the examination, Mr D. has been neither redeployed nor dismissed?",
+     "options": [
+      "His contract ends automatically",
+      "The physician must examine him again",
+      "The company must start paying his salary again",
+      "The works council takes the decision"
+     ],
+     "answer": 2,
+     "explain_fr": "« The company must resume paying his salary » : « to resume » = reprendre, et non résumer."
+    }
+   ]
+  },
+  {
+   "id": "rd-hs-3",
+   "title": "Friday's stoppage at the Lille warehouse",
+   "kind": "long email",
+   "level": 2,
+   "paragraphs": [
+    "Subject: Friday's stoppage at the Lille warehouse - where we stand",
+    "Hi Brad,",
+    "Thanks for your message. I understand why three drivers walking off the job in the middle of a shift looks like insubordination, but under French law it is very likely something else, and I would advise against any disciplinary action for now.",
+    "France recognizes what is called the right to withdraw. An employee who has reasonable grounds to believe that a situation presents a serious and imminent danger to their life or health may stop work and step away from it, provided they alert the employer. No prior authorization is needed, and it is not a strike.",
+    "The key point is that the test is the employee's reasonable belief, not whether the danger turns out to be real. Here, the drivers reported twice last month that the brakes on two forklifts were unreliable, and one of the trucks failed to stop on the ramp on Friday morning. A court would almost certainly find their belief reasonable.",
+    "If that is right, the company can neither discipline them nor dock their pay for the hours not worked. Nor can it ask them to go back until the danger has been dealt with. Doing so could expose the company to serious liability if someone were then hurt.",
+    "My suggestion is as follows: take both forklifts out of service today, have them inspected by the supplier, and confirm to the drivers in writing that they will be paid as normal. We should also record the incident and update the risk assessment.",
+    "I know this is a long way from how things work in Ohio. I'm happy to walk you through it on a call tomorrow if that would help.",
     "Best regards,",
     "Claire"
    ],
    "glossary": [
     {
-     "term": "brought a claim",
-     "plain": "started a legal case",
-     "fr": "a saisi le tribunal"
+     "term": "walking off the job",
+     "plain": "stopping work and leaving, usually as a protest",
+     "fr": "quitter son poste, débrayer"
     },
     {
-     "term": "damages",
-     "plain": "money claimed or awarded to make up for a loss",
-     "fr": "dommages et intérêts"
+     "term": "right to withdraw",
+     "plain": "the right to stop work and move away from a serious danger",
+     "fr": "droit de retrait"
     },
     {
-     "term": "evidence",
-     "plain": "documents and statements used to prove the facts",
-     "fr": "preuves"
+     "term": "reasonable grounds",
+     "plain": "good, sensible reasons",
+     "fr": "motif raisonnable"
     },
     {
-     "term": "exhibits",
-     "plain": "the documents formally produced in the case",
-     "fr": "pièces"
+     "term": "dock their pay",
+     "plain": "take money off their wages",
+     "fr": "opérer une retenue sur leur salaire"
     },
     {
-     "term": "deadline",
-     "plain": "the latest date by which something must be done",
-     "fr": "date limite"
+     "term": "liability",
+     "plain": "legal responsibility for harm or loss",
+     "fr": "responsabilité (juridique)"
     },
     {
-     "term": "witness statement",
-     "plain": "a signed written account of what someone personally saw or heard",
-     "fr": "attestation"
+     "term": "out of service",
+     "plain": "no longer in use until repaired",
+     "fr": "hors service"
     },
     {
-     "term": "attend the hearing",
-     "plain": "be present at the court session",
-     "fr": "se présenter à l'audience"
+     "term": "walk you through",
+     "plain": "explain it to you step by step",
+     "fr": "vous l'expliquer pas à pas"
     }
    ],
-   "legalese": [],
+   "legalese": [
+    {
+     "phrase": "serious and imminent danger",
+     "plain": "a real danger that could cause harm very soon"
+    },
+    {
+     "phrase": "provided they alert the employer",
+     "plain": "on condition that they tell the employer"
+    },
+    {
+     "phrase": "No prior authorization is needed",
+     "plain": "they do not have to ask for permission first"
+    }
+   ],
    "questions": [
     {
-     "q": "What is Antoine asked to do with his old messages about Marc?",
+     "q": "What does Claire advise Brad to do about the three drivers?",
      "options": [
-      "Delete the unimportant ones",
-      "Keep all of them",
-      "Forward them to Marc",
-      "Send them to the tribunal himself"
+      "Give them a written warning",
+      "Take no disciplinary action for the moment",
+      "Treat the stoppage as a strike",
+      "Ask them to return to work at once"
      ],
      "answer": 1,
-     "explain_fr": "« Please keep everything. Do not delete any emails, messages or notes » : il doit tout conserver ; c'est l'avocate qui triera."
+     "explain_fr": "« I would advise against any disciplinary action for now » : « to advise against » = déconseiller."
     },
     {
-     "q": "What should the witness statement contain?",
+     "q": "What is the legal test for the right to withdraw?",
      "options": [
-      "His opinion of Marc's character",
-      "Legal arguments",
-      "What the team thinks of the dismissal",
-      "Facts and dates he knows first-hand"
+      "Whether the danger was real",
+      "Whether the employer had authorised the stoppage",
+      "Whether several employees stopped work together",
+      "Whether the employee had reasonable grounds to believe there was a serious and imminent danger"
      ],
      "answer": 3,
-     "explain_fr": "« What you saw and heard yourself » ; « stick to facts and dates, and leave out opinions ». « To stick to » = s'en tenir à ; « to leave out » = omettre."
+     "explain_fr": "Le critère est la croyance raisonnable du salarié, et non la réalité du danger."
     },
     {
-     "q": "Why is Friday important?",
+     "q": "Why would a court probably side with the drivers?",
      "options": [
-      "The exhibits must reach the other side by the end of the month",
-      "The hearing takes place on Friday",
-      "Marc's notice period ends on Friday",
-      "The lawyer is on leave after Friday"
+      "They had already reported the faulty brakes, and a truck failed to stop",
+      "They had been with the company for a long time",
+      "The forklifts had never been inspected",
+      "Their supervisor told them to stop"
      ],
      "answer": 0,
-     "explain_fr": "Les pièces doivent être communiquées à la partie adverse avant la fin du mois, et « the deadline is strict » : Claire a besoin des documents dès vendredi pour les transmettre à l'avocate."
+     "explain_fr": "Deux signalements le mois précédent et un incident le vendredi matin : la croyance au danger était raisonnable."
     },
     {
-     "q": "Will Antoine probably be questioned by Marc's lawyer?",
+     "q": "What can the company NOT do if the withdrawal is justified?",
      "options": [
-      "Yes, for several hours",
-      "Yes, but only in writing",
-      "No, the judges normally just read his statement",
-      "No, because he is not allowed to give a statement"
+      "Have the forklifts inspected",
+      "Update the risk assessment",
+      "Deduct the hours not worked from the drivers' pay",
+      "Confirm matters in writing"
      ],
      "answer": 2,
-     "explain_fr": "« You will almost certainly not have to attend the hearing or answer questions from his lawyer » : devant le conseil de prud'hommes, l'attestation écrite remplace en pratique l'audition du témoin."
+     "explain_fr": "« The company can neither discipline them nor dock their pay » : ni sanction ni retenue sur salaire."
+    }
+   ]
+  },
+  {
+   "id": "rd-hs-4",
+   "title": "Work-related stress in Customer Support: findings and recommendations",
+   "kind": "report extract",
+   "level": 2,
+   "paragraphs": [
+    "3. FINDINGS",
+    "3.1 Workload. Two thirds of respondents in the Customer Support team describe their workload as unmanageable at least once a week. Since the reorganisation in March, the team has lost four posts without any reduction in the volume of calls. Several interviewees said that they regularly skip breaks, and absence levels have risen sharply over the same period.",
+    "3.2 Control and support. Staff have little say over how their work is scheduled. Team leaders, who are themselves overstretched, admit that one-to-one meetings have largely fallen by the wayside. As a result, early signs of stress tend to go unnoticed until the person is signed off.",
+    "3.3 Presenteeism. A number of employees reported coming in ill for fear of adding to their colleagues' burden. This masks the true scale of the problem and delays recovery.",
+    "4. RECOMMENDATIONS",
+    "4.1 The risks described above should be recorded in the company's risk assessment document without delay, together with a dated action plan.",
+    "4.2 As a priority, management should review staffing levels in Customer Support and agree realistic targets with the team. Wellbeing initiatives are welcome, but they are no substitute for tackling the root causes.",
+    "4.3 Team leaders should receive training in spotting the signs of burnout and in holding return-to-work interviews. Monthly one-to-one meetings should be reinstated.",
+    "4.4 All staff should be reminded of the confidential employee assistance programme and of their right to request an appointment with the occupational health service at any time.",
+    "4.5 Progress should be reviewed with the works council's health and safety committee in six months' time."
+   ],
+   "glossary": [
+    {
+     "term": "workload",
+     "plain": "the amount of work someone has to do",
+     "fr": "charge de travail"
+    },
+    {
+     "term": "overstretched",
+     "plain": "having too much to do with too few resources",
+     "fr": "débordé, en sous-effectif"
+    },
+    {
+     "term": "fallen by the wayside",
+     "plain": "been gradually abandoned",
+     "fr": "été abandonné en cours de route"
+    },
+    {
+     "term": "signed off",
+     "plain": "told by a doctor not to work",
+     "fr": "mis en arrêt par son médecin"
+    },
+    {
+     "term": "presenteeism",
+     "plain": "coming to work when ill",
+     "fr": "présentéisme"
+    },
+    {
+     "term": "staffing levels",
+     "plain": "the number of people employed to do the work",
+     "fr": "effectifs"
+    },
+    {
+     "term": "root causes",
+     "plain": "the real, underlying reasons",
+     "fr": "causes profondes"
+    },
+    {
+     "term": "employee assistance programme",
+     "plain": "a confidential advice and counselling service paid for by the employer",
+     "fr": "programme d'aide aux salariés"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "without delay",
+     "plain": "immediately"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What has changed in Customer Support since March?",
+     "options": [
+      "The volume of calls has fallen",
+      "Breaks have been abolished",
+      "The team has fewer people for the same amount of work",
+      "Team leaders have been replaced"
+     ],
+     "answer": 2,
+     "explain_fr": "« The team has lost four posts without any reduction in the volume of calls » : moins de postes, autant d'appels."
+    },
+    {
+     "q": "Why do early signs of stress go unnoticed?",
+     "options": [
+      "Because regular one-to-one meetings are no longer held",
+      "Because staff refuse to talk to their team leaders",
+      "Because the occupational health service is unavailable",
+      "Because employees work from home"
+     ],
+     "answer": 0,
+     "explain_fr": "Les entretiens individuels sont « fallen by the wayside » : plus personne ne repère les signaux faibles."
+    },
+    {
+     "q": "What does the report say about wellbeing initiatives?",
+     "options": [
+      "They should be stopped",
+      "They are the main priority",
+      "They have caused the problem",
+      "They are welcome but do not deal with the real causes"
+     ],
+     "answer": 3,
+     "explain_fr": "« They are no substitute for tackling the root causes » : utiles, mais ils ne remplacent pas le traitement des causes."
+    },
+    {
+     "q": "What should be done first, according to the recommendations?",
+     "options": [
+      "Train team leaders",
+      "Remind staff of the employee assistance programme",
+      "Review staffing levels and agree realistic targets",
+      "Meet the health and safety committee"
+     ],
+     "answer": 2,
+     "explain_fr": "« As a priority » introduit la recommandation 4.2 : revoir les effectifs et fixer des objectifs réalistes."
     }
    ]
   }
  ],
  "writing": [
   {
-   "id": "wr-lt-1",
-   "title": "Telling management that a claim has been received",
+   "id": "wr-hs-1",
+   "title": "Informing a client of a workplace accident",
    "stage": 1,
    "kind": "email",
-   "brief": "The company has just received a claim from a former employee, Ms Leroy, before the Nanterre employment tribunal. Write a short email to the managing director, Mr Shaw: what she is claiming, the date of the first hearing, what must be done now, the lawyer's first impression and the next step.",
-   "brief_fr": "L'entreprise vient de recevoir la requête d'une ancienne salariée, Mme Leroy, devant le conseil de prud'hommes de Nanterre. Rédigez un bref e-mail au directeur général, M. Shaw : ce qu'elle demande, la date de la première audience, ce qu'il faut faire dès maintenant, la première impression de l'avocate et la prochaine étape.",
+   "brief": "An accident happened yesterday at your client's Lyon warehouse: a forklift operator injured his foot. Write to Ms Whitfield, the group HR director in London, to tell her what happened, what has been done and what comes next.",
+   "brief_fr": "Un accident est survenu hier dans l'entrepôt lyonnais de votre client : un cariste s'est blessé au pied. Écrivez à Mme Whitfield, DRH du groupe à Londres, pour l'informer des faits, des mesures prises et de la suite.",
    "gaps": [
     {
-     "text": "I am writing to let you know that Ms Leroy has ___ a claim against the company before the Nanterre employment tribunal.",
-     "answer": "brought",
+     "text": "I am writing to ___ you of an accident which occurred at the Lyon warehouse yesterday afternoon.",
+     "answer": "inform",
      "accept": [
-      "filed",
-      "lodged",
-      "issued"
+      "notify"
      ],
-     "explain_fr": "On « brings » (UK) ou « files » (US) a claim. Jamais « seized the tribunal » ni « made a claim to the tribunal »."
+     "explain_fr": "« To inform someone of something » : la formule d'ouverture classique d'un courrier factuel. Pas de « to » après « inform » : « inform you », jamais « inform to you »."
     },
     {
-     "text": "She is ___ her dismissal and claiming damages equivalent to twelve months' salary.",
-     "answer": "challenging",
+     "text": "One of our forklift operators, Mr Karim B., ___ an injury to his left foot when a pallet slipped from the forks.",
+     "answer": "sustained",
      "accept": [
-      "contesting",
-      "disputing"
+      "suffered"
      ],
-     "explain_fr": "« To challenge a dismissal » = contester un licenciement. Le present continuous convient : la procédure est en cours."
+     "explain_fr": "« To sustain an injury » est la collocation de l'écrit ; à l'oral on dirait « he hurt his foot ». « To have an injury » est plat, « to get a wound » inexact."
     },
     {
-     "text": "The conciliation hearing has been ___ for 14 May.",
-     "answer": "listed",
+     "text": "He was ___ first aid on the spot and then taken to hospital as a precaution.",
+     "answer": "given",
      "accept": [
-      "set",
-      "scheduled",
-      "fixed"
+      "administered"
      ],
-     "explain_fr": "« To list a case for hearing » est le verbe britannique du greffe ; « set » ou « scheduled » sont plus américains. Attention à la préposition : « listed for » + date."
+     "explain_fr": "On « donne » les premiers secours : « to give first aid ». « First aid » est indénombrable, sans article."
     },
     {
-     "text": "In the meantime, please make sure that nobody deletes any documents that could be used as ___.",
-     "answer": "evidence",
+     "text": "The injury is not thought to be serious, although he has been ___ work for ten days.",
+     "answer": "signed off",
      "accept": [
-      "proof"
+      "certified unfit for"
      ],
-     "explain_fr": "« Evidence » est indénombrable : pas d'article indéfini, pas de pluriel."
+     "explain_fr": "« To be signed off (work) » = être arrêté par son médecin (britannique). Ne dites pas « he is stopped » ni « he is arrested »."
     },
     {
-     "text": "Our lawyer's first impression is that we have a reasonably strong ___ on the dismissal itself.",
-     "answer": "case",
+     "text": "The accident was ___ to the health insurance fund this morning, as French law requires.",
+     "answer": "reported",
      "accept": [
-      "position"
+      "notified"
      ],
-     "explain_fr": "« To have a strong case » = avoir un dossier solide. « Dossier » ou « file » ne conviennent pas ici."
+     "explain_fr": "« To report an accident to » : déclarer un accident à. « To declare » est réservé à la douane et aux impôts."
     },
     {
-     "text": "I will ___ you posted as soon as we have her full assessment.",
-     "answer": "keep",
-     "accept": [],
-     "explain_fr": "« To keep someone posted » = tenir quelqu'un au courant. Plus naturel que « I will inform you »."
+     "text": "We have also opened an investigation in order to ___ exactly what happened.",
+     "answer": "establish",
+     "accept": [
+      "determine",
+      "find out"
+     ],
+     "explain_fr": "« To establish what happened » = établir les faits. Registre soutenu ; « to find out » en est l'équivalent courant."
     }
    ],
    "outline": [],
-   "model": "Subject: Employment tribunal claim - Ms Leroy\n\nDear Mr Shaw,\n\nI am writing to let you know that Ms Leroy has brought a claim against the company before the Nanterre employment tribunal. She is challenging her dismissal and claiming damages equivalent to twelve months' salary, together with unpaid bonus.\n\nThe conciliation hearing has been listed for 14 May. Our lawyer will attend on the company's behalf, so there is no need for you to be there in person.\n\nIn the meantime, please make sure that nobody deletes any documents that could be used as evidence, in particular emails and appraisal records.\n\nOur lawyer's first impression is that we have a reasonably strong case on the dismissal itself, although the bonus claim will need a closer look. I will keep you posted as soon as we have her full assessment.\n\nKind regards,\nClaire Morel",
-   "model_us": "Subject: Labor court claim - Ms. Leroy\n\nDear Mr. Shaw,\n\nI am writing to let you know that Ms. Leroy has filed a claim against the company before the Nanterre labor court. She is challenging her termination and claiming damages equivalent to twelve months' salary, together with unpaid bonus.\n\nThe conciliation hearing has been set for May 14. Our attorney will attend on the company's behalf, so there is no need for you to be there in person.\n\nIn the meantime, please make sure that nobody deletes any documents that could be used as evidence, in particular emails and performance reviews.\n\nOur attorney's first impression is that we have a reasonably strong case on the termination itself, although the bonus claim will need a closer look. I will keep you posted as soon as we have her full assessment.\n\nBest regards,\nClaire Morel",
+   "model": "Subject: Accident at the Lyon warehouse - 14 May\n\nDear Ms Whitfield,\n\nI am writing to inform you of an accident which occurred at the Lyon warehouse yesterday afternoon.\n\nAt around 3.30 pm, one of our forklift operators, Mr Karim B., sustained an injury to his left foot when a pallet slipped from the forks. He was given first aid on the spot and then taken to hospital as a precaution. I am pleased to say that the injury is not thought to be serious, although he has been signed off work for ten days.\n\nThe accident was reported to the health insurance fund this morning, as French law requires, and the area has been made safe. We have also opened an investigation in order to establish exactly what happened.\n\nI will send you our findings, together with any corrective action we recommend, by the end of next week.\n\nPlease do not hesitate to contact me should you need any further information in the meantime.\n\nYours sincerely,\n\nClaire Morel",
+   "model_us": "Subject: Accident at the Lyon warehouse - May 14\n\nDear Ms. Whitfield:\n\nI am writing to inform you of an accident that occurred at the Lyon warehouse yesterday afternoon.\n\nAt around 3:30 p.m., one of our forklift operators, Mr. Karim B., sustained an injury to his left foot when a pallet slipped from the forks. He was given first aid on the spot and then taken to the hospital as a precaution. I am pleased to say that the injury is not thought to be serious, although he has been put on medical leave for ten days.\n\nThe accident was reported to the health insurance fund this morning, as French law requires, and the area has been made safe. We have also opened an investigation to establish exactly what happened.\n\nI will send you our findings, along with any corrective action we recommend, by the end of next week.\n\nPlease do not hesitate to contact me if you need any further information in the meantime.\n\nSincerely,\n\nClaire Morel",
    "commentary": [
     {
-     "quote": "I am writing to let you know that",
-     "note_fr": "Ouverture simple et directe, adaptée à une mauvaise nouvelle : on annonce l'objet sans dramatiser. « I inform you that » serait un calque maladroit."
+     "quote": "I am writing to inform you of an accident",
+     "note_fr": "L'objet du message dès la première phrase, sans préambule : c'est ce qu'attend un lecteur britannique pour une mauvaise nouvelle."
     },
     {
-     "quote": "claiming damages equivalent to twelve months' salary",
-     "note_fr": "Notez l'apostrophe du génitif pluriel : « twelve months' salary ». « Damages » est toujours au pluriel dans ce sens."
+     "quote": "At around 3.30 pm",
+     "note_fr": "Les faits dans l'ordre : heure, personne, lésion, circonstances. Notez la ponctuation britannique de l'heure (3.30 pm) ; la version américaine écrit 3:30 p.m."
     },
     {
-     "quote": "Our lawyer will attend on the company's behalf",
-     "note_fr": "« To attend » = être présent à ; « on someone's behalf » = au nom de. Deux tournures indispensables pour parler de représentation en justice."
+     "quote": "I am pleased to say that the injury is not thought to be serious",
+     "note_fr": "Le passif « is not thought to be » évite de s'engager sur un pronostic médical : formule prudente et très idiomatique."
     },
     {
-     "quote": "although the bonus claim will need a closer look",
-     "note_fr": "Réserve formulée avec retenue : on signale un point faible sans alarmer. « To need a closer look » est un euphémisme professionnel courant."
+     "quote": "as French law requires",
+     "note_fr": "Une incise suffit à signaler au lecteur étranger que la déclaration à la caisse est une obligation, non un choix."
     },
     {
-     "quote": "I will keep you posted",
-     "note_fr": "Formule naturelle pour promettre un suivi. À l'écrit très formel, on dirait « I will keep you informed of developments »."
+     "quote": "by the end of next week",
+     "note_fr": "Terminez sur un engagement daté : le lecteur sait quand il aura la suite. « By » = au plus tard."
     }
    ],
    "checklist": [
-    "Have I said clearly who is claiming what, and before which court?",
-    "Is the date of the first hearing stated, with what it means for the reader?",
-    "Have I asked for documents to be preserved?",
-    "Is the lawyer's assessment presented as a first impression, not a promise?",
-    "Is the tone calm and factual?"
+    "Does my first sentence say why I am writing?",
+    "Have I given the facts in order: when, who, what injury, how?",
+    "Have I avoided guessing at causes or blaming anyone?",
+    "Have I said what has already been done and what happens next, with a date?",
+    "Have I used 'sustained', 'reported' and 'signed off' rather than calques from French?"
    ],
    "phrasebank": [
-    "I am writing to let you know that ...",
-    "She is challenging her dismissal and claiming ...",
-    "The hearing has been listed for ...",
-    "In the meantime, please make sure that ...",
-    "Our lawyer's first impression is that ...",
-    "I will keep you posted as soon as ..."
+    "I am writing to inform you of an accident which occurred at...",
+    "He sustained an injury to his... when...",
+    "He was given first aid on the spot and taken to hospital as a precaution.",
+    "The injury is not thought to be serious.",
+    "The area has been made safe.",
+    "We have opened an investigation in order to establish what happened.",
+    "I will send you our findings by..."
    ]
   },
   {
-   "id": "wr-lt-2",
-   "title": "Reporting a judgment to a client",
+   "id": "wr-hs-2",
+   "title": "Welcoming an employee back after a long absence",
    "stage": 1,
    "kind": "email",
-   "brief": "The employment tribunal has just given its decision in the case brought by Mr Faure against your client. Write to the client's HR director, Ms Doyle: the outcome on each claim, the amount, the time limit for appeal and your recommendation.",
-   "brief_fr": "Le conseil de prud'hommes vient de rendre sa décision dans l'affaire opposant M. Faure à votre client. Écrivez à la DRH du client, Mme Doyle : l'issue de chaque demande, le montant, le délai d'appel et votre recommandation.",
+   "brief": "Sophie, a member of your team, is coming back on Monday after three months' sick leave. Write her a warm email proposing a return-to-work meeting and explaining her phased return, without asking anything about her health.",
+   "brief_fr": "Sophie, membre de votre équipe, reprend lundi après trois mois d'arrêt. Écrivez-lui un e-mail chaleureux pour lui proposer un entretien de retour et lui présenter sa reprise progressive, sans la questionner sur sa santé.",
    "gaps": [
     {
-     "text": "The tribunal ___ down its judgment yesterday.",
-     "answer": "handed",
-     "accept": [],
-     "explain_fr": "« To hand down a judgment » = rendre un jugement. Verbe à particule consacré ; « rendered » se rencontre surtout en anglais juridique américain."
-    },
-    {
-     "text": "The judges ___ that the dismissal was without real and serious cause.",
-     "answer": "held",
+     "text": "I was very glad to hear that you are feeling ___ and that you will be back with us on Monday 2 June.",
+     "answer": "better",
      "accept": [
-      "found",
-      "ruled",
-      "decided"
+      "much better"
      ],
-     "explain_fr": "« The court held that... » est la formule usuelle pour rapporter ce que le juge a décidé. Prétérit irrégulier de « to hold »."
+     "explain_fr": "« To feel better » = aller mieux. On évite « you are healed » ou « you are cured », trop médicaux et indiscrets."
     },
     {
-     "text": "The company has been ___ to pay Mr Faure the equivalent of five months' salary.",
-     "answer": "ordered",
-     "accept": [],
-     "explain_fr": "« To be ordered to pay » = être condamné à payer. « Condemned » et « sentenced » sont des faux amis."
-    },
-    {
-     "text": "His claim for unpaid overtime, on the other hand, was ___.",
-     "answer": "dismissed",
+     "text": "The aim is simply to bring you up to ___ on what has changed in the team.",
+     "answer": "speed",
      "accept": [
-      "rejected"
+      "date"
      ],
-     "explain_fr": "« To dismiss a claim » = rejeter une demande, débouter. Le même verbe signifie aussi licencier : le contexte tranche."
+     "explain_fr": "« To bring someone up to speed » = mettre quelqu'un au courant de ce qu'il a manqué. Expression courante et chaleureuse."
     },
     {
-     "text": "We have one month from service of the judgment in which to ___.",
-     "answer": "appeal",
+     "text": "We would like to make your return as ___ as possible.",
+     "answer": "smooth",
      "accept": [
-      "lodge an appeal",
-      "file an appeal"
+      "easy",
+      "comfortable"
      ],
-     "explain_fr": "« To appeal » s'emploie seul ou avec un complément : « to appeal against the judgment » (UK), « to appeal the judgment » (US)."
+     "explain_fr": "« A smooth return » = une reprise en douceur, sans heurts. « Soft » ne convient pas ici."
     },
     {
-     "text": "___ balance, my recommendation would be to pay and close the file.",
-     "answer": "On",
+     "text": "As recommended by the occupational health physician, you will be on a ___ return for the first four weeks.",
+     "answer": "phased",
+     "accept": [
+      "gradual"
+     ],
+     "explain_fr": "« A phased return » : la reprise progressive. « Progressive » existe mais évoque surtout des idées politiques ou une maladie évolutive."
+    },
+    {
+     "text": "You do not need to tell me anything about your health that you would ___ keep private.",
+     "answer": "rather",
+     "accept": [
+      "prefer to"
+     ],
+     "explain_fr": "« Would rather » + base verbale = préférer. Cette phrase rassure : le manager n'a pas à connaître le diagnostic."
+    },
+    {
+     "text": "We are all looking forward to ___ you.",
+     "answer": "seeing",
      "accept": [],
-     "explain_fr": "« On balance » = tout bien pesé. Locution très utile pour introduire une recommandation mesurée."
+     "explain_fr": "« To look forward to » est suivi du gérondif : « to seeing », jamais « to see »."
     }
    ],
    "outline": [],
-   "model": "Subject: Faure - judgment of the employment tribunal\n\nDear Ms Doyle,\n\nThe tribunal handed down its judgment yesterday, and I am afraid the outcome is mixed.\n\nThe judges held that the dismissal was without real and serious cause. The company has been ordered to pay Mr Faure the equivalent of five months' salary, which is in the middle of the statutory range for his length of service, plus a modest contribution towards his legal costs.\n\nHis claim for unpaid overtime, on the other hand, was dismissed. That was by far the larger part of what he was asking for, so the overall result is considerably better than our worst case.\n\nWe have one month from service of the judgment in which to appeal. Mr Faure has the same right, and an appeal by either side would reopen the whole case, including the overtime.\n\nOn balance, my recommendation would be to pay and close the file. I would be glad to talk it through on Thursday if that suits you.\n\nKind regards,\nClaire Morel",
+   "model": "Subject: Your return to work on Monday\n\nDear Sophie,\n\nI was very glad to hear that you are feeling better and that you will be back with us on Monday 2 June.\n\nI would like to suggest that we meet at 10.00 on your first morning for a short return-to-work meeting. There is nothing formal about it. The aim is simply to bring you up to speed on what has changed in the team, and to see how we can make your return as smooth as possible.\n\nAs recommended by the occupational health physician, you will be on a phased return for the first four weeks, working mornings only. We can of course review these arrangements at any time if you feel they are not working for you.\n\nYou do not need to tell me anything about your health that you would rather keep private. What matters to me is knowing what support you need.\n\nIn the meantime, please do not worry about your inbox. Paul has been looking after your files and will hand them back to you gradually.\n\nWe are all looking forward to seeing you.\n\nKind regards,\n\nNathalie",
    "model_us": null,
    "commentary": [
     {
-     "quote": "I am afraid the outcome is mixed",
-     "note_fr": "« I am afraid » adoucit l'annonce ; « mixed » résume en un mot un résultat partagé avant d'entrer dans le détail."
+     "quote": "I was very glad to hear that you are feeling better",
+     "note_fr": "On commence par la personne, pas par l'organisation. « Glad » est plus simple et plus sincère que « delighted » dans ce contexte."
     },
     {
-     "quote": "which is in the middle of the statutory range for his length of service",
-     "note_fr": "Mise en perspective immédiate du montant : le lecteur comprend que la somme n'a rien d'exceptionnel. « Length of service » = ancienneté."
+     "quote": "There is nothing formal about it.",
+     "note_fr": "Phrase courte qui désamorce l'inquiétude : après une longue absence, toute convocation peut sembler menaçante."
     },
     {
-     "quote": "That was by far the larger part of what he was asking for",
-     "note_fr": "« By far » renforce le comparatif. La phrase transforme une demi-défaite en résultat acceptable, sans triomphalisme."
+     "quote": "We can of course review these arrangements at any time",
+     "note_fr": "« Arrangements » = modalités (et non « arrangements » au sens de compromis). « Review » = réexaminer : rien n'est figé."
     },
     {
-     "quote": "an appeal by either side would reopen the whole case",
-     "note_fr": "Point juridique essentiel exprimé en langage courant : l'appel français rejuge l'ensemble du litige. « Either side » = l'une ou l'autre partie."
+     "quote": "What matters to me is knowing what support you need.",
+     "note_fr": "Structure emphatique « What matters is... » : elle recentre l'échange sur les besoins, sans toucher au secret médical."
     },
     {
-     "quote": "On balance, my recommendation would be to pay and close the file.",
-     "note_fr": "Le conditionnel « would be » laisse la décision au client. « To close the file » = clore le dossier."
+     "quote": "will hand them back to you gradually",
+     "note_fr": "« To hand back » = rendre, restituer. L'adverbe « gradually » prolonge l'idée de reprise progressive jusque dans la charge de travail."
     }
    ],
    "checklist": [
-    "Have I given the result claim by claim?",
-    "Is the amount put into perspective for the reader?",
-    "Have I stated the time limit for appeal and from when it runs?",
-    "Is my recommendation clear, and clearly mine?",
-    "Have I avoided 'condemned', 'sentenced' and 'prescription'?"
+    "Does the email open with the person rather than with logistics?",
+    "Have I made it clear that the meeting is informal?",
+    "Have I explained the phased return and said that it can be reviewed?",
+    "Have I avoided any question about the diagnosis?",
+    "Is the tone warm without being over-familiar?"
    ],
    "phrasebank": [
-    "The tribunal handed down its judgment on ...",
-    "The judges held that ...",
-    "The company has been ordered to pay ...",
-    "His claim for ..., on the other hand, was dismissed.",
-    "We have one month in which to appeal.",
-    "On balance, my recommendation would be to ...",
-    "I would be glad to talk it through."
+    "I was very glad to hear that you are feeling better.",
+    "I would like to suggest that we meet on your first morning.",
+    "There is nothing formal about it.",
+    "The aim is simply to bring you up to speed.",
+    "You will be on a phased return for the first four weeks.",
+    "We can review these arrangements at any time.",
+    "What matters to me is knowing what support you need.",
+    "We are all looking forward to seeing you."
    ]
   },
   {
-   "id": "wr-lt-3",
-   "title": "Explaining the French compensation scale to a US client",
+   "id": "wr-hs-3",
+   "title": "Explaining the occupational health physician to a US client",
    "stage": 2,
    "kind": "client note",
-   "brief": "A US client asks how much a French court can award an employee for an unjustified dismissal, and whether there are punitive damages. Write one clear paragraph (130-170 words) explaining the statutory scale and its limits.",
-   "brief_fr": "Un client américain demande combien un juge français peut accorder à un salarié pour un licenciement injustifié et s'il existe des dommages-intérêts punitifs. Rédigez un paragraphe clair (130 à 170 mots) expliquant le barème légal et ses limites.",
+   "brief": "A US client does not understand why an employee returning from four months' sick leave cannot simply come back with a note from her own doctor. Write one paragraph (130-170 words) explaining the role of the médecin du travail and the return-to-work medical examination.",
+   "brief_fr": "Un client américain ne comprend pas pourquoi une salariée de retour après quatre mois d'arrêt ne peut pas simplement reprendre avec un certificat de son médecin. Rédigez un paragraphe (130 à 170 mots) expliquant le rôle du médecin du travail et la visite de reprise.",
    "gaps": [],
    "outline": [
-    "The principle: damages for unjustified dismissal follow a statutory scale",
-    "How it works: a minimum and a maximum in months of salary, rising with length of service",
-    "The judges' discretion within the range",
-    "The benefit for the client: predictability",
-    "Two limits: void dismissals (no cap); other claims come on top",
-    "No punitive damages"
+    "Every employer in France must belong to an occupational health service; key figure: the médecin du travail",
+    "Contrast with a 'company doctor': independent, preventive role, no treatment, no diagnosis disclosed",
+    "What the employer receives: a binding opinion on fitness, with or without adjustments",
+    "Consequence after a long absence: a return-to-work medical examination, arranged by the employer",
+    "Practical advice: book it as soon as the return date is known"
    ],
-   "model": "If a French court finds that a dismissal was without real and serious cause, the damages it can award are governed by a statutory scale, often called the Macron scale. The scale sets a minimum and a maximum, expressed in months of gross salary, and both rise with the employee's length of service. Within that range the judges decide freely, looking at factors such as the employee's age and how long he or she has been out of work. For you, the practical benefit is predictability: for any given employee, we can work out the worst case in advance. There are two caveats, however. First, the scale does not apply where the dismissal is void, for example because it is linked to harassment or discrimination; in those cases there is no cap. Second, it covers only the dismissal itself, so claims for overtime or unpaid bonuses come on top. There are, incidentally, no punitive damages in France.",
+   "model": "In France, every employer must belong to an occupational health service, and the key figure in it is the occupational health physician, known as the médecin du travail. Unlike a company doctor in the American sense, this physician is independent of the employer and has a purely preventive role: he or she does not treat employees, and never tells the company what the diagnosis is. What the company does receive is an opinion on whether the employee is fit for the job, with or without adjustments, and that opinion is binding. This is why, after a long absence, an employee cannot simply resume work on the strength of a note from her own doctor. The employer must first arrange a return-to-work medical examination with the occupational health physician. In practice, I would recommend booking it as soon as you know the return date, since the contract is still regarded as suspended until the examination has taken place.",
    "model_us": null,
    "commentary": [
     {
-     "quote": "are governed by a statutory scale, often called the Macron scale",
-     "note_fr": "On donne d'abord la notion en anglais clair, puis l'étiquette française que le client retrouvera dans la presse. « Statutory » = prévu par la loi."
+     "quote": "the occupational health physician, known as the médecin du travail",
+     "note_fr": "L'équivalent anglais d'abord, le terme français ensuite : le client retrouvera ce dernier dans les documents."
     },
     {
-     "quote": "both rise with the employee's length of service",
-     "note_fr": "« To rise with » exprime la progressivité sans chiffres. On évite de citer des montants que le client appliquerait hors contexte."
+     "quote": "Unlike a company doctor in the American sense",
+     "note_fr": "« Unlike » + nom ouvre le contraste avec la référence du lecteur. Plus léger que « contrary to », qui est souvent un calque."
     },
     {
-     "quote": "the practical benefit is predictability",
-     "note_fr": "Phrase pivot : on passe de la règle à son intérêt pour le lecteur. Le deux-points annonce l'explication."
+     "quote": "What the company does receive is",
+     "note_fr": "Le « does » d'insistance répond à la phrase précédente (ce que l'entreprise ne reçoit pas). Tournure très naturelle pour rééquilibrer."
     },
     {
-     "quote": "There are two caveats, however.",
-     "note_fr": "« Caveat » = réserve, mise en garde. Phrase courte qui prépare le lecteur à une nuance ; « however » en fin de phrase est très idiomatique."
+     "quote": "on the strength of a note from her own doctor",
+     "note_fr": "« On the strength of » = sur la seule foi de. Expression idiomatique utile pour dire qu'un document ne suffit pas."
     },
     {
-     "quote": "come on top",
-     "note_fr": "« To come on top » = s'ajouter. Plus naturel à l'écrit professionnel que « are added in addition »."
-    },
-    {
-     "quote": "There are, incidentally, no punitive damages in France.",
-     "note_fr": "« Incidentally » introduit une précision annexe mais importante pour un Américain. La phrase finale, brève, répond à la seconde question du client."
+     "quote": "In practice, I would recommend booking it",
+     "note_fr": "« To recommend » + gérondif (ou « that you book »), jamais « recommend you to book ». « In practice » annonce le conseil concret."
     }
    ],
    "checklist": [
-    "Does my first sentence state the rule in plain English?",
-    "Have I explained how the scale works without drowning the reader in figures?",
-    "Is the benefit for the client explicit?",
-    "Have I flagged the cases where the cap does not apply?",
-    "Have I answered the question about punitive damages?"
+    "Have I given an English equivalent before the French term?",
+    "Have I drawn the contrast with what my reader knows (the company doctor)?",
+    "Is it clear who arranges the examination and why it matters?",
+    "Does the paragraph end with a practical recommendation?",
+    "Have I linked my sentences without overusing 'moreover' or 'indeed'?"
    ],
    "phrasebank": [
-    "... are governed by a statutory scale.",
-    "The scale sets a minimum and a maximum, expressed in months of salary.",
-    "Within that range, the judges decide freely.",
-    "For you, the practical benefit is ...",
-    "There are two caveats, however.",
-    "... so claims for overtime come on top.",
-    "In those cases there is no cap."
+    "The key figure is..., known as...",
+    "Unlike..., this physician is independent of the employer.",
+    "What the company does receive is an opinion on...",
+    "This is why an employee cannot simply...",
+    "The employer must first arrange...",
+    "In practice, I would recommend..."
    ]
   },
   {
-   "id": "wr-lt-4",
-   "title": "Minutes of a litigation review meeting",
+   "id": "wr-hs-4",
+   "title": "Minuting a near miss at the health and safety committee",
    "stage": 2,
    "kind": "meeting minutes",
-   "brief": "You took the notes at a litigation review meeting between yourself (CM) and the finance director (JW). Write the paragraph of the minutes dealing with the Garnier claim (120-160 words): where the case stands, the timetable, the exposure, and the three actions agreed.",
-   "brief_fr": "Vous avez pris les notes d'une réunion de suivi des contentieux entre vous-même (CM) et le directeur financier (JW). Rédigez le paragraphe du compte rendu consacré au dossier Garnier (120 à 160 mots) : état d'avancement, calendrier, risque financier et les trois actions décidées.",
+   "brief": "You are taking the minutes of the health and safety committee. Write the item (120-160 words) on a near miss in the loading bay: the facts, the initial findings, the employee representative's remark and the actions agreed.",
+   "brief_fr": "Vous rédigez le compte rendu de la commission santé et sécurité. Rédigez le point (120 à 160 mots) consacré à un presqu'accident sur le quai de chargement : faits, premiers constats, remarque du représentant du personnel et actions décidées.",
    "gaps": [],
    "outline": [
-    "Conciliation failed on 6 February; full hearing listed for 18 November",
-    "Dates for written submissions: claimant 30 April, company 15 July",
-    "JW's question on exposure; CM's answer (dismissal capped by the scale; overtime uncapped and poorly documented)",
-    "Agreed: witness statements by 31 March; counsel to sound out the other side on settlement, within a ceiling approved by the CFO; provision for the upper end of the estimate",
-    "Who is responsible"
+    "Facts: 12 September, a pallet fell from a forklift, one metre from a delivery driver, nobody injured",
+    "Initial findings: load not secured; pedestrians and vehicles share the same route",
+    "Remark by Mr Lambert (employee representative): similar incident raised in June, no follow-up",
+    "Chair's response",
+    "Actions agreed, with deadlines and the person responsible"
    ],
-   "model": "3. Garnier claim - next steps\n\nCM reported that the conciliation hearing on 6 February had not produced an agreement and that the full hearing was listed for 18 November. Written submissions are due from the claimant by 30 April and from the company by 15 July. JW asked what the company stood to lose. CM replied that, on counsel's assessment, exposure on the dismissal was limited by the statutory scale, but that the overtime claim was uncapped and poorly documented on the company's side. After discussion, it was agreed that (a) the two line managers would provide witness statements by 31 March; (b) counsel would be asked to sound out the other side on a possible settlement, within a ceiling to be approved by the CFO; and (c) a provision would be made for the upper end of the estimate.\n\nAction: CM, JW.",
+   "model": "3. Near miss in the loading bay (12 September)\n\nThe Health and Safety Manager reported that a pallet had fallen from a forklift truck in the loading bay, landing roughly one metre from a delivery driver. Nobody was injured. The initial investigation points to two contributing factors: the load had not been properly secured, and pedestrians and vehicles share the same route at that point. Mr Lambert, for the employee representatives, noted that a similar incident had been raised in June without any follow-up. The Chair acknowledged this and apologised for the delay. It was agreed that (a) a marked pedestrian walkway would be installed by 15 October; (b) all forklift operators would attend refresher training before the end of the month; and (c) the risk assessment would be updated accordingly.\n\nAction: Health and Safety Manager. Progress to be reviewed at the next meeting.",
    "model_us": null,
    "commentary": [
     {
-     "quote": "CM reported that the conciliation hearing on 6 February had not produced an agreement",
-     "note_fr": "Style du compte rendu : initiales, discours indirect et concordance des temps (« had not produced »). On rapporte, on ne commente pas."
+     "quote": "reported that a pallet had fallen",
+     "note_fr": "Le compte rendu est au discours indirect et au passé : « reported that... had fallen ». Pas de présent de narration."
     },
     {
-     "quote": "Written submissions are due from the claimant by 30 April",
-     "note_fr": "« To be due by » + date : la tournure la plus économique pour une échéance. Le présent se justifie, car le calendrier est toujours valable."
+     "quote": "The initial investigation points to two contributing factors",
+     "note_fr": "« Points to » reste prudent (l'enquête n'est pas terminée) ; « contributing factors » évite de désigner un coupable."
     },
     {
-     "quote": "JW asked what the company stood to lose.",
-     "note_fr": "« To stand to lose » = risquer de perdre. Reformulation élégante de la question « what's our exposure? »."
+     "quote": "noted that a similar incident had been raised in June without any follow-up",
+     "note_fr": "« Noted » est le verbe neutre du rédacteur : il consigne la critique sans la dramatiser ni l'édulcorer."
     },
     {
-     "quote": "uncapped and poorly documented on the company's side",
-     "note_fr": "Deux adjectifs suffisent à dire où est le vrai risque. « Uncapped » = non plafonné ; « poorly documented » évite un jugement sur les personnes."
+     "quote": "It was agreed that",
+     "note_fr": "La formule consacrée pour les décisions. Suivent des propositions parallèles (a), (b), (c), chacune avec « would » et une échéance."
     },
     {
-     "quote": "it was agreed that",
-     "note_fr": "Formule passive consacrée pour consigner une décision collective, suivie d'une énumération (a), (b), (c)."
-    },
-    {
-     "quote": "to sound out the other side on a possible settlement",
-     "note_fr": "« To sound someone out » = sonder quelqu'un. Indique une démarche exploratoire, sans engagement."
+     "quote": "Progress to be reviewed at the next meeting.",
+     "note_fr": "Style télégraphique admis en fin de point : « to be reviewed » = à réexaminer."
     }
    ],
    "checklist": [
-    "Have I used reported speech and initials consistently?",
-    "Are all the dates and deadlines there?",
-    "Is the exposure explained in two clear parts (capped / uncapped)?",
-    "Are the decisions listed separately, each with a deadline or a limit?",
-    "Is it clear who does what?"
+    "Is everything in the past tense and in reported speech?",
+    "Have I separated facts, findings, discussion and decisions?",
+    "Is every action given a deadline and an owner?",
+    "Have I recorded the criticism neutrally?",
+    "Would someone who was not at the meeting understand what was decided?"
    ],
    "phrasebank": [
-    "CM reported that ...",
-    "The full hearing is listed for ...",
-    "Written submissions are due by ...",
-    "JW asked what the company stood to lose.",
-    "On counsel's assessment, ...",
-    "After discussion, it was agreed that ...",
-    "Action: ..."
+    "The Health and Safety Manager reported that...",
+    "Nobody was injured.",
+    "The initial investigation points to...",
+    "Mr X, for the employee representatives, noted that...",
+    "The Chair acknowledged this and...",
+    "It was agreed that...",
+    "Action: ... Progress to be reviewed at the next meeting."
    ]
   },
   {
-   "id": "wr-lt-5",
-   "title": "Advising a client on whether to appeal",
-   "stage": 3,
-   "kind": "client note",
-   "brief": "The employment tribunal has held that Ms Bertrand's dismissal was unjustified and awarded her seven months' salary; her overtime and bonus claims were dismissed. Your client's regional director, David, asks whether the company should appeal. Write a note of about 230 words giving your advice, the reasons, the counter-argument and the deadline.",
-   "brief_fr": "Le conseil de prud'hommes a jugé le licenciement de Mme Bertrand injustifié et lui a accordé sept mois de salaire ; ses demandes d'heures supplémentaires et de bonus ont été rejetées. Le directeur régional de votre client, David, demande s'il faut faire appel. Rédigez une note d'environ 230 mots : votre avis, les raisons, l'argument contraire et le délai.",
-   "gaps": [],
-   "outline": [
-    "The answer first: advise against appealing",
-    "Reminder of what the tribunal decided",
-    "Three drawbacks of an appeal (complete rehearing and cross-appeal; the weakness cannot be cured; time, fees and interest)",
-    "The counter-argument: the award is high and might be reduced",
-    "Recommendation and deadline for instructing counsel",
-    "Offer to discuss"
-   ],
-   "model": "Subject: Bertrand judgment - should we appeal?\n\nDear David,\n\nYou asked for my view on whether to appeal last week's judgment. In short, I would advise against it.\n\nAs a reminder, the tribunal held that Ms Bertrand's dismissal was without real and serious cause and awarded her seven months' salary, together with a contribution towards her legal costs. Her claims for overtime and for bonus arrears were dismissed.\n\nAn appeal would have three drawbacks. First, the court of appeal rehears the whole case, on the facts as well as the law, and Ms Bertrand would almost certainly cross-appeal on the claims she lost. We would therefore be putting at risk the part of the judgment that went our way. Second, the weakness the tribunal identified, namely the absence of any written warning before the dismissal, cannot be cured on appeal. Third, an appeal is likely to take a further eighteen months to two years, with legal fees to match, and interest would continue to run on the award.\n\nOn the other hand, the amount awarded is close to the top of the statutory scale, and there is a reasonable chance that the court of appeal would reduce it. In my view, that prospect does not outweigh the risks.\n\nMy recommendation is therefore to comply with the judgment. If you would nevertheless prefer to explore an appeal, we must instruct counsel by 12 June, as the one-month time limit is strict.\n\nI am of course happy to discuss.\n\nKind regards,\nClaire",
-   "model_us": "Subject: Bertrand judgment - should we appeal?\n\nDear David,\n\nYou asked for my view on whether to appeal last week's judgment. In short, I would advise against it.\n\nAs a reminder, the labor court held that Ms. Bertrand's termination was without real and serious cause and awarded her seven months' salary, together with a contribution toward her legal fees. Her claims for overtime and for unpaid bonus were dismissed.\n\nAn appeal would have three drawbacks. First, the court of appeals rehears the whole case, on the facts as well as the law, and Ms. Bertrand would almost certainly cross-appeal on the claims she lost. We would therefore be putting at risk the part of the judgment that went our way. Second, the weakness the court identified, namely the absence of any written warning before the termination, cannot be cured on appeal. Third, an appeal is likely to take another eighteen months to two years, with legal fees to match, and interest would continue to run on the award.\n\nOn the other hand, the amount awarded is close to the top of the statutory scale, and there is a reasonable chance that the court of appeals would reduce it. In my view, that prospect does not outweigh the risks.\n\nMy recommendation is therefore to comply with the judgment. If you would nevertheless prefer to explore an appeal, we must retain counsel by June 12, as the one-month deadline is strict.\n\nI am of course happy to discuss.\n\nBest regards,\nClaire",
-   "commentary": [
-    {
-     "quote": "In short, I would advise against it.",
-     "note_fr": "La réponse vient dès la deuxième phrase : un décideur anglo-saxon veut la conclusion d'abord, le raisonnement ensuite. « To advise against » = déconseiller."
-    },
-    {
-     "quote": "An appeal would have three drawbacks.",
-     "note_fr": "Annonce du plan en une phrase courte, puis « First », « Second », « Third » : la structure remplace les connecteurs lourds."
-    },
-    {
-     "quote": "the part of the judgment that went our way",
-     "note_fr": "« To go someone's way » = tourner à l'avantage de quelqu'un. Tournure idiomatique qui évite de répéter « dismissed »."
-    },
-    {
-     "quote": "namely the absence of any written warning before the dismissal",
-     "note_fr": "« Namely » (à savoir) introduit la précision. Le fait est énoncé sans chercher de responsable."
-    },
-    {
-     "quote": "with legal fees to match",
-     "note_fr": "« To match » = à l'avenant. Ellipse élégante pour dire que les honoraires seront proportionnels à la durée."
-    },
-    {
-     "quote": "In my view, that prospect does not outweigh the risks.",
-     "note_fr": "On reconnaît l'argument contraire, puis on tranche. « To outweigh » = l'emporter sur : le verbe clé de toute analyse de risque."
-    }
-   ],
-   "checklist": [
-    "Is my advice stated in the first three lines?",
-    "Have I reminded the reader of the decision in two sentences at most?",
-    "Are my reasons numbered and each limited to one idea?",
-    "Have I dealt fairly with the argument for appealing?",
-    "Is the deadline, and what must happen before it, unmistakable?",
-    "Would a non-lawyer understand every sentence?"
-   ],
-   "phrasebank": [
-    "You asked for my view on whether to ...",
-    "In short, I would advise against it.",
-    "As a reminder, the tribunal held that ...",
-    "An appeal would have three drawbacks.",
-    "On the other hand, ...",
-    "In my view, that prospect does not outweigh the risks.",
-    "My recommendation is therefore to ...",
-    "I am of course happy to discuss."
-   ]
-  },
-  {
-   "id": "wr-lt-6",
-   "title": "A settlement offer before the hearing",
+   "id": "wr-hs-5",
+   "title": "Offering an alternative role after a finding of unfitness",
    "stage": 3,
    "kind": "formal letter",
-   "brief": "You are acting as interim HR Director of Halden Logistics Ltd, the British subsidiary of your client. A former employee, Mr Daniel Hughes, has brought an unfair dismissal claim before the employment tribunal; the hearing is on 9 October. Write to his solicitors proposing a settlement: the company's position, the offer (£14,000 and an agreed reference), what is expected in return, and the date until which the offer stands.",
-   "brief_fr": "Vous assurez l'intérim de la direction RH de Halden Logistics Ltd, filiale britannique de votre client. Un ancien salarié, M. Daniel Hughes, a saisi l'employment tribunal pour licenciement abusif ; l'audience est fixée au 9 octobre. Écrivez à ses avocats pour proposer un accord : position de l'entreprise, offre (14 000 livres et une lettre de référence convenue), contreparties attendues et date limite de validité de l'offre.",
+   "brief": "Mr Dubois, a warehouse operative, has been declared unfit for his position. Write the letter (200-250 words) offering him the position of Stock Control Administrator: recall the physician's findings, the search carried out, the features of the role and the deadline for his answer.",
+   "brief_fr": "M. Dubois, magasinier, a été déclaré inapte à son poste. Rédigez la lettre (200 à 250 mots) lui proposant le poste de gestionnaire de stocks : rappel des conclusions du médecin du travail, recherche effectuée, caractéristiques du poste et délai de réponse.",
    "gaps": [],
    "outline": [
-    "Heading: 'Without prejudice', the parties and the claim",
-    "Reference to the claim and the hearing date",
-    "The Company's position on the merits; why it is nevertheless making an offer; no admission of liability",
-    "The offer and what is expected in return",
-    "Deadline for acceptance and how the settlement would be recorded",
-    "Courteous close"
+    "Heading and reminder of the finding of unfitness and of the physician's written findings",
+    "The search carried out and the consultation of the works council",
+    "The offer: job title, site, duties, hours, pay",
+    "Training and confirmation that the role is compatible with the physician's recommendations",
+    "Deadline for a written answer; offer to discuss or to visit the workstation"
    ],
-   "model": "WITHOUT PREJUDICE\n\nDear Sir or Madam,\n\nMr Daniel Hughes v Halden Logistics Ltd - Employment Tribunal claim\n\nWe write further to your client's claim for unfair dismissal, which is listed for a full hearing on 9 October.\n\nThe Company's position remains that Mr Hughes was fairly dismissed following a proper procedure, and it is confident of defending the claim. It recognises, however, that a contested hearing would involve cost, delay and uncertainty for both parties. It is on that basis alone, and without any admission of liability, that we put forward the following proposal.\n\nThe Company is prepared to pay Mr Hughes the sum of £14,000 in full and final settlement of all claims arising from his employment or its termination. It would also provide an agreed reference. In return, Mr Hughes would withdraw his claim, and the parties would undertake to keep the terms of the settlement confidential.\n\nThis offer remains open for acceptance until 4.00 pm on Friday 19 September, after which it will be withdrawn without further notice. Should it be accepted, we would propose that the terms be recorded through Acas in the usual way.\n\nWe look forward to hearing from you.\n\nYours faithfully,\n\nClaire Morel\nInterim HR Director\nHalden Logistics Ltd",
-   "model_us": "CONFIDENTIAL SETTLEMENT COMMUNICATION\n\nDear Ms. Alvarez:\n\nRe: Daniel Hughes v. Halden Logistics, Inc.\n\nI am writing regarding your client's wrongful termination claim, which is set for trial on October 9.\n\nThe Company's position remains that Mr. Hughes was lawfully terminated following a proper process, and it is confident it will prevail. It recognizes, however, that a trial would involve cost, delay and uncertainty for both parties. It is on that basis alone, and without any admission of liability, that we make the following proposal.\n\nThe Company is prepared to pay Mr. Hughes the sum of $18,000 in full and final settlement of all claims arising from his employment or its termination. It would also provide a neutral reference. In return, Mr. Hughes would dismiss his claims with prejudice, and the parties would agree to keep the terms of the settlement confidential.\n\nThis offer will remain open until 5:00 p.m. on Friday, September 19, after which it will be withdrawn without further notice. If it is accepted, we will prepare a written settlement agreement and release for signature.\n\nI look forward to hearing from you.\n\nSincerely,\n\nClaire Morel\nInterim HR Director\nHalden Logistics, Inc.",
+   "model": "Dear Mr Dubois,\n\nProposal of an alternative position following the finding of medical unfitness\n\nFollowing your examination on 6 October, the occupational health physician declared you unfit for your position as warehouse operative. In his written findings, he indicated that you could hold a sedentary position involving no carrying of loads.\n\nIn accordance with our duty to seek redeployment, we have carried out a search for suitable positions within the company and the other French entities of the group. The works council was consulted on the outcome of that search on 20 October.\n\nWe are now able to offer you the position of Stock Control Administrator at our Lyon site. The main features of this position are as follows:\n\n- duties: monitoring stock levels and preparing order documents, as described in the attached job description;\n- working hours: 35 hours per week, Monday to Friday;\n- remuneration: unchanged.\n\nTraining in the stock management software would be provided during your first month. The occupational health physician has confirmed that this position is compatible with his recommendations.\n\nWe would be grateful if you could let us know in writing by 7 November whether you accept this proposal. Should you wish to discuss it or to visit the workstation beforehand, please contact me directly.\n\nYours sincerely,\n\nClaire Morel\nHuman Resources Manager",
+   "model_us": null,
    "commentary": [
     {
-     "quote": "WITHOUT PREJUDICE",
-     "note_fr": "Mention britannique indispensable sur toute offre transactionnelle : elle interdit en principe de produire la lettre devant le tribunal. Aucun rapport avec « préjudice » ; l'usage américain préfère une mention du type « Confidential settlement communication »."
+     "quote": "declared you unfit for your position as warehouse operative",
+     "note_fr": "« Unfit for your position » : l'inaptitude vise le poste, non la personne. Évitez « incapable » ou « unable », qui sonnent comme un jugement."
     },
     {
-     "quote": "We write further to your client's claim",
-     "note_fr": "« Further to » = suite à. On écrit aux avocats (« solicitors ») de l'adversaire en parlant de « your client », jamais directement au salarié représenté."
+     "quote": "In accordance with our duty to seek redeployment",
+     "note_fr": "« In accordance with » introduit le fondement de la démarche. La lettre servira de preuve : elle doit montrer que la recherche a été faite."
     },
     {
-     "quote": "and it is confident of defending the claim",
-     "note_fr": "On réaffirme sa position avant de proposer : une offre ne doit pas se lire comme un aveu de faiblesse. « Confident of » + gérondif."
+     "quote": "We are now able to offer you the position of",
+     "note_fr": "« We are now able to » : plus chaleureux que « we hereby propose ». Notez « to offer someone a position », sans préposition."
     },
     {
-     "quote": "without any admission of liability",
-     "note_fr": "Formule consacrée : l'offre ne vaut pas reconnaissance de responsabilité. « Liability » (responsabilité juridique) et non « responsibility »."
+     "quote": "The main features of this position are as follows:",
+     "note_fr": "« As follows » suivi de deux points annonce une liste. Jamais « as following » ni « are the followings »."
     },
     {
-     "quote": "in full and final settlement of all claims arising from his employment or its termination",
-     "note_fr": "Doublet juridique classique (« full and final ») qui définit l'étendue de la renonciation attendue en contrepartie."
+     "quote": "We would be grateful if you could let us know in writing by 7 November",
+     "note_fr": "Demande polie + forme de la réponse + échéance (« by » = au plus tard le) : les trois éléments tiennent en une phrase."
     },
     {
-     "quote": "after which it will be withdrawn without further notice",
-     "note_fr": "Une offre a une date d'expiration : la formule crée une échéance sans menace. « Without further notice » = sans autre avis."
+     "quote": "Should you wish to discuss it or to visit the workstation beforehand",
+     "note_fr": "Inversion « Should you wish » = « If you wish », registre soutenu. « Beforehand » = au préalable."
     }
    ],
    "checklist": [
-    "Is the letter headed so that it cannot be used against the Company at the hearing?",
-    "Have I restated the Company's position before making the offer?",
-    "Is the offer precise (amount, reference) and is what we expect in return equally precise?",
-    "Is there a clear deadline for acceptance?",
-    "Is the tone firm, courteous and free of any criticism of the claimant?",
-    "Have I addressed the solicitors rather than the claimant himself?"
+    "Have I recalled the physician's findings accurately and neutrally?",
+    "Does the letter show that a genuine search was carried out and that the works council was consulted?",
+    "Is the role described precisely enough for the employee to decide?",
+    "Have I given a clear deadline and said how to reply?",
+    "Is the tone respectful, with no suggestion that the employee is at fault?"
    ],
    "phrasebank": [
-    "We write further to your client's claim for ...",
-    "The Company's position remains that ...",
-    "It recognises, however, that ...",
-    "without any admission of liability",
-    "The Company is prepared to pay the sum of ... in full and final settlement of all claims.",
-    "In return, your client would ...",
-    "This offer remains open for acceptance until ...",
-    "We look forward to hearing from you."
+    "Following your examination on..., the occupational health physician declared you unfit for your position as...",
+    "In accordance with our duty to seek redeployment, we have carried out a search for...",
+    "The works council was consulted on...",
+    "We are now able to offer you the position of...",
+    "The main features of this position are as follows:",
+    "This position is compatible with the physician's recommendations.",
+    "We would be grateful if you could let us know in writing by...",
+    "Should you wish to discuss it, please contact me directly."
+   ]
+  },
+  {
+   "id": "wr-hs-6",
+   "title": "Reporting on a labour inspector's visit",
+   "stage": 3,
+   "kind": "email",
+   "brief": "The labour inspector made an unannounced visit to your client's Nantes site yesterday. Write to David, the group's health and safety director in Manchester (200-250 words): how the visit went, the three points raised, what to expect next and your proposed action plan.",
+   "brief_fr": "L'inspectrice du travail a effectué hier un contrôle inopiné sur le site nantais de votre client. Écrivez à David, directeur santé-sécurité du groupe à Manchester (200 à 250 mots) : déroulement de la visite, les trois points relevés, la suite prévisible et votre plan d'action.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the email",
+    "How the visit went: length, what the inspector looked at, atmosphere",
+    "The three points raised (risk assessment not updated, hearing protection, press guard)",
+    "What the inspector said would happen next",
+    "Action already taken and proposed action plan",
+    "Next step and offer of a call"
+   ],
+   "model": "Subject: Labour inspectorate visit, Nantes site - summary and action plan\n\nDear David,\n\nAs promised, here is a summary of yesterday's unannounced inspection of the Nantes site.\n\nThe labour inspector spent around three hours on site. She toured the workshop, spoke to several operators and asked to see the risk assessment document, the accident records and the training files. The visit was courteous and the site manager cooperated fully.\n\nThree points were raised. First, the risk assessment document has not been updated since the new packaging line was installed. Second, two operators were not wearing hearing protection in a designated noise area. Third, the guard on one of the presses had been removed.\n\nThe inspector told us that she would confirm her observations in writing and that we should expect a formal notice to comply in respect of the press. No penalty has been mentioned at this stage.\n\nWe have already taken the press out of service. In addition, I would suggest the following:\n\n- update the risk assessment by the end of the month, with the works council's involvement;\n- hold a toolbox talk on hearing protection this week;\n- review machine guarding across the site.\n\nI will forward the inspector's letter as soon as it arrives. In the meantime, I would be happy to go through any of this on a call.\n\nKind regards,\n\nClaire",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "As promised, here is a summary of yesterday's unannounced inspection",
+     "note_fr": "Entrée en matière directe. « Unannounced inspection » et non « control » : « to control » ne veut pas dire vérifier."
+    },
+    {
+     "quote": "Three points were raised. First,",
+     "note_fr": "On annonce le nombre, puis « First / Second / Third » : le lecteur pressé repère immédiatement la structure. Le passif évite de répéter « the inspector »."
+    },
+    {
+     "quote": "we should expect a formal notice to comply in respect of the press",
+     "note_fr": "« Formal notice to comply » rend la mise en demeure sans recourir à un terme britannique qui aurait un sens technique différent. « In respect of » = concernant (soutenu)."
+    },
+    {
+     "quote": "No penalty has been mentioned at this stage.",
+     "note_fr": "« At this stage » : précision honnête, qui rassure sans rien promettre."
+    },
+    {
+     "quote": "In addition, I would suggest the following:",
+     "note_fr": "« I would suggest » adoucit la recommandation ; la liste à puces à l'infinitif rend le plan d'action lisible d'un coup d'œil."
+    },
+    {
+     "quote": "I would be happy to go through any of this on a call",
+     "note_fr": "« To go through » = passer en revue. Clôture naturelle entre collègues, moins raide que « do not hesitate to contact me »."
+    }
+   ],
+   "checklist": [
+    "Can the reader tell within two lines what happened and how serious it is?",
+    "Are the inspector's three points stated factually, without excuses?",
+    "Have I distinguished what has been done from what I propose?",
+    "Does each action have a deadline or a time frame?",
+    "Have I avoided 'control' for 'inspection' and untranslated French acronyms?"
+   ],
+   "phrasebank": [
+    "As promised, here is a summary of...",
+    "The inspector asked to see...",
+    "Three points were raised. First, ... Second, ... Third, ...",
+    "We should expect a formal notice to comply in respect of...",
+    "No penalty has been mentioned at this stage.",
+    "We have already taken... out of service.",
+    "In addition, I would suggest the following:",
+    "I would be happy to go through any of this on a call."
    ]
   }
  ],
@@ -1092,11 +1078,11 @@
      "q": "Why does the incident not have to be reported to the authorities?",
      "options": [
       "Because it happened in France",
-      "Because nobody was injured",
       "Because the driver was not an employee",
+      "Because nobody was injured",
       "Because Graham decided against it"
      ],
-     "answer": 1,
+     "answer": 2,
      "explain_fr": "« Not to the authorities, no, since nobody was injured » : sans lésion, pas de déclaration d'accident du travail."
     },
     {
@@ -1195,12 +1181,12 @@
     {
      "q": "Who has to report a workplace accident in France?",
      "options": [
-      "The employee, to a private insurer",
       "The employer, to the health insurance fund",
+      "The employee, to a private insurer",
       "The doctor, to the labour inspector",
       "The insurance carrier, to the employer"
      ],
-     "answer": 1,
+     "answer": 0,
      "explain_fr": "« It's the employer who has to report the accident to the health insurance fund » : la déclaration incombe à l'employeur."
     },
     {
