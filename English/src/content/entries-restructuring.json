@@ -1,0 +1,3826 @@
+[
+ {
+  "id": "rs-001",
+  "level": 1,
+  "fr": "licenciement pour motif économique",
+  "term": {
+   "uk": "redundancy",
+   "us": "layoff"
+  },
+  "ipa": {
+   "uk": "/rɪˈdʌndənsi/",
+   "us": "/ˈleɪɔːf/"
+  },
+  "def": "The dismissal of an employee for a reason unrelated to the individual, because the job itself is disappearing or changing.",
+  "registers": {
+   "formal": {
+    "uk": "dismissal on economic grounds",
+    "us": "dismissal on economic grounds",
+    "ex": "The Company is contemplating the [[dismissal on economic grounds]] of forty-two employees at the Lyon site."
+   },
+   "everyday": {
+    "uk": "redundancy",
+    "us": "layoff",
+    "ex": "Nobody wants [[redundancies]], but the plant has been losing money for three years.",
+    "ex_us": "Nobody wants [[layoffs]], but the plant has been losing money for three years."
+   },
+   "informal": {
+    "uk": "to be let go",
+    "us": "to be let go",
+    "ex": "About forty people are going to [[be let go]] before the summer."
+   }
+  },
+  "collocations": [
+   "to face redundancy",
+   "a wave of redundancies",
+   "to announce layoffs",
+   "dismissal for economic reasons"
+  ],
+  "note_fr": "Ni « economic licensing » ni « economical dismissal ». Au Royaume-Uni on parle de « redundancy », aux États-Unis de « layoff » (qui peut y être temporaire). Devant un siège étranger, « dismissal on economic grounds » reste la traduction la plus fidèle de la notion française.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-002",
+  "level": 1,
+  "fr": "motif économique",
+  "term": {
+   "uk": "economic grounds",
+   "us": "economic grounds"
+  },
+  "ipa": {
+   "uk": "/ˌiːkəˈnɒmɪk ˈɡraʊndz/",
+   "us": "/ˌekəˈnɑːmɪk ˈɡraʊndz/"
+  },
+  "def": "The business reasons that the law accepts as justifying a redundancy.",
+  "registers": {
+   "formal": {
+    "uk": "economic grounds",
+    "us": "economic grounds",
+    "ex": "The [[economic grounds]] relied upon are set out in section 2 of the information document."
+   },
+   "everyday": {
+    "uk": "the business case",
+    "us": "the business case",
+    "ex": "Head office needs to understand that [[the business case]] will be picked apart by the works council's expert."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rely on economic grounds",
+   "to justify the dismissals",
+   "a genuine economic reason",
+   "to make the business case"
+  ],
+  "note_fr": "« Economic » (relatif à l'économie) et non « economical » (qui fait faire des économies). En France le motif est défini par la loi et contrôlé par le juge ; au Royaume-Uni il suffit d'une « genuine redundancy situation » ; aux États-Unis l'employeur n'a en principe rien à justifier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-003",
+  "level": 2,
+  "fr": "difficultés économiques",
+  "term": {
+   "uk": "economic difficulties",
+   "us": "economic difficulties"
+  },
+  "ipa": {
+   "uk": "/ˌiːkəˈnɒmɪk ˈdɪfɪk(ə)ltiz/",
+   "us": "/ˌekəˈnɑːmɪk ˈdɪfɪkəltiz/"
+  },
+  "def": "A significant downturn in indicators such as orders, sales, operating results or cash, which may justify redundancies.",
+  "registers": {
+   "formal": {
+    "uk": "economic difficulties",
+    "us": "economic difficulties",
+    "ex": "The [[economic difficulties]] are evidenced by a sustained fall in orders and turnover.",
+    "ex_us": "The [[economic difficulties]] are evidenced by a sustained fall in orders and revenue."
+   },
+   "everyday": {
+    "uk": "to be in financial trouble",
+    "us": "to be in financial trouble",
+    "ex": "The French business [[is in financial trouble]], but the division as a whole isn't - and that's our weak point."
+   },
+   "informal": {
+    "uk": "to be in the red",
+    "us": "to be in the red",
+    "ex": "We've [[been in the red]] for six quarters running."
+   }
+  },
+  "collocations": [
+   "a sustained fall in orders",
+   "operating losses",
+   "a deterioration in cash flow",
+   "a downturn in the market"
+  ],
+  "note_fr": "Dans un groupe, les difficultés s'apprécient au niveau du secteur d'activité commun aux sociétés du groupe établies en France, pas de la seule filiale : expliquez-le au siège. Attention : « turnover » = chiffre d'affaires au Royaume-Uni, mais rotation du personnel aux États-Unis, où l'on dit « revenue ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-004",
+  "level": 3,
+  "fr": "réorganisation nécessaire à la sauvegarde de la compétitivité",
+  "term": {
+   "uk": "safeguarding competitiveness",
+   "us": "safeguarding competitiveness"
+  },
+  "ipa": {
+   "uk": "/ˈseɪfɡɑːdɪŋ kəmˌpetəˈtɪvnəs/",
+   "us": "/ˈseɪfɡɑːrdɪŋ kəmˌpetəˈtɪvnəs/"
+  },
+  "def": "A French ground for redundancy allowing a company that is not yet in difficulty to reorganise in order to protect its competitive position.",
+  "registers": {
+   "formal": {
+    "uk": "a reorganisation necessary to safeguard competitiveness",
+    "us": "a reorganization necessary to safeguard competitiveness",
+    "ex": "The project constitutes [[a reorganisation necessary to safeguard competitiveness]] in the business sector concerned.",
+    "ex_us": "The project constitutes [[a reorganization necessary to safeguard competitiveness]] in the business sector concerned."
+   },
+   "everyday": {
+    "uk": "to stay competitive",
+    "us": "to stay competitive",
+    "ex": "We're not in trouble yet; we're restructuring [[to stay competitive]], and French law accepts that as a ground."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a threat to competitiveness",
+   "to anticipate foreseeable difficulties",
+   "to lose market share",
+   "the competitive position of the business"
+  ],
+  "note_fr": "Il faut démontrer une menace réelle sur la compétitivité : améliorer la marge ou « create shareholder value » ne suffit pas, ce qui surprend souvent un siège américain. Évitez « to safeguard the competitivity » : le nom est « competitiveness ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law, a reorganisation necessary to safeguard the competitiveness of the company, or of the group's business sector, is a valid economic ground for dismissal even in the absence of current economic difficulties.",
+   "spoken": "In France you can restructure before you're actually losing money, but you have to show a real threat to your competitive position - wanting better margins isn't enough."
+  }
+ },
+ {
+  "id": "rs-005",
+  "level": 2,
+  "fr": "mutations technologiques",
+  "term": {
+   "uk": "technological change",
+   "us": "technological change"
+  },
+  "ipa": {
+   "uk": "/ˌteknəˈlɒdʒɪk(ə)l ˈtʃeɪndʒ/",
+   "us": "/ˌteknəˈlɑːdʒɪk(ə)l ˈtʃeɪndʒ/"
+  },
+  "def": "The introduction of new technology that makes certain jobs disappear or alters them substantially.",
+  "registers": {
+   "formal": {
+    "uk": "technological change",
+    "us": "technological change",
+    "ex": "The elimination of these positions results from [[technological change]], namely the automation of the packaging line."
+   },
+   "everyday": {
+    "uk": "new technology",
+    "us": "new technology",
+    "ex": "It's [[new technology]] that's driving this, not a drop in sales."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the automation of a line",
+   "to make a job obsolete",
+   "to adapt employees to their changing jobs",
+   "to be driven by technology"
+  ],
+  "note_fr": "« Mutation » est un faux ami : en anglais le mot évoque la génétique. Dites « technological change ». Rappelez que ce motif ne dispense pas l'employeur de son obligation d'adaptation et de formation (« the duty to adapt employees to changes in their jobs »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-006",
+  "level": 2,
+  "fr": "cessation d'activité",
+  "term": {
+   "uk": "cessation of business",
+   "us": "cessation of business"
+  },
+  "ipa": {
+   "uk": "/seˈseɪʃ(ə)n əv ˈbɪznəs/",
+   "us": "/seˈseɪʃ(ə)n əv ˈbɪznəs/"
+  },
+  "def": "The complete and permanent end of a company's operations.",
+  "registers": {
+   "formal": {
+    "uk": "the complete and permanent cessation of the business",
+    "us": "the complete and permanent cessation of the business",
+    "ex": "The dismissals result from [[the complete and permanent cessation of the business]] of the Company."
+   },
+   "everyday": {
+    "uk": "to close down",
+    "us": "to close down",
+    "ex": "The company isn't being sold; it's [[closing down]] for good."
+   },
+   "informal": {
+    "uk": "to pull the plug",
+    "us": "to pull the plug",
+    "ex": "The shareholders have decided to [[pull the plug]] on the French subsidiary."
+   }
+  },
+  "collocations": [
+   "to cease trading",
+   "to wind up a company",
+   "to close for good",
+   "to go out of business"
+  ],
+  "note_fr": "Seule la cessation totale et définitive de l'activité de l'entreprise constitue un motif autonome : la fermeture d'un seul site d'une société qui continue doit reposer sur un autre motif. « To wind up » /waɪnd/ = liquider ; « to wind down » = réduire progressivement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-007",
+  "level": 1,
+  "fr": "licenciement collectif",
+  "term": {
+   "uk": "collective redundancy",
+   "us": "mass layoff"
+  },
+  "ipa": {
+   "uk": "/kəˈlektɪv rɪˈdʌndənsi/",
+   "us": "/ˌmæs ˈleɪɔːf/"
+  },
+  "def": "The dismissal of a number of employees over a short period for reasons unrelated to the individuals.",
+  "registers": {
+   "formal": {
+    "uk": "collective redundancies",
+    "us": "a mass layoff",
+    "ex": "The rules on [[collective redundancies]] apply as soon as ten or more dismissals are contemplated within thirty days.",
+    "ex_us": "The French rules on [[a mass layoff]] apply as soon as ten or more dismissals are contemplated within thirty days."
+   },
+   "everyday": {
+    "uk": "large-scale redundancies",
+    "us": "large-scale layoffs",
+    "ex": "We haven't had [[large-scale redundancies]] in France since the Rouen plant closed.",
+    "ex_us": "We haven't had [[large-scale layoffs]] in France since the Rouen plant closed."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a collective redundancy procedure",
+   "to trigger collective consultation",
+   "collective dismissals",
+   "a large-scale redundancy exercise"
+  ],
+  "note_fr": "« Collective dismissals » est le terme des textes européens, compris partout. Aux États-Unis, « mass layoff » a une définition légale précise (loi WARN) : ne l'employez pas comme simple synonyme de « gros plan ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-008",
+  "level": 1,
+  "fr": "seuil (de déclenchement)",
+  "term": {
+   "uk": "threshold",
+   "us": "threshold"
+  },
+  "ipa": {
+   "uk": "/ˈθreʃhəʊld/",
+   "us": "/ˈθreʃhoʊld/"
+  },
+  "def": "The number of employees or dismissals above which a legal obligation applies.",
+  "registers": {
+   "formal": {
+    "uk": "to meet the threshold",
+    "us": "to meet the threshold",
+    "ex": "Where the number of contemplated dismissals [[meets the threshold]], a job protection plan must be drawn up."
+   },
+   "everyday": {
+    "uk": "to hit the threshold",
+    "us": "to hit the threshold",
+    "ex": "If we [[hit the threshold]] of ten in thirty days, we're in full redundancy-plan territory."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to trigger an obligation",
+   "to fall below the threshold",
+   "a headcount threshold",
+   "to stay under the threshold"
+  ],
+  "note_fr": "Les seuils diffèrent : en France, au moins dix licenciements sur trente jours dans une entreprise d'au moins cinquante salariés ; au Royaume-Uni, vingt dans un même établissement sur quatre-vingt-dix jours ; aux États-Unis, les seuils propres à la loi WARN. Étaler artificiellement les départs pour rester sous le seuil est neutralisé par la loi française.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-009",
+  "level": 1,
+  "fr": "plan de sauvegarde de l'emploi (PSE)",
+  "term": {
+   "uk": "job protection plan",
+   "us": "job protection plan"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb prəˌtekʃ(ə)n plæn/",
+   "us": "/ˈdʒɑːb prəˌtekʃ(ə)n plæn/"
+  },
+  "def": "The package of measures a French employer must put in place before a large collective redundancy, to avoid dismissals, limit their number and help those who lose their jobs.",
+  "registers": {
+   "formal": {
+    "uk": "job protection plan",
+    "us": "job protection plan",
+    "ex": "The [[job protection plan]] sets out the measures intended to avoid dismissals, to limit their number and to facilitate redeployment."
+   },
+   "everyday": {
+    "uk": "social plan",
+    "us": "social plan",
+    "ex": "The [[social plan]] is going to cost more than the board expects."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to draw up a job protection plan",
+   "to negotiate the plan",
+   "the measures of the plan",
+   "to have the plan approved"
+  ],
+  "note_fr": "Aucune traduction officielle : « job protection plan », « employment protection plan » ou « redundancy plan » conviennent ; « social plan » est compris en Europe mais déroute un Américain (« social » = mondain, sociétal). Glosez à la première occurrence, puis dites « the PSE » ou « the plan ».",
+  "french_concept": true,
+  "explain": {
+   "written": "A job protection plan (plan de sauvegarde de l'emploi, or PSE) is the set of measures that a French company with at least fifty employees must draw up, consult on and have cleared by the labour administration before dismissing ten or more employees on economic grounds within thirty days.",
+   "spoken": "The PSE is the French redundancy plan: before any large layoff you have to put together a package - redeployment, training, severance - consult the works council on it and get it signed off by the labour authority."
+  }
+ },
+ {
+  "id": "rs-010",
+  "level": 1,
+  "fr": "restructuration",
+  "term": {
+   "uk": "restructuring",
+   "us": "restructuring"
+  },
+  "ipa": {
+   "uk": "/ˌriːˈstrʌktʃərɪŋ/",
+   "us": "/ˌriːˈstrʌktʃərɪŋ/"
+  },
+  "def": "A significant change to the way a company is organised, often involving job losses.",
+  "registers": {
+   "formal": {
+    "uk": "restructuring",
+    "us": "restructuring",
+    "ex": "The proposed [[restructuring]] would affect three of the Company's five French sites."
+   },
+   "everyday": {
+    "uk": "to restructure",
+    "us": "to restructure",
+    "ex": "They [[restructured]] the sales force two years ago, and now it's happening again."
+   },
+   "informal": {
+    "uk": "a shake-up",
+    "us": "a shake-up",
+    "ex": "There's another [[shake-up]] coming in logistics."
+   }
+  },
+  "collocations": [
+   "a restructuring plan",
+   "to undergo restructuring",
+   "restructuring costs",
+   "a major overhaul"
+  ],
+  "note_fr": "« Restructuration » n'est pas un mot anglais courant : dites « restructuring », qui est dénombrable (« a restructuring », « two restructurings »). « Shake-up » appartient au registre de la presse et de la conversation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-011",
+  "level": 1,
+  "fr": "réorganisation",
+  "term": {
+   "uk": "reorganisation",
+   "us": "reorganization"
+  },
+  "ipa": {
+   "uk": "/riːˌɔːɡənaɪˈzeɪʃ(ə)n/",
+   "us": "/riːˌɔːrɡənəˈzeɪʃ(ə)n/"
+  },
+  "def": "A change in the structure of a company or department and in the way work is divided up.",
+  "registers": {
+   "formal": {
+    "uk": "reorganisation",
+    "us": "reorganization",
+    "ex": "The [[reorganisation]] involves merging the two customer service centres.",
+    "ex_us": "The [[reorganization]] involves merging the two customer service centers."
+   },
+   "everyday": {
+    "uk": "to streamline",
+    "us": "to streamline",
+    "ex": "The idea is to [[streamline]] the back office, not to close it."
+   },
+   "informal": {
+    "uk": "a reorg",
+    "us": "a reorg",
+    "ex": "The [[reorg]] was announced on a Friday afternoon, which went down badly."
+   }
+  },
+  "collocations": [
+   "to merge two departments",
+   "to streamline operations",
+   "to pool resources",
+   "a leaner organisation"
+  ],
+  "note_fr": "Orthographe : -isation (UK) / -ization (US). « To streamline » = rationaliser, alléger ; « to rationalise » est souvent, en anglais britannique, un euphémisme pour supprimer des postes. « To go down badly » = être mal accueilli.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-012",
+  "level": 1,
+  "fr": "suppression de postes",
+  "term": {
+   "uk": "job cuts",
+   "us": "job cuts"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb kʌts/",
+   "us": "/ˈdʒɑːb kʌts/"
+  },
+  "def": "The removal of jobs from an organisation's structure.",
+  "registers": {
+   "formal": {
+    "uk": "the elimination of positions",
+    "us": "the elimination of positions",
+    "ex": "The project would entail [[the elimination of positions]] in the finance and IT functions."
+   },
+   "everyday": {
+    "uk": "job cuts",
+    "us": "job cuts",
+    "ex": "The press is already talking about [[job cuts]] at the Amiens plant."
+   },
+   "informal": {
+    "uk": "to axe jobs",
+    "us": "to ax jobs",
+    "ex": "The group is planning to [[axe jobs]] right across Europe.",
+    "ex_us": "The group is planning to [[ax jobs]] right across Europe."
+   }
+  },
+  "collocations": [
+   "to cut a position",
+   "job losses",
+   "to eliminate a role",
+   "net job losses"
+  ],
+  "note_fr": "« Suppression » est un faux ami : « to suppress » signifie réprimer ou étouffer. On dit « to cut », « to eliminate » ou « to remove » a position. Distinguez toujours les postes supprimés (« positions cut ») des personnes licenciées (« people dismissed ») : les deux chiffres coïncident rarement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-013",
+  "level": 1,
+  "fr": "réduction d'effectifs",
+  "term": {
+   "uk": "headcount reduction",
+   "us": "headcount reduction"
+  },
+  "ipa": {
+   "uk": "/ˈhedkaʊnt rɪˌdʌkʃ(ə)n/",
+   "us": "/ˈhedkaʊnt rɪˌdʌkʃ(ə)n/"
+  },
+  "def": "A decrease in the number of people employed by an organisation.",
+  "registers": {
+   "formal": {
+    "uk": "a reduction in headcount",
+    "us": "a reduction in headcount",
+    "ex": "The plan provides for [[a reduction in headcount]] of 85 positions over eighteen months."
+   },
+   "everyday": {
+    "uk": "to downsize",
+    "us": "to downsize",
+    "ex": "They've [[downsized]] twice since the takeover."
+   },
+   "informal": {
+    "uk": "to shed jobs",
+    "us": "to shed jobs",
+    "ex": "The industry has been [[shedding jobs]] for a decade."
+   }
+  },
+  "collocations": [
+   "to reduce headcount by 10%",
+   "natural attrition",
+   "a hiring freeze",
+   "to slim down the workforce"
+  ],
+  "note_fr": "« Natural attrition » (UK aussi « natural wastage ») désigne les départs naturels non remplacés ; « a hiring freeze » = le gel des embauches. « Downsizing » est neutre dans la bouche d'un dirigeant, mais mal reçu par les salariés.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-014",
+  "level": 1,
+  "fr": "effectif",
+  "term": {
+   "uk": "headcount",
+   "us": "headcount"
+  },
+  "ipa": {
+   "uk": "/ˈhedkaʊnt/",
+   "us": "/ˈhedkaʊnt/"
+  },
+  "def": "The number of people employed by a company or working at a site.",
+  "registers": {
+   "formal": {
+    "uk": "the workforce",
+    "us": "the workforce",
+    "ex": "At the date of this document, [[the workforce]] of the Company stands at 612 employees."
+   },
+   "everyday": {
+    "uk": "headcount",
+    "us": "headcount",
+    "ex": "What's the current [[headcount]] in Toulouse, including temps?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "total headcount",
+   "the workforce stands at",
+   "on the payroll",
+   "permanent and temporary staff"
+  ],
+  "note_fr": "« Effectif » ne se traduit jamais par « effective » (= efficace). « Headcount » compte des têtes, par opposition aux « FTEs ». Au Royaume-Uni, « staff » est un collectif souvent suivi du pluriel (« the staff are worried ») ; on ne dit pas « a staff » pour une personne.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-015",
+  "level": 1,
+  "fr": "équivalent temps plein (ETP)",
+  "term": {
+   "uk": "full-time equivalent",
+   "us": "full-time equivalent"
+  },
+  "ipa": {
+   "uk": "/ˌfʊl taɪm ɪˈkwɪvələnt/",
+   "us": "/ˌfʊl taɪm ɪˈkwɪvələnt/"
+  },
+  "def": "A unit that expresses the workforce as a number of full-time jobs, counting part-timers proportionately.",
+  "registers": {
+   "formal": {
+    "uk": "full-time equivalent",
+    "us": "full-time equivalent",
+    "ex": "The reduction represents 37.5 [[full-time equivalents]], corresponding to 41 employees."
+   },
+   "everyday": {
+    "uk": "FTE",
+    "us": "FTE",
+    "ex": "Finance counts in [[FTEs]]; the works council counts people."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on an FTE basis",
+   "to convert headcount into FTEs",
+   "0.8 FTE",
+   "FTE savings"
+  ],
+  "note_fr": "Le siège raisonne en FTE, le droit français en salariés et en postes : précisez toujours l'unité, sous peine d'écarts incompréhensibles entre le budget et le document remis au CSE. Se prononce lettre par lettre : /ˌef tiː ˈiː/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-016",
+  "level": 3,
+  "fr": "départs contraints",
+  "term": {
+   "uk": "compulsory redundancies",
+   "us": "involuntary layoffs"
+  },
+  "ipa": {
+   "uk": "/kəmˈpʌlsəri rɪˈdʌndənsiz/",
+   "us": "/ɪnˈvɑːlənteri ˈleɪɔːfs/"
+  },
+  "def": "Dismissals imposed by the employer, as opposed to departures chosen by the employees.",
+  "registers": {
+   "formal": {
+    "uk": "compulsory redundancies",
+    "us": "involuntary terminations",
+    "ex": "[[Compulsory redundancies]] will be considered only if the number of volunteers proves insufficient.",
+    "ex_us": "[[Involuntary terminations]] will be considered only if the number of volunteers proves insufficient."
+   },
+   "everyday": {
+    "uk": "forced redundancies",
+    "us": "forced layoffs",
+    "ex": "The unions' red line is simple: no [[forced redundancies]].",
+    "ex_us": "The unions' red line is simple: no [[forced layoffs]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rule out compulsory redundancies",
+   "as a last resort",
+   "a no-compulsory-redundancy commitment",
+   "to resort to dismissals"
+  ],
+  "note_fr": "« Contraint » ne se rend pas par « constrained ». Le couple utile est « voluntary / compulsory » (UK) ou « voluntary / involuntary » (US). « Red line » = ligne rouge ; « as a last resort » = en dernier recours.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-017",
+  "level": 1,
+  "fr": "procédure d'information-consultation",
+  "term": {
+   "uk": "information and consultation process",
+   "us": "information and consultation process"
+  },
+  "ipa": {
+   "uk": "/ˌɪnfəˈmeɪʃ(ə)n ən ˌkɒns(ə)lˈteɪʃ(ə)n ˌprəʊses/",
+   "us": "/ˌɪnfərˈmeɪʃ(ə)n ən ˌkɑːns(ə)lˈteɪʃ(ə)n ˌprɑːses/"
+  },
+  "def": "The legal process by which an employer gives employee representatives full information about a project and collects their opinion before deciding.",
+  "registers": {
+   "formal": {
+    "uk": "to inform and consult the works council",
+    "us": "to inform and consult the works council",
+    "ex": "The Company is required to [[inform and consult the works council]] before any decision is taken."
+   },
+   "everyday": {
+    "uk": "to go through consultation",
+    "us": "to go through consultation",
+    "ex": "We can't present anything as final until we've [[gone through consultation]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to open the consultation",
+   "prior consultation",
+   "a consultation meeting",
+   "to complete the process"
+  ],
+  "note_fr": "Consulter n'est ni négocier ni obtenir un accord : le CSE rend un avis, mais sauter ou bâcler l'étape rend le plan attaquable. L'anglais britannique dit « to consult the council », l'américain plutôt « to consult with ». Ne dites jamais au siège que c'est « just a formality ».",
+  "french_concept": true,
+  "explain": {
+   "written": "In France, the employer must provide the works council with detailed written information on a restructuring project and obtain its opinion, within statutory time limits, before the project can be implemented.",
+   "spoken": "Before we decide anything, we have to give the works council the full picture and ask for its opinion. They can't stop the project, but we can't skip the step."
+  }
+ },
+ {
+  "id": "rs-018",
+  "level": 3,
+  "fr": "volet économique de la consultation (« Livre II »)",
+  "term": {
+   "uk": "economic rationale",
+   "us": "economic rationale"
+  },
+  "ipa": {
+   "uk": "/ˌiːkəˈnɒmɪk ˌræʃəˈnɑːl/",
+   "us": "/ˌekəˈnɑːmɪk ˌræʃəˈnæl/"
+  },
+  "def": "The part of the consultation dealing with the reasons for the project and its effects on the organisation and on jobs.",
+  "registers": {
+   "formal": {
+    "uk": "the economic rationale",
+    "us": "the economic rationale",
+    "ex": "One limb of the consultation concerns [[the economic rationale]] for the project and its consequences for employment."
+   },
+   "everyday": {
+    "uk": "the why",
+    "us": "the why",
+    "ex": "Book Two is [[the why]]: why we're doing this and what it does to the business."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the reasons for the project",
+   "the impact on the organisation",
+   "the underlying figures",
+   "to challenge the rationale"
+  ],
+  "note_fr": "« Rationale » /ˌræʃəˈnɑːl/ (accent sur la dernière syllabe) = la justification, le raisonnement ; ne pas confondre avec « rational ». Les praticiens français disent « Livre II » : un interlocuteur étranger ne comprendra « Book Two » qu'après explication.",
+  "french_concept": true,
+  "explain": {
+   "written": "The consultation of the works council on a collective redundancy has two limbs; the first, known in practice as 'Book Two', covers the economic and organisational project itself: its reasons, its content and its consequences for employment.",
+   "spoken": "There are two halves to the consultation. One is the business side: why we're restructuring and what the new organisation looks like. We call it 'Book Two'."
+  }
+ },
+ {
+  "id": "rs-019",
+  "level": 3,
+  "fr": "volet social de la consultation (« Livre I »)",
+  "term": {
+   "uk": "the social measures",
+   "us": "the social measures"
+  },
+  "ipa": {
+   "uk": "/ðə ˌsəʊʃ(ə)l ˈmeʒəz/",
+   "us": "/ðə ˌsoʊʃ(ə)l ˈmeʒərz/"
+  },
+  "def": "The part of the consultation dealing with the redundancies themselves: numbers, job categories, selection criteria, timetable and support measures.",
+  "registers": {
+   "formal": {
+    "uk": "the social measures",
+    "us": "the social measures",
+    "ex": "The second limb of the consultation concerns the collective redundancy and [[the social measures]] contained in the plan."
+   },
+   "everyday": {
+    "uk": "the how",
+    "us": "the how",
+    "ex": "Book One is [[the how]]: how many people, which criteria, what package."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the number of dismissals",
+   "the provisional timetable",
+   "the content of the plan",
+   "the measures on offer"
+  ],
+  "note_fr": "« Social measures » est l'usage des cabinets internationaux, mais « social » reste un gallicisme : devant un public anglo-saxon, préférez « employee support measures ». Les deux volets sont menés en parallèle et donnent lieu à deux avis.",
+  "french_concept": true,
+  "explain": {
+   "written": "The second limb of the consultation, known in practice as 'Book One', covers the collective redundancy itself: the number of dismissals, the job categories and selection criteria, the timetable and the measures of the job protection plan.",
+   "spoken": "The other half is the people side: how many jobs go, how we select, when, and what we offer. That's 'Book One'."
+  }
+ },
+ {
+  "id": "rs-020",
+  "level": 2,
+  "fr": "rendre un avis",
+  "term": {
+   "uk": "to deliver an opinion",
+   "us": "to deliver an opinion"
+  },
+  "ipa": {
+   "uk": "/dɪˈlɪvər ən əˈpɪnjən/",
+   "us": "/dɪˈlɪvər ən əˈpɪnjən/"
+  },
+  "def": "To state formally, as a representative body, what one thinks of a project one has been consulted on.",
+  "registers": {
+   "formal": {
+    "uk": "to deliver its opinion",
+    "us": "to deliver its opinion",
+    "ex": "The works council shall [[deliver its opinion]] within the statutory time limit, failing which it is deemed to have been consulted."
+   },
+   "everyday": {
+    "uk": "to give its opinion",
+    "us": "to give its opinion",
+    "ex": "The council [[gave its opinion]] last night - negative on both points, as expected."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a favourable opinion",
+   "a negative opinion",
+   "to be deemed to have been consulted",
+   "to refuse to give an opinion"
+  ],
+  "note_fr": "« Avis » ne se traduit ici ni par « advice » (conseil) ni par « notice » (préavis, notification). Un avis négatif ne bloque rien ; et si le CSE ne se prononce pas dans le délai, il est réputé avoir été consulté (« deemed to have been consulted »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-021",
+  "level": 2,
+  "fr": "avis consultatif (non contraignant)",
+  "term": {
+   "uk": "non-binding opinion",
+   "us": "non-binding opinion"
+  },
+  "ipa": {
+   "uk": "/ˌnɒn ˈbaɪndɪŋ əˈpɪnjən/",
+   "us": "/ˌnɑːn ˈbaɪndɪŋ əˈpɪnjən/"
+  },
+  "def": "An opinion that the employer must obtain but is not legally obliged to follow.",
+  "registers": {
+   "formal": {
+    "uk": "a non-binding opinion",
+    "us": "a non-binding opinion",
+    "ex": "The works council delivers [[a non-binding opinion]]; the decision remains with the employer."
+   },
+   "everyday": {
+    "uk": "to have no veto",
+    "us": "to have no veto",
+    "ex": "The council [[has no veto]], but it can make the road very long."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a right to be consulted",
+   "a right of veto",
+   "to take the opinion into account",
+   "advisory only"
+  ],
+  "note_fr": "Nuance à faire passer au siège : pas de droit de veto (contrairement à la codétermination allemande), mais un passage obligé dont l'irrégularité fragilise tout le plan. « Advisory » = consultatif ; « binding » = contraignant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-022",
+  "level": 2,
+  "fr": "accord collectif majoritaire",
+  "term": {
+   "uk": "majority collective agreement",
+   "us": "majority collective agreement"
+  },
+  "ipa": {
+   "uk": "/məˈdʒɒrəti kəˌlektɪv əˈɡriːmənt/",
+   "us": "/məˈdʒɔːrəti kəˌlektɪv əˈɡriːmənt/"
+  },
+  "def": "An agreement on the redundancy plan signed by unions representing more than half of the votes cast for representative unions.",
+  "registers": {
+   "formal": {
+    "uk": "a majority collective agreement",
+    "us": "a majority collective agreement",
+    "ex": "The content of the plan may be laid down in [[a majority collective agreement]] signed with the representative trade unions."
+   },
+   "everyday": {
+    "uk": "a negotiated plan",
+    "us": "a negotiated plan",
+    "ex": "[[A negotiated plan]] takes longer to get to, but it's much harder to challenge."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to reach a majority agreement",
+   "the signatory unions",
+   "a partial agreement",
+   "to put the agreement to signature"
+  ],
+  "note_fr": "La majorité s'apprécie en suffrages recueillis par les syndicats représentatifs au premier tour des dernières élections, non en nombre de syndicats. Précisez-le : un Américain pensera spontanément à un vote des salariés (« ratification vote »).",
+  "french_concept": true,
+  "explain": {
+   "written": "In France, a job protection plan may be set out in a collective agreement signed by one or more representative trade unions which together obtained more than fifty per cent of the votes cast for such unions in the first round of the most recent workplace elections.",
+   "spoken": "It's a deal on the plan signed by unions that, between them, won more than half the votes at the last staff elections."
+  }
+ },
+ {
+  "id": "rs-023",
+  "level": 2,
+  "fr": "document unilatéral",
+  "term": {
+   "uk": "unilateral document",
+   "us": "unilateral document"
+  },
+  "ipa": {
+   "uk": "/ˌjuːnɪˈlæt(ə)rəl ˈdɒkjumənt/",
+   "us": "/ˌjuːnɪˈlæt(ə)rəl ˈdɑːkjəmənt/"
+  },
+  "def": "The document in which the employer alone sets out the redundancy plan when no majority agreement has been reached.",
+  "registers": {
+   "formal": {
+    "uk": "a unilateral document drawn up by the employer",
+    "us": "a unilateral document drawn up by the employer",
+    "ex": "Failing agreement, the plan is set out in [[a unilateral document drawn up by the employer]] after consultation of the works council."
+   },
+   "everyday": {
+    "uk": "a unilateral plan",
+    "us": "a unilateral plan",
+    "ex": "If the talks collapse, we fall back on [[a unilateral plan]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "failing agreement",
+   "to fall back on",
+   "to draw up the plan unilaterally",
+   "a mixed route: partial agreement plus unilateral document"
+  ],
+  "note_fr": "« Unilateral » sonne autoritaire en anglais : expliquez qu'il s'agit d'une voie légale normale, prise après consultation du CSE et soumise à un contrôle administratif plus poussé que l'accord. « An unilateral » est fautif : on dit « a unilateral » (le u se prononce /juː/).",
+  "french_concept": true,
+  "explain": {
+   "written": "Where no majority agreement is reached, the employer sets out the content of the job protection plan in a unilateral document, which is submitted to the works council for consultation and then to the labour administration for approval.",
+   "spoken": "If we can't get the unions to sign, management writes the plan itself. The authority then looks at it much more closely."
+  }
+ },
+ {
+  "id": "rs-024",
+  "level": 2,
+  "fr": "validation (de l'accord majoritaire)",
+  "term": {
+   "uk": "validation by the labour authority",
+   "us": "validation by the labor authority"
+  },
+  "ipa": {
+   "uk": "/ˌvælɪˈdeɪʃ(ə)n baɪ ðə ˈleɪbər ɔːˌθɒrəti/",
+   "us": "/ˌvælɪˈdeɪʃ(ə)n baɪ ðə ˈleɪbər əˌθɔːrəti/"
+  },
+  "def": "The administrative decision confirming that a majority agreement on a redundancy plan was properly signed and that the procedure was followed.",
+  "registers": {
+   "formal": {
+    "uk": "to validate the agreement",
+    "us": "to validate the agreement",
+    "ex": "The administration has fifteen days in which to [[validate the agreement]]."
+   },
+   "everyday": {
+    "uk": "to clear the agreement",
+    "us": "to clear the agreement",
+    "ex": "Once the authority has [[cleared the agreement]], we can send out the letters."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to submit the agreement for validation",
+   "a validation decision",
+   "silence amounts to acceptance",
+   "a limited review"
+  ],
+  "note_fr": "Deux mots français, deux contrôles : « validation » pour l'accord (quinze jours, contrôle restreint), « homologation » pour le document unilatéral (vingt et un jours, contrôle approfondi). Dans les deux cas, le silence de l'administration vaut acceptation.",
+  "french_concept": true,
+  "explain": {
+   "written": "A majority agreement on a job protection plan takes effect only once the regional labour administration has validated it, after checking in particular that it was validly signed and that the works council was properly consulted.",
+   "spoken": "Even with a signed agreement, we need the labour authority's green light. For an agreement it's a fairly light check and they have fifteen days."
+  }
+ },
+ {
+  "id": "rs-025",
+  "level": 2,
+  "fr": "homologation (du document unilatéral)",
+  "term": {
+   "uk": "administrative approval",
+   "us": "administrative approval"
+  },
+  "ipa": {
+   "uk": "/ədˌmɪnɪstrətɪv əˈpruːv(ə)l/",
+   "us": "/ədˌmɪnɪstreɪtɪv əˈpruːv(ə)l/"
+  },
+  "def": "The administrative decision authorising an employer's unilateral redundancy plan after a full review of its content.",
+  "registers": {
+   "formal": {
+    "uk": "to approve the unilateral document",
+    "us": "to approve the unilateral document",
+    "ex": "The administration shall [[approve the unilateral document]] only after verifying that the measures are proportionate to the resources of the company and of the group."
+   },
+   "everyday": {
+    "uk": "to get approval",
+    "us": "to get approval",
+    "ex": "We need to [[get approval]] before a single letter goes out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for approval",
+   "an approval decision",
+   "to refuse approval",
+   "a reasoned decision"
+  ],
+  "note_fr": "N'écrivez pas « homologation » : en anglais le mot ne s'emploie que pour l'homologation technique de produits ou de véhicules. Dites « approval ». En cas de refus, l'employeur peut modifier son projet et présenter une nouvelle demande.",
+  "french_concept": true,
+  "explain": {
+   "written": "A unilateral document setting out a job protection plan must be approved by the regional labour administration, which reviews the consultation procedure and the adequacy of the measures in the light of the resources of the company and its group.",
+   "spoken": "When management writes the plan alone, the authority has twenty-one days to approve it, and they look hard at whether the package is good enough given what the group can afford."
+  }
+ },
+ {
+  "id": "rs-026",
+  "level": 1,
+  "fr": "DREETS (administration du travail)",
+  "term": {
+   "uk": "regional labour authority",
+   "us": "regional labor authority"
+  },
+  "ipa": {
+   "uk": "/ˌriːdʒ(ə)nəl ˈleɪbər ɔːˌθɒrəti/",
+   "us": "/ˌriːdʒ(ə)nəl ˈleɪbər əˌθɔːrəti/"
+  },
+  "def": "The regional arm of the French State that supervises redundancy plans and must clear them before they are implemented.",
+  "registers": {
+   "formal": {
+    "uk": "the labour administration",
+    "us": "the labor administration",
+    "ex": "The draft plan was submitted to [[the labour administration]] on the day after the first works council meeting.",
+    "ex_us": "The draft plan was submitted to [[the labor administration]] on the day after the first works council meeting."
+   },
+   "everyday": {
+    "uk": "the labour authority",
+    "us": "the labor authority",
+    "ex": "It's worth keeping [[the labour authority]] in the loop from day one; they hate surprises.",
+    "ex_us": "It's worth keeping [[the labor authority]] in the loop from day one; they hate surprises."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to notify the authority of the project",
+   "to receive observations from the authority",
+   "to file an application",
+   "an injunction from the authority"
+  ],
+  "note_fr": "Ni « Ministry » ni « labour inspectorate » : la DREETS valide ou homologue le plan, l'inspecteur du travail autorise le licenciement des salariés protégés. Aucun équivalent britannique ou américain ne dispose d'un tel pouvoir d'approbation préalable. « To keep someone in the loop » = tenir informé.",
+  "french_concept": true,
+  "explain": {
+   "written": "The DREETS is the regional directorate of the French Ministry of Labour; it follows the redundancy procedure from the outset, may issue observations or injunctions, and must validate or approve the job protection plan before any dismissal is notified.",
+   "spoken": "The DREETS is the regional labour authority. They watch the whole process, they can send us comments, and at the end they have to clear the plan - no clearance, no dismissals."
+  }
+ },
+ {
+  "id": "rs-027",
+  "level": 1,
+  "fr": "calendrier (de la procédure)",
+  "term": {
+   "uk": "timetable",
+   "us": "timeline"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪmteɪb(ə)l/",
+   "us": "/ˈtaɪmlaɪn/"
+  },
+  "def": "The planned sequence of steps and dates for a procedure.",
+  "registers": {
+   "formal": {
+    "uk": "the indicative timetable",
+    "us": "the projected timeline",
+    "ex": "[[The indicative timetable]] for the procedure is attached to this document.",
+    "ex_us": "[[The projected timeline]] for the procedure is attached to this document."
+   },
+   "everyday": {
+    "uk": "the timetable",
+    "us": "the timeline",
+    "ex": "Realistically, [[the timetable]] is six months from announcement to first departures.",
+    "ex_us": "Realistically, [[the timeline]] is six months from announcement to first departures."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a tight timetable",
+   "to stick to the timetable",
+   "to slip by two weeks",
+   "key milestones"
+  ],
+  "note_fr": "« Calendar » désigne l'objet ou l'agenda, pas le déroulé d'une procédure ; « planning » n'est pas un nom en ce sens ; « agenda » = ordre du jour. « Schedule » se prononce /ˈʃedjuːl/ (UK) et /ˈskedʒuːl/ (US). « To slip » = prendre du retard.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-028",
+  "level": 2,
+  "fr": "délai légal (de consultation)",
+  "term": {
+   "uk": "statutory time limit",
+   "us": "statutory time limit"
+  },
+  "ipa": {
+   "uk": "/ˈstætʃət(ə)ri ˈtaɪm ˌlɪmɪt/",
+   "us": "/ˈstætʃətɔːri ˈtaɪm ˌlɪmɪt/"
+  },
+  "def": "A period fixed by law within which a step must be completed.",
+  "registers": {
+   "formal": {
+    "uk": "the statutory time limit",
+    "us": "the statutory time limit",
+    "ex": "[[The statutory time limit]] for the consultation is two, three or four months, depending on the number of dismissals contemplated."
+   },
+   "everyday": {
+    "uk": "to start the clock",
+    "us": "to start the clock",
+    "ex": "The first meeting [[starts the clock]], so we don't hold it until the file is complete."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "within the time limit",
+   "to run from the first meeting",
+   "the period expires on",
+   "to extend the deadline by agreement"
+  ],
+  "note_fr": "« Délai » ≠ « delay » (= retard). Selon le sens : « time limit », « period », « deadline » (date butoir). Le délai de consultation court à compter de la première réunion du CSE et dépend du nombre de licenciements envisagés.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-029",
+  "level": 3,
+  "fr": "accord de méthode",
+  "term": {
+   "uk": "method agreement",
+   "us": "method agreement"
+  },
+  "ipa": {
+   "uk": "/ˈmeθəd əˌɡriːmənt/",
+   "us": "/ˈmeθəd əˌɡriːmənt/"
+  },
+  "def": "An agreement between the employer and the unions that organises the consultation and negotiation process itself: meetings, dates, information and resources.",
+  "registers": {
+   "formal": {
+    "uk": "a method agreement",
+    "us": "a method agreement",
+    "ex": "The parties entered into [[a method agreement]] fixing the number and dates of the meetings and the information to be provided."
+   },
+   "everyday": {
+    "uk": "a process agreement",
+    "us": "a process agreement",
+    "ex": "It's worth signing [[a process agreement]] first, so that nobody argues about dates later on."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to agree the ground rules",
+   "a schedule of meetings",
+   "additional time off for representatives",
+   "to adapt the consultation periods"
+  ],
+  "note_fr": "« Method agreement » est un calque accepté par les juristes, mais opaque pour un non-initié : glosez par « an agreement on the process » ou « on the ground rules ». Il ne porte pas sur le contenu du plan.",
+  "french_concept": true,
+  "explain": {
+   "written": "A method agreement is a collective agreement by which the employer and the trade unions organise the conduct of the information-consultation and negotiation process, in particular the timetable of meetings and the information to be supplied.",
+   "spoken": "Before we negotiate the plan, we can agree with the unions on how we'll do it: how many meetings, on which dates, what documents they get. That's the method agreement."
+  }
+ },
+ {
+  "id": "rs-030",
+  "level": 2,
+  "fr": "expert du CSE",
+  "term": {
+   "uk": "works council's expert",
+   "us": "works council's expert"
+  },
+  "ipa": {
+   "uk": "/ˌwɜːks ˈkaʊns(ə)lz ˈekspɜːt/",
+   "us": "/ˌwɜːrks ˈkaʊns(ə)lz ˈekspɜːrt/"
+  },
+  "def": "The outside firm that the works council may appoint, at the employer's expense, to analyse the project and the plan.",
+  "registers": {
+   "formal": {
+    "uk": "the expert appointed by the works council",
+    "us": "the expert appointed by the works council",
+    "ex": "[[The expert appointed by the works council]] may request any information it considers necessary for its assignment."
+   },
+   "everyday": {
+    "uk": "the council's expert",
+    "us": "the council's expert",
+    "ex": "[[The council's expert]] has sent us a list of ninety questions."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to appoint an expert",
+   "the expert's report",
+   "an information request",
+   "at the employer's expense"
+  ],
+  "note_fr": "Le siège s'étonne toujours que l'entreprise paie l'expert de la partie adverse : annoncez-le dès le budget. L'expert peut aussi assister les syndicats dans la négociation. « Expertise » en anglais = compétence, savoir-faire ; pour la mission, dites « the expert's assignment » ou « review ».",
+  "french_concept": true,
+  "explain": {
+   "written": "In a collective redundancy procedure, the works council may appoint an expert, usually a firm of accountants, whose fees are borne by the employer, to analyse the economic project and the plan and to assist the unions in negotiating.",
+   "spoken": "The works council can bring in its own outside expert - usually accountants - to go through our numbers. And yes, the company pays for it."
+  }
+ },
+ {
+  "id": "rs-031",
+  "level": 2,
+  "fr": "catégories professionnelles",
+  "term": {
+   "uk": "job categories",
+   "us": "job categories"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb ˌkætəɡ(ə)riz/",
+   "us": "/ˈdʒɑːb ˌkætəɡɔːriz/"
+  },
+  "def": "Groups of jobs of the same kind, requiring similar training, within which the selection criteria are applied.",
+  "registers": {
+   "formal": {
+    "uk": "occupational categories",
+    "us": "occupational categories",
+    "ex": "The positions eliminated are broken down by [[occupational categories]] in the table below."
+   },
+   "everyday": {
+    "uk": "job categories",
+    "us": "job categories",
+    "ex": "If the [[job categories]] are drawn too narrowly, it looks as though we're targeting individuals."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to define the categories",
+   "interchangeable jobs",
+   "to be drawn too narrowly",
+   "common vocational training"
+  ],
+  "note_fr": "« Professional categories » induit en erreur (« professional » évoque les professions libérales ou les cadres). L'équivalent britannique le plus proche est le « selection pool ». Une catégorie taillée sur mesure pour viser une personne est une cause classique de refus d'homologation.",
+  "french_concept": true,
+  "explain": {
+   "written": "In a French redundancy plan, job categories group together all positions of the same nature involving common vocational training; the selection criteria are applied within each category to determine which employees are dismissed.",
+   "spoken": "We group together jobs that are basically interchangeable. The cuts are counted per group, and the selection criteria are applied inside each group."
+  }
+ },
+ {
+  "id": "rs-032",
+  "level": 1,
+  "fr": "critères d'ordre des licenciements",
+  "term": {
+   "uk": "selection criteria",
+   "us": "selection criteria"
+  },
+  "ipa": {
+   "uk": "/sɪˈlekʃ(ə)n kraɪˌtɪəriə/",
+   "us": "/sɪˈlekʃ(ə)n kraɪˌtɪriə/"
+  },
+  "def": "The factors used to decide which employees, among those doing comparable jobs, will be dismissed.",
+  "registers": {
+   "formal": {
+    "uk": "the criteria for determining the order of dismissals",
+    "us": "the criteria for determining the order of dismissals",
+    "ex": "[[The criteria for determining the order of dismissals]] take account of family responsibilities, length of service, circumstances making re-employment difficult and professional skills."
+   },
+   "everyday": {
+    "uk": "selection criteria",
+    "us": "selection criteria",
+    "ex": "We apply the [[selection criteria]] within each job category, and the points decide - not the manager."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to weight the criteria",
+   "to score employees against the criteria",
+   "a points system",
+   "to apply the criteria objectively"
+  ],
+  "note_fr": "« Criteria » est un pluriel (singulier : « criterion »). En France la liste est fixée par la loi et l'employeur ne peut en écarter aucun, seulement les pondérer ; au Royaume-Uni l'employeur conçoit ses critères (objectifs et non discriminatoires) ; aux États-Unis il choisit librement, sous réserve du droit de la discrimination.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-033",
+  "level": 2,
+  "fr": "périmètre de sélection (notion britannique et américaine)",
+  "term": {
+   "uk": "selection pool",
+   "us": "decisional unit"
+  },
+  "ipa": {
+   "uk": "/sɪˈlekʃ(ə)n puːl/",
+   "us": "/dɪˈsɪʒ(ə)n(ə)l ˈjuːnɪt/"
+  },
+  "def": "The group of employees from among whom those to be made redundant are chosen.",
+  "registers": {
+   "formal": {
+    "uk": "the pool for selection",
+    "us": "the decisional unit",
+    "ex": "[[The pool for selection]] comprises all employees carrying out work of the same kind at the Leeds site.",
+    "ex_us": "[[The decisional unit]] comprises all employees in the customer support function at the Denver site."
+   },
+   "everyday": {
+    "uk": "the pool",
+    "us": "the affected group",
+    "ex": "There are twelve people in [[the pool]] and four roles going.",
+    "ex_us": "There are twelve people in [[the affected group]] and four positions being eliminated."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to define the pool",
+   "a pool of one",
+   "to be placed in the pool",
+   "to score everyone in the pool"
+  ],
+  "note_fr": "Au Royaume-Uni, l'employeur définit le « pool » avec une marge d'appréciation, sous le contrôle du caractère raisonnable. « Decisional unit » est un terme technique américain lié aux informations à fournir lors d'un plan de départs. Rapprochez du couple français catégorie professionnelle / périmètre d'application des critères.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-034",
+  "level": 3,
+  "fr": "périmètre d'application des critères d'ordre",
+  "term": {
+   "uk": "scope of application of the criteria",
+   "us": "scope of application of the criteria"
+  },
+  "ipa": {
+   "uk": "/ˈskəʊp əv ˌæplɪˈkeɪʃ(ə)n/",
+   "us": "/ˈskoʊp əv ˌæplɪˈkeɪʃ(ə)n/"
+  },
+  "def": "The geographical or organisational area within which employees are compared when the selection criteria are applied.",
+  "registers": {
+   "formal": {
+    "uk": "the scope within which the criteria are applied",
+    "us": "the scope within which the criteria are applied",
+    "ex": "[[The scope within which the criteria are applied]] is the company as a whole, unless a collective agreement provides otherwise."
+   },
+   "everyday": {
+    "uk": "to apply the criteria site by site",
+    "us": "to apply the criteria site by site",
+    "ex": "Head office assumed we could [[apply the criteria site by site]]; without an agreement, we can't go below the local employment area."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "company-wide",
+   "at site level",
+   "to narrow the scope by agreement",
+   "the local employment area"
+  ],
+  "note_fr": "« Perimeter » désigne une limite physique : préférez « scope ». Conséquence contre-intuitive à expliquer : faute d'accord, les critères s'appliquent à toute l'entreprise, si bien qu'un salarié d'un site non touché peut être désigné. Un document unilatéral ne peut pas descendre en dessous de la zone d'emploi.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-035",
+  "level": 1,
+  "fr": "reclassement interne",
+  "term": {
+   "uk": "internal redeployment",
+   "us": "internal redeployment"
+  },
+  "ipa": {
+   "uk": "/ɪnˌtɜːn(ə)l ˌriːdɪˈplɔɪmənt/",
+   "us": "/ɪnˌtɜːn(ə)l ˌriːdɪˈplɔɪmənt/"
+  },
+  "def": "Moving an employee whose job is disappearing to another job within the company or its group.",
+  "registers": {
+   "formal": {
+    "uk": "internal redeployment",
+    "us": "internal redeployment",
+    "ex": "Priority shall be given to [[internal redeployment]] within the Company and the Group's other French entities."
+   },
+   "everyday": {
+    "uk": "to redeploy",
+    "us": "to redeploy",
+    "ex": "We've [[redeployed]] about thirty people so far, mostly to the Nantes site."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be redeployed to another site",
+   "a redeployment position",
+   "available positions",
+   "an internal transfer"
+  ],
+  "note_fr": "« Reclassement » ≠ « reclassification » (changement de classification ou de statut) et ≠ « outplacement » (reclassement externe). Aux États-Unis on dira aussi « reassignment » ou « internal transfer ». Prononciation américaine : /ɪnˌtɜːrn(ə)l/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-036",
+  "level": 2,
+  "fr": "obligation de reclassement",
+  "term": {
+   "uk": "duty to redeploy",
+   "us": "duty to redeploy"
+  },
+  "ipa": {
+   "uk": "/ˈdjuːti tə ˌriːdɪˈplɔɪ/",
+   "us": "/ˈduːti tə ˌriːdɪˈplɔɪ/"
+  },
+  "def": "The employer's legal obligation to look for another job for each employee before dismissing him or her on economic grounds.",
+  "registers": {
+   "formal": {
+    "uk": "the duty to seek redeployment",
+    "us": "the duty to seek redeployment",
+    "ex": "The employer must discharge [[the duty to seek redeployment]] before any dismissal on economic grounds is notified."
+   },
+   "everyday": {
+    "uk": "to look for alternatives first",
+    "us": "to look for alternatives first",
+    "ex": "In France you have to [[look for alternatives first]]: every suitable vacancy in the French group has to be offered."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to discharge a duty",
+   "a genuine and serious search",
+   "within the group's French entities",
+   "to exhaust the possibilities of redeployment"
+  ],
+  "note_fr": "L'obligation est individuelle et s'étend aux sociétés du groupe situées en France dont l'organisation permet la permutation du personnel ; son non-respect prive le licenciement de cause réelle et sérieuse. Le droit britannique connaît un devoir plus léger (« suitable alternative employment ») ; le droit américain, aucun.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under French law, a dismissal on economic grounds may take place only once the employer has made every effort to train and adapt the employee and has genuinely sought to redeploy him or her to an available position in the company or in the group's other entities in France.",
+   "spoken": "Before we can dismiss anyone, we have to show we really looked for another job for them, in the company and across the group in France. If we can't prove that, the dismissal is unfair."
+  }
+ },
+ {
+  "id": "rs-037",
+  "level": 1,
+  "fr": "offre de reclassement",
+  "term": {
+   "uk": "redeployment offer",
+   "us": "redeployment offer"
+  },
+  "ipa": {
+   "uk": "/ˌriːdɪˈplɔɪmənt ˌɒfə/",
+   "us": "/ˌriːdɪˈplɔɪmənt ˌɒfə/"
+  },
+  "def": "A proposal made to an employee whose job is disappearing to take another position in the company or group.",
+  "registers": {
+   "formal": {
+    "uk": "a written and specific redeployment offer",
+    "us": "a written and specific redeployment offer",
+    "ex": "Each employee concerned shall receive [[a written and specific redeployment offer]] or access to the list of available positions."
+   },
+   "everyday": {
+    "uk": "to offer someone another role",
+    "us": "to offer someone another role",
+    "ex": "We [[offered her another role]] in Lille, but she turned it down."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make an offer",
+   "to turn down an offer",
+   "time to consider the offer",
+   "a list of available positions"
+  ],
+  "note_fr": "L'offre doit être écrite et précise (intitulé, lieu, rémunération, classification) ; elle peut être personnalisée ou diffusée par liste. La refuser n'est pas une faute et ne prive le salarié d'aucun droit. US : /ˌriːdɪˈplɔɪmənt ˌɔːfər/. « To turn down » = refuser.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-038",
+  "level": 3,
+  "fr": "poste de reclassement approprié (notion britannique)",
+  "term": {
+   "uk": "suitable alternative employment",
+   "us": "comparable position"
+  },
+  "ipa": {
+   "uk": "/ˌsuːtəb(ə)l ɔːlˈtɜːnətɪv ɪmˈplɔɪmənt/",
+   "us": "/ˌkɑːmp(ə)rəb(ə)l pəˈzɪʃ(ə)n/"
+  },
+  "def": "Another job with the same employer or group that it is reasonable to expect a redundant employee to accept.",
+  "registers": {
+   "formal": {
+    "uk": "an offer of suitable alternative employment",
+    "us": "an offer of a comparable position",
+    "ex": "An employee who unreasonably refuses [[an offer of suitable alternative employment]] may lose the right to a redundancy payment.",
+    "ex_us": "An employee who turns down [[an offer of a comparable position]] may be ineligible for severance under the plan."
+   },
+   "everyday": {
+    "uk": "a suitable alternative role",
+    "us": "a comparable job",
+    "ex": "Is there [[a suitable alternative role]] for him anywhere in the UK business?",
+    "ex_us": "Is there [[a comparable job]] for him anywhere in the US business?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a statutory trial period",
+   "to unreasonably refuse an offer",
+   "to forfeit redundancy pay",
+   "to consider alternative roles"
+  ],
+  "note_fr": "Différence majeure : au Royaume-Uni, refuser sans motif raisonnable un poste approprié peut faire perdre l'indemnité de licenciement, et le salarié dispose d'une période d'essai légale dans le nouveau poste. En France, le refus d'une offre de reclassement est sans conséquence sur les indemnités.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-039",
+  "level": 2,
+  "fr": "reclassement externe",
+  "term": {
+   "uk": "external redeployment",
+   "us": "external redeployment"
+  },
+  "ipa": {
+   "uk": "/ɪkˌstɜːn(ə)l ˌriːdɪˈplɔɪmənt/",
+   "us": "/ɪkˌstɜːn(ə)l ˌriːdɪˈplɔɪmənt/"
+  },
+  "def": "Helping employees who are losing their jobs to find work outside the company and group.",
+  "registers": {
+   "formal": {
+    "uk": "external redeployment measures",
+    "us": "external redeployment measures",
+    "ex": "The plan includes [[external redeployment measures]] such as outplacement, training and assistance with setting up a business."
+   },
+   "everyday": {
+    "uk": "to help people move on",
+    "us": "to help people move on",
+    "ex": "The budget for [[helping people move on]] matters as much as the severance."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to find a job outside the group",
+   "a lasting solution",
+   "a job offer from another employer",
+   "support with the job search"
+  ],
+  "note_fr": "Un plan qui ne contiendrait que de l'argent serait jugé insuffisant : les mesures de reclassement externe font partie du contenu attendu. « To move on » = tourner la page, passer à autre chose ; très utile, et plus humain que « to exit ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-040",
+  "level": 2,
+  "fr": "congé de reclassement",
+  "term": {
+   "uk": "redeployment leave",
+   "us": "redeployment leave"
+  },
+  "ipa": {
+   "uk": "/ˌriːdɪˈplɔɪmənt liːv/",
+   "us": "/ˌriːdɪˈplɔɪmənt liːv/"
+  },
+  "def": "A period during which a redundant employee of a large French company remains employed and paid while receiving help to find a new job or to retrain.",
+  "registers": {
+   "formal": {
+    "uk": "redeployment leave",
+    "us": "redeployment leave",
+    "ex": "During [[redeployment leave]], the employee remains on the payroll and is assisted by a specialist firm."
+   },
+   "everyday": {
+    "uk": "a paid transition period",
+    "us": "a paid transition period",
+    "ex": "Think of it as [[a paid transition period]]: people stay on the payroll for several months while they look for a job or retrain."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to go on redeployment leave",
+   "the length of the leave",
+   "an allowance for the period beyond notice",
+   "to end the leave early on finding a job"
+  ],
+  "note_fr": "Obligatoire dans les entreprises ou groupes d'au moins mille salariés. Le congé commence pendant le préavis et le prolonge : le salarié ne quitte donc les effectifs qu'à son terme, ce qui pèse sur le calendrier des économies attendu par le siège. Rien de comparable au « garden leave ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Redeployment leave is a period of several months, mandatory in companies or groups of at least one thousand employees, during which a dismissed employee remains bound by the employment contract, is released from work and receives pay or an allowance together with outplacement and training support.",
+   "spoken": "In big companies, people who are made redundant don't leave straight away. They stay on the books for several months, on reduced pay after their notice, with a firm helping them find a job or retrain."
+  }
+ },
+ {
+  "id": "rs-041",
+  "level": 3,
+  "fr": "contrat de sécurisation professionnelle (CSP)",
+  "term": {
+   "uk": "professional security contract",
+   "us": "professional security contract"
+  },
+  "ipa": {
+   "uk": "/prəˌfeʃ(ə)n(ə)l sɪˈkjʊərəti ˌkɒntrækt/",
+   "us": "/prəˌfeʃ(ə)n(ə)l sɪˈkjʊrəti ˌkɑːntrækt/"
+  },
+  "def": "A state-run support scheme that smaller French employers must offer to employees they dismiss on economic grounds.",
+  "registers": {
+   "formal": {
+    "uk": "the professional security contract",
+    "us": "the professional security contract",
+    "ex": "Eligible employees must be offered [[the professional security contract]], which they have twenty-one days to accept or refuse."
+   },
+   "everyday": {
+    "uk": "the state-run scheme",
+    "us": "the state-run scheme",
+    "ex": "Below a thousand employees there's no redeployment leave; people go into [[the state-run scheme]] instead."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to opt for the scheme",
+   "termination by mutual agreement",
+   "an enhanced allowance",
+   "intensive job-search support"
+  ],
+  "note_fr": "Concerne les entreprises non soumises au congé de reclassement. Si le salarié accepte, le contrat est rompu d'un commun accord sans préavis exécuté, et l'accompagnement est assuré par le service public de l'emploi. Aucun équivalent anglo-saxon : glosez systématiquement.",
+  "french_concept": true,
+  "explain": {
+   "written": "The contrat de sécurisation professionnelle (CSP) is a scheme, run by the public employment service, which companies not subject to redeployment leave must offer to employees dismissed on economic grounds; on acceptance, the contract ends by mutual agreement and the employee receives an enhanced allowance and intensive support.",
+   "spoken": "In smaller companies, we have to offer people a state scheme called the CSP. If they take it, they leave without working their notice, and the public employment service pays them an allowance and coaches them for up to a year."
+  }
+ },
+ {
+  "id": "rs-042",
+  "level": 1,
+  "fr": "outplacement (accompagnement vers un nouvel emploi)",
+  "term": {
+   "uk": "outplacement",
+   "us": "outplacement"
+  },
+  "ipa": {
+   "uk": "/ˈaʊtpleɪsmənt/",
+   "us": "/ˈaʊtpleɪsmənt/"
+  },
+  "def": "Professional help, paid for by the employer, to enable departing employees to find a new job.",
+  "registers": {
+   "formal": {
+    "uk": "outplacement services",
+    "us": "outplacement services",
+    "ex": "[[Outplacement services]] will be provided by an external firm for a period of twelve months."
+   },
+   "everyday": {
+    "uk": "outplacement support",
+    "us": "outplacement support",
+    "ex": "Everyone affected gets [[outplacement support]]: CV workshops, coaching, interview practice.",
+    "ex_us": "Everyone affected gets [[outplacement support]]: résumé workshops, coaching, interview practice."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an outplacement firm",
+   "career coaching",
+   "a job-search workshop",
+   "a career transition programme"
+  ],
+  "note_fr": "Même mot qu'en français. Notez « CV » (UK) / « résumé » (US) et « programme » (UK) / « program » (US). Aux États-Unis on entend aussi « career transition services ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-043",
+  "level": 2,
+  "fr": "cellule de reclassement / antenne emploi",
+  "term": {
+   "uk": "redeployment unit",
+   "us": "career transition center"
+  },
+  "ipa": {
+   "uk": "/ˌriːdɪˈplɔɪmənt ˌjuːnɪt/",
+   "us": "/kəˈrɪr trænˈzɪʃ(ə)n ˌsentər/"
+  },
+  "def": "A dedicated team, usually run by an outside firm and often based on site, that helps employees affected by a plan to find a new job or project.",
+  "registers": {
+   "formal": {
+    "uk": "a redeployment unit",
+    "us": "a career transition center",
+    "ex": "[[A redeployment unit]] run by an outside firm will be set up on site for the duration of the plan.",
+    "ex_us": "[[A career transition center]] run by an outside firm will be set up on site for the duration of the plan."
+   },
+   "everyday": {
+    "uk": "the job-search centre",
+    "us": "the job-search center",
+    "ex": "People can drop into [[the job-search centre]] without an appointment.",
+    "ex_us": "People can drop into [[the job-search center]] without an appointment."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set up a unit on site",
+   "a dedicated consultant",
+   "a firm job offer",
+   "to sign up with the unit"
+  ],
+  "note_fr": "« Cell » évoque la prison ou la biologie, « antenna » la télévision : ni l'un ni l'autre. Dites « unit », « centre », « team ». Les engagements du cabinet (nombre d'offres fermes, définition de la « solution identifiée ») se négocient dans le plan.",
+  "french_concept": true,
+  "explain": {
+   "written": "A redeployment unit is a team of consultants, generally from a specialist firm and financed by the employer, set up under the plan to give each affected employee individual support in finding a job, training or starting a business.",
+   "spoken": "We bring in a specialist firm and give them an office on site. Each person gets their own consultant to help with the job search, training or a business project."
+  }
+ },
+ {
+  "id": "rs-044",
+  "level": 1,
+  "fr": "plan de départs volontaires (PDV)",
+  "term": {
+   "uk": "voluntary redundancy scheme",
+   "us": "voluntary separation program"
+  },
+  "ipa": {
+   "uk": "/ˌvɒlənt(ə)ri rɪˈdʌndənsi skiːm/",
+   "us": "/ˌvɑːlənteri ˌsepəˈreɪʃ(ə)n ˌproʊɡræm/"
+  },
+  "def": "An arrangement under which employees may choose to leave, with a financial package, so that job cuts are achieved without or with fewer dismissals.",
+  "registers": {
+   "formal": {
+    "uk": "a voluntary departure plan",
+    "us": "a voluntary departure plan",
+    "ex": "The Company intends to open [[a voluntary departure plan]] before resorting to any compulsory dismissal."
+   },
+   "everyday": {
+    "uk": "voluntary redundancy",
+    "us": "a voluntary buyout",
+    "ex": "We'd rather offer [[voluntary redundancy]] first and see how many people come forward.",
+    "ex_us": "We'd rather offer [[a voluntary buyout]] first and see how many people come forward."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to open a voluntary phase",
+   "to take voluntary redundancy",
+   "to come forward",
+   "eligibility conditions"
+  ],
+  "note_fr": "« Scheme » est neutre au Royaume-Uni mais péjoratif aux États-Unis (= combine) : dites « program » ou « plan ». En France, le plan de départs volontaires reste soumis à la procédure du PSE dès que les seuils sont atteints ; s'il exclut tout licenciement, le plan de reclassement interne n'est pas exigé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-045",
+  "level": 3,
+  "fr": "appel au volontariat",
+  "term": {
+   "uk": "call for volunteers",
+   "us": "call for volunteers"
+  },
+  "ipa": {
+   "uk": "/ˌkɔːl fə ˌvɒlənˈtɪəz/",
+   "us": "/ˌkɔːl fər ˌvɑːlənˈtɪrz/"
+  },
+  "def": "An invitation to employees to apply to leave under a voluntary departure scheme.",
+  "registers": {
+   "formal": {
+    "uk": "applications for voluntary departure",
+    "us": "applications for voluntary departure",
+    "ex": "[[Applications for voluntary departure]] must be submitted to the validation committee by 30 June."
+   },
+   "everyday": {
+    "uk": "to volunteer",
+    "us": "to volunteer",
+    "ex": "Far more people [[volunteered]] than we expected, especially among the over-55s."
+   },
+   "informal": {
+    "uk": "to put your hand up",
+    "us": "to put your hand up",
+    "ex": "Sixty people have [[put their hands up]] already."
+   }
+  },
+  "collocations": [
+   "to be oversubscribed",
+   "to turn down an application",
+   "a viable career plan",
+   "the application window"
+  ],
+  "note_fr": "« Volontariat » ≠ « volunteering » au sens de bénévolat : le contexte doit être clair. « Volunteer » porte l'accent sur la dernière syllabe. « Oversubscribed » = plus de candidats que de départs ouverts ; l'employeur peut refuser une candidature dans les conditions prévues par le plan (compétences clés, projet non viable).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-046",
+  "level": 3,
+  "fr": "rupture conventionnelle collective (RCC)",
+  "term": {
+   "uk": "collective mutual termination agreement",
+   "us": "collective mutual termination agreement"
+  },
+  "ipa": {
+   "uk": "/kəˌlektɪv ˌmjuːtʃuəl ˌtɜːmɪˈneɪʃ(ə)n əˌɡriːmənt/",
+   "us": "/kəˌlektɪv ˌmjuːtʃuəl ˌtɜːrmɪˈneɪʃ(ə)n əˌɡriːmənt/"
+  },
+  "def": "A French collective agreement that opens a set number of voluntary departures, with no dismissals and no need for an economic ground.",
+  "registers": {
+   "formal": {
+    "uk": "a collective mutual termination agreement",
+    "us": "a collective mutual termination agreement",
+    "ex": "[[A collective mutual termination agreement]] sets a maximum number of departures and rules out any dismissal to achieve the target."
+   },
+   "everyday": {
+    "uk": "a volunteers-only agreement",
+    "us": "a volunteers-only agreement",
+    "ex": "An RCC is basically [[a volunteers-only agreement]]: no economic justification needed, but no forced departures either."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rule out dismissals",
+   "a maximum number of departures",
+   "to be validated by the labour authority",
+   "to apply to leave"
+  ],
+  "note_fr": "À ne pas confondre avec la rupture conventionnelle individuelle. L'accord est validé par l'administration ; il n'exige pas de motif économique mais interdit tout licenciement pour atteindre l'objectif. Si le nombre de volontaires est insuffisant, il faut repartir sur une autre procédure.",
+  "french_concept": true,
+  "explain": {
+   "written": "A rupture conventionnelle collective is a collective agreement, validated by the labour administration, which sets the terms on which a maximum number of employees may leave by mutual consent, without any dismissal and without the employer having to establish an economic ground.",
+   "spoken": "It's a union agreement that opens, say, eighty voluntary exits with a package. We don't have to justify it economically, but we can't dismiss anyone if we don't get enough volunteers."
+  }
+ },
+ {
+  "id": "rs-047",
+  "level": 3,
+  "fr": "accord de performance collective (APC)",
+  "term": {
+   "uk": "collective performance agreement",
+   "us": "collective performance agreement"
+  },
+  "ipa": {
+   "uk": "/kəˌlektɪv pəˈfɔːməns əˌɡriːmənt/",
+   "us": "/kəˌlektɪv pərˈfɔːrməns əˌɡriːmənt/"
+  },
+  "def": "A French collective agreement that changes working time, pay or mobility for the whole workforce in order to meet business needs or preserve jobs.",
+  "registers": {
+   "formal": {
+    "uk": "a collective performance agreement",
+    "us": "a collective performance agreement",
+    "ex": "[[A collective performance agreement]] may adjust working time, remuneration or mobility in order to meet operational needs or to preserve employment."
+   },
+   "everyday": {
+    "uk": "a deal on pay and hours",
+    "us": "a deal on pay and hours",
+    "ex": "Before we talk about cuts, could [[a deal on pay and hours]] get us there?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to override the employment contract",
+   "to preserve or develop employment",
+   "to refuse the change",
+   "a specific ground for dismissal"
+  ],
+  "note_fr": "Ses clauses se substituent à celles, contraires, du contrat de travail ; le salarié qui refuse peut être licencié pour un motif spécifique, sans plan de sauvegarde de l'emploi. Présentez-le au siège comme une alternative aux suppressions de postes, qui suppose toutefois un accord majoritaire.",
+  "french_concept": true,
+  "explain": {
+   "written": "A collective performance agreement is a majority agreement under which working time, remuneration or geographical and occupational mobility may be modified; its terms replace any conflicting clauses of the employment contract, and an employee who refuses may be dismissed on a specific ground.",
+   "spoken": "It's a union agreement that lets us change hours, pay or location for everyone to protect the business. It overrides people's contracts, and anyone who refuses can be dismissed, but not under a redundancy plan."
+  }
+ },
+ {
+  "id": "rs-048",
+  "level": 2,
+  "fr": "indemnité supra-légale",
+  "term": {
+   "uk": "enhanced redundancy pay",
+   "us": "enhanced severance"
+  },
+  "ipa": {
+   "uk": "/ɪnˌhɑːnst rɪˈdʌndənsi peɪ/",
+   "us": "/ɪnˌhænst ˈsev(ə)rəns/"
+  },
+  "def": "A payment on termination that goes beyond what statute or the collective agreement requires.",
+  "registers": {
+   "formal": {
+    "uk": "a supplementary severance payment",
+    "us": "a supplementary severance payment",
+    "ex": "In addition to the statutory or collectively agreed entitlement, the plan provides for [[a supplementary severance payment]] based on length of service."
+   },
+   "everyday": {
+    "uk": "enhanced redundancy pay",
+    "us": "enhanced severance",
+    "ex": "The unions are asking for [[enhanced redundancy pay]] of a month per year of service.",
+    "ex_us": "The unions are asking for [[enhanced severance]] of a month per year of service."
+   },
+   "informal": {
+    "uk": "the top-up",
+    "us": "the sweetener",
+    "ex": "So what's [[the top-up]] going to be?",
+    "ex_us": "So what's [[the sweetener]] going to be?"
+   }
+  },
+  "collocations": [
+   "over and above the statutory minimum",
+   "a floor and a cap",
+   "per year of service",
+   "an ex gratia payment"
+  ],
+  "note_fr": "« Supra-legal » n'est compris que des juristes français : dites « enhanced », « supplementary » ou « over and above the statutory entitlement ». « Ex gratia » (UK) qualifie un versement sans obligation juridique. « A floor and a cap » = un plancher et un plafond.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-049",
+  "level": 1,
+  "fr": "indemnité légale de licenciement",
+  "term": {
+   "uk": "statutory redundancy pay",
+   "us": "statutory severance pay"
+  },
+  "ipa": {
+   "uk": "/ˌstætʃət(ə)ri rɪˈdʌndənsi peɪ/",
+   "us": "/ˌstætʃətɔːri ˈsev(ə)rəns peɪ/"
+  },
+  "def": "The minimum payment that the law requires an employer to make to an employee who is made redundant.",
+  "registers": {
+   "formal": {
+    "uk": "the statutory redundancy payment",
+    "us": "statutory severance pay",
+    "ex": "[[The statutory redundancy payment]] is calculated by reference to length of service and average pay.",
+    "ex_us": "[[Statutory severance pay]] is calculated by reference to length of service and average pay."
+   },
+   "everyday": {
+    "uk": "redundancy pay",
+    "us": "severance",
+    "ex": "How much [[redundancy pay]] would someone with ten years' service get?",
+    "ex_us": "How much [[severance]] would someone with ten years of service get?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to qualify for redundancy pay",
+   "the collectively agreed entitlement",
+   "whichever is the higher",
+   "a week's pay"
+  ],
+  "note_fr": "En France, le salarié perçoit la plus favorable de l'indemnité légale et de l'indemnité conventionnelle. Aux États-Unis, aucune indemnité légale fédérale : la « severance » relève de la politique de l'entreprise ou du contrat. Évitez « indemnity », qui désigne surtout une garantie d'indemnisation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-050",
+  "level": 2,
+  "fr": "budget du plan",
+  "term": {
+   "uk": "budget for the plan",
+   "us": "budget for the plan"
+  },
+  "ipa": {
+   "uk": "/ˈbʌdʒɪt fə ðə ˈplæn/",
+   "us": "/ˈbʌdʒɪt fə ðə ˈplæn/"
+  },
+  "def": "The total amount of money the company sets aside to finance the redundancy plan.",
+  "registers": {
+   "formal": {
+    "uk": "the overall cost of the plan",
+    "us": "the overall cost of the plan",
+    "ex": "[[The overall cost of the plan]] is estimated at EUR 9.4 million, excluding the revitalisation contribution.",
+    "ex_us": "[[The overall cost of the plan]] is estimated at EUR 9.4 million, excluding the revitalization contribution."
+   },
+   "everyday": {
+    "uk": "the envelope",
+    "us": "the envelope",
+    "ex": "Head office has given us [[the envelope]]; how we split it between severance and support is up to us."
+   },
+   "informal": {
+    "uk": "the pot",
+    "us": "the pot",
+    "ex": "There's only so much in [[the pot]]."
+   }
+  },
+  "collocations": [
+   "the average cost per departure",
+   "to stay within budget",
+   "to go back to head office for more",
+   "a negotiating mandate"
+  ],
+  "note_fr": "L'administration apprécie les mesures au regard des moyens du groupe, non de la seule filiale : un budget modeste dans un groupe prospère est un risque d'homologation. « Cost per head » ou « average cost per departure » = coût moyen par départ.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-051",
+  "level": 1,
+  "fr": "mesures d'accompagnement",
+  "term": {
+   "uk": "support measures",
+   "us": "support measures"
+  },
+  "ipa": {
+   "uk": "/səˈpɔːt ˌmeʒəz/",
+   "us": "/səˈpɔːrt ˌmeʒərz/"
+  },
+  "def": "The practical and financial help offered to employees affected by a restructuring.",
+  "registers": {
+   "formal": {
+    "uk": "support measures",
+    "us": "support measures",
+    "ex": "The [[support measures]] are available to all employees whose position is eliminated."
+   },
+   "everyday": {
+    "uk": "the support on offer",
+    "us": "the support on offer",
+    "ex": "Make sure people understand [[the support on offer]] before they start thinking about the money."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be eligible for support",
+   "a package of measures",
+   "to take up a measure",
+   "tailored support"
+  ],
+  "note_fr": "« Accompagner » ne se traduit pas par « to accompany » (= aller avec quelqu'un, ou jouer du piano pour lui). Pour des personnes : « to support », « to help », « to assist ». « Take-up » = le taux de recours à une mesure.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-052",
+  "level": 1,
+  "fr": "formation de reconversion",
+  "term": {
+   "uk": "retraining",
+   "us": "retraining"
+  },
+  "ipa": {
+   "uk": "/ˌriːˈtreɪnɪŋ/",
+   "us": "/ˌriːˈtreɪnɪŋ/"
+  },
+  "def": "Training that prepares someone for a different job or occupation.",
+  "registers": {
+   "formal": {
+    "uk": "retraining",
+    "us": "retraining",
+    "ex": "The plan finances [[retraining]] leading to a recognised qualification, up to a ceiling per employee.",
+    "ex_us": "The plan finances [[retraining]] leading to a recognized qualification, up to a ceiling per employee."
+   },
+   "everyday": {
+    "uk": "to retrain",
+    "us": "to retrain",
+    "ex": "One of the operators wants to [[retrain]] as a nurse."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a retraining course",
+   "to retrain as an electrician",
+   "a training budget per head",
+   "a career change"
+  ],
+  "note_fr": "« Reconversion » n'a pas ce sens en anglais, et « formation » y signifie création ou constitution. « Training » est indénombrable : « a training course », jamais « a training » ni « trainings » dans un écrit soigné.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-053",
+  "level": 2,
+  "fr": "aide à la création ou à la reprise d'entreprise",
+  "term": {
+   "uk": "business start-up support",
+   "us": "business start-up support"
+  },
+  "ipa": {
+   "uk": "/ˌbɪznəs ˈstɑːtʌp səˌpɔːt/",
+   "us": "/ˌbɪznəs ˈstɑːrtʌp səˌpɔːrt/"
+  },
+  "def": "Money and advice given to a departing employee who wants to set up or take over a business.",
+  "registers": {
+   "formal": {
+    "uk": "assistance with setting up or taking over a business",
+    "us": "assistance with setting up or taking over a business",
+    "ex": "[[Assistance with setting up or taking over a business]] takes the form of a grant paid in two instalments.",
+    "ex_us": "[[Assistance with setting up or taking over a business]] takes the form of a grant paid in two installments."
+   },
+   "everyday": {
+    "uk": "a start-up grant",
+    "us": "a start-up grant",
+    "ex": "She took [[a start-up grant]] and opened a bakery."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to set up on one's own",
+   "to go self-employed",
+   "a viable business plan",
+   "to take over an existing business"
+  ],
+  "note_fr": "Les anglophones disent « to set up » ou « to start a business » plutôt que « to create a company » ; « society » ne traduit jamais « société ». « Grant » = aide non remboursable ; « instalment » (UK) / « installment » (US) = versement échelonné.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-054",
+  "level": 2,
+  "fr": "priorité de réembauche",
+  "term": {
+   "uk": "priority for rehiring",
+   "us": "priority for rehiring"
+  },
+  "ipa": {
+   "uk": "/praɪˈɒrəti fə ˌriːˈhaɪərɪŋ/",
+   "us": "/praɪˈɔːrəti fər ˌriːˈhaɪrɪŋ/"
+  },
+  "def": "The right of an employee dismissed on economic grounds to be offered first any suitable job that becomes available with the former employer.",
+  "registers": {
+   "formal": {
+    "uk": "priority for rehiring",
+    "us": "priority for rehiring",
+    "ex": "Dismissed employees enjoy [[priority for rehiring]] for one year, provided that they ask to benefit from it."
+   },
+   "everyday": {
+    "uk": "to get first refusal",
+    "us": "to get first refusal",
+    "ex": "If a job comes up within the year, former employees [[get first refusal]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to exercise the right",
+   "to be informed of vacancies",
+   "a position compatible with one's qualifications",
+   "to be offered the job first"
+  ],
+  "note_fr": "Le salarié doit en faire la demande ; l'employeur doit alors l'informer de tout poste disponible compatible avec sa qualification, et la lettre de licenciement doit mentionner ce droit. Les conventions collectives américaines prévoient parfois des « recall rights », notion voisine. « First refusal » = droit de priorité.",
+  "french_concept": true,
+  "explain": {
+   "written": "An employee dismissed on economic grounds has, for one year from the end of the contract, a right of priority to be rehired in any available position compatible with his or her qualifications, provided he or she has asked to exercise it.",
+   "spoken": "For a year after they leave, people we've made redundant get first call on any suitable vacancy - as long as they've told us they want it."
+  }
+ },
+ {
+  "id": "rs-055",
+  "level": 2,
+  "fr": "salarié protégé",
+  "term": {
+   "uk": "protected employee",
+   "us": "protected employee"
+  },
+  "ipa": {
+   "uk": "/prəˌtektɪd ɪmˈplɔɪiː/",
+   "us": "/prəˌtektɪd ɪmˈplɔɪiː/"
+  },
+  "def": "An employee, typically a staff or union representative, who cannot be dismissed without the prior authorisation of the labour inspector.",
+  "registers": {
+   "formal": {
+    "uk": "a protected employee",
+    "us": "a protected employee",
+    "ex": "The dismissal of [[a protected employee]] requires the prior authorisation of the labour inspector.",
+    "ex_us": "The dismissal of [[a protected employee]] requires the prior authorization of the labor inspector."
+   },
+   "everyday": {
+    "uk": "an employee with protected status",
+    "us": "an employee with protected status",
+    "ex": "Six of the forty are [[employees with protected status]], so allow a couple of extra months for those."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to hold a mandate",
+   "an employee representative",
+   "the protection period",
+   "to enjoy protected status"
+  ],
+  "note_fr": "Piège américain : « protected class » désigne les catégories protégées contre la discrimination (âge, sexe, origine...), sans rapport avec un mandat. Précisez « protected because they are employee representatives ». « Mandate » se comprend, mais on dit plus simplement « term of office ».",
+  "french_concept": true,
+  "explain": {
+   "written": "In France, employee and union representatives, among others, are 'protected employees': their dismissal, including under a redundancy plan, is subject to the prior authorisation of the labour inspector.",
+   "spoken": "Staff reps and union reps have special protection. Even in a redundancy plan, we can't dismiss them unless the labour inspector says yes."
+  }
+ },
+ {
+  "id": "rs-056",
+  "level": 2,
+  "fr": "autorisation de l'inspecteur du travail",
+  "term": {
+   "uk": "labour inspector's authorisation",
+   "us": "labor inspector's authorization"
+  },
+  "ipa": {
+   "uk": "/ˌleɪbər ɪnˈspektəz ˌɔːθəraɪˈzeɪʃ(ə)n/",
+   "us": "/ˌleɪbər ɪnˈspektərz ˌɔːθərəˈzeɪʃ(ə)n/"
+  },
+  "def": "The individual permission that the labour inspector must give before a protected employee can be dismissed.",
+  "registers": {
+   "formal": {
+    "uk": "to apply for authorisation to dismiss",
+    "us": "to apply for authorization to dismiss",
+    "ex": "The Company shall [[apply for authorisation to dismiss]] each protected employee once the works council has been consulted.",
+    "ex_us": "The Company shall [[apply for authorization to dismiss]] each protected employee once the works council has been consulted."
+   },
+   "everyday": {
+    "uk": "to get the inspector's go-ahead",
+    "us": "to get the inspector's go-ahead",
+    "ex": "We can't touch the union reps until we [[get the inspector's go-ahead]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to grant authorisation",
+   "to refuse authorisation",
+   "an inquiry by the inspector",
+   "no link with the mandate"
+  ],
+  "note_fr": "L'inspecteur vérifie notamment le motif économique, les efforts de reclassement et l'absence de lien avec le mandat. Cette autorisation individuelle s'ajoute à la décision de la DREETS sur le plan et allonge le calendrier pour les intéressés. « Inspector », pas « controller ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Before dismissing a protected employee, the employer must obtain the authorisation of the labour inspector, who conducts an inquiry and checks in particular the reality of the economic ground, the redeployment efforts and the absence of any connection with the employee's mandate.",
+   "spoken": "For each rep on the list we file a separate request with the labour inspector, who interviews both sides before deciding. Until we have that go-ahead, the person stays."
+  }
+ },
+ {
+  "id": "rs-057",
+  "level": 1,
+  "fr": "fermeture de site",
+  "term": {
+   "uk": "site closure",
+   "us": "plant closing"
+  },
+  "ipa": {
+   "uk": "/ˈsaɪt ˌkləʊʒə/",
+   "us": "/ˈplænt ˌkloʊzɪŋ/"
+  },
+  "def": "The permanent ending of operations at a workplace.",
+  "registers": {
+   "formal": {
+    "uk": "the closure of the site",
+    "us": "the closing of the facility",
+    "ex": "The project provides for [[the closure of the site]] at Vierzon and the transfer of production to Belgium.",
+    "ex_us": "The project provides for [[the closing of the facility]] in Vierzon and the transfer of production to Belgium."
+   },
+   "everyday": {
+    "uk": "to shut the plant",
+    "us": "to shut down the plant",
+    "ex": "If we [[shut the plant]], three hundred families in a town of eight thousand are affected.",
+    "ex_us": "If we [[shut down the plant]], three hundred families in a town of eight thousand are affected."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to earmark a site for closure",
+   "to wind down production",
+   "to transfer production",
+   "a phased closure"
+  ],
+  "note_fr": "« Closure » est le nom britannique, « closing » l'américain (« plant closing » est un terme de la loi WARN). Aux États-Unis « site » évoque d'abord un site web : préférez « plant » ou « facility ». « To mothball » = mettre en sommeil, et non fermer définitivement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-058",
+  "level": 3,
+  "fr": "obligation de recherche d'un repreneur",
+  "term": {
+   "uk": "search for a buyer",
+   "us": "search for a buyer"
+  },
+  "ipa": {
+   "uk": "/ˌsɜːtʃ fər ə ˈbaɪə/",
+   "us": "/ˌsɜːrtʃ fər ə ˈbaɪər/"
+  },
+  "def": "The legal duty of a large French company planning to close a site to look actively for someone to take it over.",
+  "registers": {
+   "formal": {
+    "uk": "the obligation to seek a buyer",
+    "us": "the obligation to seek a buyer",
+    "ex": "Before closing an establishment, large companies are subject to [[the obligation to seek a buyer]] and must report to the works council on the offers received."
+   },
+   "everyday": {
+    "uk": "to look for a buyer",
+    "us": "to look for a buyer",
+    "ex": "We have to [[look for a buyer]] seriously, and be able to prove that we did."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a takeover offer",
+   "to give a reasoned reply to each offer",
+   "a potential acquirer",
+   "to report to the works council"
+  ],
+  "note_fr": "« Repreneur » = « buyer », « acquirer » ou « purchaser » ; « retaker » n'existe pas. L'obligation vise les entreprises d'au moins mille salariés ; elle impose de chercher et de répondre de façon motivée aux offres, pas de vendre. L'administration vérifie son respect avant de valider ou d'homologuer le plan.",
+  "french_concept": true,
+  "explain": {
+   "written": "A company or group of at least one thousand employees that plans to close an establishment, resulting in collective redundancies, must inform the works council and the authorities, actively seek a buyer and give a reasoned response to any offer received.",
+   "spoken": "In France a big group can't simply close a site. First we have to look seriously for someone to take it over, tell the works council about every offer and explain why we accept or reject it."
+  }
+ },
+ {
+  "id": "rs-059",
+  "level": 3,
+  "fr": "revitalisation du bassin d'emploi",
+  "term": {
+   "uk": "revitalisation",
+   "us": "revitalization"
+  },
+  "ipa": {
+   "uk": "/riːˌvaɪtəlaɪˈzeɪʃ(ə)n/",
+   "us": "/riːˌvaɪtələˈzeɪʃ(ə)n/"
+  },
+  "def": "The obligation for large companies whose redundancies upset the local job market to help finance new jobs in the area.",
+  "registers": {
+   "formal": {
+    "uk": "a revitalisation agreement",
+    "us": "a revitalization agreement",
+    "ex": "The Company shall enter into [[a revitalisation agreement]] with the State to contribute to the creation of jobs in the area affected.",
+    "ex_us": "The Company shall enter into [[a revitalization agreement]] with the State to contribute to the creation of jobs in the area affected."
+   },
+   "everyday": {
+    "uk": "to put money back into the area",
+    "us": "to put money back into the area",
+    "ex": "On top of the plan, we'll have to [[put money back into the area]] - that's a legal obligation, not PR."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a financial contribution per job lost",
+   "to offset the impact on local employment",
+   "to support local job creation",
+   "an agreement with the State"
+  ],
+  "note_fr": "Coût distinct du plan, souvent oublié dans le budget présenté au siège : la contribution est calculée par emploi supprimé et fixée par une convention signée avec le préfet. Glosez : « a statutory contribution to local job creation ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Companies or groups of at least one thousand employees whose collective redundancies affect the balance of the local employment area must contribute, under an agreement signed with the State, to the creation of activities and jobs in that area.",
+   "spoken": "When a big group cuts enough jobs to hurt the local economy, it has to pay into job creation in the area. The amount is agreed with the State's local representative and comes on top of the plan."
+  }
+ },
+ {
+  "id": "rs-060",
+  "level": 2,
+  "fr": "commission de suivi",
+  "term": {
+   "uk": "monitoring committee",
+   "us": "monitoring committee"
+  },
+  "ipa": {
+   "uk": "/ˈmɒnɪtərɪŋ kəˌmɪti/",
+   "us": "/ˈmɑːnɪtərɪŋ kəˌmɪti/"
+  },
+  "def": "A joint body of management and employee representatives that follows the implementation of the plan.",
+  "registers": {
+   "formal": {
+    "uk": "the monitoring committee",
+    "us": "the monitoring committee",
+    "ex": "[[The monitoring committee]] shall meet monthly to review the implementation of the redeployment measures."
+   },
+   "everyday": {
+    "uk": "the follow-up committee",
+    "us": "the follow-up committee",
+    "ex": "The unions sit on [[the follow-up committee]], so they see the numbers every month."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sit on a committee",
+   "to report to the committee",
+   "a progress report",
+   "to review individual cases"
+  ],
+  "note_fr": "« Suivre un dossier » = « to monitor », « to track », « to follow up on », et non « to follow ». Orthographe : committee (deux m, deux t, deux e). La mise en œuvre du plan fait l'objet d'une consultation régulière du CSE et d'un bilan transmis à l'administration.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-061",
+  "level": 1,
+  "fr": "climat social",
+  "term": {
+   "uk": "industrial relations climate",
+   "us": "labor relations climate"
+  },
+  "ipa": {
+   "uk": "/ɪnˌdʌstriəl rɪˈleɪʃ(ə)nz ˌklaɪmət/",
+   "us": "/ˌleɪbər rɪˈleɪʃ(ə)nz ˌklaɪmət/"
+  },
+  "def": "The general state of relations between management, employees and their representatives.",
+  "registers": {
+   "formal": {
+    "uk": "the industrial relations climate",
+    "us": "the labor relations climate",
+    "ex": "[[The industrial relations climate]] at the site has deteriorated since the announcement.",
+    "ex_us": "[[The labor relations climate]] at the site has deteriorated since the announcement."
+   },
+   "everyday": {
+    "uk": "the mood on the shop floor",
+    "us": "the mood on the shop floor",
+    "ex": "What's [[the mood on the shop floor]] this week?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "staff morale",
+   "tensions are running high",
+   "to defuse a situation",
+   "a deterioration in employee relations"
+  ],
+  "note_fr": "« Social climate », « social dialogue », « social partners » relèvent de l'euro-anglais : pour un Britannique ou un Américain, « social » renvoie à la vie mondaine ou à la société. Dites « employee relations », « industrial relations » (UK), « labor relations » (US), « staff morale ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-062",
+  "level": 1,
+  "fr": "risque de grève",
+  "term": {
+   "uk": "risk of industrial action",
+   "us": "risk of a strike"
+  },
+  "ipa": {
+   "uk": "/ˌrɪsk əv ɪnˌdʌstriəl ˈækʃ(ə)n/",
+   "us": "/ˌrɪsk əv ə ˈstraɪk/"
+  },
+  "def": "The likelihood that employees will stop work or otherwise disrupt operations in protest.",
+  "registers": {
+   "formal": {
+    "uk": "industrial action",
+    "us": "a work stoppage",
+    "ex": "The risk of [[industrial action]] during the consultation period is assessed as high.",
+    "ex_us": "The risk of [[a work stoppage]] during the consultation period is assessed as high."
+   },
+   "everyday": {
+    "uk": "to go on strike",
+    "us": "to go on strike",
+    "ex": "They won't [[go on strike]] over the procedure, but they might over the money."
+   },
+   "informal": {
+    "uk": "to down tools",
+    "us": "to walk off the job",
+    "ex": "The night shift [[downed tools]] at ten.",
+    "ex_us": "The night shift [[walked off the job]] at ten."
+   }
+  },
+  "collocations": [
+   "to call a strike",
+   "strike action",
+   "a strike notice",
+   "to be out on strike"
+  ],
+  "note_fr": "On dit « to go on strike » ou « to strike », jamais « to make strike ». En France, la grève est un droit individuel exercé collectivement, sans vote ni préavis dans le secteur privé ; au Royaume-Uni elle suppose un vote à bulletin secret organisé par le syndicat ; aux États-Unis, les conventions comportent souvent une « no-strike clause ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-063",
+  "level": 2,
+  "fr": "débrayage",
+  "term": {
+   "uk": "walkout",
+   "us": "walkout"
+  },
+  "ipa": {
+   "uk": "/ˈwɔːkaʊt/",
+   "us": "/ˈwɔːkaʊt/"
+  },
+  "def": "A short, often spontaneous, stoppage of work in protest.",
+  "registers": {
+   "formal": {
+    "uk": "a short work stoppage",
+    "us": "a short work stoppage",
+    "ex": "[[A short work stoppage]] took place on the morning shift following the meeting."
+   },
+   "everyday": {
+    "uk": "a walkout",
+    "us": "a walkout",
+    "ex": "There was a two-hour [[walkout]] yesterday; production's back to normal."
+   },
+   "informal": {
+    "uk": "to walk out",
+    "us": "to walk out",
+    "ex": "Half the warehouse [[walked out]] when they heard."
+   }
+  },
+  "collocations": [
+   "to stage a walkout",
+   "a go-slow",
+   "a wildcat strike",
+   "to return to work"
+  ],
+  "note_fr": "Le nom s'écrit en un mot (« a walkout »), le verbe en deux (« to walk out »). « A go-slow » (UK) / « a slowdown » (US) = grève perlée ; « a wildcat strike » = grève sauvage, sans mot d'ordre syndical.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-064",
+  "level": 2,
+  "fr": "blocage du site",
+  "term": {
+   "uk": "blockade",
+   "us": "blockade"
+  },
+  "ipa": {
+   "uk": "/blɒˈkeɪd/",
+   "us": "/blɑːˈkeɪd/"
+  },
+  "def": "Action by which protesters prevent people, vehicles or goods from entering or leaving a workplace.",
+  "registers": {
+   "formal": {
+    "uk": "to obstruct access to the site",
+    "us": "to obstruct access to the site",
+    "ex": "Any attempt to [[obstruct access to the site]] will be formally recorded and may give rise to legal proceedings."
+   },
+   "everyday": {
+    "uk": "to blockade the site",
+    "us": "to blockade the site",
+    "ex": "They've [[blockaded the site]] with pallets; no lorries in or out.",
+    "ex_us": "They've [[blockaded the site]] with pallets; no trucks in or out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a picket line",
+   "a sit-in",
+   "to occupy the premises",
+   "to lift the blockade"
+  ],
+  "note_fr": "« Blocage » ne se dit pas « blocking » : c'est « a blockade », accent sur la seconde syllabe. « Picket line » = piquet de grève. Rappelez au siège que la grève est licite en France, mais non le blocage des accès ou l'occupation des locaux.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-065",
+  "level": 2,
+  "fr": "exposition médiatique",
+  "term": {
+   "uk": "media exposure",
+   "us": "media exposure"
+  },
+  "ipa": {
+   "uk": "/ˈmiːdiə ɪkˌspəʊʒə/",
+   "us": "/ˈmiːdiə ɪkˌspoʊʒər/"
+  },
+  "def": "The extent to which an event is likely to be reported and commented on by the press and broadcasters.",
+  "registers": {
+   "formal": {
+    "uk": "media coverage",
+    "us": "media coverage",
+    "ex": "The announcement is likely to attract national [[media coverage]] and questions from local elected officials."
+   },
+   "everyday": {
+    "uk": "bad press",
+    "us": "bad press",
+    "ex": "The last thing the group needs is [[bad press]] in France three months before its results."
+   },
+   "informal": {
+    "uk": "to make the headlines",
+    "us": "to make the headlines",
+    "ex": "A closure in a town that size will [[make the headlines]]."
+   }
+  },
+  "collocations": [
+   "a holding statement",
+   "to issue a press release",
+   "no comment at this stage",
+   "reputational risk"
+  ],
+  "note_fr": "« Mediatic » et « to mediatise » n'existent pas : dites « high-profile », « to attract media attention ». « Publicity » = retentissement, notoriété, et non publicité commerciale (« advertising »). « A holding statement » = déclaration d'attente préparée à l'avance.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-066",
+  "level": 1,
+  "fr": "annonce (du projet)",
+  "term": {
+   "uk": "announcement",
+   "us": "announcement"
+  },
+  "ipa": {
+   "uk": "/əˈnaʊnsmənt/",
+   "us": "/əˈnaʊnsmənt/"
+  },
+  "def": "The moment at which a company makes a restructuring proposal known to representatives, staff and the outside world.",
+  "registers": {
+   "formal": {
+    "uk": "to announce the proposed plan",
+    "us": "to announce the proposed plan",
+    "ex": "Management will [[announce the proposed plan]] to the works council on 14 March, before any communication to staff."
+   },
+   "everyday": {
+    "uk": "to break the news",
+    "us": "to break the news",
+    "ex": "Who's going to [[break the news]] to the night shift?"
+   },
+   "informal": {
+    "uk": "to drop the bombshell",
+    "us": "to drop the bombshell",
+    "ex": "They [[dropped the bombshell]] on a Monday morning, with no warning at all."
+   }
+  },
+  "collocations": [
+   "announcement day",
+   "to make an announcement",
+   "ahead of the announcement",
+   "to hear it first-hand"
+  ],
+  "note_fr": "« To announce » se construit avec « to » devant la personne : « announce it to the staff », jamais « announce the staff ». Le CSE doit être informé avant le personnel et la presse. Une offre d'emploi est « a job advert » ou « a job ad », pas « an announcement ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-067",
+  "level": 2,
+  "fr": "projet (de licenciement, de réorganisation)",
+  "term": {
+   "uk": "proposed plan",
+   "us": "proposed plan"
+  },
+  "ipa": {
+   "uk": "/prəˌpəʊzd ˈplæn/",
+   "us": "/prəˌpoʊzd ˈplæn/"
+  },
+  "def": "A plan that has been put forward for consultation but not yet finally decided.",
+  "registers": {
+   "formal": {
+    "uk": "the contemplated dismissals",
+    "us": "the contemplated dismissals",
+    "ex": "The number of [[contemplated dismissals]] is 64, spread across four job categories."
+   },
+   "everyday": {
+    "uk": "what we're proposing",
+    "us": "what we're proposing",
+    "ex": "At this stage it's only [[what we're proposing]]; nothing is decided until consultation is over."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "at the proposal stage",
+   "would, not will",
+   "a draft plan",
+   "no final decision has been taken"
+  ],
+  "note_fr": "« Projet » ≠ « project » dans ce contexte : dites « proposal », « proposed », « contemplated », « planned », « draft ». Enjeu juridique : tant que la consultation n'est pas achevée, on parle au conditionnel (« would »). Présenter la décision comme acquise expose à un contentieux pour défaut de consultation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-068",
+  "level": 2,
+  "fr": "éléments de langage",
+  "term": {
+   "uk": "talking points",
+   "us": "talking points"
+  },
+  "ipa": {
+   "uk": "/ˈtɔːkɪŋ pɔɪnts/",
+   "us": "/ˈtɔːkɪŋ pɔɪnts/"
+  },
+  "def": "A short list of agreed messages prepared for people who will have to explain a decision.",
+  "registers": {
+   "formal": {
+    "uk": "key messages",
+    "us": "key messages",
+    "ex": "The [[key messages]] for line managers are set out in the attached briefing pack."
+   },
+   "everyday": {
+    "uk": "talking points",
+    "us": "talking points",
+    "ex": "I'll send the managers their [[talking points]] tonight, with a Q&A."
+   },
+   "informal": {
+    "uk": "to stick to the script",
+    "us": "to stick to the script",
+    "ex": "Whatever they ask, [[stick to the script]]."
+   }
+  },
+  "collocations": [
+   "a Q&A document",
+   "to stay on message",
+   "a briefing pack",
+   "a consistent message"
+  ],
+  "note_fr": "« Language elements » est un calque incompréhensible. « Q&A » (questions and answers) = questions-réponses ; « to stay on message » = ne pas s'écarter du discours convenu ; « a briefing pack » = dossier d'information remis aux managers.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-069",
+  "level": 1,
+  "fr": "informer l'encadrement (avant l'annonce)",
+  "term": {
+   "uk": "to brief managers",
+   "us": "to brief managers"
+  },
+  "ipa": {
+   "uk": "/briːf ˈmænɪdʒəz/",
+   "us": "/briːf ˈmænɪdʒəz/"
+  },
+  "def": "To give managers the information and instructions they need before an announcement.",
+  "registers": {
+   "formal": {
+    "uk": "a management briefing",
+    "us": "a management briefing",
+    "ex": "[[A management briefing]] will be held at 8 a.m. on the day of the announcement."
+   },
+   "everyday": {
+    "uk": "to brief the managers",
+    "us": "to brief the managers",
+    "ex": "We'll [[brief the managers]] an hour before the council meeting - no earlier, or it'll leak."
+   },
+   "informal": {
+    "uk": "to give someone a heads-up",
+    "us": "to give someone a heads-up",
+    "ex": "I'd like to [[give him a heads-up]] the night before."
+   }
+  },
+  "collocations": [
+   "to cascade the message",
+   "line managers",
+   "to debrief afterwards",
+   "on a need-to-know basis"
+  ],
+  "note_fr": "« Manager » désigne en anglais tout encadrant, quel que soit son niveau ; « cadre » n'a pas d'équivalent (ni « executive », réservé aux dirigeants). « To cascade » = relayer en cascade ; « on a need-to-know basis » = en cercle restreint. US : /ˈmænɪdʒərz/.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-070",
+  "level": 1,
+  "fr": "fuite (d'information)",
+  "term": {
+   "uk": "leak",
+   "us": "leak"
+  },
+  "ipa": {
+   "uk": "/liːk/",
+   "us": "/liːk/"
+  },
+  "def": "The disclosure of confidential information before it is officially announced.",
+  "registers": {
+   "formal": {
+    "uk": "unauthorised disclosure",
+    "us": "unauthorized disclosure",
+    "ex": "Any [[unauthorised disclosure]] of the project before the works council has been informed could give rise to legal action.",
+    "ex_us": "Any [[unauthorized disclosure]] of the project before the works council has been informed could give rise to legal action."
+   },
+   "everyday": {
+    "uk": "a leak",
+    "us": "a leak",
+    "ex": "If there's [[a leak]] before Thursday, we go to plan B and bring the meeting forward."
+   },
+   "informal": {
+    "uk": "to get out",
+    "us": "to get out",
+    "ex": "It only takes one email for this to [[get out]]."
+   }
+  },
+  "collocations": [
+   "to leak to the press",
+   "a confidentiality undertaking",
+   "an insider list",
+   "to bring the announcement forward"
+  ],
+  "note_fr": "Voyelle longue : « leak » /liːk/, à ne pas confondre avec « lick » /lɪk/. « To bring forward » = avancer une date, le contraire de « to put back » ou « to postpone ». En cas de fuite, la priorité reste d'informer le CSE avant toute confirmation publique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-071",
+  "level": 1,
+  "fr": "salariés concernés",
+  "term": {
+   "uk": "affected employees",
+   "us": "affected employees"
+  },
+  "ipa": {
+   "uk": "/əˌfektɪd ɪmˈplɔɪiːz/",
+   "us": "/əˌfektɪd ɪmˈplɔɪiːz/"
+  },
+  "def": "The employees whose jobs or working conditions are changed or put at risk by a project.",
+  "registers": {
+   "formal": {
+    "uk": "the employees affected",
+    "us": "the employees affected",
+    "ex": "[[The employees affected]] will each receive a personal letter setting out the measures open to them."
+   },
+   "everyday": {
+    "uk": "the people affected",
+    "us": "the people impacted",
+    "ex": "Our first duty is to [[the people affected]], not to the press.",
+    "ex_us": "Our first duty is to [[the people impacted]], not to the press."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "directly affected",
+   "to be affected by the plan",
+   "those concerned",
+   "the remaining employees"
+  ],
+  "note_fr": "Attention à la place de l'adjectif : « the employees concerned » = les salariés concernés ; « concerned employees » = des salariés inquiets. « Affected » (touché) ≠ « effected » (réalisé). « Impacted » est courant aux États-Unis mais mal vu des puristes britanniques. N'oubliez pas « the survivors » : ceux qui restent.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-072",
+  "level": 1,
+  "fr": "salarié dont le poste est menacé (statut britannique « at risk »)",
+  "term": {
+   "uk": "at risk of redundancy",
+   "us": "at risk of layoff"
+  },
+  "ipa": {
+   "uk": "/ət ˌrɪsk əv rɪˈdʌndənsi/",
+   "us": "/ət ˌrɪsk əv ˈleɪɔːf/"
+  },
+  "def": "In UK practice, the status of an employee who has been formally told that his or her job may be made redundant.",
+  "registers": {
+   "formal": {
+    "uk": "to be placed at risk of redundancy",
+    "us": "to be notified of a potential layoff",
+    "ex": "Forty-five employees have [[been placed at risk of redundancy]], and collective consultation has begun.",
+    "ex_us": "Forty-five employees have [[been notified of a potential layoff]]."
+   },
+   "everyday": {
+    "uk": "to be at risk",
+    "us": "to be on the list",
+    "ex": "She's [[at risk]], but she's applied for one of the new roles.",
+    "ex_us": "She's [[on the list]], but she's applied for one of the new positions."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an at-risk letter",
+   "an at-risk meeting",
+   "individual consultation",
+   "to be taken out of the pool"
+  ],
+  "note_fr": "Étape typiquement britannique, sans équivalent français : au Royaume-Uni, les salariés sont individuellement « mis à risque » dès le début de la consultation ; en France, on annonce des postes et les personnes ne sont désignées qu'après l'application des critères d'ordre. Expliquez ce décalage à un DRH britannique.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-073",
+  "level": 1,
+  "fr": "consultation collective (procédure britannique)",
+  "term": {
+   "uk": "collective consultation",
+   "us": "collective consultation"
+  },
+  "ipa": {
+   "uk": "/kəˌlektɪv ˌkɒns(ə)lˈteɪʃ(ə)n/",
+   "us": "/kəˌlektɪv ˌkɑːns(ə)lˈteɪʃ(ə)n/"
+  },
+  "def": "In the UK, the employer's duty to consult employee representatives when proposing a large number of redundancies at one establishment.",
+  "registers": {
+   "formal": {
+    "uk": "collective consultation",
+    "us": "collective consultation",
+    "ex": "[[Collective consultation]] must begin in good time and at least thirty days before the first dismissal takes effect where twenty or more redundancies are proposed."
+   },
+   "everyday": {
+    "uk": "the consultation period",
+    "us": "the consultation period",
+    "ex": "In the UK [[the consultation period]] is thirty or forty-five days; in France, think in months."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to consult with a view to reaching agreement",
+   "elected employee representatives",
+   "a recognised trade union",
+   "to notify the government in advance"
+  ],
+  "note_fr": "Au Royaume-Uni : consultation des représentants « with a view to reaching agreement », trente jours au moins (quarante-cinq à partir de cent licenciements), simple notification préalable à l'administration et aucune approbation. Aux États-Unis, pas d'obligation générale de consulter, sauf convention collective.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-074",
+  "level": 3,
+  "fr": "indemnité pour défaut de consultation collective (sanction britannique)",
+  "term": {
+   "uk": "protective award",
+   "us": "protective award"
+  },
+  "ipa": {
+   "uk": "/prəˌtektɪv əˈwɔːd/",
+   "us": "/prəˌtektɪv əˈwɔːrd/"
+  },
+  "def": "In the UK, compensation that an employment tribunal orders an employer to pay to each affected employee for failing to consult collectively.",
+  "registers": {
+   "formal": {
+    "uk": "a protective award",
+    "us": "a protective award",
+    "ex": "A tribunal may make [[a protective award]] of up to ninety days' pay per affected employee where the employer has failed to consult."
+   },
+   "everyday": {
+    "uk": "the penalty for not consulting",
+    "us": "the penalty for not consulting",
+    "ex": "In the UK, [[the penalty for not consulting]] is money; in France, the whole plan can be struck down."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make an award",
+   "failure to consult",
+   "per affected employee",
+   "to buy out the consultation period"
+  ],
+  "note_fr": "Différence de nature à expliquer : au Royaume-Uni, le défaut de consultation se paie mais les licenciements restent acquis, d'où la tentation de « buy out the consultation ». En France, la sanction peut aller jusqu'à la nullité des licenciements. « Award » = somme allouée par un juge.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-075",
+  "level": 2,
+  "fr": "préavis légal américain de fermeture ou de licenciement massif (loi WARN)",
+  "term": {
+   "uk": "WARN notice",
+   "us": "WARN notice"
+  },
+  "ipa": {
+   "uk": "/ˈwɔːn ˌnəʊtɪs/",
+   "us": "/ˈwɔːrn ˌnoʊtɪs/"
+  },
+  "def": "In the US, the advance written notice that larger employers must give before a plant closing or mass layoff.",
+  "registers": {
+   "formal": {
+    "uk": "notice under the WARN Act",
+    "us": "notice under the WARN Act",
+    "ex": "Covered employers must give sixty days' [[notice under the WARN Act]] before a plant closing or mass layoff."
+   },
+   "everyday": {
+    "uk": "a WARN notice",
+    "us": "a WARN notice",
+    "ex": "Our US colleagues think sixty days and [[a WARN notice]]; that's their whole frame of reference."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue WARN notices",
+   "sixty days' notice",
+   "pay in lieu of notice",
+   "state mini-WARN laws"
+  ],
+  "note_fr": "WARN = Worker Adjustment and Retraining Notification Act. C'est une simple obligation de prévenir (salariés, représentants, autorités locales), sans consultation ni approbation ; plusieurs États ont leurs propres « mini-WARN ». Voilà pourquoi un siège américain raisonne spontanément en « soixante jours ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-076",
+  "level": 2,
+  "fr": "compression d'effectifs (terme américain « RIF »)",
+  "term": {
+   "uk": "redundancy programme",
+   "us": "reduction in force"
+  },
+  "ipa": {
+   "uk": "/rɪˈdʌndənsi ˌprəʊɡræm/",
+   "us": "/rɪˌdʌkʃ(ə)n ɪn ˈfɔːrs/"
+  },
+  "def": "A planned, permanent cut in the number of employees.",
+  "registers": {
+   "formal": {
+    "uk": "a redundancy programme",
+    "us": "a reduction in force",
+    "ex": "The group has announced [[a redundancy programme]] affecting 8% of its global workforce.",
+    "ex_us": "The group has announced [[a reduction in force]] affecting 8% of its global workforce."
+   },
+   "everyday": {
+    "uk": "a round of redundancies",
+    "us": "a RIF",
+    "ex": "This is the third [[round of redundancies]] in five years.",
+    "ex_us": "This is the third [[RIF]] in five years."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to carry out a RIF",
+   "to be affected by the RIF",
+   "a company-wide programme",
+   "another round of cuts"
+  ],
+  "note_fr": "« RIF » se prononce /rɪf/ et se conjugue familièrement (« he was RIF'd »). Le terme implique une suppression définitive, alors que « layoff » peut désigner une mise à pied temporaire avec rappel possible. Inconnu au Royaume-Uni en dehors des filiales de groupes américains.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-077",
+  "level": 1,
+  "fr": "licencier pour motif économique",
+  "term": {
+   "uk": "to make redundant",
+   "us": "to lay off"
+  },
+  "ipa": {
+   "uk": "/ˌmeɪk rɪˈdʌndənt/",
+   "us": "/ˌleɪ ˈɔːf/"
+  },
+  "def": "To end someone's employment because the job is no longer needed.",
+  "registers": {
+   "formal": {
+    "uk": "to be dismissed by reason of redundancy",
+    "us": "to be terminated in connection with the reduction in force",
+    "ex": "No employee will [[be dismissed by reason of redundancy]] before the end of the consultation period.",
+    "ex_us": "No employee will [[be terminated in connection with the reduction in force]] before the end of the consultation period."
+   },
+   "everyday": {
+    "uk": "to be made redundant",
+    "us": "to be laid off",
+    "ex": "He was [[made redundant]] after twenty years with the company.",
+    "ex_us": "He was [[laid off]] after twenty years with the company."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make 50 staff redundant",
+   "to be laid off with severance",
+   "to lose one's job",
+   "your role is redundant"
+  ],
+  "note_fr": "« Redundant » signifie littéralement superflu : on dit « your role is redundant », jamais « you are redundant ». « To fire » et « to sack » supposent une faute et sont à proscrire ici. Verbe irrégulier : lay, laid, laid.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-078",
+  "level": 1,
+  "fr": "conditions financières de départ",
+  "term": {
+   "uk": "redundancy package",
+   "us": "severance package"
+  },
+  "ipa": {
+   "uk": "/rɪˈdʌndənsi ˌpækɪdʒ/",
+   "us": "/ˈsev(ə)rəns ˌpækɪdʒ/"
+  },
+  "def": "The total of payments and benefits an employee receives on leaving.",
+  "registers": {
+   "formal": {
+    "uk": "redundancy terms",
+    "us": "severance benefits",
+    "ex": "The [[redundancy terms]] applicable to you are set out in the enclosed statement.",
+    "ex_us": "The [[severance benefits]] applicable to you are set out in the enclosed statement."
+   },
+   "everyday": {
+    "uk": "the package",
+    "us": "the package",
+    "ex": "People will judge the plan on [[the package]], so let's get the numbers right first."
+   },
+   "informal": {
+    "uk": "a pay-off",
+    "us": "a payout",
+    "ex": "He walked away with a decent [[pay-off]].",
+    "ex_us": "He walked away with a decent [[payout]]."
+   }
+  },
+  "collocations": [
+   "a generous package",
+   "to accept the package",
+   "the terms on offer",
+   "continued health cover"
+  ],
+  "note_fr": "« Package » englobe tout : indemnités, préavis, maintien de couverture santé, outplacement. Aux États-Unis, il inclut souvent la prise en charge temporaire de l'assurance santé, sujet sans objet en France. « A golden handshake » ne se dit que pour les dirigeants.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-079",
+  "level": 3,
+  "fr": "renonciation à recours en contrepartie de l'indemnité (pratique américaine)",
+  "term": {
+   "uk": "waiver of claims",
+   "us": "release of claims"
+  },
+  "ipa": {
+   "uk": "/ˌweɪvər əv ˈkleɪmz/",
+   "us": "/rɪˌliːs əv ˈkleɪmz/"
+  },
+  "def": "A document in which a departing employee gives up the right to sue the employer, in exchange for a payment.",
+  "registers": {
+   "formal": {
+    "uk": "a waiver of claims",
+    "us": "a release of claims",
+    "ex": "Payment of the enhanced amount is conditional on the employee signing [[a waiver of claims]].",
+    "ex_us": "Payment of severance is conditional on the employee signing [[a release of claims]]."
+   },
+   "everyday": {
+    "uk": "to sign a waiver",
+    "us": "to sign a release",
+    "ex": "Can we ask people to [[sign a waiver]] in exchange for the extra money?",
+    "ex_us": "Can we ask people to [[sign a release]] in exchange for the extra money?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a general release",
+   "a consideration period",
+   "a revocation period",
+   "in exchange for severance"
+  ],
+  "note_fr": "Réflexe américain à désamorcer : en France, le bénéfice des mesures d'un plan ne peut pas être subordonné à une renonciation à agir, et une transaction ne se signe qu'après la notification du licenciement, moyennant des concessions réciproques. Aux États-Unis, la validité de la « release » des salariés de quarante ans et plus obéit à des délais de réflexion et de rétractation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-080",
+  "level": 3,
+  "fr": "analyse de l'impact discriminatoire de la sélection (pratique américaine)",
+  "term": {
+   "uk": "equality impact assessment",
+   "us": "adverse impact analysis"
+  },
+  "ipa": {
+   "uk": "/ɪˈkwɒləti ˈɪmpækt əˌsesmənt/",
+   "us": "/ˌædvɜːrs ˈɪmpækt əˌnæləsɪs/"
+  },
+  "def": "A statistical check that the people selected for redundancy do not come disproportionately from a group protected by discrimination law.",
+  "registers": {
+   "formal": {
+    "uk": "an equality impact assessment",
+    "us": "an adverse impact analysis",
+    "ex": "[[An equality impact assessment]] should be carried out before the selection scores are confirmed.",
+    "ex_us": "[[An adverse impact analysis]] should be run before the selection list is finalized."
+   },
+   "everyday": {
+    "uk": "to check the list for bias",
+    "us": "to check the list for bias",
+    "ex": "Legal want to [[check the list for bias]] - age, sex, race - before anything goes out.",
+    "ex_us": "Legal wants to [[check the list for bias]] - age, sex, race - before anything goes out."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "disparate impact",
+   "a protected characteristic",
+   "statistically significant",
+   "to rerun the numbers"
+  ],
+  "note_fr": "Un juriste américain demandera cette analyse par réflexe. Expliquez qu'en France les critères d'ordre sont fixés par la loi et que la collecte de données sur l'origine ethnique est en principe interdite : la ventilation par « race » qu'il attend ne peut pas être fournie. Notez l'accord au pluriel du collectif en anglais britannique (« Legal want »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-081",
+  "level": 2,
+  "fr": "aide à la mobilité géographique",
+  "term": {
+   "uk": "relocation assistance",
+   "us": "relocation assistance"
+  },
+  "ipa": {
+   "uk": "/ˌriːləʊˈkeɪʃ(ə)n əˌsɪst(ə)ns/",
+   "us": "/ˌriːloʊˈkeɪʃ(ə)n əˌsɪst(ə)ns/"
+  },
+  "def": "Financial and practical help for an employee who moves home to take up a job in another place.",
+  "registers": {
+   "formal": {
+    "uk": "relocation assistance",
+    "us": "relocation assistance",
+    "ex": "[[Relocation assistance]] covers removal costs, a settling-in allowance and help for the employee's partner in finding work.",
+    "ex_us": "[[Relocation assistance]] covers moving costs, a settling-in allowance and help for the employee's partner in finding work."
+   },
+   "everyday": {
+    "uk": "to relocate",
+    "us": "to relocate",
+    "ex": "Not many people will [[relocate]] from Brittany to Alsace, whatever we pay."
+   },
+   "informal": {
+    "uk": "to up sticks",
+    "us": "to pull up stakes",
+    "ex": "You can't expect a family to [[up sticks]] for a job that may not last.",
+    "ex_us": "You can't expect a family to [[pull up stakes]] for a job that may not last."
+   }
+  },
+  "collocations": [
+   "a relocation package",
+   "a house-hunting trip",
+   "to commute weekly",
+   "within a reasonable travelling distance"
+  ],
+  "note_fr": "« Mobility » évoque en anglais la mobilité physique ou sociale : pour un déménagement professionnel, dites « relocation ». « Removal costs » (UK) / « moving costs » (US) = frais de déménagement. « To commute » = faire le trajet domicile-travail.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-082",
+  "level": 2,
+  "fr": "mesures d'âge / départ anticipé à la retraite",
+  "term": {
+   "uk": "early retirement scheme",
+   "us": "early retirement program"
+  },
+  "ipa": {
+   "uk": "/ˌɜːli rɪˈtaɪəmənt skiːm/",
+   "us": "/ˌɜːrli rɪˈtaɪərmənt ˌproʊɡræm/"
+  },
+  "def": "An arrangement allowing older employees to stop working before normal retirement age, with financial support from the employer.",
+  "registers": {
+   "formal": {
+    "uk": "an early retirement scheme",
+    "us": "an early retirement program",
+    "ex": "Employees within three years of their full pension entitlement may opt for [[an early retirement scheme]] funded by the Company.",
+    "ex_us": "Employees within three years of their full pension entitlement may opt for [[an early retirement program]] funded by the Company."
+   },
+   "everyday": {
+    "uk": "to retire early",
+    "us": "to retire early",
+    "ex": "A lot of the older operators would happily [[retire early]] if the numbers worked."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bridge the gap to retirement",
+   "close to retirement age",
+   "a bridging payment",
+   "to draw one's pension"
+  ],
+  "note_fr": "« Retraite » ≠ « retreat » : « retirement » désigne le fait de partir, « pension » la somme perçue. « To bridge to retirement » = assurer le portage jusqu'à la retraite. Des mesures réservées aux seniors doivent rester justifiables au regard de l'interdiction des discriminations liées à l'âge.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-083",
+  "level": 3,
+  "fr": "départs échelonnés",
+  "term": {
+   "uk": "phased departures",
+   "us": "phased departures"
+  },
+  "ipa": {
+   "uk": "/ˌfeɪzd dɪˈpɑːtʃəz/",
+   "us": "/ˌfeɪzd dɪˈpɑːrtʃərz/"
+  },
+  "def": "Departures spread over a period, in successive waves, rather than taking place on a single date.",
+  "registers": {
+   "formal": {
+    "uk": "phased departures",
+    "us": "phased departures",
+    "ex": "The plan provides for [[phased departures]] between September and March, in line with the wind-down of production."
+   },
+   "everyday": {
+    "uk": "to stagger departures",
+    "us": "to stagger departures",
+    "ex": "We'll [[stagger departures]] so that the line keeps running until the last order ships."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "in three waves",
+   "the wind-down of production",
+   "an exit date",
+   "to release someone early"
+  ],
+  "note_fr": "« Phased » ou « staggered » = échelonné ; « wind-down » = arrêt progressif. À ne pas confondre avec l'étalement artificiel des licenciements pour rester sous les seuils. Le calendrier prévisionnel des départs fait partie des informations remises au CSE.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-084",
+  "level": 2,
+  "fr": "prime de rétention / de maintien en poste",
+  "term": {
+   "uk": "retention bonus",
+   "us": "retention bonus"
+  },
+  "ipa": {
+   "uk": "/rɪˈtenʃ(ə)n ˌbəʊnəs/",
+   "us": "/rɪˈtenʃ(ə)n ˌboʊnəs/"
+  },
+  "def": "A payment promised to employees who stay in their job until a given date, typically the end of a closure.",
+  "registers": {
+   "formal": {
+    "uk": "a retention bonus",
+    "us": "a retention bonus",
+    "ex": "[[A retention bonus]] is payable to employees who remain in post until their scheduled departure date."
+   },
+   "everyday": {
+    "uk": "a stay bonus",
+    "us": "a stay bonus",
+    "ex": "Without [[a stay bonus]], the maintenance team will be gone by Christmas."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to remain in post",
+   "key people",
+   "payable on completion",
+   "to hold on to critical skills"
+  ],
+  "note_fr": "« Prime » ne se dit pas « prime » (= principal, de premier ordre) ni « premium » (prime d'assurance, majoration). Sujet délicat en négociation : les syndicats y voient facilement une inégalité de traitement ; préparez des critères objectifs.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-085",
+  "level": 3,
+  "fr": "volontariat de substitution",
+  "term": {
+   "uk": "job swap",
+   "us": "job swap"
+  },
+  "ipa": {
+   "uk": "/ˈdʒɒb swɒp/",
+   "us": "/ˈdʒɑːb swɑːp/"
+  },
+  "def": "An arrangement by which an employee whose job is not being cut volunteers to leave, so that a colleague whose job is disappearing can take over the post.",
+  "registers": {
+   "formal": {
+    "uk": "a substitution departure",
+    "us": "a substitution departure",
+    "ex": "[[A substitution departure]] is accepted where it enables an employee whose position is eliminated to be redeployed."
+   },
+   "everyday": {
+    "uk": "a job swap",
+    "us": "a job swap",
+    "ex": "If someone in a safe job wants to go, [[a job swap]] can save a colleague whose post is being cut."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to free up a position",
+   "to volunteer in someone's place",
+   "a like-for-like swap",
+   "to save a colleague's job"
+  ],
+  "note_fr": "Faux équivalent : « bumping » désigne, au Royaume-Uni et aux États-Unis, le mécanisme inverse et subi, où un salarié dont le poste disparaît en évince un autre, souvent moins ancien, qui est licencié à sa place. Le volontariat de substitution français repose, lui, sur le choix du partant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-086",
+  "level": 1,
+  "fr": "négocier (le contenu du plan)",
+  "term": {
+   "uk": "to negotiate",
+   "us": "to negotiate"
+  },
+  "ipa": {
+   "uk": "/nɪˈɡəʊʃieɪt/",
+   "us": "/nɪˈɡoʊʃieɪt/"
+  },
+  "def": "To discuss with the other side in order to reach an agreement.",
+  "registers": {
+   "formal": {
+    "uk": "to open negotiations",
+    "us": "to open negotiations",
+    "ex": "Management has invited the representative trade unions to [[open negotiations]] on the content of the plan."
+   },
+   "everyday": {
+    "uk": "to sit down with the unions",
+    "us": "to sit down with the unions",
+    "ex": "We need to [[sit down with the unions]] before positions harden."
+   },
+   "informal": {
+    "uk": "to hammer out a deal",
+    "us": "to hammer out a deal",
+    "ex": "It took three nights to [[hammer out a deal]]."
+   }
+  },
+  "collocations": [
+   "a negotiating mandate",
+   "a round of talks",
+   "to break off talks",
+   "to reach a deal"
+  ],
+  "note_fr": "Orthographe : negotiate, avec un t. On négocie avec les syndicats et l'on consulte le CSE : deux exercices distincts, menés en parallèle. « Talks » est le mot courant pour des négociations (« the talks broke down »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-087",
+  "level": 2,
+  "fr": "point de blocage",
+  "term": {
+   "uk": "sticking point",
+   "us": "sticking point"
+  },
+  "ipa": {
+   "uk": "/ˈstɪkɪŋ pɔɪnt/",
+   "us": "/ˈstɪkɪŋ pɔɪnt/"
+  },
+  "def": "An issue on which the parties cannot agree and which holds up the whole negotiation.",
+  "registers": {
+   "formal": {
+    "uk": "an outstanding issue",
+    "us": "an outstanding issue",
+    "ex": "The level of the supplementary severance payment remains [[an outstanding issue]] between the parties."
+   },
+   "everyday": {
+    "uk": "a sticking point",
+    "us": "a sticking point",
+    "ex": "The length of redeployment leave is the main [[sticking point]]."
+   },
+   "informal": {
+    "uk": "a deal-breaker",
+    "us": "a deal-breaker",
+    "ex": "For the majority union, forced departures are [[a deal-breaker]]."
+   }
+  },
+  "collocations": [
+   "to reach deadlock",
+   "to break the deadlock",
+   "a stumbling block",
+   "a red line"
+  ],
+  "note_fr": "« Blocking point » est un calque. « Outstanding » signifie ici en suspens (et ailleurs remarquable) : le contexte tranche. « Deadlock » = impasse ; « a deal-breaker » = condition rédhibitoire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-088",
+  "level": 2,
+  "fr": "contrepartie / concession",
+  "term": {
+   "uk": "trade-off",
+   "us": "trade-off"
+  },
+  "ipa": {
+   "uk": "/ˈtreɪdɒf/",
+   "us": "/ˈtreɪdɔːf/"
+  },
+  "def": "Something given up by one side in a negotiation in exchange for something obtained from the other.",
+  "registers": {
+   "formal": {
+    "uk": "to make a concession",
+    "us": "to make a concession",
+    "ex": "Management is prepared to [[make a concession]] on the length of the leave in return for a signed agreement."
+   },
+   "everyday": {
+    "uk": "to give ground",
+    "us": "to give ground",
+    "ex": "We'll have to [[give ground]] on the training budget if we want signatures."
+   },
+   "informal": {
+    "uk": "to meet someone halfway",
+    "us": "to meet someone halfway",
+    "ex": "They asked for twelve months and we offered six; let's [[meet them halfway]]."
+   }
+  },
+  "collocations": [
+   "in return for",
+   "a quid pro quo",
+   "give and take",
+   "room for manoeuvre"
+  ],
+  "note_fr": "« Counterpart » = homologue (ou exemplaire d'un contrat), jamais contrepartie : dites « in return », « in exchange » ou, en langage juridique, « consideration ». « Room for manoeuvre » (UK) / « room to maneuver » (US) = marge de manœuvre.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-089",
+  "level": 2,
+  "fr": "dernière proposition (de la direction)",
+  "term": {
+   "uk": "final offer",
+   "us": "final offer"
+  },
+  "ipa": {
+   "uk": "/ˌfaɪn(ə)l ˈɒfə/",
+   "us": "/ˌfaɪn(ə)l ˈɔːfər/"
+  },
+  "def": "The last proposal a party is prepared to make in a negotiation.",
+  "registers": {
+   "formal": {
+    "uk": "management's final proposal",
+    "us": "management's final proposal",
+    "ex": "[[Management's final proposal]] will remain open for signature until noon on Friday."
+   },
+   "everyday": {
+    "uk": "our final offer",
+    "us": "our final offer",
+    "ex": "That's [[our final offer]]; there's nothing left in the budget."
+   },
+   "informal": {
+    "uk": "take it or leave it",
+    "us": "take it or leave it",
+    "ex": "It isn't quite [[take it or leave it]], but we're very close to the limit."
+   }
+  },
+  "collocations": [
+   "to table an offer",
+   "to put an offer to the members",
+   "open for signature",
+   "best and final offer"
+  ],
+  "note_fr": "« Our latest offer » = notre proposition la plus récente ; « our last / final offer » = l'ultime : la confusion peut coûter cher. Faux ami transatlantique : « to table » = mettre sur la table (UK) mais ajourner (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-090",
+  "level": 3,
+  "fr": "notifier les licenciements",
+  "term": {
+   "uk": "to give notice of dismissal",
+   "us": "to give notice of termination"
+  },
+  "ipa": {
+   "uk": "/ˌɡɪv ˈnəʊtɪs əv dɪsˈmɪs(ə)l/",
+   "us": "/ˌɡɪv ˈnoʊtɪs əv ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "To inform employees formally, in writing, that their employment is being terminated.",
+  "registers": {
+   "formal": {
+    "uk": "to give notice of dismissal",
+    "us": "to give notice of termination",
+    "ex": "The Company may not [[give notice of dismissal]] until the administration's decision has been received.",
+    "ex_us": "The Company may not [[give notice of termination]] until the administration's decision has been received."
+   },
+   "everyday": {
+    "uk": "to send out the letters",
+    "us": "to send out the letters",
+    "ex": "We can't [[send out the letters]] before the approval comes through."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a dismissal letter",
+   "by recorded delivery",
+   "to notify the employee of the dismissal",
+   "void if sent too early"
+  ],
+  "note_fr": "« To notify » prend la personne pour complément : « to notify the employee of the dismissal », et non « to notify the dismissal ». Un licenciement notifié avant la décision de validation ou d'homologation est nul. Lettre recommandée : « recorded delivery » (UK), « certified mail » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-091",
+  "level": 1,
+  "fr": "mettre en œuvre le plan",
+  "term": {
+   "uk": "to implement the plan",
+   "us": "to implement the plan"
+  },
+  "ipa": {
+   "uk": "/ˈɪmplɪment ðə ˈplæn/",
+   "us": "/ˈɪmplɪment ðə ˈplæn/"
+  },
+  "def": "To put a plan into effect once it has been approved.",
+  "registers": {
+   "formal": {
+    "uk": "to implement",
+    "us": "to implement",
+    "ex": "The plan shall be [[implemented]] in accordance with the timetable submitted to the works council.",
+    "ex_us": "The plan shall be [[implemented]] in accordance with the timeline submitted to the works council."
+   },
+   "everyday": {
+    "uk": "to roll out",
+    "us": "to roll out",
+    "ex": "We'll [[roll out]] the plan site by site, starting with Reims."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the implementation phase",
+   "to go live",
+   "to put a plan into effect",
+   "a phased roll-out"
+  ],
+  "note_fr": "« To implement » /ˈɪmplɪment/, accent sur la première syllabe ; ni « to implant » ni l'omniprésent « to put in place ». « To execute a plan » se dit surtout aux États-Unis ; attention, « to execute a contract » signifie le signer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-092",
+  "level": 1,
+  "fr": "éviter les licenciements ou en limiter le nombre",
+  "term": {
+   "uk": "to avoid redundancies",
+   "us": "to avoid layoffs"
+  },
+  "ipa": {
+   "uk": "/əˌvɔɪd rɪˈdʌndənsiz/",
+   "us": "/əˌvɔɪd ˈleɪɔːfs/"
+  },
+  "def": "To take steps so that fewer people, or none, have to be dismissed.",
+  "registers": {
+   "formal": {
+    "uk": "to avoid dismissals or to limit their number",
+    "us": "to avoid dismissals or to limit their number",
+    "ex": "The plan must contain measures designed to [[avoid dismissals or to limit their number]]."
+   },
+   "everyday": {
+    "uk": "to keep job losses to a minimum",
+    "us": "to keep job losses to a minimum",
+    "ex": "Everything in this plan is designed to [[keep job losses to a minimum]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to mitigate the consequences",
+   "alternatives to redundancy",
+   "as few dismissals as possible",
+   "to save jobs"
+  ],
+  "note_fr": "La formule fait écho au droit européen et au droit britannique, qui imposent de consulter sur les moyens d'éviter les licenciements, d'en réduire le nombre et d'en atténuer les conséquences (« mitigating the consequences »). « To mitigate » = atténuer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-093",
+  "level": 2,
+  "fr": "activité partielle (chômage partiel)",
+  "term": {
+   "uk": "short-time working",
+   "us": "furlough"
+  },
+  "ipa": {
+   "uk": "/ˌʃɔːt taɪm ˈwɜːkɪŋ/",
+   "us": "/ˈfɜːrloʊ/"
+  },
+  "def": "A temporary reduction in working hours, or suspension of work, with partial pay, used to avoid redundancies.",
+  "registers": {
+   "formal": {
+    "uk": "short-time working",
+    "us": "a furlough",
+    "ex": "The Company first had recourse to [[short-time working]] in order to avoid dismissals.",
+    "ex_us": "The Company first implemented [[a furlough]] in order to avoid layoffs."
+   },
+   "everyday": {
+    "uk": "to put staff on short time",
+    "us": "to furlough staff",
+    "ex": "We [[put staff on short time]] for six months before we even considered cuts.",
+    "ex_us": "We [[furloughed staff]] for six months before we even considered cuts."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a state-subsidised scheme",
+   "reduced hours",
+   "to top up pay",
+   "a temporary measure"
+  ],
+  "note_fr": "« Partial unemployment » est un calque. Piège : au Royaume-Uni, « lay-off » désigne en droit une suspension temporaire sans travail ni salaire, et non un licenciement ; « furlough » n'y est connu que par le dispositif de la période Covid.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-094",
+  "level": 3,
+  "fr": "bassin d'emploi",
+  "term": {
+   "uk": "local labour market",
+   "us": "local labor market"
+  },
+  "ipa": {
+   "uk": "/ˌləʊk(ə)l ˈleɪbə ˌmɑːkɪt/",
+   "us": "/ˌloʊk(ə)l ˈleɪbər ˌmɑːrkɪt/"
+  },
+  "def": "The geographical area within which people live and look for work.",
+  "registers": {
+   "formal": {
+    "uk": "the local employment area",
+    "us": "the local employment area",
+    "ex": "The closure will have a significant effect on [[the local employment area]], in which the Company is the second-largest private employer."
+   },
+   "everyday": {
+    "uk": "the local job market",
+    "us": "the local job market",
+    "ex": "[[The local job market]] can't absorb three hundred operators overnight."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "within commuting distance",
+   "the knock-on effect on suppliers",
+   "a one-company town",
+   "local unemployment"
+  ],
+  "note_fr": "« Employment basin » est un calque. Dites « local labour market », « local employment area » ou, au Royaume-Uni, « travel-to-work area ». « Knock-on effect » = effet induit (sous-traitants, commerces) ; « a one-company town » = ville mono-industrielle.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-095",
+  "level": 3,
+  "fr": "élus locaux et pouvoirs publics",
+  "term": {
+   "uk": "local elected officials",
+   "us": "local elected officials"
+  },
+  "ipa": {
+   "uk": "/ˌləʊk(ə)l ɪˌlektɪd əˈfɪʃ(ə)lz/",
+   "us": "/ˌloʊk(ə)l ɪˌlektɪd əˈfɪʃ(ə)lz/"
+  },
+  "def": "The politicians and State representatives of the area in which a site is located.",
+  "registers": {
+   "formal": {
+    "uk": "local elected officials",
+    "us": "local elected officials",
+    "ex": "Management will meet [[local elected officials]] and the Prefect on the day of the announcement."
+   },
+   "everyday": {
+    "uk": "local politicians",
+    "us": "local politicians",
+    "ex": "Expect [[local politicians]] at the factory gate with a camera crew by lunchtime."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the mayor",
+   "the local member of parliament",
+   "the Prefect, the State's local representative",
+   "to brief the authorities in advance"
+  ],
+  "note_fr": "« Élu » n'a pas de nom équivalent : « elected official », « elected representative ». « Député » = « member of parliament » (« MP ») et non « deputy » (= adjoint). « Prefect » exige une glose : « the State's representative in the area ». Informez-les juste après le CSE, jamais avant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-096",
+  "level": 3,
+  "fr": "provision pour restructuration",
+  "term": {
+   "uk": "restructuring provision",
+   "us": "restructuring reserve"
+  },
+  "ipa": {
+   "uk": "/ˌriːˈstrʌktʃərɪŋ prəˌvɪʒ(ə)n/",
+   "us": "/ˌriːˈstrʌktʃərɪŋ rɪˌzɜːrv/"
+  },
+  "def": "An amount recorded in the accounts to cover the expected cost of a restructuring.",
+  "registers": {
+   "formal": {
+    "uk": "a restructuring provision",
+    "us": "a restructuring reserve",
+    "ex": "[[A restructuring provision]] of EUR 12 million was booked in the fourth quarter.",
+    "ex_us": "[[A restructuring reserve]] of EUR 12 million was booked in the fourth quarter."
+   },
+   "everyday": {
+    "uk": "to provide for the cost",
+    "us": "to take a charge",
+    "ex": "Finance want to [[provide for the cost]] this year, which means the announcement can't slip.",
+    "ex_us": "Finance wants to [[take a charge]] this year, which means the announcement can't slip."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to book a provision",
+   "one-off costs",
+   "the payback period",
+   "to release a provision"
+  ],
+  "note_fr": "« Provision » signifie aussi clause, disposition : le contexte tranche. Les règles comptables lient la constatation de la charge à l'annonce du plan, ce qui explique souvent la pression du siège sur les dates. « Payback period » = délai de retour sur investissement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-097",
+  "level": 2,
+  "fr": "risque contentieux",
+  "term": {
+   "uk": "litigation risk",
+   "us": "litigation risk"
+  },
+  "ipa": {
+   "uk": "/ˌlɪtɪˈɡeɪʃ(ə)n rɪsk/",
+   "us": "/ˌlɪtɪˈɡeɪʃ(ə)n rɪsk/"
+  },
+  "def": "The likelihood that a decision will be challenged in court, and the possible cost of losing.",
+  "registers": {
+   "formal": {
+    "uk": "exposure to litigation",
+    "us": "exposure to litigation",
+    "ex": "A unilateral plan carries greater [[exposure to litigation]] than a majority agreement."
+   },
+   "everyday": {
+    "uk": "to end up in court",
+    "us": "to end up in court",
+    "ex": "If we cut corners on consultation, we'll [[end up in court]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to challenge the plan",
+   "to bring a claim",
+   "a legal challenge",
+   "to cut corners"
+  ],
+  "note_fr": "Deux contentieux à distinguer pour le siège : la décision de l'administration sur le plan se conteste devant le juge administratif, dans un délai bref ; le motif économique et le reclassement individuel, devant le conseil de prud'hommes. « Contentious » est un adjectif (= litigieux), pas le nom « contentieux ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-098",
+  "level": 3,
+  "fr": "annulation de la décision de validation ou d'homologation",
+  "term": {
+   "uk": "annulment of the approval decision",
+   "us": "annulment of the approval decision"
+  },
+  "ipa": {
+   "uk": "/əˈnʌlmənt əv ði əˈpruːv(ə)l dɪˌsɪʒ(ə)n/",
+   "us": "/əˈnʌlmənt əv ði əˈpruːv(ə)l dɪˌsɪʒ(ə)n/"
+  },
+  "def": "A court ruling cancelling the administrative decision that cleared the redundancy plan.",
+  "registers": {
+   "formal": {
+    "uk": "to set aside the decision",
+    "us": "to set aside the decision",
+    "ex": "Should the administrative court [[set aside the decision]] approving the plan, the dismissals already notified would be open to challenge."
+   },
+   "everyday": {
+    "uk": "to be struck down",
+    "us": "to be struck down",
+    "ex": "If the approval [[is struck down]], every dismissal under the plan is exposed."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply to the administrative court",
+   "to quash a decision",
+   "to uphold the decision",
+   "on appeal"
+  ],
+  "note_fr": "Les conséquences dépendent du motif : en cas d'absence ou d'insuffisance du plan, les licenciements sont nuls (réintégration ou indemnité) ; dans les autres cas, le salarié a droit à une indemnisation ; si seule la motivation de la décision est en cause, l'administration peut en reprendre une nouvelle. « To quash » (UK) = annuler ; « to uphold » = confirmer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-099",
+  "level": 3,
+  "fr": "réintégration",
+  "term": {
+   "uk": "reinstatement",
+   "us": "reinstatement"
+  },
+  "ipa": {
+   "uk": "/ˌriːɪnˈsteɪtmənt/",
+   "us": "/ˌriːɪnˈsteɪtmənt/"
+  },
+  "def": "The return of a dismissed employee to his or her job by order of a court or by agreement.",
+  "registers": {
+   "formal": {
+    "uk": "reinstatement",
+    "us": "reinstatement",
+    "ex": "Where the dismissal is void, the employee may seek [[reinstatement]] together with back pay."
+   },
+   "everyday": {
+    "uk": "to take people back",
+    "us": "to take people back",
+    "ex": "The nightmare scenario is a court ordering us to [[take people back]] two years on."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to order reinstatement",
+   "back pay",
+   "a void dismissal",
+   "damages in lieu of reinstatement"
+  ],
+  "note_fr": "« Reintegration » = réinsertion (sociale), non réintégration dans l'emploi. Le droit britannique distingue « reinstatement » (même poste) et « re-engagement » (poste comparable). « Back pay » = rappel des salaires dus pour la période d'éviction.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "rs-100",
+  "level": 3,
+  "fr": "proportionné aux moyens de l'entreprise et du groupe",
+  "term": {
+   "uk": "commensurate with the group's resources",
+   "us": "commensurate with the group's resources"
+  },
+  "ipa": {
+   "uk": "/kəˈmenʃərət wɪð ðə ˌɡruːps rɪˈzɔːsɪz/",
+   "us": "/kəˈmenʃərət wɪð ðə ˌɡruːps ˈriːsɔːrsɪz/"
+  },
+  "def": "In proportion to what the company and its group can afford: the test applied to the measures of a redundancy plan.",
+  "registers": {
+   "formal": {
+    "uk": "commensurate with the resources of the group",
+    "us": "commensurate with the resources of the group",
+    "ex": "The measures must be [[commensurate with the resources of the group]] to which the Company belongs."
+   },
+   "everyday": {
+    "uk": "in line with what the group can afford",
+    "us": "in line with what the group can afford",
+    "ex": "The authority will ask whether the package is [[in line with what the group can afford]], not what the French subsidiary can afford."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the adequacy of the plan",
+   "to plead poverty",
+   "deep pockets",
+   "a loss-making subsidiary"
+  ],
+  "note_fr": "Critère central de l'homologation d'un document unilatéral : le siège ne peut pas opposer la pauvreté de la filiale si le groupe est prospère. « Commensurate with » /kəˈmenʃərət/ = proportionné à, plus soutenu que « in line with ». « To plead poverty » = invoquer son manque de moyens.",
+  "french_concept": false,
+  "explain": null
+ }
+]

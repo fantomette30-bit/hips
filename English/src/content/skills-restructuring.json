@@ -1,0 +1,1629 @@
+{
+ "reading": [
+  {
+   "id": "rd-rs-1",
+   "title": "Extract from a majority agreement on a job protection plan",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "Article 4 - Internal redeployment",
+    "4.1 Before any dismissal is notified, the Company shall seek to redeploy each employee whose position is eliminated to an available position within the Company or within the other companies of the Group located in France, in the same job category or, failing that, in an equivalent position at an equivalent level of pay.",
+    "4.2 Subject to the employee's express consent, redeployment to a lower-graded position may also be offered. In that event, a temporary differential allowance shall be paid in accordance with Appendix 4.",
+    "4.3 Redeployment offers shall be made in writing and shall specify the job title, the employing entity, the place of work, the remuneration and the grade. The employee shall have twenty-one calendar days from receipt of the offer in which to reply. Failure to reply within that period shall be deemed a refusal. A refusal shall not constitute misconduct and shall be without prejudice to the employee's entitlements under this Agreement.",
+    "Article 5 - Redeployment leave",
+    "5.1 Any employee who is given notice of dismissal on economic grounds shall be offered redeployment leave of nine months, extended to twelve months for employees aged fifty or over or recognised as disabled workers.",
+    "5.2 Throughout the leave, the employee shall be released from work in order to devote himself or herself to the search for new employment, with the support of the redeployment unit. For the portion of the leave exceeding the notice period, the employee shall receive a monthly allowance equal to 75% of his or her average gross remuneration.",
+    "5.3 An employee who finds new employment before the end of the leave shall receive a lump sum equal to half of the allowances outstanding at the date of departure."
+   ],
+   "glossary": [
+    {
+     "term": "failing that",
+     "plain": "if that is not possible",
+     "fr": "à défaut"
+    },
+    {
+     "term": "lower-graded position",
+     "plain": "a job at a lower level in the company's classification",
+     "fr": "poste de catégorie inférieure"
+    },
+    {
+     "term": "differential allowance",
+     "plain": "a payment that makes up the difference between the old pay and the new, lower pay",
+     "fr": "indemnité différentielle"
+    },
+    {
+     "term": "calendar days",
+     "plain": "all days, including weekends and public holidays",
+     "fr": "jours calendaires"
+    },
+    {
+     "term": "released from work",
+     "plain": "no longer required to come to work, while still employed",
+     "fr": "dispensé d'activité"
+    },
+    {
+     "term": "lump sum",
+     "plain": "an amount paid all at once rather than in instalments",
+     "fr": "somme forfaitaire versée en une fois"
+    },
+    {
+     "term": "outstanding",
+     "plain": "not yet paid",
+     "fr": "restant dû"
+    },
+    {
+     "term": "misconduct",
+     "plain": "behaviour by an employee that breaks the rules and can justify a sanction",
+     "fr": "faute"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "Subject to the employee's express consent",
+     "plain": "only if the employee clearly agrees"
+    },
+    {
+     "phrase": "In that event",
+     "plain": "if that happens"
+    },
+    {
+     "phrase": "shall be deemed a refusal",
+     "plain": "will be treated as if the employee had said no"
+    },
+    {
+     "phrase": "shall be without prejudice to",
+     "plain": "will not reduce or affect"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Where must the Company look for redeployment positions?",
+     "options": [
+      "Only at the site where the job is being cut",
+      "In the Company and in the Group's other companies in France",
+      "In every Group company worldwide",
+      "Only in the same job category, at the same site"
+     ],
+     "answer": 1,
+     "explain_fr": "L'article 4.1 vise « the Company or [...] the other companies of the Group located in France » : c'est le périmètre légal de l'obligation de reclassement."
+    },
+    {
+     "q": "What happens if an employee does not answer a redeployment offer within twenty-one days?",
+     "options": [
+      "The offer is treated as accepted",
+      "The employee is guilty of misconduct",
+      "The offer is treated as refused",
+      "The employee loses the benefit of the plan"
+     ],
+     "answer": 2,
+     "explain_fr": "« Failure to reply [...] shall be deemed a refusal » : le silence vaut refus. Le texte ajoute que ce refus n'est pas fautif et ne fait perdre aucun droit."
+    },
+    {
+     "q": "Under what condition can a lower-graded position be offered?",
+     "options": [
+      "If the employee expressly agrees",
+      "If no allowance is payable",
+      "If the works council approves",
+      "If the employee is over fifty"
+     ],
+     "answer": 0,
+     "explain_fr": "« Subject to the employee's express consent » : l'accord exprès du salarié est requis ; une indemnité différentielle temporaire compense alors la baisse de rémunération."
+    },
+    {
+     "q": "What does an employee receive on finding a job before the end of redeployment leave?",
+     "options": [
+      "Nothing further",
+      "All the remaining allowances",
+      "A new redeployment offer",
+      "Half of the remaining allowances, in a single payment"
+     ],
+     "answer": 3,
+     "explain_fr": "L'article 5.3 prévoit « a lump sum equal to half of the allowances outstanding » : une prime de reclassement rapide égale à la moitié des allocations restant dues."
+    }
+   ]
+  },
+  {
+   "id": "rd-rs-2",
+   "title": "Memo to a US board: why the French timeline cannot be compressed",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "To: Board of Directors, Hartwell Industries Inc. From: Hélène Marchand, Interim HR Director, Hartwell France SAS. Re: Project Cedar - French timeline",
+    "You have asked whether the 118 position eliminations planned at the Angers plant could be completed within the sixty days we would allow for a WARN notice at home. The short answer is no, and I would advise against trying.",
+    "In France, a company of our size that contemplates ten or more dismissals within thirty days must draw up a job protection plan and consult its works council on both the business rationale and the plan itself. With between 100 and 249 dismissals, the council has three months to give its opinion. That period is set by statute; we can agree a different one with the unions, but we cannot impose a shorter one.",
+    "In parallel, we will try to negotiate the plan with the unions. If we reach a majority agreement, the labor authority has fifteen days to validate it. If we do not, we file a unilateral plan, which the authority reviews more closely and has twenty-one days to approve. No termination letter may go out before that decision; any that did would be void.",
+    "Realistically, then: announcement in early March, consultation through early June, the authority's decision by the end of June, first letters in July. Employees then work out their notice or enter redeployment leave, so most will remain on payroll into next year. Employee representatives need separate clearance from the labor inspector, which adds roughly two months for those individuals.",
+    "Two things would lengthen this further: an incomplete information package, which invites the authority to step in and hands the council an argument in court, and a legal challenge to the plan itself. Both are avoided by preparation, not by speed. I would therefore ask the Board to approve the timeline in Appendix A and to book the restructuring charge on that basis."
+   ],
+   "glossary": [
+    {
+     "term": "position eliminations",
+     "plain": "jobs that are being removed from the organisation",
+     "fr": "suppressions de postes"
+    },
+    {
+     "term": "business rationale",
+     "plain": "the commercial and financial reasons for a decision",
+     "fr": "justification économique"
+    },
+    {
+     "term": "set by statute",
+     "plain": "fixed by an Act of Parliament or Congress, not by the parties",
+     "fr": "fixé par la loi"
+    },
+    {
+     "term": "void",
+     "plain": "having no legal effect at all",
+     "fr": "nul"
+    },
+    {
+     "term": "on payroll",
+     "plain": "still employed and paid by the company",
+     "fr": "dans les effectifs rémunérés"
+    },
+    {
+     "term": "clearance",
+     "plain": "official permission to go ahead",
+     "fr": "autorisation, feu vert"
+    },
+    {
+     "term": "to step in",
+     "plain": "to become involved in order to deal with a problem",
+     "fr": "intervenir"
+    },
+    {
+     "term": "restructuring charge",
+     "plain": "the cost of a restructuring as recorded in the accounts",
+     "fr": "charge de restructuration"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "contemplates ten or more dismissals",
+     "plain": "is considering dismissing at least ten people"
+    },
+    {
+     "phrase": "any that did would be void",
+     "plain": "a letter sent too early would have no legal effect"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does the works council have three months in this case?",
+     "options": [
+      "Because the company chose that period",
+      "Because the unions asked for it",
+      "Because of the number of dismissals contemplated",
+      "Because the plant is being closed"
+     ],
+     "answer": 2,
+     "explain_fr": "Le délai légal dépend du nombre de licenciements envisagés : « With between 100 and 249 dismissals, the council has three months »."
+    },
+    {
+     "q": "What is the consequence of sending a termination letter before the authority's decision?",
+     "options": [
+      "The letter has no legal effect",
+      "The company pays a fine but the dismissal stands",
+      "The consultation starts again",
+      "The employee loses redeployment leave"
+     ],
+     "answer": 0,
+     "explain_fr": "« Any that did would be void » : un licenciement notifié avant la décision de l'administration est nul."
+    },
+    {
+     "q": "Why will most employees still be on payroll next year?",
+     "options": [
+      "Because the labor inspector must approve each dismissal",
+      "Because the unions will challenge the plan",
+      "Because the authority's decision takes six months",
+      "Because they work out their notice or go on redeployment leave"
+     ],
+     "answer": 3,
+     "explain_fr": "Après la notification, les salariés exécutent leur préavis ou entrent en congé de reclassement : ils restent donc dans les effectifs plusieurs mois."
+    },
+    {
+     "q": "According to the author, what is the best way to avoid further delay?",
+     "options": [
+      "Offering higher severance",
+      "Preparing a complete information package",
+      "Shortening the consultation by agreement",
+      "Filing a unilateral plan straight away"
+     ],
+     "answer": 1,
+     "explain_fr": "« Both are avoided by preparation, not by speed » : un dossier d'information complet dès le départ évite l'intervention de l'administration et affaiblit un éventuel recours."
+    }
+   ]
+  },
+  {
+   "id": "rd-rs-3",
+   "title": "Letter to the labour administration requesting validation of an agreement",
+   "kind": "letter",
+   "level": 3,
+   "paragraphs": [
+    "Courtesy translation for Group Legal - the original was filed in French.",
+    "To the Regional Director for the Economy, Employment, Labour and Solidarity. Re: Request for validation of the majority collective agreement on the job protection plan - Brennard Logistics France SAS, Orléans establishment.",
+    "Dear Sir or Madam,",
+    "Further to the notification of our project sent to your office on 12 February, we hereby submit for validation the collective agreement signed on 18 April with two representative trade unions which together obtained 63% of the votes cast in the first round of the most recent workplace elections.",
+    "The agreement provides for the elimination of 74 positions following the closure of the Orléans cross-docking platform. It determines the content of the job protection plan, the timetable for dismissals, the job categories concerned, the weighting and scope of the selection criteria, and the arrangements for implementing the training and redeployment measures.",
+    "The works council was informed and consulted at five meetings held between 14 February and 11 April and delivered its opinion at the last of those meetings. The minutes of the meetings, the report of the expert appointed by the council and the Company's replies to your observations of 21 March are enclosed.",
+    "We remain at your disposal for any further information you may require during the examination period and would be grateful if you would acknowledge receipt of this application.",
+    "Yours faithfully,",
+    "Antoine Leclercq, Chairman"
+   ],
+   "glossary": [
+    {
+     "term": "submit for validation",
+     "plain": "send to the authority so that it can confirm the agreement is valid",
+     "fr": "soumettre à la validation"
+    },
+    {
+     "term": "votes cast",
+     "plain": "votes actually given in an election",
+     "fr": "suffrages exprimés"
+    },
+    {
+     "term": "weighting",
+     "plain": "the relative importance given to each factor",
+     "fr": "pondération"
+    },
+    {
+     "term": "minutes",
+     "plain": "the official written record of a meeting",
+     "fr": "procès-verbaux"
+    },
+    {
+     "term": "enclosed",
+     "plain": "included in the same envelope or file",
+     "fr": "ci-joint"
+    },
+    {
+     "term": "observations",
+     "plain": "formal comments made by an authority",
+     "fr": "observations (de l'administration)"
+    },
+    {
+     "term": "acknowledge receipt",
+     "plain": "confirm that something has been received",
+     "fr": "accuser réception"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "Further to",
+     "plain": "following"
+    },
+    {
+     "phrase": "we hereby submit",
+     "plain": "by this letter we send"
+    },
+    {
+     "phrase": "We remain at your disposal for any further information you may require",
+     "plain": "please ask if you need anything else"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What makes the agreement a majority agreement?",
+     "options": [
+      "It was signed by two of the three unions",
+      "It was approved by the works council",
+      "It was signed after five consultation meetings",
+      "The signatory unions won 63% of the votes at the last elections"
+     ],
+     "answer": 3,
+     "explain_fr": "La majorité s'apprécie en suffrages exprimés en faveur des syndicats représentatifs (« 63% of the votes cast »), non en nombre de syndicats signataires."
+    },
+    {
+     "q": "Which of the following is NOT said to be determined by the agreement?",
+     "options": [
+      "The timetable for dismissals",
+      "The economic reasons for the closure",
+      "The job categories concerned",
+      "The weighting of the selection criteria"
+     ],
+     "answer": 1,
+     "explain_fr": "La lettre énumère le contenu du plan, le calendrier, les catégories, les critères et les mesures ; le motif économique ne relève pas de l'accord et n'est pas contrôlé par l'administration à ce stade."
+    },
+    {
+     "q": "What had the authority done on 21 March?",
+     "options": [
+      "Sent observations to the company",
+      "Validated the agreement",
+      "Appointed an expert",
+      "Attended a works council meeting"
+     ],
+     "answer": 0,
+     "explain_fr": "« The Company's replies to your observations of 21 March » : l'administration avait formulé des observations en cours de procédure, auxquelles l'entreprise a répondu."
+    },
+    {
+     "q": "What does the company ask the authority to do at the end of the letter?",
+     "options": [
+      "Reply within fifteen days",
+      "Send further observations",
+      "Confirm that the application has been received",
+      "Meet the Chairman"
+     ],
+     "answer": 2,
+     "explain_fr": "« Acknowledge receipt of this application » = accuser réception de la demande, ce qui fixe le point de départ du délai d'instruction."
+    }
+   ]
+  },
+  {
+   "id": "rd-rs-4",
+   "title": "An offer of internal redeployment",
+   "kind": "letter",
+   "level": 1,
+   "paragraphs": [
+    "Dear Mr Delmas,",
+    "Offer of internal redeployment",
+    "As you know, the reorganisation project presented to the works council provides for the elimination of your position of Maintenance Technician at our Roubaix site. In accordance with the job protection plan, we have looked for available positions within the company and the group's other French entities that match your skills, and we are pleased to make you the following offer.",
+    "Position: Maintenance Technician, automated lines. Employer: Oriel Packaging France SAS. Location: Chalon-sur-Saône plant. Contract: permanent, full-time. Grade: unchanged. Basic salary: EUR 2,640 gross per month, plus shift allowance.",
+    "Should you accept, you would be entitled to the relocation assistance set out in the plan: removal costs, a settling-in allowance and two paid trips to visit the area with your family. You would also have a six-week adaptation period, during which you could change your mind and return to the measures of the plan without losing any entitlement.",
+    "You have twenty-one calendar days from receipt of this letter to let us know your decision, using the enclosed reply form. If we have not heard from you by then, we will take it that you have declined. Please be assured that declining this offer will not affect your rights under the plan in any way.",
+    "Sophie Renard in the HR team would be glad to go through the offer with you and can be reached on extension 4127.",
+    "Yours sincerely,",
+    "Marc Vasseur, Site HR Manager"
+   ],
+   "glossary": [
+    {
+     "term": "match your skills",
+     "plain": "are suitable for what you know how to do",
+     "fr": "correspondent à vos compétences"
+    },
+    {
+     "term": "shift allowance",
+     "plain": "extra pay for working in shifts",
+     "fr": "prime d'équipe"
+    },
+    {
+     "term": "removal costs",
+     "plain": "the cost of moving your furniture and belongings to a new home",
+     "fr": "frais de déménagement"
+    },
+    {
+     "term": "settling-in allowance",
+     "plain": "a sum paid to help with the costs of starting life in a new place",
+     "fr": "indemnité d'installation"
+    },
+    {
+     "term": "adaptation period",
+     "plain": "a trial period in the new job during which you can go back on your decision",
+     "fr": "période d'adaptation"
+    },
+    {
+     "term": "declined",
+     "plain": "said no, politely",
+     "fr": "refusé"
+    },
+    {
+     "term": "go through the offer",
+     "plain": "explain the offer to you point by point",
+     "fr": "passer l'offre en revue"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "In accordance with",
+     "plain": "as required by"
+    },
+    {
+     "phrase": "Should you accept",
+     "plain": "if you accept"
+    },
+    {
+     "phrase": "we will take it that you have declined",
+     "plain": "we will treat your silence as a refusal"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why is Mr Delmas receiving this letter?",
+     "options": [
+      "He has applied for a job in Chalon-sur-Saône",
+      "His current position is due to be cut",
+      "He has volunteered to leave",
+      "He has asked for a pay rise"
+     ],
+     "answer": 1,
+     "explain_fr": "La lettre rappelle que le projet prévoit « the elimination of your position » : l'offre s'inscrit dans l'obligation de reclassement."
+    },
+    {
+     "q": "What would change if he accepted the offer?",
+     "options": [
+      "His place of work",
+      "His grade",
+      "His type of contract",
+      "His employer would be outside the group"
+     ],
+     "answer": 0,
+     "explain_fr": "Le poste est à Chalon-sur-Saône au lieu de Roubaix ; la classification (« Grade: unchanged ») et le contrat à durée indéterminée restent identiques."
+    },
+    {
+     "q": "What is the purpose of the six-week adaptation period?",
+     "options": [
+      "To train him on the automated lines",
+      "To let the company assess his performance",
+      "To allow him to change his mind without losing his rights",
+      "To give his family time to move"
+     ],
+     "answer": 2,
+     "explain_fr": "Pendant la période d'adaptation, il peut « change [his] mind and return to the measures of the plan without losing any entitlement »."
+    },
+    {
+     "q": "What happens if he turns the offer down?",
+     "options": [
+      "He loses his severance pay",
+      "He may be dismissed for misconduct",
+      "He must apply for another position himself",
+      "His rights under the plan are unaffected"
+     ],
+     "answer": 3,
+     "explain_fr": "« Declining this offer will not affect your rights under the plan in any way » : en droit français, le refus d'une offre de reclassement n'est pas fautif."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-rs-1",
+   "title": "Updating head office on the negotiation",
+   "stage": 1,
+   "kind": "email",
+   "brief": "You are the interim HR Director of a French subsidiary. After the fourth negotiation meeting on the redundancy plan, write to the Group HR Director, Fiona Aldridge: what has been agreed, what is still blocking, the recommendation you are making, its cost, the status of the consultation and the decision you need from her.",
+   "brief_fr": "Vous êtes DRH de transition d'une filiale française. Après la quatrième réunion de négociation du plan, écrivez à la DRH groupe, Fiona Aldridge : ce qui est acquis, le point de blocage, votre recommandation et son coût, l'état de la consultation et la décision que vous attendez d'elle.",
+   "gaps": [
+    {
+     "text": "We have now reached agreement ___ on the redeployment measures and on the length of redeployment leave.",
+     "answer": "in principle",
+     "accept": [],
+     "explain_fr": "« Agreement in principle » = accord de principe. Sans article devant « agreement » dans l'expression « to reach agreement »."
+    },
+    {
+     "text": "The main ___ remains the enhanced severance.",
+     "answer": "sticking point",
+     "accept": [
+      "stumbling block"
+     ],
+     "explain_fr": "« Sticking point » = point de blocage. Évitez le calque « blocking point »."
+    },
+    {
+     "text": "The unions are asking for one month's pay per year of service, ___ our mandate stops at 0.6.",
+     "answer": "whereas",
+     "accept": [
+      "while",
+      "whilst"
+     ],
+     "explain_fr": "« Whereas » oppose deux faits dans la même phrase, sans la lourdeur de « on the contrary » ou « but on the other hand »."
+    },
+    {
+     "text": "___, we would have to fall back on a unilateral plan.",
+     "answer": "Failing that",
+     "accept": [
+      "Otherwise"
+     ],
+     "explain_fr": "« Failing that » = à défaut. Formule concise, très utile pour présenter le scénario de repli."
+    },
+    {
+     "text": "The consultation of the works council is ___, and no further meetings have been requested.",
+     "answer": "on track",
+     "accept": [
+      "on schedule"
+     ],
+     "explain_fr": "« On track » = conforme au calendrier prévu. « In time » ou « in the delays » seraient fautifs."
+    },
+    {
+     "text": "The council is ___ deliver its opinion on 12 June.",
+     "answer": "due to",
+     "accept": [
+      "expected to",
+      "scheduled to"
+     ],
+     "explain_fr": "« To be due to » + verbe = devoir (selon le calendrier prévu). Plus naturel que « must » ou « will have to »."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Project Atlas - negotiation update after round four\n\nDear Fiona,\n\nA quick update following yesterday's fourth negotiation meeting with the unions.\n\nWe have now reached agreement in principle on the redeployment measures and on the length of redeployment leave. The main sticking point remains the enhanced severance: the unions are asking for one month's pay per year of service, whereas our mandate stops at 0.6.\n\nTwo of the three unions have indicated that they would be prepared to sign at 0.8, which would give us a majority agreement. Failing that, we would have to fall back on a unilateral plan, with a closer review by the labour authority and a higher risk of litigation.\n\nI would therefore recommend that we move to 0.8. The additional cost is estimated at EUR 640,000, which is still within the provision.\n\nThe consultation of the works council is on track, and the council is due to deliver its opinion on 12 June.\n\nCould you let me know by Thursday whether we have a mandate to close on that basis? I am happy to talk it through beforehand if that would help.\n\nKind regards,\nHélène",
+   "model_us": "Subject: Project Atlas - negotiation update after round four\n\nHi Fiona,\n\nA quick update following yesterday's fourth negotiation meeting with the unions.\n\nWe have now reached agreement in principle on the redeployment measures and on the length of redeployment leave. The main sticking point is still the enhanced severance: the unions are asking for one month of pay per year of service, while our mandate stops at 0.6.\n\nTwo of the three unions have indicated that they would be prepared to sign at 0.8, which would give us a majority agreement. Otherwise, we would have to fall back on a unilateral plan, with a closer review by the labor authority and a higher risk of litigation.\n\nI therefore recommend that we move to 0.8. The additional cost is estimated at EUR 640,000, which is still within the reserve.\n\nThe works council consultation is on track, and the council is scheduled to deliver its opinion on June 12.\n\nCould you let me know by Thursday whether we have a mandate to close on that basis? I'm happy to talk it through beforehand if that would help.\n\nBest regards,\nHélène",
+   "commentary": [
+    {
+     "quote": "A quick update following yesterday's fourth negotiation meeting",
+     "note_fr": "Entrée en matière directe, sans phrase verbale : usage courant dans un e-mail entre collègues. « Following » suffit ; « following to » est fautif."
+    },
+    {
+     "quote": "whereas our mandate stops at 0.6",
+     "note_fr": "« Mandate » désigne ici l'autorisation donnée par le siège au négociateur. Le chiffre est donné sans détour : un siège veut l'écart exact."
+    },
+    {
+     "quote": "Failing that, we would have to fall back on a unilateral plan",
+     "note_fr": "Le scénario de repli est présenté au conditionnel, avec ses deux inconvénients. « To fall back on » = se rabattre sur."
+    },
+    {
+     "quote": "I would therefore recommend that we move to 0.8",
+     "note_fr": "La recommandation est explicite et tient en une phrase. « I would recommend that we » + base verbale : pas de « to » après « recommend »."
+    },
+    {
+     "quote": "Could you let me know by Thursday whether we have a mandate to close on that basis?",
+     "note_fr": "La demande de décision est datée et fermée : la destinataire sait exactement ce qu'on attend d'elle. « To close » = conclure (un accord)."
+    }
+   ],
+   "checklist": [
+    "Have I separated what is agreed from what is still open?",
+    "Have I given the exact figures (demand, mandate, proposal, cost)?",
+    "Have I explained the fallback and its risks in one sentence?",
+    "Is my recommendation stated clearly, in my own name?",
+    "Have I asked for a decision by a specific date?"
+   ],
+   "phrasebank": [
+    "A quick update following yesterday's meeting with the unions.",
+    "We have now reached agreement in principle on ...",
+    "The main sticking point remains ...",
+    "Failing that, we would have to fall back on ...",
+    "I would therefore recommend that we ...",
+    "The additional cost is estimated at ..., which is still within the provision.",
+    "Could you let me know by Thursday whether we have a mandate to ...?"
+   ]
+  },
+  {
+   "id": "wr-rs-2",
+   "title": "Minutes of a works council consultation meeting",
+   "stage": 1,
+   "kind": "meeting minutes",
+   "brief": "Write the English version, for head office, of the extract of the minutes of the first works council meeting on the proposed reorganisation of the Angers plant: opening, presentation of the project, the union's challenge, the appointment of the expert, the date of the next meeting.",
+   "brief_fr": "Rédigez, pour le siège, la version anglaise de l'extrait du procès-verbal de la première réunion du CSE sur le projet de réorganisation de l'usine d'Angers : ouverture, présentation du projet, contestation syndicale, désignation de l'expert, date de la prochaine réunion.",
+   "gaps": [
+    {
+     "text": "The Chair ___ members that this was the first meeting of the consultation procedure.",
+     "answer": "reminded",
+     "accept": [],
+     "explain_fr": "« To remind someone that » = rappeler à quelqu'un que. « To recall » signifie se souvenir et ne prend pas de complément de personne."
+    },
+    {
+     "text": "The project would ___ the elimination of 118 positions.",
+     "answer": "entail",
+     "accept": [
+      "involve",
+      "mean"
+     ],
+     "explain_fr": "« To entail » = entraîner, impliquer. Notez le conditionnel « would » : le projet n'est pas encore décidé."
+    },
+    {
+     "text": "Mr Garnier, ___ the majority union, challenged the figures on the order book.",
+     "answer": "on behalf of",
+     "accept": [],
+     "explain_fr": "« On behalf of » = au nom de, pour le compte de. « In the name of » est réservé aux invocations solennelles."
+    },
+    {
+     "text": "Management ___ to provide the forecasts within one week.",
+     "answer": "undertook",
+     "accept": [
+      "agreed",
+      "promised"
+     ],
+     "explain_fr": "« To undertake to do » = s'engager à faire, verbe type des procès-verbaux. Prétérit irrégulier : undertook."
+    },
+    {
+     "text": "The council voted ___ to appoint the firm Axiome Conseil as its expert.",
+     "answer": "unanimously",
+     "accept": [],
+     "explain_fr": "« Unanimously » = à l'unanimité. L'adverbe se place naturellement après « voted »."
+    },
+    {
+     "text": "The meeting was ___ at 12.45 p.m.",
+     "answer": "adjourned",
+     "accept": [
+      "closed"
+     ],
+     "explain_fr": "« To adjourn a meeting » = lever la séance. « The meeting was closed » est possible ; « finished » ou « ended » manquent de tenue."
+    }
+   ],
+   "outline": [],
+   "model": "Hartwell France SAS - Works Council\nMinutes of the extraordinary meeting of 14 March (extract)\n\nItem 1 - Information and consultation on the proposed reorganisation of the Angers plant\n\nThe Chair opened the meeting at 9.30 a.m. and reminded members that this was the first meeting of the consultation procedure. She stressed that the project was at the proposal stage and that no decision would be taken until the council had delivered its opinion.\n\nManagement presented the economic rationale for the project, which would entail the elimination of 118 positions. Mr Garnier, on behalf of the majority union, challenged the figures on the order book and asked for the detailed forecasts by product line. Management undertook to provide them within one week.\n\nThe council voted unanimously to appoint the firm Axiome Conseil as its expert. The Secretary pointed out that the expert's report would be needed before any discussion of the selection criteria.\n\nIt was agreed that the second meeting would be held on 4 April. The meeting was adjourned at 12.45 p.m.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "She stressed that the project was at the proposal stage",
+     "note_fr": "Discours rapporté au passé : « stressed that ... was ». Variez les verbes introducteurs : stressed, pointed out, asked, replied, undertook."
+    },
+    {
+     "quote": "no decision would be taken until the council had delivered its opinion",
+     "note_fr": "Concordance des temps : « will be taken » devient « would be taken », « has delivered » devient « had delivered ». Phrase juridiquement importante à faire figurer au procès-verbal."
+    },
+    {
+     "quote": "challenged the figures on the order book",
+     "note_fr": "« To challenge » = contester ; plus neutre que « to criticise » et moins fort que « to reject ». « Order book » = carnet de commandes."
+    },
+    {
+     "quote": "It was agreed that the second meeting would be held on 4 April",
+     "note_fr": "Tournure impersonnelle passive, caractéristique des procès-verbaux : elle évite de dire qui a proposé quoi."
+    },
+    {
+     "quote": "The council voted unanimously to appoint",
+     "note_fr": "« To vote to do something » : pas de « for » devant l'infinitif. « To appoint an expert » = désigner un expert."
+    }
+   ],
+   "checklist": [
+    "Are the minutes written in the past tense, in reported speech?",
+    "Have I named who said what, by function rather than by first name?",
+    "Does the text make clear that the project is only a proposal?",
+    "Are decisions and undertakings recorded with their dates?",
+    "Have I kept my own opinions and adjectives out of it?"
+   ],
+   "phrasebank": [
+    "The Chair opened the meeting at ... and reminded members that ...",
+    "Management presented ...",
+    "Mr X, on behalf of ..., challenged / asked whether / pointed out that ...",
+    "Management undertook to provide ... within one week.",
+    "The council voted unanimously / by seven votes to three to ...",
+    "It was agreed that ...",
+    "The meeting was adjourned at ..."
+   ]
+  },
+  {
+   "id": "wr-rs-3",
+   "title": "Talking points for line managers on announcement day",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "The proposal to reorganise the Angers plant (118 positions) is being presented to the works council this morning. Write the talking points that line managers will use with their teams in the afternoon: short, honest and usable aloud.",
+   "brief_fr": "Le projet de réorganisation de l'usine d'Angers (118 postes) est présenté ce matin au CSE. Rédigez les éléments de langage que les managers de proximité utiliseront l'après-midi avec leurs équipes : brefs, honnêtes et utilisables à l'oral.",
+   "gaps": [],
+   "outline": [
+    "What was presented this morning, and the fact that it is only a proposal",
+    "Nobody knows yet who is affected: positions, not people",
+    "What the company commits to: redeployment, volunteers, support",
+    "What managers must not do; where to send questions",
+    "The attitude expected of managers this week"
+   ],
+   "model": "Talking points for line managers - Thursday 14 March\n\nThis morning the company presented to the works council a proposal to reorganise the Angers plant, which could lead to the loss of 118 positions. Please be clear with your teams that this is a proposal: nothing will be decided until the consultation is complete, which we expect to be in June at the earliest.\n\nAt this stage nobody can say which individuals would be affected. The plan identifies positions, not people, and the selection criteria are set by law and have still to be discussed with the employee representatives. If you are asked 'Is it me?', the honest answer is that we do not know yet, and that no one will receive a letter before the summer.\n\nWhat we can say is that the company will do everything it reasonably can to keep compulsory departures to a minimum: internal redeployment first, then voluntary departures, with training and outplacement support for everyone concerned.\n\nPlease do not speculate, make promises or comment on individual cases, however well meant. Note any question you cannot answer and pass it to HR the same day; we will come back to your team within forty-eight hours. Above all, stay visible. People will remember how they were treated this week long after they have forgotten the figures.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "which could lead to the loss of 118 positions",
+     "note_fr": "« Could » et non « will » : tant que la consultation n'est pas achevée, tout s'exprime au conditionnel. C'est une exigence juridique autant qu'une précaution de langage."
+    },
+    {
+     "quote": "The plan identifies positions, not people",
+     "note_fr": "Phrase courte, facile à retenir et à répéter : c'est le message central pour les équipes. L'opposition « positions / people » fait tout le travail."
+    },
+    {
+     "quote": "the honest answer is that we do not know yet",
+     "note_fr": "On donne au manager la réponse mot pour mot à la question la plus difficile. « The honest answer is » annonce une vérité inconfortable sans brutalité."
+    },
+    {
+     "quote": "Please do not speculate, make promises or comment on individual cases, however well meant",
+     "note_fr": "Trois interdits en une phrase, adoucis par « please » et « however well meant » (même avec les meilleures intentions)."
+    },
+    {
+     "quote": "Above all, stay visible.",
+     "note_fr": "Impératif bref en fin de note : le changement de rythme signale l'essentiel. « To stay visible » = rester présent sur le terrain."
+    }
+   ],
+   "checklist": [
+    "Could a manager read each sentence aloud without stumbling?",
+    "Have I used 'proposal', 'could' and 'would' rather than 'decision' and 'will'?",
+    "Have I given a ready-made answer to the hardest question?",
+    "Have I said clearly what managers must not do?",
+    "Do managers know where to send questions and how quickly they will get answers?"
+   ],
+   "phrasebank": [
+    "Please be clear with your teams that this is a proposal.",
+    "Nothing will be decided until the consultation is complete.",
+    "At this stage nobody can say which individuals would be affected.",
+    "The honest answer is that we do not know yet.",
+    "What we can say is that ...",
+    "The company will do everything it reasonably can to ...",
+    "Note any question you cannot answer and pass it to HR the same day."
+   ]
+  },
+  {
+   "id": "wr-rs-4",
+   "title": "A progress report on redeployment for the monitoring committee",
+   "stage": 2,
+   "kind": "report",
+   "brief": "Six months after the first departures, write the summary section of the report sent to group HR ahead of the monitoring committee: results of the redeployment unit, the people still without a solution, action taken, and the request about the unused training budget.",
+   "brief_fr": "Six mois après les premiers départs, rédigez la synthèse du rapport adressé à la DRH groupe avant la commission de suivi : résultats de la cellule de reclassement, personnes encore sans solution, actions engagées et demande relative au budget de formation non consommé.",
+   "gaps": [],
+   "outline": [
+    "Headline figures: how many people have joined the unit and how many have a lasting solution",
+    "Breakdown of solutions: jobs, retraining, business start-ups, early retirement",
+    "Who is still looking for work, and why",
+    "What the outplacement firm is doing for that group",
+    "Budget position and the committee's request; what you need from the Group"
+   ],
+   "model": "Redeployment progress at 30 November\n\nSix months after the first departures, 96 of the 118 employees covered by the plan have joined the redeployment unit, and 61 of them now have what the plan defines as a lasting solution. Of these, 38 have found a permanent job or a fixed-term contract of six months or more, 14 are on long retraining courses and 9 have set up their own business. A further 12 opted for early retirement and are no longer being followed.\n\nThat leaves 23 people still looking for work. Most are operators over fifty with long service and qualifications that do not transfer easily; several are also reluctant to travel more than thirty kilometres. The outplacement firm has stepped up its efforts for this group, with weekly one-to-one sessions and direct approaches to employers in the area, and two local companies have agreed to offer trial periods in January.\n\nSpending stands at 71% of the training budget. Given the profile of those remaining, the monitoring committee has asked that the unused balance be ring-fenced for them rather than released. We support that request and would be grateful for the Group's agreement before the committee's next meeting on 15 December.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "96 of the 118 employees covered by the plan have joined the redeployment unit",
+     "note_fr": "Le chiffre clé arrive dès la première phrase, rapporté au total. « Covered by the plan » = entrant dans le champ du plan."
+    },
+    {
+     "quote": "Of these, 38 have found a permanent job",
+     "note_fr": "« Of these » introduit la ventilation sans répéter le nom. Present perfect, car le résultat vaut à la date du rapport."
+    },
+    {
+     "quote": "That leaves 23 people still looking for work.",
+     "note_fr": "Phrase charnière très naturelle pour passer aux cas non résolus. On écrit « people », pas « persons » ni « cases »."
+    },
+    {
+     "quote": "has stepped up its efforts for this group",
+     "note_fr": "« To step up » = intensifier. Verbe à particule de registre courant, parfaitement admis dans un rapport."
+    },
+    {
+     "quote": "has asked that the unused balance be ring-fenced for them rather than released",
+     "note_fr": "Subjonctif après « ask that » (« be ring-fenced »). « To ring-fence » = sanctuariser un budget ; aux États-Unis on dirait plutôt « to set aside » ou « to earmark »."
+    },
+    {
+     "quote": "would be grateful for the Group's agreement before the committee's next meeting",
+     "note_fr": "La demande est polie mais assortie d'une échéance : le lecteur sait quelle décision prendre et pour quand."
+    }
+   ],
+   "checklist": [
+    "Do my figures add up, and is each one related to a total?",
+    "Have I moved from the overall picture to the difficult cases?",
+    "Have I explained why the remaining group is hard to place, without blaming anyone?",
+    "Have I described concrete action rather than good intentions?",
+    "Does the paragraph end with a clear request and a date?"
+   ],
+   "phrasebank": [
+    "Six months after the first departures, ...",
+    "... now have what the plan defines as a lasting solution.",
+    "Of these, ... have found ..., ... are on ... and ... have set up ...",
+    "That leaves ... people still looking for work.",
+    "The outplacement firm has stepped up its efforts for this group.",
+    "Spending stands at ...% of the budget.",
+    "We support that request and would be grateful for the Group's agreement before ..."
+   ]
+  },
+  {
+   "id": "wr-rs-5",
+   "title": "A note comparing a negotiated plan with a unilateral one",
+   "stage": 3,
+   "kind": "client note",
+   "brief": "Write a one-page note for the Executive Committee of an international group comparing the two routes available in France for a job protection plan - majority agreement or unilateral document - and recommending one. Cover the administrative review, risk, time and cost.",
+   "brief_fr": "Rédigez pour le comité exécutif d'un groupe international une note d'une page comparant les deux voies possibles en France pour un PSE - accord majoritaire ou document unilatéral - et recommandant l'une d'elles. Traitez le contrôle de l'administration, le risque, les délais et le coût.",
+   "gaps": [],
+   "outline": [
+    "Purpose of the note",
+    "The two routes, defined in plain English",
+    "How the labour authority reviews each of them",
+    "Risk, time and cost compared",
+    "Recommendation and the decision requested"
+   ],
+   "model": "Note for the Executive Committee\nProject Cedar: negotiated agreement or unilateral plan?\n\nPurpose\nFrench law gives us two ways of putting a job protection plan in place. This note compares them and recommends which to pursue.\n\nThe two routes\nUnder the first, we negotiate the plan with the representative unions and sign a majority agreement, that is, one signed by unions which together won more than half of the votes at the last workplace elections. Under the second, management draws up the plan on its own, in what is known as a unilateral document, after consulting the works council. The two can be combined: a partial agreement on some topics, completed by a unilateral document on the rest.\n\nHow the authority reviews them\nIn both cases the plan must be cleared by the regional labour authority before any dismissal is notified. An agreement is validated within fifteen days, and the authority looks mainly at whether it was properly signed and whether the consultation was regular. A unilateral document is approved within twenty-one days after a fuller review, including whether the measures are proportionate to the resources of the group as a whole.\n\nRisk, time and cost\nAn agreement is considerably harder to challenge in court, and unions that have signed it rarely campaign against it. It also allows us to tailor certain rules, such as the scope within which the selection criteria apply. The price is time at the table and, in all likelihood, a higher package: we estimate the premium at 10 to 15% of the plan budget. A unilateral plan keeps us in control of the content, but it exposes the company to closer scrutiny, a more hostile climate on site and a greater risk of annulment.\n\nRecommendation\nWe recommend opening negotiations with a view to a majority agreement, while preparing a unilateral document in parallel as a fallback. We would ask the Committee to approve a negotiating mandate on that basis.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "This note compares them and recommends which to pursue.",
+     "note_fr": "L'objet de la note tient en une phrase et annonce qu'elle conclut par une recommandation : c'est ce qu'attend un comité exécutif."
+    },
+    {
+     "quote": "that is, one signed by unions which together won more than half of the votes",
+     "note_fr": "La notion française est glosée au fil de la phrase grâce à « that is, » : pas de parenthèse en français, pas de jargon."
+    },
+    {
+     "quote": "in what is known as a unilateral document",
+     "note_fr": "« What is known as » introduit le terme technique tout en signalant qu'il s'agit d'une appellation consacrée."
+    },
+    {
+     "quote": "The price is time at the table and, in all likelihood, a higher package",
+     "note_fr": "Formulation franche et imagée : « the price is » annonce la contrepartie ; « in all likelihood » nuance sans affaiblir."
+    },
+    {
+     "quote": "A unilateral plan keeps us in control of the content, but it exposes the company to closer scrutiny",
+     "note_fr": "Structure avantage / inconvénient en une phrase. « Scrutiny » = examen attentif, contrôle."
+    },
+    {
+     "quote": "while preparing a unilateral document in parallel as a fallback",
+     "note_fr": "La recommandation intègre le plan B : « a fallback » = solution de repli. Un comité exécutif apprécie qu'on ne mise pas tout sur une seule issue."
+    }
+   ],
+   "checklist": [
+    "Could a reader with no knowledge of French law follow every sentence?",
+    "Have I explained each French notion the first time it appears?",
+    "Have I compared the two routes on the same points: review, risk, time, cost?",
+    "Are the legal statements general and accurate, with no article numbers?",
+    "Is the recommendation unambiguous, with a fallback?",
+    "Have I said what decision I need from the Committee?"
+   ],
+   "phrasebank": [
+    "French law gives us two ways of ...",
+    "Under the first, ... Under the second, ...",
+    "... in what is known as a unilateral document.",
+    "In both cases the plan must be cleared by the labour authority before ...",
+    "The price is ...",
+    "... exposes the company to closer scrutiny and a greater risk of ...",
+    "We recommend ..., while preparing ... in parallel as a fallback.",
+    "We would ask the Committee to approve a negotiating mandate on that basis."
+   ]
+  },
+  {
+   "id": "wr-rs-6",
+   "title": "Email to a US general counsel: what we can and cannot do on timing",
+   "stage": 3,
+   "kind": "email",
+   "brief": "After a call with Dan Kessler, General Counsel of the US parent, who wanted the French plan completed in thirty days, write the follow-up email: explain why that is impossible, then set out what can be done to keep the timetable as short as the law allows, and give a realistic target.",
+   "brief_fr": "Après un appel avec Dan Kessler, directeur juridique de la maison mère américaine, qui voulait boucler le plan français en trente jours, rédigez l'e-mail de suivi : expliquez pourquoi c'est impossible, puis ce qui peut être fait pour tenir le calendrier le plus court permis par la loi, et donnez un objectif réaliste.",
+   "gaps": [],
+   "outline": [
+    "Thank him and state the purpose of the email",
+    "Why thirty days is not possible: consultation period, approval, consequence of acting early",
+    "What can be done to save time (four levers)",
+    "A realistic target and why it is defensible",
+    "Offer to present it to the board"
+   ],
+   "model": "Subject: Project Cedar - what we can and cannot do on timing\n\nDear Dan,\n\nThank you for your time on Tuesday. As promised, here is a written summary of where we stand on the timetable, and of what we can do to keep it as short as the law allows.\n\nI am afraid a thirty-day process is not an option in France. Because we are proposing more than a hundred redundancies, the works council has three months in which to give its opinion, and the labour authority then has up to twenty-one days to approve the plan. Any dismissal notified before that approval would be void, and the employees concerned could claim reinstatement.\n\nThat said, there is a good deal we can do to avoid losing time:\n\n- Prepare thoroughly. Most delays come from incomplete information, which gives the council grounds to ask the labour authority to step in and, later, to challenge the plan. I would rather announce two weeks later with a complete file.\n- Sign a method agreement. Agreeing the dates of all the meetings with the unions at the outset makes the three months a ceiling rather than a starting point.\n- Open a voluntary phase early. Volunteers can leave as soon as the plan is approved, which brings part of the savings forward.\n- Negotiate. A majority agreement is cleared in fifteen days rather than twenty-one and is far less likely to be challenged.\n\nOn that basis, a realistic target is an announcement on 3 March and first departures in early July. I appreciate this is not the answer you were hoping for, but it is one we can defend, and it protects the group against the far greater cost of a plan struck down in court.\n\nI would be glad to walk the board through this on the 20th if that would be useful.\n\nKind regards,\nHélène Marchand\nInterim HR Director, Hartwell France",
+   "model_us": "Subject: Project Cedar - what we can and cannot do on timing\n\nDan,\n\nThanks for your time on Tuesday. As promised, here is a written summary of where we stand on the timeline, and of what we can do to keep it as short as the law allows.\n\nUnfortunately, a thirty-day process is not an option in France. Because we are proposing more than a hundred layoffs, the works council has three months to give its opinion, and the labor authority then has up to twenty-one days to approve the plan. Any termination notified before that approval would be void, and the employees concerned could claim reinstatement.\n\nThat said, there is a lot we can do to avoid losing time:\n\n- Prepare thoroughly. Most delays come from incomplete information, which gives the council grounds to ask the labor authority to step in and, later, to challenge the plan. I would rather announce two weeks later with a complete file.\n- Sign a method agreement. Agreeing on the dates of all the meetings with the unions at the outset makes the three months a ceiling rather than a starting point.\n- Open a voluntary phase early. Volunteers can leave as soon as the plan is approved, which pulls part of the savings forward.\n- Negotiate. A majority agreement is cleared in fifteen days rather than twenty-one and is far less likely to be challenged.\n\nOn that basis, a realistic target is an announcement on March 3 and first departures in early July. I know this is not the answer you were hoping for, but it is one we can defend, and it protects the group against the far greater cost of a plan struck down in court.\n\nI would be glad to walk the board through this on the 20th if that would be helpful.\n\nBest regards,\nHélène Marchand\nInterim HR Director, Hartwell France",
+   "commentary": [
+    {
+     "quote": "I am afraid a thirty-day process is not an option in France.",
+     "note_fr": "Le refus est net mais adouci par « I am afraid ». « Is not an option » ferme la porte sans agressivité ; inutile d'écrire « impossible »."
+    },
+    {
+     "quote": "Any dismissal notified before that approval would be void",
+     "note_fr": "La conséquence juridique est énoncée simplement, au conditionnel. « Void » = nul : mot bref, que tout juriste américain comprend."
+    },
+    {
+     "quote": "That said, there is a good deal we can do to avoid losing time:",
+     "note_fr": "« That said » fait pivoter le message du non vers les solutions : indispensable pour ne pas laisser le lecteur sur un refus. « A good deal » = beaucoup (registre britannique soigné)."
+    },
+    {
+     "quote": "makes the three months a ceiling rather than a starting point",
+     "note_fr": "Image parlante pour un non-spécialiste. « A ceiling » = un plafond ; « rather than » évite une seconde phrase."
+    },
+    {
+     "quote": "I appreciate this is not the answer you were hoping for, but it is one we can defend",
+     "note_fr": "« I appreciate » = je mesure bien que. On reconnaît la déception du lecteur avant de justifier sa position : concession, puis argument."
+    },
+    {
+     "quote": "I would be glad to walk the board through this",
+     "note_fr": "« To walk someone through something » = expliquer pas à pas. Offre de service qui clôt l'e-mail sur une note constructive."
+    }
+   ],
+   "checklist": [
+    "Have I said no clearly, once, without apologising at length?",
+    "Have I given the legal reason in two or three sentences, with no article numbers?",
+    "Have I moved quickly from the constraint to what can be done?",
+    "Is each lever expressed as an action with its benefit?",
+    "Have I given dates the reader can take to the board?",
+    "Is the tone that of an adviser, neither defensive nor lecturing?"
+   ],
+   "phrasebank": [
+    "As promised, here is a written summary of where we stand on ...",
+    "I am afraid ... is not an option in France.",
+    "Any dismissal notified before that approval would be void.",
+    "That said, there is a good deal we can do to ...",
+    "I would rather ... than ...",
+    "On that basis, a realistic target is ...",
+    "I appreciate this is not the answer you were hoping for, but it is one we can defend.",
+    "I would be glad to walk the board through this."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-rs-1",
+   "title": "Thirty days? A call with the US general counsel",
+   "context": "Dan, General Counsel of a US industrial group, calls Hélène, interim HR Director of the French subsidiary. The board wants the 118 job cuts at the Angers plant completed in thirty days.",
+   "context_fr": "Dan, directeur juridique d'un groupe industriel américain, appelle Hélène, DRH de transition de la filiale française. Le conseil d'administration veut boucler en trente jours les 118 suppressions de postes de l'usine d'Angers.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Dan",
+     "text": "Hélène, I'll be straight with you. The board wants Angers wrapped up in thirty days. We did Ohio in sixty, WARN notice included.",
+     "note_fr": "« I'll be straight with you » = je vais être franc. « To wrap something up » = boucler. La référence américaine est le préavis WARN de soixante jours."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "I understand the pressure, Dan, and I'd love to give you thirty days. But in France the clock isn't ours to set. With this many jobs, the works council gets three months to give its opinion.",
+     "note_fr": "« The clock isn't ours to set » : façon imagée de dire que le délai est légal. On reconnaît d'abord la contrainte de l'autre avant de dire non."
+    },
+    {
+     "speaker": "Dan",
+     "text": "Three months to give an opinion? Can they block it?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "No, they can't veto it. But if we skip the process or rush it, the plan gets thrown out, and every termination with it.",
+     "note_fr": "« To get thrown out » = être annulé, rejeté (par un juge). « To skip » = sauter une étape."
+    },
+    {
+     "speaker": "Dan",
+     "text": "Okay. So who actually signs off on this thing?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "The regional labor authority. They either validate an agreement we've signed with the unions, or approve a plan we've drawn up ourselves. Nothing goes out until they do.",
+     "note_fr": "« Either ... or » présente clairement les deux voies : accord majoritaire validé, ou document unilatéral homologué."
+    },
+    {
+     "speaker": "Dan",
+     "text": "And if we just pay people more? Double the severance, get releases, and move on?",
+     "note_fr": "« Release » : renonciation à recours signée en échange de l'indemnité, réflexe américain."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Money helps at the table, but it doesn't buy time. And a release signed before termination wouldn't hold up here anyway.",
+     "note_fr": "« To hold up » = tenir (devant un juge). « At the table » = à la table des négociations."
+    },
+    {
+     "speaker": "Dan",
+     "text": "So what am I telling the board? Give me a date.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Announce in early March, authority's decision by end of June, first exits in July. That's tight but doable, provided the file is complete on day one.",
+     "note_fr": "Style télégraphique naturel à l'oral pour énumérer des jalons. « Tight but doable » = serré mais faisable ; « provided » = à condition que."
+    },
+    {
+     "speaker": "Dan",
+     "text": "July. They're not going to love it.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "I know. But I'd rather give you a date we hit than one we miss in front of a judge.",
+     "note_fr": "« I'd rather ... than ... » : la préférence argumentée. « To hit a date » = tenir une échéance."
+    },
+    {
+     "speaker": "Dan",
+     "text": "Fair enough. Put it in a one-pager and I'll take it upstairs.",
+     "note_fr": "« Fair enough » = soit, c'est entendu. « A one-pager » = note d'une page ; « to take it upstairs » = le porter à la direction."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Hélène say about the works council's power?",
+     "options": [
+      "It can veto the plan",
+      "It cannot block the plan, but the process cannot be skipped",
+      "It approves the plan instead of the labor authority",
+      "It only has to be informed after the decision"
+     ],
+     "answer": 1,
+     "explain_fr": "« They can't veto it. But if we skip the process or rush it, the plan gets thrown out » : pas de veto, mais une étape dont l'irrégularité fait tomber le plan."
+    },
+    {
+     "q": "Why does Hélène reject the idea of paying more and getting releases?",
+     "options": [
+      "Because the budget is already spent",
+      "Because the unions would refuse the money",
+      "Because money does not shorten the procedure and such a release would not be valid",
+      "Because releases are compulsory in France anyway"
+     ],
+     "answer": 2,
+     "explain_fr": "« Money [...] doesn't buy time. And a release signed before termination wouldn't hold up here » : l'argent n'accélère rien et la renonciation anticipée serait sans valeur."
+    },
+    {
+     "q": "What does 'I'll take it upstairs' mean?",
+     "options": [
+      "I'll present it to senior management",
+      "I'll file it in the archives",
+      "I'll think it over tonight",
+      "I'll send it to the French team"
+     ],
+     "answer": 0,
+     "explain_fr": "« To take something upstairs » = soumettre à l'échelon supérieur, ici le conseil d'administration."
+    }
+   ]
+  },
+  {
+   "id": "dl-rs-2",
+   "title": "Comparing notes with the UK HR director",
+   "context": "Sarah, HR Director for the UK business of the same group, and Hélène are preparing parallel redundancy exercises in Leeds and Angers and compare the two procedures.",
+   "context_fr": "Sarah, DRH de l'activité britannique du même groupe, et Hélène préparent des réductions d'effectifs parallèles à Leeds et à Angers et comparent les deux procédures.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Sarah",
+     "text": "I've got forty-five days pencilled in for the UK side. I take it France will need a little longer?",
+     "note_fr": "« To pencil in » = prévoir provisoirement. « I take it » = je suppose que. Notez l'euphémisme britannique « a little longer »."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Rather longer, I'm afraid. We're looking at three months of consultation, and then the authority has to approve the plan.",
+     "note_fr": "« Rather longer » répond à l'understatement par un autre. « We're looking at » = il faut compter."
+    },
+    {
+     "speaker": "Sarah",
+     "text": "Approve it? Goodness. Here we just send the notification form off to the government and get on with consulting the reps.",
+     "note_fr": "« To get on with » = s'atteler à, poursuivre. Au Royaume-Uni, l'administration est seulement prévenue."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "That's the big difference. Your notification is a formality; ours is a decision. Without it, we can't give notice to anyone.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Sarah",
+     "text": "And do you put people at risk at the start, the way we do?",
+     "note_fr": "« To put someone at risk » : au Royaume-Uni, informer officiellement un salarié que son poste est menacé."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "No, and that catches everyone out. We announce positions, not names. Individuals only find out once the plan's approved and the selection criteria have been applied.",
+     "note_fr": "« To catch someone out » = prendre au dépourvu. « To find out » = apprendre, découvrir."
+    },
+    {
+     "speaker": "Sarah",
+     "text": "So people sit there for four months not knowing whether it's them? That must be dreadful for morale.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "It's the hardest part, honestly. Which is why we open a voluntary phase early - it takes some of the heat out.",
+     "note_fr": "« To take the heat out of something » = faire retomber la tension."
+    },
+    {
+     "speaker": "Sarah",
+     "text": "And your selection criteria - can you weight them towards performance? We'd normally score skills, attendance and disciplinary record.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Only up to a point. The law lists the criteria: family circumstances, length of service, age or disability, and professional skills. We can weight them, but we can't leave any of them out.",
+     "note_fr": "« Only up to a point » = seulement dans une certaine mesure. « To leave out » = écarter, omettre."
+    },
+    {
+     "speaker": "Sarah",
+     "text": "Right. So I shouldn't promise the CEO a single European timetable.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "I wouldn't. What we can do is line up the announcement dates, so nobody reads about it in the press before they've heard it from us.",
+     "note_fr": "« I wouldn't » : conseil discret, très britannique. « To line up » = faire coïncider, aligner."
+    },
+    {
+     "speaker": "Sarah",
+     "text": "That would be something. Shall we put our two timetables side by side on Thursday?",
+     "note_fr": "« That would be something » = ce serait déjà cela. « Shall we ...? » : proposition typiquement britannique."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the main difference Hélène points out about the authorities?",
+     "options": [
+      "In France the authority is only notified",
+      "In the UK the government approves the plan",
+      "In France the authority must take a decision before notice can be given",
+      "Neither country involves the authorities"
+     ],
+     "answer": 2,
+     "explain_fr": "« Your notification is a formality; ours is a decision » : en France, sans décision de l'administration, aucun licenciement ne peut être notifié."
+    },
+    {
+     "q": "When do individual employees learn that they are affected in France?",
+     "options": [
+      "Once the plan is approved and the criteria have been applied",
+      "On the day of the announcement",
+      "When they are placed at risk",
+      "At the first works council meeting"
+     ],
+     "answer": 0,
+     "explain_fr": "« Individuals only find out once the plan's approved and the selection criteria have been applied » : on annonce des postes, pas des noms."
+    },
+    {
+     "q": "What can the two HR directors realistically coordinate?",
+     "options": [
+      "The selection criteria",
+      "The length of consultation",
+      "The severance packages",
+      "The announcement dates"
+     ],
+     "answer": 3,
+     "explain_fr": "« What we can do is line up the announcement dates » : seules les dates d'annonce peuvent être alignées, les procédures restant propres à chaque pays."
+    }
+   ]
+  },
+  {
+   "id": "dl-rs-3",
+   "title": "At the negotiating table",
+   "context": "Third negotiation meeting on the plan at the French site of an Indian-owned group. The session is held in English because Rajiv, the group's Chief Restructuring Officer, is attending. Mr Garnier speaks for the majority union.",
+   "context_fr": "Troisième réunion de négociation du plan sur le site français d'un groupe à capitaux indiens. La séance se tient en anglais en raison de la présence de Rajiv, directeur des restructurations du groupe. M. Garnier s'exprime au nom du syndicat majoritaire.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Mr Garnier",
+     "text": "Before we go any further, we want one thing on the table. Our members will not accept a single forced departure while the group is paying dividends.",
+     "note_fr": "« To want something on the table » = vouloir que ce soit posé d'emblée. « Our members » = nos adhérents."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "I hear that, Mr Garnier, and we share the aim of keeping compulsory departures as low as we possibly can. That's exactly why we're proposing to open the voluntary phase first.",
+     "note_fr": "« I hear that » accuse réception sans céder. On reformule l'exigence en objectif commun, sans promettre « zéro »."
+    },
+    {
+     "speaker": "Mr Garnier",
+     "text": "A voluntary phase at 0.6 of a month per year? Nobody will volunteer for that. It's an insult to people with thirty years' service.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "I wouldn't put it quite like that, but I take the point that the figure matters. Can I suggest we park the amount for a moment and look at the package as a whole?",
+     "note_fr": "« I wouldn't put it quite like that » : désaccord feutré. « I take the point » = j'entends l'argument. « To park » = mettre de côté provisoirement."
+    },
+    {
+     "speaker": "Rajiv",
+     "text": "If I may - the budget isn't unlimited. But I'm here to listen, and there is some room if it gets us an agreement.",
+     "note_fr": "« There is some room » = il existe une marge. Ouverture conditionnelle : « if it gets us an agreement »."
+    },
+    {
+     "speaker": "Mr Garnier",
+     "text": "Then show us. Twelve months' redeployment leave for everyone, not just the over-fifties.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Twelve months across the board is difficult. What we could look at is twelve for the over-fifties and for employees with a disability, and ten for everyone else - if we can agree on the criteria today.",
+     "note_fr": "« Across the board » = pour tous, sans distinction. « What we could look at is ... if ... » : la formule type de l'offre conditionnelle."
+    },
+    {
+     "speaker": "Mr Garnier",
+     "text": "You're linking the two.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "I am, yes. We need movement on both sides, and I'd rather be open about that than pretend otherwise.",
+     "note_fr": "Assumer le donnant-donnant : « movement on both sides ». « I'd rather be open about that » renforce la crédibilité."
+    },
+    {
+     "speaker": "Mr Garnier",
+     "text": "We'll need to take that back to our members. But ten months is not where this ends.",
+     "note_fr": "« To take something back to » = aller consulter (sa base)."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Understood. Shall we adjourn for half an hour, so you can tell us whether it's a basis for discussion?",
+     "note_fr": "« To adjourn » = suspendre la séance. « A basis for discussion » = une base de discussion."
+    },
+    {
+     "speaker": "Mr Garnier",
+     "text": "Half an hour. And bring a better number on the severance.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "How does Hélène respond to the demand for no forced departures?",
+     "options": [
+      "She promises there will be none",
+      "She says the demand is unrealistic",
+      "She shares the aim of keeping them as low as possible, without promising zero",
+      "She asks Rajiv to answer"
+     ],
+     "answer": 2,
+     "explain_fr": "Elle dit partager l'objectif (« keeping compulsory departures as low as we possibly can ») sans prendre l'engagement « zéro départ contraint »."
+    },
+    {
+     "q": "What does Hélène offer on redeployment leave?",
+     "options": [
+      "Twelve months for everyone",
+      "Twelve months for the over-fifties and disabled employees, ten for the others, linked to agreement on the criteria",
+      "Ten months for everyone, with no conditions",
+      "Nothing until the severance is agreed"
+     ],
+     "answer": 1,
+     "explain_fr": "Offre conditionnelle : douze mois pour les plus de cinquante ans et les salariés handicapés, dix pour les autres, « if we can agree on the criteria today »."
+    },
+    {
+     "q": "What does 'park the amount' mean?",
+     "options": [
+      "Increase the amount",
+      "Withdraw the amount",
+      "Publish the amount",
+      "Leave the amount aside for the time being"
+     ],
+     "answer": 3,
+     "explain_fr": "« To park an issue » = mettre un sujet de côté provisoirement pour avancer sur le reste."
+    }
+   ]
+  },
+  {
+   "id": "dl-rs-4",
+   "title": "Briefing the site managers before the announcement",
+   "context": "7.30 a.m. on announcement day at the Angers plant, which has an international management team. Greg, the American plant director, and Hélène brief the managers; Nadia runs production.",
+   "context_fr": "7 h 30, le jour de l'annonce, à l'usine d'Angers, dont l'équipe de direction est internationale. Greg, directeur d'usine américain, et Hélène informent les managers ; Nadia dirige la production.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Greg",
+     "text": "Okay, everybody, thanks for coming in early. What you're about to hear doesn't leave this room until ten o'clock. Hélène, go ahead.",
+     "note_fr": "« Doesn't leave this room » = reste strictement entre nous. Présent à valeur d'injonction."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Thanks, Greg. At nine this morning we'll tell the works council that the company is proposing to close the Angers finishing line. That would mean cutting 118 positions.",
+     "note_fr": "« Is proposing » et « would mean » : le vocabulaire du projet, pas de la décision."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "Proposing? Come on. It's a done deal, right?",
+     "note_fr": "« A done deal » = une affaire entendue, pliée."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "It's a proposal, and I need all of you to use that word. Legally, nothing is decided until consultation's over. If we talk like it's final, we hand the unions a lawsuit.",
+     "note_fr": "« To hand someone a lawsuit » = offrir un procès sur un plateau. « Like it's final » : « like » pour « as if », usage oral américain."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "Fine. So what do I tell my guys when they ask if they're on the list?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "The truth: there is no list. The plan names positions, not people, and nobody gets a letter before summer.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Greg",
+     "text": "And if they walk out?",
+     "note_fr": "« To walk out » = débrayer, cesser le travail."
+    },
+    {
+     "speaker": "Hélène",
+     "text": "They might, for a few hours. Don't argue, don't threaten, and don't try to keep the line running at all costs. Safety first, then call me.",
+     "note_fr": "Trois impératifs négatifs en série : la consigne orale la plus claire. « At all costs » = à tout prix."
+    },
+    {
+     "speaker": "Nadia",
+     "text": "What about the press? There's going to be a TV truck at the gate by noon.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Nobody talks to reporters. Not a word, not even off the record. Send them to the communications team; the number's on your card.",
+     "note_fr": "« Off the record » = à titre officieux, sans être cité."
+    },
+    {
+     "speaker": "Greg",
+     "text": "One more thing. You're going to get questions you can't answer. That's okay.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Hélène",
+     "text": "Exactly. Say 'I don't know, but I'll find out,' write it down, and get it to HR today. We'll have answers back to your teams within forty-eight hours.",
+     "note_fr": "« I don't know, but I'll find out » : la phrase à enseigner aux managers. Ponctuation américaine : la virgule avant le guillemet fermant."
+    },
+    {
+     "speaker": "Greg",
+     "text": "All right. Let's go do this the right way.",
+     "note_fr": "« Let's go do » : deux verbes juxtaposés sans « and », tournure américaine."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why does Hélène insist on the word 'proposal'?",
+     "options": [
+      "Because talking as if the decision were final would expose the company legally",
+      "Because head office has not yet approved the project",
+      "Because the number of positions may increase",
+      "Because the press prefers that word"
+     ],
+     "answer": 0,
+     "explain_fr": "« Legally, nothing is decided until consultation's over. If we talk like it's final, we hand the unions a lawsuit. »"
+    },
+    {
+     "q": "What should a manager say to an employee who asks whether he is on the list?",
+     "options": [
+      "That the list will be published at ten o'clock",
+      "That HR will tell him tomorrow",
+      "That only night-shift staff are concerned",
+      "That there is no list, because the plan names positions, not people"
+     ],
+     "answer": 3,
+     "explain_fr": "« The truth: there is no list. The plan names positions, not people, and nobody gets a letter before summer. »"
+    },
+    {
+     "q": "What are managers told to do if journalists approach them?",
+     "options": [
+      "Give the key messages",
+      "Speak off the record only",
+      "Say nothing and refer them to the communications team",
+      "Ask the plant director to answer"
+     ],
+     "answer": 2,
+     "explain_fr": "« Nobody talks to reporters. Not a word, not even off the record. Send them to the communications team. »"
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-rs-1",
+   "title": "Explaining to the board why the plan cannot be shortened",
+   "situation": "You are presenting the French restructuring timetable by video to the board of the US parent company. Karen, a board member, pushes for a faster and cheaper process. Explain the French constraints without sounding defensive.",
+   "situation_fr": "Vous présentez en visioconférence le calendrier de la restructuration française au conseil d'administration de la maison mère américaine. Karen, administratrice, réclame une procédure plus rapide et moins coûteuse. Expliquez les contraintes françaises sans paraître sur la défensive.",
+   "turns": [
+    {
+     "say": "Your slide says six months before anyone leaves. In Texas we'd be done in sixty days. Why is France so different?",
+     "seconds": 40,
+     "model": "The short answer is that in the US you give notice, whereas in France you have to consult and then get approval. For a plan of this size, the works council has three months to give its opinion, and after that the labor authority must clear the plan before a single letter goes out. Those periods are set by law, so they're not something we can negotiate away.",
+     "tips_fr": "Commencez par « The short answer is » puis opposez les deux systèmes en une phrase (notice / consult and get approval). « To negotiate away » = faire disparaître par la négociation."
+    },
+    {
+     "say": "What happens if we just go ahead and terminate people on our own schedule?",
+     "seconds": 35,
+     "model": "The terminations would be void. Employees could ask a court to put them back in their jobs or award substantial damages, and we'd have to start the whole process again. In practice, cutting corners would cost us more time and far more money than doing it properly.",
+     "tips_fr": "Donnez la conséquence juridique en un mot (« void »), puis traduisez-la en temps et en argent. « To cut corners » = bâcler, brûler les étapes."
+    },
+    {
+     "say": "And this works council - can't we simply get them to sign off early?",
+     "seconds": 35,
+     "model": "They can give their opinion before the deadline if they choose to, but we can't make them. What does help is giving them complete information on day one and agreeing a schedule of meetings with the unions up front. That way three months is the maximum, not the starting point.",
+     "tips_fr": "Concédez (« they can ... if they choose to »), puis passez à la solution avec « What does help is ». « Up front » = dès le départ."
+    },
+    {
+     "say": "The package looks rich to me. Why are we paying more than the legal minimum?",
+     "seconds": 40,
+     "model": "Two reasons. First, the authority checks that the measures are in line with what the group as a whole can afford, not just the French entity, so a bare-minimum plan would probably be rejected. Second, a better package is what gets us a signed agreement with the unions, and an agreement is much harder to challenge in court.",
+     "tips_fr": "Annoncez la structure (« Two reasons. First, ... Second, ... ») : un conseil d'administration apprécie la clarté. « A bare-minimum plan » = un plan a minima."
+    },
+    {
+     "say": "So what exactly do you need from us today?",
+     "seconds": 30,
+     "model": "Three things: approval of the timeline on the slide, a negotiating mandate up to the budget shown, and your agreement that nothing is communicated externally before the works council has been informed. With those, I'm confident we can deliver the plan by July.",
+     "tips_fr": "Terminez par une demande précise et chiffrable. « I'm confident we can deliver » rassure sans promettre l'impossible."
+    }
+   ]
+  },
+  {
+   "id": "rp-rs-2",
+   "title": "Answering a union delegate's objections",
+   "situation": "Negotiation meeting on the plan. Mr Garnier, the delegate of the majority union, challenges the reasons for the plan and the level of the measures. The session is held in English because a group executive is present. Stay calm, acknowledge, and keep the negotiation moving.",
+   "situation_fr": "Réunion de négociation du plan. M. Garnier, délégué du syndicat majoritaire, conteste les raisons du plan et le niveau des mesures. La séance se tient en anglais en raison de la présence d'un dirigeant du groupe. Restez calme, accusez réception et faites avancer la négociation.",
+   "turns": [
+    {
+     "say": "The group made record profits last year. There is no economic reason for this plan; you are simply moving our jobs to a cheaper country.",
+     "seconds": 40,
+     "model": "I understand why it looks that way from here. The group as a whole is profitable, that's true, but the business this plant belongs to has been losing volume for three years, and the figures you've received show that. Your expert will examine them, and we'll answer every question he raises.",
+     "tips_fr": "Accusez réception (« I understand why it looks that way »), concédez ce qui est exact, puis ramenez aux faits. Renvoyer à l'expert du CSE montre que vous ne craignez pas l'examen."
+    },
+    {
+     "say": "Your figures are your figures. And what you call support measures is the legal minimum with a ribbon on it.",
+     "seconds": 35,
+     "model": "I don't think that's quite fair, but I'm not going to defend the first draft line by line. It's a starting point. Tell us which measures matter most to your members, and let's see where we can improve them.",
+     "tips_fr": "« I don't think that's quite fair » marque le désaccord sans escalade. Transformez l'attaque en question ouverte : « Tell us which measures matter most »."
+    },
+    {
+     "say": "Very well. Our members want a guarantee: no dismissals at all. Volunteers only.",
+     "seconds": 35,
+     "model": "I can't give you that guarantee today, and I'd rather be honest about it. What I can commit to is that voluntary departures come first and that we'll review the numbers together before any compulsory step. If we get enough volunteers, the question may not arise.",
+     "tips_fr": "Refus net mais motivé (« I'd rather be honest »), suivi aussitôt de ce que vous pouvez promettre : « What I can commit to is ... »."
+    },
+    {
+     "say": "And if we refuse to sign? You will write your plan alone and the authority will throw it out.",
+     "seconds": 35,
+     "model": "That's a risk for us, I won't deny it. But a unilateral plan would be less generous than what we could agree here, and your members would lose what you've already won at this table. I think we both have more to gain from an agreement.",
+     "tips_fr": "Reconnaissez le risque (« I won't deny it »), puis montrez le coût du non-accord pour l'autre partie. Concluez sur l'intérêt commun, sans menace."
+    },
+    {
+     "say": "We will see. We want the new proposal in writing before the next meeting.",
+     "seconds": 25,
+     "model": "That's reasonable. You'll have a written proposal by Wednesday evening, covering the severance, the length of the leave and the training budget. Shall we keep Friday morning for the next session?",
+     "tips_fr": "Acceptez, précisez le contenu et l'échéance, puis fixez la suite avec « Shall we ...? »."
+    }
+   ]
+  },
+  {
+   "id": "rp-rs-3",
+   "title": "Announcing a site closure to the management team",
+   "situation": "You are announcing to the site's management team, an hour before the works council meeting, that the company is proposing to close the plant. Tom, the logistics manager, reacts strongly. Give clear instructions and deal with the emotion.",
+   "situation_fr": "Une heure avant la réunion du CSE, vous annoncez à l'équipe de direction du site que l'entreprise projette de fermer l'usine. Tom, responsable logistique, réagit vivement. Donnez des consignes claires et accueillez l'émotion.",
+   "turns": [
+    {
+     "say": "You asked us all to come in at seven. What's going on?",
+     "seconds": 40,
+     "model": "Thank you all for coming. I have difficult news. This morning the company will inform the works council that it is proposing to close this site, with production moving to Ghent over the next eighteen months. I wanted you to hear it from me before your teams do.",
+     "tips_fr": "Annoncez la nouvelle sans détour après une courte phrase de préparation (« I have difficult news »). Gardez « is proposing » : même devant les managers, le projet reste un projet."
+    },
+    {
+     "say": "Close the site? After everything we've done here this year? I don't believe it.",
+     "seconds": 35,
+     "model": "I know, Tom. This is a shock, and nothing I say will make it easier. It isn't a judgement on the work you and your teams have done, and I want to be very clear about that. The reasons are about volumes and capacity across Europe, and I'll take you through them in a moment.",
+     "tips_fr": "Nommez l'émotion (« This is a shock ») avant d'expliquer. Dissociez la décision de la performance des équipes : « It isn't a judgement on the work you have done »."
+    },
+    {
+     "say": "And what about us? Are the managers going as well?",
+     "seconds": 35,
+     "model": "All positions at the site are concerned by the proposal, including ours, and I won't pretend otherwise. What I can tell you is that nobody leaves before next year, that redeployment within the group comes first, and that each of you will have an individual conversation with me this week.",
+     "tips_fr": "Ne minimisez pas : « I won't pretend otherwise ». Enchaînez sur trois certitudes concrètes introduites par « What I can tell you is »."
+    },
+    {
+     "say": "My team's going to ask me a hundred questions at ten o'clock. What am I supposed to say?",
+     "seconds": 40,
+     "model": "Stick to three things: it's a proposal, not a decision; nobody will receive a letter before the consultation is over; and the company will support every single person. For anything else, say you don't know yet and that you'll come back to them. You'll have a written Q&A in ten minutes.",
+     "tips_fr": "Donnez trois messages, pas davantage, et la phrase refuge pour le reste. « Stick to » = tenez-vous-en à."
+    },
+    {
+     "say": "And if they stop work or the press turns up?",
+     "seconds": 30,
+     "model": "If people stop work, let them. Don't argue, and make sure the lines are shut down safely. If journalists approach you, say nothing and refer them to the communications team. And call me straight away; I'll be on site all day.",
+     "tips_fr": "Consignes brèves à l'impératif. « To turn up » = arriver, se présenter. « To refer someone to » = renvoyer vers."
+    }
+   ]
+  },
+  {
+   "id": "rp-rs-4",
+   "title": "Handling questions from a journalist and a local official",
+   "situation": "The afternoon after the announcement of the proposed closure, you take a call from Emma, a reporter on an English-language business news service, and then from Mr Baudry, the mayor's chief of staff, who prefers to speak English with the group's representatives. Stay factual and on message.",
+   "situation_fr": "L'après-midi suivant l'annonce du projet de fermeture, vous prenez l'appel d'Emma, journaliste d'un service d'information économique anglophone, puis celui de M. Baudry, directeur de cabinet du maire, qui préfère parler anglais avec les représentants du groupe. Restez factuelle et fidèle aux messages convenus.",
+   "turns": [
+    {
+     "say": "Emma here, from the business desk. Can you confirm that you're closing the plant and making three hundred people redundant?",
+     "seconds": 35,
+     "model": "What I can confirm is that the company presented a proposal to its works council this morning concerning the future of the site. It is a proposal, and it's now subject to consultation with the employee representatives. I'm not in a position to go into the figures while that process is under way.",
+     "tips_fr": "Ne reprenez pas les mots de la journaliste (« closing », « redundant »). « What I can confirm is » et « I'm not in a position to » encadrent la réponse sans dire « no comment »."
+    },
+    {
+     "say": "Our sources say production is moving abroad to cut costs. Is this about cheaper labour?",
+     "seconds": 35,
+     "model": "I won't comment on speculation. The reasons for the proposal have been set out in detail to the employee representatives, and they are the first people we owe explanations to. What I can say is that our priority is to find a solution for every employee concerned.",
+     "tips_fr": "« I won't comment on speculation » est la formule consacrée. Revenez ensuite à votre message clé avec « What I can say is »."
+    },
+    {
+     "say": "Mr Baudry speaking. The mayor learned about this from the radio. That is not acceptable. Why were we not told first?",
+     "seconds": 40,
+     "model": "I quite understand the mayor's frustration, Mr Baudry, and I'm sorry he heard it that way. By law we had to inform the works council before anyone else, which is why we couldn't call you earlier. Our site director tried to reach the mayor's office at ten, and we'd very much like to meet him this week.",
+     "tips_fr": "Excusez-vous de la manière dont il l'a appris, pas de la décision. Expliquez la contrainte légale (le CSE d'abord) et proposez tout de suite un rendez-vous."
+    },
+    {
+     "say": "This town depends on your factory. What is the group going to do for the area?",
+     "seconds": 40,
+     "model": "We're very conscious of what the site means to the town. If the proposal goes ahead, we will look actively for a buyer for the site, and the group will contribute to creating new jobs locally, as French law requires and as we would want to in any case. We'd like to work on that with the mayor and the State's representatives from the start.",
+     "tips_fr": "Gardez le conditionnel : « If the proposal goes ahead ». Citez les deux obligations (recherche d'un repreneur, revitalisation) en termes simples, sans jargon juridique."
+    },
+    {
+     "say": "The mayor will want commitments in writing, not words.",
+     "seconds": 30,
+     "model": "That's entirely fair. I'd suggest we meet on Thursday with our site director, and we'll bring a written note on the timetable and on the commitments we can make at this stage. I'll confirm the time with your office this afternoon.",
+     "tips_fr": "« That's entirely fair » valide la demande. Proposez une date, un format et une suite précise : la crédibilité passe par le concret."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Explaining a French legal constraint to head office",
+   "function_fr": "Expliquer une contrainte juridique française au siège",
+   "phrases": [
+    {
+     "text": "Under French law, no dismissal may be notified until the plan has been cleared by the labour authority.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "The short answer is no, and here's why.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The closest thing you have to this in the States is a WARN notice, but it goes a good deal further.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "It's not that we don't want to move faster; the timetable is set by statute.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "If we skip that step, the whole plan can be thrown out.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "There's no way around it, I'm afraid, but there are ways to make it shorter.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Think of it as a permit: no approval, no terminations.",
+     "register": "informal",
+     "variety": "us"
+    },
+    {
+     "text": "The consequence of non-compliance would be the nullity of the dismissals.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Keeping to the language of a proposal during consultation",
+   "function_fr": "S'en tenir au vocabulaire du projet pendant la consultation",
+   "phrases": [
+    {
+     "text": "The company is proposing to reorganise the site; no decision has been taken.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "If the project goes ahead, around sixty positions would be affected.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "At this stage, this is a proposal, and it's subject to consultation.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I can't tell you who would be concerned, because nobody knows yet.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The contemplated measures remain subject to the opinion of the works council.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Nothing is set in stone until the consultation is over.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "What I can confirm is that a proposal was presented to the works council this morning.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "I'd rather not speculate; I'll come back to you as soon as I have a firm answer.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Making a conditional offer and trading concessions",
+   "function_fr": "Faire une offre conditionnelle et échanger des concessions",
+   "phrases": [
+    {
+     "text": "We could consider moving on the length of the leave, provided we reach agreement on the criteria.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "If you can move on that, we can move on this.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "What we could look at is twelve months for the over-fifties.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Shall we park that point for now and come back to it?",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "That's as far as my mandate goes; beyond that, I'd have to go back to head office.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I take your point, but we need movement on both sides.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Let's not let this one issue sink the whole deal.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "Management's proposal is made as a package and remains open for signature until Friday.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  }
+ ]
+}
