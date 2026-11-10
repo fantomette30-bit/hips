@@ -37,13 +37,16 @@ avec les équivalents britanniques et américains.
 | `English/app/` | application assemblée, prête à mettre en ligne. **Générée**, ne pas modifier à la main |
 | `Tools/build-english.py` | contrôle les contenus puis assemble `English/app/` |
 | `Tools/EnglishCheck/parlance.test.js` | essais de bout en bout, y compris hors connexion |
+| `Tools/vercel-parlance/` | projet Vercel `parlance-english` : à chaque déploiement, il récupère `English/app/` depuis la branche |
 
 ```bash
 python3 Tools/build-english.py              # contrôle + assemblage
 node Tools/EnglishCheck/parlance.test.js    # 162 écrans, séances, mode hors ligne
 ```
 
-## Installation (une fois l'application en ligne)
+## Installation
+
+Adresse : **https://parlance-english-fantomette30-8687s-projects.vercel.app**
 
 - **iPhone et iPad** : ouvrir l'adresse dans Safari, bouton Partager, puis
   « Sur l'écran d'accueil ».

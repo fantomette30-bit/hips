@@ -1,0 +1,1 @@
+{ "name": "parlance", "private": true, "scripts": { "build": "node build.js" } }
