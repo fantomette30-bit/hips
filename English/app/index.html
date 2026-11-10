@@ -203,6 +203,8 @@ input.ok{border-color:var(--ok);background:var(--ok-bg)} input.ko{border-color:v
 @media print{#nav,.ib,.btn{display:none!important} body{background:#fff} .card{box-shadow:none;break-inside:avoid}}
 .ipa .ib,.ex .ib,.regterm .ib,.conn .ib,.explain .ib{width:38px;height:38px} .ib+.ib{margin-left:-6px}
 .doc .reglabel{font-family:var(--sans);text-align:left}
+details.fold{margin:0 0 10px} details.fold>summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:52px;padding:8px 16px;border-radius:16px;background:var(--surface2);margin-bottom:8px}
+details.fold>summary::-webkit-details-marker{display:none} details.fold>summary small{color:var(--muted);font-size:.8rem;font-variant-numeric:tabular-nums} details.fold[open]>summary{background:transparent;border:1px solid var(--line)}
 
 </style>
 </head>
@@ -240,7 +242,7 @@ const DEFAULTS = () => ({
   v: 1,
   settings: { variety: 'uk', theme: 'auto', scale: 1, rate: 1, frHelp: false, goal: 15, voiceUk: '', voiceUs: '' },
   srs: {}, seen: {}, levels: {}, done: {}, drafts: {}, notebook: [], days: {}, errors: {}, answers: { ok: 0, ko: 0 },
-  placement: null, welcomed: false
+  placement: null, welcomed: false, lastTheme: ''
 });
 let S = DEFAULTS();
 function load() {
@@ -672,15 +674,26 @@ function welcome() {
 ACT.setVar = el => { S.settings.variety = el.dataset.v; save(); render(); };
 ACT.welcomeDone = el => { S.welcomed = true; saveNow(); go(el.dataset.to); };
 
+const READY = () => DATA.themes.filter(t => hasTheme(t.id));
+const themeDone = t => (S.levels[t + ':3'] || 0) >= 80;
+function currentTheme() {
+  if (S.lastTheme && hasTheme(S.lastTheme) && !themeDone(S.lastTheme)) return S.lastTheme;
+  const next = READY().find(t => !themeDone(t.id)); return (next || READY()[0]).id;
+}
+/* sections repliables par thème, celle du thème en cours ouverte */
+function byTheme(key, row) {
+  const cur = currentTheme(), ths = READY().filter(t => SK(t.id)[key].length);
+  return ths.map(t => '<details class="fold"' + (t.id === cur || ths.length === 1 ? ' open' : '') + '><summary><b>' + esc(t.title) + '</b><small>' + SK(t.id)[key].filter(x => S.done[x.id]).length + ' / ' + SK(t.id)[key].length + '</small></summary><div class="card list">' + SK(t.id)[key].map(row).join('') + '</div></details>').join('');
+}
 function nextStep() {
-  const t = 'contract'; let lv = 1;
+  const t = currentTheme(); let lv = 1;
   while (lv < 3 && (S.levels[t + ':' + lv] || 0) >= 80) lv++;
   const list = themeEntries(t, lv), unseen = list.filter(e => !S.seen[e.id]);
   if (unseen.length) return { href: 'entry/' + unseen[0].id, title: 'Study level ' + lv + ' expressions', sub: unseen.length + ' still to discover in “' + THEME(t).title + '”' };
   return { href: 'theme/' + t, title: 'Practise level ' + lv, sub: 'Score 80% on the level check to unlock what comes next.' };
 }
 const SKILL_LABEL = { vocabulary: 'Vocabulary', grammar: 'Grammar & linking', reading: 'Reading', writing: 'Writing', speaking: 'Speaking', listening: 'Listening' };
-const SKILL_LINK = { vocabulary: 'theme/contract', grammar: 'toolkit/grammar', reading: 'library', writing: 'practise', speaking: 'practise', listening: 'library' };
+const SKILL_LINK = { vocabulary: 'learn', grammar: 'toolkit/grammar', reading: 'library', writing: 'practise', speaking: 'practise', listening: 'library' };
 VIEWS.home = () => {
   if (!S.welcomed) return welcome();
   const due = dueIds().length, m = minutesToday(), goal = S.settings.goal, sp = skillProgress(), st = streak(), ns = nextStep();
@@ -722,7 +735,8 @@ VIEWS.learn = () => head('Learn', 'Themes, then the language that holds them tog
 
 VIEWS.theme = id => {
   const t = THEME(id); if (!t || !hasTheme(id)) { go('learn'); return null; }
-  const all = themeEntries(id);
+  const all = themeEntries(id), k = SK(id);
+  if (S.lastTheme !== id) { S.lastTheme = id; save(); }
   return head(t.title, '<span lang="fr">' + esc(t.title_fr) + '</span>', 'learn') +
     [1, 2, 3].map(lv => {
       const list = themeEntries(id, lv), open = levelOpen(id, lv), best = S.levels[id + ':' + lv] || 0, seen = list.filter(e => S.seen[e.id]).length;
@@ -735,6 +749,7 @@ VIEWS.theme = id => {
       '<button class="card tile" data-act="drill" data-t="' + id + '" data-k="ukus">' + icon('chat') + '<b>UK / US</b><small>Tell the two apart</small></button>' +
       '<button class="card tile" data-act="drill" data-t="' + id + '" data-k="dictation">' + icon('ear') + '<b>Dictation</b><small>Natural sentences</small></button>' +
       '<button class="card tile" data-act="drill" data-t="' + id + '" data-k="type">' + icon('practise') + '<b>Recall</b><small>Write it from memory</small></button></div>') +
+    section('In this theme', '<div class="grid"><a class="card tile" href="#/library">' + icon('library') + '<b>' + k.reading.length + ' documents</b><small>to read and decode</small></a><a class="card tile" href="#/library">' + icon('ear') + '<b>' + k.dialogues.length + ' dialogues</b><small>to listen to</small></a><a class="card tile" href="#/practise">' + icon('practise') + '<b>' + k.writing.length + ' writing tasks</b><small>with model answers</small></a><a class="card tile" href="#/practise">' + icon('mic') + '<b>' + k.roleplays.length + ' role plays</b><small>timed, recorded</small></a></div>') +
     section('French notions to explain', '<div class="card list">' + all.filter(e => e.french_concept).map(e => '<a href="#/entry/' + e.id + '"><span lang="fr">' + esc(e.fr) + '</span><em>' + esc(termOf(e)) + '</em></a>').join('') + '</div>', 'No direct equivalent abroad: how to put them across.');
 };
 const openEntries = t => themeEntries(t).filter(e => levelOpen(t, e.level));
@@ -832,10 +847,10 @@ VIEWS.toolkit = (kind, id) => { if (!TK[kind]) { go('learn'); return null; } ret
 
 /* ================= Library: reading and listening ================= */
 VIEWS.library = () => {
-  const rows = (key, href, sub) => Object.keys(DATA.skills).map(t => SK(t)[key].map(x => '<a href="#/' + href + '/' + x.id + '"><span><b>' + esc(x.title) + '</b><small>' + sub(x) + '</small></span>' + doneTick(x.id) + '</a>').join('')).join('');
+  const rows = (key, href, sub) => byTheme(key, x => '<a href="#/' + href + '/' + x.id + '"><span><b>' + esc(x.title) + '</b><small>' + sub(x) + '</small></span>' + doneTick(x.id) + '</a>');
   return head('Library', 'Documents to read and conversations to listen to.') +
-    section('Professional reading', '<div class="card list">' + rows('reading', 'read', x => esc(x.kind) + ' · level ' + x.level + ' · ' + x.paragraphs.join(' ').split(/\s+/).length + ' words') + '</div>') +
-    section('Dialogues', '<div class="card list">' + rows('dialogues', 'dialogue', x => (x.variety === 'us' ? 'American' : 'British') + ' English · ' + x.lines.length + ' lines') + '</div>', 'Natural pace, contractions and all. Listen first, then read.');
+    section('Professional reading', rows('reading', 'read', x => esc(x.kind) + ' · level ' + x.level + ' · ' + x.paragraphs.join(' ').split(/\s+/).length + ' words')) +
+    section('Dialogues', rows('dialogues', 'dialogue', x => (x.variety === 'us' ? 'American' : 'British') + ' English · ' + x.lines.length + ' lines'), 'Natural pace, contractions and all. Listen first, then read.');
 };
 const reEsc = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 function annotate(text, r) {
@@ -892,10 +907,9 @@ ACT.dlgQ = () => { const d = DIALOG; playing = false; lessonRun(d.id, 'Listening
 /* ================= Practise: writing and speaking ================= */
 VIEWS.practise = () => {
   const stage = ['', 'Complete the sentences', 'Write a paragraph', 'Write the whole document'];
-  const w = [].concat(...Object.keys(DATA.skills).map(t => SK(t).writing)), rp = [].concat(...Object.keys(DATA.skills).map(t => SK(t).roleplays));
   return head('Practise', 'Produce English, then measure it against a model.') +
-    section('Writing', [1, 2, 3].map(s => '<h3>Stage ' + s + ' · ' + stage[s] + '</h3><div class="card list">' + w.filter(x => x.stage === s).map(x => '<a href="#/write/' + x.id + '"><span><b>' + esc(x.title) + '</b><small>' + esc(x.kind) + '</small></span>' + doneTick(x.id) + '</a>').join('') + '</div>').join('')) +
-    section('Speaking', '<div class="card list">' + rp.map(x => '<a href="#/roleplay/' + x.id + '"><span><b>' + esc(x.title) + '</b><small>Timed role play · ' + x.turns.length + ' turns</small></span>' + doneTick(x.id) + '</a>').join('') + '</div>' +
+    section('Writing', byTheme('writing', x => '<a href="#/write/' + x.id + '"><span><b>' + esc(x.title) + '</b><small>Stage ' + x.stage + ' · ' + stage[x.stage] + ' · ' + esc(x.kind) + '</small></span>' + doneTick(x.id) + '</a>'), 'Three stages in each theme: sentences, a paragraph, then the whole document.') +
+    section('Speaking', byTheme('roleplays', x => '<a href="#/roleplay/' + x.id + '"><span><b>' + esc(x.title) + '</b><small>Timed role play · ' + x.turns.length + ' turns</small></span>' + doneTick(x.id) + '</a>') +
       '<div class="grid"><a class="card tile" href="#/functional">' + icon('chat') + '<b>Meetings and calls</b><small>Phrases for every move</small></a><a class="card tile" href="#/toolkit/pron">' + icon('mic') + '<b>Pronunciation</b><small>Listen, record, compare</small></a></div>');
 };
 let WRITING = null;
@@ -934,8 +948,8 @@ ACT.online = () => sheet('<span class="reglabel">Online correction</span><h2>Arr
 ACT.keep = el => { addNote(el.dataset.t, el.dataset.n || ''); toast('Added to your notebook'); };
 
 VIEWS.functional = () => head('Meetings and calls', 'The moves of a conversation, from the most formal to the most relaxed.', 'practise') +
-  [].concat(...Object.keys(DATA.skills).map(t => SK(t).functional)).map(f => '<div class="card"><span class="reglabel">' + esc(f.function) + ' · <span lang="fr">' + esc(f.function_fr) + '</span></span>' +
-    f.phrases.map(p => '<div class="phrase"><span>' + esc(p.text) + ' ' + chip(regLabel[p.register] || p.register, 'r-' + p.register) + ' ' + varChip(p.variety) + '</span><span>' + sayBtn(p.text, p.variety === 'us' ? 'us' : p.variety === 'uk' ? 'uk' : V()) + '</span></div>').join('') + '</div>').join('');
+  READY().filter(t => SK(t.id).functional.length).map(t => '<details class="fold"' + (t.id === currentTheme() ? ' open' : '') + '><summary><b>' + esc(t.title) + '</b><small>' + SK(t.id).functional.length + ' moves</small></summary>' + SK(t.id).functional.map(f => '<div class="card"><span class="reglabel">' + esc(f.function) + ' · <span lang="fr">' + esc(f.function_fr) + '</span></span>' +
+    f.phrases.map(p => '<div class="phrase"><span>' + esc(p.text) + ' ' + chip(regLabel[p.register] || p.register, 'r-' + p.register) + ' ' + varChip(p.variety) + '</span><span>' + sayBtn(p.text, p.variety === 'us' ? 'us' : p.variety === 'uk' ? 'uk' : V()) + '</span></div>').join('') + '</div>').join('') + '</details>').join('');
 
 let RP = null, rpTimer = 0;
 VIEWS.roleplay = id => {

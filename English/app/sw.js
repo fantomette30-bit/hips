@@ -1,7 +1,7 @@
 /* Parlance : tout est mis en cache à la première visite, puis servi depuis
    l'appareil. Une version plus récente est récupérée en arrière-plan quand le
    réseau est là, et s'applique à l'ouverture suivante. */
-const CACHE = 'parlance-a7a4d9b28b';
+const CACHE = 'parlance-413e31a405';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-512.png'];
 self.addEventListener('install', e => e.waitUntil(
   caches.open(CACHE).then(c => c.addAll(FILES.map(f => new Request(f, { cache: 'reload' })))).then(() => self.skipWaiting())));
