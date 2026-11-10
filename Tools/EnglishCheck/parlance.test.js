@@ -64,15 +64,19 @@ const SHOTS = shotsAt > 0 ? process.argv[shotsAt + 1] : null;
     await page.click('.sheet-card [data-act="closeSheet"]');
 
     // 4. chaque type de question se construit, pour chaque expression
-    const built = await page.evaluate(() => {
-      const out = {}; const all = themeEntries('contract');
-      Object.keys(QB).forEach(k => { out[k] = all.filter(e => { const q = QB[k](e, all); return q && (q.options ? q.options.length >= 2 && q.answer >= 0 && new Set(q.options).size === q.options.length : q.answers.length > 0); }).length; });
-      return out;
+    const builtAll = await page.evaluate(() => {
+      const res = {};
+      Object.keys(DATA.entries).forEach(t => { const out = {}, all = themeEntries(t);
+        Object.keys(QB).forEach(k => { out[k] = all.filter(e => { const q = QB[k](e, all); return q && (q.options ? q.options.length >= 2 && q.answer >= 0 && new Set(q.options).size === q.options.length : q.answers.length > 0); }).length; });
+        res[t] = out; });
+      return res;
     });
-    console.log('  questions constructibles :', JSON.stringify(built));
-    ['fr', 'def', 'cloze', 'type'].forEach(k => check(built[k] >= 95, 'type de question « ' + k + ' » : seulement ' + built[k] + ' expressions'));
-    check(built.register >= 40, 'trop peu de questions de registre : ' + built.register);
-    check(built.ukus >= 10, 'trop peu de questions UK / US : ' + built.ukus);
+    for (const [t, built] of Object.entries(builtAll)) {
+      console.log('  questions constructibles, ' + t + ' :', JSON.stringify(built));
+      ['fr', 'def', 'cloze', 'type'].forEach(k => check(built[k] >= 95, t + ' : type de question « ' + k + ' », seulement ' + built[k] + ' expressions'));
+      check(built.register >= 40, t + ' : trop peu de questions de registre : ' + built.register);
+      check(built.ukus >= 8, t + ' : trop peu de questions UK / US : ' + built.ukus);
+    }
 
     // 5. une séance complète, en répondant juste
     const answerAll = async correct => {

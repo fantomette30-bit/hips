@@ -26,7 +26,7 @@ const DEFAULTS = () => ({
   v: 1,
   settings: { variety: 'uk', theme: 'auto', scale: 1, rate: 1, frHelp: false, goal: 15, voiceUk: '', voiceUs: '' },
   srs: {}, seen: {}, levels: {}, done: {}, drafts: {}, notebook: [], days: {}, errors: {}, answers: { ok: 0, ko: 0 },
-  placement: null, welcomed: false
+  placement: null, welcomed: false, lastTheme: ''
 });
 let S = DEFAULTS();
 function load() {
