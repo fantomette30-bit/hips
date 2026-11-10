@@ -1,0 +1,3776 @@
+[
+ {
+  "id": "lt-001",
+  "level": 1,
+  "fr": "conseil de prud'hommes",
+  "term": {
+   "uk": "employment tribunal",
+   "us": "labor court"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪmənt traɪˌbjuːn(ə)l/",
+   "us": "/ˈleɪbər kɔːrt/"
+  },
+  "def": "The French first-instance court that decides individual disputes between employers and employees.",
+  "registers": {
+   "formal": {
+    "uk": "the French employment tribunal",
+    "us": "the French labor court",
+    "ex": "Any dispute arising out of this contract shall be referred to [[the French employment tribunal]].",
+    "ex_us": "Any dispute arising out of this contract shall be referred to [[the French labor court]]."
+   },
+   "everyday": {
+    "uk": "the employment tribunal",
+    "us": "the labor court",
+    "ex": "If she takes this to [[the employment tribunal]], we need to be able to show our reasons.",
+    "ex_us": "If she takes this to [[the labor court]], we need to be able to show our reasons."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to go before the employment tribunal",
+   "a tribunal claim",
+   "to be heard by the labor court"
+  ],
+  "note_fr": "Au Royaume-Uni, l'« Employment Tribunal » existe réellement : précisez « the French employment tribunal » pour éviter la confusion. Aux États-Unis, il n'y a pas de juridiction du travail : les litiges vont devant les tribunaux ordinaires (« state or federal court ») ou en arbitrage ; « labor court » y est une traduction, pas une institution.",
+  "french_concept": true,
+  "explain": {
+   "written": "The conseil de prud'hommes is the French first-instance employment court; it is composed of equal numbers of lay judges drawn from employers and from employees, and has exclusive jurisdiction over individual employment disputes.",
+   "spoken": "The conseil de prud'hommes is our employment tribunal - the twist is that the judges aren't professional judges, they're people from the employers' side and the employees' side, in equal numbers."
+  }
+ },
+ {
+  "id": "lt-002",
+  "level": 2,
+  "fr": "conseiller prud'homal",
+  "term": {
+   "uk": "lay judge",
+   "us": "lay judge"
+  },
+  "ipa": {
+   "uk": "/ˌleɪ ˈdʒʌdʒ/",
+   "us": "/ˌleɪ ˈdʒʌdʒ/"
+  },
+  "def": "A judge who is not a career judge but an employer or an employee appointed to sit on the French employment tribunal.",
+  "registers": {
+   "formal": {
+    "uk": "lay judge",
+    "us": "lay judge",
+    "ex": "The panel is composed of four [[lay judges]], two representing employers and two representing employees."
+   },
+   "everyday": {
+    "uk": "non-professional judge",
+    "us": "non-professional judge",
+    "ex": "Bear in mind that you'll be in front of [[non-professional judges]], so keep the argument practical."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a panel of lay judges",
+   "the employer-side judges",
+   "the employee-side judges"
+  ],
+  "note_fr": "« Lay » signifie ici « non professionnel » (comme dans « layman »). Ne traduisez pas « conseiller » par « counsellor » ni « adviser » : il s'agit bien d'un juge. Au Royaume-Uni, les « lay members » peuvent siéger aux côtés d'un juge professionnel ; en France, il n'y a aucun magistrat de carrière en première instance, sauf départage.",
+  "french_concept": true,
+  "explain": {
+   "written": "Conseillers prud'homaux are lay judges, appointed on the nomination of trade unions and employers' organisations, who sit in equal numbers on the French employment tribunal.",
+   "spoken": "The judges are lay people - half come from the employers' side, half from the unions' side. There's no professional judge unless they can't agree."
+  }
+ },
+ {
+  "id": "lt-003",
+  "level": 1,
+  "fr": "saisir le conseil de prud'hommes",
+  "term": {
+   "uk": "to bring a claim",
+   "us": "to file a claim"
+  },
+  "ipa": {
+   "uk": "/tə ˌbrɪŋ ə ˈkleɪm/",
+   "us": "/tə ˌfaɪl ə ˈkleɪm/"
+  },
+  "def": "To start legal proceedings by formally asking a court or tribunal to decide a dispute.",
+  "registers": {
+   "formal": {
+    "uk": "to bring proceedings against",
+    "us": "to file suit against",
+    "ex": "The Employee [[brought proceedings against]] the Company before the Paris employment tribunal.",
+    "ex_us": "The Employee [[filed suit against]] the Company before the Paris labor court."
+   },
+   "everyday": {
+    "uk": "to bring a claim against",
+    "us": "to file a claim against",
+    "ex": "He has twelve months to [[bring a claim against]] us if he wants to challenge the dismissal.",
+    "ex_us": "He has twelve months to [[file a claim against]] us if he wants to challenge the termination."
+   },
+   "informal": {
+    "uk": "to take someone to tribunal",
+    "us": "to take someone to court",
+    "ex": "She's threatening to [[take us to tribunal]] over the bonus.",
+    "ex_us": "She's threatening to [[take us to court]] over the bonus."
+   }
+  },
+  "collocations": [
+   "to bring a claim for unfair dismissal",
+   "to lodge a claim with the tribunal",
+   "to file a claim in court"
+  ],
+  "note_fr": "« Saisir » ne se traduit ni par « seize » (= saisir un bien) ni par « seise ». Le Britannique dit « to bring / lodge / issue a claim », l'Américain « to file a claim / a lawsuit ». « To take someone to tribunal » s'emploie sans article au Royaume-Uni.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-004",
+  "level": 1,
+  "fr": "contentieux (prud'homal)",
+  "term": {
+   "uk": "employment litigation",
+   "us": "employment litigation"
+  },
+  "ipa": {
+   "uk": "/ɪmˈplɔɪmənt ˌlɪtɪˈɡeɪʃ(ə)n/",
+   "us": "/ɪmˈplɔɪmənt ˌlɪtɪˈɡeɪʃ(ə)n/"
+  },
+  "def": "The process of resolving employment disputes through a court or tribunal.",
+  "registers": {
+   "formal": {
+    "uk": "litigation",
+    "us": "litigation",
+    "ex": "The Company wishes to avoid the cost and uncertainty of [[litigation]]."
+   },
+   "everyday": {
+    "uk": "a legal dispute",
+    "us": "a legal dispute",
+    "ex": "We've got [[a legal dispute]] with a former sales manager that's been running for two years."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to end up in litigation",
+   "pending litigation",
+   "a litigation lawyer",
+   "to be involved in a dispute"
+  ],
+  "note_fr": "« Litigation » est indénombrable : on ne dit pas « a litigation » mais « a dispute », « a case », « a claim ». « Contentious » est un adjectif (« a contentious issue » = un sujet qui fâche), jamais un nom. « Litigious » qualifie une personne procédurière.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-005",
+  "level": 1,
+  "fr": "demandeur",
+  "term": {
+   "uk": "claimant",
+   "us": "plaintiff"
+  },
+  "ipa": {
+   "uk": "/ˈkleɪmənt/",
+   "us": "/ˈpleɪntɪf/"
+  },
+  "def": "The person who starts a legal claim against someone else.",
+  "registers": {
+   "formal": {
+    "uk": "the Claimant",
+    "us": "the Plaintiff",
+    "ex": "[[The Claimant]] seeks damages for unfair dismissal and payment of outstanding overtime.",
+    "ex_us": "[[The Plaintiff]] seeks damages for wrongful termination and payment of unpaid overtime."
+   },
+   "everyday": {
+    "uk": "the claimant",
+    "us": "the plaintiff",
+    "ex": "In nine cases out of ten, [[the claimant]] is the employee.",
+    "ex_us": "In nine cases out of ten, [[the plaintiff]] is the employee."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the claimant's lawyer",
+   "on behalf of the claimant",
+   "counsel for the plaintiff"
+  ],
+  "note_fr": "En Angleterre, on dit « claimant » (le mot « plaintiff » y a été abandonné dans la procédure civile) ; aux États-Unis, « plaintiff » devant les tribunaux et « claimant » en arbitrage. N'employez pas « demander » ni « applicant », qui désigne plutôt un candidat ou l'auteur d'une requête particulière.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-006",
+  "level": 1,
+  "fr": "défendeur",
+  "term": {
+   "uk": "respondent",
+   "us": "defendant"
+  },
+  "ipa": {
+   "uk": "/rɪˈspɒndənt/",
+   "us": "/dɪˈfendənt/"
+  },
+  "def": "The person or company against whom a legal claim is brought.",
+  "registers": {
+   "formal": {
+    "uk": "the Respondent",
+    "us": "the Defendant",
+    "ex": "[[The Respondent]] denies that the dismissal was unfair.",
+    "ex_us": "[[The Defendant]] denies that the termination was wrongful."
+   },
+   "everyday": {
+    "uk": "the respondent",
+    "us": "the defendant",
+    "ex": "As [[the respondent]], the company gets the claim form and then has to reply in writing.",
+    "ex_us": "As [[the defendant]], the company gets the complaint and then has to reply in writing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the respondent employer",
+   "to be named as a respondent",
+   "to be named as a defendant"
+  ],
+  "note_fr": "Devant l'Employment Tribunal britannique, l'employeur est « the respondent » ; devant les tribunaux civils anglais et américains, « the defendant ». Aux États-Unis, « respondent » s'emploie en arbitrage et en appel. Attention à l'orthographe : « defendant », avec un a.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-007",
+  "level": 1,
+  "fr": "être attaqué aux prud'hommes",
+  "term": {
+   "uk": "to face a tribunal claim",
+   "us": "to face a lawsuit"
+  },
+  "ipa": {
+   "uk": "/tə ˌfeɪs ə traɪˈbjuːn(ə)l kleɪm/",
+   "us": "/tə ˌfeɪs ə ˈlɔːsuːt/"
+  },
+  "def": "To be the party against whom an employee has started legal proceedings.",
+  "registers": {
+   "formal": {
+    "uk": "to be the subject of proceedings",
+    "us": "to be the subject of a lawsuit",
+    "ex": "The Company is currently [[the subject of proceedings]] brought by three former employees.",
+    "ex_us": "The Company is currently [[the subject of a lawsuit]] brought by three former employees."
+   },
+   "everyday": {
+    "uk": "to face a tribunal claim",
+    "us": "to face a lawsuit",
+    "ex": "If we skip the meeting, we could [[face a tribunal claim]] within weeks.",
+    "ex_us": "If we skip the meeting, we could [[face a lawsuit]] within weeks."
+   },
+   "informal": {
+    "uk": "to get taken to tribunal",
+    "us": "to get sued",
+    "ex": "Nobody wants to [[get taken to tribunal]] over a missing signature.",
+    "ex_us": "Nobody wants to [[get sued]] over a missing signature."
+   }
+  },
+  "collocations": [
+   "to be on the receiving end of a claim",
+   "to defend a claim",
+   "to be hit with a lawsuit"
+  ],
+  "note_fr": "N'employez pas « to be attacked », qui évoque une agression physique. L'employeur « faces a claim » puis « defends the claim ». « To be hit with a lawsuit » est familier et surtout américain.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-008",
+  "level": 1,
+  "fr": "poursuivre en justice",
+  "term": {
+   "uk": "to sue",
+   "us": "to sue"
+  },
+  "ipa": {
+   "uk": "/tə ˈsjuː/",
+   "us": "/tə ˈsuː/"
+  },
+  "def": "To start a court case against a person or organisation in order to obtain money or another remedy.",
+  "registers": {
+   "formal": {
+    "uk": "to take legal action against",
+    "us": "to take legal action against",
+    "ex": "The Employee reserves the right to [[take legal action against]] the Company."
+   },
+   "everyday": {
+    "uk": "to sue",
+    "us": "to sue",
+    "ex": "He's [[suing]] his former employer for unpaid commission."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sue someone for damages",
+   "to sue for wrongful termination",
+   "to threaten to sue"
+  ],
+  "note_fr": "« To sue » est transitif direct : « to sue the company », jamais « to sue against ». On « sues for » une somme ou un motif. Le verbe est très courant aux États-Unis ; pour l'Employment Tribunal, un Britannique dira plus volontiers « to bring a claim ». « To pursue » signifie poursuivre un objectif, pas poursuivre en justice ; « to prosecute » relève du pénal.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-009",
+  "level": 1,
+  "fr": "procès / affaire",
+  "term": {
+   "uk": "case",
+   "us": "lawsuit"
+  },
+  "ipa": {
+   "uk": "/keɪs/",
+   "us": "/ˈlɔːsuːt/"
+  },
+  "def": "A dispute that has been brought before a court or tribunal for decision.",
+  "registers": {
+   "formal": {
+    "uk": "the proceedings",
+    "us": "the proceedings",
+    "ex": "The parties agree to keep the existence of [[the proceedings]] confidential."
+   },
+   "everyday": {
+    "uk": "the case",
+    "us": "the lawsuit",
+    "ex": "[[The case]] is unlikely to be heard before next autumn.",
+    "ex_us": "[[The lawsuit]] is unlikely to be heard before next fall."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a tribunal case",
+   "a court case",
+   "to drop the case",
+   "legal proceedings"
+  ],
+  "note_fr": "Faux ami majeur : « process » n'est pas un procès. « Trial » désigne l'audience au fond devant un juge ou un jury (surtout aux États-Unis et au pénal) ; pour une affaire prud'homale, préférez « case », « claim » ou « proceedings » (toujours au pluriel dans ce sens).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-010",
+  "level": 1,
+  "fr": "avocat",
+  "term": {
+   "uk": "lawyer",
+   "us": "attorney"
+  },
+  "ipa": {
+   "uk": "/ˈlɔɪə/",
+   "us": "/əˈtɜːrni/"
+  },
+  "def": "A qualified professional who advises clients on the law and represents them in legal proceedings.",
+  "registers": {
+   "formal": {
+    "uk": "legal counsel",
+    "us": "counsel",
+    "ex": "The Employee was assisted throughout by [[legal counsel]].",
+    "ex_us": "The Employee was assisted throughout by [[counsel]]."
+   },
+   "everyday": {
+    "uk": "lawyer",
+    "us": "attorney",
+    "ex": "Has he already instructed a [[lawyer]]?",
+    "ex_us": "Has he already retained an [[attorney]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "an employment lawyer",
+   "to instruct a lawyer",
+   "to retain an attorney",
+   "outside counsel"
+  ],
+  "note_fr": "« Advocate » est un faux ami : en anglais courant, c'est un défenseur d'une cause (sauf en Écosse). En France, la profession est unique ; en Angleterre, elle se divise entre « solicitor » et « barrister ». « Lawyer » est le terme générique partout ; « attorney » est américain. « Counsel » est invariable et sans article : « counsel for the employer ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-011",
+  "level": 2,
+  "fr": "avocat plaidant (distinction britannique)",
+  "term": {
+   "uk": "barrister",
+   "us": "trial lawyer"
+  },
+  "ipa": {
+   "uk": "/ˈbærɪstə/",
+   "us": "/ˈtraɪəl ˌlɔːjər/"
+  },
+  "def": "A lawyer who specialises in presenting cases orally before courts and tribunals.",
+  "registers": {
+   "formal": {
+    "uk": "counsel",
+    "us": "trial counsel",
+    "ex": "The Respondent was represented at the hearing by [[counsel]].",
+    "ex_us": "The Defendant was represented at the hearing by [[trial counsel]]."
+   },
+   "everyday": {
+    "uk": "barrister",
+    "us": "trial lawyer",
+    "ex": "Our solicitors have brought in a [[barrister]] for the three-day hearing.",
+    "ex_us": "Our firm has brought in a [[trial lawyer]] for the three-day hearing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to instruct a barrister",
+   "a firm of solicitors",
+   "to brief counsel",
+   "a litigator"
+  ],
+  "note_fr": "En Angleterre, le « solicitor » conseille le client, prépare le dossier et correspond avec la partie adverse ; le « barrister » (qu'on appelle « counsel ») plaide à l'audience, sur instruction du solicitor. L'avocat français fait les deux. Aux États-Unis, la profession est unique : « attorney », et « litigator » ou « trial lawyer » pour celui qui plaide.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-012",
+  "level": 1,
+  "fr": "juriste d'entreprise",
+  "term": {
+   "uk": "in-house lawyer",
+   "us": "in-house counsel"
+  },
+  "ipa": {
+   "uk": "/ˌɪn haʊs ˈlɔɪə/",
+   "us": "/ˌɪn haʊs ˈkaʊns(ə)l/"
+  },
+  "def": "A lawyer employed by a company to advise it, as opposed to one working in a law firm.",
+  "registers": {
+   "formal": {
+    "uk": "in-house counsel",
+    "us": "in-house counsel",
+    "ex": "All correspondence with the tribunal must be approved by [[in-house counsel]]."
+   },
+   "everyday": {
+    "uk": "in-house lawyer",
+    "us": "in-house counsel",
+    "ex": "Run it past the [[in-house lawyer]] before you reply to his solicitor.",
+    "ex_us": "Run it by [[in-house counsel]] before you reply to his attorney."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the legal department",
+   "General Counsel",
+   "outside counsel",
+   "an in-house employment lawyer"
+  ],
+  "note_fr": "Ne traduisez pas « juriste » par « jurist », qui désigne un théoricien du droit. Le directeur juridique est le « General Counsel » (GC) ou « Head of Legal ». Différence de fond : au Royaume-Uni et aux États-Unis, le juriste d'entreprise est en principe un avocat à part entière dont les avis bénéficient du secret professionnel ; en France, sa situation est différente.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-013",
+  "level": 1,
+  "fr": "représenter (un client en justice)",
+  "term": {
+   "uk": "to represent",
+   "us": "to represent"
+  },
+  "ipa": {
+   "uk": "/tə ˌreprɪˈzent/",
+   "us": "/tə ˌreprɪˈzent/"
+  },
+  "def": "To speak and act for a party in legal proceedings.",
+  "registers": {
+   "formal": {
+    "uk": "to act on behalf of",
+    "us": "to act on behalf of",
+    "ex": "We [[act on behalf of]] Ms Dupont in connection with her dismissal."
+   },
+   "everyday": {
+    "uk": "to act for",
+    "us": "to represent",
+    "ex": "Which firm is [[acting for]] the employee?",
+    "ex_us": "Which firm is [[representing]] the employee?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be legally represented",
+   "to represent oneself",
+   "to appear on behalf of",
+   "an unrepresented claimant"
+  ],
+  "note_fr": "Devant le conseil de prud'hommes, l'avocat n'est pas obligatoire en première instance : une partie peut se défendre seule (« to represent oneself » ; au Royaume-Uni « a litigant in person », aux États-Unis « to appear pro se »). En français on distingue « assister » et « représenter » ; l'anglais dit « represent » dans les deux cas. Jamais « to assist » pour « assister à ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-014",
+  "level": 3,
+  "fr": "défenseur syndical",
+  "term": {
+   "uk": "trade union representative",
+   "us": "trade union representative"
+  },
+  "ipa": {
+   "uk": "/ˌtreɪd ˈjuːniən reprɪˌzentətɪv/",
+   "us": "/ˌtreɪd ˈjuːnjən reprɪˌzentətɪv/"
+  },
+  "def": "A person listed by an administrative authority, on a union's or employers' organisation's proposal, who may represent a party before the French employment courts instead of a lawyer.",
+  "registers": {
+   "formal": {
+    "uk": "an accredited union representative",
+    "us": "an accredited union representative",
+    "ex": "The Claimant was represented on appeal by [[an accredited union representative]] rather than by a lawyer."
+   },
+   "everyday": {
+    "uk": "a union rep",
+    "us": "a union rep",
+    "ex": "She can't afford a lawyer, so [[a union rep]] is handling her case."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be represented by a union official",
+   "lay representation",
+   "a non-lawyer representative"
+  ],
+  "note_fr": "Notion française : le défenseur syndical peut représenter le salarié (ou l'employeur) devant le conseil de prud'hommes et la cour d'appel en matière prud'homale. Au Royaume-Uni, un « trade union official » peut aussi accompagner ou représenter un salarié devant le tribunal ; aux États-Unis, la représentation en justice est réservée aux avocats.",
+  "french_concept": true,
+  "explain": {
+   "written": "A défenseur syndical is a union-nominated, officially listed lay representative who is entitled to assist or represent a party before the French employment tribunal and, in employment matters, before the court of appeal.",
+   "spoken": "In France you don't need a lawyer for this - an approved union representative can run the case for you, even on appeal."
+  }
+ },
+ {
+  "id": "lt-015",
+  "level": 2,
+  "fr": "bureau de conciliation et d'orientation",
+  "term": {
+   "uk": "conciliation panel",
+   "us": "conciliation panel"
+  },
+  "ipa": {
+   "uk": "/kənˌsɪliˈeɪʃ(ə)n ˌpæn(ə)l/",
+   "us": "/kənˌsɪliˈeɪʃ(ə)n ˌpæn(ə)l/"
+  },
+  "def": "The two-member panel of the French employment tribunal that first tries to bring the parties to an agreement and, failing that, organises the next steps of the case.",
+  "registers": {
+   "formal": {
+    "uk": "the conciliation and case-management panel",
+    "us": "the conciliation and case-management panel",
+    "ex": "The matter was first listed before [[the conciliation and case-management panel]], composed of one employer judge and one employee judge."
+   },
+   "everyday": {
+    "uk": "the conciliation panel",
+    "us": "the conciliation panel",
+    "ex": "Nothing gets decided at [[the conciliation panel]] - it's there to see whether the two sides can settle."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be listed before the conciliation panel",
+   "to set a timetable for the case",
+   "to refer the case to a full hearing"
+  ],
+  "note_fr": "N'essayez pas de traduire mot à mot (« office of conciliation and orientation » ne veut rien dire). Dites « conciliation panel » et expliquez son double rôle : tenter la conciliation, puis fixer le calendrier d'échange des pièces et des conclusions. Au Royaume-Uni, la conciliation se fait avant la saisine, par l'intermédiaire d'Acas, et non devant les juges.",
+  "french_concept": true,
+  "explain": {
+   "written": "The bureau de conciliation et d'orientation is the first stage of French employment tribunal proceedings: a panel of one employer judge and one employee judge attempts to conciliate the parties and, if no agreement is reached, sets the timetable for the case.",
+   "spoken": "The first stage is a short session in front of two judges, one from each side, who try to get the parties to settle. If that fails, they set the dates for the rest of the case."
+  }
+ },
+ {
+  "id": "lt-016",
+  "level": 2,
+  "fr": "audience de conciliation",
+  "term": {
+   "uk": "conciliation hearing",
+   "us": "conciliation hearing"
+  },
+  "ipa": {
+   "uk": "/kənˌsɪliˈeɪʃ(ə)n ˌhɪərɪŋ/",
+   "us": "/kənˌsɪliˈeɪʃ(ə)n ˌhɪrɪŋ/"
+  },
+  "def": "A first, short, private hearing at which the judges try to help the parties reach an agreement.",
+  "registers": {
+   "formal": {
+    "uk": "conciliation hearing",
+    "us": "conciliation hearing",
+    "ex": "The parties are required to attend the [[conciliation hearing]] in person or to be duly represented."
+   },
+   "everyday": {
+    "uk": "conciliation stage",
+    "us": "conciliation stage",
+    "ex": "Most cases don't settle at the [[conciliation stage]], but it's worth going in with a figure in mind."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to attend the conciliation hearing",
+   "an attempt at conciliation",
+   "conciliation failed",
+   "to reach an agreement at conciliation"
+  ],
+  "note_fr": "« Conciliation » existe en anglais et convient parfaitement ; évitez « reconciliation », qui s'emploie pour des personnes qui se réconcilient ou pour un rapprochement comptable. L'audience de conciliation n'est pas publique : dites « held in private ». Aux États-Unis, l'équivalent fonctionnel le plus proche est la « mediation » ou la « settlement conference ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-017",
+  "level": 2,
+  "fr": "audience de jugement (bureau de jugement)",
+  "term": {
+   "uk": "full hearing",
+   "us": "trial"
+  },
+  "ipa": {
+   "uk": "/ˌfʊl ˈhɪərɪŋ/",
+   "us": "/ˈtraɪəl/"
+  },
+  "def": "The hearing at which the court listens to both sides' arguments on the merits before deciding the case.",
+  "registers": {
+   "formal": {
+    "uk": "the hearing on the merits",
+    "us": "the trial on the merits",
+    "ex": "The case has been listed for [[the hearing on the merits]] before a panel of four judges.",
+    "ex_us": "The case has been set for [[the trial on the merits]] before a panel of four judges."
+   },
+   "everyday": {
+    "uk": "the full hearing",
+    "us": "the trial",
+    "ex": "We won't get to [[the full hearing]] for at least a year.",
+    "ex_us": "We won't get to [[the trial]] for at least a year."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to go to a full hearing",
+   "to be listed for hearing",
+   "to go to trial",
+   "the judgment panel"
+  ],
+  "note_fr": "Le « bureau de jugement » se rend par « the judgment panel » : deux conseillers employeurs et deux conseillers salariés. Au Royaume-Uni, on parle de « full hearing » ou « final hearing » ; « trial » est réservé aux tribunaux civils et pénaux. Aux États-Unis, « trial » est le terme normal, souvent devant un jury. « On the merits » = au fond.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-018",
+  "level": 3,
+  "fr": "partage de voix",
+  "term": {
+   "uk": "tied vote",
+   "us": "tied vote"
+  },
+  "ipa": {
+   "uk": "/ˌtaɪd ˈvəʊt/",
+   "us": "/ˌtaɪd ˈvoʊt/"
+  },
+  "def": "A situation in which the judges are equally divided, so that no majority decision can be reached.",
+  "registers": {
+   "formal": {
+    "uk": "an equality of votes",
+    "us": "an evenly divided vote",
+    "ex": "In the event of [[an equality of votes]], the case is reheard under the chairmanship of a professional judge.",
+    "ex_us": "In the event of [[an evenly divided vote]], the case is reheard with a professional judge presiding."
+   },
+   "everyday": {
+    "uk": "a split decision",
+    "us": "a split decision",
+    "ex": "With two judges from each side, [[a split decision]] is always a possibility."
+   },
+   "informal": {
+    "uk": "a deadlock",
+    "us": "a deadlock",
+    "ex": "If it ends in [[a deadlock]], add another year to the timetable."
+   }
+  },
+  "collocations": [
+   "the judges were evenly divided",
+   "to break the tie",
+   "to be deadlocked",
+   "a two-two split"
+  ],
+  "note_fr": "Le partage de voix est propre à la composition paritaire du conseil de prud'hommes (deux contre deux). Ne dites pas « sharing of voices ». « Tie » appartient aussi au vocabulaire sportif (match nul), ce qui rend l'image très parlante pour un interlocuteur anglophone.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-019",
+  "level": 3,
+  "fr": "juge départiteur",
+  "term": {
+   "uk": "tie-breaking judge",
+   "us": "tie-breaking judge"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪ breɪkɪŋ ˌdʒʌdʒ/",
+   "us": "/ˈtaɪ breɪkɪŋ ˌdʒʌdʒ/"
+  },
+  "def": "A professional judge who is called in to preside over a new hearing when the lay judges of the French employment tribunal are evenly divided.",
+  "registers": {
+   "formal": {
+    "uk": "the tie-breaking judge",
+    "us": "the tie-breaking judge",
+    "ex": "The case was referred to [[the tie-breaking judge]], a professional judge of the local civil court."
+   },
+   "everyday": {
+    "uk": "a professional judge to break the tie",
+    "us": "a professional judge to break the tie",
+    "ex": "The panel couldn't agree, so they've called in [[a professional judge to break the tie]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be referred to the tie-breaking judge",
+   "a tie-break hearing",
+   "to have the casting vote"
+  ],
+  "note_fr": "Notion française sans équivalent. Au Royaume-Uni, l'idée voisine est celle de « casting vote » (voix prépondérante d'un président), mais ce n'est pas le même mécanisme : en France, l'affaire est replaidée devant la formation complétée par un magistrat professionnel. Signalez toujours l'allongement des délais que cela entraîne.",
+  "french_concept": true,
+  "explain": {
+   "written": "Where the four lay judges are evenly divided, the case is reheard by the same panel presided over by a professional judge, known as the juge départiteur, whose participation makes a majority decision possible.",
+   "spoken": "If the four judges split two-two, the case is heard again with a professional judge in the chair to break the tie. It's called départage, and it adds months to the process."
+  }
+ },
+ {
+  "id": "lt-020",
+  "level": 1,
+  "fr": "audience",
+  "term": {
+   "uk": "hearing",
+   "us": "hearing"
+  },
+  "ipa": {
+   "uk": "/ˈhɪərɪŋ/",
+   "us": "/ˈhɪrɪŋ/"
+  },
+  "def": "A meeting of a court or tribunal at which the parties present their case to the judges.",
+  "registers": {
+   "formal": {
+    "uk": "hearing",
+    "us": "hearing",
+    "ex": "The [[hearing]] will take place on 12 March at 9.00 am."
+   },
+   "everyday": {
+    "uk": "hearing",
+    "us": "hearing",
+    "ex": "How long is the [[hearing]] likely to last - an hour, a whole day?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to attend a hearing",
+   "the hearing date",
+   "to be listed for hearing",
+   "a hearing in private"
+  ],
+  "note_fr": "Faux ami : « audience » désigne le public d'un spectacle ou d'une conférence, jamais une audience de tribunal. À huis clos = « in private » (UK) ou « in closed session » ; en audience publique = « in open court ». Ne confondez pas avec le « disciplinary hearing », qui est l'entretien préalable à l'anglaise.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-021",
+  "level": 2,
+  "fr": "convocation à l'audience",
+  "term": {
+   "uk": "notice of hearing",
+   "us": "notice of hearing"
+  },
+  "ipa": {
+   "uk": "/ˌnəʊtɪs əv ˈhɪərɪŋ/",
+   "us": "/ˌnoʊtɪs əv ˈhɪrɪŋ/"
+  },
+  "def": "The official document telling a party when and where the hearing will take place.",
+  "registers": {
+   "formal": {
+    "uk": "notice of hearing",
+    "us": "notice of hearing",
+    "ex": "The Respondent received [[notice of hearing]] by registered post on 3 May."
+   },
+   "everyday": {
+    "uk": "the hearing notice",
+    "us": "the hearing notice",
+    "ex": "Has [[the hearing notice]] come through yet? I need to block the date."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be given notice of the hearing",
+   "to be summoned to appear",
+   "to receive a summons"
+  ],
+  "note_fr": "« Convocation » en anglais désigne une cérémonie universitaire ou une assemblée religieuse : à proscrire. « Summons » (singulier malgré le s ; pluriel « summonses ») est plus solennel et, aux États-Unis, désigne l'acte qui accompagne la « complaint ». « To convoke » est rarissime ; dites « to summon » ou « to call ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-022",
+  "level": 1,
+  "fr": "se présenter à l'audience",
+  "term": {
+   "uk": "to attend the hearing",
+   "us": "to attend the hearing"
+  },
+  "ipa": {
+   "uk": "/tu əˌtend ðə ˈhɪərɪŋ/",
+   "us": "/tu əˌtend ðə ˈhɪrɪŋ/"
+  },
+  "def": "To be physically present at the court or tribunal on the day of the hearing.",
+  "registers": {
+   "formal": {
+    "uk": "to appear before",
+    "us": "to appear before",
+    "ex": "The parties shall [[appear before]] the tribunal in person or through their representatives."
+   },
+   "everyday": {
+    "uk": "to attend the hearing",
+    "us": "to attend the hearing",
+    "ex": "Does the HR director need to [[attend the hearing]], or can the lawyer go alone?"
+   },
+   "informal": {
+    "uk": "to turn up",
+    "us": "to show up",
+    "ex": "The claimant didn't even [[turn up]].",
+    "ex_us": "The plaintiff didn't even [[show up]]."
+   }
+  },
+  "collocations": [
+   "to appear in person",
+   "to fail to attend",
+   "to appear on someone's behalf",
+   "non-attendance"
+  ],
+  "note_fr": "« Assister à » = « to attend » ; « to assist » veut dire aider. « To appear » est le verbe juridique (d'où « appearance »). L'absence se dit « failure to attend » ou « non-appearance », pas « absence at the audience ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-023",
+  "level": 2,
+  "fr": "renvoi de l'audience",
+  "term": {
+   "uk": "adjournment",
+   "us": "continuance"
+  },
+  "ipa": {
+   "uk": "/əˈdʒɜːnmənt/",
+   "us": "/kənˈtɪnjuəns/"
+  },
+  "def": "A decision to move a hearing to a later date.",
+  "registers": {
+   "formal": {
+    "uk": "to adjourn the hearing",
+    "us": "to continue the hearing",
+    "ex": "The tribunal [[adjourned the hearing]] to allow the Respondent to reply to the new evidence.",
+    "ex_us": "The court [[continued the hearing]] to allow the Defendant to reply to the new evidence."
+   },
+   "everyday": {
+    "uk": "to postpone the hearing",
+    "us": "to postpone the hearing",
+    "ex": "The other side has asked to [[postpone the hearing]] again."
+   },
+   "informal": {
+    "uk": "to push the hearing back",
+    "us": "to push the hearing back",
+    "ex": "They've [[pushed the hearing back]] to June."
+   }
+  },
+  "collocations": [
+   "to apply for an adjournment",
+   "to request a continuance",
+   "the hearing was put off",
+   "a new hearing date"
+  ],
+  "note_fr": "Piège américain : « to continue a hearing » signifie la reporter, et non la poursuivre ; « continuance » = renvoi. Ne traduisez pas « renvoi » par « return » ni « dismissal ». « To adjourn » peut aussi signifier simplement suspendre la séance (« adjourned for lunch »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-024",
+  "level": 1,
+  "fr": "plaider (un dossier)",
+  "term": {
+   "uk": "to argue a case",
+   "us": "to argue a case"
+  },
+  "ipa": {
+   "uk": "/tu ˌɑːɡjuː ə ˈkeɪs/",
+   "us": "/tu ˌɑːrɡjuː ə ˈkeɪs/"
+  },
+  "def": "To present a party's arguments orally to the judges.",
+  "registers": {
+   "formal": {
+    "uk": "to make oral submissions",
+    "us": "to present oral argument",
+    "ex": "Counsel for each party will have twenty minutes to [[make oral submissions]].",
+    "ex_us": "Counsel for each party will have twenty minutes to [[present oral argument]]."
+   },
+   "everyday": {
+    "uk": "to argue the case",
+    "us": "to argue the case",
+    "ex": "Who's going to [[argue the case]] on the day - the partner or her associate?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to argue that the dismissal was fair",
+   "to put one's case",
+   "closing submissions",
+   "closing argument"
+  ],
+  "note_fr": "« To plead » n'est pas « plaider » : il signifie surtout exposer ses prétentions par écrit (« pleadings ») ou, au pénal, « to plead guilty ». « To argue » n'implique aucune dispute : c'est simplement argumenter. La plaidoirie finale est « closing submissions » (UK) ou « closing argument » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-025",
+  "level": 1,
+  "fr": "avoir un dossier solide",
+  "term": {
+   "uk": "to have a strong case",
+   "us": "to have a strong case"
+  },
+  "ipa": {
+   "uk": "/tə ˌhæv ə strɒŋ ˈkeɪs/",
+   "us": "/tə ˌhæv ə strɔːŋ ˈkeɪs/"
+  },
+  "def": "To be likely to win because the facts, the evidence and the law are on one's side.",
+  "registers": {
+   "formal": {
+    "uk": "to have good prospects of success",
+    "us": "to have a strong likelihood of success",
+    "ex": "In our opinion, the Company [[has good prospects of success]] on the overtime claim.",
+    "ex_us": "In our opinion, the Company [[has a strong likelihood of success]] on the overtime claim."
+   },
+   "everyday": {
+    "uk": "to have a strong case",
+    "us": "to have a strong case",
+    "ex": "Honestly, I think she [[has a strong case]] - there's nothing in writing on our side."
+   },
+   "informal": {
+    "uk": "to be on shaky ground",
+    "us": "to be on shaky ground",
+    "ex": "Without the appraisals, we're [[on shaky ground]]."
+   }
+  },
+  "collocations": [
+   "a weak case",
+   "an arguable case",
+   "the merits of the case",
+   "to assess our chances"
+  ],
+  "note_fr": "« Dossier » existe en anglais mais désigne un dossier de renseignements sur quelqu'un : ici, dites « case ». « Prospects of success » est la formule de l'avocat britannique ; un pourcentage se dit « a 60% chance of succeeding ». « The merits » = le fond, le bien-fondé.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-026",
+  "level": 2,
+  "fr": "requête (acte de saisine)",
+  "term": {
+   "uk": "claim form",
+   "us": "complaint"
+  },
+  "ipa": {
+   "uk": "/ˈkleɪm fɔːm/",
+   "us": "/kəmˈpleɪnt/"
+  },
+  "def": "The document that starts the proceedings by setting out who is claiming what, and on what grounds.",
+  "registers": {
+   "formal": {
+    "uk": "the claim form",
+    "us": "the complaint",
+    "ex": "[[The claim form]] must set out a summary of the grounds for each claim and list the supporting documents.",
+    "ex_us": "[[The complaint]] must set out a summary of the grounds for each claim and list the supporting documents."
+   },
+   "everyday": {
+    "uk": "the claim",
+    "us": "the complaint",
+    "ex": "We received [[the claim]] on Monday - he's asking for eighteen months' salary.",
+    "ex_us": "We received [[the complaint]] on Monday - he's asking for eighteen months' salary."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to lodge a claim form",
+   "to file a complaint",
+   "the particulars of claim",
+   "to be served with a complaint"
+  ],
+  "note_fr": "Piège : au Royaume-Uni, « a complaint » est une simple réclamation (interne ou commerciale) ; aux États-Unis, c'est l'acte introductif d'instance. « Request » ne convient pas. Devant l'Employment Tribunal, le formulaire de saisine s'appelle l'« ET1 » et la réponse de l'employeur l'« ET3 ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-027",
+  "level": 2,
+  "fr": "conclusions (écritures)",
+  "term": {
+   "uk": "written submissions",
+   "us": "brief"
+  },
+  "ipa": {
+   "uk": "/ˌrɪt(ə)n səbˈmɪʃ(ə)nz/",
+   "us": "/briːf/"
+  },
+  "def": "The document in which a party's lawyer sets out the facts, the legal arguments and what the court is asked to order.",
+  "registers": {
+   "formal": {
+    "uk": "written submissions",
+    "us": "a brief",
+    "ex": "The Respondent shall file its [[written submissions]] no later than 15 September.",
+    "ex_us": "The Defendant shall file its [[brief]] no later than September 15."
+   },
+   "everyday": {
+    "uk": "submissions",
+    "us": "brief",
+    "ex": "Their [[submissions]] came in last night - forty pages, mostly about the bonus.",
+    "ex_us": "Their [[brief]] came in last night - forty pages, mostly about the bonus."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to file submissions",
+   "to exchange submissions",
+   "submissions in reply",
+   "a reply brief"
+  ],
+  "note_fr": "Faux ami : « conclusions » en anglais ne désigne que la fin d'un raisonnement. Second piège : au Royaume-Uni, « a brief » est le dossier qu'un solicitor remet au barrister, alors qu'aux États-Unis c'est le mémoire déposé au tribunal. « Pleadings » désigne les actes qui fixent les prétentions (claim, defence), pas l'argumentation développée.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-028",
+  "level": 2,
+  "fr": "chef de demande",
+  "term": {
+   "uk": "head of claim",
+   "us": "claim"
+  },
+  "ipa": {
+   "uk": "/ˌhed əv ˈkleɪm/",
+   "us": "/kleɪm/"
+  },
+  "def": "Each separate item that a claimant asks the court to award or decide.",
+  "registers": {
+   "formal": {
+    "uk": "head of claim",
+    "us": "claim for relief",
+    "ex": "The tribunal dismissed every [[head of claim]] save that relating to unpaid overtime.",
+    "ex_us": "The court dismissed every [[claim for relief]] except the one relating to unpaid overtime."
+   },
+   "everyday": {
+    "uk": "part of the claim",
+    "us": "part of the claim",
+    "ex": "The biggest [[part of the claim]] is the overtime, not the dismissal."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "under each head of claim",
+   "a claim for unpaid wages",
+   "to quantify the claim",
+   "a schedule of loss"
+  ],
+  "note_fr": "« Chef » ne se traduit pas par « chief ». Le chiffrage des demandes est, au Royaume-Uni, le « schedule of loss » ; aux États-Unis, les fondements juridiques invoqués dans la « complaint » sont des « counts » ou « causes of action ». « Demand » est un faux ami : c'est une exigence, une sommation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-029",
+  "level": 2,
+  "fr": "demande reconventionnelle",
+  "term": {
+   "uk": "counterclaim",
+   "us": "counterclaim"
+  },
+  "ipa": {
+   "uk": "/ˈkaʊntəkleɪm/",
+   "us": "/ˈkaʊntərkleɪm/"
+  },
+  "def": "A claim made by the defending party against the person who started the proceedings, in the same case.",
+  "registers": {
+   "formal": {
+    "uk": "to bring a counterclaim",
+    "us": "to file a counterclaim",
+    "ex": "The Company [[brought a counterclaim]] for repayment of the training costs.",
+    "ex_us": "The Company [[filed a counterclaim]] for repayment of the training costs."
+   },
+   "everyday": {
+    "uk": "to counterclaim",
+    "us": "to counterclaim",
+    "ex": "We could [[counterclaim]] for the laptop and the unreturned advance, but is it worth it?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to counterclaim for damages",
+   "a counterclaim for breach of the non-compete",
+   "to dismiss the counterclaim"
+  ],
+  "note_fr": "Aucun rapport avec « reconvention ». « Counterclaim » est à la fois nom et verbe. En pratique, l'employeur français forme surtout des demandes reconventionnelles pour procédure abusive ou au titre des frais de procédure ; expliquez-le, car un client américain s'attend parfois à des contre-attaques plus larges.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-030",
+  "level": 2,
+  "fr": "lettre de mise en demeure",
+  "term": {
+   "uk": "letter before claim",
+   "us": "demand letter"
+  },
+  "ipa": {
+   "uk": "/ˌletə bɪfɔː ˈkleɪm/",
+   "us": "/dɪˈmænd ˌletər/"
+  },
+  "def": "A formal letter, usually from a lawyer, requiring the other party to pay or act within a set time, failing which proceedings will be started.",
+  "registers": {
+   "formal": {
+    "uk": "letter before claim",
+    "us": "demand letter",
+    "ex": "By a [[letter before claim]] dated 4 April, the Employee's solicitors demanded payment of the outstanding bonus.",
+    "ex_us": "By a [[demand letter]] dated April 4, the Employee's attorneys demanded payment of the outstanding bonus."
+   },
+   "everyday": {
+    "uk": "solicitor's letter",
+    "us": "letter from his attorney",
+    "ex": "We've had a [[solicitor's letter]] giving us fourteen days to pay.",
+    "ex_us": "We've had a [[letter from his attorney]] giving us fourteen days to pay."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to send a letter before claim",
+   "to put someone on notice",
+   "to give formal notice to pay",
+   "failing which"
+  ],
+  "note_fr": "Pas de « letter of formal demand » calquée sur le français dans un contexte britannique : la formule consacrée est « letter before claim » (ou « letter before action »). « To put someone on notice » = aviser formellement quelqu'un, le mettre en demeure. Aux États-Unis, « demand letter » est le terme usuel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-031",
+  "level": 2,
+  "fr": "signifier / notifier (un acte)",
+  "term": {
+   "uk": "to serve",
+   "us": "to serve"
+  },
+  "ipa": {
+   "uk": "/tə ˈsɜːv/",
+   "us": "/tə ˈsɜːrv/"
+  },
+  "def": "To deliver a legal document to a party officially, in the way the rules require.",
+  "registers": {
+   "formal": {
+    "uk": "to serve the judgment on",
+    "us": "to serve the judgment on",
+    "ex": "The time limit for appeal runs from the date on which [[the judgment was served on]] the parties."
+   },
+   "everyday": {
+    "uk": "to be served with",
+    "us": "to be served with",
+    "ex": "We [[were served with]] the claim last week, so the clock is already running."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to serve a document on someone",
+   "service of the judgment",
+   "to accept service",
+   "proof of service"
+  ],
+  "note_fr": "Construction : « to serve a document on someone » ou « to serve someone with a document ». « To signify » veut dire signifier au sens de « vouloir dire ». « To notify » existe mais se construit « to notify someone of something », jamais « to notify a decision to someone ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-032",
+  "level": 1,
+  "fr": "délai (de procédure)",
+  "term": {
+   "uk": "time limit",
+   "us": "deadline"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪm ˌlɪmɪt/",
+   "us": "/ˈdedlaɪn/"
+  },
+  "def": "The period within which a step in the proceedings must be taken, or the date by which it must be done.",
+  "registers": {
+   "formal": {
+    "uk": "within the prescribed time limit",
+    "us": "within the prescribed deadline",
+    "ex": "The appeal was not lodged [[within the prescribed time limit]] and is therefore inadmissible.",
+    "ex_us": "The appeal was not filed [[within the prescribed deadline]] and is therefore inadmissible."
+   },
+   "everyday": {
+    "uk": "deadline",
+    "us": "deadline",
+    "ex": "What's the [[deadline]] for sending our documents to the other side?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to meet a deadline",
+   "to miss a deadline",
+   "time starts to run from",
+   "an extension of time"
+  ],
+  "note_fr": "Faux ami classique : « delay » signifie retard, jamais délai. « Dans un délai d'un mois » = « within one month ». Le point de départ se dit « time runs from... ». Proroger un délai : « to extend the time limit », « to grant an extension ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-033",
+  "level": 1,
+  "fr": "délai de prescription",
+  "term": {
+   "uk": "limitation period",
+   "us": "statute of limitations"
+  },
+  "ipa": {
+   "uk": "/ˌlɪmɪˈteɪʃ(ə)n ˌpɪəriəd/",
+   "us": "/ˌstætʃuːt əv ˌlɪmɪˈteɪʃ(ə)nz/"
+  },
+  "def": "The period fixed by law after which a claim can no longer be brought.",
+  "registers": {
+   "formal": {
+    "uk": "limitation period",
+    "us": "statute of limitations",
+    "ex": "The [[limitation period]] for a claim relating to termination of the contract is twelve months from notification of the dismissal.",
+    "ex_us": "The [[statute of limitations]] for a claim relating to termination of the contract is twelve months from notification of the dismissal."
+   },
+   "everyday": {
+    "uk": "time limit for bringing a claim",
+    "us": "time limit for filing a claim",
+    "ex": "The [[time limit for bringing a claim]] is much shorter in the UK than in France.",
+    "ex_us": "The [[time limit for filing a claim]] varies a lot from one state to another."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the limitation period has expired",
+   "the statute of limitations has run",
+   "a three-year limitation period",
+   "time starts to run"
+  ],
+  "note_fr": "« Prescription » en anglais est une ordonnance médicale : faux ami absolu. En France, les délais varient selon l'objet de la demande (rupture du contrat, exécution du contrat, salaires). Au Royaume-Uni, le délai pour saisir l'Employment Tribunal est très bref, de l'ordre de quelques mois : vérifiez toujours la règle en vigueur. Aux États-Unis, il dépend de la loi invoquée et de l'État.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-034",
+  "level": 2,
+  "fr": "prescrit",
+  "term": {
+   "uk": "time-barred",
+   "us": "time-barred"
+  },
+  "ipa": {
+   "uk": "/ˈtaɪm bɑːd/",
+   "us": "/ˈtaɪm bɑːrd/"
+  },
+  "def": "No longer able to be brought before a court because the legal time limit has passed.",
+  "registers": {
+   "formal": {
+    "uk": "time-barred",
+    "us": "time-barred",
+    "ex": "The claim for arrears of salary relating to the earlier period is [[time-barred]]."
+   },
+   "everyday": {
+    "uk": "out of time",
+    "us": "too late to file",
+    "ex": "Anything before 2022 is [[out of time]], so that knocks a third off the claim.",
+    "ex_us": "Anything before 2022 is [[too late to file]], so that knocks a third off the claim."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the claim is statute-barred",
+   "to be barred by limitation",
+   "to bring a claim in time",
+   "to be barred by the statute of limitations"
+  ],
+  "note_fr": "Ne dites jamais « prescribed » : « prescribed by law » signifie « prévu, imposé par la loi », soit l'inverse d'une action éteinte. Variante britannique : « statute-barred ». Une demande formée à temps est « in time ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-035",
+  "level": 3,
+  "fr": "mise en état (du dossier)",
+  "term": {
+   "uk": "case management",
+   "us": "case management"
+  },
+  "ipa": {
+   "uk": "/ˈkeɪs ˌmænɪdʒmənt/",
+   "us": "/ˈkeɪs ˌmænɪdʒmənt/"
+  },
+  "def": "The court's organisation of the steps and dates by which the parties must exchange arguments and evidence so that the case is ready to be heard.",
+  "registers": {
+   "formal": {
+    "uk": "case management directions",
+    "us": "a scheduling order",
+    "ex": "The panel issued [[case management directions]] fixing the dates for the exchange of submissions and exhibits.",
+    "ex_us": "The court issued [[a scheduling order]] fixing the dates for the exchange of briefs and exhibits."
+   },
+   "everyday": {
+    "uk": "the timetable",
+    "us": "the schedule",
+    "ex": "Under [[the timetable]], we file in June and they reply in September.",
+    "ex_us": "Under [[the schedule]], we file in June and they reply in September."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a case management hearing",
+   "to comply with the directions",
+   "to set a procedural timetable",
+   "to be ready for hearing"
+  ],
+  "note_fr": "Ne traduisez pas littéralement (« putting in state »). Au Royaume-Uni, le tribunal donne des « directions » ou « case management orders », souvent lors d'une « preliminary hearing » ; aux États-Unis, c'est le « scheduling order ». Devant le conseil de prud'hommes, ce rôle revient au bureau de conciliation et d'orientation.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-036",
+  "level": 1,
+  "fr": "preuve(s)",
+  "term": {
+   "uk": "evidence",
+   "us": "evidence"
+  },
+  "ipa": {
+   "uk": "/ˈevɪd(ə)ns/",
+   "us": "/ˈevɪd(ə)ns/"
+  },
+  "def": "The documents, statements and other material used to show the court that a fact is true.",
+  "registers": {
+   "formal": {
+    "uk": "evidence",
+    "us": "evidence",
+    "ex": "The Company has produced no [[evidence]] that the Employee was warned about his performance."
+   },
+   "everyday": {
+    "uk": "proof",
+    "us": "proof",
+    "ex": "Do we have any [[proof]] that she actually received the letter?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a piece of evidence",
+   "to produce evidence",
+   "documentary evidence",
+   "there is no evidence that"
+  ],
+  "note_fr": "« Evidence » est indénombrable : jamais « an evidence » ni « evidences » ; dites « a piece of evidence », « some evidence ». Ne le confondez pas avec « évidence » (= « something obvious »). « Proof » est plus fort (la preuve décisive) ; « a proof » est une épreuve d'imprimerie.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-037",
+  "level": 1,
+  "fr": "pièce (versée aux débats)",
+  "term": {
+   "uk": "exhibit",
+   "us": "exhibit"
+  },
+  "ipa": {
+   "uk": "/ɪɡˈzɪbɪt/",
+   "us": "/ɪɡˈzɪbɪt/"
+  },
+  "def": "A document or object formally produced to the court as evidence, usually numbered.",
+  "registers": {
+   "formal": {
+    "uk": "exhibit",
+    "us": "exhibit",
+    "ex": "The warning letter of 3 March is produced as [[Exhibit]] 12."
+   },
+   "everyday": {
+    "uk": "document",
+    "us": "document",
+    "ex": "Which [[document]] shows the bonus was agreed - is it the email from June?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a list of exhibits",
+   "to produce a document as an exhibit",
+   "to refer to Exhibit 7",
+   "supporting documents"
+  ],
+  "note_fr": "« Piece » ne convient pas (sauf dans « a piece of evidence »). Le bordereau de pièces est « the list of exhibits ». Devant l'Employment Tribunal britannique, les documents des deux parties sont réunis dans un dossier commun paginé, le « bundle », et l'on cite la page plutôt qu'un numéro de pièce.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-038",
+  "level": 2,
+  "fr": "communiquer ses pièces",
+  "term": {
+   "uk": "to disclose documents",
+   "us": "to produce documents"
+  },
+  "ipa": {
+   "uk": "/tə dɪsˌkləʊz ˈdɒkjʊmənts/",
+   "us": "/tə prəˌduːs ˈdɑːkjəmənts/"
+  },
+  "def": "To give the other party copies of the documents on which one relies, or which one is required to hand over.",
+  "registers": {
+   "formal": {
+    "uk": "to disclose",
+    "us": "to produce",
+    "ex": "Each party shall [[disclose]] its exhibits to the other party in good time before the hearing.",
+    "ex_us": "Each party shall [[produce]] its exhibits to the other party in good time before the hearing."
+   },
+   "everyday": {
+    "uk": "to send over",
+    "us": "to send over",
+    "ex": "They still haven't [[sent over]] their documents, and the hearing is in three weeks."
+   },
+   "informal": {
+    "uk": "to hand over",
+    "us": "to hand over",
+    "ex": "We'll have to [[hand over]] the emails sooner or later."
+   }
+  },
+  "collocations": [
+   "to exchange documents",
+   "to disclose a document to the other side",
+   "late disclosure",
+   "to withhold a document"
+  ],
+  "note_fr": "« To communicate documents » est un calque : on « discloses », « produces » ou « exchanges » des pièces. Différence de fond : en France, chaque partie communique les pièces qu'elle choisit d'invoquer ; dans les pays de common law, elle doit en principe aussi révéler les documents pertinents qui lui sont défavorables.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-039",
+  "level": 2,
+  "fr": "communication obligatoire des documents (common law)",
+  "term": {
+   "uk": "disclosure",
+   "us": "discovery"
+  },
+  "ipa": {
+   "uk": "/dɪsˈkləʊʒə/",
+   "us": "/dɪˈskʌvəri/"
+  },
+  "def": "The stage of common-law proceedings in which each party must reveal to the other the relevant documents and information it holds, including those that harm its own case.",
+  "registers": {
+   "formal": {
+    "uk": "disclosure",
+    "us": "discovery",
+    "ex": "The parties shall give [[disclosure]] of all documents relevant to the issues by 1 June.",
+    "ex_us": "The parties shall complete [[discovery]] of all documents relevant to the issues by June 1."
+   },
+   "everyday": {
+    "uk": "disclosure",
+    "us": "discovery",
+    "ex": "Be careful what you put in an email - it could all come out in [[disclosure]].",
+    "ex_us": "Be careful what you put in an email - it could all come out in [[discovery]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a disclosure order",
+   "a discovery request",
+   "to be disclosable",
+   "e-discovery"
+  ],
+  "note_fr": "Rien de comparable en France, où le juge peut seulement ordonner la production de pièces déterminées. La « discovery » américaine est beaucoup plus large (documents, courriels, interrogatoires écrits, dépositions) et très coûteuse ; la « disclosure » anglaise est plus encadrée. Conséquence pratique à rappeler aux managers : tout écrit interne peut finir devant le juge.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-040",
+  "level": 3,
+  "fr": "déposition préalable d'un témoin (États-Unis)",
+  "term": {
+   "uk": "deposition",
+   "us": "deposition"
+  },
+  "ipa": {
+   "uk": "/ˌdepəˈzɪʃ(ə)n/",
+   "us": "/ˌdepəˈzɪʃ(ə)n/"
+  },
+  "def": "In US litigation, the questioning of a witness under oath by the lawyers before trial, recorded word for word.",
+  "registers": {
+   "formal": {
+    "uk": "to take the deposition of",
+    "us": "to take the deposition of",
+    "ex": "Plaintiff's counsel intends to [[take the deposition of]] the HR Director and two line managers."
+   },
+   "everyday": {
+    "uk": "to be deposed",
+    "us": "to be deposed",
+    "ex": "You may [[be deposed]], which means a full day of questions from the other side's lawyer."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sit for a deposition",
+   "to prepare a witness for deposition",
+   "a deposition transcript",
+   "to depose a witness"
+  ],
+  "note_fr": "Procédure typiquement américaine, inconnue en France et pratiquement absente au Royaume-Uni. Elle se déroule dans un cabinet d'avocats, sans juge, mais sous serment. « To depose » n'a ici rien à voir avec « destituer ». Un DRH français d'une filiale de groupe américain peut y être convoqué : il faut le préparer.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-041",
+  "level": 3,
+  "fr": "obligation de conservation des documents en vue d'un litige",
+  "term": {
+   "uk": "document preservation notice",
+   "us": "litigation hold"
+  },
+  "ipa": {
+   "uk": "/ˌdɒkjʊmənt prezəˈveɪʃ(ə)n ˌnəʊtɪs/",
+   "us": "/ˌlɪtɪˈɡeɪʃ(ə)n hoʊld/"
+  },
+  "def": "An instruction not to delete or destroy any document that may be relevant to a dispute that has started or is expected.",
+  "registers": {
+   "formal": {
+    "uk": "a document preservation notice",
+    "us": "a litigation hold notice",
+    "ex": "The Legal Department has issued [[a document preservation notice]] covering all correspondence relating to the Employee.",
+    "ex_us": "The Legal Department has issued [[a litigation hold notice]] covering all correspondence relating to the Employee."
+   },
+   "everyday": {
+    "uk": "to keep everything",
+    "us": "to keep everything",
+    "ex": "Tell his manager to [[keep everything]] - emails, chat messages, the lot."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to issue a litigation hold",
+   "to preserve documents",
+   "to suspend routine deletion",
+   "destruction of evidence"
+  ],
+  "note_fr": "Notion issue de la procédure américaine, reprise par les groupes internationaux. « Hold » signifie ici gel, et non retenue. La destruction de preuves se dit « spoliation of evidence » aux États-Unis. En France, pensez à articuler cette exigence avec les durées de conservation des données personnelles.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-042",
+  "level": 1,
+  "fr": "attestation (de témoin)",
+  "term": {
+   "uk": "witness statement",
+   "us": "declaration"
+  },
+  "ipa": {
+   "uk": "/ˈwɪtnəs ˌsteɪtmənt/",
+   "us": "/ˌdekləˈreɪʃ(ə)n/"
+  },
+  "def": "A signed written account by a person of the facts he or she has personally witnessed, produced as evidence.",
+  "registers": {
+   "formal": {
+    "uk": "witness statement",
+    "us": "sworn declaration",
+    "ex": "The Company relies on the [[witness statements]] of two colleagues who were present at the meeting.",
+    "ex_us": "The Company relies on the [[sworn declarations]] of two colleagues who were present at the meeting."
+   },
+   "everyday": {
+    "uk": "statement",
+    "us": "statement",
+    "ex": "Would his team leader be willing to write a [[statement]] for us?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give a witness statement",
+   "to sign a statement",
+   "a statement in support of the claim",
+   "to swear an affidavit"
+  ],
+  "note_fr": "« Attestation » existe en anglais mais ne s'emploie pas dans ce sens ; « certificate » non plus. Aux États-Unis, on parle de « declaration » ou d'« affidavit » (déclaration faite sous serment). Différence pratique : en France, l'attestation écrite remplace le plus souvent l'audition du témoin ; au Royaume-Uni, l'auteur du « witness statement » vient en principe le confirmer à l'audience et répondre aux questions.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-043",
+  "level": 1,
+  "fr": "témoigner",
+  "term": {
+   "uk": "to give evidence",
+   "us": "to testify"
+  },
+  "ipa": {
+   "uk": "/tə ˌɡɪv ˈevɪd(ə)ns/",
+   "us": "/tə ˈtestɪfaɪ/"
+  },
+  "def": "To tell a court or tribunal, as a witness, what one knows about the facts.",
+  "registers": {
+   "formal": {
+    "uk": "to give evidence",
+    "us": "to testify",
+    "ex": "The Claimant's former manager [[gave evidence]] on behalf of the Respondent.",
+    "ex_us": "The Plaintiff's former manager [[testified]] on behalf of the Defendant."
+   },
+   "everyday": {
+    "uk": "to be a witness",
+    "us": "to be a witness",
+    "ex": "Nobody in the team wants to [[be a witness]] against a colleague."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to call a witness",
+   "to give evidence under oath",
+   "to testify at trial",
+   "a reluctant witness"
+  ],
+  "note_fr": "« To witness » signifie « être témoin de » (un fait) et non déposer en justice. « To testify » est surtout américain ; le Britannique dit « to give evidence ». « Sous serment » = « under oath » ou « on oath ». Devant le conseil de prud'hommes, l'audition de témoins à l'audience est rare.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-044",
+  "level": 2,
+  "fr": "contre-interrogatoire",
+  "term": {
+   "uk": "cross-examination",
+   "us": "cross-examination"
+  },
+  "ipa": {
+   "uk": "/ˌkrɒs ɪɡˌzæmɪˈneɪʃ(ə)n/",
+   "us": "/ˌkrɔːs ɪɡˌzæmɪˈneɪʃ(ə)n/"
+  },
+  "def": "The questioning of a witness by the lawyer for the opposing party, in order to test or weaken his or her evidence.",
+  "registers": {
+   "formal": {
+    "uk": "to cross-examine",
+    "us": "to cross-examine",
+    "ex": "Counsel for the Claimant [[cross-examined]] the HR Manager for over two hours."
+   },
+   "everyday": {
+    "uk": "to be cross-examined",
+    "us": "to be cross-examined",
+    "ex": "If you give a statement in a UK case, expect to [[be cross-examined]] on every line of it."
+   },
+   "informal": {
+    "uk": "to be grilled",
+    "us": "to be grilled",
+    "ex": "She [[was grilled]] for a whole afternoon about one email."
+   }
+  },
+  "collocations": [
+   "under cross-examination",
+   "to stand up to cross-examination",
+   "examination-in-chief",
+   "direct examination"
+  ],
+  "note_fr": "Technique centrale des procès de common law, sans équivalent dans la pratique prud'homale française, où les avocats plaident sur pièces. L'interrogatoire par son propre avocat s'appelle « examination-in-chief » (UK) ou « direct examination » (US). Prévenez un manager français appelé à témoigner à Londres ou à New York : l'exercice est éprouvant.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-045",
+  "level": 3,
+  "fr": "témoignage par ouï-dire",
+  "term": {
+   "uk": "hearsay",
+   "us": "hearsay"
+  },
+  "ipa": {
+   "uk": "/ˈhɪəseɪ/",
+   "us": "/ˈhɪrseɪ/"
+  },
+  "def": "Evidence of what a witness was told by someone else rather than what he or she saw or heard directly.",
+  "registers": {
+   "formal": {
+    "uk": "hearsay evidence",
+    "us": "hearsay evidence",
+    "ex": "The statement amounts to [[hearsay evidence]] and should be given little weight."
+   },
+   "everyday": {
+    "uk": "second-hand",
+    "us": "second-hand",
+    "ex": "That's all [[second-hand]] - she wasn't in the room when it happened."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be based on hearsay",
+   "to give little weight to",
+   "first-hand knowledge",
+   "the rule against hearsay"
+  ],
+  "note_fr": "Aux États-Unis, le « hearsay » est en principe irrecevable devant un tribunal, sous réserve de nombreuses exceptions ; devant l'Employment Tribunal britannique, il est admis mais pèse peu. En France, une attestation doit relater des faits personnellement constatés : l'argument se formule donc de façon très proche.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-046",
+  "level": 2,
+  "fr": "preuve recevable",
+  "term": {
+   "uk": "admissible evidence",
+   "us": "admissible evidence"
+  },
+  "ipa": {
+   "uk": "/ədˌmɪsəb(ə)l ˈevɪd(ə)ns/",
+   "us": "/ədˌmɪsəb(ə)l ˈevɪd(ə)ns/"
+  },
+  "def": "Evidence that a court is allowed to take into account when deciding the case.",
+  "registers": {
+   "formal": {
+    "uk": "to be admissible in evidence",
+    "us": "to be admissible in evidence",
+    "ex": "A recording made without the other person's knowledge is not necessarily [[admissible in evidence]]."
+   },
+   "everyday": {
+    "uk": "to be allowed as evidence",
+    "us": "to be allowed as evidence",
+    "ex": "Will the screenshots [[be allowed as evidence]], given how she got hold of them?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to rule evidence inadmissible",
+   "to exclude evidence",
+   "unlawfully obtained evidence",
+   "to admit a document in evidence"
+  ],
+  "note_fr": "« Receivable » est un terme comptable (créances) : dites « admissible ». Le contraire est « inadmissible ». Retenez la nuance à expliquer à un client étranger : en France, une preuve obtenue de manière déloyale n'est pas automatiquement écartée ; le juge met en balance le droit à la preuve et les droits de l'autre partie.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-047",
+  "level": 1,
+  "fr": "charge de la preuve",
+  "term": {
+   "uk": "burden of proof",
+   "us": "burden of proof"
+  },
+  "ipa": {
+   "uk": "/ˌbɜːd(ə)n əv ˈpruːf/",
+   "us": "/ˌbɜːrd(ə)n əv ˈpruːf/"
+  },
+  "def": "The obligation on a party to prove the facts it relies on, failing which it loses on that point.",
+  "registers": {
+   "formal": {
+    "uk": "the burden of proof lies with",
+    "us": "the burden of proof lies with",
+    "ex": "Where gross misconduct is alleged, [[the burden of proof lies with]] the employer."
+   },
+   "everyday": {
+    "uk": "it's up to someone to prove",
+    "us": "it's up to someone to prove",
+    "ex": "Here [[it's up to us to prove]] the misconduct, not up to him to disprove it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bear the burden of proof",
+   "to discharge the burden of proof",
+   "the burden is on the employer",
+   "the onus is on"
+  ],
+  "note_fr": "Ne dites pas « charge of the proof ». Verbes associés : « to bear » (supporter), « to discharge » ou « to meet » (s'en acquitter). Synonyme soutenu : « the onus ». En droit français, la charge varie selon la demande : elle pèse sur l'employeur pour la faute grave, elle est partagée pour la cause réelle et sérieuse et pour les heures supplémentaires.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-048",
+  "level": 3,
+  "fr": "aménagement de la charge de la preuve",
+  "term": {
+   "uk": "shifting burden of proof",
+   "us": "shifting burden of proof"
+  },
+  "ipa": {
+   "uk": "/ˌʃɪftɪŋ ˌbɜːd(ə)n əv ˈpruːf/",
+   "us": "/ˌʃɪftɪŋ ˌbɜːrd(ə)n əv ˈpruːf/"
+  },
+  "def": "A rule under which, once the claimant has shown facts suggesting a breach, it is for the other party to prove that there was none.",
+  "registers": {
+   "formal": {
+    "uk": "the burden of proof shifts to",
+    "us": "the burden of proof shifts to",
+    "ex": "Once the employee has established facts from which discrimination may be presumed, [[the burden of proof shifts to]] the employer."
+   },
+   "everyday": {
+    "uk": "it's then for someone to show",
+    "us": "it's then for someone to show",
+    "ex": "She only has to raise a plausible case; [[it's then for us to show]] there was an objective reason."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to establish a prima facie case",
+   "to rebut the presumption",
+   "objective justification",
+   "a reversal of the burden of proof"
+  ],
+  "note_fr": "« Aménagement » ne se traduit pas par « arrangement » : l'anglais dit que la charge « shifts » (se déplace). « Prima facie case » = commencement de preuve suffisant. Le mécanisme, d'origine européenne, existe aussi au Royaume-Uni en matière de discrimination ; les tribunaux américains appliquent un raisonnement en étapes comparable.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-049",
+  "level": 2,
+  "fr": "niveau de preuve exigé",
+  "term": {
+   "uk": "standard of proof",
+   "us": "standard of proof"
+  },
+  "ipa": {
+   "uk": "/ˌstændəd əv ˈpruːf/",
+   "us": "/ˌstændərd əv ˈpruːf/"
+  },
+  "def": "How convincing the evidence must be for a court to treat a fact as proved.",
+  "registers": {
+   "formal": {
+    "uk": "on the balance of probabilities",
+    "us": "by a preponderance of the evidence",
+    "ex": "The tribunal must be satisfied [[on the balance of probabilities]] that the conduct occurred.",
+    "ex_us": "The court must be satisfied [[by a preponderance of the evidence]] that the conduct occurred."
+   },
+   "everyday": {
+    "uk": "more likely than not",
+    "us": "more likely than not",
+    "ex": "We don't need certainty - we need to show it's [[more likely than not]] that he did it."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the civil standard of proof",
+   "to meet the standard",
+   "beyond reasonable doubt",
+   "a high evidential threshold"
+  ],
+  "note_fr": "Ne confondez pas « burden » (qui doit prouver) et « standard » (jusqu'à quel degré). En matière civile et sociale, les pays de common law se contentent de la probabilité prépondérante ; « beyond reasonable doubt » est réservé au pénal. Le droit français ne chiffre pas ce seuil : le juge forme sa conviction au vu des éléments produits.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-050",
+  "level": 3,
+  "fr": "le doute profite au salarié",
+  "term": {
+   "uk": "the employee gets the benefit of the doubt",
+   "us": "the employee gets the benefit of the doubt"
+  },
+  "ipa": {
+   "uk": "/ði ɪmˌplɔɪˈiː ɡets ðə ˌbenɪfɪt əv ðə ˈdaʊt/",
+   "us": "/ði ɪmˌplɔɪˈiː ɡets ðə ˌbenəfɪt əv ðə ˈdaʊt/"
+  },
+  "def": "A French rule under which, if the judges remain uncertain whether a dismissal was justified, they must decide in the employee's favour.",
+  "registers": {
+   "formal": {
+    "uk": "any doubt shall be resolved in favour of the employee",
+    "us": "any doubt shall be resolved in favor of the employee",
+    "ex": "Under the Labour Code, where the evidence is inconclusive, [[any doubt shall be resolved in favour of the employee]].",
+    "ex_us": "Under the Labor Code, where the evidence is inconclusive, [[any doubt shall be resolved in favor of the employee]]."
+   },
+   "everyday": {
+    "uk": "the employee gets the benefit of the doubt",
+    "us": "the employee gets the benefit of the doubt",
+    "ex": "If it's our word against his, [[the employee gets the benefit of the doubt]] - that's the rule here."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give someone the benefit of the doubt",
+   "to resolve a doubt in someone's favour",
+   "where the evidence is inconclusive"
+  ],
+  "note_fr": "Évitez le calque « the doubt profits the employee ». L'expression idiomatique est « to give someone the benefit of the doubt ». C'est une règle légale française propre au licenciement ; elle n'a pas d'équivalent au Royaume-Uni ni aux États-Unis, où celui qui supporte la charge de la preuve perd simplement s'il ne convainc pas.",
+  "french_concept": true,
+  "explain": {
+   "written": "French law provides that, where the judges are left in doubt as to whether the grounds for dismissal are real and serious, that doubt must be resolved in the employee's favour.",
+   "spoken": "In France, if the judges can't make up their minds about whether the dismissal was justified, the employee wins. So thin evidence is the employer's problem."
+  }
+ },
+ {
+  "id": "lt-051",
+  "level": 3,
+  "fr": "principe du contradictoire",
+  "term": {
+   "uk": "adversarial principle",
+   "us": "adversarial principle"
+  },
+  "ipa": {
+   "uk": "/ˌædvəˈseəriəl ˌprɪnsəp(ə)l/",
+   "us": "/ˌædvərˈseriəl ˌprɪnsəp(ə)l/"
+  },
+  "def": "The rule that a court may only rely on arguments and documents that each party has had a proper opportunity to see and answer.",
+  "registers": {
+   "formal": {
+    "uk": "the right of each party to be heard",
+    "us": "the right of each party to be heard",
+    "ex": "Exhibits disclosed on the eve of the hearing may be excluded for breach of [[the right of each party to be heard]]."
+   },
+   "everyday": {
+    "uk": "giving the other side a chance to respond",
+    "us": "giving the other side a chance to respond",
+    "ex": "You can't spring a new document on them at the hearing - it's all about [[giving the other side a chance to respond]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have a fair opportunity to respond",
+   "to be disclosed in good time",
+   "to exclude late evidence",
+   "the right to a fair hearing"
+  ],
+  "note_fr": "« Contradictory principle » ne veut rien dire en anglais (« contradictory » = incohérent). « Adversarial principle » est la traduction savante, mais un interlocuteur anglophone comprendra mieux « each side must have the chance to see and answer the other side's case ». Aux États-Unis, l'idée relève du « due process ».",
+  "french_concept": true,
+  "explain": {
+   "written": "Under the French principle known as le contradictoire, no argument or document may be taken into account by the court unless it has been communicated to the other party in sufficient time for that party to respond.",
+   "spoken": "The basic rule is that the judges can't look at anything the other side hasn't seen and had time to answer - which is why late documents get thrown out."
+  }
+ },
+ {
+  "id": "lt-052",
+  "level": 3,
+  "fr": "secret professionnel de l'avocat",
+  "term": {
+   "uk": "legal professional privilege",
+   "us": "attorney-client privilege"
+  },
+  "ipa": {
+   "uk": "/ˌliːɡ(ə)l prəˌfeʃ(ə)nəl ˈprɪvəlɪdʒ/",
+   "us": "/əˌtɜːrni ˌklaɪənt ˈprɪvəlɪdʒ/"
+  },
+  "def": "The rule that confidential communications between a lawyer and a client cannot be disclosed to the other party or to the court.",
+  "registers": {
+   "formal": {
+    "uk": "to be subject to legal professional privilege",
+    "us": "to be protected by attorney-client privilege",
+    "ex": "This advice [[is subject to legal professional privilege]] and must not be forwarded outside the HR leadership team.",
+    "ex_us": "This advice [[is protected by attorney-client privilege]] and must not be forwarded outside the HR leadership team."
+   },
+   "everyday": {
+    "uk": "to be privileged",
+    "us": "to be privileged",
+    "ex": "Anything you send the lawyers [[is privileged]]; your emails to the line manager aren't."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "privileged and confidential",
+   "to waive privilege",
+   "to lose privilege",
+   "a privileged document"
+  ],
+  "note_fr": "« Privilege » n'a ici rien d'un avantage : c'est une protection contre la divulgation. Dans les systèmes à « disclosure » ou « discovery », elle est vitale, d'où la mention « Privileged and confidential » en tête des courriels. Un avis rédigé par un consultant RH non avocat n'est en principe pas couvert : à signaler à vos clients anglo-saxons.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-053",
+  "level": 1,
+  "fr": "jugement / décision",
+  "term": {
+   "uk": "judgment",
+   "us": "judgment"
+  },
+  "ipa": {
+   "uk": "/ˈdʒʌdʒmənt/",
+   "us": "/ˈdʒʌdʒmənt/"
+  },
+  "def": "The formal decision of a court or tribunal on a case.",
+  "registers": {
+   "formal": {
+    "uk": "judgment",
+    "us": "judgment",
+    "ex": "By a [[judgment]] of 14 November, the tribunal held that the dismissal was without real and serious cause."
+   },
+   "everyday": {
+    "uk": "ruling",
+    "us": "ruling",
+    "ex": "We should get the [[ruling]] in about two months."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to give judgment",
+   "a judgment in favour of the employee",
+   "to comply with a judgment",
+   "the court's ruling"
+  ],
+  "note_fr": "Dans son sens juridique, le mot s'écrit « judgment », sans e, y compris au Royaume-Uni. « Sentence » est une peine pénale, jamais une décision prud'homale. Un « arrêt » de cour d'appel se dit aussi « judgment » ou « decision ». Verbe usuel pour introduire ce que le juge décide : « the tribunal held that... », « the court found that... ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-054",
+  "level": 2,
+  "fr": "mettre l'affaire en délibéré",
+  "term": {
+   "uk": "to reserve judgment",
+   "us": "to take the case under advisement"
+  },
+  "ipa": {
+   "uk": "/tə rɪˌzɜːv ˈdʒʌdʒmənt/",
+   "us": "/tə ˌteɪk ðə keɪs ʌndər ədˈvaɪzmənt/"
+  },
+  "def": "To end the hearing without announcing a decision, which the judges will give at a later date after discussing the case.",
+  "registers": {
+   "formal": {
+    "uk": "to reserve judgment",
+    "us": "to take the matter under advisement",
+    "ex": "At the close of the hearing, the tribunal [[reserved judgment]] until 20 January.",
+    "ex_us": "At the close of the hearing, the court [[took the matter under advisement]] until January 20."
+   },
+   "everyday": {
+    "uk": "to give a decision later",
+    "us": "to give a decision later",
+    "ex": "They never decide on the day - they'll [[give their decision later]], usually within a couple of months."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a reserved judgment",
+   "the judges retire to deliberate",
+   "the decision is expected on",
+   "to await the outcome"
+  ],
+  "note_fr": "« Délibéré » ne se rend pas par « deliberate », qui comme adjectif signifie « intentionnel ». Le verbe « to deliberate » existe (« the judges are deliberating ») mais la formule technique est « to reserve judgment ». Pour annoncer une date à un client : « judgment is expected on 20 January ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-055",
+  "level": 2,
+  "fr": "rendre un jugement",
+  "term": {
+   "uk": "to hand down a judgment",
+   "us": "to issue a ruling"
+  },
+  "ipa": {
+   "uk": "/tə ˌhænd daʊn ə ˈdʒʌdʒmənt/",
+   "us": "/tu ˌɪʃuː ə ˈruːlɪŋ/"
+  },
+  "def": "To make a court's decision known officially to the parties.",
+  "registers": {
+   "formal": {
+    "uk": "to hand down judgment",
+    "us": "to enter judgment",
+    "ex": "The Court of Appeal [[handed down judgment]] on 6 June.",
+    "ex_us": "The Court of Appeals [[entered judgment]] on June 6."
+   },
+   "everyday": {
+    "uk": "to give a decision",
+    "us": "to rule",
+    "ex": "The tribunal [[gave its decision]] yesterday, and it isn't good news.",
+    "ex_us": "The court [[ruled]] yesterday, and it isn't good news."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to deliver judgment",
+   "to rule in favour of",
+   "to rule against",
+   "to find for the claimant"
+  ],
+  "note_fr": "On ne dit pas « to render a judgment » en anglais britannique courant (la tournure existe en anglais juridique américain). « To pronounce » est rare. Retenez « to rule in favour of / against someone » et « to find for / against », très idiomatiques pour dire qui a gagné.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-056",
+  "level": 3,
+  "fr": "dispositif (du jugement)",
+  "term": {
+   "uk": "operative part",
+   "us": "operative part"
+  },
+  "ipa": {
+   "uk": "/ˈɒp(ə)rətɪv pɑːt/",
+   "us": "/ˈɑːpərətɪv pɑːrt/"
+  },
+  "def": "The final part of a judgment, which states exactly what the court orders, as opposed to the reasoning that leads to it.",
+  "registers": {
+   "formal": {
+    "uk": "the operative part of the judgment",
+    "us": "the operative part of the judgment",
+    "ex": "Only [[the operative part of the judgment]] is binding on the parties and capable of enforcement."
+   },
+   "everyday": {
+    "uk": "what the court actually ordered",
+    "us": "what the court actually ordered",
+    "ex": "Skip the reasoning for now and look at [[what the court actually ordered]] on the last page."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the reasons for the judgment",
+   "the court's reasoning",
+   "the order made by the court",
+   "a reasoned judgment"
+  ],
+  "note_fr": "« Dispositive » est un faux ami partiel : aux États-Unis, « a dispositive motion » est une requête qui met fin au litige. Les motifs se disent « the reasons » ou « the reasoning » (pas « the motivations »). Pour un client, le plus clair reste « the order at the end of the judgment ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-057",
+  "level": 2,
+  "fr": "débouter (le salarié de ses demandes)",
+  "term": {
+   "uk": "to dismiss a claim",
+   "us": "to dismiss a claim"
+  },
+  "ipa": {
+   "uk": "/tə dɪsˌmɪs ə ˈkleɪm/",
+   "us": "/tə dɪsˌmɪs ə ˈkleɪm/"
+  },
+  "def": "To decide that a claim fails and that the claimant will not obtain what was asked for.",
+  "registers": {
+   "formal": {
+    "uk": "to dismiss the claims",
+    "us": "to dismiss the claims",
+    "ex": "The tribunal [[dismissed the claims]] in their entirety and ordered the Claimant to pay the costs."
+   },
+   "everyday": {
+    "uk": "to reject the claim",
+    "us": "to reject the claim",
+    "ex": "The judges [[rejected the claim]] for overtime but accepted the one about the bonus."
+   },
+   "informal": {
+    "uk": "to throw out",
+    "us": "to throw out",
+    "ex": "The whole thing was [[thrown out]] in under an hour."
+   }
+  },
+  "collocations": [
+   "the claim was dismissed",
+   "to dismiss the appeal",
+   "the claim failed",
+   "to dismiss with prejudice"
+  ],
+  "note_fr": "Double sens à maîtriser : « to dismiss an employee » = licencier, « to dismiss a claim » = rejeter une demande. « The claim failed » est la tournure la plus naturelle à l'oral. Aux États-Unis, « dismissed with prejudice » signifie que la demande ne pourra plus être réintroduite.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-058",
+  "level": 1,
+  "fr": "condamner (l'employeur) à payer",
+  "term": {
+   "uk": "to order someone to pay",
+   "us": "to order someone to pay"
+  },
+  "ipa": {
+   "uk": "/tu ˌɔːdə ˈsʌmwʌn tə ˈpeɪ/",
+   "us": "/tu ˌɔːrdər ˈsʌmwʌn tə ˈpeɪ/"
+  },
+  "def": "To decide, as a court, that a party must pay a sum of money to the other party.",
+  "registers": {
+   "formal": {
+    "uk": "to be ordered to pay",
+    "us": "to be ordered to pay",
+    "ex": "The Company [[was ordered to pay]] the Employee the equivalent of six months' salary."
+   },
+   "everyday": {
+    "uk": "to have to pay",
+    "us": "to have to pay",
+    "ex": "Worst case, we [[have to pay]] him about forty thousand euros."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to order the employer to pay damages",
+   "to award the claimant a sum",
+   "to be held liable for",
+   "to pay out"
+  ],
+  "note_fr": "Faux amis : « to condemn » exprime une réprobation morale et « to sentence » une peine pénale. En matière civile, on dit « the court ordered the company to pay... » ou « awarded the employee... ». « To be found liable » = voir sa responsabilité retenue ; « guilty » est réservé au pénal.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-059",
+  "level": 1,
+  "fr": "obtenir gain de cause",
+  "term": {
+   "uk": "to win a case",
+   "us": "to win a case"
+  },
+  "ipa": {
+   "uk": "/tə ˌwɪn ə ˈkeɪs/",
+   "us": "/tə ˌwɪn ə ˈkeɪs/"
+  },
+  "def": "To obtain a decision in one's favour from a court or tribunal.",
+  "registers": {
+   "formal": {
+    "uk": "to succeed in a claim",
+    "us": "to prevail on a claim",
+    "ex": "The Employee [[succeeded in her claim]] for unpaid overtime but not in her claim for unfair dismissal.",
+    "ex_us": "The Employee [[prevailed on her claim]] for unpaid overtime but not on her claim for wrongful termination."
+   },
+   "everyday": {
+    "uk": "to win the case",
+    "us": "to win the case",
+    "ex": "Even if we [[win the case]], we won't get our legal fees back."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to lose a case",
+   "the successful party",
+   "the prevailing party",
+   "to win on appeal"
+  ],
+  "note_fr": "« To gain the case » est un calque : on « wins » ou « loses » a case. La partie gagnante est « the successful party » (UK) ou « the prevailing party » (US) ; la partie perdante, « the unsuccessful / losing party ». Gagner en partie : « to succeed in part ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-060",
+  "level": 1,
+  "fr": "contester son licenciement",
+  "term": {
+   "uk": "to challenge a dismissal",
+   "us": "to challenge a termination"
+  },
+  "ipa": {
+   "uk": "/tə ˌtʃælɪndʒ ə dɪsˈmɪs(ə)l/",
+   "us": "/tə ˌtʃælɪndʒ ə ˌtɜːrmɪˈneɪʃ(ə)n/"
+  },
+  "def": "To ask a court or tribunal to decide that a dismissal was unlawful or unjustified.",
+  "registers": {
+   "formal": {
+    "uk": "to contest the dismissal",
+    "us": "to contest the termination",
+    "ex": "The Employee has twelve months in which to [[contest the dismissal]] before the employment tribunal.",
+    "ex_us": "The Employee has twelve months in which to [[contest the termination]] before the labor court."
+   },
+   "everyday": {
+    "uk": "to challenge the dismissal",
+    "us": "to challenge the termination",
+    "ex": "We should assume he'll [[challenge the dismissal]] and prepare the file accordingly.",
+    "ex_us": "We should assume he'll [[challenge the termination]] and prepare the file accordingly."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to claim unfair dismissal",
+   "to dispute the grounds for dismissal",
+   "to sue for wrongful termination",
+   "an unfair dismissal claim"
+  ],
+  "note_fr": "Le verbe le plus naturel est « to challenge ». Notez les étiquettes nationales : « unfair dismissal » au Royaume-Uni, « wrongful termination » ou « wrongful discharge » aux États-Unis. Attention : en droit anglais, « wrongful dismissal » désigne seulement la rupture sans respect du préavis contractuel.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-061",
+  "level": 1,
+  "fr": "dommages et intérêts",
+  "term": {
+   "uk": "damages",
+   "us": "damages"
+  },
+  "ipa": {
+   "uk": "/ˈdæmɪdʒɪz/",
+   "us": "/ˈdæmɪdʒɪz/"
+  },
+  "def": "Money that a court orders one party to pay to another to make up for a loss or a wrong.",
+  "registers": {
+   "formal": {
+    "uk": "damages",
+    "us": "damages",
+    "ex": "The tribunal awarded the Employee [[damages]] for dismissal without real and serious cause."
+   },
+   "everyday": {
+    "uk": "compensation",
+    "us": "damages",
+    "ex": "How much [[compensation]] is she likely to get?",
+    "ex_us": "How much in [[damages]] is she likely to get?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to award damages",
+   "to claim damages for",
+   "to pay damages to",
+   "the amount of damages"
+  ],
+  "note_fr": "« Damages » (toujours au pluriel, verbe au pluriel) = dommages-intérêts ; « damage » (indénombrable) = dégâts. N'ajoutez pas « and interests ». Au Royaume-Uni, l'Employment Tribunal parle de « compensation » ; aux États-Unis, « compensation » désigne d'abord la rémunération, d'où un risque de malentendu.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-062",
+  "level": 1,
+  "fr": "indemnité allouée par le juge",
+  "term": {
+   "uk": "award",
+   "us": "award"
+  },
+  "ipa": {
+   "uk": "/əˈwɔːd/",
+   "us": "/əˈwɔːrd/"
+  },
+  "def": "The sum of money that a court, tribunal or arbitrator decides a party should receive.",
+  "registers": {
+   "formal": {
+    "uk": "the award",
+    "us": "the award",
+    "ex": "[[The award]] is expressed as a gross amount and is subject to social security contributions where applicable."
+   },
+   "everyday": {
+    "uk": "the payout",
+    "us": "the payout",
+    "ex": "[[The payout]] could be anything between three and ten months' salary."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to make an award",
+   "an award of damages",
+   "the size of the award",
+   "to award someone six months' pay"
+  ],
+  "note_fr": "« Award » est aussi un verbe : « the tribunal awarded her 20,000 euros ». Le mot désigne par ailleurs un prix ou une récompense, et, en arbitrage, la sentence elle-même. Ne dites pas « indemnity » pour une somme allouée par le juge : en anglais, « indemnity » est une garantie contractuelle contre un risque.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-063",
+  "level": 2,
+  "fr": "barème d'indemnisation du licenciement sans cause réelle et sérieuse",
+  "term": {
+   "uk": "compensation scale",
+   "us": "compensation scale"
+  },
+  "ipa": {
+   "uk": "/ˌkɒmpenˈseɪʃ(ə)n skeɪl/",
+   "us": "/ˌkɑːmpenˈseɪʃ(ə)n skeɪl/"
+  },
+  "def": "The French statutory table that fixes, according to length of service, the minimum and maximum damages a court may award for an unjustified dismissal.",
+  "registers": {
+   "formal": {
+    "uk": "the statutory scale of damages for unfair dismissal",
+    "us": "the statutory scale of damages for wrongful termination",
+    "ex": "Compensation is assessed by reference to [[the statutory scale of damages for unfair dismissal]], which depends on the employee's length of service.",
+    "ex_us": "Compensation is assessed by reference to [[the statutory scale of damages for wrongful termination]], which depends on the employee's length of service."
+   },
+   "everyday": {
+    "uk": "the compensation scale",
+    "us": "the damages scale",
+    "ex": "With four years' service, [[the compensation scale]] gives us a fairly narrow range.",
+    "ex_us": "With four years of service, [[the damages scale]] gives us a fairly narrow range."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to fall within the scale",
+   "the upper limit of the scale",
+   "the scale does not apply to",
+   "to budget for the maximum"
+  ],
+  "note_fr": "Souvent appelé « barème Macron » : dites « the so-called Macron scale » et expliquez. « Barème » ne se traduit ni par « barometer » ni par « schedule » seul. Point essentiel pour un client étranger : le barème rend le risque prévisible, mais il est écarté lorsque le licenciement est nul (harcèlement, discrimination, atteinte à une liberté fondamentale).",
+  "french_concept": true,
+  "explain": {
+   "written": "French law lays down a mandatory scale which sets, by reference to the employee's length of service and expressed in months of gross salary, the minimum and maximum damages that a court may award for a dismissal without real and serious cause.",
+   "spoken": "There's a legal scale in France: depending on how long the person has worked for you, the judges have to stay between a minimum and a maximum number of months' salary. It makes the risk fairly easy to budget for."
+  }
+ },
+ {
+  "id": "lt-064",
+  "level": 2,
+  "fr": "plafonner (les dommages et intérêts)",
+  "term": {
+   "uk": "to cap damages",
+   "us": "to cap damages"
+  },
+  "ipa": {
+   "uk": "/tə ˌkæp ˈdæmɪdʒɪz/",
+   "us": "/tə ˌkæp ˈdæmɪdʒɪz/"
+  },
+  "def": "To set a maximum amount that a court is allowed to award.",
+  "registers": {
+   "formal": {
+    "uk": "to be subject to a statutory cap",
+    "us": "to be subject to a statutory cap",
+    "ex": "Damages for dismissal without real and serious cause [[are subject to a statutory cap]] expressed in months of salary."
+   },
+   "everyday": {
+    "uk": "to be capped",
+    "us": "to be capped",
+    "ex": "The good news is that the damages [[are capped]], so we know our maximum exposure."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a cap on compensation",
+   "a floor and a ceiling",
+   "uncapped damages",
+   "the cap does not apply"
+  ],
+  "note_fr": "« Plafond » = « cap » ou « ceiling » ; « plancher » = « floor ». « To plafond » n'existe pas et « to limit » est moins précis. « Uncapped » (sans plafond) est très utile pour signaler les demandes qui échappent au barème. Le droit britannique connaît lui aussi des plafonds légaux d'indemnisation, dont le régime évolue : vérifiez la règle en vigueur.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-065",
+  "level": 2,
+  "fr": "préjudice",
+  "term": {
+   "uk": "loss",
+   "us": "loss"
+  },
+  "ipa": {
+   "uk": "/lɒs/",
+   "us": "/lɔːs/"
+  },
+  "def": "The harm, financial or otherwise, that a person has suffered and for which compensation is claimed.",
+  "registers": {
+   "formal": {
+    "uk": "the loss suffered",
+    "us": "the harm suffered",
+    "ex": "It is for the Employee to demonstrate the extent of [[the loss suffered]] as a result of the breach.",
+    "ex_us": "It is for the Employee to demonstrate the extent of [[the harm suffered]] as a result of the breach."
+   },
+   "everyday": {
+    "uk": "what someone has lost",
+    "us": "what someone has lost",
+    "ex": "The judges want to see [[what she has actually lost]] - how long she was out of work, for instance."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to suffer a loss",
+   "financial loss",
+   "loss of earnings",
+   "injury to feelings"
+  ],
+  "note_fr": "Faux ami : « prejudice » signifie préjugé (ou, dans « without prejudice », réserve de droits). Le préjudice se dit « loss », « harm » ou « damage » (au singulier). Le préjudice moral se rend par « non-financial loss », « injury to feelings » (UK, surtout en matière de discrimination) ou « emotional distress » (US).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-066",
+  "level": 3,
+  "fr": "obligation de limiter son préjudice",
+  "term": {
+   "uk": "to mitigate one's loss",
+   "us": "to mitigate one's damages"
+  },
+  "ipa": {
+   "uk": "/tə ˌmɪtɪɡeɪt wʌnz ˈlɒs/",
+   "us": "/tə ˌmɪtɪɡeɪt wʌnz ˈdæmɪdʒɪz/"
+  },
+  "def": "To take reasonable steps to reduce the harm one has suffered, for example by looking for a new job after a dismissal.",
+  "registers": {
+   "formal": {
+    "uk": "the duty to mitigate",
+    "us": "the duty to mitigate",
+    "ex": "Compensation may be reduced where the Claimant has failed to comply with [[the duty to mitigate]]."
+   },
+   "everyday": {
+    "uk": "to mitigate one's loss",
+    "us": "to mitigate one's damages",
+    "ex": "In the UK she'd be expected to [[mitigate her loss]] by looking for another job.",
+    "ex_us": "In the US she'd be expected to [[mitigate her damages]] by looking for another job."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "failure to mitigate",
+   "to take reasonable steps to find work",
+   "evidence of a job search",
+   "mitigating circumstances"
+  ],
+  "note_fr": "Règle de common law : le salarié britannique ou américain doit prouver ses recherches d'emploi, faute de quoi son indemnisation est réduite. Le droit français ne connaît pas d'obligation générale de minimiser son dommage, même si le juge tient compte de la situation du salarié après la rupture. Ne confondez pas « mitigate » (atténuer) et « militate » (militer en faveur de).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-067",
+  "level": 1,
+  "fr": "réintégration",
+  "term": {
+   "uk": "reinstatement",
+   "us": "reinstatement"
+  },
+  "ipa": {
+   "uk": "/ˌriːɪnˈsteɪtmənt/",
+   "us": "/ˌriːɪnˈsteɪtmənt/"
+  },
+  "def": "A court order, or a decision, that a dismissed employee must be given his or her job back.",
+  "registers": {
+   "formal": {
+    "uk": "to order reinstatement",
+    "us": "to order reinstatement",
+    "ex": "Where the dismissal is void, the court may [[order reinstatement]] at the employee's request."
+   },
+   "everyday": {
+    "uk": "to get one's job back",
+    "us": "to get one's job back",
+    "ex": "Does she actually want to [[get her job back]], or is she after compensation?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be reinstated",
+   "to seek reinstatement",
+   "reinstatement with back pay",
+   "to refuse reinstatement"
+  ],
+  "note_fr": "« Reintegration » évoque la réinsertion sociale : le terme juridique est « reinstatement » (verbe « to reinstate »). Au Royaume-Uni, on distingue « reinstatement » (même poste) et « re-engagement » (poste comparable). En France, la réintégration est surtout de droit en cas de nullité du licenciement ; elle reste exceptionnelle en pratique dans les trois pays.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-068",
+  "level": 1,
+  "fr": "rappel de salaire",
+  "term": {
+   "uk": "back pay",
+   "us": "back pay"
+  },
+  "ipa": {
+   "uk": "/ˈbæk peɪ/",
+   "us": "/ˈbæk peɪ/"
+  },
+  "def": "Wages that should have been paid in the past and that the employer is ordered, or agrees, to pay now.",
+  "registers": {
+   "formal": {
+    "uk": "arrears of salary",
+    "us": "back wages",
+    "ex": "The Company was ordered to pay [[arrears of salary]] for the period from January to June.",
+    "ex_us": "The Company was ordered to pay [[back wages]] for the period from January through June."
+   },
+   "everyday": {
+    "uk": "back pay",
+    "us": "back pay",
+    "ex": "He's claiming three years' [[back pay]] for overtime nobody ever recorded."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to claim back pay",
+   "to be owed back pay",
+   "unpaid wages",
+   "salary in arrears"
+  ],
+  "note_fr": "Ne dites pas « salary reminder » ni « recall of salary ». « Arrears » est toujours au pluriel ; « to be in arrears » = avoir du retard de paiement. Aux États-Unis, « front pay » désigne à l'inverse l'indemnisation des salaires futurs perdus lorsque la réintégration n'est pas possible.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-069",
+  "level": 3,
+  "fr": "résiliation judiciaire du contrat de travail",
+  "term": {
+   "uk": "judicial termination of the contract",
+   "us": "judicial termination of the contract"
+  },
+  "ipa": {
+   "uk": "/dʒuːˌdɪʃ(ə)l ˌtɜːmɪˈneɪʃ(ə)n əv ðə ˈkɒntrækt/",
+   "us": "/dʒuːˌdɪʃ(ə)l ˌtɜːrmɪˈneɪʃ(ə)n əv ðə ˈkɑːntrækt/"
+  },
+  "def": "Under French law, the ending of an employment contract by a court, at the request of an employee who complains of serious breaches by the employer.",
+  "registers": {
+   "formal": {
+    "uk": "to apply for judicial termination of the contract",
+    "us": "to apply for judicial termination of the contract",
+    "ex": "While remaining in post, the Employee [[applied for judicial termination of the contract]] on the ground of repeated non-payment of overtime."
+   },
+   "everyday": {
+    "uk": "to ask the court to end the contract",
+    "us": "to ask the court to end the contract",
+    "ex": "She hasn't resigned - she's [[asked the court to end the contract]] and put the blame on us."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on the ground of the employer's breaches",
+   "to remain in employment pending the decision",
+   "to take effect as an unfair dismissal"
+  ],
+  "note_fr": "Notion française. L'analogie la plus parlante pour un Britannique ou un Américain est le « constructive dismissal » (« constructive discharge » aux États-Unis), à cette différence près que le salarié français reste en poste jusqu'à la décision du juge. « Resiliation » n'existe pas en anglais.",
+  "french_concept": true,
+  "explain": {
+   "written": "French law allows an employee who remains in post to ask the employment tribunal to terminate the contract on account of sufficiently serious breaches by the employer; if the claim succeeds, the termination takes effect as a dismissal without real and serious cause.",
+   "spoken": "It's a bit like constructive dismissal, except she stays in her job and asks the court to end the contract because of what the employer has done. If she wins, it counts as an unfair dismissal."
+  }
+ },
+ {
+  "id": "lt-070",
+  "level": 2,
+  "fr": "référé (procédure d'urgence)",
+  "term": {
+   "uk": "interim relief",
+   "us": "preliminary injunction"
+  },
+  "ipa": {
+   "uk": "/ˌɪntərɪm rɪˈliːf/",
+   "us": "/prɪˌlɪmɪneri ɪnˈdʒʌŋkʃ(ə)n/"
+  },
+  "def": "A fast court procedure for obtaining a temporary order in urgent or obvious cases, without a full decision on the merits.",
+  "registers": {
+   "formal": {
+    "uk": "an application for interim relief",
+    "us": "a motion for preliminary relief",
+    "ex": "The Employee made [[an application for interim relief]] seeking payment of three months' unpaid salary.",
+    "ex_us": "The Employee filed [[a motion for preliminary relief]] seeking payment of three months of unpaid salary."
+   },
+   "everyday": {
+    "uk": "the fast-track procedure",
+    "us": "the fast-track procedure",
+    "ex": "For unpaid wages he'll use [[the fast-track procedure]] - he could have an order in a few weeks."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for an interim order",
+   "the urgent applications judge",
+   "pending a decision on the merits",
+   "to grant an injunction"
+  ],
+  "note_fr": "« Referee » est un arbitre sportif : faux ami. « Summary proceedings » est une autre traduction courante. Le référé prud'homal permet notamment d'obtenir rapidement des salaires impayés ou des documents de fin de contrat. Ne le confondez pas avec l'« interim relief » britannique au sens strict, qui est un recours très spécifique ouvert dans certains cas de licenciement.",
+  "french_concept": true,
+  "explain": {
+   "written": "The référé is an expedited procedure before a special panel of the employment tribunal, which may order urgent or provisional measures, or an interim payment where the obligation cannot seriously be disputed, without ruling on the merits of the dispute.",
+   "spoken": "There's a fast-track procedure for urgent or clear-cut matters, like unpaid wages. You get a provisional order in a few weeks, and the main case can still be heard later."
+  }
+ },
+ {
+  "id": "lt-071",
+  "level": 3,
+  "fr": "provision (somme allouée en référé)",
+  "term": {
+   "uk": "interim payment",
+   "us": "interim payment"
+  },
+  "ipa": {
+   "uk": "/ˌɪntərɪm ˈpeɪmənt/",
+   "us": "/ˌɪntərɪm ˈpeɪmənt/"
+  },
+  "def": "A sum that a court orders a party to pay on account, before the final decision, because the debt is not seriously open to dispute.",
+  "registers": {
+   "formal": {
+    "uk": "an interim payment on account of",
+    "us": "an interim payment on account of",
+    "ex": "The judge ordered the Company to make [[an interim payment on account of]] the unpaid commission."
+   },
+   "everyday": {
+    "uk": "a payment up front",
+    "us": "a payment up front",
+    "ex": "He's asking the judge for [[a payment up front]] while the main case goes on."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to order an interim payment",
+   "a payment on account",
+   "pending final judgment",
+   "not seriously disputable"
+  ],
+  "note_fr": "Faux ami comptable : « a provision » est une somme mise de côté dans les comptes en prévision d'un risque (voir « to make a provision for a claim »), et jamais une somme versée à l'adversaire. « On account » = à titre d'acompte, à valoir.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-072",
+  "level": 3,
+  "fr": "astreinte (pénalité par jour de retard)",
+  "term": {
+   "uk": "periodic penalty payment",
+   "us": "periodic penalty payment"
+  },
+  "ipa": {
+   "uk": "/ˌpɪəriˈɒdɪk ˈpen(ə)lti ˌpeɪmənt/",
+   "us": "/ˌpɪriˈɑːdɪk ˈpen(ə)lti ˌpeɪmənt/"
+  },
+  "def": "A sum fixed by a court that a party must pay for each day or week of delay in complying with an order.",
+  "registers": {
+   "formal": {
+    "uk": "subject to a penalty of ... per day of delay",
+    "us": "subject to a penalty of ... per day of delay",
+    "ex": "The Company shall deliver the amended payslips within fifteen days, [[subject to a penalty of fifty euros per day of delay]]."
+   },
+   "everyday": {
+    "uk": "a daily fine",
+    "us": "a daily fine",
+    "ex": "If we don't send the certificate on time, there's [[a daily fine]] until we do."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to impose a daily penalty",
+   "per day of non-compliance",
+   "to enforce the penalty",
+   "to comply with the order in time"
+  ],
+  "note_fr": "Double piège : en droit du travail, « astreinte » désigne aussi la période où le salarié doit rester joignable (« on-call duty ») ; ici, il s'agit de la pénalité prononcée par le juge. Le mécanisme n'existe pas tel quel en common law, où le non-respect d'une ordonnance est sanctionné par le « contempt of court ».",
+  "french_concept": true,
+  "explain": {
+   "written": "An astreinte is a financial penalty, fixed by the court at a given amount per day or other period of delay, intended to compel a party to comply with an order such as the delivery of documents.",
+   "spoken": "The court can add a daily penalty to its order - so much per day until you hand over the documents. It's there to make sure the order is actually obeyed."
+  }
+ },
+ {
+  "id": "lt-073",
+  "level": 3,
+  "fr": "exécution provisoire",
+  "term": {
+   "uk": "provisional enforcement",
+   "us": "provisional enforcement"
+  },
+  "ipa": {
+   "uk": "/prəˌvɪʒ(ə)nəl ɪnˈfɔːsmənt/",
+   "us": "/prəˌvɪʒ(ə)nəl ɪnˈfɔːrsmənt/"
+  },
+  "def": "The rule or order under which a judgment must be complied with immediately, even though an appeal has been lodged.",
+  "registers": {
+   "formal": {
+    "uk": "to be provisionally enforceable",
+    "us": "to be provisionally enforceable",
+    "ex": "The award of unpaid salary [[is provisionally enforceable]] notwithstanding any appeal."
+   },
+   "everyday": {
+    "uk": "to have to pay straight away",
+    "us": "to have to pay right away",
+    "ex": "On the wages, we [[have to pay straight away]], appeal or no appeal.",
+    "ex_us": "On the wages, we [[have to pay right away]], appeal or no appeal."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "enforceable notwithstanding appeal",
+   "to stay enforcement",
+   "pending the outcome of the appeal",
+   "to pay into court"
+  ],
+  "note_fr": "Ne dites pas « provisional execution » : « execution » évoque d'abord la peine de mort ou la signature d'un acte. Le mécanisme inverse est le « stay of enforcement » (suspension de l'exécution). En droit prud'homal, certaines condamnations, notamment salariales, sont exécutoires de plein droit ; pour les autres, tout dépend de ce que le jugement ordonne.",
+  "french_concept": true,
+  "explain": {
+   "written": "In French procedure, exécution provisoire means that a first-instance judgment, or part of it, must be complied with at once even if it is appealed; before the employment tribunal, it attaches automatically to certain awards and may be ordered for others.",
+   "spoken": "Appealing doesn't always stop the clock: some parts of the judgment, wages in particular, have to be paid immediately, and you get the money back only if you win on appeal."
+  }
+ },
+ {
+  "id": "lt-074",
+  "level": 2,
+  "fr": "dommages-intérêts punitifs",
+  "term": {
+   "uk": "punitive damages",
+   "us": "punitive damages"
+  },
+  "ipa": {
+   "uk": "/ˌpjuːnɪtɪv ˈdæmɪdʒɪz/",
+   "us": "/ˌpjuːnətɪv ˈdæmɪdʒɪz/"
+  },
+  "def": "Damages awarded not to compensate the victim's loss but to punish the wrongdoer and deter others.",
+  "registers": {
+   "formal": {
+    "uk": "exemplary damages",
+    "us": "punitive damages",
+    "ex": "French law does not provide for [[exemplary damages]]; compensation is limited to the loss actually suffered.",
+    "ex_us": "French law does not provide for [[punitive damages]]; compensation is limited to the loss actually suffered."
+   },
+   "everyday": {
+    "uk": "punitive damages",
+    "us": "punitive damages",
+    "ex": "Tell head office not to expect American-style [[punitive damages]] here - they simply don't exist."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to award punitive damages",
+   "compensatory damages",
+   "to deter future misconduct",
+   "a punitive award"
+  ],
+  "note_fr": "En France, le principe est la réparation intégrale du préjudice, sans plus : pas de dommages-intérêts punitifs. Le terme britannique est « exemplary damages », rarissimes en matière d'emploi. Aux États-Unis, ils sont possibles dans certains contentieux, parfois dans la limite de plafonds légaux, ce qui explique en partie les montants élevés dont vos clients ont l'habitude.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-075",
+  "level": 3,
+  "fr": "procédure abusive",
+  "term": {
+   "uk": "vexatious claim",
+   "us": "frivolous lawsuit"
+  },
+  "ipa": {
+   "uk": "/vekˌseɪʃəs ˈkleɪm/",
+   "us": "/ˌfrɪvələs ˈlɔːsuːt/"
+  },
+  "def": "A claim brought with no real basis, or for an improper purpose such as harassing the other party.",
+  "registers": {
+   "formal": {
+    "uk": "an abuse of process",
+    "us": "an abuse of process",
+    "ex": "The Company counterclaimed for damages on the ground that the proceedings constituted [[an abuse of process]]."
+   },
+   "everyday": {
+    "uk": "a vexatious claim",
+    "us": "a frivolous lawsuit",
+    "ex": "However weak it looks, the judges will rarely treat it as [[a vexatious claim]].",
+    "ex_us": "However weak it looks, the judges will rarely treat it as [[a frivolous lawsuit]]."
+   },
+   "informal": {
+    "uk": "a try-on",
+    "us": "a shakedown",
+    "ex": "Frankly, it's [[a try-on]] - he's hoping we'll pay him to go away.",
+    "ex_us": "Frankly, it's [[a shakedown]] - he's hoping we'll pay him to go away."
+   }
+  },
+  "collocations": [
+   "a claim with no reasonable prospect of success",
+   "to act in bad faith",
+   "damages for abuse of process",
+   "a nuisance claim"
+  ],
+  "note_fr": "« Abusive » en anglais signifie injurieux ou maltraitant (« abusive language », « an abusive manager ») : « abusive procedure » serait un contresens. « Nuisance claim » désigne la demande de faible valeur que l'on règle pour avoir la paix. Rappelez au client que les juges français admettent très rarement le caractère abusif d'une action.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-076",
+  "level": 2,
+  "fr": "se désister",
+  "term": {
+   "uk": "to withdraw a claim",
+   "us": "to withdraw a claim"
+  },
+  "ipa": {
+   "uk": "/tə wɪðˌdrɔː ə ˈkleɪm/",
+   "us": "/tə wɪðˌdrɔː ə ˈkleɪm/"
+  },
+  "def": "To decide, as a claimant, to stop the proceedings one has started.",
+  "registers": {
+   "formal": {
+    "uk": "to withdraw the claim",
+    "us": "to voluntarily dismiss the claim",
+    "ex": "In consideration of the payment, the Employee undertakes to [[withdraw the claim]] within eight days.",
+    "ex_us": "In consideration of the payment, the Employee undertakes to [[voluntarily dismiss the claim]] within eight days."
+   },
+   "everyday": {
+    "uk": "to drop the case",
+    "us": "to drop the case",
+    "ex": "If we pay the bonus, will she [[drop the case]]?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to discontinue proceedings",
+   "to drop a claim",
+   "withdrawal of the claim",
+   "to abandon part of the claim"
+  ],
+  "note_fr": "« To desist » signifie cesser de faire quelque chose (« cease and desist ») et ne s'emploie pas pour un désistement d'instance. Aux États-Unis, c'est le demandeur lui-même qui « dismisses » sa propre action (« voluntary dismissal ») : ne le confondez pas avec le rejet par le juge.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-077",
+  "level": 1,
+  "fr": "transiger en cours d'instance",
+  "term": {
+   "uk": "to settle the case",
+   "us": "to settle the case"
+  },
+  "ipa": {
+   "uk": "/tə ˌset(ə)l ðə ˈkeɪs/",
+   "us": "/tə ˌset(ə)l ðə ˈkeɪs/"
+  },
+  "def": "To end a dispute by agreement between the parties before the court gives its decision.",
+  "registers": {
+   "formal": {
+    "uk": "to reach a settlement",
+    "us": "to reach a settlement",
+    "ex": "The parties [[reached a settlement]] shortly before the hearing and the claim was withdrawn."
+   },
+   "everyday": {
+    "uk": "to settle",
+    "us": "to settle",
+    "ex": "My instinct is to [[settle]] now rather than wait two years for a judgment."
+   },
+   "informal": {
+    "uk": "to do a deal",
+    "us": "to cut a deal",
+    "ex": "Their lawyer rang yesterday - I think they want to [[do a deal]].",
+    "ex_us": "Their lawyer called yesterday - I think they want to [[cut a deal]]."
+   }
+  },
+  "collocations": [
+   "to settle out of court",
+   "to settle at the door of the court",
+   "a settlement offer",
+   "to settle for six months' salary"
+  ],
+  "note_fr": "« To transact » signifie conclure une opération commerciale : n'employez pas ce verbe. « To settle for » + montant ; « to settle with » + personne. « At the door of the court » (UK) ou « on the courthouse steps » (US) : transiger juste avant l'audience. « To compromise a claim » existe en anglais juridique britannique, mais « compromise » seul évoque plutôt une concession.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-078",
+  "level": 3,
+  "fr": "radiation de l'affaire / rejet pour défaut de diligence",
+  "term": {
+   "uk": "to strike out a claim",
+   "us": "to dismiss for failure to prosecute"
+  },
+  "ipa": {
+   "uk": "/tə ˌstraɪk aʊt ə ˈkleɪm/",
+   "us": "/tə dɪsˌmɪs fər ˌfeɪljər tə ˈprɑːsɪkjuːt/"
+  },
+  "def": "To remove a case from the court's list, or put an end to it, because a party has not taken the steps required of it.",
+  "registers": {
+   "formal": {
+    "uk": "to be struck out",
+    "us": "to be dismissed for failure to prosecute",
+    "ex": "The claim [[was struck out]] on the ground that the Claimant had repeatedly failed to comply with the tribunal's orders.",
+    "ex_us": "The claim [[was dismissed for failure to prosecute]] on the ground that the Plaintiff had repeatedly failed to comply with the court's orders."
+   },
+   "everyday": {
+    "uk": "to be taken off the list",
+    "us": "to be taken off the docket",
+    "ex": "If his lawyer doesn't file anything by June, the case will [[be taken off the list]].",
+    "ex_us": "If his lawyer doesn't file anything by June, the case will [[be taken off the docket]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply to strike out",
+   "to restore the case to the list",
+   "non-compliance with an order",
+   "to lapse"
+  ],
+  "note_fr": "Attention à la portée : la radiation française est une mesure d'administration qui suspend l'affaire, laquelle peut être rétablie ; le « strike-out » britannique met fin à la demande. Précisez donc « removed from the list, but it can be restored ». « Radiation » en anglais ne désigne que le rayonnement.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-079",
+  "level": 1,
+  "fr": "faire appel / interjeter appel",
+  "term": {
+   "uk": "to appeal against",
+   "us": "to appeal"
+  },
+  "ipa": {
+   "uk": "/tu əˈpiːl əˌɡenst/",
+   "us": "/tu əˈpiːl/"
+  },
+  "def": "To ask a higher court to review and change the decision of a lower court.",
+  "registers": {
+   "formal": {
+    "uk": "to lodge an appeal against",
+    "us": "to file an appeal from",
+    "ex": "The Company [[lodged an appeal against]] the judgment within the one-month time limit.",
+    "ex_us": "The Company [[filed an appeal from]] the judgment within the one-month deadline."
+   },
+   "everyday": {
+    "uk": "to appeal against",
+    "us": "to appeal",
+    "ex": "If we lose, do we [[appeal against]] the decision or cut our losses?",
+    "ex_us": "If we lose, do we [[appeal]] the decision or cut our losses?"
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to win on appeal",
+   "leave to appeal",
+   "grounds of appeal",
+   "the appeal is pending"
+  ],
+  "note_fr": "Différence de construction : le Britannique dit « to appeal against a decision », l'Américain « to appeal a decision » (transitif direct). « To make appeal » est un calque. « To call » ne convient jamais. L'appelant est « the appellant », l'intimé « the respondent » (US : « the appellee »).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-080",
+  "level": 2,
+  "fr": "cour d'appel",
+  "term": {
+   "uk": "court of appeal",
+   "us": "court of appeals"
+  },
+  "ipa": {
+   "uk": "/ˌkɔːt əv əˈpiːl/",
+   "us": "/ˌkɔːrt əv əˈpiːlz/"
+  },
+  "def": "The court that re-examines a case decided by a lower court when one of the parties challenges the decision.",
+  "registers": {
+   "formal": {
+    "uk": "the Court of Appeal",
+    "us": "the Court of Appeals",
+    "ex": "The judgment was upheld by the employment division of [[the Court of Appeal]].",
+    "ex_us": "The judgment was affirmed by the employment division of [[the Court of Appeals]]."
+   },
+   "everyday": {
+    "uk": "the appeal court",
+    "us": "the appeals court",
+    "ex": "[[The appeal court]] looks at everything again, the facts as well as the law.",
+    "ex_us": "[[The appeals court]] looks at everything again, the facts as well as the law."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to go to the Court of Appeal",
+   "an appeal court judge",
+   "the appellate court",
+   "on appeal"
+  ],
+  "note_fr": "Notez le s américain : « Court of Appeals ». Différence de fond à expliquer : la cour d'appel française rejuge l'affaire en fait et en droit, alors que l'Employment Appeal Tribunal britannique et les cours d'appel américaines contrôlent pour l'essentiel les erreurs de droit. Un client anglo-saxon sous-estime donc souvent la portée d'un appel en France.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-081",
+  "level": 2,
+  "fr": "Cour de cassation",
+  "term": {
+   "uk": "French Supreme Court",
+   "us": "French Supreme Court"
+  },
+  "ipa": {
+   "uk": "/ˌfrentʃ suːˌpriːm ˈkɔːt/",
+   "us": "/ˌfrentʃ suːˌpriːm ˈkɔːrt/"
+  },
+  "def": "The highest French court for civil, commercial, employment and criminal cases, which reviews whether the law was correctly applied.",
+  "registers": {
+   "formal": {
+    "uk": "the Cour de cassation (French Supreme Court)",
+    "us": "the Cour de cassation (French Supreme Court)",
+    "ex": "The employment division of [[the Cour de cassation (French Supreme Court)]] has consistently held that such a clause is unenforceable."
+   },
+   "everyday": {
+    "uk": "the French Supreme Court",
+    "us": "the French Supreme Court",
+    "ex": "[[The French Supreme Court]] ruled on exactly this point a couple of years ago."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the employment division of the Supreme Court",
+   "a Supreme Court ruling",
+   "to take the case to the Supreme Court",
+   "the highest court"
+  ],
+  "note_fr": "Gardez le nom français à l'écrit et ajoutez une glose. N'écrivez pas « Court of Cassation » sans explication à un lecteur anglo-saxon. La « chambre sociale » se rend par « the employment division ». Contrairement à la Cour suprême des États-Unis, elle ne contrôle pas la constitutionnalité des lois et rend plusieurs milliers de décisions par an.",
+  "french_concept": true,
+  "explain": {
+   "written": "The Cour de cassation is the highest court in the French judicial system; it does not retry the facts but reviews whether the lower courts have correctly applied the law, and its employment division shapes much of French employment case law.",
+   "spoken": "It's our supreme court for this kind of case. It doesn't look at the facts again - it only checks that the court of appeal applied the law properly."
+  }
+ },
+ {
+  "id": "lt-082",
+  "level": 3,
+  "fr": "pourvoi en cassation",
+  "term": {
+   "uk": "appeal on a point of law",
+   "us": "appeal on a point of law"
+  },
+  "ipa": {
+   "uk": "/əˌpiːl ɒn ə ˌpɔɪnt əv ˈlɔː/",
+   "us": "/əˌpiːl ɑːn ə ˌpɔɪnt əv ˈlɔː/"
+  },
+  "def": "A final appeal to the highest court, limited to arguing that the lower court made a legal error.",
+  "registers": {
+   "formal": {
+    "uk": "to lodge an appeal on a point of law with",
+    "us": "to file an appeal on a point of law with",
+    "ex": "The Employee [[lodged an appeal on a point of law with]] the Cour de cassation.",
+    "ex_us": "The Employee [[filed an appeal on a point of law with]] the Cour de cassation."
+   },
+   "everyday": {
+    "uk": "to take it to the Supreme Court",
+    "us": "to take it to the Supreme Court",
+    "ex": "They could [[take it to the Supreme Court]], but only on the law, and it won't stop them having to pay."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "on a point of law only",
+   "an error of law",
+   "a further appeal",
+   "to exhaust all avenues of appeal"
+  ],
+  "note_fr": "« Pourvoi » n'a pas d'équivalent en un mot. « Cassation » employé seul est incompris. Aux États-Unis, la voie comparable devant la Cour suprême est la « petition for certiorari », accordée de manière discrétionnaire. Point pratique : le pourvoi n'est en principe pas suspensif, ce qu'un client étranger ignore presque toujours.",
+  "french_concept": true,
+  "explain": {
+   "written": "A pourvoi en cassation is an appeal to the Cour de cassation which may be based only on errors of law or procedure in the decision under challenge; the court does not re-examine the facts.",
+   "spoken": "After the court of appeal, the only option left is an appeal to the supreme court, and only on points of law. They won't look at the facts again."
+  }
+ },
+ {
+  "id": "lt-083",
+  "level": 2,
+  "fr": "confirmer / infirmer un jugement",
+  "term": {
+   "uk": "to uphold a judgment",
+   "us": "to affirm a judgment"
+  },
+  "ipa": {
+   "uk": "/tu ʌpˌhəʊld ə ˈdʒʌdʒmənt/",
+   "us": "/tu əˌfɜːrm ə ˈdʒʌdʒmənt/"
+  },
+  "def": "To decide, as a higher court, that the lower court's decision stands, or on the contrary that it must be changed.",
+  "registers": {
+   "formal": {
+    "uk": "to uphold the judgment",
+    "us": "to affirm the judgment",
+    "ex": "The Court of Appeal [[upheld the judgment]] in so far as it found the dismissal unjustified, but set it aside as to the amount of damages.",
+    "ex_us": "The Court of Appeals [[affirmed the judgment]] insofar as it found the termination unjustified, but reversed it as to the amount of damages."
+   },
+   "everyday": {
+    "uk": "to overturn the decision",
+    "us": "to reverse the decision",
+    "ex": "The appeal court [[overturned the decision]], so we're back to owing nothing.",
+    "ex_us": "The appeals court [[reversed the decision]], so we're back to owing nothing."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be upheld on appeal",
+   "to be overturned on appeal",
+   "to set aside a judgment",
+   "to allow the appeal"
+  ],
+  "note_fr": "« To confirm » se comprend mais le verbe juridique est « to uphold » (UK) ou « to affirm » (US). Pour « infirmer » : « to overturn », « to set aside », « to reverse » ; « to infirm » n'existe pas. Au Royaume-Uni, on dit aussi que la cour « allows the appeal » (y fait droit) ou « dismisses the appeal » (le rejette).",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-084",
+  "level": 3,
+  "fr": "casser et renvoyer",
+  "term": {
+   "uk": "to quash and remit",
+   "us": "to vacate and remand"
+  },
+  "ipa": {
+   "uk": "/tə ˌkwɒʃ ən rɪˈmɪt/",
+   "us": "/tə ˌveɪkeɪt ən rɪˈmænd/"
+  },
+  "def": "To cancel a lower court's decision and send the case back to another court to be decided again.",
+  "registers": {
+   "formal": {
+    "uk": "to quash the decision and remit the case to",
+    "us": "to vacate the decision and remand the case to",
+    "ex": "The Cour de cassation [[quashed the decision and remitted the case to]] a different court of appeal.",
+    "ex_us": "The Cour de cassation [[vacated the decision and remanded the case to]] a different court of appeals."
+   },
+   "everyday": {
+    "uk": "to send the case back",
+    "us": "to send the case back",
+    "ex": "The Supreme Court has [[sent the case back]] to be heard again, so we're not done yet."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be quashed on appeal",
+   "to remit the case for rehearing",
+   "a partial quashing",
+   "to be remanded for a new trial"
+  ],
+  "note_fr": "« To break a judgment » est un calque à proscrire. « To quash » (UK) et « to vacate » (US) = annuler ; « to remit » (UK) et « to remand » (US) = renvoyer devant une juridiction. Au Royaume-Uni, « to remand » appartient au pénal (détention provisoire) : ne l'employez pas pour un renvoi civil.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-085",
+  "level": 2,
+  "fr": "jurisprudence",
+  "term": {
+   "uk": "case law",
+   "us": "case law"
+  },
+  "ipa": {
+   "uk": "/ˈkeɪs lɔː/",
+   "us": "/ˈkeɪs lɔː/"
+  },
+  "def": "The body of rules that results from the decisions of the courts, as opposed to legislation.",
+  "registers": {
+   "formal": {
+    "uk": "settled case law",
+    "us": "settled case law",
+    "ex": "It is [[settled case law]] that a non-compete clause without financial compensation is void."
+   },
+   "everyday": {
+    "uk": "what the courts have said",
+    "us": "what the courts have said",
+    "ex": "The statute is silent on this, so it all comes down to [[what the courts have said]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "according to case law",
+   "a line of cases",
+   "a landmark ruling",
+   "to set a precedent"
+  ],
+  "note_fr": "Faux ami : « jurisprudence » en anglais désigne la philosophie ou la théorie du droit. « Case law » est indénombrable : pour une décision, dites « a case », « a ruling », « a decision ». Un revirement se dit « a reversal of the case law » ou « a departure from previous decisions ». Le précédent n'est pas formellement obligatoire en France, contrairement aux pays de common law.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-086",
+  "level": 2,
+  "fr": "décision définitive",
+  "term": {
+   "uk": "final judgment",
+   "us": "final judgment"
+  },
+  "ipa": {
+   "uk": "/ˌfaɪn(ə)l ˈdʒʌdʒmənt/",
+   "us": "/ˌfaɪn(ə)l ˈdʒʌdʒmənt/"
+  },
+  "def": "A court decision that can no longer be challenged by an ordinary appeal.",
+  "registers": {
+   "formal": {
+    "uk": "final and binding",
+    "us": "final and binding",
+    "ex": "Once the time limit for appeal has expired, the judgment becomes [[final and binding]]."
+   },
+   "everyday": {
+    "uk": "final",
+    "us": "final",
+    "ex": "It's not [[final]] yet - they've still got three weeks to appeal."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the judgment has become final",
+   "no longer open to appeal",
+   "a final and binding decision",
+   "to exhaust all rights of appeal"
+  ],
+  "note_fr": "Faux ami : « definitive » signifie « qui fait autorité, de référence » (« the definitive guide ») ; pour une décision de justice, dites « final ». « Final and binding » est le doublet consacré. Dans un calendrier, précisez « final, subject to appeal » tant que le délai court.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-087",
+  "level": 3,
+  "fr": "autorité de la chose jugée",
+  "term": {
+   "uk": "res judicata",
+   "us": "res judicata"
+  },
+  "ipa": {
+   "uk": "/ˌreɪz ˌdʒuːdɪˈkɑːtə/",
+   "us": "/ˌreɪs ˌdʒuːdɪˈkɑːtə/"
+  },
+  "def": "The rule that a matter finally decided by a court cannot be brought before the courts again by the same parties.",
+  "registers": {
+   "formal": {
+    "uk": "to be barred by res judicata",
+    "us": "to be barred by res judicata",
+    "ex": "The new claim concerns the same dismissal and [[is barred by res judicata]]."
+   },
+   "everyday": {
+    "uk": "to have already been decided",
+    "us": "to have already been decided",
+    "ex": "He can't bring that up again - it [[has already been decided]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "the matter is res judicata",
+   "to relitigate an issue",
+   "a final decision on the same facts",
+   "claim preclusion"
+  ],
+  "note_fr": "L'anglais juridique garde l'expression latine ; « authority of the judged thing » n'existe pas. Aux États-Unis, on parle aussi de « claim preclusion ». À l'oral, préférez une paraphrase : « it has already been decided and can't be reopened ». « To relitigate » = replaider.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-088",
+  "level": 3,
+  "fr": "se déclarer incompétent",
+  "term": {
+   "uk": "to decline jurisdiction",
+   "us": "to decline jurisdiction"
+  },
+  "ipa": {
+   "uk": "/tə dɪˌklaɪn ˌdʒʊərɪsˈdɪkʃ(ə)n/",
+   "us": "/tə dɪˌklaɪn ˌdʒʊrɪsˈdɪkʃ(ə)n/"
+  },
+  "def": "To decide, as a court, that it does not have the power to hear a particular case, which must go to another court.",
+  "registers": {
+   "formal": {
+    "uk": "to decline jurisdiction in favour of",
+    "us": "to decline jurisdiction in favor of",
+    "ex": "The employment tribunal [[declined jurisdiction in favour of]] the commercial court on the ground that the Claimant was a company officer and not an employee.",
+    "ex_us": "The labor court [[declined jurisdiction in favor of]] the commercial court on the ground that the Plaintiff was a company officer and not an employee."
+   },
+   "everyday": {
+    "uk": "to say it's not the right court",
+    "us": "to say it's not the right court",
+    "ex": "Our first argument is that the tribunal should [[say it's not the right court]], because he was never an employee."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to have jurisdiction over a dispute",
+   "to challenge the court's jurisdiction",
+   "lack of jurisdiction",
+   "the proper forum"
+  ],
+  "note_fr": "Faux ami redoutable : « incompetent » signifie incapable, nul dans son travail. Dire « the tribunal is incompetent » ferait sourire ; dites « the tribunal has no jurisdiction » ou « lacks jurisdiction ». L'exception d'incompétence se dit « a challenge to jurisdiction » ou « a jurisdictional objection ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-089",
+  "level": 1,
+  "fr": "frais de justice",
+  "term": {
+   "uk": "legal costs",
+   "us": "legal fees"
+  },
+  "ipa": {
+   "uk": "/ˌliːɡ(ə)l ˈkɒsts/",
+   "us": "/ˌliːɡ(ə)l ˈfiːz/"
+  },
+  "def": "The money a party spends on a court case, mainly on its lawyers.",
+  "registers": {
+   "formal": {
+    "uk": "to bear one's own costs",
+    "us": "to bear one's own attorney's fees",
+    "ex": "Each party shall [[bear its own costs]].",
+    "ex_us": "Each party shall [[bear its own attorney's fees]]."
+   },
+   "everyday": {
+    "uk": "legal costs",
+    "us": "legal fees",
+    "ex": "Even if we win, the [[legal costs]] will run to five figures.",
+    "ex_us": "Even if we win, the [[legal fees]] will run to five figures."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to award costs against someone",
+   "to recover one's costs",
+   "to run up legal fees",
+   "court fees"
+  ],
+  "note_fr": "Au Royaume-Uni, « costs » (pluriel) désigne tous les frais du procès, honoraires compris ; aux États-Unis, « costs » ne vise que les frais de greffe et assimilés, les honoraires étant les « attorney's fees ». Devant les tribunaux civils anglais, le perdant paie en principe les frais du gagnant, mais pas devant l'Employment Tribunal, où chacun garde normalement les siens ; aux États-Unis, chacun paie son avocat, sauf loi contraire.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-090",
+  "level": 2,
+  "fr": "honoraire de résultat",
+  "term": {
+   "uk": "no win, no fee agreement",
+   "us": "contingency fee"
+  },
+  "ipa": {
+   "uk": "/nəʊ ˌwɪn nəʊ ˈfiː əˌɡriːmənt/",
+   "us": "/kənˈtɪndʒənsi fiː/"
+  },
+  "def": "An arrangement under which the lawyer is paid, wholly or partly, only if the client wins or obtains a settlement.",
+  "registers": {
+   "formal": {
+    "uk": "a conditional fee agreement",
+    "us": "a contingency fee agreement",
+    "ex": "The Claimant's solicitors are acting under [[a conditional fee agreement]].",
+    "ex_us": "The Plaintiff's attorneys are acting under [[a contingency fee agreement]]."
+   },
+   "everyday": {
+    "uk": "on a no win, no fee basis",
+    "us": "on contingency",
+    "ex": "His lawyer is working [[on a no win, no fee basis]], so he has nothing to lose by going on.",
+    "ex_us": "His lawyer is working [[on contingency]], so he has nothing to lose by going on."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a success fee",
+   "to take a case on contingency",
+   "a percentage of the award",
+   "an hourly rate"
+  ],
+  "note_fr": "Aux États-Unis, l'avocat du salarié travaille très souvent au pourcentage (« on contingency »), ce qui facilite l'accès au juge. En France, l'honoraire fixé uniquement en fonction du résultat est interdit ; seul un honoraire complémentaire de résultat (« a success fee on top of a base fee ») est admis. Ne traduisez pas « honoraires » par « honorarium », réservé à la rétribution d'un conférencier.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-091",
+  "level": 3,
+  "fr": "indemnité au titre de l'article 700 du code de procédure civile",
+  "term": {
+   "uk": "contribution towards legal costs",
+   "us": "contribution towards legal costs"
+  },
+  "ipa": {
+   "uk": "/ˌkɒntrɪˈbjuːʃ(ə)n təˌwɔːdz ˌliːɡ(ə)l ˈkɒsts/",
+   "us": "/ˌkɑːntrɪˈbjuːʃ(ə)n ˌtɔːrd ˌliːɡ(ə)l ˈfiːz/"
+  },
+  "def": "A sum that a French court may order the losing party to pay towards the winning party's lawyers' fees.",
+  "registers": {
+   "formal": {
+    "uk": "a contribution towards the other party's legal costs",
+    "us": "a contribution toward the other party's legal fees",
+    "ex": "The Company was further ordered to pay [[a contribution towards the other party's legal costs]] under Article 700 of the Code of Civil Procedure.",
+    "ex_us": "The Company was further ordered to pay [[a contribution toward the other party's legal fees]] under Article 700 of the Code of Civil Procedure."
+   },
+   "everyday": {
+    "uk": "something towards someone's legal fees",
+    "us": "something toward someone's legal fees",
+    "ex": "If we lose, we'll also have to pay [[something towards her legal fees]] - usually a fairly modest sum.",
+    "ex_us": "If we lose, we'll also have to pay [[something toward her legal fees]] - usually a fairly modest sum."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to claim a contribution to costs",
+   "at the court's discretion",
+   "to recover part of one's fees",
+   "on grounds of fairness"
+  ],
+  "note_fr": "Notion française : la somme est fixée librement par le juge, en équité, et ne couvre généralement qu'une partie des honoraires réels. Ne laissez pas croire à un client britannique qu'il s'agit d'un « costs order » à l'anglaise (remboursement substantiel des frais), ni à un client américain qu'il s'agit d'un « fee-shifting » intégral.",
+  "french_concept": true,
+  "explain": {
+   "written": "Under Article 700 of the French Code of Civil Procedure, the court may order the losing party to pay the other party a sum, assessed on an equitable basis, towards the legal fees it has incurred; in practice it rarely covers them in full.",
+   "spoken": "In France the loser usually pays something towards the winner's legal fees, but the judges set the figure and it's rarely anywhere near what you actually spent."
+  }
+ },
+ {
+  "id": "lt-092",
+  "level": 1,
+  "fr": "aide juridictionnelle",
+  "term": {
+   "uk": "legal aid",
+   "us": "legal aid"
+  },
+  "ipa": {
+   "uk": "/ˌliːɡ(ə)l ˈeɪd/",
+   "us": "/ˌliːɡ(ə)l ˈeɪd/"
+  },
+  "def": "Public funding that pays all or part of the legal costs of people who cannot afford a lawyer.",
+  "registers": {
+   "formal": {
+    "uk": "to be granted legal aid",
+    "us": "to be granted legal aid",
+    "ex": "The Claimant, who has [[been granted legal aid]], is represented by a lawyer appointed for that purpose."
+   },
+   "everyday": {
+    "uk": "to get legal aid",
+    "us": "to get legal aid",
+    "ex": "He's unemployed, so he'll probably [[get legal aid]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to apply for legal aid",
+   "to qualify for legal aid",
+   "means-tested",
+   "to be eligible for legal aid"
+  ],
+  "note_fr": "Ne dites pas « jurisdictional aid » ni « juridical help ». L'aide française est accordée sous condition de ressources (« means-tested »). Au Royaume-Uni, elle est très limitée en matière d'emploi ; aux États-Unis, il n'y a pas de droit général à l'aide en matière civile : le salarié s'appuie sur des « legal aid societies », son syndicat ou un avocat rémunéré au résultat.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-093",
+  "level": 1,
+  "fr": "exécuter un jugement",
+  "term": {
+   "uk": "to enforce a judgment",
+   "us": "to enforce a judgment"
+  },
+  "ipa": {
+   "uk": "/tu ɪnˌfɔːs ə ˈdʒʌdʒmənt/",
+   "us": "/tu ɪnˌfɔːrs ə ˈdʒʌdʒmənt/"
+  },
+  "def": "To take the legal steps needed to make a party actually do what the court has ordered, typically to pay.",
+  "registers": {
+   "formal": {
+    "uk": "to enforce the judgment",
+    "us": "to enforce the judgment",
+    "ex": "Failing payment within fifteen days, the Employee will take steps to [[enforce the judgment]]."
+   },
+   "everyday": {
+    "uk": "to comply with the judgment",
+    "us": "to comply with the judgment",
+    "ex": "My advice is to [[comply with the judgment]] quickly - interest is running."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "enforcement proceedings",
+   "to comply with a court order",
+   "to pay under protest",
+   "to seize assets"
+  ],
+  "note_fr": "Deux verbes selon le point de vue : le créancier « enforces » le jugement (exécution forcée), le débiteur « complies with » ou « satisfies » le jugement (exécution volontaire). « To execute a judgment » existe en anglais juridique, mais « execute » est ambigu : évitez-le à l'oral.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-094",
+  "level": 3,
+  "fr": "commissaire de justice (ex-huissier de justice)",
+  "term": {
+   "uk": "enforcement officer",
+   "us": "process server"
+  },
+  "ipa": {
+   "uk": "/ɪnˈfɔːsmənt ˌɒfɪsə/",
+   "us": "/ˈprɑːses ˌsɜːrvər/"
+  },
+  "def": "In France, the public officer who formally serves legal documents and carries out the enforcement of court decisions.",
+  "registers": {
+   "formal": {
+    "uk": "a judicial officer",
+    "us": "a judicial officer",
+    "ex": "The judgment was served on the Company by [[a judicial officer]] on 2 February."
+   },
+   "everyday": {
+    "uk": "a bailiff",
+    "us": "a process server",
+    "ex": "If we don't pay, she'll send [[a bailiff]] round with the judgment.",
+    "ex_us": "If we don't pay, she'll send [[a process server]] over with the judgment."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to be served by a bailiff",
+   "to instruct an enforcement officer",
+   "a bailiff's report",
+   "formal service"
+  ],
+  "note_fr": "Aucun équivalent exact. « Bailiff » (UK) évoque surtout la saisie ; aux États-Unis, le « bailiff » est l'agent qui maintient l'ordre dans la salle d'audience, tandis que les actes sont remis par un « process server » et l'exécution confiée au « sheriff » ou au « marshal ». Le constat se rend par « a bailiff's report » ou « an official record of findings ».",
+  "french_concept": true,
+  "explain": {
+   "written": "A commissaire de justice (formerly huissier de justice) is a French public officer with exclusive authority to serve court documents formally, to enforce judgments and to draw up official records of fact that carry evidential weight.",
+   "spoken": "It's an official whose job is to serve legal documents and enforce judgments - a bit like a bailiff, but they can also draw up official reports that are used as evidence."
+  }
+ },
+ {
+  "id": "lt-095",
+  "level": 2,
+  "fr": "risque contentieux",
+  "term": {
+   "uk": "litigation risk",
+   "us": "litigation risk"
+  },
+  "ipa": {
+   "uk": "/ˌlɪtɪˈɡeɪʃ(ə)n rɪsk/",
+   "us": "/ˌlɪtɪˈɡeɪʃ(ə)n rɪsk/"
+  },
+  "def": "The likelihood that a decision will lead to a court case, and the amount the company might then have to pay.",
+  "registers": {
+   "formal": {
+    "uk": "the Company's potential exposure",
+    "us": "the Company's potential exposure",
+    "ex": "[[The Company's potential exposure]] is estimated at between six and nine months' salary, excluding legal costs."
+   },
+   "everyday": {
+    "uk": "our exposure",
+    "us": "our exposure",
+    "ex": "Before we decide anything, I'd like a rough idea of [[our exposure]]."
+   },
+   "informal": {
+    "uk": "the downside",
+    "us": "the downside",
+    "ex": "What's [[the downside]] if he sues?"
+   }
+  },
+  "collocations": [
+   "to assess the litigation risk",
+   "to make a provision for a claim",
+   "the worst-case scenario",
+   "to limit our exposure"
+  ],
+  "note_fr": "« Exposure » est le mot clé des directions financières anglo-saxonnes : « what's our exposure? ». Provisionner un litige se dit « to make a provision for » (UK) ou « to accrue for / to book a reserve for » (US). N'utilisez pas « contentious risk ».",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-096",
+  "level": 2,
+  "fr": "conciliation préalable obligatoire (Royaume-Uni)",
+  "term": {
+   "uk": "Acas early conciliation",
+   "us": "pre-suit mediation"
+  },
+  "ipa": {
+   "uk": "/ˌeɪkæs ˌɜːli kənˌsɪliˈeɪʃ(ə)n/",
+   "us": "/ˌpriː suːt ˌmiːdiˈeɪʃ(ə)n/"
+  },
+  "def": "In Great Britain, the step a prospective claimant must take, before bringing most employment tribunal claims, of contacting the public conciliation service so that a settlement can be explored.",
+  "registers": {
+   "formal": {
+    "uk": "early conciliation",
+    "us": "pre-suit mediation",
+    "ex": "The Claimant commenced [[early conciliation]] through Acas on 3 March and the certificate was issued on 14 April.",
+    "ex_us": "The parties took part in [[pre-suit mediation]] in March, without success."
+   },
+   "everyday": {
+    "uk": "to go through Acas",
+    "us": "to go through mediation",
+    "ex": "In the UK, she has to [[go through Acas]] before she can put in a claim.",
+    "ex_us": "A lot of US employers ask people to [[go through mediation]] before anything gets filed."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to contact Acas",
+   "an early conciliation certificate",
+   "an Acas conciliator",
+   "to stop the clock"
+  ],
+  "note_fr": "Acas (prononcé « ay-kass ») est le service public britannique de conciliation et d'arbitrage en matière de travail. Le salarié doit le saisir avant d'introduire la plupart des actions ; la conciliation elle-même reste facultative. C'est l'inverse du schéma français, où la conciliation se tient devant le conseil de prud'hommes, après la saisine. Il n'existe pas d'équivalent général aux États-Unis.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-097",
+  "level": 2,
+  "fr": "arbitrage",
+  "term": {
+   "uk": "arbitration",
+   "us": "arbitration"
+  },
+  "ipa": {
+   "uk": "/ˌɑːbɪˈtreɪʃ(ə)n/",
+   "us": "/ˌɑːrbɪˈtreɪʃ(ə)n/"
+  },
+  "def": "A private way of resolving a dispute in which the parties submit it to one or more neutral persons whose decision is binding, instead of going to court.",
+  "registers": {
+   "formal": {
+    "uk": "to refer the dispute to arbitration",
+    "us": "to submit the dispute to arbitration",
+    "ex": "The parties agreed to [[refer the dispute to arbitration]].",
+    "ex_us": "The parties agreed to [[submit the dispute to arbitration]]."
+   },
+   "everyday": {
+    "uk": "to go to arbitration",
+    "us": "to go to arbitration",
+    "ex": "In the States, most of these cases [[go to arbitration]] and never reach a courtroom."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "binding arbitration",
+   "an arbitrator",
+   "an arbitral award",
+   "to compel arbitration"
+  ],
+  "note_fr": "Ne confondez pas « arbitration » (décision qui s'impose aux parties) et « mediation » (un tiers aide à trouver un accord). L'arbitre est « an arbitrator », pas « an arbiter » ni « a referee ». Aux États-Unis, l'arbitrage des litiges individuels du travail est très répandu ; en France, la clause d'arbitrage insérée dans un contrat de travail ne peut pas être opposée au salarié, qui garde l'accès au conseil de prud'hommes.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-098",
+  "level": 2,
+  "fr": "clause compromissoire (clause d'arbitrage)",
+  "term": {
+   "uk": "arbitration clause",
+   "us": "arbitration agreement"
+  },
+  "ipa": {
+   "uk": "/ˌɑːbɪˈtreɪʃ(ə)n klɔːz/",
+   "us": "/ˌɑːrbɪˈtreɪʃ(ə)n əˌɡriːmənt/"
+  },
+  "def": "A contractual term by which the parties agree in advance to submit any future dispute to arbitration rather than to the courts.",
+  "registers": {
+   "formal": {
+    "uk": "arbitration clause",
+    "us": "mandatory arbitration agreement",
+    "ex": "The [[arbitration clause]] in the US template cannot be relied on against an employee working in France.",
+    "ex_us": "The [[mandatory arbitration agreement]] in the US template cannot be relied on against an employee working in France."
+   },
+   "everyday": {
+    "uk": "arbitration clause",
+    "us": "arbitration agreement",
+    "ex": "We'll have to take the [[arbitration clause]] out of the French contracts.",
+    "ex_us": "We'll have to take the [[arbitration agreement]] out of the French contracts."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to sign an arbitration agreement",
+   "a class action waiver",
+   "to be bound by an arbitration clause",
+   "to opt out of arbitration"
+  ],
+  "note_fr": "« Compromissory » n'est pas d'usage courant. Aux États-Unis, les employeurs font fréquemment signer à l'embauche un « mandatory arbitration agreement », souvent assorti d'une renonciation aux actions collectives (« class action waiver ») ; certaines catégories de litiges en sont toutefois exclues par la loi. Ces modèles ne se transposent pas en France.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-099",
+  "level": 2,
+  "fr": "action de groupe",
+  "term": {
+   "uk": "class action",
+   "us": "class action"
+  },
+  "ipa": {
+   "uk": "/ˌklɑːs ˈækʃ(ə)n/",
+   "us": "/ˌklæs ˈækʃ(ə)n/"
+  },
+  "def": "A court case brought by one or a few people on behalf of a large group who all have the same kind of claim.",
+  "registers": {
+   "formal": {
+    "uk": "group litigation",
+    "us": "a class action lawsuit",
+    "ex": "The claims were managed together as [[group litigation]].",
+    "ex_us": "The claims were brought together as [[a class action lawsuit]]."
+   },
+   "everyday": {
+    "uk": "a class action",
+    "us": "a class action",
+    "ex": "A wage-and-hour mistake in the US can turn into [[a class action]] covering thousands of employees."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "to bring a class action",
+   "a member of the class",
+   "to certify a class",
+   "multiple claims"
+  ],
+  "note_fr": "La « class action » à l'américaine (un demandeur représente tous les salariés concernés, sauf ceux qui s'en excluent) est sans commune mesure avec l'action de groupe française, portée par des organisations habilitées et rare en droit du travail. Au Royaume-Uni, on parle de « group action » ou de « multiple claims » (fréquentes en matière d'égalité salariale). En France, le contentieux de masse prend surtout la forme de séries de dossiers individuels.",
+  "french_concept": false,
+  "explain": null
+ },
+ {
+  "id": "lt-100",
+  "level": 2,
+  "fr": "procès devant jury",
+  "term": {
+   "uk": "jury trial",
+   "us": "jury trial"
+  },
+  "ipa": {
+   "uk": "/ˈdʒʊəri ˌtraɪəl/",
+   "us": "/ˈdʒʊri ˌtraɪəl/"
+  },
+  "def": "A trial in which a group of ordinary citizens, rather than a judge alone, decides the facts and often the amount of damages.",
+  "registers": {
+   "formal": {
+    "uk": "trial by jury",
+    "us": "trial by jury",
+    "ex": "By signing the arbitration agreement, the employee waives the right to [[trial by jury]]."
+   },
+   "everyday": {
+    "uk": "to go before a jury",
+    "us": "to go before a jury",
+    "ex": "No American employer wants a case like this to [[go before a jury]]."
+   },
+   "informal": null
+  },
+  "collocations": [
+   "a jury verdict",
+   "to waive a jury trial",
+   "a bench trial",
+   "the jury awarded"
+  ],
+  "note_fr": "Aux États-Unis, de nombreux litiges du travail peuvent être jugés par un jury populaire, d'où des « verdicts » imprévisibles et parfois très élevés ; un procès sans jury est un « bench trial ». Rien de tel en France ni devant l'Employment Tribunal britannique. « Verdict » ne s'emploie que pour un jury : un juge rend un « judgment » ou un « ruling ».",
+  "french_concept": false,
+  "explain": null
+ }
+]

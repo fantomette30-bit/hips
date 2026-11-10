@@ -1,0 +1,1629 @@
+{
+ "reading": [
+  {
+   "id": "rd-lt-1",
+   "title": "What to expect now that a claim has been filed",
+   "kind": "client memo",
+   "level": 2,
+   "paragraphs": [
+    "MEMORANDUM",
+    "To: Karen Mitchell, VP Human Resources (Chicago). From: Claire Morel. Re: Claim brought by Mr Thomas Girard before the Lyon employment tribunal.",
+    "You asked what to expect now that Mr Girard has brought a claim. In short: a slow, largely written process, with no jury, no depositions and nothing resembling US-style discovery.",
+    "The claim will be heard by the conseil de prud'hommes, the French employment tribunal. Its members are not career judges but lay judges, drawn in equal numbers from employers and employees.",
+    "The first step is a conciliation hearing, held in private before two of those judges. Its purpose is to see whether the parties can settle. Few cases do at that stage, but the panel will also set the timetable for the exchange of written submissions and exhibits.",
+    "The case then goes to a full hearing before four judges. Each side's lawyer argues the case briefly; witnesses are rarely heard, and their evidence is given in the form of written witness statements. Judgment is reserved and handed down some weeks later. If the four judges are evenly divided, the case is heard again with a professional judge in the chair, which can add many months.",
+    "As to the amount at stake, damages for a dismissal found to be without real and serious cause are capped by a statutory scale based on length of service. Mr Girard is also claiming unpaid overtime, which falls outside that scale and for which the burden of proof is shared between the parties.",
+    "Either party may appeal, and the court of appeal will look again at both the facts and the law. It is not unusual for a final decision to take two to three years. I would therefore suggest that we assess our exposure now and keep the option of settling open."
+   ],
+   "glossary": [
+    {
+     "term": "lay judges",
+     "plain": "judges who are not professional judges but ordinary employers and employees",
+     "fr": "conseillers prud'homaux (juges non professionnels)"
+    },
+    {
+     "term": "conciliation hearing",
+     "plain": "a first, private session where the judges try to get the two sides to agree",
+     "fr": "audience de conciliation"
+    },
+    {
+     "term": "written submissions",
+     "plain": "the documents in which each lawyer sets out the facts and legal arguments",
+     "fr": "conclusions"
+    },
+    {
+     "term": "exhibits",
+     "plain": "the numbered documents each side produces as evidence",
+     "fr": "pièces"
+    },
+    {
+     "term": "witness statements",
+     "plain": "signed written accounts of what a person saw or heard",
+     "fr": "attestations"
+    },
+    {
+     "term": "capped",
+     "plain": "limited to a maximum amount",
+     "fr": "plafonnés"
+    },
+    {
+     "term": "burden of proof",
+     "plain": "the obligation to prove what you say",
+     "fr": "charge de la preuve"
+    },
+    {
+     "term": "exposure",
+     "plain": "the amount of money the company risks having to pay",
+     "fr": "risque financier, exposition"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "without real and serious cause",
+     "plain": "without a genuine and sufficiently serious reason - the French test for an unjustified dismissal"
+    },
+    {
+     "phrase": "Judgment is reserved",
+     "plain": "the judges do not decide on the day; they give their decision later"
+    },
+    {
+     "phrase": "As to",
+     "plain": "concerning; on the subject of"
+    },
+    {
+     "phrase": "falls outside",
+     "plain": "is not covered by"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who decides the case at first instance?",
+     "options": [
+      "A professional judge sitting alone",
+      "A jury of twelve citizens",
+      "Four lay judges, two from each side",
+      "An arbitrator chosen by the parties"
+     ],
+     "answer": 2,
+     "explain_fr": "Le mémo précise que les juges sont des « lay judges, drawn in equal numbers from employers and employees » et que l'audience de jugement se tient devant quatre d'entre eux."
+    },
+    {
+     "q": "What is the main practical outcome of the conciliation hearing in most cases?",
+     "options": [
+      "A timetable for exchanging arguments and documents",
+      "A final judgment",
+      "The questioning of witnesses",
+      "An order to pay damages"
+     ],
+     "answer": 0,
+     "explain_fr": "« Few cases do [settle] at that stage, but the panel will also set the timetable » : l'audience sert surtout à fixer le calendrier de procédure."
+    },
+    {
+     "q": "Why is the overtime claim a particular concern?",
+     "options": [
+      "It will be decided by a jury",
+      "It is time-barred",
+      "The employer alone must prove everything",
+      "It is not limited by the statutory scale"
+     ],
+     "answer": 3,
+     "explain_fr": "Le barème ne plafonne que les dommages-intérêts pour licenciement sans cause réelle et sérieuse : les heures supplémentaires « fall outside that scale ». La charge de la preuve y est partagée, et non supportée par le seul employeur."
+    },
+    {
+     "q": "What does the writer recommend?",
+     "options": [
+      "Appealing immediately",
+      "Working out the financial risk and staying open to a settlement",
+      "Preparing managers for depositions",
+      "Waiting for the final decision before doing anything"
+     ],
+     "answer": 1,
+     "explain_fr": "Dernière phrase : « assess our exposure now and keep the option of settling open ». « Exposure » = le risque financier ; « to keep an option open » = ne pas fermer la porte."
+    }
+   ]
+  },
+  {
+   "id": "rd-lt-2",
+   "title": "Quarterly litigation report - France",
+   "kind": "report extract",
+   "level": 3,
+   "paragraphs": [
+    "3. EMPLOYMENT LITIGATION - FRANCE (extract)",
+    "3.1 Dubois v Northgate France SAS. The claimant, a former regional sales manager dismissed for poor performance, challenges her dismissal and seeks damages at the top of the statutory scale, together with arrears of commission. Following an unsuccessful conciliation hearing, the matter was heard on the merits in March. The panel was evenly divided and the case has been referred to the tie-breaking judge; a new hearing is not expected before the first quarter of next year. Counsel assesses the Company's prospects of success as fair on the dismissal and weak on the commission claim, where the documentary evidence is thin. A provision has been made for the upper end of the estimated exposure.",
+    "3.2 Lemaire v Northgate France SAS. By a judgment handed down in May, the tribunal dismissed the claim for unfair dismissal but ordered the Company to pay back pay for overtime, plus a contribution towards the claimant's legal costs. The award of back pay is provisionally enforceable and has been paid. The claimant has lodged an appeal; the Company has cross-appealed on the overtime. No hearing date has yet been fixed.",
+    "3.3 Interim proceedings. A former employee obtained an order, on an application for interim relief, requiring delivery of his end-of-contract documents, subject to a penalty per day of delay. The documents were delivered within the time limit and no penalty is payable.",
+    "3.4 Trends. No new claims were received during the quarter, and one threatened claim is now time-barred. Two matters were settled before hearing, in each case for less than the amount provided for."
+   ],
+   "glossary": [
+    {
+     "term": "arrears of commission",
+     "plain": "commission that should already have been paid",
+     "fr": "rappel de commissions"
+    },
+    {
+     "term": "tie-breaking judge",
+     "plain": "the professional judge brought in when the lay judges are split two against two",
+     "fr": "juge départiteur"
+    },
+    {
+     "term": "prospects of success",
+     "plain": "the chances of winning",
+     "fr": "chances de succès"
+    },
+    {
+     "term": "provision",
+     "plain": "a sum set aside in the accounts to cover a possible future cost",
+     "fr": "provision (comptable)"
+    },
+    {
+     "term": "back pay",
+     "plain": "wages owed for a past period",
+     "fr": "rappel de salaire"
+    },
+    {
+     "term": "provisionally enforceable",
+     "plain": "to be paid at once, even though an appeal is pending",
+     "fr": "assorti de l'exécution provisoire"
+    },
+    {
+     "term": "cross-appealed",
+     "plain": "appealed in return against the part of the judgment it lost",
+     "fr": "a formé un appel incident"
+    },
+    {
+     "term": "time-barred",
+     "plain": "too late to be brought, because the legal time limit has passed",
+     "fr": "prescrit"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "on the merits",
+     "plain": "on the substance of the dispute, as opposed to procedure or interim measures"
+    },
+    {
+     "phrase": "handed down",
+     "plain": "officially given (of a judgment)"
+    },
+    {
+     "phrase": "subject to a penalty per day of delay",
+     "plain": "with a fixed sum to pay for every day the order is not obeyed"
+    },
+    {
+     "phrase": "has lodged an appeal",
+     "plain": "has formally started an appeal"
+    },
+    {
+     "phrase": "the amount provided for",
+     "plain": "the sum set aside in the accounts"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why has the Dubois case not yet been decided?",
+     "options": [
+      "The claimant withdrew her claim",
+      "The four judges could not reach a majority",
+      "The Company appealed",
+      "The claim was out of time"
+     ],
+     "answer": 1,
+     "explain_fr": "« The panel was evenly divided and the case has been referred to the tie-breaking judge » : c'est un partage de voix, d'où le renvoi en départage."
+    },
+    {
+     "q": "In the Lemaire case, who won on the dismissal?",
+     "options": [
+      "The Company",
+      "The claimant",
+      "Neither: the case was settled",
+      "It has not been decided"
+     ],
+     "answer": 0,
+     "explain_fr": "« The tribunal dismissed the claim for unfair dismissal » : la demande du salarié a été rejetée sur ce point. Attention au double sens de « dismiss » dans la même phrase."
+    },
+    {
+     "q": "Why has the back pay in the Lemaire case already been paid, although an appeal is pending?",
+     "options": [
+      "The Company decided to be generous",
+      "The claimant agreed to drop the appeal",
+      "The appeal was dismissed",
+      "That part of the judgment had to be complied with immediately"
+     ],
+     "answer": 3,
+     "explain_fr": "« Provisionally enforceable » : la condamnation est exécutoire par provision, c'est-à-dire nonobstant appel."
+    },
+    {
+     "q": "What does paragraph 3.4 tell us about the two settlements?",
+     "options": [
+      "They cost more than expected",
+      "They were reached after judgment",
+      "They cost less than the sums set aside",
+      "They were rejected by the tribunal"
+     ],
+     "answer": 2,
+     "explain_fr": "« For less than the amount provided for » : pour un montant inférieur à la provision constituée. « To provide for » a ici son sens comptable."
+    }
+   ]
+  },
+  {
+   "id": "rd-lt-3",
+   "title": "A US arbitration agreement",
+   "kind": "contract clause",
+   "level": 3,
+   "paragraphs": [
+    "12. DISPUTE RESOLUTION AND ARBITRATION",
+    "12.1 Any dispute, claim or controversy arising out of or relating to the Employee's employment or its termination (a 'Covered Claim') shall be resolved exclusively by final and binding arbitration before a single neutral arbitrator, and not by a court or jury.",
+    "12.2 Before commencing arbitration, the party asserting a Covered Claim shall give the other party written notice of the claim, and the parties shall attempt in good faith to resolve it through mediation.",
+    "12.3 The arbitrator shall have authority to award any remedy that would have been available in a court of competent jurisdiction, including back pay, reinstatement and attorney's fees where provided by statute. The arbitrator shall issue a written, reasoned award.",
+    "12.4 To the fullest extent permitted by law, the Employee and the Company each waive the right to trial by jury and the right to bring or participate in any class action or collective action. Covered Claims shall be arbitrated on an individual basis only.",
+    "12.5 The Company shall bear the arbitrator's fees and the administrative costs of the arbitration. Each party shall otherwise bear its own attorney's fees and costs, unless the arbitrator awards them to the prevailing party in accordance with applicable law.",
+    "12.6 Nothing in this clause shall prevent either party from applying to a court for a temporary restraining order or preliminary injunction where necessary to prevent irreparable harm pending the arbitrator's decision, nor shall it apply to any claim which, under applicable law, cannot be made subject to mandatory arbitration."
+   ],
+   "glossary": [
+    {
+     "term": "binding arbitration",
+     "plain": "a private procedure whose result the parties must accept, instead of going to court",
+     "fr": "arbitrage s'imposant aux parties"
+    },
+    {
+     "term": "arbitrator",
+     "plain": "the neutral person who decides the dispute",
+     "fr": "arbitre"
+    },
+    {
+     "term": "mediation",
+     "plain": "a discussion led by a neutral person who helps the parties reach their own agreement",
+     "fr": "médiation"
+    },
+    {
+     "term": "reinstatement",
+     "plain": "giving a dismissed employee his or her job back",
+     "fr": "réintégration"
+    },
+    {
+     "term": "class action",
+     "plain": "a case brought on behalf of a whole group of people with the same claim",
+     "fr": "action de groupe"
+    },
+    {
+     "term": "prevailing party",
+     "plain": "the side that wins",
+     "fr": "partie gagnante"
+    },
+    {
+     "term": "preliminary injunction",
+     "plain": "a temporary court order made before the final decision",
+     "fr": "mesure provisoire ordonnée par le juge (proche du référé)"
+    }
+   ],
+   "legalese": [
+    {
+     "phrase": "arising out of or relating to",
+     "plain": "connected in any way with"
+    },
+    {
+     "phrase": "a court of competent jurisdiction",
+     "plain": "a court that has the legal power to hear the case"
+    },
+    {
+     "phrase": "To the fullest extent permitted by law",
+     "plain": "as far as the law allows, and no further"
+    },
+    {
+     "phrase": "Nothing in this clause shall prevent",
+     "plain": "this clause does not stop"
+    },
+    {
+     "phrase": "pending the arbitrator's decision",
+     "plain": "while waiting for the arbitrator to decide"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What do both parties give up under clause 12.4?",
+     "options": [
+      "The right to be represented by a lawyer",
+      "The right to claim back pay",
+      "The right to mediation",
+      "The right to a jury and to group proceedings"
+     ],
+     "answer": 3,
+     "explain_fr": "« Each waive the right to trial by jury and the right to bring or participate in any class action or collective action » : « to waive » = renoncer à."
+    },
+    {
+     "q": "Who pays the arbitrator?",
+     "options": [
+      "The Company",
+      "The Employee",
+      "The losing party in every case",
+      "Both parties equally"
+     ],
+     "answer": 0,
+     "explain_fr": "Clause 12.5 : « The Company shall bear the arbitrator's fees ». Chaque partie garde en revanche ses propres honoraires d'avocat, sauf décision contraire de l'arbitre conforme à la loi."
+    },
+    {
+     "q": "What must happen before arbitration starts?",
+     "options": [
+      "A court must approve the claim",
+      "The Employee must resign",
+      "Written notice of the claim and an attempt at mediation",
+      "A jury must be selected"
+     ],
+     "answer": 2,
+     "explain_fr": "Clause 12.2 : notification écrite de la demande, puis tentative de médiation « in good faith »."
+    },
+    {
+     "q": "A US parent company wants to insert this clause in the contracts of its employees in France. What should the consultant say?",
+     "options": [
+      "It is fine as long as it is translated into French",
+      "It could not be relied on against the employee, who keeps access to the employment tribunal",
+      "It is valid but only for managers",
+      "It is compulsory under French law"
+     ],
+     "answer": 1,
+     "explain_fr": "En droit français, la clause compromissoire insérée dans un contrat de travail est inopposable au salarié, qui conserve le droit de saisir le conseil de prud'hommes. La clause 12.6 réserve d'ailleurs les demandes qui « cannot be made subject to mandatory arbitration »."
+    }
+   ]
+  },
+  {
+   "id": "rd-lt-4",
+   "title": "Asking a manager for a witness statement",
+   "kind": "long email",
+   "level": 1,
+   "paragraphs": [
+    "Subject: Tribunal claim - Marc Vidal: what I need from you",
+    "Dear Antoine,",
+    "As you may have heard, Marc Vidal has brought a claim against the company before the employment tribunal. He is challenging his dismissal and claiming damages. Our lawyer, Ms Rey, is preparing our defence, and I need your help on three points.",
+    "First, please keep everything. Do not delete any emails, messages or notes about Marc, even those that seem unimportant. Our lawyer will decide what is useful as evidence.",
+    "Second, could you send me by Friday the documents you have on his performance: the two appraisals, the objectives you set in January and your follow-up emails? We have to send our exhibits to the other side by the end of the month, and the deadline is strict.",
+    "Third, we would like you to write a witness statement. This is a short signed document in which you describe, in your own words, what you saw and heard yourself: the missed targets, the meetings you had with him, the warnings you gave. Please stick to facts and dates, and leave out opinions. In France you will almost certainly not have to attend the hearing or answer questions from his lawyer; the judges simply read the statement.",
+    "Finally, please do not discuss the case with the team or contact Marc directly. If anyone asks, just say that the matter is with our lawyers.",
+    "I'll call you tomorrow to go through all this. Thank you in advance for your help.",
+    "Best regards,",
+    "Claire"
+   ],
+   "glossary": [
+    {
+     "term": "brought a claim",
+     "plain": "started a legal case",
+     "fr": "a saisi le tribunal"
+    },
+    {
+     "term": "damages",
+     "plain": "money claimed or awarded to make up for a loss",
+     "fr": "dommages et intérêts"
+    },
+    {
+     "term": "evidence",
+     "plain": "documents and statements used to prove the facts",
+     "fr": "preuves"
+    },
+    {
+     "term": "exhibits",
+     "plain": "the documents formally produced in the case",
+     "fr": "pièces"
+    },
+    {
+     "term": "deadline",
+     "plain": "the latest date by which something must be done",
+     "fr": "date limite"
+    },
+    {
+     "term": "witness statement",
+     "plain": "a signed written account of what someone personally saw or heard",
+     "fr": "attestation"
+    },
+    {
+     "term": "attend the hearing",
+     "plain": "be present at the court session",
+     "fr": "se présenter à l'audience"
+    }
+   ],
+   "legalese": [],
+   "questions": [
+    {
+     "q": "What is Antoine asked to do with his old messages about Marc?",
+     "options": [
+      "Delete the unimportant ones",
+      "Keep all of them",
+      "Forward them to Marc",
+      "Send them to the tribunal himself"
+     ],
+     "answer": 1,
+     "explain_fr": "« Please keep everything. Do not delete any emails, messages or notes » : il doit tout conserver ; c'est l'avocate qui triera."
+    },
+    {
+     "q": "What should the witness statement contain?",
+     "options": [
+      "His opinion of Marc's character",
+      "Legal arguments",
+      "What the team thinks of the dismissal",
+      "Facts and dates he knows first-hand"
+     ],
+     "answer": 3,
+     "explain_fr": "« What you saw and heard yourself » ; « stick to facts and dates, and leave out opinions ». « To stick to » = s'en tenir à ; « to leave out » = omettre."
+    },
+    {
+     "q": "Why is Friday important?",
+     "options": [
+      "The exhibits must reach the other side by the end of the month",
+      "The hearing takes place on Friday",
+      "Marc's notice period ends on Friday",
+      "The lawyer is on leave after Friday"
+     ],
+     "answer": 0,
+     "explain_fr": "Les pièces doivent être communiquées à la partie adverse avant la fin du mois, et « the deadline is strict » : Claire a besoin des documents dès vendredi pour les transmettre à l'avocate."
+    },
+    {
+     "q": "Will Antoine probably be questioned by Marc's lawyer?",
+     "options": [
+      "Yes, for several hours",
+      "Yes, but only in writing",
+      "No, the judges normally just read his statement",
+      "No, because he is not allowed to give a statement"
+     ],
+     "answer": 2,
+     "explain_fr": "« You will almost certainly not have to attend the hearing or answer questions from his lawyer » : devant le conseil de prud'hommes, l'attestation écrite remplace en pratique l'audition du témoin."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "wr-lt-1",
+   "title": "Telling management that a claim has been received",
+   "stage": 1,
+   "kind": "email",
+   "brief": "The company has just received a claim from a former employee, Ms Leroy, before the Nanterre employment tribunal. Write a short email to the managing director, Mr Shaw: what she is claiming, the date of the first hearing, what must be done now, the lawyer's first impression and the next step.",
+   "brief_fr": "L'entreprise vient de recevoir la requête d'une ancienne salariée, Mme Leroy, devant le conseil de prud'hommes de Nanterre. Rédigez un bref e-mail au directeur général, M. Shaw : ce qu'elle demande, la date de la première audience, ce qu'il faut faire dès maintenant, la première impression de l'avocate et la prochaine étape.",
+   "gaps": [
+    {
+     "text": "I am writing to let you know that Ms Leroy has ___ a claim against the company before the Nanterre employment tribunal.",
+     "answer": "brought",
+     "accept": [
+      "filed",
+      "lodged",
+      "issued"
+     ],
+     "explain_fr": "On « brings » (UK) ou « files » (US) a claim. Jamais « seized the tribunal » ni « made a claim to the tribunal »."
+    },
+    {
+     "text": "She is ___ her dismissal and claiming damages equivalent to twelve months' salary.",
+     "answer": "challenging",
+     "accept": [
+      "contesting",
+      "disputing"
+     ],
+     "explain_fr": "« To challenge a dismissal » = contester un licenciement. Le present continuous convient : la procédure est en cours."
+    },
+    {
+     "text": "The conciliation hearing has been ___ for 14 May.",
+     "answer": "listed",
+     "accept": [
+      "set",
+      "scheduled",
+      "fixed"
+     ],
+     "explain_fr": "« To list a case for hearing » est le verbe britannique du greffe ; « set » ou « scheduled » sont plus américains. Attention à la préposition : « listed for » + date."
+    },
+    {
+     "text": "In the meantime, please make sure that nobody deletes any documents that could be used as ___.",
+     "answer": "evidence",
+     "accept": [
+      "proof"
+     ],
+     "explain_fr": "« Evidence » est indénombrable : pas d'article indéfini, pas de pluriel."
+    },
+    {
+     "text": "Our lawyer's first impression is that we have a reasonably strong ___ on the dismissal itself.",
+     "answer": "case",
+     "accept": [
+      "position"
+     ],
+     "explain_fr": "« To have a strong case » = avoir un dossier solide. « Dossier » ou « file » ne conviennent pas ici."
+    },
+    {
+     "text": "I will ___ you posted as soon as we have her full assessment.",
+     "answer": "keep",
+     "accept": [],
+     "explain_fr": "« To keep someone posted » = tenir quelqu'un au courant. Plus naturel que « I will inform you »."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Employment tribunal claim - Ms Leroy\n\nDear Mr Shaw,\n\nI am writing to let you know that Ms Leroy has brought a claim against the company before the Nanterre employment tribunal. She is challenging her dismissal and claiming damages equivalent to twelve months' salary, together with unpaid bonus.\n\nThe conciliation hearing has been listed for 14 May. Our lawyer will attend on the company's behalf, so there is no need for you to be there in person.\n\nIn the meantime, please make sure that nobody deletes any documents that could be used as evidence, in particular emails and appraisal records.\n\nOur lawyer's first impression is that we have a reasonably strong case on the dismissal itself, although the bonus claim will need a closer look. I will keep you posted as soon as we have her full assessment.\n\nKind regards,\nClaire Morel",
+   "model_us": "Subject: Labor court claim - Ms. Leroy\n\nDear Mr. Shaw,\n\nI am writing to let you know that Ms. Leroy has filed a claim against the company before the Nanterre labor court. She is challenging her termination and claiming damages equivalent to twelve months' salary, together with unpaid bonus.\n\nThe conciliation hearing has been set for May 14. Our attorney will attend on the company's behalf, so there is no need for you to be there in person.\n\nIn the meantime, please make sure that nobody deletes any documents that could be used as evidence, in particular emails and performance reviews.\n\nOur attorney's first impression is that we have a reasonably strong case on the termination itself, although the bonus claim will need a closer look. I will keep you posted as soon as we have her full assessment.\n\nBest regards,\nClaire Morel",
+   "commentary": [
+    {
+     "quote": "I am writing to let you know that",
+     "note_fr": "Ouverture simple et directe, adaptée à une mauvaise nouvelle : on annonce l'objet sans dramatiser. « I inform you that » serait un calque maladroit."
+    },
+    {
+     "quote": "claiming damages equivalent to twelve months' salary",
+     "note_fr": "Notez l'apostrophe du génitif pluriel : « twelve months' salary ». « Damages » est toujours au pluriel dans ce sens."
+    },
+    {
+     "quote": "Our lawyer will attend on the company's behalf",
+     "note_fr": "« To attend » = être présent à ; « on someone's behalf » = au nom de. Deux tournures indispensables pour parler de représentation en justice."
+    },
+    {
+     "quote": "although the bonus claim will need a closer look",
+     "note_fr": "Réserve formulée avec retenue : on signale un point faible sans alarmer. « To need a closer look » est un euphémisme professionnel courant."
+    },
+    {
+     "quote": "I will keep you posted",
+     "note_fr": "Formule naturelle pour promettre un suivi. À l'écrit très formel, on dirait « I will keep you informed of developments »."
+    }
+   ],
+   "checklist": [
+    "Have I said clearly who is claiming what, and before which court?",
+    "Is the date of the first hearing stated, with what it means for the reader?",
+    "Have I asked for documents to be preserved?",
+    "Is the lawyer's assessment presented as a first impression, not a promise?",
+    "Is the tone calm and factual?"
+   ],
+   "phrasebank": [
+    "I am writing to let you know that ...",
+    "She is challenging her dismissal and claiming ...",
+    "The hearing has been listed for ...",
+    "In the meantime, please make sure that ...",
+    "Our lawyer's first impression is that ...",
+    "I will keep you posted as soon as ..."
+   ]
+  },
+  {
+   "id": "wr-lt-2",
+   "title": "Reporting a judgment to a client",
+   "stage": 1,
+   "kind": "email",
+   "brief": "The employment tribunal has just given its decision in the case brought by Mr Faure against your client. Write to the client's HR director, Ms Doyle: the outcome on each claim, the amount, the time limit for appeal and your recommendation.",
+   "brief_fr": "Le conseil de prud'hommes vient de rendre sa décision dans l'affaire opposant M. Faure à votre client. Écrivez à la DRH du client, Mme Doyle : l'issue de chaque demande, le montant, le délai d'appel et votre recommandation.",
+   "gaps": [
+    {
+     "text": "The tribunal ___ down its judgment yesterday.",
+     "answer": "handed",
+     "accept": [],
+     "explain_fr": "« To hand down a judgment » = rendre un jugement. Verbe à particule consacré ; « rendered » se rencontre surtout en anglais juridique américain."
+    },
+    {
+     "text": "The judges ___ that the dismissal was without real and serious cause.",
+     "answer": "held",
+     "accept": [
+      "found",
+      "ruled",
+      "decided"
+     ],
+     "explain_fr": "« The court held that... » est la formule usuelle pour rapporter ce que le juge a décidé. Prétérit irrégulier de « to hold »."
+    },
+    {
+     "text": "The company has been ___ to pay Mr Faure the equivalent of five months' salary.",
+     "answer": "ordered",
+     "accept": [],
+     "explain_fr": "« To be ordered to pay » = être condamné à payer. « Condemned » et « sentenced » sont des faux amis."
+    },
+    {
+     "text": "His claim for unpaid overtime, on the other hand, was ___.",
+     "answer": "dismissed",
+     "accept": [
+      "rejected"
+     ],
+     "explain_fr": "« To dismiss a claim » = rejeter une demande, débouter. Le même verbe signifie aussi licencier : le contexte tranche."
+    },
+    {
+     "text": "We have one month from service of the judgment in which to ___.",
+     "answer": "appeal",
+     "accept": [
+      "lodge an appeal",
+      "file an appeal"
+     ],
+     "explain_fr": "« To appeal » s'emploie seul ou avec un complément : « to appeal against the judgment » (UK), « to appeal the judgment » (US)."
+    },
+    {
+     "text": "___ balance, my recommendation would be to pay and close the file.",
+     "answer": "On",
+     "accept": [],
+     "explain_fr": "« On balance » = tout bien pesé. Locution très utile pour introduire une recommandation mesurée."
+    }
+   ],
+   "outline": [],
+   "model": "Subject: Faure - judgment of the employment tribunal\n\nDear Ms Doyle,\n\nThe tribunal handed down its judgment yesterday, and I am afraid the outcome is mixed.\n\nThe judges held that the dismissal was without real and serious cause. The company has been ordered to pay Mr Faure the equivalent of five months' salary, which is in the middle of the statutory range for his length of service, plus a modest contribution towards his legal costs.\n\nHis claim for unpaid overtime, on the other hand, was dismissed. That was by far the larger part of what he was asking for, so the overall result is considerably better than our worst case.\n\nWe have one month from service of the judgment in which to appeal. Mr Faure has the same right, and an appeal by either side would reopen the whole case, including the overtime.\n\nOn balance, my recommendation would be to pay and close the file. I would be glad to talk it through on Thursday if that suits you.\n\nKind regards,\nClaire Morel",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "I am afraid the outcome is mixed",
+     "note_fr": "« I am afraid » adoucit l'annonce ; « mixed » résume en un mot un résultat partagé avant d'entrer dans le détail."
+    },
+    {
+     "quote": "which is in the middle of the statutory range for his length of service",
+     "note_fr": "Mise en perspective immédiate du montant : le lecteur comprend que la somme n'a rien d'exceptionnel. « Length of service » = ancienneté."
+    },
+    {
+     "quote": "That was by far the larger part of what he was asking for",
+     "note_fr": "« By far » renforce le comparatif. La phrase transforme une demi-défaite en résultat acceptable, sans triomphalisme."
+    },
+    {
+     "quote": "an appeal by either side would reopen the whole case",
+     "note_fr": "Point juridique essentiel exprimé en langage courant : l'appel français rejuge l'ensemble du litige. « Either side » = l'une ou l'autre partie."
+    },
+    {
+     "quote": "On balance, my recommendation would be to pay and close the file.",
+     "note_fr": "Le conditionnel « would be » laisse la décision au client. « To close the file » = clore le dossier."
+    }
+   ],
+   "checklist": [
+    "Have I given the result claim by claim?",
+    "Is the amount put into perspective for the reader?",
+    "Have I stated the time limit for appeal and from when it runs?",
+    "Is my recommendation clear, and clearly mine?",
+    "Have I avoided 'condemned', 'sentenced' and 'prescription'?"
+   ],
+   "phrasebank": [
+    "The tribunal handed down its judgment on ...",
+    "The judges held that ...",
+    "The company has been ordered to pay ...",
+    "His claim for ..., on the other hand, was dismissed.",
+    "We have one month in which to appeal.",
+    "On balance, my recommendation would be to ...",
+    "I would be glad to talk it through."
+   ]
+  },
+  {
+   "id": "wr-lt-3",
+   "title": "Explaining the French compensation scale to a US client",
+   "stage": 2,
+   "kind": "client note",
+   "brief": "A US client asks how much a French court can award an employee for an unjustified dismissal, and whether there are punitive damages. Write one clear paragraph (130-170 words) explaining the statutory scale and its limits.",
+   "brief_fr": "Un client américain demande combien un juge français peut accorder à un salarié pour un licenciement injustifié et s'il existe des dommages-intérêts punitifs. Rédigez un paragraphe clair (130 à 170 mots) expliquant le barème légal et ses limites.",
+   "gaps": [],
+   "outline": [
+    "The principle: damages for unjustified dismissal follow a statutory scale",
+    "How it works: a minimum and a maximum in months of salary, rising with length of service",
+    "The judges' discretion within the range",
+    "The benefit for the client: predictability",
+    "Two limits: void dismissals (no cap); other claims come on top",
+    "No punitive damages"
+   ],
+   "model": "If a French court finds that a dismissal was without real and serious cause, the damages it can award are governed by a statutory scale, often called the Macron scale. The scale sets a minimum and a maximum, expressed in months of gross salary, and both rise with the employee's length of service. Within that range the judges decide freely, looking at factors such as the employee's age and how long he or she has been out of work. For you, the practical benefit is predictability: for any given employee, we can work out the worst case in advance. There are two caveats, however. First, the scale does not apply where the dismissal is void, for example because it is linked to harassment or discrimination; in those cases there is no cap. Second, it covers only the dismissal itself, so claims for overtime or unpaid bonuses come on top. There are, incidentally, no punitive damages in France.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "are governed by a statutory scale, often called the Macron scale",
+     "note_fr": "On donne d'abord la notion en anglais clair, puis l'étiquette française que le client retrouvera dans la presse. « Statutory » = prévu par la loi."
+    },
+    {
+     "quote": "both rise with the employee's length of service",
+     "note_fr": "« To rise with » exprime la progressivité sans chiffres. On évite de citer des montants que le client appliquerait hors contexte."
+    },
+    {
+     "quote": "the practical benefit is predictability",
+     "note_fr": "Phrase pivot : on passe de la règle à son intérêt pour le lecteur. Le deux-points annonce l'explication."
+    },
+    {
+     "quote": "There are two caveats, however.",
+     "note_fr": "« Caveat » = réserve, mise en garde. Phrase courte qui prépare le lecteur à une nuance ; « however » en fin de phrase est très idiomatique."
+    },
+    {
+     "quote": "come on top",
+     "note_fr": "« To come on top » = s'ajouter. Plus naturel à l'écrit professionnel que « are added in addition »."
+    },
+    {
+     "quote": "There are, incidentally, no punitive damages in France.",
+     "note_fr": "« Incidentally » introduit une précision annexe mais importante pour un Américain. La phrase finale, brève, répond à la seconde question du client."
+    }
+   ],
+   "checklist": [
+    "Does my first sentence state the rule in plain English?",
+    "Have I explained how the scale works without drowning the reader in figures?",
+    "Is the benefit for the client explicit?",
+    "Have I flagged the cases where the cap does not apply?",
+    "Have I answered the question about punitive damages?"
+   ],
+   "phrasebank": [
+    "... are governed by a statutory scale.",
+    "The scale sets a minimum and a maximum, expressed in months of salary.",
+    "Within that range, the judges decide freely.",
+    "For you, the practical benefit is ...",
+    "There are two caveats, however.",
+    "... so claims for overtime come on top.",
+    "In those cases there is no cap."
+   ]
+  },
+  {
+   "id": "wr-lt-4",
+   "title": "Minutes of a litigation review meeting",
+   "stage": 2,
+   "kind": "meeting minutes",
+   "brief": "You took the notes at a litigation review meeting between yourself (CM) and the finance director (JW). Write the paragraph of the minutes dealing with the Garnier claim (120-160 words): where the case stands, the timetable, the exposure, and the three actions agreed.",
+   "brief_fr": "Vous avez pris les notes d'une réunion de suivi des contentieux entre vous-même (CM) et le directeur financier (JW). Rédigez le paragraphe du compte rendu consacré au dossier Garnier (120 à 160 mots) : état d'avancement, calendrier, risque financier et les trois actions décidées.",
+   "gaps": [],
+   "outline": [
+    "Conciliation failed on 6 February; full hearing listed for 18 November",
+    "Dates for written submissions: claimant 30 April, company 15 July",
+    "JW's question on exposure; CM's answer (dismissal capped by the scale; overtime uncapped and poorly documented)",
+    "Agreed: witness statements by 31 March; counsel to sound out the other side on settlement, within a ceiling approved by the CFO; provision for the upper end of the estimate",
+    "Who is responsible"
+   ],
+   "model": "3. Garnier claim - next steps\n\nCM reported that the conciliation hearing on 6 February had not produced an agreement and that the full hearing was listed for 18 November. Written submissions are due from the claimant by 30 April and from the company by 15 July. JW asked what the company stood to lose. CM replied that, on counsel's assessment, exposure on the dismissal was limited by the statutory scale, but that the overtime claim was uncapped and poorly documented on the company's side. After discussion, it was agreed that (a) the two line managers would provide witness statements by 31 March; (b) counsel would be asked to sound out the other side on a possible settlement, within a ceiling to be approved by the CFO; and (c) a provision would be made for the upper end of the estimate.\n\nAction: CM, JW.",
+   "model_us": null,
+   "commentary": [
+    {
+     "quote": "CM reported that the conciliation hearing on 6 February had not produced an agreement",
+     "note_fr": "Style du compte rendu : initiales, discours indirect et concordance des temps (« had not produced »). On rapporte, on ne commente pas."
+    },
+    {
+     "quote": "Written submissions are due from the claimant by 30 April",
+     "note_fr": "« To be due by » + date : la tournure la plus économique pour une échéance. Le présent se justifie, car le calendrier est toujours valable."
+    },
+    {
+     "quote": "JW asked what the company stood to lose.",
+     "note_fr": "« To stand to lose » = risquer de perdre. Reformulation élégante de la question « what's our exposure? »."
+    },
+    {
+     "quote": "uncapped and poorly documented on the company's side",
+     "note_fr": "Deux adjectifs suffisent à dire où est le vrai risque. « Uncapped » = non plafonné ; « poorly documented » évite un jugement sur les personnes."
+    },
+    {
+     "quote": "it was agreed that",
+     "note_fr": "Formule passive consacrée pour consigner une décision collective, suivie d'une énumération (a), (b), (c)."
+    },
+    {
+     "quote": "to sound out the other side on a possible settlement",
+     "note_fr": "« To sound someone out » = sonder quelqu'un. Indique une démarche exploratoire, sans engagement."
+    }
+   ],
+   "checklist": [
+    "Have I used reported speech and initials consistently?",
+    "Are all the dates and deadlines there?",
+    "Is the exposure explained in two clear parts (capped / uncapped)?",
+    "Are the decisions listed separately, each with a deadline or a limit?",
+    "Is it clear who does what?"
+   ],
+   "phrasebank": [
+    "CM reported that ...",
+    "The full hearing is listed for ...",
+    "Written submissions are due by ...",
+    "JW asked what the company stood to lose.",
+    "On counsel's assessment, ...",
+    "After discussion, it was agreed that ...",
+    "Action: ..."
+   ]
+  },
+  {
+   "id": "wr-lt-5",
+   "title": "Advising a client on whether to appeal",
+   "stage": 3,
+   "kind": "client note",
+   "brief": "The employment tribunal has held that Ms Bertrand's dismissal was unjustified and awarded her seven months' salary; her overtime and bonus claims were dismissed. Your client's regional director, David, asks whether the company should appeal. Write a note of about 230 words giving your advice, the reasons, the counter-argument and the deadline.",
+   "brief_fr": "Le conseil de prud'hommes a jugé le licenciement de Mme Bertrand injustifié et lui a accordé sept mois de salaire ; ses demandes d'heures supplémentaires et de bonus ont été rejetées. Le directeur régional de votre client, David, demande s'il faut faire appel. Rédigez une note d'environ 230 mots : votre avis, les raisons, l'argument contraire et le délai.",
+   "gaps": [],
+   "outline": [
+    "The answer first: advise against appealing",
+    "Reminder of what the tribunal decided",
+    "Three drawbacks of an appeal (complete rehearing and cross-appeal; the weakness cannot be cured; time, fees and interest)",
+    "The counter-argument: the award is high and might be reduced",
+    "Recommendation and deadline for instructing counsel",
+    "Offer to discuss"
+   ],
+   "model": "Subject: Bertrand judgment - should we appeal?\n\nDear David,\n\nYou asked for my view on whether to appeal last week's judgment. In short, I would advise against it.\n\nAs a reminder, the tribunal held that Ms Bertrand's dismissal was without real and serious cause and awarded her seven months' salary, together with a contribution towards her legal costs. Her claims for overtime and for bonus arrears were dismissed.\n\nAn appeal would have three drawbacks. First, the court of appeal rehears the whole case, on the facts as well as the law, and Ms Bertrand would almost certainly cross-appeal on the claims she lost. We would therefore be putting at risk the part of the judgment that went our way. Second, the weakness the tribunal identified, namely the absence of any written warning before the dismissal, cannot be cured on appeal. Third, an appeal is likely to take a further eighteen months to two years, with legal fees to match, and interest would continue to run on the award.\n\nOn the other hand, the amount awarded is close to the top of the statutory scale, and there is a reasonable chance that the court of appeal would reduce it. In my view, that prospect does not outweigh the risks.\n\nMy recommendation is therefore to comply with the judgment. If you would nevertheless prefer to explore an appeal, we must instruct counsel by 12 June, as the one-month time limit is strict.\n\nI am of course happy to discuss.\n\nKind regards,\nClaire",
+   "model_us": "Subject: Bertrand judgment - should we appeal?\n\nDear David,\n\nYou asked for my view on whether to appeal last week's judgment. In short, I would advise against it.\n\nAs a reminder, the labor court held that Ms. Bertrand's termination was without real and serious cause and awarded her seven months' salary, together with a contribution toward her legal fees. Her claims for overtime and for unpaid bonus were dismissed.\n\nAn appeal would have three drawbacks. First, the court of appeals rehears the whole case, on the facts as well as the law, and Ms. Bertrand would almost certainly cross-appeal on the claims she lost. We would therefore be putting at risk the part of the judgment that went our way. Second, the weakness the court identified, namely the absence of any written warning before the termination, cannot be cured on appeal. Third, an appeal is likely to take another eighteen months to two years, with legal fees to match, and interest would continue to run on the award.\n\nOn the other hand, the amount awarded is close to the top of the statutory scale, and there is a reasonable chance that the court of appeals would reduce it. In my view, that prospect does not outweigh the risks.\n\nMy recommendation is therefore to comply with the judgment. If you would nevertheless prefer to explore an appeal, we must retain counsel by June 12, as the one-month deadline is strict.\n\nI am of course happy to discuss.\n\nBest regards,\nClaire",
+   "commentary": [
+    {
+     "quote": "In short, I would advise against it.",
+     "note_fr": "La réponse vient dès la deuxième phrase : un décideur anglo-saxon veut la conclusion d'abord, le raisonnement ensuite. « To advise against » = déconseiller."
+    },
+    {
+     "quote": "An appeal would have three drawbacks.",
+     "note_fr": "Annonce du plan en une phrase courte, puis « First », « Second », « Third » : la structure remplace les connecteurs lourds."
+    },
+    {
+     "quote": "the part of the judgment that went our way",
+     "note_fr": "« To go someone's way » = tourner à l'avantage de quelqu'un. Tournure idiomatique qui évite de répéter « dismissed »."
+    },
+    {
+     "quote": "namely the absence of any written warning before the dismissal",
+     "note_fr": "« Namely » (à savoir) introduit la précision. Le fait est énoncé sans chercher de responsable."
+    },
+    {
+     "quote": "with legal fees to match",
+     "note_fr": "« To match » = à l'avenant. Ellipse élégante pour dire que les honoraires seront proportionnels à la durée."
+    },
+    {
+     "quote": "In my view, that prospect does not outweigh the risks.",
+     "note_fr": "On reconnaît l'argument contraire, puis on tranche. « To outweigh » = l'emporter sur : le verbe clé de toute analyse de risque."
+    }
+   ],
+   "checklist": [
+    "Is my advice stated in the first three lines?",
+    "Have I reminded the reader of the decision in two sentences at most?",
+    "Are my reasons numbered and each limited to one idea?",
+    "Have I dealt fairly with the argument for appealing?",
+    "Is the deadline, and what must happen before it, unmistakable?",
+    "Would a non-lawyer understand every sentence?"
+   ],
+   "phrasebank": [
+    "You asked for my view on whether to ...",
+    "In short, I would advise against it.",
+    "As a reminder, the tribunal held that ...",
+    "An appeal would have three drawbacks.",
+    "On the other hand, ...",
+    "In my view, that prospect does not outweigh the risks.",
+    "My recommendation is therefore to ...",
+    "I am of course happy to discuss."
+   ]
+  },
+  {
+   "id": "wr-lt-6",
+   "title": "A settlement offer before the hearing",
+   "stage": 3,
+   "kind": "formal letter",
+   "brief": "You are acting as interim HR Director of Halden Logistics Ltd, the British subsidiary of your client. A former employee, Mr Daniel Hughes, has brought an unfair dismissal claim before the employment tribunal; the hearing is on 9 October. Write to his solicitors proposing a settlement: the company's position, the offer (£14,000 and an agreed reference), what is expected in return, and the date until which the offer stands.",
+   "brief_fr": "Vous assurez l'intérim de la direction RH de Halden Logistics Ltd, filiale britannique de votre client. Un ancien salarié, M. Daniel Hughes, a saisi l'employment tribunal pour licenciement abusif ; l'audience est fixée au 9 octobre. Écrivez à ses avocats pour proposer un accord : position de l'entreprise, offre (14 000 livres et une lettre de référence convenue), contreparties attendues et date limite de validité de l'offre.",
+   "gaps": [],
+   "outline": [
+    "Heading: 'Without prejudice', the parties and the claim",
+    "Reference to the claim and the hearing date",
+    "The Company's position on the merits; why it is nevertheless making an offer; no admission of liability",
+    "The offer and what is expected in return",
+    "Deadline for acceptance and how the settlement would be recorded",
+    "Courteous close"
+   ],
+   "model": "WITHOUT PREJUDICE\n\nDear Sir or Madam,\n\nMr Daniel Hughes v Halden Logistics Ltd - Employment Tribunal claim\n\nWe write further to your client's claim for unfair dismissal, which is listed for a full hearing on 9 October.\n\nThe Company's position remains that Mr Hughes was fairly dismissed following a proper procedure, and it is confident of defending the claim. It recognises, however, that a contested hearing would involve cost, delay and uncertainty for both parties. It is on that basis alone, and without any admission of liability, that we put forward the following proposal.\n\nThe Company is prepared to pay Mr Hughes the sum of £14,000 in full and final settlement of all claims arising from his employment or its termination. It would also provide an agreed reference. In return, Mr Hughes would withdraw his claim, and the parties would undertake to keep the terms of the settlement confidential.\n\nThis offer remains open for acceptance until 4.00 pm on Friday 19 September, after which it will be withdrawn without further notice. Should it be accepted, we would propose that the terms be recorded through Acas in the usual way.\n\nWe look forward to hearing from you.\n\nYours faithfully,\n\nClaire Morel\nInterim HR Director\nHalden Logistics Ltd",
+   "model_us": "CONFIDENTIAL SETTLEMENT COMMUNICATION\n\nDear Ms. Alvarez:\n\nRe: Daniel Hughes v. Halden Logistics, Inc.\n\nI am writing regarding your client's wrongful termination claim, which is set for trial on October 9.\n\nThe Company's position remains that Mr. Hughes was lawfully terminated following a proper process, and it is confident it will prevail. It recognizes, however, that a trial would involve cost, delay and uncertainty for both parties. It is on that basis alone, and without any admission of liability, that we make the following proposal.\n\nThe Company is prepared to pay Mr. Hughes the sum of $18,000 in full and final settlement of all claims arising from his employment or its termination. It would also provide a neutral reference. In return, Mr. Hughes would dismiss his claims with prejudice, and the parties would agree to keep the terms of the settlement confidential.\n\nThis offer will remain open until 5:00 p.m. on Friday, September 19, after which it will be withdrawn without further notice. If it is accepted, we will prepare a written settlement agreement and release for signature.\n\nI look forward to hearing from you.\n\nSincerely,\n\nClaire Morel\nInterim HR Director\nHalden Logistics, Inc.",
+   "commentary": [
+    {
+     "quote": "WITHOUT PREJUDICE",
+     "note_fr": "Mention britannique indispensable sur toute offre transactionnelle : elle interdit en principe de produire la lettre devant le tribunal. Aucun rapport avec « préjudice » ; l'usage américain préfère une mention du type « Confidential settlement communication »."
+    },
+    {
+     "quote": "We write further to your client's claim",
+     "note_fr": "« Further to » = suite à. On écrit aux avocats (« solicitors ») de l'adversaire en parlant de « your client », jamais directement au salarié représenté."
+    },
+    {
+     "quote": "and it is confident of defending the claim",
+     "note_fr": "On réaffirme sa position avant de proposer : une offre ne doit pas se lire comme un aveu de faiblesse. « Confident of » + gérondif."
+    },
+    {
+     "quote": "without any admission of liability",
+     "note_fr": "Formule consacrée : l'offre ne vaut pas reconnaissance de responsabilité. « Liability » (responsabilité juridique) et non « responsibility »."
+    },
+    {
+     "quote": "in full and final settlement of all claims arising from his employment or its termination",
+     "note_fr": "Doublet juridique classique (« full and final ») qui définit l'étendue de la renonciation attendue en contrepartie."
+    },
+    {
+     "quote": "after which it will be withdrawn without further notice",
+     "note_fr": "Une offre a une date d'expiration : la formule crée une échéance sans menace. « Without further notice » = sans autre avis."
+    }
+   ],
+   "checklist": [
+    "Is the letter headed so that it cannot be used against the Company at the hearing?",
+    "Have I restated the Company's position before making the offer?",
+    "Is the offer precise (amount, reference) and is what we expect in return equally precise?",
+    "Is there a clear deadline for acceptance?",
+    "Is the tone firm, courteous and free of any criticism of the claimant?",
+    "Have I addressed the solicitors rather than the claimant himself?"
+   ],
+   "phrasebank": [
+    "We write further to your client's claim for ...",
+    "The Company's position remains that ...",
+    "It recognises, however, that ...",
+    "without any admission of liability",
+    "The Company is prepared to pay the sum of ... in full and final settlement of all claims.",
+    "In return, your client would ...",
+    "This offer remains open for acceptance until ...",
+    "We look forward to hearing from you."
+   ]
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dl-lt-1",
+   "title": "A claim lands on the London desk",
+   "context": "A phone call between Fiona, Head of Employment at the London headquarters of a British group, and Claire, a French HR consultant. A former sales manager in the Paris office has just brought a claim.",
+   "context_fr": "Appel téléphonique entre Fiona, responsable du droit social au siège londonien d'un groupe britannique, et Claire, consultante RH française. Un ancien directeur commercial du bureau de Paris vient de saisir le conseil de prud'hommes.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Fiona",
+     "text": "Claire, hi. I gather we've had a claim from Julien Masson. How worried should I be?",
+     "note_fr": "'I gather' = si j'ai bien compris, j'ai cru comprendre. Très britannique pour introduire une information de seconde main."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not terribly, at this stage. He's challenging his dismissal and asking for unpaid commission. The first hearing is in about six weeks.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Fiona",
+     "text": "Is that the conciliation thing? Our version is all done through Acas before anyone even issues a claim.",
+     "note_fr": "'To issue a claim' = introduire une action (UK). Fiona compare avec l'early conciliation britannique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's right, except that ours happens after the claim is filed, in front of two of the tribunal's judges. It's short and held in private, and very few cases settle there.",
+     "note_fr": "Notez 'except that' pour marquer la différence entre les deux systèmes sans jargon."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "And after that? Will our people have to give evidence? The last time we had a full hearing here, the line manager was cross-examined for a whole day.",
+     "note_fr": "'To give evidence' = témoigner (UK) ; 'cross-examined' = contre-interrogé."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Very unlikely. Witnesses hardly ever appear in person. We'll get written statements from his manager and from the sales director, and the lawyers argue the case on the documents.",
+     "note_fr": "'Hardly ever' = presque jamais. 'On the documents' = sur pièces."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "That's a relief, frankly. What about disclosure? Do we have to hand over his manager's emails?",
+     "note_fr": "Fiona raisonne en droit anglais : la 'disclosure' oblige à révéler les documents défavorables."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not in the way you're used to. Each side produces the documents it wants to rely on. That said, I'd still keep everything - the judges can order us to produce a specific document.",
+     "note_fr": "'That said' = cela dit. Nuance utile pour éviter une fausse impression de sécurité."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "Understood. And the money - is there a ceiling, like our statutory cap?",
+     "note_fr": "'Ceiling' = plafond. Le droit britannique connaît aussi un plafond légal pour l'unfair dismissal."
+    },
+    {
+     "speaker": "Claire",
+     "text": "There is for the dismissal. It's a scale based on length of service, so with six years we're looking at a fairly narrow range. The commission claim isn't capped, though, and that's where I'd focus.",
+     "note_fr": "'We're looking at' = on parle de, on table sur. 'Though' en fin de phrase = pourtant, cependant."
+    },
+    {
+     "speaker": "Fiona",
+     "text": "Right. Could you send me a short note with the timetable and a rough figure? I'll need to flag it to the board.",
+     "note_fr": "'To flag something to someone' = signaler. 'A rough figure' = un ordre de grandeur."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Of course. You'll have it by Friday, and I'll speak to our lawyer about the commission figures in the meantime.",
+     "note_fr": null
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Fiona fear, based on her experience in England?",
+     "options": [
+      "That witnesses will be questioned at length",
+      "That the case will go before a jury",
+      "That the hearing will be public",
+      "That the company will need a barrister"
+     ],
+     "answer": 0,
+     "explain_fr": "Elle évoque le contre-interrogatoire d'un manager pendant une journée entière ; Claire la rassure : les témoins comparaissent rarement en France."
+    },
+    {
+     "q": "According to Claire, what is the main difference regarding documents?",
+     "options": [
+      "The French judges never ask for documents",
+      "Each party chooses the documents it relies on, but a specific document can be ordered",
+      "Everything must be disclosed, as in England",
+      "Only the employee has to produce documents"
+     ],
+     "answer": 1,
+     "explain_fr": "Pas de 'disclosure' à l'anglaise, mais le juge peut ordonner la production d'une pièce précise : d'où le conseil de tout conserver."
+    },
+    {
+     "q": "Why does Claire want to focus on the commission claim?",
+     "options": [
+      "It is time-barred",
+      "It will be decided first",
+      "It is not limited by the scale",
+      "Julien has already withdrawn it"
+     ],
+     "answer": 2,
+     "explain_fr": "'The commission claim isn't capped' : c'est là que se situe le risque financier non plafonné."
+    }
+   ]
+  },
+  {
+   "id": "dl-lt-2",
+   "title": "Should we settle before the hearing?",
+   "context": "A meeting between Rachel, HR Director of a UK company, and Claire, who advises its French subsidiary. A claim in Lille has been heard, but the four judges were split and the case has gone to a tie-breaking judge.",
+   "context_fr": "Réunion entre Rachel, DRH d'une société britannique, et Claire, qui conseille sa filiale française. Une affaire à Lille a été plaidée, mais les quatre conseillers se sont partagés et le dossier part en départage.",
+   "variety": "uk",
+   "lines": [
+    {
+     "speaker": "Rachel",
+     "text": "So, the Lille case. I was rather hoping we'd have a decision by now.",
+     "note_fr": "'I was rather hoping' : understatement britannique pour exprimer une déception."
+    },
+    {
+     "speaker": "Claire",
+     "text": "So was I, I'm afraid. The four judges couldn't agree - two for us, two against - so it's gone to a tie-breaking judge.",
+     "note_fr": "'So was I' = moi aussi (reprise de l'auxiliaire)."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Meaning what, in practice? Another hearing?",
+     "note_fr": "'Meaning what?' : relance orale très naturelle pour demander les conséquences."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Exactly. The case is reheard with a professional judge in the chair. Realistically, we won't see a judgment for another eight or nine months.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Hmm. And in the meantime the legal fees keep ticking over.",
+     "note_fr": "'To tick over' = continuer à tourner, s'accumuler doucement."
+    },
+    {
+     "speaker": "Claire",
+     "text": "They do. Which is why I wanted to raise the idea of settling. The split tells us the judges see some merit in her case.",
+     "note_fr": "'To see some merit in' = trouver un certain bien-fondé à."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Wouldn't an offer look like an admission, though?",
+     "note_fr": "Objection classique ; 'admission' = aveu, reconnaissance de responsabilité."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not if it's handled properly. Our lawyer would make it clear it's without any admission of liability, purely to avoid the cost and uncertainty of another hearing.",
+     "note_fr": "Formule clé : 'without any admission of liability'."
+    },
+    {
+     "speaker": "Rachel",
+     "text": "What sort of figure did you have in mind?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Somewhere around the middle of the statutory range. If we lose, we'd pay more, plus her costs and interest. If we win, we've still spent another year and a good deal of money.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Rachel",
+     "text": "Fair point. Let me run it past the finance director. Could you get the lawyer to sound out the other side informally first?",
+     "note_fr": "'To run something past someone' = soumettre à quelqu'un pour avis. 'To sound out' = sonder."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Yes, I'll ask her to do that this week. She'll keep it off the record until we've agreed a number.",
+     "note_fr": "'Off the record' = officieusement, sans engagement."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Why has there been no judgment yet?",
+     "options": [
+      "The claimant withdrew",
+      "The hearing was postponed by the claimant's lawyer",
+      "The judges were evenly divided",
+      "The case was settled"
+     ],
+     "answer": 2,
+     "explain_fr": "'Two for us, two against' : partage de voix, donc renvoi devant le juge départiteur."
+    },
+    {
+     "q": "What is Rachel's concern about making an offer?",
+     "options": [
+      "It might be seen as admitting fault",
+      "It is not allowed in France",
+      "It would be too expensive",
+      "The judge must approve it first"
+     ],
+     "answer": 0,
+     "explain_fr": "'Wouldn't an offer look like an admission?' ; Claire répond qu'elle sera faite sans reconnaissance de responsabilité."
+    },
+    {
+     "q": "What will happen next?",
+     "options": [
+      "Claire will make a formal offer immediately",
+      "The lawyer will informally test the other side's position",
+      "Rachel will appeal",
+      "The finance director will meet the claimant"
+     ],
+     "answer": 1,
+     "explain_fr": "'Sound out the other side informally' : démarche exploratoire, 'off the record', avant toute offre chiffrée."
+    }
+   ]
+  },
+  {
+   "id": "dl-lt-3",
+   "title": "Why there's no discovery in France",
+   "context": "A video call between Brian, Associate General Counsel at a US group, and Claire. Brian is preparing for a dispute with a former manager of the French subsidiary and assumes it will work as it does in the US.",
+   "context_fr": "Visioconférence entre Brian, juriste senior au sein d'un groupe américain, et Claire. Brian prépare un litige avec un ancien cadre de la filiale française et suppose que tout se déroulera comme aux États-Unis.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Brian",
+     "text": "Okay, Claire, walk me through it. When do we get to depose the plaintiff?",
+     "note_fr": "'Walk me through it' = expliquez-moi étape par étape. 'To depose' = interroger sous serment avant le procès."
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's the thing, Brian - you don't. There are no depositions in France, and no discovery either.",
+     "note_fr": "'That's the thing' = justement, c'est là le point."
+    },
+    {
+     "speaker": "Brian",
+     "text": "Wait, none at all? So how do you find out what the other side has?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "You find out when they produce it. Each party files written submissions and the exhibits it wants to rely on, and the other side replies. The judges can order a specific document, but nobody goes on a fishing expedition.",
+     "note_fr": "'Fishing expedition' = recherche de preuves tous azimuts, expression américaine courante dans le contexte de la discovery."
+    },
+    {
+     "speaker": "Brian",
+     "text": "Huh. That actually cuts both ways. They can't get our internal emails either, right?",
+     "note_fr": "'To cut both ways' = être à double tranchant."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Not unless they already have them, or the court orders them. Which is why I'd still put a litigation hold in place. If a judge asks for something, we need to be able to produce it.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Brian",
+     "text": "Sure, we'll do that anyway. What about a jury? Is there any risk of a runaway verdict?",
+     "note_fr": "'Runaway verdict' = verdict de jury démesuré, imprévisible."
+    },
+    {
+     "speaker": "Claire",
+     "text": "None. The case is decided by four lay judges, two from management and two from labor. And damages for the termination are capped by a statutory scale.",
+     "note_fr": "Claire adapte son vocabulaire : 'management' et 'labor' parlent davantage à un Américain."
+    },
+    {
+     "speaker": "Brian",
+     "text": "Capped? That's a first. And no punitive damages, I'm guessing?",
+     "note_fr": "'That's a first' = c'est une première."
+    },
+    {
+     "speaker": "Claire",
+     "text": "You're guessing right. The flip side is time. Between the first hearing and an appeal, you can be looking at two or three years.",
+     "note_fr": "'The flip side' = le revers de la médaille."
+    },
+    {
+     "speaker": "Brian",
+     "text": "Got it. Can you put together a one-pager on the process so I can brief the GC?",
+     "note_fr": "'A one-pager' = une note d'une page. 'The GC' = General Counsel, directeur juridique."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Sure. I'll have it to you by tomorrow morning, your time.",
+     "note_fr": "'Your time' : précision utile entre fuseaux horaires."
+    }
+   ],
+   "questions": [
+    {
+     "q": "What surprises Brian most at the start?",
+     "options": [
+      "That there are no depositions or discovery",
+      "That the case will be heard in English",
+      "That he must hire a barrister",
+      "That the plaintiff has no lawyer"
+     ],
+     "answer": 0,
+     "explain_fr": "Il demande quand ils pourront 'depose the plaintiff' ; Claire répond qu'il n'y a ni deposition ni discovery en France."
+    },
+    {
+     "q": "Why does Claire still recommend a litigation hold?",
+     "options": [
+      "Because French law requires one in every case",
+      "Because the jury will expect it",
+      "Because the plaintiff has asked for it",
+      "Because a judge may order a specific document"
+     ],
+     "answer": 3,
+     "explain_fr": "'If a judge asks for something, we need to be able to produce it' : le juge peut ordonner la production d'une pièce précise."
+    },
+    {
+     "q": "What does Claire mention as the downside of the French system for the employer?",
+     "options": [
+      "High jury awards",
+      "The length of the proceedings",
+      "Punitive damages",
+      "Mandatory arbitration"
+     ],
+     "answer": 1,
+     "explain_fr": "'The flip side is time' : deux à trois ans entre la première audience et l'appel."
+    }
+   ]
+  },
+  {
+   "id": "dl-lt-4",
+   "title": "Preparing a manager for a deposition",
+   "context": "Claire, who handles HR for a French company's US subsidiary, talks to Jen, an operations manager in Ohio who has been told she will be deposed in a former employee's lawsuit.",
+   "context_fr": "Claire, qui gère les RH de la filiale américaine d'un groupe français, parle avec Jen, responsable des opérations dans l'Ohio, qui va être interrogée sous serment (deposition) dans le procès intenté par un ancien salarié.",
+   "variety": "us",
+   "lines": [
+    {
+     "speaker": "Jen",
+     "text": "So I got the notice for the deposition. Honestly, I'm kind of nervous. What am I walking into?",
+     "note_fr": "'What am I walking into?' = à quoi dois-je m'attendre ?"
+    },
+    {
+     "speaker": "Claire",
+     "text": "That's completely normal. It's basically a long interview under oath, at the plaintiff's lawyer's office. Our attorney will be right there with you, and there's a court reporter typing everything up.",
+     "note_fr": "'Under oath' = sous serment. 'Court reporter' = sténographe."
+    },
+    {
+     "speaker": "Jen",
+     "text": "Is there a judge?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "No judge, no jury. But what you say can be used at trial, so it matters just as much.",
+     "note_fr": null
+    },
+    {
+     "speaker": "Jen",
+     "text": "Okay. What if they ask me something and I don't remember?",
+     "note_fr": "Question fréquente : la réponse honnête 'I don't recall' est légitime."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Then you say you don't remember. Don't guess, and don't fill the silence. Listen to the question, pause, answer just that question, and stop.",
+     "note_fr": "Conseils classiques de préparation : 'don't guess', 'don't volunteer'."
+    },
+    {
+     "speaker": "Jen",
+     "text": "That's going to be hard. I tend to over-explain.",
+     "note_fr": "'To over-explain' = trop en dire, se justifier à l'excès."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Most people do. That's why our attorney wants to do a practice session with you next week. She'll play the other side and push you a bit.",
+     "note_fr": "'To push someone' = mettre quelqu'un sous pression."
+    },
+    {
+     "speaker": "Jen",
+     "text": "Should I go back through my emails about him beforehand?",
+     "note_fr": null
+    },
+    {
+     "speaker": "Claire",
+     "text": "Only with the attorney. Anything you review to refresh your memory could be asked about, so let her decide what you look at. And please don't delete a thing - we're under a litigation hold.",
+     "note_fr": "Point important : les documents consultés pour préparer le témoignage peuvent devoir être communiqués."
+    },
+    {
+     "speaker": "Jen",
+     "text": "Got it. Practice session next week, and no homework on my own.",
+     "note_fr": "'No homework on my own' : reformulation familière pour confirmer qu'elle a compris."
+    },
+    {
+     "speaker": "Claire",
+     "text": "Exactly. And Jen - just tell the truth. That's the one thing nobody can trip you up on.",
+     "note_fr": "'To trip someone up' = faire trébucher, piéger."
+    }
+   ],
+   "questions": [
+    {
+     "q": "Where will the deposition take place?",
+     "options": [
+      "In a courtroom before a judge",
+      "At the plaintiff's lawyer's office",
+      "At Jen's workplace",
+      "By written questionnaire"
+     ],
+     "answer": 1,
+     "explain_fr": "'At the plaintiff's lawyer's office', sans juge ni jury, mais sous serment."
+    },
+    {
+     "q": "What should Jen do if she doesn't remember something?",
+     "options": [
+      "Give her best guess",
+      "Ask the court reporter",
+      "Say she doesn't remember",
+      "Refuse to answer"
+     ],
+     "answer": 2,
+     "explain_fr": "'Then you say you don't remember. Don't guess' : ne jamais improviser une réponse."
+    },
+    {
+     "q": "Why shouldn't Jen review her emails alone?",
+     "options": [
+      "Documents reviewed to prepare could be asked about",
+      "She is not allowed to read her own emails",
+      "The emails have been deleted",
+      "The judge has forbidden it"
+     ],
+     "answer": 0,
+     "explain_fr": "'Anything you review to refresh your memory could be asked about' : l'avocate doit choisir les documents consultés."
+    }
+   ]
+  }
+ ],
+ "roleplays": [
+  {
+   "id": "rp-lt-1",
+   "title": "Explaining the conseil de prud'hommes to a US CEO",
+   "situation": "You are on a call with Greg, CEO of a US company whose French subsidiary has just received its first employment claim. He has never dealt with French litigation and wants to know what is going to happen.",
+   "situation_fr": "Vous êtes en ligne avec Greg, PDG d'une société américaine dont la filiale française vient de recevoir sa première requête prud'homale. Il ne connaît rien au contentieux français et veut savoir ce qui va se passer.",
+   "turns": [
+    {
+     "say": "So we got sued in France. Who's going to decide this - a judge, a jury?",
+     "seconds": 35,
+     "model": "Neither, strictly speaking. The case goes to the labor court, the conseil de prud'hommes, where the judges are lay people - two from the employers' side and two from the employees' side. There's no jury at all.",
+     "tips_fr": "Répondez d'abord à la question posée ('Neither'), puis donnez le nom français une seule fois, glosé. 'Labor court' parle davantage à un Américain qu'« employment tribunal »."
+    },
+    {
+     "say": "Lay people? So not real judges? That sounds a bit random.",
+     "seconds": 35,
+     "model": "I understand why it sounds that way, but they're experienced and they know how companies work. And if the four of them can't agree, a professional judge is brought in to break the tie.",
+     "tips_fr": "Accueillez la réaction ('I understand why it sounds that way') avant de rectifier. Mentionnez le départage pour rassurer sur le professionnalisme du système."
+    },
+    {
+     "say": "Okay. How long until we know where we stand?",
+     "seconds": 30,
+     "model": "Realistically, a year or so for a first decision, and longer if either side appeals. The first step is a short conciliation hearing in a few weeks, but very few cases settle there.",
+     "tips_fr": "Donnez un ordre de grandeur honnête ('realistically') plutôt qu'une date. Annoncez l'étape suivante pour donner un repère concret."
+    },
+    {
+     "say": "And what's this going to cost us if we lose?",
+     "seconds": 40,
+     "model": "For the dismissal itself, damages are capped by a statutory scale based on length of service, so we can put a range on it. There's no punitive damages system. On top of that, there'd be our legal fees and usually a contribution to the employee's.",
+     "tips_fr": "'We can put a range on it' = on peut chiffrer une fourchette. Distinguez clairement ce qui est plafonné et ce qui s'ajoute."
+    },
+    {
+     "say": "Should we just pay him off now and make it go away?",
+     "seconds": 40,
+     "model": "It's worth considering, but I wouldn't rush. Let's first get the lawyer's view on the merits and a figure for our exposure. If settling is cheaper than fighting, we can make an offer, and the conciliation hearing is a natural moment to do it.",
+     "tips_fr": "'It's worth considering, but I wouldn't rush' : acquiescement nuancé. Proposez une démarche en étapes plutôt qu'un oui ou un non."
+    }
+   ]
+  },
+  {
+   "id": "rp-lt-2",
+   "title": "Preparing a line manager for the hearing",
+   "situation": "You meet Sophie, a French line manager who dismissed a team member last year. She has been asked for a witness statement and is anxious about the proceedings. Some of her colleagues are British and have told her stories about English tribunals.",
+   "situation_fr": "Vous rencontrez Sophie, manager française qui a licencié un collaborateur l'an dernier. On lui demande une attestation et la procédure l'inquiète. Ses collègues britanniques lui ont raconté des histoires sur les tribunaux anglais. (L'échange se fait en anglais, langue de travail du groupe.)",
+   "turns": [
+    {
+     "say": "My UK colleagues say I'll be questioned for hours by his lawyer. Is that true?",
+     "seconds": 30,
+     "model": "Not here, no. That's how it works in the UK, but in France witnesses very rarely appear in person. The judges read your written statement, and the lawyers argue the case on the documents.",
+     "tips_fr": "Rassurez immédiatement ('Not here, no'), puis expliquez la différence. Évitez les termes trop techniques comme 'cross-examination' avec une non-juriste."
+    },
+    {
+     "say": "What exactly should I put in the statement?",
+     "seconds": 35,
+     "model": "Only what you saw and heard yourself: the dates of your meetings with him, what was said, the objectives you set. Stick to facts and leave out opinions or anything you heard second-hand.",
+     "tips_fr": "'Stick to facts', 'leave out opinions' : consignes simples et mémorisables. 'Second-hand' = par ouï-dire."
+    },
+    {
+     "say": "Can I say that I think he was lazy? Because honestly, he was.",
+     "seconds": 30,
+     "model": "I'd steer clear of that. A judgment like 'lazy' won't help and could look personal. It's far more convincing to say that he missed four deadlines in three months and give the dates.",
+     "tips_fr": "'I'd steer clear of that' = j'éviterais. Remplacez le jugement par un fait précis : c'est la meilleure pédagogie."
+    },
+    {
+     "say": "And what if the statement isn't enough and we lose?",
+     "seconds": 35,
+     "model": "Then it won't be because of your statement. The judges look at the whole file, and the company decides what to do next, including whether to appeal. Your job is simply to be accurate.",
+     "tips_fr": "Déchargez le témoin d'une responsabilité qui n'est pas la sienne. Phrase finale courte et rassurante."
+    },
+    {
+     "say": "Okay. Is there anything I shouldn't do from now on?",
+     "seconds": 30,
+     "model": "Two things. Please don't delete any emails or messages about him, and don't discuss the case with the team or with him directly. If anyone asks, just say it's with the lawyers.",
+     "tips_fr": "Annoncez le nombre de consignes ('Two things') : structure claire à l'oral."
+    }
+   ]
+  },
+  {
+   "id": "rp-lt-3",
+   "title": "Negotiating with the claimant's lawyer before the hearing",
+   "situation": "You represent the employer, alongside its lawyer, in an informal call with Mr Barnes, the solicitor of a British employee of the French subsidiary who is suing. He is fishing for a settlement figure.",
+   "situation_fr": "Vous représentez l'employeur, aux côtés de son avocat, lors d'un appel informel avec M. Barnes, solicitor d'un salarié britannique de la filiale française qui l'attaque. Il cherche à obtenir un chiffre de règlement.",
+   "turns": [
+    {
+     "say": "Thanks for making the time. My client is open to a sensible resolution, but frankly your case on the dismissal looks thin.",
+     "seconds": 35,
+     "model": "Thank you for calling. We're open to talking, but I don't share your view of the merits. The reasons for the dismissal are well documented, and our lawyer is confident of defending the claim.",
+     "tips_fr": "Accueil cordial, puis désaccord net mais sans agressivité ('I don't share your view'). Ne laissez pas passer une affirmation sans la contester."
+    },
+    {
+     "say": "Even so, your exposure under the scale is real. What figure did you have in mind?",
+     "seconds": 35,
+     "model": "I'd rather hear your client's expectations first. Once we know what he's looking for, we can see whether there's any common ground.",
+     "tips_fr": "Ne donnez pas le premier chiffre. 'Common ground' = terrain d'entente."
+    },
+    {
+     "say": "He'd settle for twelve months' salary. That's below what he'd get if he wins on everything.",
+     "seconds": 40,
+     "model": "I'm afraid that's well above anything we could consider. Twelve months is close to the top of the scale for his length of service, and it assumes he wins on every point, which we don't accept.",
+     "tips_fr": "'I'm afraid that's well above anything we could consider' : refus ferme et poli. Justifiez par le barème, pas par l'émotion."
+    },
+    {
+     "say": "So what would you consider?",
+     "seconds": 40,
+     "model": "Without any admission of liability, and subject to my client's approval, we could look at something in the region of four months' salary, in full and final settlement of all his claims.",
+     "tips_fr": "Formules protectrices indispensables : 'without any admission of liability', 'subject to approval', 'in full and final settlement'. 'In the region of' = de l'ordre de."
+    },
+    {
+     "say": "That's a long way off. I'll have to take instructions.",
+     "seconds": 30,
+     "model": "Of course. Take the time you need. I'd suggest we speak again before the end of next week, as it would make sense to resolve this before the hearing date.",
+     "tips_fr": "'To take instructions' = consulter son client. Fixez une échéance pour garder la main sur le calendrier."
+    }
+   ]
+  },
+  {
+   "id": "rp-lt-4",
+   "title": "Explaining an appeal to a British finance director",
+   "situation": "The company has lost at first instance in France. You are speaking to Martin, the group finance director in London, who wants to know whether an appeal stops payment and how long it would take.",
+   "situation_fr": "L'entreprise a perdu en première instance en France. Vous parlez avec Martin, directeur financier du groupe à Londres, qui veut savoir si un appel suspend le paiement et combien de temps il durerait.",
+   "turns": [
+    {
+     "say": "If we appeal, presumably we don't have to pay anything until it's all over?",
+     "seconds": 35,
+     "model": "Not necessarily, I'm afraid. Some parts of the judgment, the salary arrears in particular, are provisionally enforceable, which means we have to pay them now, appeal or no appeal. If we win, we can claim the money back.",
+     "tips_fr": "Corrigez une hypothèse erronée avec 'Not necessarily, I'm afraid'. 'Appeal or no appeal' = que l'on fasse appel ou non."
+    },
+    {
+     "say": "That's rather different from what I'm used to. How long would an appeal take?",
+     "seconds": 30,
+     "model": "Typically somewhere between eighteen months and two years, depending on the court of appeal. And it's a full rehearing, so the facts are looked at again, not just the law.",
+     "tips_fr": "Donnez une fourchette et signalez la différence majeure avec le système anglais (rejugement complet)."
+    },
+    {
+     "say": "So the employee could end up with more?",
+     "seconds": 35,
+     "model": "Yes, that's the risk. He would almost certainly cross-appeal on the claims he lost, and the court could increase the award as well as reduce it.",
+     "tips_fr": "'To cross-appeal' = former un appel incident. Soyez direct sur le risque : un directeur financier apprécie la clarté."
+    },
+    {
+     "say": "And after that, is there a further appeal?",
+     "seconds": 30,
+     "model": "There's a final appeal to the Cour de cassation, the French Supreme Court, but only on points of law. It doesn't rehear the facts, and it doesn't normally stop the judgment from being enforced.",
+     "tips_fr": "Glosez le nom français. 'Only on points of law' est la notion clé pour un public anglais."
+    },
+    {
+     "say": "Right. What do I need to put in the accounts?",
+     "seconds": 35,
+     "model": "I'd make a provision for the amount awarded, less what we pay now, plus a margin for interest and legal fees. I'll send you the figures with our lawyer's view on the prospects of an appeal by Friday.",
+     "tips_fr": "'To make a provision for' = provisionner. Terminez par une action concrète et une échéance."
+    }
+   ]
+  }
+ ],
+ "functional": [
+  {
+   "function": "Assessing the strength of a case",
+   "function_fr": "Évaluer les chances de succès d'un dossier",
+   "phrases": [
+    {
+     "text": "In our view, the Company has good prospects of success on this point.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "We believe the Company has a strong likelihood of prevailing on this claim.",
+     "register": "formal",
+     "variety": "us"
+    },
+    {
+     "text": "I think we've got a reasonably strong case on the dismissal itself.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "The overtime claim is where we're most exposed.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Without the appraisals, we're on fairly shaky ground.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Honestly, it could go either way.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "It's a fifty-fifty call at best.",
+     "register": "informal",
+     "variety": "us"
+    },
+    {
+     "text": "On the evidence as it stands, the claim appears to have little merit.",
+     "register": "formal",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Explaining a procedural step and its timing",
+   "function_fr": "Expliquer une étape de la procédure et son calendrier",
+   "phrases": [
+    {
+     "text": "The matter has been listed for a full hearing on 18 November.",
+     "register": "formal",
+     "variety": "uk"
+    },
+    {
+     "text": "The case has been set for trial on November 18.",
+     "register": "formal",
+     "variety": "us"
+    },
+    {
+     "text": "The next step is the conciliation hearing, which is essentially an attempt to get both sides to settle.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Realistically, we won't see a judgment before the spring.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Our submissions are due by the end of June, and theirs by September.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "Judgment has been reserved and is expected within two months.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "It's going to drag on for a while, I'm afraid.",
+     "register": "informal",
+     "variety": "both"
+    },
+    {
+     "text": "If they appeal, add another eighteen months or so.",
+     "register": "everyday",
+     "variety": "both"
+    }
+   ]
+  },
+  {
+   "function": "Opening and conducting settlement talks",
+   "function_fr": "Ouvrir et mener une discussion transactionnelle",
+   "phrases": [
+    {
+     "text": "Without any admission of liability, the Company would be prepared to consider a settlement.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Would your client be open to resolving this before the hearing?",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "I'd rather hear your client's expectations first.",
+     "register": "everyday",
+     "variety": "both"
+    },
+    {
+     "text": "That's well above anything we could consider, I'm afraid.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "That number doesn't work for us.",
+     "register": "everyday",
+     "variety": "us"
+    },
+    {
+     "text": "We could look at something in the region of four months' salary.",
+     "register": "everyday",
+     "variety": "uk"
+    },
+    {
+     "text": "This offer remains open until Friday, after which it will be withdrawn.",
+     "register": "formal",
+     "variety": "both"
+    },
+    {
+     "text": "Let's see if we can find some middle ground.",
+     "register": "informal",
+     "variety": "both"
+    }
+   ]
+  }
+ ]
+}
