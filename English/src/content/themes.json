@@ -84,6 +84,24 @@
   "blurb": "Employee data, monitoring and access requests."
  },
  {
+  "id": "admin",
+  "title": "HR administration, payroll and compliance",
+  "title_fr": "Administration du personnel, paie et conformité",
+  "blurb": "Personnel files, HRIS, payroll controls, mandatory reporting, audits and the authorities."
+ },
+ {
+  "id": "global",
+  "title": "International mobility and global HR",
+  "title_fr": "Mobilité internationale et RH à l'international",
+  "blurb": "Expatriation, secondment, immigration, cross-border payroll and working with a foreign group."
+ },
+ {
+  "id": "wellbeing",
+  "title": "Wellbeing, engagement and CSR",
+  "title_fr": "QVCT, engagement, communication interne et RSE",
+  "blurb": "Quality of working life, engagement, internal communication and the social side of CSR."
+ },
+ {
   "id": "careers",
   "title": "Training and careers",
   "title_fr": "Formation et carrières",
