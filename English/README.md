@@ -7,11 +7,27 @@ geste, palette bleu poudré, modes clair et sombre.
 
 ## Où en est-on
 
-**Version 0.3** : dix-huit thèmes, 1 800 expressions, correction en ligne.
+**Version 0.4** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
+correction en ligne, habillage refondu.
 
 | Thèmes | Contenu par thème |
 |---|---|
 | Contrat de travail · Relations collectives · Restructurations et plan social · Transformations et M&A · Stratégie RH et conseil aux managers · Discipline et licenciement · Ruptures négociées · Contentieux · Recrutement · Rémunération · Temps de travail · Santé et sécurité · Discrimination et harcèlement · Protection des données · Administration, paie et conformité · Mobilité internationale · QVCT, engagement et RSE · Formation et carrières | 100 expressions en trois niveaux (registres soutenu, courant, familier ; UK / US ; phonétique ; pièges), 4 documents à lire, 6 sujets d'écrit avec corrigés commentés, 4 dialogues, 4 jeux de rôle, 3 familles de formules propres au thème |
+
+Apports de la version 0.4 :
+
+- **Grammaire** : 24 leçons en quatre filières (pièges des francophones,
+  registre juridique, finitions, conventions d'écriture), 276 exercices,
+  entraînement mixte, « Spot the mistake », erreurs mémorisées et à refaire.
+- **Exercices** : appariement, remise en ordre de phrases, écoute, sens
+  anglais vers français, tolérance aux fautes de frappe, récapitulatif des
+  erreurs en fin de séance, raccourcis clavier (1 à 4, Entrée).
+- **Séance du jour** : révisions dues, expressions nouvelles, grammaire et mots
+  de liaison en une dizaine de minutes.
+- **Recherche** dans les 1 800 expressions (anglais ou français), favoris,
+  expression du jour, semaine d'activité, annonce des mises à jour.
+- **Habillage** : police Newsreader embarquée (licence OFL, `src/fonts/`), barre
+  d'onglets flottante, thèmes regroupés et illustrés, modes clair et sombre.
 
 Communs à tous les thèmes : mots de liaison, formules d'atténuation, marqueurs
 de l'oral, rythme de la phrase, grammaire, prononciation, chiffres et dates,

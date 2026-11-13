@@ -1,0 +1,2286 @@
+[
+ {
+  "id": "gr-future",
+  "track": "intermediate",
+  "title": "Talking about the future",
+  "title_fr": "Parler du futur",
+  "points": [
+   {
+    "rule": "Use 'will' for a decision made as you speak, a promise or a prediction; use 'going to' for something already decided or clearly on its way.",
+    "rule_fr": "'Will' exprime une décision prise sur le moment, une promesse ou une prévision ; 'going to' une intention déjà arrêtée ou un événement que l'on voit venir. Piège : le présent français à valeur de futur ('je vous l'envoie demain') ne se calque pas.",
+    "examples": [
+     {
+      "wrong": "I send you the draft agreement tomorrow.",
+      "right": "I [[will send]] you the draft agreement tomorrow.",
+      "note_fr": "Promesse ou décision : 'will' (à l'oral 'I'll send'), jamais le présent simple."
+     },
+     {
+      "wrong": null,
+      "right": "Leave it with me: [[I'll call]] the union rep this afternoon.",
+      "note_fr": "Décision prise à l'instant : 'will', presque toujours contracté à l'oral."
+     },
+     {
+      "wrong": null,
+      "right": "We [[are going to restructure]] the payroll team next year.",
+      "note_fr": "Décision déjà prise avant de parler : 'going to'."
+     }
+    ]
+   },
+   {
+    "rule": "Use the present continuous for a fixed arrangement with other people, and the present simple for timetables and official calendars.",
+    "rule_fr": "Le présent continu annonce un rendez-vous ou un arrangement déjà fixé (c'est dans l'agenda) ; le présent simple sert pour les horaires et calendriers officiels. Piège : 'What do you do tomorrow?' ne veut rien dire, et 'What do you do?' signifie 'Quel est votre métier ?'.",
+    "examples": [
+     {
+      "wrong": "What do you do tomorrow afternoon?",
+      "right": "What [[are you doing]] tomorrow afternoon?",
+      "note_fr": "Projet personnel déjà organisé : présent continu."
+     },
+     {
+      "wrong": null,
+      "right": "I [[am meeting]] the works council at ten tomorrow.",
+      "note_fr": "Rendez-vous fixé avec d'autres personnes : présent continu."
+     },
+     {
+      "wrong": null,
+      "right": "The consultation period [[ends]] on 30 June.",
+      "note_fr": "Échéance d'un calendrier officiel : présent simple."
+     }
+    ]
+   },
+   {
+    "rule": "After when, as soon as, until, once, before and after, use a present tense to talk about the future, never 'will'.",
+    "rule_fr": "Après when, as soon as, until, once, before, after, le futur s'exprime au présent (ou au present perfect pour marquer l'antériorité), jamais avec 'will'. C'est le piège classique : 'quand j'aurai', 'dès que le conseil approuvera'.",
+    "examples": [
+     {
+      "wrong": "I will call you when I will have the figures.",
+      "right": "I will call you when I [[have]] the figures.",
+      "note_fr": "'Quand j'aurai' = 'when I have' : pas de 'will' dans la subordonnée de temps."
+     },
+     {
+      "wrong": "As soon as the board will approve the plan, we will inform the unions.",
+      "right": "As soon as the board [[approves]] the plan, we will inform the unions.",
+      "note_fr": "'Will' seulement dans la proposition principale."
+     },
+     {
+      "wrong": "We cannot make an offer until we will have received his references.",
+      "right": "We cannot make an offer until we [[have received]] his references.",
+      "note_fr": "Le futur antérieur français devient un present perfect."
+     }
+    ]
+   },
+   {
+    "rule": "In an if-clause about a real future possibility, use the present simple; 'will' belongs in the main clause. The same goes for 'unless'.",
+    "rule_fr": "Dans la subordonnée en 'if' (ou 'unless') qui exprime une condition réelle, on emploie le présent simple ; 'will' reste dans la principale. Seule exception : 'if you will...' au sens de 'si vous voulez bien', formule de politesse.",
+    "examples": [
+     {
+      "wrong": "If she will accept the offer, she will start in March.",
+      "right": "If she [[accepts]] the offer, she will start in March.",
+      "note_fr": "Condition : présent simple après 'if'."
+     },
+     {
+      "wrong": "Unless the union will agree, the new shift pattern will not start in May.",
+      "right": "Unless the union [[agrees]], the new shift pattern will not start in May.",
+      "note_fr": "'Unless' (= if... not) suit la même règle."
+     },
+     {
+      "wrong": null,
+      "right": "[[If you will]] take a seat, I will let the panel know you are here.",
+      "note_fr": "Ici 'will' = 'vouloir bien' : politesse soutenue, pas un futur."
+     }
+    ]
+   },
+   {
+    "rule": "Use the future perfect (will have + past participle) for something that will be finished before a future deadline; 'by the time' is followed by a present tense.",
+    "rule_fr": "Le future perfect (will have + participe passé) désigne ce qui sera terminé avant une échéance future, souvent avec 'by'. 'By the time' (= d'ici à ce que, le temps que) est suivi du présent, pas de 'will'.",
+    "examples": [
+     {
+      "wrong": "By the time the new director will arrive, we will finish the audit.",
+      "right": "By the time the new director arrives, we [[will have finished]] the audit.",
+      "note_fr": "Présent après 'by the time' ; future perfect pour l'action achevée avant."
+     },
+     {
+      "wrong": null,
+      "right": "We [[will have completed]] the consultation by the end of the quarter.",
+      "note_fr": "Échéance : 'by' + date, et future perfect pour le résultat acquis."
+     },
+     {
+      "wrong": null,
+      "right": "By Friday, she [[will have been]] on sick leave for six months.",
+      "note_fr": "Durée mesurée à une date future : future perfect + 'for'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "I'll send you the signed contract as soon as the candidate ___ it.",
+    "options": [
+     "will return",
+     "returns",
+     "is going to return",
+     "would return"
+    ],
+    "answer": 1,
+    "explain_fr": "Après 'as soon as', présent simple pour le futur : jamais 'will'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "What ___ on Friday afternoon? I'd like to set up a call with the US office.",
+    "options": [
+     "do you do",
+     "you are doing",
+     "are you doing",
+     "will you"
+    ],
+    "answer": 2,
+    "explain_fr": "On interroge sur un emploi du temps déjà organisé : présent continu, avec inversion."
+   },
+   {
+    "type": "mcq",
+    "prompt": "If the union ___ the proposal, we will go back to the negotiating table.",
+    "options": [
+     "rejects",
+     "will reject",
+     "would reject",
+     "rejected"
+    ],
+    "answer": 0,
+    "explain_fr": "Condition réelle : présent simple après 'if', 'will' dans la principale."
+   },
+   {
+    "type": "mcq",
+    "prompt": "By the time the new HR system goes live in May, all line managers ___ their training.",
+    "options": [
+     "complete",
+     "are completing",
+     "would complete",
+     "will have completed"
+    ],
+    "answer": 3,
+    "explain_fr": "Action achevée avant un moment futur : future perfect."
+   },
+   {
+    "type": "mcq",
+    "prompt": "We have already decided: we ___ the vacancy internally first.",
+    "options": [
+     "advertise",
+     "will have advertised",
+     "are going to advertise",
+     "would advertise"
+    ],
+    "answer": 2,
+    "explain_fr": "Décision déjà prise : 'going to'."
+   },
+   {
+    "type": "gap",
+    "prompt": "We will confirm the start date once the background check ___ (come) back.",
+    "answer": "comes",
+    "accept": [
+     "has come"
+    ],
+    "explain_fr": "Après 'once', présent simple (ou present perfect), pas de 'will'."
+   },
+   {
+    "type": "gap",
+    "prompt": "Please don't sign anything until I ___ (speak) to our employment lawyer.",
+    "answer": "have spoken",
+    "accept": [
+     "speak",
+     "'ve spoken"
+    ],
+    "explain_fr": "Après 'until', present perfect ou présent simple pour une action future."
+   },
+   {
+    "type": "gap",
+    "prompt": "By the end of next month, she ___ (work) here for twenty years.",
+    "answer": "will have worked",
+    "accept": [
+     "will have been working",
+     "'ll have worked",
+     "'ll have been working"
+    ],
+    "explain_fr": "Bilan à une date future : future perfect (simple ou continu) + 'for'."
+   },
+   {
+    "type": "gap",
+    "prompt": "I can't do Tuesday morning: I ___ (interview) candidates until noon.",
+    "answer": "am interviewing",
+    "accept": [
+     "'m interviewing",
+     "will be interviewing",
+     "'ll be interviewing"
+    ],
+    "explain_fr": "Arrangement déjà fixé dans l'agenda : présent continu (le futur continu est également possible)."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'When the CEO will sign the agreement, we will announce it to staff.'",
+    "answer": "When the CEO signs the agreement, we will announce it to staff.",
+    "accept": [
+     "When the CEO has signed the agreement, we will announce it to staff.",
+     "When the CEO signs the agreement, we'll announce it to staff.",
+     "When the CEO has signed the agreement, we'll announce it to staff."
+    ],
+    "explain_fr": "Pas de 'will' après 'when' : présent simple ou present perfect."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Join the two sentences with 'as soon as': 'The doctor will issue the certificate. We will then update her file.'",
+    "answer": "As soon as the doctor issues the certificate, we will update her file.",
+    "accept": [
+     "We will update her file as soon as the doctor issues the certificate.",
+     "As soon as the doctor has issued the certificate, we will update her file.",
+     "We will update her file as soon as the doctor has issued the certificate.",
+     "As soon as the doctor issues the certificate, we'll update her file."
+    ],
+    "explain_fr": "Présent (ou present perfect) après 'as soon as' ; 'will' dans la principale uniquement."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite with 'By the time' and the future perfect: 'The audit will finish first; the new director will arrive after that.'",
+    "answer": "By the time the new director arrives, the audit will have finished.",
+    "accept": [
+     "By the time the new director arrives, we will have finished the audit.",
+     "The audit will have finished by the time the new director arrives.",
+     "By the time the new director arrives, the audit will have been finished."
+    ],
+    "explain_fr": "'By the time' + présent, puis future perfect pour ce qui sera déjà terminé."
+   }
+  ]
+ },
+ {
+  "id": "gr-time-prep",
+  "track": "intermediate",
+  "title": "Time words and prepositions",
+  "title_fr": "Les marqueurs de temps et leurs prépositions",
+  "points": [
+   {
+    "rule": "'For' gives a length of time, 'since' a starting point, 'during' says when something happens (+ noun), and 'ago' counts back from now and follows the period.",
+    "rule_fr": "'For' + durée, 'since' + point de départ, 'during' + nom d'événement ou de période (il répond à 'quand ?', jamais à 'combien de temps ?'), 'ago' placé après la durée, avec le prétérit. Pièges : 'depuis deux mois' = 'for two months' ; 'pendant cinq ans' = 'for five years' ; 'il y a trois semaines' = 'three weeks ago'.",
+    "examples": [
+     {
+      "wrong": "He has been off sick since two months.",
+      "right": "He has been off sick [[for]] two months.",
+      "note_fr": "Durée : 'for'. 'Since' exige un point de départ ('since March')."
+     },
+     {
+      "wrong": "She worked in our Lyon office during five years.",
+      "right": "She worked in our Lyon office [[for]] five years.",
+      "note_fr": "'Pendant' + durée = 'for' ; 'during' + nom : 'during the merger'."
+     },
+     {
+      "wrong": "The claim was filed there is three weeks.",
+      "right": "The claim was filed three weeks [[ago]].",
+      "note_fr": "'Il y a' temporel = 'ago', après la durée, avec le prétérit."
+     }
+    ]
+   },
+   {
+    "rule": "'By' sets a deadline (not later than); 'until' describes something that continues up to a point.",
+    "rule_fr": "'By' fixe une échéance (au plus tard) ; 'until' (familier : 'till') décrit une situation qui dure jusqu'à un moment. Le français dit 'jusqu'à' ou 'd'ici' dans les deux cas : c'est l'une des erreurs les plus fréquentes dans les courriels.",
+    "examples": [
+     {
+      "wrong": "Please return the signed contract until Friday.",
+      "right": "Please return the signed contract [[by]] Friday.",
+      "note_fr": "Échéance pour une action ponctuelle : 'by'."
+     },
+     {
+      "wrong": null,
+      "right": "The offer remains open [[until]] 15 May.",
+      "note_fr": "État qui se prolonge jusqu'à une date : 'until'."
+     },
+     {
+      "wrong": "She will have finished the report until Monday.",
+      "right": "She will have finished the report [[by]] Monday.",
+      "note_fr": "'D'ici lundi' : 'by', très fréquent avec le future perfect."
+     }
+    ]
+   },
+   {
+    "rule": "Use 'in' with months, years and parts of the day, 'on' with days and dates, 'at' with clock times - and no preposition before last, next, this or every.",
+    "rule_fr": "'In' + mois, année, saison, partie de la journée (in the morning) ; 'on' + jour ou date (on Monday, on 3 May) ; 'at' + heure (at 9.30, at noon). Aucune préposition devant last, next, this, every. Différence d'usage : 'at the weekend' (britannique), 'on the weekend' (américain).",
+    "examples": [
+     {
+      "wrong": "The new policy comes into force on January.",
+      "right": "The new policy comes into force [[in]] January.",
+      "note_fr": "Mois seul : 'in'. Date précise : 'on 1 January'."
+     },
+     {
+      "wrong": "The disciplinary hearing is on next Tuesday.",
+      "right": "The disciplinary hearing is [[next Tuesday]].",
+      "note_fr": "Pas de préposition devant 'next', 'last', 'this', 'every'."
+     },
+     {
+      "wrong": null,
+      "right": "I try not to answer emails [[at the weekend]].",
+      "note_fr": "Britannique : 'at the weekend' ; américain : 'on the weekend'."
+     }
+    ]
+   },
+   {
+    "rule": "'In two weeks' means two weeks from now; 'within two weeks' means at any time before two weeks have passed.",
+    "rule_fr": "'In two weeks' = dans deux semaines, à compter d'aujourd'hui (britannique aussi : 'in two weeks' time') ; 'within two weeks' = dans un délai de deux semaines, au plus tard. Pour un délai de recours ou de réponse, c'est toujours 'within'.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "The panel will give its decision [[in two weeks]].",
+      "note_fr": "Moment situé deux semaines après aujourd'hui."
+     },
+     {
+      "wrong": "You must lodge your appeal in five working days of receiving this letter.",
+      "right": "You must lodge your appeal [[within]] five working days of receiving this letter.",
+      "note_fr": "Délai maximal : 'within ... of' + événement de départ."
+     },
+     {
+      "wrong": null,
+      "right": "We aim to reply to every grievance [[within]] ten working days.",
+      "note_fr": "'Sous dix jours ouvrés' : 'within'."
+     }
+    ]
+   },
+   {
+    "rule": "'Last week' and 'next month' (no article) are fixed points seen from now; 'the last week' and 'the next month' are the seven or thirty days counted from now.",
+    "rule_fr": "Sans article, 'last week' / 'next month' = la semaine dernière / le mois prochain (repère fixe, prétérit pour le passé). Avec 'the', 'the last week' = les sept derniers jours, 'the next month' = les trente jours à venir. Piège : calquer 'la semaine dernière' avec l'article.",
+    "examples": [
+     {
+      "wrong": "I saw her the last week.",
+      "right": "I saw her [[last week]].",
+      "note_fr": "La semaine dernière : pas d'article, et prétérit."
+     },
+     {
+      "wrong": null,
+      "right": "We have received twelve applications in [[the last week]].",
+      "note_fr": "Les sept derniers jours jusqu'à aujourd'hui : 'the last week' + present perfect."
+     },
+     {
+      "wrong": "We will discuss it the next month.",
+      "right": "We will discuss it [[next month]].",
+      "note_fr": "Le mois prochain : pas d'article."
+     }
+    ]
+   },
+   {
+    "rule": "Use 'from ... to' (or 'until') for a period, and 'as of' or 'as from' for the date on which something starts to apply.",
+    "rule_fr": "'From ... to / until' délimite une période ; l'américain dit aussi 'Monday through Friday' (vendredi inclus). 'As of' (partout) et 'as from' (britannique, formel) = 'à compter du'. Pièges : 'since' ne s'emploie jamais pour un point de départ futur, et 'inclus' se dit 'inclusive', pas 'included'.",
+    "examples": [
+     {
+      "wrong": "Since 1 September, all expense claims will have to be submitted online.",
+      "right": "[[As of]] 1 September, all expense claims will have to be submitted online.",
+      "note_fr": "'À compter du' pour une date à venir : 'as of', 'as from' ou 'from', jamais 'since'."
+     },
+     {
+      "wrong": "Her notice period runs from 1 March to 31 May included.",
+      "right": "Her notice period runs from 1 March to 31 May [[inclusive]].",
+      "note_fr": "'Inclus' après une période : 'inclusive'."
+     },
+     {
+      "wrong": null,
+      "right": "The office is closed [[from]] 24 December to 2 January.",
+      "note_fr": "Américain : 'December 24 through January 2' ('through' = jusqu'à, inclus)."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "The trade union has been recognised ___ 2015.",
+    "options": [
+     "for",
+     "since",
+     "from",
+     "during"
+    ],
+    "answer": 1,
+    "explain_fr": "Point de départ + present perfect : 'since'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "All managers must complete the appraisal forms ___ 30 November at the latest.",
+    "options": [
+     "until",
+     "at",
+     "within",
+     "by"
+    ],
+    "answer": 3,
+    "explain_fr": "Échéance : 'by'. 'Until' décrirait une action qui dure jusqu'à cette date."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Several questions were raised ___ the consultation meeting.",
+    "options": [
+     "for",
+     "while",
+     "during",
+     "since"
+    ],
+    "answer": 2,
+    "explain_fr": "'During' + nom ; 'while' doit être suivi d'une proposition ('while we were meeting')."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The redundancy consultation started ___.",
+    "options": [
+     "since three weeks",
+     "three weeks ago",
+     "there are three weeks",
+     "ago three weeks"
+    ],
+    "answer": 1,
+    "explain_fr": "'Il y a trois semaines' : 'three weeks ago', 'ago' après la durée."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence means 'during the seven days up to today'?",
+    "options": [
+     "We have received no complaints in the last week.",
+     "We received no complaints last week.",
+     "We received no complaints the week before.",
+     "We will receive no complaints next week."
+    ],
+    "answer": 0,
+    "explain_fr": "'The last week' (avec article) = les sept derniers jours ; 'last week' = la semaine dernière."
+   },
+   {
+    "type": "gap",
+    "prompt": "You have the right to appeal ___ ten working days of receiving this letter.",
+    "answer": "within",
+    "accept": [],
+    "explain_fr": "Délai maximal : 'within ... of'."
+   },
+   {
+    "type": "gap",
+    "prompt": "She is on parental leave ___ the end of August, so her deputy is signing the contracts.",
+    "answer": "until",
+    "accept": [
+     "till",
+     "up to",
+     "through"
+    ],
+    "explain_fr": "Situation qui dure jusqu'à une date : 'until' (américain aussi 'through', fin août incluse)."
+   },
+   {
+    "type": "gap",
+    "prompt": "He joined the group fifteen years ___.",
+    "answer": "ago",
+    "accept": [],
+    "explain_fr": "'Il y a quinze ans' : 'fifteen years ago', avec le prétérit."
+   },
+   {
+    "type": "gap",
+    "prompt": "The new overtime rates apply as ___ 1 January.",
+    "answer": "of",
+    "accept": [
+     "from"
+    ],
+    "explain_fr": "'À compter du' : 'as of' (partout) ou 'as from' (britannique)."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'I am waiting for his answer since three days.'",
+    "answer": "I have been waiting for his answer for three days.",
+    "accept": [
+     "I've been waiting for his answer for three days.",
+     "I have waited for his answer for three days.",
+     "I have been waiting for his reply for three days."
+    ],
+    "explain_fr": "Present perfect (continu) + 'for' + durée."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'Please send me the figures until tomorrow noon.'",
+    "answer": "Please send me the figures by noon tomorrow.",
+    "accept": [
+     "Please send me the figures by tomorrow noon.",
+     "Please send me the figures by midday tomorrow.",
+     "Please send me the figures by tomorrow at noon.",
+     "Please send me the figures by 12 noon tomorrow."
+    ],
+    "explain_fr": "Échéance : 'by', pas 'until'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using 'ago', starting with 'She became': 'She has been a staff representative for six years.'",
+    "answer": "She became a staff representative six years ago.",
+    "accept": [],
+    "explain_fr": "Événement daté : prétérit + durée + 'ago'."
+   }
+  ]
+ },
+ {
+  "id": "gr-reported",
+  "track": "intermediate",
+  "title": "Reporting what people said",
+  "title_fr": "Rapporter des propos",
+  "points": [
+   {
+    "rule": "After a reporting verb in the past, tenses usually move one step back: present to past, past and present perfect to past perfect, will to would, can to could.",
+    "rule_fr": "Après un verbe introducteur au passé, les temps reculent d'un cran : présent -> prétérit, prétérit et present perfect -> past perfect, will -> would, can -> could. Le présent peut rester si le fait est toujours vrai. Piège : conserver le temps du discours direct, comme on le fait souvent en français.",
+    "examples": [
+     {
+      "wrong": "She said she has sent the form the day before.",
+      "right": "She said she [[had sent]] the form the day before.",
+      "note_fr": "Action antérieure à 'she said' : past perfect."
+     },
+     {
+      "wrong": "He told the panel he will not sign anything that day.",
+      "right": "He told the panel he [[would]] not sign anything that day.",
+      "note_fr": "'Will' devient 'would' après un verbe au passé."
+     },
+     {
+      "wrong": null,
+      "right": "She said the Paris office [[is]] bigger than the London one.",
+      "note_fr": "Fait toujours vrai : le présent peut rester ('was' est également correct)."
+     }
+    ]
+   },
+   {
+    "rule": "'Say' is followed by the words (say something, say to someone that...); 'tell' must be followed by the person (tell someone something).",
+    "rule_fr": "'Say' + paroles (say that..., say something to someone) ; 'tell' + personne obligatoire (tell someone that...). Jamais 'said me', jamais 'told that'. Le français 'dire à quelqu'un' pousse à l'erreur.",
+    "examples": [
+     {
+      "wrong": "He said me that the deadline had passed.",
+      "right": "He [[told me]] that the deadline had passed.",
+      "note_fr": "Avec la personne sans préposition : 'tell'."
+     },
+     {
+      "wrong": "She told that she was unhappy with her rating.",
+      "right": "She [[said]] that she was unhappy with her rating.",
+      "note_fr": "Sans la personne : 'say'."
+     },
+     {
+      "wrong": null,
+      "right": "He [[said to the panel]] that he had never been warned.",
+      "note_fr": "'Say' accepte la personne, mais avec 'to'."
+     }
+    ]
+   },
+   {
+    "rule": "Explain, describe, mention, suggest, recommend and propose are never followed directly by the person: say 'explain something to someone' and 'suggest that someone do something'.",
+    "rule_fr": "Explain, describe, mention, suggest, recommend, propose ne prennent jamais la personne comme complément direct : 'explain something to me', 'suggest (that) we do'. Après suggest / recommend, le verbe reste à la base verbale ('that he apply', surtout en américain) ; le britannique dit aussi 'that he should apply'.",
+    "examples": [
+     {
+      "wrong": "She explained me the new bonus scheme.",
+      "right": "She explained the new bonus scheme [[to me]].",
+      "note_fr": "'Explain' + chose + 'to' + personne."
+     },
+     {
+      "wrong": "He suggested me to raise a formal grievance.",
+      "right": "He [[suggested that I raise]] a formal grievance.",
+      "note_fr": "Jamais 'suggest someone to do'. Aussi : 'He suggested raising a formal grievance.'"
+     },
+     {
+      "wrong": null,
+      "right": "The lawyer [[recommended that we settle]] before the hearing.",
+      "note_fr": "'Recommend us to settle' s'entend en britannique, mais 'recommend that we settle' est sûr partout."
+     }
+    ]
+   },
+   {
+    "rule": "Report an instruction, request or piece of advice with tell, ask, advise, remind or warn + person + (not) to + verb.",
+    "rule_fr": "Un ordre, une demande ou un conseil se rapportent avec tell / ask / advise / remind / warn + personne + (not) to + verbe. Pièges : 'ask to someone', 'ask that someone does', et la négation, qui se place avant 'to' ('not to sign').",
+    "examples": [
+     {
+      "wrong": "The director told to the team to stop all overtime.",
+      "right": "The director [[told the team to stop]] all overtime.",
+      "note_fr": "'Tell' + personne sans 'to', puis l'infinitif."
+     },
+     {
+      "wrong": "She asked me that I send her the minutes.",
+      "right": "She [[asked me to send]] her the minutes.",
+      "note_fr": "'Demander à quelqu'un de faire' = 'ask someone to do'."
+     },
+     {
+      "wrong": null,
+      "right": "The union advised its members [[not to sign]] the new contract.",
+      "note_fr": "Négation de l'infinitif : 'not to'."
+     }
+    ]
+   },
+   {
+    "rule": "In a reported question, use statement word order: no inversion, no do / does / did, no question mark; use 'if' or 'whether' for yes/no questions.",
+    "rule_fr": "Dans une question rapportée, l'ordre est celui d'une affirmation : sujet + verbe, sans inversion, sans do / does / did, sans point d'interrogation. Les questions fermées s'introduisent par 'if' ou 'whether'. Piège : garder l'ordre de la question directe.",
+    "examples": [
+     {
+      "wrong": "He asked me where was the HR office.",
+      "right": "He asked me where [[the HR office was]].",
+      "note_fr": "Sujet avant le verbe dans la question rapportée."
+     },
+     {
+      "wrong": "She asked me did I receive her email.",
+      "right": "She asked me [[whether I had received]] her email.",
+      "note_fr": "Question fermée : 'whether' ou 'if', puis l'ordre sujet + verbe."
+     },
+     {
+      "wrong": "They asked to the candidate why did he leave his last job.",
+      "right": "They asked the candidate why [[he had left]] his last job.",
+      "note_fr": "'Ask' + personne sans 'to' ; pas de 'did' ; recul du temps."
+     }
+    ]
+   },
+   {
+    "rule": "Time and place words change when the moment of speaking has passed: tomorrow becomes the next day, yesterday the day before, here there, this that.",
+    "rule_fr": "Les repères de temps et de lieu s'adaptent si le moment de parole est passé : tomorrow -> the next day / the following day ; yesterday -> the day before ; last week -> the week before ; here -> there ; this -> that.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "He said he would send the report [[the following day]].",
+      "note_fr": "'Tomorrow' devient 'the next day' ou 'the following day'."
+     },
+     {
+      "wrong": null,
+      "right": "She told the panel she had raised the issue [[the week before]].",
+      "note_fr": "'Last week' devient 'the week before' ou 'the previous week'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "The site manager ___ that the incident had been reported.",
+    "options": [
+     "told",
+     "said me",
+     "said",
+     "told to me"
+    ],
+    "answer": 2,
+    "explain_fr": "Sans mention de la personne : 'say'. 'Tell' exigerait 'told me / us'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The employment lawyer ___ the new rules on working time.",
+    "options": [
+     "explained us",
+     "said us",
+     "told to us",
+     "explained to us"
+    ],
+    "answer": 3,
+    "explain_fr": "'Explain to someone' : la personne est toujours introduite par 'to'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "She asked me ___.",
+    "options": [
+     "when does the probation period end",
+     "when the probation period ended",
+     "when did the probation period end",
+     "when ended the probation period"
+    ],
+    "answer": 1,
+    "explain_fr": "Question rapportée : ordre sujet + verbe, sans 'do / did', avec recul du temps."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The chair suggested ___ the meeting until the figures were available.",
+    "options": [
+     "us to adjourn",
+     "to adjourn",
+     "that we adjourn",
+     "we to adjourn"
+    ],
+    "answer": 2,
+    "explain_fr": "'Suggest that we adjourn' (ou 'suggest adjourning') ; jamais 'suggest to do' ni 'suggest us to do'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "On Monday he said: 'I will look into it tomorrow.' -> On Monday he said he ___ into it the next day.",
+    "options": [
+     "would look",
+     "will look",
+     "looks",
+     "has looked"
+    ],
+    "answer": 0,
+    "explain_fr": "'Will' -> 'would' après un verbe introducteur au passé."
+   },
+   {
+    "type": "gap",
+    "prompt": "The union rep ___ (say / tell) us that members would vote on Friday.",
+    "answer": "told",
+    "accept": [],
+    "explain_fr": "La personne ('us') suit directement le verbe : 'tell'."
+   },
+   {
+    "type": "gap",
+    "prompt": "She asked ___ she could work from home two days a week.",
+    "answer": "whether",
+    "accept": [
+     "if"
+    ],
+    "explain_fr": "Question fermée rapportée : 'whether' ou 'if'."
+   },
+   {
+    "type": "gap",
+    "prompt": "He told the investigator that he ___ (never / receive) a written warning.",
+    "answer": "had never received",
+    "accept": [
+     "never received"
+    ],
+    "explain_fr": "Antériorité par rapport à 'told' : past perfect (le prétérit s'entend à l'oral)."
+   },
+   {
+    "type": "gap",
+    "prompt": "The HR director reminded managers ___ (not / share) salary data by email.",
+    "answer": "not to share",
+    "accept": [],
+    "explain_fr": "'Remind someone not to do' : la négation précède 'to'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Report the question, starting with 'The panel asked him': 'Why did you leave your last job?'",
+    "answer": "The panel asked him why he had left his last job.",
+    "accept": [
+     "The panel asked him why he left his last job.",
+     "The panel asked him why he had left his previous job."
+    ],
+    "explain_fr": "Pas d'inversion ni de 'did' ; le prétérit recule au past perfect."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'My manager suggested me to apply for the position.'",
+    "answer": "My manager suggested that I apply for the position.",
+    "accept": [
+     "My manager suggested I apply for the position.",
+     "My manager suggested that I should apply for the position.",
+     "My manager suggested I should apply for the position.",
+     "My manager suggested applying for the position.",
+     "My manager suggested that I applied for the position."
+    ],
+    "explain_fr": "'Suggest (that) I apply' ou 'suggest applying' ; le britannique accepte aussi 'that I should apply'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Report the statement, starting with 'HR told her that': 'We have not received your medical certificate.'",
+    "answer": "HR told her that they had not received her medical certificate.",
+    "accept": [
+     "HR told her that they hadn't received her medical certificate.",
+     "HR told her that it had not received her medical certificate.",
+     "HR told her that we had not received her medical certificate.",
+     "HR told her that we hadn't received her medical certificate."
+    ],
+    "explain_fr": "Present perfect -> past perfect ; 'your' -> 'her'."
+   }
+  ]
+ },
+ {
+  "id": "gr-questions",
+  "track": "intermediate",
+  "title": "Asking questions",
+  "title_fr": "Poser des questions",
+  "points": [
+   {
+    "rule": "A question needs an auxiliary before the subject: (question word) + auxiliary + subject + main verb. With no other auxiliary, use do, does or did, followed by the base form.",
+    "rule_fr": "Ordre de la question : (mot interrogatif) + auxiliaire + sujet + verbe. Sans autre auxiliaire, on emploie do / does / did, suivi de la base verbale. Pièges : garder l'ordre de la phrase affirmative, comme avec 'est-ce que' ou l'intonation montante, et conjuguer le verbe après 'did'.",
+    "examples": [
+     {
+      "wrong": "When the consultation starts?",
+      "right": "When [[does the consultation start]]?",
+      "note_fr": "Auxiliaire 'does' avant le sujet, verbe à la base verbale."
+     },
+     {
+      "wrong": "Why you didn't inform the works council?",
+      "right": "Why [[didn't you inform]] the works council?",
+      "note_fr": "L'auxiliaire (même négatif) passe avant le sujet."
+     },
+     {
+      "wrong": "Did she signed the settlement agreement?",
+      "right": "Did she [[sign]] the settlement agreement?",
+      "note_fr": "Après 'did', le verbe reste à la base verbale."
+     }
+    ]
+   },
+   {
+    "rule": "When who, what, which or how many is the subject of the verb, there is no do / does / did and the word order is that of a statement.",
+    "rule_fr": "Quand who, what, which ou how many est le sujet du verbe, on n'emploie pas do / does / did : l'ordre est celui de l'affirmation. Comparez 'Who called you?' (qui vous a appelé ?) et 'Who did you call?' (qui avez-vous appelé ?).",
+    "examples": [
+     {
+      "wrong": "Who did call the meeting?",
+      "right": "Who [[called]] the meeting?",
+      "note_fr": "'Who' est sujet : pas d'auxiliaire 'did'."
+     },
+     {
+      "wrong": "How many people did attend the training?",
+      "right": "How many people [[attended]] the training?",
+      "note_fr": "'How many people' est sujet : verbe conjugué directement."
+     },
+     {
+      "wrong": null,
+      "right": "Who [[did you call]] after the accident?",
+      "note_fr": "Ici 'who' est complément : l'auxiliaire est obligatoire."
+     }
+    ]
+   },
+   {
+    "rule": "In everyday questions the preposition stays at the end; putting it first with 'whom' is very formal.",
+    "rule_fr": "Dans une question courante, la préposition reste en fin de phrase : 'Who does she report to?'. La placer en tête ('To whom...?') est réservé à l'écrit très formel. Piège : calquer 'À qui... ?', 'De quoi... ?' en commençant par la préposition.",
+    "examples": [
+     {
+      "wrong": "About what is the grievance?",
+      "right": "What is the grievance [[about]]?",
+      "note_fr": "La préposition se place à la fin."
+     },
+     {
+      "wrong": "To who does she report?",
+      "right": "Who does she [[report to]]?",
+      "note_fr": "En tête de phrase, seul 'To whom' serait correct, et très formel."
+     }
+    ]
+   },
+   {
+    "rule": "After 'Could you tell me', 'Do you know' or 'I was wondering', the question becomes a statement: subject before verb, no do / does / did.",
+    "rule_fr": "Après 'Could you tell me...', 'Do you know...', 'I was wondering...', la question indirecte reprend l'ordre de l'affirmation : sujet + verbe, sans do / does / did. Pour une question fermée : 'if' ou 'whether'. C'est la tournure polie par excellence, et celle où l'inversion fautive est la plus fréquente.",
+    "examples": [
+     {
+      "wrong": "Could you tell me when is the meeting?",
+      "right": "Could you tell me when [[the meeting is]]?",
+      "note_fr": "Question indirecte : sujet avant le verbe."
+     },
+     {
+      "wrong": "Do you know why did he resign?",
+      "right": "Do you know why [[he resigned]]?",
+      "note_fr": "Pas de 'did' dans la question indirecte."
+     },
+     {
+      "wrong": null,
+      "right": "I was wondering [[whether you could]] send me the latest headcount figures.",
+      "note_fr": "Demande très polie ; pas de point d'interrogation."
+     }
+    ]
+   },
+   {
+    "rule": "A question tag repeats the auxiliary of the sentence and reverses it: positive sentence, negative tag, and the other way round.",
+    "rule_fr": "Le 'tag' reprend l'auxiliaire de la phrase en l'inversant : phrase affirmative -> tag négatif, et inversement. Il n'existe pas d'équivalent invariable de 'n'est-ce pas ?'. Vos collègues indiens emploient souvent 'isn't it?' ou 'no?' après n'importe quelle phrase : c'est un usage régional, à ne pas reproduire à l'écrit.",
+    "examples": [
+     {
+      "wrong": "You have received the notice, isn't it?",
+      "right": "You have received the notice, [[haven't you]]?",
+      "note_fr": "Auxiliaire 'have' -> 'haven't you?'."
+     },
+     {
+      "wrong": null,
+      "right": "She doesn't report to you, [[does she]]?",
+      "note_fr": "Phrase négative -> tag affirmatif."
+     },
+     {
+      "wrong": null,
+      "right": "Let's take a short break, [[shall we]]?",
+      "note_fr": "Après 'Let's', le tag est toujours 'shall we?'."
+     }
+    ]
+   },
+   {
+    "rule": "Ask 'How long have you...?' about a period that continues up to now, and 'What is ... like?' for a description; 'How is ...?' asks about health or progress.",
+    "rule_fr": "'Depuis combien de temps... ?' = 'How long have you...?' (present perfect), jamais 'Since how long do you...?'. 'What is X like?' demande une description (comment est-il ?), 'How is X?' demande des nouvelles (comment va-t-il ?). 'How is X like?' n'existe pas.",
+    "examples": [
+     {
+      "wrong": "Since how long do you work here?",
+      "right": "[[How long have you worked]] here?",
+      "note_fr": "'How long' + present perfect pour une durée jusqu'à maintenant."
+     },
+     {
+      "wrong": "How is your new manager like?",
+      "right": "What is your new manager [[like]]?",
+      "note_fr": "Description : 'What ... like?', jamais 'How ... like?'."
+     },
+     {
+      "wrong": null,
+      "right": "[[How long]] does the appeal process usually take?",
+      "note_fr": "Durée en général : 'How long' + présent simple."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "___ the redundancy plan?",
+    "options": [
+     "Who approved",
+     "Who did approve",
+     "Who has approve",
+     "Who did approved"
+    ],
+    "answer": 0,
+    "explain_fr": "'Who' est sujet : pas d'auxiliaire 'did'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Could you tell me ___?",
+    "options": [
+     "where is the hearing room",
+     "where it is the hearing room",
+     "where is it the hearing room",
+     "where the hearing room is"
+    ],
+    "answer": 3,
+    "explain_fr": "Question indirecte : ordre sujet + verbe."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The union has already been informed, ___?",
+    "options": [
+     "isn't it",
+     "hasn't it",
+     "has it",
+     "didn't it"
+    ],
+    "answer": 1,
+    "explain_fr": "Auxiliaire 'has', phrase affirmative : tag 'hasn't it?'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "'___ the new head of payroll like?' 'Very thorough, and easy to work with.'",
+    "options": [
+     "How is",
+     "How does",
+     "What is",
+     "Which is"
+    ],
+    "answer": 2,
+    "explain_fr": "Description d'une personne : 'What is ... like?'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "___ have you been in your current role?",
+    "options": [
+     "Since how long",
+     "How long",
+     "How long time",
+     "Since when long"
+    ],
+    "answer": 1,
+    "explain_fr": "'Depuis combien de temps' : 'How long' + present perfect."
+   },
+   {
+    "type": "gap",
+    "prompt": "Why ___ (the manager / not / follow) the disciplinary procedure last month?",
+    "answer": "didn't the manager follow",
+    "accept": [
+     "did the manager not follow"
+    ],
+    "explain_fr": "Auxiliaire 'did' avant le sujet, verbe à la base verbale."
+   },
+   {
+    "type": "gap",
+    "prompt": "Do you know whether the candidate ___ (accept) our offer yet?",
+    "answer": "has accepted",
+    "accept": [
+     "accepted"
+    ],
+    "explain_fr": "Question indirecte : ordre affirmatif. Avec 'yet', present perfect (prétérit possible en américain)."
+   },
+   {
+    "type": "gap",
+    "prompt": "You will send me the minutes by Friday, ___ you?",
+    "answer": "won't",
+    "accept": [],
+    "explain_fr": "'Will' affirmatif -> tag négatif 'won't you?'."
+   },
+   {
+    "type": "gap",
+    "prompt": "Who does the site HR manager report ___?",
+    "answer": "to",
+    "accept": [],
+    "explain_fr": "'Report to someone' : la préposition reste en fin de question."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Make the question polite and indirect, starting with 'Could you tell me': 'When does the notice period end?'",
+    "answer": "Could you tell me when the notice period ends?",
+    "accept": [],
+    "explain_fr": "Question indirecte : plus de 'does', verbe conjugué après le sujet."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'How many employees did sign the petition?'",
+    "answer": "How many employees signed the petition?",
+    "accept": [],
+    "explain_fr": "'How many employees' est sujet : pas de 'did'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Ask the question that gets the answer in capitals: 'She has been on secondment FOR TWO YEARS.'",
+    "answer": "How long has she been on secondment?",
+    "accept": [
+     "How long has she been on secondment for?"
+    ],
+    "explain_fr": "Durée jusqu'à maintenant : 'How long' + present perfect."
+   }
+  ]
+ },
+ {
+  "id": "gr-quantifiers",
+  "track": "intermediate",
+  "title": "Quantity: much, many, few, little and the rest",
+  "title_fr": "Exprimer la quantité",
+  "points": [
+   {
+    "rule": "Use 'many' with plural countable nouns and 'much' with uncountable nouns, mostly in questions and negatives; in positive sentences 'a lot of' is the natural choice.",
+    "rule_fr": "'Many' + dénombrable pluriel, 'much' + indénombrable, surtout dans les questions et les négations ; à l'affirmatif, 'a lot of' est le choix naturel ('many' reste possible en style soutenu). Piège majeur : information, advice, feedback, evidence, training, progress sont indénombrables, donc jamais de -s ni de 'many'.",
+    "examples": [
+     {
+      "wrong": "We received much applications for the post.",
+      "right": "We received [[a lot of]] applications for the post.",
+      "note_fr": "'Much' ne s'emploie pas avec un pluriel ; à l'écrit soutenu : 'many applications'."
+     },
+     {
+      "wrong": "How much employees are affected by the closure?",
+      "right": "How [[many]] employees are affected by the closure?",
+      "note_fr": "Dénombrable pluriel : 'how many'."
+     },
+     {
+      "wrong": "She gave me many informations about the pension scheme.",
+      "right": "She gave me [[a lot of information]] about the pension scheme.",
+      "note_fr": "'Information' est indénombrable : ni pluriel, ni 'many'."
+     }
+    ]
+   },
+   {
+    "rule": "'A few' and 'a little' mean 'some'; 'few' and 'little' without 'a' mean 'not many' and 'not much', with a negative feel.",
+    "rule_fr": "'A few' (+ dénombrable) et 'a little' (+ indénombrable) = quelques, un peu de : sens positif. Sans 'a', 'few' et 'little' = peu de, pas assez : sens négatif. Ne pas confondre 'peu de' (few) et 'un peu de / quelques' (a few).",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "[[Few]] managers have read the new policy, which is worrying.",
+      "note_fr": "'Few' = peu de, moins qu'on ne le souhaiterait."
+     },
+     {
+      "wrong": null,
+      "right": "[[A few]] managers have asked for extra training.",
+      "note_fr": "'A few' = quelques."
+     },
+     {
+      "wrong": "We have few time before the hearing.",
+      "right": "We have [[little]] time before the hearing.",
+      "note_fr": "'Time' est indénombrable : 'little' (à l'oral : 'not much time')."
+     }
+    ]
+   },
+   {
+    "rule": "Use 'some' in positive sentences, offers and requests, and 'any' in questions and negatives. English never uses two negatives for one idea.",
+    "rule_fr": "'Some' dans les phrases affirmatives, les offres et les demandes ; 'any' dans les questions et les négations ; 'any' à l'affirmatif = n'importe quel, tout. L'anglais n'admet qu'une seule négation par proposition : 'ne... rien', 'ne... aucun', 'personne... rien' ne se calquent pas.",
+    "examples": [
+     {
+      "wrong": "We don't have no vacancies at the moment.",
+      "right": "We don't have [[any]] vacancies at the moment.",
+      "note_fr": "Une seule négation : 'not ... any' ou 'we have no vacancies'."
+     },
+     {
+      "wrong": "Nobody said nothing during the meeting.",
+      "right": "Nobody said [[anything]] during the meeting.",
+      "note_fr": "'Nobody' est déjà négatif : 'anything', pas 'nothing'."
+     },
+     {
+      "wrong": null,
+      "right": "[[Any]] employee may request a copy of their personnel file.",
+      "note_fr": "'Any' affirmatif = n'importe quel, tout."
+     }
+    ]
+   },
+   {
+    "rule": "'Each' and 'every' take a singular noun and a singular verb; 'all' takes a plural noun.",
+    "rule_fr": "'Each' et 'every' sont suivis d'un nom et d'un verbe au singulier ; 'all' d'un nom pluriel. 'Every' voit le groupe dans son ensemble (trois éléments ou plus), 'each' les éléments un par un (deux ou plus). Piège : 'tous les salariés' rendu par 'every employees'.",
+    "examples": [
+     {
+      "wrong": "Every employees must complete the training.",
+      "right": "[[Every employee]] must complete the training.",
+      "note_fr": "'Every' + singulier ; ou 'All employees must...'."
+     },
+     {
+      "wrong": "Each manager have to sign the form.",
+      "right": "Each manager [[has]] to sign the form.",
+      "note_fr": "Verbe au singulier après 'each'."
+     },
+     {
+      "wrong": null,
+      "right": "The two candidates [[each]] gave a ten-minute presentation.",
+      "note_fr": "Pour deux personnes : 'each', jamais 'every'."
+     }
+    ]
+   },
+   {
+    "rule": "For two people or things, use 'both' (plural), 'either' (one or the other) and 'neither' (not one and not the other), the last two with a singular verb.",
+    "rule_fr": "Pour deux éléments : 'both' (les deux, + pluriel), 'either' (l'un ou l'autre), 'neither' (ni l'un ni l'autre), ces deux derniers avec un verbe au singulier. Pas d'article devant 'both' ; 'neither' est déjà négatif, donc verbe affirmatif ; on dit 'neither ... nor'.",
+    "examples": [
+     {
+      "wrong": "The both parties signed the agreement.",
+      "right": "[[Both]] parties signed the agreement.",
+      "note_fr": "Jamais 'the both' ; on peut dire 'both (of) the parties'."
+     },
+     {
+      "wrong": "Neither of the two candidates didn't have the right experience.",
+      "right": "[[Neither]] of the two candidates had the right experience.",
+      "note_fr": "'Neither' porte la négation : verbe affirmatif."
+     },
+     {
+      "wrong": null,
+      "right": "You can bring the claim in [[either]] country.",
+      "note_fr": "'Either' + singulier = l'un ou l'autre."
+     }
+    ]
+   },
+   {
+    "rule": "'Most' + noun means the majority in general; 'most of' needs the, these or a possessive. Use 'the whole' + singular noun for one complete thing; 'several' means more than a few, and 'plenty of' means more than enough.",
+    "rule_fr": "'Most employees' = la plupart des salariés en général ; 'most of the / our employees' = la plupart de ceux dont on parle. Jamais 'the most of', jamais 'most of employees'. 'The whole' + singulier = tout entier ('the whole day', ou 'all day'). 'Several' = plusieurs ; 'plenty of' = largement assez de.",
+    "examples": [
+     {
+      "wrong": "The most of employees work remotely on Fridays.",
+      "right": "[[Most]] employees work remotely on Fridays.",
+      "note_fr": "'La plupart des' = 'most' + nom, sans article ni 'of'."
+     },
+     {
+      "wrong": "She spent all the day in mediation.",
+      "right": "She spent [[the whole day]] in mediation.",
+      "note_fr": "'Toute la journée' = 'the whole day' ou 'all day', sans article."
+     },
+     {
+      "wrong": null,
+      "right": "We have [[plenty of]] time and several options to consider.",
+      "note_fr": "'Plenty of' = largement assez ; 'several' = plusieurs."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "We don't have ___ time to prepare for the audit.",
+    "options": [
+     "many",
+     "much",
+     "few",
+     "a few"
+    ],
+    "answer": 1,
+    "explain_fr": "'Time' est indénombrable : 'much' dans une phrase négative."
+   },
+   {
+    "type": "mcq",
+    "prompt": "___ of the two proposals was acceptable to the union, so talks broke down.",
+    "options": [
+     "Both",
+     "Either",
+     "None",
+     "Neither"
+    ],
+    "answer": 3,
+    "explain_fr": "Deux éléments, sens négatif : 'neither' ('none' vaut pour trois ou plus)."
+   },
+   {
+    "type": "mcq",
+    "prompt": "___ employees are covered by the collective agreement, but not all.",
+    "options": [
+     "Most of",
+     "Most",
+     "The most",
+     "Almost"
+    ],
+    "answer": 1,
+    "explain_fr": "'Most' + nom sans article ; 'most of' exigerait 'the' ou 'our'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Unfortunately, ___ people applied, so we have had to readvertise the post.",
+    "options": [
+     "a few",
+     "little",
+     "few",
+     "a little"
+    ],
+    "answer": 2,
+    "explain_fr": "Sens négatif (trop peu) + dénombrable : 'few'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "___ member of staff is entitled to an annual review.",
+    "options": [
+     "Every",
+     "All",
+     "Each of",
+     "Several"
+    ],
+    "answer": 0,
+    "explain_fr": "Nom et verbe au singulier : 'every'."
+   },
+   {
+    "type": "gap",
+    "prompt": "How ___ annual leave do you have left this year?",
+    "answer": "much",
+    "accept": [],
+    "explain_fr": "'Leave' est indénombrable : 'how much'."
+   },
+   {
+    "type": "gap",
+    "prompt": "The investigator did not find ___ (some / any / no) evidence of harassment.",
+    "answer": "any",
+    "accept": [],
+    "explain_fr": "Verbe déjà négatif : 'any', jamais 'no' (double négation)."
+   },
+   {
+    "type": "gap",
+    "prompt": "We still have ___ (few / a few / little / a little) places left on the leadership course, so do apply.",
+    "answer": "a few",
+    "accept": [],
+    "explain_fr": "Sens positif + dénombrable : 'a few'."
+   },
+   {
+    "type": "gap",
+    "prompt": "Neither the employee ___ her representative attended the hearing.",
+    "answer": "nor",
+    "accept": [],
+    "explain_fr": "'Neither ... nor', avec un verbe affirmatif."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'I didn't receive no answer from the union.'",
+    "answer": "I didn't receive any answer from the union.",
+    "accept": [
+     "I did not receive any answer from the union.",
+     "I received no answer from the union.",
+     "I didn't receive an answer from the union.",
+     "I did not receive an answer from the union."
+    ],
+    "explain_fr": "Une seule négation : 'not ... any' ou 'no'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'Could you give me some advices on this dismissal?'",
+    "answer": "Could you give me some advice on this dismissal?",
+    "accept": [
+     "Could you give me a piece of advice on this dismissal?",
+     "Could you give me a few pieces of advice on this dismissal?"
+    ],
+    "explain_fr": "'Advice' est indénombrable : pas de pluriel ; pour compter, 'a piece of advice'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using 'neither': 'The first candidate was not suitable, and the second was not suitable either.'",
+    "answer": "Neither candidate was suitable.",
+    "accept": [
+     "Neither of the candidates was suitable.",
+     "Neither of the two candidates was suitable.",
+     "Neither of the candidates were suitable.",
+     "Neither the first candidate nor the second was suitable.",
+     "Neither the first nor the second candidate was suitable."
+    ],
+    "explain_fr": "'Neither' + singulier, verbe affirmatif (le pluriel après 'neither of' s'entend à l'oral)."
+   }
+  ]
+ },
+ {
+  "id": "gr-comparing",
+  "track": "intermediate",
+  "title": "Comparing",
+  "title_fr": "Comparer",
+  "points": [
+   {
+    "rule": "Short adjectives take -er, long ones take 'more'; good, bad and far are irregular (better, worse, further). Never combine the two forms, and always follow with 'than'.",
+    "rule_fr": "Adjectif court : -er ; adjectif long : more ; irréguliers : good -> better, bad -> worse, far -> further. Jamais les deux marques à la fois ('more better'), et le second terme s'introduit par 'than', pas par 'that' ni 'as'.",
+    "examples": [
+     {
+      "wrong": "This procedure is more easy that the old one.",
+      "right": "This procedure is [[easier than]] the old one.",
+      "note_fr": "Adjectif court en -y : 'easier' ; 'que' = 'than'."
+     },
+     {
+      "wrong": "The second offer was more better.",
+      "right": "The second offer was [[better]].",
+      "note_fr": "'Better' est déjà un comparatif."
+     },
+     {
+      "wrong": null,
+      "right": "Staff turnover is [[worse]] than last year in the sales teams.",
+      "note_fr": "'Bad' -> 'worse', jamais 'more bad'."
+     }
+    ]
+   },
+   {
+    "rule": "The superlative takes 'the' (-est or most) and is followed by 'in' for a place or group; good and bad give 'the best' and 'the worst'.",
+    "rule_fr": "Superlatif : the + -est ou the most ; irréguliers : the best, the worst. Le complément de lieu ou de groupe s'introduit par 'in', pas par 'of' : 'the best in the group'. On dit 'the second largest', sans 'most'.",
+    "examples": [
+     {
+      "wrong": "She is the most experienced negotiator of the company.",
+      "right": "She is the most experienced negotiator [[in]] the company.",
+      "note_fr": "'De l'entreprise' après un superlatif : 'in the company'."
+     },
+     {
+      "wrong": "This is the worse result we have ever had.",
+      "right": "This is [[the worst]] result we have ever had.",
+      "note_fr": "'Worse' = comparatif ; 'the worst' = superlatif."
+     },
+     {
+      "wrong": null,
+      "right": "It is our [[second largest]] site in Europe.",
+      "note_fr": "'Deuxième plus grand' : 'second largest'."
+     }
+    ]
+   },
+   {
+    "rule": "For equality use 'as ... as' and 'the same as'; for multiples say 'twice as ... as' or 'three times as ... as'.",
+    "rule_fr": "Égalité : 'as ... as' ; infériorité : 'not as ... as' ; identité : 'the same as' (jamais 'the same than' ni 'the same that'). Multiplicateur : 'twice as high as', 'three times as many as'. Piège : calquer 'deux fois plus élevé que'.",
+    "examples": [
+     {
+      "wrong": "Her salary is the same than his.",
+      "right": "Her salary is [[the same as]] his.",
+      "note_fr": "'Le même que' = 'the same as'."
+     },
+     {
+      "wrong": "Absence is twice more high than last year.",
+      "right": "Absence is [[twice as high as]] last year.",
+      "note_fr": "'Deux fois plus élevé que' = 'twice as high as'."
+     },
+     {
+      "wrong": null,
+      "right": "The London office is not [[as large as]] the Paris one.",
+      "note_fr": "'Moins grand que' se dit naturellement 'not as large as'."
+     }
+    ]
+   },
+   {
+    "rule": "Strengthen a comparative with much, far, a lot or considerably, and soften it with slightly, a little or a bit - never with 'very'.",
+    "rule_fr": "On renforce un comparatif avec much, far, a lot, considerably (soutenu) et on l'atténue avec slightly, a little, a bit (familier). 'Very' ne s'emploie jamais devant un comparatif.",
+    "examples": [
+     {
+      "wrong": "The new payroll system is very faster.",
+      "right": "The new payroll system is [[much faster]].",
+      "note_fr": "'Beaucoup plus rapide' : 'much faster' ou 'far faster'."
+     },
+     {
+      "wrong": null,
+      "right": "Pay is [[slightly higher]] in the Dublin office.",
+      "note_fr": "'Légèrement plus élevé'."
+     },
+     {
+      "wrong": null,
+      "right": "The second round of talks was [[far more difficult]] than we expected.",
+      "note_fr": "'Far' + comparatif : nettement plus."
+     }
+    ]
+   },
+   {
+    "rule": "Use 'the + comparative, the + comparative' for two things that change together, and a doubled comparative ('more and more') for a steady change.",
+    "rule_fr": "'Plus... plus...' = 'the' + comparatif, 'the' + comparatif, avec l'article dans les deux moitiés. 'De plus en plus' = 'more and more' (ou 'harder and harder') ; à l'écrit soutenu, 'increasingly'. Piège : omettre 'the', ou calquer 'toujours plus'.",
+    "examples": [
+     {
+      "wrong": "More we wait, more the situation gets worse.",
+      "right": "[[The longer]] we wait, the worse the situation gets.",
+      "note_fr": "'The' + comparatif dans les deux propositions."
+     },
+     {
+      "wrong": "It is always more difficult to recruit engineers.",
+      "right": "It is [[more and more difficult]] to recruit engineers.",
+      "note_fr": "'De plus en plus / toujours plus difficile' : 'more and more difficult' ou 'increasingly difficult'."
+     },
+     {
+      "wrong": null,
+      "right": "[[The sooner]] we tell the works council, the better.",
+      "note_fr": "Tournure figée : 'the sooner, the better'."
+     }
+    ]
+   },
+   {
+    "rule": "Use 'fewer' with plural countable nouns and 'less' with uncountable nouns. 'Different' is followed by 'from' everywhere, 'to' in British English and 'than' in American English.",
+    "rule_fr": "'Fewer' + dénombrable pluriel, 'less' + indénombrable ; 'less' + pluriel s'entend à l'oral mais reste fautif à l'écrit soigné. 'Different from' est correct partout ; 'different to' est britannique, 'different than' américain ; jamais 'different of'.",
+    "examples": [
+     {
+      "wrong": "We have less applicants than last year.",
+      "right": "We have [[fewer]] applicants than last year.",
+      "note_fr": "Pluriel dénombrable : 'fewer'."
+     },
+     {
+      "wrong": "French dismissal law is very different of the American system.",
+      "right": "French dismissal law is very [[different from]] the American system.",
+      "note_fr": "'Différent de' = 'different from' (britannique aussi 'to', américain aussi 'than')."
+     },
+     {
+      "wrong": null,
+      "right": "We now spend [[less]] time on paperwork.",
+      "note_fr": "Indénombrable : 'less'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "The new offer is ___ the previous one.",
+    "options": [
+     "more good than",
+     "better that",
+     "better than",
+     "more better than"
+    ],
+    "answer": 2,
+    "explain_fr": "'Good' -> 'better', suivi de 'than'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "He is the most senior union representative ___ the plant.",
+    "options": [
+     "of",
+     "in",
+     "from",
+     "than"
+    ],
+    "answer": 1,
+    "explain_fr": "Après un superlatif, le lieu ou le groupe s'introduit par 'in'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The cost of living is ___ higher in London than in Lille.",
+    "options": [
+     "very",
+     "more",
+     "far",
+     "too"
+    ],
+    "answer": 2,
+    "explain_fr": "On renforce un comparatif avec 'far' ou 'much', jamais avec 'very'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Her notice period is the same ___ mine.",
+    "options": [
+     "than",
+     "that",
+     "like",
+     "as"
+    ],
+    "answer": 3,
+    "explain_fr": "'The same as'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "___ we consult employees, the more easily the plan will be accepted.",
+    "options": [
+     "The more",
+     "More",
+     "The most",
+     "Most"
+    ],
+    "answer": 0,
+    "explain_fr": "'The more..., the more...' : l'article est obligatoire dans les deux moitiés."
+   },
+   {
+    "type": "gap",
+    "prompt": "We received ___ (few) complaints this year than last year.",
+    "answer": "fewer",
+    "accept": [],
+    "explain_fr": "Comparatif de 'few' devant un pluriel dénombrable : 'fewer'."
+   },
+   {
+    "type": "gap",
+    "prompt": "Recruiting data scientists is becoming more and ___ difficult.",
+    "answer": "more",
+    "accept": [],
+    "explain_fr": "'De plus en plus difficile' : 'more and more difficult'."
+   },
+   {
+    "type": "gap",
+    "prompt": "This is ___ (bad) engagement score we have ever recorded.",
+    "answer": "the worst",
+    "accept": [],
+    "explain_fr": "Superlatif irrégulier : 'the worst'."
+   },
+   {
+    "type": "gap",
+    "prompt": "The Mumbai team is twice as large ___ the Paris team.",
+    "answer": "as",
+    "accept": [],
+    "explain_fr": "'Twice as large as' : deux fois plus grande que."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'Outsourcing payroll is more cheap that doing it in-house.'",
+    "answer": "Outsourcing payroll is cheaper than doing it in-house.",
+    "accept": [],
+    "explain_fr": "Adjectif court : 'cheaper' ; 'que' = 'than'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using 'not as ... as', starting with 'The Lyon office': 'The Paris office is bigger than the Lyon office.'",
+    "answer": "The Lyon office is not as big as the Paris office.",
+    "accept": [
+     "The Lyon office isn't as big as the Paris office.",
+     "The Lyon office is not so big as the Paris office.",
+     "The Lyon office is not as big as the Paris one.",
+     "The Lyon office isn't as big as the Paris one."
+    ],
+    "explain_fr": "Infériorité : 'not as ... as'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite starting with 'The earlier': 'If we act early, the risk of a claim is low.'",
+    "answer": "The earlier we act, the lower the risk of a claim.",
+    "accept": [
+     "The earlier we act, the lower the risk of a claim is.",
+     "The earlier we act, the lower the risk of a claim will be."
+    ],
+    "explain_fr": "'The' + comparatif, 'the' + comparatif."
+   }
+  ]
+ },
+ {
+  "id": "gr-relative",
+  "track": "intermediate",
+  "title": "Relative clauses",
+  "title_fr": "Les propositions relatives",
+  "points": [
+   {
+    "rule": "Use 'who' for people and 'which' for things; 'that' can replace either in a clause that identifies the noun.",
+    "rule_fr": "'Who' pour les personnes, 'which' pour les choses ; 'that' remplace l'un ou l'autre dans une relative qui identifie le nom. Le choix dépend de l'antécédent, non de la fonction : 'qui' et 'que' ne correspondent pas à 'who' et 'which'.",
+    "examples": [
+     {
+      "wrong": "The employee which filed the complaint has left.",
+      "right": "The employee [[who]] filed the complaint has left.",
+      "note_fr": "Antécédent humain : 'who' (ou 'that'), jamais 'which'."
+     },
+     {
+      "wrong": "The policy who applies to contractors is under review.",
+      "right": "The policy [[that]] applies to contractors is under review.",
+      "note_fr": "Antécédent non humain : 'that' ou 'which', jamais 'who'."
+     }
+    ]
+   },
+   {
+    "rule": "A defining clause identifies who or what you mean and takes no commas; a non-defining clause only adds information, is set off by commas and never uses 'that'.",
+    "rule_fr": "La relative déterminative (sans virgules) précise de qui ou de quoi l'on parle ; la relative explicative (entre virgules) ajoute une information accessoire, n'accepte que 'who' ou 'which', jamais 'that', et son pronom ne peut pas être omis. Les virgules changent le sens, et parfois la portée d'un engagement.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "The engineers [[who work nights]] receive an allowance.",
+      "note_fr": "Sans virgules : seuls ceux qui travaillent de nuit la perçoivent."
+     },
+     {
+      "wrong": null,
+      "right": "The engineers[[, who work nights,]] receive an allowance.",
+      "note_fr": "Avec virgules : tous les ingénieurs, qui travaillent d'ailleurs tous de nuit."
+     },
+     {
+      "wrong": "The works council, that met yesterday, rejected the proposal.",
+      "right": "The works council, [[which]] met yesterday, rejected the proposal.",
+      "note_fr": "Entre virgules : 'which' ou 'who', jamais 'that'."
+     }
+    ]
+   },
+   {
+    "rule": "'Whose' shows possession for people and things; 'whom' is the formal object form and is required after a preposition.",
+    "rule_fr": "'Whose' = dont (possession), pour les personnes comme pour les choses, suivi directement du nom sans article. 'Whom' est la forme complément, formelle, obligatoire après une préposition ('of whom', 'to whom'). Piège : 'dont le contrat' rendu par 'that his contract'.",
+    "examples": [
+     {
+      "wrong": "The employee that his contract ends in June has reapplied.",
+      "right": "The employee [[whose]] contract ends in June has reapplied.",
+      "note_fr": "'Dont le contrat' : 'whose contract', sans article ni possessif."
+     },
+     {
+      "wrong": null,
+      "right": "The candidates, two of [[whom]] are internal, will be interviewed next week.",
+      "note_fr": "'Dont deux' : 'two of whom' ; 'whom' obligatoire après une préposition."
+     },
+     {
+      "wrong": null,
+      "right": "It is a company [[whose]] values I share.",
+      "note_fr": "'Whose' vaut aussi pour une chose ou une organisation."
+     }
+    ]
+   },
+   {
+    "rule": "Use 'that' after everything, all, anything, nothing and something; 'what' means 'the thing that' and has no noun before it; 'which' after a comma can refer to the whole previous clause.",
+    "rule_fr": "Après everything, all, anything, nothing, something : 'that' (ou rien), jamais 'what'. 'What' = ce que / ce qui, sans antécédent ('What I mean is...'). ', which' reprend toute la proposition précédente : c'est le 'ce qui' de commentaire. Piège : 'tout ce que' rendu par 'all what'.",
+    "examples": [
+     {
+      "wrong": "I have read everything what the union sent us.",
+      "right": "I have read everything [[that]] the union sent us.",
+      "note_fr": "'Tout ce que' = 'everything (that)'."
+     },
+     {
+      "wrong": "He resigned without notice, what surprised everyone.",
+      "right": "He resigned without notice, [[which]] surprised everyone.",
+      "note_fr": "'Ce qui' reprenant toute la phrase : ', which'."
+     },
+     {
+      "wrong": null,
+      "right": "[[What I mean is]] that we need a written agreement.",
+      "note_fr": "'What' = ce que, sans antécédent."
+     }
+    ]
+   },
+   {
+    "rule": "You can leave out who, which or that when it is the object of a defining clause, but not when it is the subject - and never add a second pronoun.",
+    "rule_fr": "Dans une relative déterminative, le pronom complément (who, which, that) s'omet très souvent ; le pronom sujet est obligatoire. On ne reprend jamais l'antécédent par un pronom ('it', 'him') à l'intérieur de la relative.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "The candidate [[we interviewed]] yesterday has accepted the offer.",
+      "note_fr": "Pronom complément omis : tournure la plus naturelle."
+     },
+     {
+      "wrong": "The manager signed the letter has left the company.",
+      "right": "The manager [[who signed]] the letter has left the company.",
+      "note_fr": "Pronom sujet : impossible de l'omettre."
+     },
+     {
+      "wrong": "The report that I sent it to you is confidential.",
+      "right": "The report [[I sent you]] is confidential.",
+      "note_fr": "Pas de pronom de reprise ('it') dans la relative."
+     }
+    ]
+   },
+   {
+    "rule": "In everyday English the preposition goes to the end of the clause; formal writing puts it before 'whom' or 'which', never before 'who' or 'that'.",
+    "rule_fr": "À l'oral et dans les courriels, la préposition va en fin de relative ('the person I spoke to'). À l'écrit formel, elle précède 'whom' ou 'which' ('to whom', 'in which'), jamais 'who' ni 'that'.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "She is the lawyer [[I spoke to]] last week.",
+      "note_fr": "Usage courant : préposition à la fin, pronom omis."
+     },
+     {
+      "wrong": null,
+      "right": "The employee [[to whom]] the letter was addressed has since left the company.",
+      "note_fr": "Écrit formel : préposition + 'whom'."
+     },
+     {
+      "wrong": "This is the department in that she works.",
+      "right": "This is the department [[in which]] she works.",
+      "note_fr": "Après une préposition : 'which', jamais 'that'. Courant : 'the department she works in'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "The union representative ___ attended the hearing took detailed notes.",
+    "options": [
+     "which",
+     "who",
+     "whose",
+     "whom"
+    ],
+    "answer": 1,
+    "explain_fr": "Personne, pronom sujet : 'who'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The settlement, ___ was signed last week, includes a confidentiality clause.",
+    "options": [
+     "that",
+     "what",
+     "which",
+     "who"
+    ],
+    "answer": 2,
+    "explain_fr": "Relative entre virgules, antécédent non humain : 'which', jamais 'that'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "That is not ___ the employee told the investigator.",
+    "options": [
+     "what",
+     "that",
+     "which",
+     "whose"
+    ],
+    "answer": 0,
+    "explain_fr": "'Ce que' sans antécédent : 'what'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "She is the colleague ___ office was moved to the second floor.",
+    "options": [
+     "who",
+     "which",
+     "whom",
+     "whose"
+    ],
+    "answer": 3,
+    "explain_fr": "'Dont le bureau' : 'whose office'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence is correct?",
+    "options": [
+     "The form you asked for it is attached.",
+     "The form what you asked for is attached.",
+     "The form you asked for is attached.",
+     "The form for that you asked is attached."
+    ],
+    "answer": 2,
+    "explain_fr": "Pronom complément omis, préposition à la fin, pas de pronom de reprise."
+   },
+   {
+    "type": "gap",
+    "prompt": "She missed three deadlines in a row, ___ led to a formal warning.",
+    "answer": "which",
+    "accept": [],
+    "explain_fr": "Reprise de toute la proposition : ', which' (= ce qui)."
+   },
+   {
+    "type": "gap",
+    "prompt": "Everything ___ was said in the mediation session remains confidential.",
+    "answer": "that",
+    "accept": [],
+    "explain_fr": "Après 'everything' : 'that', jamais 'what'."
+   },
+   {
+    "type": "gap",
+    "prompt": "The trainees, most of ___ are recent graduates, start on Monday.",
+    "answer": "whom",
+    "accept": [],
+    "explain_fr": "Après une préposition, pour des personnes : 'whom'."
+   },
+   {
+    "type": "gap",
+    "prompt": "The employees ___ contracts expire in December will be contacted first.",
+    "answer": "whose",
+    "accept": [],
+    "explain_fr": "'Dont les contrats' : 'whose contracts'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Combine using a relative clause between commas: 'Ms Patel chaired the hearing. She is our head of employee relations.'",
+    "answer": "Ms Patel, who is our head of employee relations, chaired the hearing.",
+    "accept": [
+     "Ms Patel, who chaired the hearing, is our head of employee relations."
+    ],
+    "explain_fr": "Relative explicative : virgules et 'who', jamais 'that'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'All what we need now is the director's approval.'",
+    "answer": "All we need now is the director's approval.",
+    "accept": [
+     "All that we need now is the director's approval."
+    ],
+    "explain_fr": "'Tout ce dont / tout ce que' : 'all (that)', jamais 'all what'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite in formal written English with 'to whom': 'The manager she reports to is based in Chicago.'",
+    "answer": "The manager to whom she reports is based in Chicago.",
+    "accept": [],
+    "explain_fr": "Écrit formel : la préposition précède 'whom'."
+   }
+  ]
+ },
+ {
+  "id": "gr-word-order",
+  "track": "intermediate",
+  "title": "Word order",
+  "title_fr": "L'ordre des mots",
+  "points": [
+   {
+    "rule": "Keep the verb and its object together: adverbs and phrases such as 'very much', 'very well' or 'yesterday' go after the object, not between verb and object.",
+    "rule_fr": "Le verbe et son complément d'objet direct ne se séparent pas : l'adverbe ou le complément de temps ('very much', 'very well', 'yesterday') se place après le complément. C'est le calque le plus reconnaissable chez un francophone ('J'aime beaucoup...').",
+    "examples": [
+     {
+      "wrong": "I like very much my new team.",
+      "right": "I like my new team [[very much]].",
+      "note_fr": "'Very much' après le complément (ou 'I very much like my new team')."
+     },
+     {
+      "wrong": "She speaks very well English.",
+      "right": "She speaks English [[very well]].",
+      "note_fr": "Verbe + complément, puis l'adverbe de manière."
+     },
+     {
+      "wrong": "We discussed yesterday the redundancy plan.",
+      "right": "We discussed the redundancy plan [[yesterday]].",
+      "note_fr": "Le complément de temps ne sépare pas le verbe de son objet."
+     }
+    ]
+   },
+   {
+    "rule": "Always, never, often, already, still, just and probably go before the main verb, but after 'be' and after the first auxiliary; 'probably' comes before a negative auxiliary.",
+    "rule_fr": "Always, never, often, already, still, just, probably se placent avant le verbe principal, mais après 'be' et après le premier auxiliaire. Devant une négation contractée, 'probably' et 'still' passent avant l'auxiliaire : 'probably won't', 'still hasn't'.",
+    "examples": [
+     {
+      "wrong": "He arrives always late for team meetings.",
+      "right": "He [[always arrives]] late for team meetings.",
+      "note_fr": "Adverbe de fréquence avant le verbe principal."
+     },
+     {
+      "wrong": "We have sent already the offer letter.",
+      "right": "We have [[already]] sent the offer letter.",
+      "note_fr": "Entre l'auxiliaire et le participe (ou en fin de phrase)."
+     },
+     {
+      "wrong": "She will not probably accept the transfer.",
+      "right": "She [[probably won't]] accept the transfer.",
+      "note_fr": "'Probably' avant 'won't' ; en style soutenu : 'will probably not'."
+     }
+    ]
+   },
+   {
+    "rule": "'Also' takes the same mid-position; 'too' and 'as well' go at the end; 'only' goes just before the words it limits.",
+    "rule_fr": "'Also' suit la même règle (avant le verbe, après 'be' ou l'auxiliaire) ; 'too' et 'as well' vont en fin de phrase ; 'only' se place juste avant ce qu'il restreint, surtout à l'écrit, où sa position peut changer la portée d'une clause.",
+    "examples": [
+     {
+      "wrong": "I spoke also to her line manager.",
+      "right": "I [[also spoke]] to her line manager.",
+      "note_fr": "'Also' avant le verbe principal ; ou 'I spoke to her line manager too'."
+     },
+     {
+      "wrong": null,
+      "right": "The union is [[also]] concerned about workload.",
+      "note_fr": "Après 'be'."
+     },
+     {
+      "wrong": null,
+      "right": "This allowance is paid [[only]] to employees with two years' service.",
+      "note_fr": "'Only' juste avant l'élément restreint."
+     }
+    ]
+   },
+   {
+    "rule": "'Enough' follows adjectives and adverbs but comes before nouns. For 'il y a' and 'il existe', use 'there is' or 'there are', agreeing with the noun that follows.",
+    "rule_fr": "'Enough' se place après l'adjectif ou l'adverbe ('strong enough') et avant le nom ('enough time'). 'Il y a' et 'il existe' = 'there is' + singulier ou indénombrable, 'there are' + pluriel ; jamais 'it exists' ni 'it has'.",
+    "examples": [
+     {
+      "wrong": "The evidence is not enough strong to justify dismissal.",
+      "right": "The evidence is not [[strong enough]] to justify dismissal.",
+      "note_fr": "Adjectif + 'enough'."
+     },
+     {
+      "wrong": "There is three vacancies in the legal team.",
+      "right": "[[There are]] three vacancies in the legal team.",
+      "note_fr": "Accord avec le nom qui suit : pluriel -> 'there are'."
+     },
+     {
+      "wrong": "It exists several ways to challenge the decision.",
+      "right": "[[There are]] several ways to challenge the decision.",
+      "note_fr": "'Il existe' = 'there is / there are'."
+     }
+    ]
+   },
+   {
+    "rule": "Place comes before time at the end of the sentence. A time expression can also open the sentence, but it never goes between the subject and the verb or between the auxiliary and the verb.",
+    "rule_fr": "En fin de phrase, le lieu précède le temps ('here since 2015'). Un complément de temps peut ouvrir la phrase, suivi d'une virgule, mais ne s'intercale ni entre le sujet et le verbe, ni entre l'auxiliaire et le verbe.",
+    "examples": [
+     {
+      "wrong": "We will tomorrow sign the agreement.",
+      "right": "We will sign the agreement [[tomorrow]].",
+      "note_fr": "Le complément de temps va en fin (ou en tête) de phrase."
+     },
+     {
+      "wrong": "She has worked since 2015 here.",
+      "right": "She has worked [[here since 2015]].",
+      "note_fr": "Le lieu avant le temps."
+     },
+     {
+      "wrong": null,
+      "right": "[[Last year]], we introduced a new appraisal system.",
+      "note_fr": "En tête de phrase pour poser le cadre."
+     }
+    ]
+   },
+   {
+    "rule": "Give, send, offer, show and tell allow two patterns: 'send me the file' or 'send the file to me'. Explain, describe, suggest, mention and say only allow the pattern with 'to'.",
+    "rule_fr": "Give, send, offer, show, tell admettent deux constructions : 'send me the file' (personne puis chose, sans 'to') ou 'send the file to me'. Explain, describe, suggest, mention, say, announce n'admettent que 'to' + personne : 'explain it to me', jamais 'explain me'.",
+    "examples": [
+     {
+      "wrong": "I will send to you the minutes tomorrow.",
+      "right": "I will [[send you the minutes]] tomorrow.",
+      "note_fr": "Personne d'abord : pas de 'to' ; sinon 'send the minutes to you'."
+     },
+     {
+      "wrong": "Can you explain me the difference between the two contracts?",
+      "right": "Can you [[explain to me]] the difference between the two contracts?",
+      "note_fr": "'Explain' + 'to' + personne, toujours."
+     },
+     {
+      "wrong": null,
+      "right": "Could you [[send me the file]] before the hearing?",
+      "note_fr": "Ou : 'send the file to me'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "Which sentence is correct?",
+    "options": [
+     "We appreciate very much your help.",
+     "We very appreciate your help.",
+     "We appreciate your help very much.",
+     "We appreciate much your help."
+    ],
+    "answer": 2,
+    "explain_fr": "'Very much' ne sépare pas le verbe de son complément."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The payroll team ___ the figures.",
+    "options": [
+     "has already checked",
+     "has checked already",
+     "already have checked",
+     "is already checked"
+    ],
+    "answer": 0,
+    "explain_fr": "'Already' entre l'auxiliaire et le participe."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Is the meeting room ___ for the whole works council?",
+    "options": [
+     "enough big",
+     "big enough",
+     "too much big",
+     "enough bigger"
+    ],
+    "answer": 1,
+    "explain_fr": "Adjectif + 'enough'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "___ several reasons for the delay.",
+    "options": [
+     "It has",
+     "There is",
+     "It exists",
+     "There are"
+    ],
+    "answer": 3,
+    "explain_fr": "'Il y a' + pluriel : 'there are'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Could you ___ how the bonus is calculated?",
+    "options": [
+     "explain me",
+     "explain to me",
+     "say me",
+     "tell to me"
+    ],
+    "answer": 1,
+    "explain_fr": "'Explain to someone' ; 'tell' se construirait sans 'to' ('tell me')."
+   },
+   {
+    "type": "gap",
+    "prompt": "She ___ (probably / will not) come back before the end of her sick leave.",
+    "answer": "probably won't",
+    "accept": [
+     "will probably not",
+     "probably will not"
+    ],
+    "explain_fr": "'Probably' avant la négation contractée, ou 'will probably not' ; jamais 'will not probably'."
+   },
+   {
+    "type": "gap",
+    "prompt": "___ (there is / there are) a lot of information about the scheme on the intranet.",
+    "answer": "There is",
+    "accept": [
+     "There's"
+    ],
+    "explain_fr": "'Information' est indénombrable : 'there is'."
+   },
+   {
+    "type": "gap",
+    "prompt": "The finance director ___ (be / always) available for the unions.",
+    "answer": "is always",
+    "accept": [],
+    "explain_fr": "Après 'be' : 'is always'."
+   },
+   {
+    "type": "gap",
+    "prompt": "Please describe the incident ___ me in your own words.",
+    "answer": "to",
+    "accept": [],
+    "explain_fr": "'Describe something to someone'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'I received yesterday your email about the grievance.'",
+    "answer": "I received your email about the grievance yesterday.",
+    "accept": [
+     "Yesterday, I received your email about the grievance."
+    ],
+    "explain_fr": "Le complément de temps va en fin ou en tête de phrase, jamais entre le verbe et son objet."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Put 'also' in the right place: 'We have informed the health and safety committee.'",
+    "answer": "We have also informed the health and safety committee.",
+    "accept": [
+     "We've also informed the health and safety committee."
+    ],
+    "explain_fr": "'Also' après le premier auxiliaire."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite without 'to': 'The company offered a severance package to the employee.'",
+    "answer": "The company offered the employee a severance package.",
+    "accept": [],
+    "explain_fr": "Personne d'abord, puis la chose, sans préposition."
+   }
+  ]
+ },
+ {
+  "id": "gr-confusables",
+  "track": "intermediate",
+  "title": "Pairs French speakers confuse",
+  "title_fr": "Les paires que les francophones confondent",
+  "points": [
+   {
+    "rule": "'Do' goes with activities, tasks and work (do a job, do business, do research); 'make' goes with producing or deciding something (make a decision, a mistake, an offer, a complaint, progress).",
+    "rule_fr": "'Do' pour une activité, une tâche, un travail (do a job, do business, do research, do your best) ; 'make' pour ce que l'on produit ou décide (make a decision, a mistake, an offer, a complaint, an effort, progress). 'Faire' couvre les deux : il faut apprendre les collocations. 'Take a decision' se dit aussi en britannique.",
+    "examples": [
+     {
+      "wrong": "We did a mistake in his final pay.",
+      "right": "We [[made a mistake]] in his final pay.",
+      "note_fr": "'Faire une erreur' = 'make a mistake'."
+     },
+     {
+      "wrong": "She made an excellent job during the negotiations.",
+      "right": "She [[did an excellent job]] during the negotiations.",
+      "note_fr": "'Do a job' : un travail accompli."
+     },
+     {
+      "wrong": "We make business with several staffing agencies.",
+      "right": "We [[do business]] with several staffing agencies.",
+      "note_fr": "'Faire des affaires' = 'do business'."
+     }
+    ]
+   },
+   {
+    "rule": "You say something, tell someone something, speak a language or speak to someone (more formal), and talk to someone about something (a conversation).",
+    "rule_fr": "'Say' + paroles ; 'tell' + personne (et tell the truth, tell the difference) ; 'speak' pour une langue ou une prise de parole plus formelle (speak to / with someone) ; 'talk' pour une conversation (talk to someone about something). 'Speak' et 'talk' exigent 'to' devant la personne.",
+    "examples": [
+     {
+      "wrong": "He spoke me about his workload.",
+      "right": "He [[spoke to me]] about his workload.",
+      "note_fr": "'Speak to someone' : préposition obligatoire."
+     },
+     {
+      "wrong": "I don't think she said the truth to the investigator.",
+      "right": "I don't think she [[told]] the investigator the truth.",
+      "note_fr": "'Dire la vérité' = 'tell the truth'."
+     },
+     {
+      "wrong": null,
+      "right": "We need to [[talk about]] your working hours.",
+      "note_fr": "Conversation sur un sujet : 'talk about'."
+     }
+    ]
+   },
+   {
+    "rule": "'Remind' means to make someone remember; 'remember' means to keep something in mind. You lend something to someone and borrow something from someone.",
+    "rule_fr": "'Remind someone to do / of something' = rappeler à quelqu'un, faire penser à ; 'remember' = se souvenir, penser à. 'Lend' = prêter (to someone) ; 'borrow' = emprunter (from someone). 'Rappeler' et le sens de l'échange entretiennent la confusion.",
+    "examples": [
+     {
+      "wrong": "Can you remember me to send the contract?",
+      "right": "Can you [[remind me]] to send the contract?",
+      "note_fr": "'Rappelle-moi de' = 'remind me to'."
+     },
+     {
+      "wrong": "Could you borrow me your copy of the collective agreement?",
+      "right": "Could you [[lend me]] your copy of the collective agreement?",
+      "note_fr": "Celui qui donne 'lends' ; celui qui reçoit 'borrows'."
+     },
+     {
+      "wrong": null,
+      "right": "I [[remember signing]] the form, but I cannot find my copy.",
+      "note_fr": "'Remember' + -ing : se souvenir d'avoir fait."
+     }
+    ]
+   },
+   {
+    "rule": "'Rise' has no object (prices rise); 'raise' needs one (raise salaries, raise an issue). 'Affect' is the verb, 'effect' the noun.",
+    "rule_fr": "'Rise' (rose, risen) est intransitif : quelque chose augmente ; 'raise' (raised) est transitif : on augmente ou on soulève quelque chose. Nom : 'a pay rise' en britannique, 'a raise' en américain. 'Affect' est le verbe, 'effect' le nom ('have an effect on').",
+    "examples": [
+     {
+      "wrong": "The company rose salaries in line with inflation last year.",
+      "right": "The company [[raised]] salaries in line with inflation last year.",
+      "note_fr": "Avec un complément d'objet : 'raise'."
+     },
+     {
+      "wrong": "Absenteeism has raised sharply since January.",
+      "right": "Absenteeism has [[risen]] sharply since January.",
+      "note_fr": "Sans complément d'objet : 'rise, rose, risen'."
+     },
+     {
+      "wrong": "The reorganisation will effect the whole sales team.",
+      "right": "The reorganisation will [[affect]] the whole sales team.",
+      "note_fr": "Verbe : 'affect' ; nom : 'effect'."
+     }
+    ]
+   },
+   {
+    "rule": "Watch the false friends: 'actual' means real ('actuel' is current), 'sensible' means reasonable ('sensible' is sensitive), and 'economic' relates to the economy while 'economical' means cheap to run.",
+    "rule_fr": "Faux amis : 'actual' = réel, effectif ('actuel' = current, present) ; 'actually' = en fait ; 'sensible' = raisonnable, sensé ('sensible' = sensitive) ; 'economic' = relatif à l'économie, 'economical' = économe, peu coûteux.",
+    "examples": [
+     {
+      "wrong": "The actual HR director joined two years ago.",
+      "right": "The [[current]] HR director joined two years ago.",
+      "note_fr": "'Actuel' = 'current' ; 'actual' = réel."
+     },
+     {
+      "wrong": "This is a sensible issue, so please keep it confidential.",
+      "right": "This is a [[sensitive]] issue, so please keep it confidential.",
+      "note_fr": "'Sensible, délicat' = 'sensitive' ; 'sensible' = raisonnable."
+     },
+     {
+      "wrong": "They were dismissed for economical reasons.",
+      "right": "They were dismissed for [[economic]] reasons.",
+      "note_fr": "'Motif économique' = 'economic reasons' ; 'economical' = qui fait faire des économies."
+     }
+    ]
+   },
+   {
+    "rule": "Learn these patterns as fixed blocks: I agree (no 'be'), depend on, responsible for, interested in, and discuss something (no preposition).",
+    "rule_fr": "À mémoriser en bloc : 'I agree' ('agree' est un verbe, donc jamais 'I am agree') ; 'depend on' (pas 'of') ; 'responsible for' (pas 'of') ; 'interested in' (pas 'by') ; 'discuss something' sans préposition, alors qu'on dit 'talk about'.",
+    "examples": [
+     {
+      "wrong": "I am agree with the union on this point.",
+      "right": "I [[agree]] with the union on this point.",
+      "note_fr": "'Être d'accord' = 'agree', sans 'be'."
+     },
+     {
+      "wrong": "We need to discuss about the retention bonus.",
+      "right": "We need to [[discuss]] the retention bonus.",
+      "note_fr": "'Discuss' est transitif direct."
+     },
+     {
+      "wrong": "Several internal candidates are interested by the role.",
+      "right": "Several internal candidates are [[interested in]] the role.",
+      "note_fr": "'Intéressé par' = 'interested in'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "The board will ___ a decision on the bonus pool next week.",
+    "options": [
+     "do",
+     "make",
+     "have",
+     "give"
+    ],
+    "answer": 1,
+    "explain_fr": "'Make a decision' (britannique aussi : 'take a decision')."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Could you ___ me to call the occupational health doctor at three?",
+    "options": [
+     "recall",
+     "remember",
+     "memorise",
+     "remind"
+    ],
+    "answer": 3,
+    "explain_fr": "'Faire penser à quelqu'un de' = 'remind someone to'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Unemployment has ___ in the region since the plant closed.",
+    "options": [
+     "raised",
+     "rose",
+     "risen",
+     "arisen"
+    ],
+    "answer": 2,
+    "explain_fr": "Intransitif, participe passé : 'risen'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Pay data is highly ___ information.",
+    "options": [
+     "sensitive",
+     "sensible",
+     "sensitized",
+     "sensory"
+    ],
+    "answer": 0,
+    "explain_fr": "'Données sensibles' = 'sensitive' ; 'sensible' = raisonnable."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The final amount depends ___ her length of service.",
+    "options": [
+     "of",
+     "from",
+     "on",
+     "to"
+    ],
+    "answer": 2,
+    "explain_fr": "'Depend on'."
+   },
+   {
+    "type": "gap",
+    "prompt": "I ___ (agree) with you: we should settle before the hearing.",
+    "answer": "agree",
+    "accept": [
+     "do agree",
+     "fully agree",
+     "completely agree"
+    ],
+    "explain_fr": "'I agree', jamais 'I am agree'."
+   },
+   {
+    "type": "gap",
+    "prompt": "Who is responsible ___ health and safety on this site?",
+    "answer": "for",
+    "accept": [],
+    "explain_fr": "'Responsible for'."
+   },
+   {
+    "type": "gap",
+    "prompt": "The pension changes will ___ (affect / effect) all employees over fifty.",
+    "answer": "affect",
+    "accept": [],
+    "explain_fr": "Verbe : 'affect'."
+   },
+   {
+    "type": "gap",
+    "prompt": "Could you ___ (lend / borrow) me your pass? I have left mine at home.",
+    "answer": "lend",
+    "accept": [],
+    "explain_fr": "Celui qui prête : 'lend'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'We discussed about the actual situation of the company.'",
+    "answer": "We discussed the current situation of the company.",
+    "accept": [
+     "We discussed the company's current situation.",
+     "We discussed the present situation of the company.",
+     "We discussed the company's present situation.",
+     "We talked about the current situation of the company.",
+     "We talked about the company's current situation."
+    ],
+    "explain_fr": "'Discuss' sans préposition ; 'actuel' = 'current'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'She is very interested by the position and she said me she can start in May.'",
+    "answer": "She is very interested in the position and she told me she can start in May.",
+    "accept": [
+     "She is very interested in the position and she told me that she can start in May.",
+     "She is very interested in the position and told me she can start in May.",
+     "She is very interested in the position and she told me she could start in May.",
+     "She is very interested in the position and she said she can start in May."
+    ],
+    "explain_fr": "'Interested in' ; 'tell' + personne (ou 'say' sans la personne)."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite with the verb 'rise', starting with 'Salaries': 'The company raised salaries in January.'",
+    "answer": "Salaries rose in January.",
+    "accept": [],
+    "explain_fr": "'Rise' est intransitif : 'salaries rose'."
+   }
+  ]
+ }
+]

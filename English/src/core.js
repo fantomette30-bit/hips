@@ -1,6 +1,6 @@
 'use strict';
 /* Parlance — Legal & HR English. Core: state, storage, speech, recording, spaced repetition. */
-const APP_VERSION = '0.1.0';
+const APP_VERSION = '0.4.0';
 const DATA = window.PARLANCE_DATA;
 const STORE_KEY = 'parlance.v1';
 
@@ -27,7 +27,8 @@ const DEFAULTS = () => ({
   settings: { variety: 'uk', theme: 'auto', scale: 1, rate: 1, frHelp: false, goal: 15, voiceUk: '', voiceUs: '' },
   srs: {}, seen: {}, levels: {}, done: {}, drafts: {}, notebook: [], days: {}, errors: {}, answers: { ok: 0, ko: 0 },
   placement: null, welcomed: false, lastTheme: '',
-  online: { code: '', quality: 'best', converse: false, warned: '' }, queue: [], corrections: []
+  online: { code: '', quality: 'best', converse: false, warned: '' }, queue: [], corrections: [],
+  stars: {}, gmiss: {}, daily: {}
 });
 let S = DEFAULTS();
 function load() {

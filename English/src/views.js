@@ -39,18 +39,34 @@ function nextStep() {
 }
 const SKILL_LABEL = { vocabulary: 'Vocabulary', grammar: 'Grammar & linking', reading: 'Reading', writing: 'Writing', speaking: 'Speaking', listening: 'Listening' };
 const SKILL_LINK = { vocabulary: 'learn', grammar: 'toolkit/grammar', reading: 'library', writing: 'practise', speaking: 'practise', listening: 'library' };
+const WEEKDAYS = ['S', 'M', 'T', 'W', 'T', 'F', 'S'];
+function weekCard(m, goal) {
+  const days = [], d = new Date(); d.setDate(d.getDate() - 6);
+  for (let i = 0; i < 7; i++) { days.push({ v: S.days[dayKey(d)] || 0, l: WEEKDAYS[d.getDay()], today: i === 6 }); d.setDate(d.getDate() + 1); }
+  const max = Math.max(goal * 60, ...days.map(x => x.v));
+  return '<div class="card weekcard"><div class="ring ' + (m >= goal ? 'gold' : '') + '" style="--p:' + Math.min(100, pct(m, goal)) + '"><b>' + m + '<small>of ' + goal + ' min</small></b></div>' +
+    '<div class="week">' + days.map(x => '<div class="' + (x.today ? 'today' : '') + '"><i class="' + (x.v >= 60 ? 'on' : '') + '" style="height:' + (x.v ? Math.max(12, Math.round(78 * x.v / max)) : 6) + '%"></i><span>' + x.l + '</span></div>').join('') + '</div></div>';
+}
+function wordOfDay() {
+  const pool = ALL_ENTRIES.filter(e => e.level <= 2), e = pool[dayNum() % pool.length]; if (!e) return '';
+  return '<div class="card wod"><span class="eyebrow">Expression of the day</span><div class="titlerow"><h2>' + esc(termOf(e)) + '</h2><span>' + sayBtn(termOf(e), V()) + '</span></div>' +
+    '<p class="ipa">' + esc(pick(e.ipa)) + '</p><p>' + esc(e.def) + '</p>' + fr('<p><b>' + esc(e.fr) + '</b></p>', 'En français') + '<a href="#/entry/' + e.id + '">Open the full entry</a></div>';
+}
 VIEWS.home = () => {
   if (!S.welcomed) return welcome();
-  const due = dueIds().length, m = minutesToday(), goal = S.settings.goal, sp = skillProgress(), st = streak(), ns = nextStep();
+  const due = dueIds().length, m = minutesToday(), goal = S.settings.goal, sp = skillProgress(), st = streak(), ns = nextStep(), plan = dailyPlan();
   const errs = Object.entries(S.errors).sort((a, b) => b[1] - a[1]).slice(0, 4);
-  const p = S.placement, stale = p && Date.now() - p.t > 60 * 864e5;
+  const p = S.placement, stale = p && Date.now() - p.t > 60 * 864e5, doneToday = S.daily[dayKey()];
   const hello = new Date().getHours() < 12 ? 'Good morning' : new Date().getHours() < 18 ? 'Good afternoon' : 'Good evening';
-  return '<header class="hero"><div><p class="eyebrow">' + new Date().toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' }) + '</p><h1>' + hello + '</h1></div>' +
-    '<div class="ring ' + (m >= goal ? 'gold' : '') + '" style="--p:' + Math.min(100, pct(m, goal)) + '"><b>' + m + '<small>/' + goal + ' min</small></b></div></header>' +
+  return '<header class="hero"><div><p class="eyebrow">' + new Date().toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' }) + '</p><h1>' + hello + '</h1></div>' + tools() + '</header>' +
+    '<div class="card feature daily"><span class="eyebrow">' + (doneToday != null ? 'Done today · ' + doneToday + '%' : 'Today’s session · about ' + plan.minutes + ' min') + '</span><b>' + (doneToday != null ? 'Another round?' : 'Your session is ready') + '</b>' +
+    '<div class="mix">' + plan.mix.map(x => '<span>' + esc(x) + '</span>').join('') + '</div><button class="btn" data-act="daily">' + icon('bolt') + ' ' + (doneToday != null ? 'Start again' : 'Start') + '</button></div>' +
+    weekCard(m, goal) +
     '<div class="stats"><div>' + icon('flame') + '<b>' + st + '</b><span>day streak</span></div><div>' + icon('cards') + '<b>' + due + '</b><span>to review</span></div><div>' + icon('star') + '<b>' + ALL_ENTRIES.filter(e => mastered(e.id)).length + '</b><span>mastered</span></div></div>' +
-    card(ns.href, '<span class="eyebrow">Continue</span><b>' + esc(ns.title) + '</b><small>' + esc(ns.sub) + '</small>', 'feature') +
+    card(ns.href, '<span class="eyebrow">Continue · ' + esc(THEME(currentTheme()).title) + '</span><b>' + esc(ns.title) + '</b><small>' + esc(ns.sub) + '</small>') +
     (due ? card('review', '<span class="eyebrow">Spaced repetition</span><b>Review ' + due + ' item' + (due > 1 ? 's' : '') + '</b><small>What you are about to forget comes back first.</small>') : '') +
     (!p || stale ? card('placement', '<span class="eyebrow">' + (stale ? 'Two months on' : 'Recommended') + '</span><b>' + (stale ? 'Retake the placement test' : 'Take the placement test') + '</b><small>32 questions to set your priorities.</small>') : '') +
+    wordOfDay() +
     section('Your skills', '<div class="card skills">' + Object.keys(SKILL_LABEL).map(k => '<a href="#/' + SKILL_LINK[k] + '"><span>' + SKILL_LABEL[k] + '</span>' + bar(sp[k]) + '<em>' + sp[k] + '%</em></a>').join('') + '</div>') +
     (p ? section('Placement', '<div class="card"><p><b>Estimated level: ' + esc(p.est) + '</b> · ' + new Date(p.t).toLocaleDateString('en-GB') + '</p><p class="sub">Priorities: ' + p.weak.map(k => '<a href="#/' + SKILL_LINK[k] + '">' + SKILL_LABEL[k] + '</a>').join(', ') + '</p></div>') : '') +
     (errs.length ? section('Where you slip most', '<div class="card errs">' + errs.map(e => '<div><span>' + esc(e[0]) + '</span>' + bar(pct(e[1], errs[0][1]), 'thin') + '<em>' + e[1] + '</em></div>').join('') + '</div>') : '') +
@@ -65,17 +81,20 @@ const TOOLKIT = [
   ['softeners', 'Tact and softeners', 'chat', () => 'Bad news, requests, disagreement'],
   ['markers', 'Spoken markers', 'ear', () => L.spoken_markers.length + ' words natives lean on'],
   ['rhythm', 'Sentence rhythm', 'scale', () => 'From heavy to natural'],
-  ['grammar', 'Grammar', 'learn', () => L.grammar.length + ' lessons with production drills'],
+  ['grammar', 'Grammar', 'learn', () => L.grammar.length + ' lessons, workout and mistake drills'],
   ['pron', 'Pronunciation', 'mic', () => L.pronunciation.length + ' lessons, listen and record'],
   ['numbers', 'Numbers, dates, spelling', 'clock', () => 'Said the British and the American way']
 ];
-VIEWS.learn = () => head('Learn', 'Themes, then the language that holds them together.') +
-  section('Themes', DATA.themes.map((t, i) => {
-    const list = themeEntries(t.id);
-    if (!list.length) return '<div class="card locked"><span class="num">' + (i + 1) + '</span><div><b>' + esc(t.title) + '</b><small>' + esc(t.blurb) + '</small><small class="soon">' + icon('lock') + ' Coming in the next stage</small></div></div>';
-    const seen = list.filter(e => S.seen[e.id]).length;
-    return card('theme/' + t.id, '<span class="num">' + (i + 1) + '</span><div><b>' + esc(t.title) + '</b><small>' + esc(t.blurb) + '</small>' + bar(pct(seen, list.length), 'thin') + '<small>' + seen + ' of ' + list.length + ' expressions discovered</small></div>', 'theme');
-  }).join('')) +
+const GROUPS = [['core', 'Your core practice', 'Labour relations, restructuring and transformation.'], ['relation', 'The employment relationship', 'From the contract to the courtroom.'], ['hr', 'Across the HR function', 'Everything a generalist HR director handles.']];
+function themeCard(t) {
+  const list = themeEntries(t.id);
+  if (!list.length) return '<div class="card tcard locked"><span class="ticon">' + icon(t.icon || 'doc') + '</span><div><b>' + esc(t.title) + '</b><small>' + esc(t.blurb) + '</small><small class="soon">' + icon('lock') + ' Coming soon</small></div></div>';
+  const seen = list.filter(e => S.seen[e.id]).length, got = list.filter(e => mastered(e.id)).length, now = t.id === currentTheme();
+  return '<a class="card tcard ' + (now ? 'now' : '') + '" href="#/theme/' + t.id + '"><span class="ticon">' + icon(t.icon || 'doc') + '</span><div><b>' + esc(t.title) + (now ? '<span class="pill">Current</span>' : '') + '</b><small>' + esc(t.blurb) + '</small>' +
+    bar(pct(seen, list.length), 'thin') + '<small>' + seen + ' of ' + list.length + ' discovered' + (got ? ' · ' + got + ' mastered' : '') + '</small></div></a>';
+}
+VIEWS.learn = () => head('Learn', READY().length + ' themes, then the language that holds them together.') +
+  GROUPS.map(g => { const ts = DATA.themes.filter(t => t.group === g[0]); return ts.length ? section(g[1], '<div class="tgrid">' + ts.map(themeCard).join('') + '</div>', g[2]) : ''; }).join('') +
   section('Language toolkit', '<div class="grid">' + TOOLKIT.map(t => '<a class="card tile" href="#/toolkit/' + t[0] + '">' + icon(t[2]) + '<b>' + t[1] + '</b><small>' + t[3]() + '</small></a>').join('') + '</div>');
 
 VIEWS.theme = id => {
@@ -90,10 +109,8 @@ VIEWS.theme = id => {
         (open ? bar(pct(seen, list.length), 'thin') + '<div class="row"><a class="btn ghost" href="#/cards/' + id + '/' + lv + '">Study</a><button class="btn ghost" data-act="practise" data-t="' + id + '" data-l="' + lv + '">Practise</button><button class="btn" data-act="levelCheck" data-t="' + id + '" data-l="' + lv + '">Level check</button></div>'
           : '<small class="soon">' + icon('lock') + ' Score 80% on the level ' + (lv - 1) + ' check to open this level.</small>') + '</div>';
     }).join('') +
-    section('Focused drills', '<div class="grid"><button class="card tile" data-act="drill" data-t="' + id + '" data-k="register">' + icon('scale') + '<b>Register</b><small>Formal or everyday?</small></button>' +
-      '<button class="card tile" data-act="drill" data-t="' + id + '" data-k="ukus">' + icon('chat') + '<b>UK / US</b><small>Tell the two apart</small></button>' +
-      '<button class="card tile" data-act="drill" data-t="' + id + '" data-k="dictation">' + icon('ear') + '<b>Dictation</b><small>Natural sentences</small></button>' +
-      '<button class="card tile" data-act="drill" data-t="' + id + '" data-k="type">' + icon('practise') + '<b>Recall</b><small>Write it from memory</small></button></div>') +
+    section('Focused drills', '<div class="grid">' + [['match', 'tiles', 'Matching', 'Pair terms and meanings'], ['order', 'sort', 'Word order', 'Rebuild natural sentences'], ['register', 'scale', 'Register', 'Formal or everyday?'], ['ukus', 'chat', 'UK / US', 'Tell the two apart'], ['listen', 'ear', 'Listening', 'Hear it, pick the meaning'], ['dictation', 'mic', 'Dictation', 'Natural sentences'], ['type', 'practise', 'Recall', 'Write it from memory']]
+      .map(d => '<button class="card tile" data-act="drill" data-t="' + id + '" data-k="' + d[0] + '">' + icon(d[1]) + '<b>' + d[2] + '</b><small>' + d[3] + '</small></button>').join('') + '</div>') +
     section('In this theme', '<div class="grid"><a class="card tile" href="#/library">' + icon('library') + '<b>' + k.reading.length + ' documents</b><small>to read and decode</small></a><a class="card tile" href="#/library">' + icon('ear') + '<b>' + k.dialogues.length + ' dialogues</b><small>to listen to</small></a><a class="card tile" href="#/practise">' + icon('practise') + '<b>' + k.writing.length + ' writing tasks</b><small>with model answers</small></a><a class="card tile" href="#/practise">' + icon('mic') + '<b>' + k.roleplays.length + ' role plays</b><small>timed, recorded</small></a></div>') +
     section('French notions to explain', '<div class="card list">' + all.filter(e => e.french_concept).map(e => '<a href="#/entry/' + e.id + '"><span lang="fr">' + esc(e.fr) + '</span><em>' + esc(termOf(e)) + '</em></a>').join('') + '</div>', 'No direct equivalent abroad: how to put them across.');
 };
@@ -101,10 +118,10 @@ const openEntries = t => themeEntries(t).filter(e => levelOpen(t, e.level));
 ACT.practise = el => { const t = el.dataset.t, lv = +el.dataset.l, list = themeEntries(t, lv); startSession({ title: 'Practice', back: 'theme/' + t, questions: buildQuestions(list, themeEntries(t), 12) }); };
 ACT.levelCheck = el => {
   const t = el.dataset.t, lv = +el.dataset.l, list = themeEntries(t, lv);
-  startSession({ title: 'Level ' + lv + ' check', back: 'theme/' + t, questions: buildQuestions(list, themeEntries(t), 20, ['fr', 'cloze', 'def', 'register', 'type', 'ukus', 'cloze', 'dictation']),
+  startSession({ title: 'Level ' + lv + ' check', back: 'theme/' + t, questions: buildQuestions(list, themeEntries(t), 20, ['fr', 'cloze', 'enfr', 'register', 'type', 'order', 'def', 'ukus', 'cloze', 'dictation']),
     onFinish: score => { const k = t + ':' + lv; S.levels[k] = Math.max(S.levels[k] || 0, score); save(); return score >= 80 ? (lv < 3 ? 'Level ' + (lv + 1) + ' is now open.' : 'You have completed this theme.') : 'You need 80% to open the next level. Review the cards, then try again.'; } });
 };
-ACT.drill = el => { const t = el.dataset.t, k = el.dataset.k, list = openEntries(t); startSession({ title: 'Drill', back: 'theme/' + t, questions: buildQuestions(list, themeEntries(t), 12, [k]) }); };
+ACT.drill = el => { const t = el.dataset.t, k = el.dataset.k, list = openEntries(t); startSession({ title: 'Drill', back: 'theme/' + t, questions: buildQuestions(list, themeEntries(t), k === 'match' ? 6 : 12, [k]) }); };
 
 VIEWS.cards = (t, lv) => {
   lv = +lv; const list = themeEntries(t, lv); if (!list.length) { go('learn'); return null; }
@@ -121,7 +138,7 @@ VIEWS.entry = id => {
     return '<div class="reg reg-' + k + '"><span class="reglabel">' + regLabel[k] + '</span><p class="regterm">' + esc(pick(r)) + ' ' + sayBtn(pick(r), v) + (d ? '<span class="alt">' + chip(o.toUpperCase(), 'v-' + o) + ' ' + esc(r[o]) + '</span>' : '') + '</p>' +
       '<p class="ex">' + mark(regEx(r)) + ' ' + sayBtn(regEx(r), v) + sayBtn(regEx(r), v, true) + '</p>' + (r.ex_us && v === 'uk' ? '<p class="ex alt">' + chip('US', 'v-us') + ' ' + mark(r.ex_us) + '</p>' : '') + '</div>'; };
   return '<header class="head"><a class="ib" href="#/cards/' + t + '/' + e.level + '" aria-label="Back">' + icon('back') + '</a><div><p class="eyebrow">' + esc(THEME(t).title) + ' · level ' + e.level + ' · ' + (i + 1) + '/' + list.length + '</p></div></header>' +
-    '<article class="entry card"><h1>' + esc(e.term[v]) + '</h1><p class="ipa">' + chip(v.toUpperCase(), 'v-' + v) + ' ' + esc(e.ipa[v]) + ' ' + sayBtn(e.term[v], v) + sayBtn(e.term[v], v, true) + '</p>' +
+    '<article class="entry card"><div class="titlerow"><h1>' + esc(e.term[v]) + '</h1><button class="ib ' + (S.stars[id] ? 'starred' : '') + '" data-act="star" data-id="' + id + '" aria-label="Star this expression">' + icon('star') + '</button></div><p class="ipa">' + chip(v.toUpperCase(), 'v-' + v) + ' ' + esc(e.ipa[v]) + ' ' + sayBtn(e.term[v], v) + sayBtn(e.term[v], v, true) + '</p>' +
     '<p class="ipa alt">' + chip(o.toUpperCase(), 'v-' + o) + ' ' + (diff ? '<b>' + esc(e.term[o]) + '</b> ' : '<i>same wording</i> ') + esc(e.ipa[o]) + ' ' + sayBtn(e.term[o], o) + '</p>' +
     '<p class="def">' + esc(e.def) + '</p>' + fr('<p><b>' + esc(e.fr) + '</b></p>' + (e.note_fr ? '<p>' + esc(e.note_fr) + '</p>' : ''), 'En français · piège à éviter') +
     (e.french_concept && e.explain ? '<div class="explain"><span class="reglabel">How to explain it</span><p><i>In writing</i> — ' + esc(e.explain.written) + ' ' + sayBtn(e.explain.written, v) + '</p><p><i>Out loud</i> — ' + esc(e.explain.spoken) + ' ' + sayBtn(e.explain.spoken, v) + '</p></div>' : '') +
@@ -137,7 +154,7 @@ const lessonRun = (id, title, list, back) => startSession({ title, back, questio
 ACT.lesson = el => {
   const [kind, id] = el.dataset.k.split(':');
   if (kind === 'cn') { const c = L.connectors.find(x => x.id === id); lessonRun(id, c.function, c.exercises, 'toolkit/connectors/' + id); }
-  if (kind === 'gr') { const g = L.grammar.find(x => x.id === id); lessonRun(id, g.title, g.exercises, 'toolkit/grammar/' + id); }
+  if (kind === 'gr') { const g = L.grammar.find(x => x.id === id); grammarRun(g.exercises.map((x, i) => [g, i]), g.title, 'toolkit/grammar/' + id, score => markDone(id, score)); }
 };
 ACT.markDone = el => { markDone(el.dataset.id); toast('Marked as done'); render(); };
 const posLabel = { start: 'opens the sentence', mid: 'mid-sentence', end: 'closes the sentence', any: 'flexible position' };
@@ -165,14 +182,21 @@ const TK = {
       L.rhythm.map((r, i) => '<div class="card"><span class="reglabel">' + esc(r.title) + '</span><p class="heavy">' + esc(r.heavy) + '</p><details class="reveal"><summary>Show the natural version</summary><p class="natural">' + esc(r.natural) + ' ' + sayBtn(r.natural, V()) + '</p></details>' + fr(esc(r.explain_fr), r.title_fr) + '</div>').join('');
   },
   grammar(id) {
-    if (!id) { const row = g => '<a href="#/toolkit/grammar/' + g.id + '"><span><b>' + esc(g.title) + '</b><small lang="fr">' + esc(g.title_fr) + '</small></span>' + doneTick(g.id) + '</a>';
-      return head('Grammar', 'Each rule ends with sentences you have to produce.', 'learn') +
-        section('Legal and HR register', '<div class="card list">' + L.grammar.filter(g => g.track === 'legal').map(row).join('') + '</div>') +
-        section('Intermediate traps for French speakers', '<div class="card list">' + L.grammar.filter(g => g.track !== 'legal').map(row).join('') + '</div>'); }
+    if (!id) {
+      const row = g => '<a href="#/toolkit/grammar/' + g.id + '"><span><b>' + esc(g.title) + '</b><small lang="fr">' + esc(g.title_fr) + '</small></span>' + scoreRing(g.id) + '</a>';
+      const done = L.grammar.filter(g => S.done[g.id]).length, miss = Object.values(S.gmiss).reduce((a, b) => a + b.length, 0);
+      return head('Grammar', done + ' of ' + L.grammar.length + ' lessons practised', 'learn') +
+        '<div class="grid"><button class="card tile" data-act="grammarWorkout">' + icon('bolt') + '<b>Grammar workout</b><small>12 mixed questions, weak spots first</small></button>' +
+        '<button class="card tile" data-act="spotMistake">' + icon('target') + '<b>Spot the mistake</b><small>Which sentence is correct?</small></button>' +
+        (miss ? '<button class="card tile" data-act="grammarRedo">' + icon('cards') + '<b>My mistakes</b><small>' + miss + ' question' + (miss > 1 ? 's' : '') + ' to redo</small></button>' : '') + '</div>' +
+        GRAMMAR_TRACKS.map(t => { const ls = L.grammar.filter(g => g.track === t[0]); return ls.length ? section(t[1], '<div class="card list">' + ls.map(row).join('') + '</div>', t[2]) : ''; }).join('');
+    }
     const g = L.grammar.find(x => x.id === id); if (!g) { go('toolkit/grammar'); return null; }
-    return head(g.title, '<span lang="fr">' + esc(g.title_fr) + '</span>', 'toolkit/grammar') +
-      g.points.map(p => '<div class="card"><p class="rule">' + esc(p.rule) + '</p>' + fr(esc(p.rule_fr), 'La règle') + p.examples.map(x => '<div class="conn">' + (x.wrong ? '<p class="wrong">' + esc(plain(x.wrong)) + '</p>' : '') + '<p class="ex">' + mark(x.right) + ' ' + sayBtn(x.right, V()) + '</p>' + fr(esc(x.note_fr), 'Note') + '</div>').join('') + '</div>').join('') +
-      '<button class="btn wide" data-act="lesson" data-k="gr:' + g.id + '">Practise · ' + g.exercises.length + ' questions</button>';
+    const miss = (S.gmiss[id] || []).length, best = S.done[id];
+    return head(g.title, '<span lang="fr">' + esc(g.title_fr) + '</span>' + (best ? ' · best score ' + best.s + '%' : ''), 'toolkit/grammar') +
+      g.points.map((p, i) => '<div class="card"><span class="reglabel">Rule ' + (i + 1) + '</span><p class="rule">' + esc(p.rule) + '</p>' + fr(esc(p.rule_fr), 'La règle') + p.examples.map(x => '<div class="conn">' + (x.wrong ? '<p class="wrong">' + esc(plain(x.wrong)) + '</p>' : '') + '<p class="ex rightline">' + mark(x.right) + ' ' + sayBtn(x.right, V()) + '</p>' + fr(esc(x.note_fr), 'Note') + '</div>').join('') + '</div>').join('') +
+      '<button class="btn wide" data-act="lesson" data-k="gr:' + g.id + '">Practise · ' + g.exercises.length + ' questions</button>' +
+      (miss ? '<button class="btn ghost wide" data-act="grammarRedo" data-id="' + g.id + '">Redo my mistakes · ' + miss + '</button>' : '');
   },
   pron(id) {
     if (!id) return head('Pronunciation', 'Listen in both accents, record yourself, compare.', 'learn') +
@@ -338,7 +362,7 @@ function addNote(text, note) {
 VIEWS.notebook = () => head('Notebook', 'Words and sentences met at work. They join your reviews automatically.') +
   '<form class="card noteform" id="noteform"><label>Word, expression or sentence<textarea id="nbText" rows="2" placeholder="e.g. Let’s park that for now."></textarea></label><label>Meaning or context <small>(optional)</small><input id="nbNote" type="text" placeholder="e.g. remettre à plus tard — said in a meeting"></label><button class="btn wide" data-act="noteAdd">' + icon('plus') + ' Add to my notebook</button></form>' +
   (S.notebook.length ? '<button class="btn ghost wide" data-act="noteDrill">Drill my notebook</button><div class="card notes">' + S.notebook.map(n => '<div class="note"><div><p><b>' + esc(n.text) + '</b></p>' + (n.note ? '<p class="sub">' + esc(n.note) + '</p>' : '') + '</div><span>' + sayBtn(n.text, V()) + '<button class="ib" data-act="noteDel" data-id="' + n.id + '" aria-label="Delete">' + icon('trash') + '</button></span></div>').join('') + '</div>'
-    : '<p class="empty">Nothing yet. The best entries are the ones you nearly understood today.</p>');
+    : '<p class="empty">Nothing yet. The best entries are the ones you nearly understood today.</p>') + starredSection();
 ACT.noteAdd = () => { const t = $('#nbText').value, ok = addNote(t, $('#nbNote').value); if (!t.trim()) { $('#nbText').focus(); return; } toast(ok ? 'Added' : 'Already in your notebook'); render(); };
 ACT.noteDel = el => { S.notebook = S.notebook.filter(n => n.id !== el.dataset.id); delete S.srs[el.dataset.id]; save(); render(); };
 ACT.noteDrill = () => {
@@ -356,7 +380,7 @@ VIEWS.review = () => {
   const back = e ? '<h2>' + esc(termOf(e)) + ' ' + sayBtn(termOf(e), V()) + '</h2><p class="ipa">' + esc(pick(e.ipa)) + (differs(e.term) ? ' · ' + chip(other(V()).toUpperCase(), 'v-' + other(V())) + ' ' + esc(e.term[other(V())]) : '') + '</p>' + (e.registers.everyday ? '<p class="ex">' + mark(regEx(e.registers.everyday)) + '</p>' : '') + fr(esc(e.note_fr), 'Note') + '<p><a href="#/entry/' + e.id + '">Open the full entry</a></p>'
     : '<h2>' + esc(n.text) + ' ' + sayBtn(n.text, V()) + '</h2>';
   return '<div class="sess"><div class="sess-top"><a class="ib" href="#/" aria-label="Close">' + icon('back') + '</a>' + bar(pct(RV.i, RV.ids.length)) + '<span class="count">' + (RV.i + 1) + ' / ' + RV.ids.length + '</span></div>' +
-    '<div class="qcard flash ' + (RV.shown ? 'shown' : '') + '">' + front + (RV.shown ? '<hr>' + back + '<div class="rate"><button data-act="rate" data-q="0">Again</button><button data-act="rate" data-q="1">Hard</button><button data-act="rate" data-q="2">Good</button><button data-act="rate" data-q="3">Easy</button></div>' : '<button class="btn wide" data-act="reveal">Show the answer</button>') + '</div></div>';
+    '<div class="qcard flash ' + (RV.shown ? 'shown' : '') + '">' + front + (RV.shown ? '<div class="back"><hr>' + back + '<div class="rate">' + ['Again', 'Hard', 'Good', 'Easy'].map((l, q) => '<button data-act="rate" data-q="' + q + '">' + l + '<small>' + srsNext(id, q) + '</small></button>').join('') + '</div></div>' : '<button class="btn wide" data-act="reveal">Show the answer</button>') + '</div></div>';
 };
 ACT.reveal = () => { RV.shown = true; render(); };
 ACT.rate = el => { srsGrade(RV.ids[RV.i], +el.dataset.q); RV.i++; RV.shown = false; render(); };
@@ -374,7 +398,7 @@ ACT.placementStart = () => {
     return { tag: SKILL_LABEL[p.skill] || p.skill, meta: p, options: p.options, answer: p.answer, audio: listen ? { text: p.audio, variety: V() } : null,
       prompt: (p.passage ? '<div class="passage">' + esc(p.passage) + '</div>' : '') + (p.audio && !listen ? '<div class="passage">' + esc(p.audio) + '</div>' : '') + esc(p.prompt) };
   });
-  startSession({ title: 'Placement test', back: '', questions: qs, onFinish: (score, s) => {
+  startSession({ title: 'Placement test', back: '', noRecap: true, questions: qs, onFinish: (score, s) => {
     const by = {}; let got = 0, max = 0;
     s.questions.forEach((q, i) => { const k = q.meta.skill, w = lv[q.meta.level]; by[k] = by[k] || { ok: 0, n: 0 }; by[k].n++; max += w; if (s.results[i]) { by[k].ok++; got += w; } });
     const r = got / max, est = r < 0.4 ? 'B1' : r < 0.62 ? 'B1+' : r < 0.8 ? 'B2' : r < 0.92 ? 'B2+' : 'C1';

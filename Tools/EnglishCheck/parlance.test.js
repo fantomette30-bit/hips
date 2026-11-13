@@ -29,7 +29,7 @@ const SHOTS = shotsAt > 0 ? process.argv[shotsAt + 1] : null;
     await shot(page, '01-welcome');
     await page.click('[data-act="welcomeDone"][data-to=""]');
     await page.waitForSelector('.hero');
-    check(await page.locator('#nav a').count() === 6, 'navigation incomplète');
+    check(await page.locator('#nav a').count() === 7, 'navigation incomplète');
     await shot(page, '02-today');
     console.log('  accueil affiché');
 
@@ -67,24 +67,34 @@ const SHOTS = shotsAt > 0 ? process.argv[shotsAt + 1] : null;
     const builtAll = await page.evaluate(() => {
       const res = {};
       Object.keys(DATA.entries).forEach(t => { const out = {}, all = themeEntries(t);
-        Object.keys(QB).forEach(k => { out[k] = all.filter(e => { const q = QB[k](e, all); return q && (q.options ? q.options.length >= 2 && q.answer >= 0 && new Set(q.options).size === q.options.length : q.answers.length > 0); }).length; });
+        Object.keys(QB).forEach(k => { out[k] = all.filter(e => { const q = QB[k](e, all, all); return q && (q.options ? q.options.length >= 2 && q.answer >= 0 && new Set(q.options).size === q.options.length : q.match ? q.match.left.length === 4 && q.match.right.length === 4 : q.order ? q.order.words.length >= 4 && q.order.words.length <= 9 && q.order.words.join(' ') !== q.order.answer && q.order.seq.join(' ') === q.order.answer : q.answers.length > 0); }).length; });
         res[t] = out; });
       return res;
     });
     for (const [t, built] of Object.entries(builtAll)) {
       console.log('  questions constructibles, ' + t + ' :', JSON.stringify(built));
-      ['fr', 'def', 'cloze', 'type'].forEach(k => check(built[k] >= 95, t + ' : type de question « ' + k + ' », seulement ' + built[k] + ' expressions'));
+      ['fr', 'def', 'cloze', 'type', 'enfr', 'listen'].forEach(k => check(built[k] >= 95, t + ' : type de question « ' + k + ' », seulement ' + built[k] + ' expressions'));
       check(built.register >= 40, t + ' : trop peu de questions de registre : ' + built.register);
       check(built.ukus >= 8, t + ' : trop peu de questions UK / US : ' + built.ukus);
+      check(built.match >= 85, t + ' : trop peu de questions d’appariement : ' + built.match);
+      check(built.order >= 90, t + ' : trop peu de phrases à remettre en ordre : ' + built.order);
     }
 
     // 5. une séance complète, en répondant juste
     const answerAll = async correct => {
-      for (let guard = 0; guard < 60; guard++) {
-        const st = await page.evaluate(() => (SESSION && SESSION.i < SESSION.questions.length ? { opt: !!SESSION.questions[SESSION.i].options, a: SESSION.questions[SESSION.i].answer, t: (SESSION.questions[SESSION.i].answers || [])[0] } : null));
+      for (let guard = 0; guard < 80; guard++) {
+        const st = await page.evaluate(() => { if (!SESSION || SESSION.i >= SESSION.questions.length) return null; const q = SESSION.questions[SESSION.i];
+          return { opt: !!q.options, a: q.answer, t: (q.answers || [])[0], match: q.match ? q.match.left.map(x => x.id) : null, order: q.order ? q.order.seq : null }; });
         if (!st) break;
         if (st.opt) await page.click('.opt[data-i="' + (correct ? st.a : (st.a + 1) % 2) + '"]');
-        else { await page.fill('#ans', correct ? st.t : 'zzz'); await page.click('[data-act="check"]'); const sm = page.locator('[data-act="selfmark"][data-ok=""]'); if (await sm.count()) await sm.click(); }
+        else if (st.match) {
+          if (!correct) { await page.click('.mbtn[data-side="l"][data-id="' + st.match[0] + '"]'); await page.click('.mbtn[data-side="r"][data-id="' + st.match[1] + '"]'); }
+          for (const id of st.match) { await page.click('.mbtn[data-side="l"][data-id="' + id + '"]'); await page.click('.mbtn[data-side="r"][data-id="' + id + '"]'); }
+        } else if (st.order) {
+          if (correct) { for (const w of st.order) await page.evaluate(word => { const b = Array.from(document.querySelectorAll('.bank .wchip:not(.used)')).find(x => x.textContent === word); b.click(); }, w); }
+          else { const n = await page.locator('.bank .wchip').count(); for (let k = 0; k < n; k++) await page.click('.bank .wchip[data-i="' + k + '"]'); }
+          await page.click('#ordCheck');
+        } else { await page.fill('#ans', correct ? st.t : 'zzz'); await page.click('[data-act="check"]'); const sm = page.locator('[data-act="selfmark"][data-ok=""]'); if (await sm.count()) await sm.click(); }
         await page.click('[data-act="nextQ"]');
       }
     };
@@ -109,6 +119,45 @@ const SHOTS = shotsAt > 0 ? process.argv[shotsAt + 1] : null;
     await page.waitForSelector('.level');
     check(await page.locator('.level.locked').count() === 1, 'le niveau 2 ne s’est pas ouvert à 100 %');
     console.log('  séances, score et déblocage du niveau 2 : conformes');
+
+    // 6b. séance du jour
+    await go(''); await page.click('[data-act="daily"]'); await page.waitForSelector('.qcard');
+    const mixSeen = await page.evaluate(() => SESSION.questions.map(q => q.gi ? 'grammar' : q.match ? 'match' : q.order ? 'order' : q.options ? 'mcq' : 'typed'));
+    check(mixSeen.length >= 8 && mixSeen.includes('grammar') && mixSeen.includes('match'), 'séance du jour incomplète : ' + mixSeen.join(','));
+    await shot(page, '07b-daily');
+    await answerAll(true);
+    check(await page.evaluate(() => S.daily[dayKey()] === 100), 'la séance du jour réussie n’est pas enregistrée');
+    await shot(page, '07c-daily-end');
+    await page.click('[data-act="quitSession"]'); await page.waitForSelector('.hero');
+
+    // 6c. grammaire : erreurs mémorisées puis rattrapées, entraînements
+    const gl = await page.evaluate(() => ({ n: L.grammar.length, id: L.grammar[L.grammar.length - 1].id, ex: L.grammar[L.grammar.length - 1].exercises.length }));
+    check(gl.n >= 15, 'leçons de grammaire complémentaires absentes : ' + gl.n);
+    await go('toolkit/grammar/' + gl.id); await page.click('[data-act="lesson"]'); await answerAll(false);
+    check(await page.evaluate(id => (S.gmiss[id] || []).length, gl.id) === gl.ex, 'les erreurs de grammaire ne sont pas mémorisées');
+    check(await page.locator('.missed .list a').count() === gl.ex, 'le récapitulatif des erreurs est incomplet');
+    await page.click('[data-act="quitSession"]'); await page.waitForSelector('[data-act="grammarRedo"]');
+    await page.click('[data-act="grammarRedo"]'); await answerAll(true);
+    check(await page.evaluate(id => !S.gmiss[id], gl.id), 'les erreurs rattrapées restent en mémoire');
+    await page.click('[data-act="quitSession"]');
+    await go('toolkit/grammar'); await shot(page, '07d-grammar');
+    await page.click('[data-act="spotMistake"]'); await page.waitForSelector('.qcard'); await answerAll(true);
+    check((await page.locator('.sess.end .ring b').innerText()).startsWith('100'), '« Spot the mistake » : le bon choix n’est pas reconnu');
+    await page.click('[data-act="quitSession"]'); await page.waitForSelector('[data-act="grammarWorkout"]');
+    await page.click('[data-act="grammarWorkout"]'); await page.waitForSelector('.qcard');
+    check(await page.evaluate(() => SESSION.questions.length) === 12, 'l’entraînement de grammaire ne compte pas 12 questions');
+    await answerAll(true); await page.click('[data-act="quitSession"]');
+    console.log('  séance du jour, suivi des erreurs de grammaire et entraînements : conformes');
+
+    // 6d. recherche et favoris
+    await go('search'); await page.fill('#q', 'reclassement');
+    check(await page.locator('#results .list a').count() >= 3, 'la recherche en français ne trouve rien');
+    await page.fill('#q', 'notice period');
+    check(/notice/i.test(await page.locator('#results .list a').first().innerText()), 'la recherche en anglais ne classe pas le bon résultat en tête');
+    await shot(page, '07e-search');
+    await go('entry/ct-001'); await page.click('[data-act="star"]');
+    await go('notebook'); check(await page.locator('[data-act="starDrill"]').count() === 1, 'l’expression favorite n’apparaît pas dans le carnet');
+    await go('entry/ct-001'); await page.click('[data-act="star"]');
 
     // 7. révision espacée
     await go('review');

@@ -1,0 +1,2237 @@
+[
+ {
+  "id": "gr-hedging",
+  "track": "advanced",
+  "title": "Diplomatic modals and hedging",
+  "title_fr": "Modaux diplomatiques et art de la nuance",
+  "points": [
+   {
+    "rule": "Use 'would', 'could', 'might' and 'may' to turn an instruction or a flat opinion into a suggestion the other person is free to decline.",
+    "rule_fr": "'Would', 'could', 'might' et 'may' transforment un ordre ou une opinion tranchée en suggestion. Piège : 'je propose de', 'il faut' ou 'vous devez' traduits mot à mot ('I propose to', 'you must') sonnent comme des ordres ; et 'suggest' / 'propose' ne se construisent jamais avec 'you to'.",
+    "examples": [
+     {
+      "wrong": "I propose you to postpone the hearing.",
+      "right": "I [[would suggest]] postponing the hearing.",
+      "note_fr": "'Suggest' + -ing ou + 'that' ; jamais 'suggest you to'. 'Would' atténue : 'je suggérerais'."
+     },
+     {
+      "wrong": null,
+      "right": "It [[might be worth]] taking legal advice before we reply.",
+      "note_fr": "'It might be worth' + -ing = 'il serait peut-être utile de' : on propose sans imposer."
+     },
+     {
+      "wrong": null,
+      "right": "You [[may wish to]] reconsider the wording of clause 4.",
+      "note_fr": "Formule écrite très courtoise pour dire 'modifiez cela' ; 'you must change' serait perçu comme un ordre."
+     }
+    ]
+   },
+   {
+    "rule": "To disagree or refuse without confrontation, hedge the verb: 'I'm not sure that would work', 'that could prove difficult', 'we would be reluctant to'.",
+    "rule_fr": "Pour exprimer un désaccord ou un refus sans heurter, on atténue le verbe : 'I'm not sure that would work', 'that could prove difficult', 'we would be reluctant to'. Piège : 'I am not agree' (calque de 'je ne suis pas d'accord') est une faute, et 'I don't agree' tout seul est abrupt.",
+    "examples": [
+     {
+      "wrong": "I am not agree with this approach.",
+      "right": "I'm [[not sure I would agree]] with this approach.",
+      "note_fr": "'Agree' est un verbe : 'I agree', 'I don't agree'. 'I'm not sure I would agree' dit la même chose sans braquer l'interlocuteur."
+     },
+     {
+      "wrong": null,
+      "right": "That [[could prove difficult]] to arrange before the end of June.",
+      "note_fr": "En pratique, cela veut souvent dire 'non' : le refus est compris sans être prononcé."
+     },
+     {
+      "wrong": null,
+      "right": "We [[would be reluctant]] to agree to that without consulting the works council.",
+      "note_fr": "'Would be reluctant to' = 'nous hésiterions à' : refus poli qui laisse la porte ouverte."
+     }
+    ]
+   },
+   {
+    "rule": "'Should have', 'could have' and 'might have' + past participle criticise or regret something that did not happen.",
+    "rule_fr": "'Should have', 'could have', 'might have' + participe passé expriment le reproche ou le regret à propos d'un fait passé qui n'a pas eu lieu ('aurait dû', 'aurait pu'). Piège : oublier 'have' ou le participe passé ; 'could' seul ne renvoie pas à une occasion manquée.",
+    "examples": [
+     {
+      "wrong": "You should have inform HR before the meeting.",
+      "right": "You [[should have informed]] HR before the meeting.",
+      "note_fr": "'Should have' + participe passé : 'vous auriez dû informer'."
+     },
+     {
+      "wrong": "With hindsight, we could handle the consultation better.",
+      "right": "With hindsight, we [[could have handled]] the consultation better.",
+      "note_fr": "Occasion manquée : 'could have' + participe passé ('nous aurions pu')."
+     },
+     {
+      "wrong": null,
+      "right": "You [[might have]] told me the meeting had been moved.",
+      "note_fr": "'Might have' + participe passé peut exprimer un reproche voilé, très britannique : 'vous auriez pu me prévenir'."
+     }
+    ]
+   },
+   {
+    "rule": "'Must have', 'can't have' and 'might have' + past participle express a deduction about the past, from near-certainty to mere possibility.",
+    "rule_fr": "'Must have', 'can't have', 'might have' + participe passé expriment une déduction sur le passé (quasi-certitude, impossibilité, simple possibilité). Piège : 'il a dû oublier' ne se traduit pas par 'he had to forget' (obligation), mais par 'he must have forgotten'. Déduction négative : 'can't have' ; l'américain dit aussi 'must not have'.",
+    "examples": [
+     {
+      "wrong": "She had to misread the clause.",
+      "right": "She [[must have]] misread the clause.",
+      "note_fr": "Déduction ('elle a dû mal lire') : 'must have' + participe passé. 'Had to' exprimerait une obligation."
+     },
+     {
+      "wrong": null,
+      "right": "He [[can't have]] received the letter: it was sent to his old address.",
+      "note_fr": "Impossibilité logique : 'can't have'. Un Américain dira aussi 'he must not have received it'."
+     },
+     {
+      "wrong": null,
+      "right": "The manager [[might have]] misunderstood the procedure.",
+      "note_fr": "Simple hypothèse ('a peut-être mal compris') : plus prudent, donc plus diplomatique, que 'the manager misunderstood'."
+     }
+    ]
+   },
+   {
+    "rule": "'Seem', 'appear' and 'tend to' present a fact as an impression or a general tendency rather than an accusation.",
+    "rule_fr": "'Seem', 'appear' et 'tend to' présentent un fait comme une impression ou une tendance plutôt que comme une accusation. Pièges : 'il me semble que' = 'it seems to me that' (jamais 'it seems me') ; 'il semble y avoir' = 'there seems / appears to be'.",
+    "examples": [
+     {
+      "wrong": "It seems me that the figures are not quite right.",
+      "right": "[[It seems to me]] that the figures are not quite right.",
+      "note_fr": "'Seem' se construit avec 'to' devant la personne : 'it seems to me'."
+     },
+     {
+      "wrong": "It appears to have a discrepancy between the two payslips.",
+      "right": "There [[appears to be]] a discrepancy between the two payslips.",
+      "note_fr": "'Il semble y avoir' = 'there appears to be' : le sujet reste 'there'."
+     },
+     {
+      "wrong": "Managers in this division have tendency to under-report absences.",
+      "right": "Managers in this division [[tend to]] under-report absences.",
+      "note_fr": "'Tend to' + verbe est le tour naturel ; sinon 'have a tendency to', avec l'article."
+     }
+    ]
+   },
+   {
+    "rule": "British speakers often understate ('not ideal', 'one or two reservations'); Americans usually say the same thing more directly. Learn to decode the first and to be clear with the second.",
+    "rule_fr": "Les Britanniques pratiquent la litote ('not ideal', 'one or two reservations', 'a bit of a concern') : le message réel est plus fort que les mots. Les Américains disent en général la même chose plus directement et peuvent prendre une litote au pied de la lettre. Avec un interlocuteur américain, restez courtois mais énoncez clairement la conclusion.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "I have [[one or two reservations]] about the restructuring plan.",
+      "note_fr": "Dans la bouche d'un Britannique : de sérieuses objections. Un Américain dirait plutôt 'I have some serious concerns about the plan'. 'Reservations' = réserves, pas seulement réservations."
+     },
+     {
+      "wrong": null,
+      "right": "That is [[not quite]] what we agreed in March.",
+      "note_fr": "Litote britannique : comprendre 'ce n'est pas du tout ce qui était convenu'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "I ___ that we wait for the tribunal's decision before announcing anything.",
+    "options": [
+     "propose you",
+     "am suggesting you",
+     "would suggest",
+     "would suggest you"
+    ],
+    "answer": 2,
+    "explain_fr": "'Would suggest that' + proposition : pas de complément de personne après 'suggest'. 'Would' rend la recommandation moins directive."
+   },
+   {
+    "type": "mcq",
+    "prompt": "With hindsight, we ___ the staff representatives much earlier.",
+    "options": [
+     "should consult",
+     "should have consulted",
+     "should had consulted",
+     "must have consulted"
+    ],
+    "answer": 1,
+    "explain_fr": "Regret sur le passé : 'should have' + participe passé. 'Must have consulted' serait une déduction, pas un regret."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Her signature is on the acknowledgement form, so she ___ the policy at some point.",
+    "options": [
+     "must had read",
+     "must to have read",
+     "can't have read",
+     "must have read"
+    ],
+    "answer": 3,
+    "explain_fr": "Déduction quasi certaine sur le passé : 'must have' + participe passé ('elle a dû lire')."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which is the most diplomatic way to tell a senior colleague that his timetable is unrealistic?",
+    "options": [
+     "I'm afraid that timetable might prove a little ambitious.",
+     "Your timetable is not realistic.",
+     "You must change your timetable.",
+     "I am sorry, but this timetable is impossible."
+    ],
+    "answer": 0,
+    "explain_fr": "'I'm afraid' + 'might prove' + 'a little ambitious' : trois atténuations, et le message passe quand même."
+   },
+   {
+    "type": "mcq",
+    "prompt": "A British colleague says: 'I have a few reservations about the bonus proposal.' What does she most probably mean?",
+    "options": [
+     "She has already booked a meeting room.",
+     "She broadly supports the proposal.",
+     "She has serious objections to the proposal.",
+     "She has not read the proposal yet."
+    ],
+    "answer": 2,
+    "explain_fr": "Litote britannique : 'a few reservations' annonce de vraies objections. 'Reservations' = réserves."
+   },
+   {
+    "type": "gap",
+    "prompt": "It might be worth ___ (take) legal advice before we respond to the claim.",
+    "answer": "taking",
+    "accept": [],
+    "explain_fr": "'It is worth' est toujours suivi de la forme en -ing."
+   },
+   {
+    "type": "gap",
+    "prompt": "He ___ (must / forget) about the deadline; he is usually so reliable.",
+    "answer": "must have forgotten",
+    "accept": [
+     "must've forgotten"
+    ],
+    "explain_fr": "'Il a dû oublier' : déduction, donc 'must have' + participe passé, jamais 'had to forget'."
+   },
+   {
+    "type": "gap",
+    "prompt": "There ___ (appear) to be a mistake in the redundancy calculation.",
+    "answer": "appears",
+    "accept": [
+     "seems",
+     "would appear",
+     "would seem"
+    ],
+    "explain_fr": "'There appears to be' = 'il semble y avoir' ; 'there would appear to be' est encore plus prudent."
+   },
+   {
+    "type": "gap",
+    "prompt": "You ___ (should / tell) me yesterday that the employee had already resigned.",
+    "answer": "should have told",
+    "accept": [
+     "should've told"
+    ],
+    "explain_fr": "Reproche sur un fait passé : 'should have' + participe passé."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Make this more diplomatic, beginning 'I would suggest': 'Postpone the announcement until the consultation is over.'",
+    "answer": "I would suggest postponing the announcement until the consultation is over.",
+    "accept": [
+     "I would suggest that we postpone the announcement until the consultation is over.",
+     "I would suggest we postpone the announcement until the consultation is over.",
+     "I would suggest that you postpone the announcement until the consultation is over.",
+     "I would suggest you postpone the announcement until the consultation is over."
+    ],
+    "explain_fr": "'Suggest' + -ing ou + 'that' + sujet + verbe ; jamais 'suggest you to postpone'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite as a criticism using 'should have': 'It was a mistake not to give her a written warning first.'",
+    "answer": "We should have given her a written warning first.",
+    "accept": [
+     "You should have given her a written warning first.",
+     "They should have given her a written warning first.",
+     "She should have been given a written warning first.",
+     "We should've given her a written warning first."
+    ],
+    "explain_fr": "'Should have' + participe passé = 'nous aurions dû'. Le passif ('she should have been given') évite de désigner un responsable."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite as a deduction with a past modal: 'I am sure the manager did not see the email.'",
+    "answer": "The manager can't have seen the email.",
+    "accept": [
+     "The manager cannot have seen the email.",
+     "The manager couldn't have seen the email.",
+     "The manager could not have seen the email.",
+     "The manager must not have seen the email."
+    ],
+    "explain_fr": "Déduction négative : 'can't have' ou 'couldn't have' + participe passé ; 'must not have' est surtout américain."
+   }
+  ]
+ },
+ {
+  "id": "gr-contrast-clauses",
+  "track": "advanced",
+  "title": "Linking ideas: contrast, cause and purpose",
+  "title_fr": "Relier les idées : opposition, cause et but",
+  "points": [
+   {
+    "rule": "'Although', 'even though' and 'though' are followed by a clause (subject + verb); 'despite' and 'in spite of' are followed by a noun or an -ing form.",
+    "rule_fr": "'Although', 'even though', 'though' + proposition (sujet + verbe) ; 'despite' et 'in spite of' + nom ou forme en -ing. Pièges : 'despite of' n'existe pas, 'despite he was' non plus ; et 'même si' se traduit par 'even though' pour un fait réel, par 'even if' pour une hypothèse.",
+    "examples": [
+     {
+      "wrong": "Despite he had received two warnings, his attendance did not improve.",
+      "right": "[[Although]] he had received two warnings, his attendance did not improve.",
+      "note_fr": "Devant sujet + verbe : 'although' (ou 'even though', plus insistant). Avec 'despite', il faudrait 'despite having received'."
+     },
+     {
+      "wrong": "Despite of the union's objections, the plan went ahead.",
+      "right": "[[Despite]] the union's objections, the plan went ahead.",
+      "note_fr": "'Despite' sans 'of' ; 'in spite of' avec 'of'. Tous deux sont suivis d'un nom ou d'un -ing."
+     },
+     {
+      "wrong": "Even if she had the best appraisal in the team, she was not promoted.",
+      "right": "[[Even though]] she had the best appraisal in the team, she was not promoted.",
+      "note_fr": "Fait réel : 'even though' ('bien que'). 'Even if' introduirait une hypothèse ('même dans le cas où')."
+     }
+    ]
+   },
+   {
+    "rule": "'Whereas' and 'while' contrast two facts inside one sentence. 'However' is an adverb, not a conjunction: it needs a full stop or a semicolon before it and a comma after it.",
+    "rule_fr": "'Whereas' et 'while' ('whilst' en britannique soutenu) opposent deux faits dans une même phrase. 'However' est un adverbe, pas une conjonction : point ou point-virgule avant, virgule après. Pièges : 'on the contrary' ne signifie pas 'en revanche' (il contredit ce qui vient d'être dit) ; 'however' précédé d'une simple virgule ne peut pas relier deux phrases.",
+    "examples": [
+     {
+      "wrong": "The London office is recruiting; on the contrary, the Paris office is cutting jobs.",
+      "right": "The London office is recruiting, [[whereas]] the Paris office is cutting jobs.",
+      "note_fr": "Deux faits mis en regard : 'whereas' ou 'while'. 'On the contrary' sert à contredire ('pas du tout, au contraire')."
+     },
+     {
+      "wrong": "The offer was generous, however the employee turned it down.",
+      "right": "The offer was generous; [[however,]] the employee turned it down.",
+      "note_fr": "'However' ne relie pas deux propositions avec une simple virgule : point-virgule (ou point) avant, virgule après."
+     },
+     {
+      "wrong": null,
+      "right": "The process was fair. It took far too long, [[though]].",
+      "note_fr": "À l'oral, 'though' en fin de phrase équivaut à 'however' : 'cela dit', 'quand même'."
+     }
+    ]
+   },
+   {
+    "rule": "'Because' is followed by a clause; 'because of', 'due to' and 'owing to' are followed by a noun.",
+    "rule_fr": "'Because' + proposition ; 'because of', 'due to', 'owing to' + nom. 'Owing to' et 'due to' sont plus soutenus que 'because of' ; les puristes réservent 'due to' à la position après 'be' ('the delay was due to...'), mais l'usage actuel l'admet partout. Piège : 'grâce à' = 'thanks to' uniquement pour une cause heureuse.",
+    "examples": [
+     {
+      "wrong": "The hearing was postponed because of the manager was on sick leave.",
+      "right": "The hearing was postponed [[because]] the manager was on sick leave.",
+      "note_fr": "Devant sujet + verbe : 'because' seul. 'Because of' appelle un nom : 'because of the manager's absence'."
+     },
+     {
+      "wrong": null,
+      "right": "The delay was [[due to]] a backlog at the employment tribunal.",
+      "note_fr": "'Due to' + nom, ici après 'be' : emploi irréprochable même pour les puristes."
+     },
+     {
+      "wrong": "Thanks to a payroll error, salaries were paid two days late.",
+      "right": "[[Owing to]] a payroll error, salaries were paid two days late.",
+      "note_fr": "Cause fâcheuse : 'owing to', 'due to' ou 'because of'. 'Thanks to' suppose un résultat heureux, sauf ironie."
+     }
+    ]
+   },
+   {
+    "rule": "Purpose is expressed with 'to', 'in order to' or 'so as to' + verb when the subject is the same, and with 'so that' + clause (often with 'can' or 'will') when it changes. Never 'for' + verb.",
+    "rule_fr": "Le but s'exprime par 'to', 'in order to', 'so as to' + verbe (même sujet) ou par 'so that' + proposition, souvent avec 'can', 'could' ou 'will'. Pièges : 'pour' + infinitif ne se traduit jamais par 'for' + verbe ; 'pour que' = 'so that', pas 'for that' ; à la forme négative, 'in order not to' ou 'so as not to'.",
+    "examples": [
+     {
+      "wrong": "We hired a consultant for review the pay structure.",
+      "right": "We hired a consultant [[to review]] the pay structure.",
+      "note_fr": "But = infinitif avec 'to' ; 'in order to review' en style plus soutenu."
+     },
+     {
+      "wrong": "Please confirm in writing for not delaying the process.",
+      "right": "Please confirm in writing [[so as not to]] delay the process.",
+      "note_fr": "But négatif : 'so as not to' ou 'in order not to' + verbe."
+     },
+     {
+      "wrong": "I am sending you the file for that you can prepare for the hearing.",
+      "right": "I am sending you the file [[so that]] you can prepare for the hearing.",
+      "note_fr": "'Pour que' + sujet différent = 'so that' + sujet + 'can / will'."
+     }
+    ]
+   },
+   {
+    "rule": "'As' + noun states a real role or function; 'like' + noun makes a comparison. Before a clause, careful writing uses 'as'.",
+    "rule_fr": "'As' + nom = 'en tant que' (rôle réel) ; 'like' + nom = 'comme', 'à l'instar de' (comparaison). Devant une proposition (sujet + verbe), l'écrit soigné emploie 'as' : 'as I said', 'as agreed'. Piège : 'comme' se traduit tantôt par l'un, tantôt par l'autre.",
+    "examples": [
+     {
+      "wrong": "She has worked like HR director since 2019.",
+      "right": "She has worked [[as]] HR director since 2019.",
+      "note_fr": "Fonction réellement exercée : 'as'. 'Like an HR director' voudrait dire 'à la manière d'un DRH', ce qu'elle ne serait donc pas."
+     },
+     {
+      "wrong": "As many employers, we have introduced hybrid working.",
+      "right": "[[Like]] many employers, we have introduced hybrid working.",
+      "note_fr": "Comparaison + nom : 'like' ('à l'instar de nombreux employeurs')."
+     },
+     {
+      "wrong": null,
+      "right": "[[As]] I mentioned on the call, the offer expires on Friday.",
+      "note_fr": "Devant sujet + verbe : 'as'. 'Like I said' s'entend à l'oral, surtout aux États-Unis, mais s'évite à l'écrit."
+     }
+    ]
+   },
+   {
+    "rule": "'Unless' means 'except if'. It takes a present tense, never 'will', and no second negative. When the meaning is not 'except if', use 'if ... not'.",
+    "rule_fr": "'Unless' = 'sauf si', 'à moins que'. Présent après 'unless' (jamais 'will') et pas de seconde négation : le 'ne' explétif français ('à moins que vous ne...') ne se traduit pas. Quand le sens n'est pas 'sauf si' (surprise, regret, irréel), seul 'if ... not' convient.",
+    "examples": [
+     {
+      "wrong": "Unless you don't object by Friday, we will proceed with the transfer.",
+      "right": "[[Unless you object]] by Friday, we will proceed with the transfer.",
+      "note_fr": "'Unless' contient déjà la négation : 'à moins que vous ne vous y opposiez'."
+     },
+     {
+      "wrong": "Unless the union will agree, the new rota cannot start in May.",
+      "right": "[[Unless the union agrees]], the new rota cannot start in May.",
+      "note_fr": "Présent simple après 'unless', comme après 'if' ; jamais 'will'."
+     },
+     {
+      "wrong": "I would be surprised unless she accepted the offer.",
+      "right": "I would be surprised [[if she did not]] accept the offer.",
+      "note_fr": "Ici le sens n'est pas 'sauf si' : on dit 'if ... not'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "___ the union's opposition, the board approved the plan.",
+    "options": [
+     "Although",
+     "Despite of",
+     "In spite",
+     "Despite"
+    ],
+    "answer": 3,
+    "explain_fr": "Devant un nom : 'despite', sans 'of'. 'Although' demanderait un verbe ; 'in spite' exige 'of'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence is correctly punctuated?",
+    "options": [
+     "The offer was fair, however the employee rejected it.",
+     "The offer was fair however, the employee rejected it.",
+     "The offer was fair; however, the employee rejected it.",
+     "The offer was fair; however the employee, rejected it."
+    ],
+    "answer": 2,
+    "explain_fr": "'However' entre deux phrases : point-virgule (ou point) avant, virgule après."
+   },
+   {
+    "type": "mcq",
+    "prompt": "She joined the group ___ a compensation analyst and now heads the reward team.",
+    "options": [
+     "like",
+     "as",
+     "such as",
+     "how"
+    ],
+    "answer": 1,
+    "explain_fr": "Fonction réellement occupée ('en tant que') : 'as'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The consultation period was extended ___ the number of questions raised by staff.",
+    "options": [
+     "because",
+     "due",
+     "owing",
+     "because of"
+    ],
+    "answer": 3,
+    "explain_fr": "Devant un nom : 'because of' (ou 'due to', 'owing to', avec 'to'). 'Because' seul appelle un verbe."
+   },
+   {
+    "type": "mcq",
+    "prompt": "We will treat the absence as unauthorised ___ you provide a medical certificate.",
+    "options": [
+     "unless",
+     "if not",
+     "except",
+     "without"
+    ],
+    "answer": 0,
+    "explain_fr": "'Sauf si vous fournissez' : 'unless' + présent."
+   },
+   {
+    "type": "gap",
+    "prompt": "In ___ of having been warned twice, he continued to arrive late. [one word]",
+    "answer": "spite",
+    "accept": [],
+    "explain_fr": "'In spite of' + -ing ; en un seul mot, on aurait 'despite', sans 'of'."
+   },
+   {
+    "type": "gap",
+    "prompt": "We are writing to you now ___ that you have time to take advice. [one word]",
+    "answer": "so",
+    "accept": [
+     "in order"
+    ],
+    "explain_fr": "'Pour que' = 'so that' (plus soutenu : 'in order that')."
+   },
+   {
+    "type": "gap",
+    "prompt": "Head office staff work a 35-hour week, ___ site staff work shifts. [one word beginning with 'w': contrast between two facts]",
+    "answer": "whereas",
+    "accept": [
+     "while",
+     "whilst"
+    ],
+    "explain_fr": "Opposition de deux faits : 'whereas' ou 'while' ('whilst' en britannique soutenu)."
+   },
+   {
+    "type": "gap",
+    "prompt": "___ she had been with the company for only three months, she was given the lead role. [two words: a real fact, with emphasis]",
+    "answer": "Even though",
+    "accept": [],
+    "explain_fr": "Fait réel et surprenant : 'even though'. 'Even if' serait une hypothèse."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite beginning with 'Despite': 'Although he was offered a pay rise, he resigned.'",
+    "answer": "Despite being offered a pay rise, he resigned.",
+    "accept": [
+     "Despite having been offered a pay rise, he resigned.",
+     "Despite the offer of a pay rise, he resigned.",
+     "Despite the pay rise he was offered, he resigned.",
+     "Despite the fact that he was offered a pay rise, he resigned."
+    ],
+    "explain_fr": "'Despite' + -ing ou + nom ; jamais 'despite he was'. Aux États-Unis, on dirait 'a raise'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using 'unless': 'If we do not receive your reply by 30 June, the offer will lapse.'",
+    "answer": "Unless we receive your reply by 30 June, the offer will lapse.",
+    "accept": [
+     "The offer will lapse unless we receive your reply by 30 June."
+    ],
+    "explain_fr": "'Unless' remplace 'if ... not' : le verbe passe à la forme affirmative et reste au présent."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Combine using 'so that': 'I have attached the agenda. You can prepare your questions.'",
+    "answer": "I have attached the agenda so that you can prepare your questions.",
+    "accept": [
+     "I've attached the agenda so that you can prepare your questions.",
+     "I have attached the agenda so you can prepare your questions.",
+     "I've attached the agenda so you can prepare your questions."
+    ],
+    "explain_fr": "But avec changement de sujet : 'so that' + sujet + 'can'. À l'oral, 'that' tombe souvent."
+   }
+  ]
+ },
+ {
+  "id": "gr-inversion",
+  "track": "legal",
+  "title": "Formal inversion: 'Should you...', 'Under no circumstances...'",
+  "title_fr": "L'inversion en style soutenu",
+  "points": [
+   {
+    "rule": "In formal writing, 'Should' + subject + base verb replaces 'If' for something that may happen.",
+    "rule_fr": "À l'écrit soutenu, 'Should' + sujet + base verbale remplace 'If' pour une éventualité ('Au cas où vous souhaiteriez...'). Pas de 'if', pas de -s à la troisième personne. Piège : 'si vous aviez des questions' ne se dit jamais 'if you would have'.",
+    "examples": [
+     {
+      "wrong": "If you would have any questions, please contact the HR department.",
+      "right": "[[Should you have]] any questions, please contact the HR department.",
+      "note_fr": "'Should you have' = 'if you have', en plus courtois ; 'would' est impossible dans la subordonnée en 'if'."
+     },
+     {
+      "wrong": "Should the Employee fails to attend the hearing, a decision may be taken in his or her absence.",
+      "right": "[[Should the Employee fail]] to attend the hearing, a decision may be taken in his or her absence.",
+      "note_fr": "Après 'should', base verbale sans -s : 'should ... fail'."
+     }
+    ]
+   },
+   {
+    "rule": "'Had' + subject + past participle replaces 'If ... had' for something that did not happen.",
+    "rule_fr": "'Had' + sujet + participe passé remplace 'If ... had' pour l'irréel du passé ('Si nous avions su'). La principale garde 'would have'. Pièges : 'if we would have known' est fautif ; et la négation ne se contracte pas dans l'inversion ('Had it not been', jamais 'Hadn't it been').",
+    "examples": [
+     {
+      "wrong": "If we would have known about the grievance, we would have acted sooner.",
+      "right": "[[Had we known]] about the grievance, we would have acted sooner.",
+      "note_fr": "Équivaut à 'If we had known' : pas de 'would' dans la subordonnée."
+     },
+     {
+      "wrong": "Hadn't it been for the union's intervention, the dispute would have gone to tribunal.",
+      "right": "[[Had it not been]] for the union's intervention, the dispute would have gone to tribunal.",
+      "note_fr": "'Had it not been for' = 'sans', 'n'eût été' ; 'not' reste séparé de l'auxiliaire."
+     }
+    ]
+   },
+   {
+    "rule": "'Were' + subject + to-infinitive replaces 'If' for a hypothetical or unlikely event.",
+    "rule_fr": "'Were' + sujet + 'to' + verbe remplace 'If' pour une hypothèse jugée peu probable ('Si la société venait à...'). 'Were' à toutes les personnes. Piège : 'if the company would relocate' est fautif.",
+    "examples": [
+     {
+      "wrong": "If the company would relocate, staff would be offered relocation assistance.",
+      "right": "[[Were the company to]] relocate, staff would be offered relocation assistance.",
+      "note_fr": "'Were ... to' = 'si la société venait à déménager' ; équivalent courant : 'If the company relocated'."
+     },
+     {
+      "wrong": null,
+      "right": "[[Were I]] in your position, I would take legal advice before signing.",
+      "note_fr": "Version soutenue de 'If I were in your position' ; 'were', pas 'was'."
+     }
+    ]
+   },
+   {
+    "rule": "When a negative or restrictive expression opens the sentence, the auxiliary comes before the subject, as in a question.",
+    "rule_fr": "Quand une expression négative ou restrictive ouvre la phrase ('Under no circumstances', 'At no time', 'On no account', 'Not until', 'Only after', 'Only if'), l'auxiliaire passe devant le sujet, comme dans une question ; s'il n'y a pas d'auxiliaire, on ajoute 'do / does / did'. Avec 'only after', 'only if' et 'not until', l'inversion se fait dans la principale, pas dans la subordonnée.",
+    "examples": [
+     {
+      "wrong": "Under no circumstances employees may share their passwords.",
+      "right": "Under no circumstances [[may employees]] share their passwords.",
+      "note_fr": "'En aucun cas' en tête : modal avant le sujet. La négation est déjà dans 'no' : pas de 'not'."
+     },
+     {
+      "wrong": "At no time the employee complained to her manager.",
+      "right": "At no time [[did the employee complain]] to her manager.",
+      "note_fr": "Prétérit sans auxiliaire : on ajoute 'did' + base verbale."
+     },
+     {
+      "wrong": "Only after the investigation is complete we will decide on a sanction.",
+      "right": "Only after the investigation is complete [[will we decide]] on a sanction.",
+      "note_fr": "L'inversion porte sur la principale ('will we decide'), pas sur la proposition introduite par 'only after'."
+     }
+    ]
+   },
+   {
+    "rule": "'Not only', 'No sooner', 'Hardly', 'Seldom', 'Rarely' and 'Never' at the start of a sentence also trigger inversion.",
+    "rule_fr": "'Not only ... but also', 'No sooner ... than', 'Hardly / Scarcely ... when', 'Seldom', 'Rarely', 'Never' en tête de phrase entraînent aussi l'inversion. Pièges : oublier l'auxiliaire après 'Not only' ; écrire 'no sooner ... that' ou 'when' au lieu de 'than'.",
+    "examples": [
+     {
+      "wrong": "Not only he ignored the instruction, but he also encouraged others to do so.",
+      "right": "Not only [[did he ignore]] the instruction, but he also encouraged others to do so.",
+      "note_fr": "Après 'Not only' en tête : 'did' + sujet + base verbale ; la seconde partie garde l'ordre normal."
+     },
+     {
+      "wrong": "No sooner had the agreement been signed that the union called a strike.",
+      "right": "No sooner had the agreement been signed [[than]] the union called a strike.",
+      "note_fr": "'No sooner' est un comparatif : il appelle 'than'. Avec 'hardly' ou 'scarcely', on emploie 'when'."
+     },
+     {
+      "wrong": null,
+      "right": "[[Rarely have we]] seen such a high response rate to a staff survey.",
+      "note_fr": "'Rarely' ou 'Seldom' en tête : effet oratoire, pour un discours ou un rapport."
+     }
+    ]
+   },
+   {
+    "rule": "Inversion belongs to contracts, policies, formal letters and speeches. In conversation and everyday emails, use 'if' and normal word order.",
+    "rule_fr": "L'inversion appartient aux contrats, aux politiques internes, aux lettres formelles et aux discours. À l'oral et dans les courriels courants, elle paraît guindée : on revient à 'if' et à l'ordre normal. 'Should you...' reste bienvenu en formule finale d'une lettre ; 'Had I known' s'entend chez un locuteur cultivé ; 'No sooner' et 'Seldom' sont réservés à l'écrit.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "[[If you need]] anything else, just let me know.",
+      "note_fr": "Version orale de 'Should you require anything further, please do not hesitate to contact me'."
+     },
+     {
+      "wrong": null,
+      "right": "We [[had only just]] signed the agreement when the union called a strike.",
+      "note_fr": "Équivalent naturel, à l'oral, de 'No sooner had we signed the agreement than...'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "___ any further information, please do not hesitate to contact me.",
+    "options": [
+     "If you would require",
+     "Would you require",
+     "Should you require",
+     "Should you to require"
+    ],
+    "answer": 2,
+    "explain_fr": "'Should' + sujet + base verbale = 'if you require', en style soutenu. Jamais 'would' après 'if'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Under no circumstances ___ confidential data to a third party.",
+    "options": [
+     "employees must disclose",
+     "must employees disclose",
+     "employees must not disclose",
+     "must not employees disclose"
+    ],
+    "answer": 1,
+    "explain_fr": "Expression négative en tête : modal avant le sujet, et pas de seconde négation."
+   },
+   {
+    "type": "mcq",
+    "prompt": "___ about the conflict of interest, we would never have appointed him.",
+    "options": [
+     "If we would have known",
+     "Have we known",
+     "Would we have known",
+     "Had we known"
+    ],
+    "answer": 3,
+    "explain_fr": "Irréel du passé : 'Had we known' = 'If we had known'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Not only ___ the deadline, but it also failed to inform the works council.",
+    "options": [
+     "did the company miss",
+     "the company missed",
+     "did the company missed",
+     "missed the company"
+    ],
+    "answer": 0,
+    "explain_fr": "Après 'Not only' en tête : 'did' + sujet + base verbale."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence would sound natural in an informal chat with a colleague?",
+    "options": [
+     "Should you be free at noon, we might have lunch.",
+     "Were you to be free at noon, we could have lunch.",
+     "If you're free at noon, shall we have lunch?",
+     "Seldom am I free at noon, but let us have lunch."
+    ],
+    "answer": 2,
+    "explain_fr": "À l'oral, l'inversion paraît guindée : 'if' et l'ordre normal."
+   },
+   {
+    "type": "gap",
+    "prompt": "Only after both parties have signed ___ (the agreement / will) take effect.",
+    "answer": "will the agreement",
+    "accept": [
+     "shall the agreement"
+    ],
+    "explain_fr": "Inversion dans la principale après 'Only after' : auxiliaire + sujet + base verbale."
+   },
+   {
+    "type": "gap",
+    "prompt": "No sooner had the merger been announced ___ rumours of redundancies began to circulate. [one word]",
+    "answer": "than",
+    "accept": [],
+    "explain_fr": "'No sooner ... than' : comparatif, donc 'than'."
+   },
+   {
+    "type": "gap",
+    "prompt": "___ the Employee to breach this clause, the Company would be entitled to seek an injunction. [one word]",
+    "answer": "Were",
+    "accept": [],
+    "explain_fr": "'Were' + sujet + 'to' + verbe : hypothèse soutenue ('si le salarié venait à')."
+   },
+   {
+    "type": "gap",
+    "prompt": "At no time ___ (the claimant / raise) the matter with her line manager. [past simple]",
+    "answer": "did the claimant raise",
+    "accept": [],
+    "explain_fr": "'At no time' en tête : 'did' + sujet + base verbale."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite formally, beginning with 'Should': 'If you need more information, please contact the HR department.'",
+    "answer": "Should you need more information, please contact the HR department.",
+    "accept": [
+     "Should you require more information, please contact the HR department.",
+     "Should you require further information, please contact the HR department.",
+     "Should you need further information, please contact the HR department.",
+     "Should you need any more information, please contact the HR department.",
+     "Should you require any further information, please contact the HR department."
+    ],
+    "explain_fr": "'Should you need / require' : 'if' disparaît et le sujet suit 'should'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite beginning with 'Had': 'If the manager had followed the procedure, the dismissal would have been fair.'",
+    "answer": "Had the manager followed the procedure, the dismissal would have been fair.",
+    "accept": [],
+    "explain_fr": "'Had' + sujet + participe passé ; la principale ne change pas."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite beginning with 'Under no circumstances': 'Employees must not remove personnel files from the office under any circumstances.'",
+    "answer": "Under no circumstances must employees remove personnel files from the office.",
+    "accept": [
+     "Under no circumstances may employees remove personnel files from the office.",
+     "Under no circumstances should employees remove personnel files from the office.",
+     "Under no circumstances shall employees remove personnel files from the office.",
+     "Under no circumstances are employees to remove personnel files from the office."
+    ],
+    "explain_fr": "Modal avant le sujet, et 'not' disparaît puisque la négation est portée par 'no'."
+   }
+  ]
+ },
+ {
+  "id": "gr-subjunctive",
+  "track": "legal",
+  "title": "The subjunctive and formal recommendations",
+  "title_fr": "Le subjonctif et les recommandations formelles",
+  "points": [
+   {
+    "rule": "After verbs such as 'recommend', 'propose', 'insist', 'demand', 'require' and 'request', formal English uses 'that' + subject + base verb, with no -s and no change of tense.",
+    "rule_fr": "Après 'recommend', 'propose', 'suggest', 'insist', 'demand', 'require', 'request', l'anglais soutenu emploie 'that' + sujet + base verbale : pas de -s, pas de concordance des temps, 'be' pour le passif, 'not' devant le verbe pour la négation. C'est la norme aux États-Unis et dans les documents juridiques. Piège : 'recommander à quelqu'un de faire' ne se calque pas ('recommend to the board to approve').",
+    "examples": [
+     {
+      "wrong": "We recommend to the board to approve the settlement.",
+      "right": "We recommend that the board [[approve]] the settlement.",
+      "note_fr": "'Approve' sans -s : c'est un subjonctif, pas une faute d'accord."
+     },
+     {
+      "wrong": "The union demanded that the manager would be suspended pending the investigation.",
+      "right": "The union demanded that the manager [[be suspended]] pending the investigation.",
+      "note_fr": "Passif au subjonctif : 'be' + participe passé, même après un verbe au passé ; jamais 'would'."
+     },
+     {
+      "wrong": null,
+      "right": "The lawyers proposed that the employee [[not be named]] in the report.",
+      "note_fr": "Négation : 'not' devant la base verbale, sans 'do'."
+     }
+    ]
+   },
+   {
+    "rule": "The same form follows 'it is essential / vital / important / imperative / advisable that'.",
+    "rule_fr": "Même construction après 'it is essential / vital / important / imperative / advisable that' et après 'our recommendation is that'. Piège : le français met le subjonctif ('qu'il soit informé') ; l'anglais n'emploie ici ni 'will' ni 'would'.",
+    "examples": [
+     {
+      "wrong": "It is essential that he will be informed of his right to be accompanied.",
+      "right": "It is essential that he [[be informed]] of his right to be accompanied.",
+      "note_fr": "'Qu'il soit informé' = 'that he be informed' ; jamais de futur après 'essential that'."
+     },
+     {
+      "wrong": null,
+      "right": "It is vital that every manager [[attend]] the briefing.",
+      "note_fr": "Pas de -s à 'attend' : subjonctif. La phrase surprend l'œil, mais elle est correcte et très soutenue."
+     }
+    ]
+   },
+   {
+    "rule": "British English often uses 'should' + verb instead and, less formally, the ordinary present. With 'suggest' and 'recommend', an -ing form is a simple alternative.",
+    "rule_fr": "Le britannique emploie volontiers 'should' + verbe à la place du subjonctif ('recommend that the board should approve') et, en style moins soutenu, le présent ordinaire ('that the board approves') ; l'américain s'en tient à la base verbale. Autre solution simple : 'suggest / recommend' + -ing. Piège : 'suggest' n'est jamais suivi de 'you to'.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "We recommend that the board [[should approve]] the settlement.",
+      "note_fr": "Variante britannique ; un juriste américain écrirait 'that the board approve'."
+     },
+     {
+      "wrong": "I suggest you to take independent legal advice.",
+      "right": "I suggest [[that you take]] independent legal advice.",
+      "note_fr": "'Suggest that you take' ou 'suggest taking' ; jamais 'suggest you to'."
+     },
+     {
+      "wrong": null,
+      "right": "It is important that the employee [[should be given]] time to prepare.",
+      "note_fr": "'Should' britannique ; la version américaine serait 'that the employee be given time to prepare'."
+     }
+    ]
+   },
+   {
+    "rule": "'I wish' and 'if only' take a past tense for a present regret, a past perfect for a past regret, and 'would' to complain about someone else's behaviour.",
+    "rule_fr": "'I wish' et 'if only' : prétérit pour un regret présent, past perfect pour un regret passé, 'would' pour se plaindre du comportement d'autrui (jamais du sien). Pièges : ni présent ni 'would have' après 'wish' ; et pour un souhait réalisable, on dit 'I hope', pas 'I wish'.",
+    "examples": [
+     {
+      "wrong": "I wish we have more time to consult.",
+      "right": "I wish we [[had]] more time to consult.",
+      "note_fr": "Regret présent ('si seulement nous avions') : prétérit."
+     },
+     {
+      "wrong": "If only we would have documented the first warning.",
+      "right": "If only we [[had documented]] the first warning.",
+      "note_fr": "Regret passé : past perfect, sans 'would'."
+     },
+     {
+      "wrong": null,
+      "right": "I wish head office [[would give]] us more notice of these announcements.",
+      "note_fr": "'Wish' + 'would' : agacement devant ce que fait (ou ne fait pas) quelqu'un d'autre."
+     }
+    ]
+   },
+   {
+    "rule": "'It's time' and 'it's high time' are followed by a subject + past tense, although the meaning is present; or simply by 'to' + verb.",
+    "rule_fr": "'It's time' / 'it's high time' + sujet + prétérit, alors que le sens est présent ('il est grand temps que nous...') ; ou bien 'it's time to' + verbe, 'it's time for us to'. Piège : pas de présent après 'it's time' + sujet.",
+    "examples": [
+     {
+      "wrong": "It is high time the company reviews its grading structure.",
+      "right": "It is high time the company [[reviewed]] its grading structure.",
+      "note_fr": "Prétérit à valeur de présent : 'il est grand temps que la société revoie'."
+     },
+     {
+      "wrong": null,
+      "right": "[[It is time to]] move on to the next item on the agenda.",
+      "note_fr": "Sans sujet exprimé : 'it is time to' + verbe."
+     }
+    ]
+   },
+   {
+    "rule": "'Would rather' is followed by a base verb when the subject is the same, and by a subject + past tense when you want someone else to do something.",
+    "rule_fr": "'Would rather' + base verbale quand le sujet est le même ('je préférerais faire') ; 'would rather' + sujet + prétérit quand on souhaite qu'un autre fasse ou ne fasse pas quelque chose. Pièges : pas de 'to' après 'would rather' (à la différence de 'would prefer to') ; pas de présent après le second sujet.",
+    "examples": [
+     {
+      "wrong": "I would rather to discuss this in person.",
+      "right": "I [[would rather discuss]] this in person.",
+      "note_fr": "'Would rather' + base verbale ; avec 'prefer' : 'I would prefer to discuss'."
+     },
+     {
+      "wrong": "I'd rather you don't mention the settlement to anyone.",
+      "right": "I'd rather you [[didn't mention]] the settlement to anyone.",
+      "note_fr": "Sujet différent : prétérit à valeur de présent ('je préférerais que vous n'en parliez pas'). L'américain soutenu admet aussi 'I'd rather you not mention'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "The audit committee recommends that the policy ___ every two years.",
+    "options": [
+     "is being reviewed",
+     "be reviewed",
+     "will be reviewed",
+     "to be reviewed"
+    ],
+    "answer": 1,
+    "explain_fr": "Subjonctif passif après 'recommend that' : 'be' + participe passé."
+   },
+   {
+    "type": "mcq",
+    "prompt": "It is essential that every new starter ___ the health and safety induction on day one.",
+    "options": [
+     "completing",
+     "will complete",
+     "would complete",
+     "complete"
+    ],
+    "answer": 3,
+    "explain_fr": "Après 'it is essential that' : base verbale, sans -s, sans 'will'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "I wish we ___ the union before the announcement last week.",
+    "options": [
+     "consulted",
+     "have consulted",
+     "had consulted",
+     "would consult"
+    ],
+    "answer": 2,
+    "explain_fr": "Regret sur le passé : 'wish' + past perfect."
+   },
+   {
+    "type": "mcq",
+    "prompt": "It's high time the group ___ its expatriate policy.",
+    "options": [
+     "updated",
+     "will update",
+     "has updated",
+     "would update"
+    ],
+    "answer": 0,
+    "explain_fr": "'It's high time' + sujet + prétérit, avec un sens présent."
+   },
+   {
+    "type": "mcq",
+    "prompt": "I'd rather you ___ the figures with anyone outside the team.",
+    "options": [
+     "wouldn't share",
+     "won't share",
+     "not to share",
+     "didn't share"
+    ],
+    "answer": 3,
+    "explain_fr": "'Would rather' + sujet différent + prétérit : 'I'd rather you didn't'."
+   },
+   {
+    "type": "gap",
+    "prompt": "The claimant's solicitor insisted that the hearing ___ (be) held in private.",
+    "answer": "be",
+    "accept": [
+     "should be"
+    ],
+    "explain_fr": "Subjonctif après 'insist that' : 'be' ; variante britannique : 'should be'."
+   },
+   {
+    "type": "gap",
+    "prompt": "We propose that the chief executive ___ (meet) the staff representatives in person.",
+    "answer": "meet",
+    "accept": [
+     "should meet"
+    ],
+    "explain_fr": "Base verbale sans -s après 'propose that' ; 'should meet' en britannique."
+   },
+   {
+    "type": "gap",
+    "prompt": "If only I ___ (know) about the complaint at the time.",
+    "answer": "had known",
+    "accept": [],
+    "explain_fr": "Regret passé : 'if only' + past perfect."
+   },
+   {
+    "type": "gap",
+    "prompt": "I would rather ___ (not / comment) until the investigation is over.",
+    "answer": "not comment",
+    "accept": [],
+    "explain_fr": "'Would rather not' + base verbale, sans 'to'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite beginning 'It is essential that': 'The employee must be given a copy of the report.'",
+    "answer": "It is essential that the employee be given a copy of the report.",
+    "accept": [
+     "It is essential that the employee should be given a copy of the report."
+    ],
+    "explain_fr": "Subjonctif passif : 'be given' ; 'should be given' en britannique. Le présent 'is given' s'entend en Grande-Bretagne, mais s'évite dans un document formel."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using 'recommend that': 'In our view the board should postpone the vote.'",
+    "answer": "We recommend that the board postpone the vote.",
+    "accept": [
+     "We recommend that the board should postpone the vote."
+    ],
+    "explain_fr": "'Recommend that' + sujet + base verbale (américain et juridique) ou + 'should' (britannique)."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite beginning 'I wish': 'It is a pity that we did not keep a written record of the meeting.'",
+    "answer": "I wish we had kept a written record of the meeting.",
+    "accept": [
+     "I wish that we had kept a written record of the meeting.",
+     "I wish we'd kept a written record of the meeting."
+    ],
+    "explain_fr": "Regret sur le passé : 'wish' + past perfect, à la forme affirmative puisque le regret porte sur ce qui n'a pas été fait."
+   }
+  ]
+ },
+ {
+  "id": "gr-noun-phrases",
+  "track": "advanced",
+  "title": "Building noun phrases the English way",
+  "title_fr": "Construire le groupe nominal à l'anglaise",
+  "points": [
+   {
+    "rule": "English prefers a verb where French uses an abstract noun propped up by an empty verb ('procéder à', 'effectuer', 'réaliser').",
+    "rule_fr": "Là où le français aligne un verbe vide et un nom abstrait ('procéder à la mise en place', 'effectuer la vérification'), l'anglais emploie directement le verbe : 'implement', 'check'. La phrase y gagne en clarté et en naturel.",
+    "examples": [
+     {
+      "wrong": "We proceeded to the implementation of the new policy in January.",
+      "right": "We [[implemented]] the new policy in January.",
+      "note_fr": "'Procéder à la mise en place de' = un seul verbe : 'implement' (ou 'introduce')."
+     },
+     {
+      "wrong": "The realisation of the interviews will be done by the HR team.",
+      "right": "The HR team [[will conduct]] the interviews.",
+      "note_fr": "Sujet + verbe suffisent. 'Realisation' signifie 'prise de conscience', pas 'réalisation' d'une tâche."
+     },
+     {
+      "wrong": null,
+      "right": "The committee [[decided to extend]] the consultation.",
+      "note_fr": "Plutôt que 'took the decision to proceed with an extension of the consultation'."
+     }
+    ]
+   },
+   {
+    "rule": "Avoid chains of 'of': put the modifying nouns before the head noun. The last noun is the main one.",
+    "rule_fr": "Évitez les cascades de 'of' : les noms qui précisent se placent devant le nom principal, qui vient en dernier ('staff representative elections' = élections des représentants du personnel). Le groupe se lit donc de droite à gauche. Au-delà de trois ou quatre noms, coupez la chaîne avec une préposition.",
+    "examples": [
+     {
+      "wrong": "The representative of the staff of the site of Lyon has asked for a meeting.",
+      "right": "[[The Lyon site staff representative]] has asked for a meeting.",
+      "note_fr": "Le nom principal ('representative') vient en dernier ; tout ce qui le précise passe devant, sans 'of'."
+     },
+     {
+      "wrong": "The elections of the representatives of the staff will be held in March.",
+      "right": "[[Staff representative elections]] will be held in March.",
+      "note_fr": "Les noms en position d'adjectif restent au singulier : 'representative', pas 'representatives'."
+     },
+     {
+      "wrong": null,
+      "right": "We are reviewing [[the procedure for staff representative elections]].",
+      "note_fr": "Quatre noms empilés deviendraient illisibles : une préposition ('for') aère la phrase."
+     }
+    ]
+   },
+   {
+    "rule": "A noun used as a modifier is normally singular, and a number + unit placed before a noun is hyphenated and singular.",
+    "rule_fr": "Un nom employé comme modificateur reste en principe au singulier ; un groupe nombre + unité placé devant un nom prend un trait d'union et pas de -s : 'a three-month notice period', 'a 20-page report', 'a 35-hour week'. Quelques composés figés gardent le pluriel : 'sales manager', 'benefits package', 'human resources director', 'works council'.",
+    "examples": [
+     {
+      "wrong": "She is on a three-months notice period.",
+      "right": "She is on a [[three-month]] notice period.",
+      "note_fr": "Nombre + unité devant un nom : trait d'union, pas de -s."
+     },
+     {
+      "wrong": "The consultant produced a 20-pages report.",
+      "right": "The consultant produced a [[20-page]] report.",
+      "note_fr": "'Un rapport de 20 pages' = 'a 20-page report' : 'page' joue le rôle d'un adjectif, donc invariable."
+     },
+     {
+      "wrong": null,
+      "right": "He was appointed [[sales director]] for the French market.",
+      "note_fr": "Exception figée : 'sales' garde son -s, comme 'benefits' dans 'benefits package'."
+     }
+    ]
+   },
+   {
+    "rule": "Use 's for people, organisations and expressions of time; keep 'of' for things, abstract ideas and long phrases. The apostrophe comes after the s of a regular plural.",
+    "rule_fr": "Le génitif en 's s'emploie pour les personnes, les organisations, les pays et les expressions de temps ; 'of' pour les choses, les notions abstraites et les groupes longs ('the terms of the agreement'). Pluriel régulier : apostrophe après le s ('employees' rights'). Piège : oublier l'apostrophe dans les durées ('three months' notice', 'a day's pay').",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "[[The company's policy]] on expenses is perfectly clear.",
+      "note_fr": "Une organisation est un possesseur naturel du 's ; 'the policy of the company' est lourd."
+     },
+     {
+      "wrong": "The works council exists to protect the employees rights.",
+      "right": "The works council exists to protect [[employees' rights]].",
+      "note_fr": "Pluriel régulier : apostrophe après le s. 'The employee's rights' ne viserait qu'un seul salarié."
+     },
+     {
+      "wrong": "She is entitled to three months notice.",
+      "right": "She is entitled to [[three months' notice]].",
+      "note_fr": "Durée au génitif : 'three months' notice', 'one month's notice'. Comparez avec 'a three-month notice period'."
+     }
+    ]
+   },
+   {
+    "rule": "'The' + adjective refers to a whole group of people; it takes a plural verb and never an -s.",
+    "rule_fr": "'The' + adjectif désigne tout un groupe de personnes : 'the unemployed', 'the self-employed', 'the low-paid', 'the long-term sick'. Verbe au pluriel, jamais de -s à l'adjectif, et impossible pour une seule personne ('an unemployed person'). Pour le handicap, on préfère aujourd'hui 'disabled people' (Royaume-Uni) ou 'people with disabilities' (États-Unis) à 'the disabled'.",
+    "examples": [
+     {
+      "wrong": "The scheme is aimed at the long-term unemployeds.",
+      "right": "The scheme is aimed at [[the long-term unemployed]].",
+      "note_fr": "Adjectif substantivé : invariable, sans -s."
+     },
+     {
+      "wrong": "The self-employed is not covered by the collective agreement.",
+      "right": "The self-employed [[are]] not covered by the collective agreement.",
+      "note_fr": "Le groupe est un pluriel : 'the self-employed are'."
+     },
+     {
+      "wrong": "We hired a disabled through the scheme.",
+      "right": "We hired [[a disabled candidate]] through the scheme.",
+      "note_fr": "Pour une personne, il faut un nom : 'a disabled candidate', 'an unemployed person'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "The contract provides for ___ probationary period.",
+    "options": [
+     "a six-months",
+     "a six-month",
+     "a six month's",
+     "six-months"
+    ],
+    "answer": 1,
+    "explain_fr": "Nombre + unité devant un nom : trait d'union et singulier."
+   },
+   {
+    "type": "mcq",
+    "prompt": "She is entitled to ___ under her contract.",
+    "options": [
+     "three month's notice",
+     "three-months notice",
+     "three months' notice",
+     "three months notices"
+    ],
+    "answer": 2,
+    "explain_fr": "Génitif de durée au pluriel : apostrophe après le s ; 'notice' est indénombrable."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence is the most natural?",
+    "options": [
+     "The elections of the representatives of the staff took place in May.",
+     "The staff's representatives elections took place in May.",
+     "The staffs representative elections took place in May.",
+     "The staff representative elections took place in May."
+    ],
+    "answer": 3,
+    "explain_fr": "Nom composé : modificateurs au singulier devant le nom principal, sans 'of' ni 's."
+   },
+   {
+    "type": "mcq",
+    "prompt": "___ are often excluded from company pension schemes.",
+    "options": [
+     "The self-employed",
+     "The self-employeds",
+     "Self-employeds",
+     "The self-employed person"
+    ],
+    "answer": 0,
+    "explain_fr": "'The' + adjectif = le groupe entier ; invariable, verbe au pluriel."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence is the most natural English?",
+    "options": [
+     "We proceeded to the analysis of the results of the survey.",
+     "We made the analysis of the survey's results.",
+     "We analysed the survey results.",
+     "We did an analyse of the results of the survey."
+    ],
+    "answer": 2,
+    "explain_fr": "Un verbe plutôt qu'un nom abstrait, et un nom composé ('survey results') plutôt que deux 'of'. Orthographe américaine : 'analyzed'."
+   },
+   {
+    "type": "gap",
+    "prompt": "The group has adopted a ___ (five / year) diversity plan.",
+    "answer": "five-year",
+    "accept": [
+     "5-year"
+    ],
+    "explain_fr": "'Un plan sur cinq ans' = 'a five-year plan' : trait d'union, pas de -s."
+   },
+   {
+    "type": "gap",
+    "prompt": "I would like to discuss ___ (yesterday) meeting with the unions.",
+    "answer": "yesterday's",
+    "accept": [],
+    "explain_fr": "Expression de temps : génitif en 's ('yesterday's meeting', 'last year's results')."
+   },
+   {
+    "type": "gap",
+    "prompt": "All ___ (manager, plural possessive) bonuses are linked to safety results.",
+    "answer": "managers'",
+    "accept": [],
+    "explain_fr": "Possesseur pluriel : apostrophe après le s."
+   },
+   {
+    "type": "gap",
+    "prompt": "The new minimum wage rules are designed to protect the ___ (low / pay).",
+    "answer": "low-paid",
+    "accept": [
+     "lowest-paid",
+     "lower-paid"
+    ],
+    "explain_fr": "'The low-paid' = les bas salaires (les personnes) : 'the' + adjectif, invariable."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using a hyphenated number + noun before 'contract': 'She was given a fixed-term contract lasting eighteen months.'",
+    "answer": "She was given an eighteen-month fixed-term contract.",
+    "accept": [
+     "She was given an 18-month fixed-term contract."
+    ],
+    "explain_fr": "'Eighteen-month' devant le nom : trait d'union, singulier, et 'an' devant le son vocalique."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite with a verb instead of the abstract noun: 'Management proceeded to the modification of the working hours.'",
+    "answer": "Management changed the working hours.",
+    "accept": [
+     "Management modified the working hours.",
+     "Management altered the working hours.",
+     "Management changed working hours.",
+     "The management changed the working hours."
+    ],
+    "explain_fr": "'Procéder à la modification de' = 'change' : un verbe simple suffit."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite with two possessives: 'The decision of the tribunal surprised the lawyers of the employer.'",
+    "answer": "The tribunal's decision surprised the employer's lawyers.",
+    "accept": [],
+    "explain_fr": "Institution et personne : génitif en 's dans les deux cas."
+   }
+  ]
+ },
+ {
+  "id": "gr-habits-states",
+  "track": "advanced",
+  "title": "Habits, states and duration",
+  "title_fr": "Habitudes, états et durée",
+  "points": [
+   {
+    "rule": "'Used to' + base verb describes a past habit or state that is no longer true. It has no present form.",
+    "rule_fr": "'Used to' + base verbale décrit une habitude ou un état passé qui n'a plus cours ('autrefois, nous faisions'). Il n'existe qu'au passé : pour une habitude présente, présent simple + 'usually'. Question et négation : 'did you use to', 'didn't use to'.",
+    "examples": [
+     {
+      "wrong": "We were used to pay bonuses in December, but now we pay them in March.",
+      "right": "We [[used to pay]] bonuses in December, but now we pay them in March.",
+      "note_fr": "Habitude révolue : 'used to' + base verbale, sans 'be'."
+     },
+     {
+      "wrong": "We use to hold the committee meeting on Mondays.",
+      "right": "We [[usually hold]] the committee meeting on Mondays.",
+      "note_fr": "Habitude actuelle ('nous avons l'habitude de') : présent simple + 'usually'."
+     }
+    ]
+   },
+   {
+    "rule": "'Be used to' + noun or -ing means 'be accustomed to'; 'get used to' means 'become accustomed to'. Here 'to' is a preposition.",
+    "rule_fr": "'Be used to' + nom ou -ing = 'être habitué à' ; 'get used to' = 's'habituer à'. 'To' est ici une préposition : il est suivi de -ing, jamais de la base verbale. Piège : confondre 'I used to work' (je travaillais autrefois) et 'I am used to working' (j'ai l'habitude de travailler).",
+    "examples": [
+     {
+      "wrong": "I am used to work with American colleagues.",
+      "right": "I [[am used to working]] with American colleagues.",
+      "note_fr": "'J'ai l'habitude de travailler' : 'be used to' + -ing."
+     },
+     {
+      "wrong": "She is not used to be contradicted in meetings.",
+      "right": "She [[is not used to being]] contradicted in meetings.",
+      "note_fr": "Même au passif, -ing après la préposition 'to' : 'being contradicted'."
+     },
+     {
+      "wrong": null,
+      "right": "It took the team months to [[get used to]] the new reporting lines.",
+      "note_fr": "'Get used to' + nom : le processus d'adaptation."
+     }
+    ]
+   },
+   {
+    "rule": "'Still' = continuing; 'not yet' = expected but not so far; 'already' = sooner than expected; 'no longer' or 'not ... any more' = stopped.",
+    "rule_fr": "'Still' = encore, toujours ; 'not yet' = pas encore ; 'still ... not' = toujours pas ; 'already' = déjà ; 'no longer' ou 'not ... any more' = ne ... plus ('any more' en deux mots au Royaume-Uni, 'anymore' aux États-Unis). Place : 'still', 'already' et 'no longer' devant le verbe principal ; 'yet' en fin de proposition ou juste après 'not'. Pièges : ici 'toujours' ne se traduit pas par 'always', ni 'plus' par 'more'.",
+    "examples": [
+     {
+      "wrong": "She doesn't work more in the legal department.",
+      "right": "She [[no longer]] works in the legal department.",
+      "note_fr": "'Ne ... plus' = 'no longer' (soutenu) ou 'not ... any more' : 'she doesn't work in the legal department any more'."
+     },
+     {
+      "wrong": "We have not received yet the signed contract.",
+      "right": "We have [[not yet]] received the signed contract.",
+      "note_fr": "'Yet' ne sépare jamais le verbe de son complément : 'not yet received' ou '... the signed contract yet'."
+     },
+     {
+      "wrong": "The union has always not replied to our proposal.",
+      "right": "The union [[still has not]] replied to our proposal.",
+      "note_fr": "'Toujours pas' = 'still ... not', avec 'still' devant l'auxiliaire négatif."
+     }
+    ]
+   },
+   {
+    "rule": "For something that started in the past and is still going on, use the present perfect (usually continuous) with 'for' or 'since', never the present.",
+    "rule_fr": "Pour une action commencée dans le passé et qui dure encore ('depuis'), l'anglais emploie le present perfect, le plus souvent continu, avec 'for' + durée ou 'since' + point de départ ; jamais le présent. Avec les verbes d'état ('know', 'be', 'have'), present perfect simple.",
+    "examples": [
+     {
+      "wrong": "I work here since 2014.",
+      "right": "I [[have been working]] here since 2014.",
+      "note_fr": "'Depuis 2014' : present perfect continu + 'since' + point de départ."
+     },
+     {
+      "wrong": "We are negotiating since three months.",
+      "right": "We [[have been negotiating]] for three months.",
+      "note_fr": "Durée : 'for', pas 'since' ; et present perfect continu, pas présent."
+     },
+     {
+      "wrong": "I know him since ten years.",
+      "right": "I [[have known]] him for ten years.",
+      "note_fr": "'Know' est un verbe d'état : present perfect simple, jamais 'have been knowing'."
+     }
+    ]
+   },
+   {
+    "rule": "After 'it's the first / second time', English uses the present perfect; after 'it was the first time', the past perfect.",
+    "rule_fr": "Après 'it's the first / second time (that)', l'anglais emploie le present perfect, là où le français met le présent ; après 'it was the first time', le past perfect.",
+    "examples": [
+     {
+      "wrong": "It is the first time I attend a tribunal hearing.",
+      "right": "It is the first time I [[have attended]] a tribunal hearing.",
+      "note_fr": "'C'est la première fois que j'assiste' : present perfect en anglais."
+     },
+     {
+      "wrong": null,
+      "right": "It was the second time he [[had failed]] to report an accident.",
+      "note_fr": "Au passé : 'it was the second time' + past perfect."
+     }
+    ]
+   },
+   {
+    "rule": "Verbs that describe states - 'agree', 'know', 'understand', 'believe', 'depend', 'belong', 'need', 'want', 'mean' - are not normally used in the -ing form.",
+    "rule_fr": "Les verbes d'état ('agree', 'know', 'understand', 'believe', 'depend', 'belong', 'own', 'need', 'want', 'mean', 'seem') ne se mettent normalement pas à la forme en -ing. Pièges : 'I am agree' et 'I am agreeing' pour 'je suis d'accord' ; 'it is depending'. Certains verbes changent de sens : 'I think' (opinion) mais 'I am thinking of' (j'envisage).",
+    "examples": [
+     {
+      "wrong": "I am agreeing with the union's analysis.",
+      "right": "I [[agree]] with the union's analysis.",
+      "note_fr": "'Je suis d'accord' = 'I agree' : ni 'be', ni -ing."
+     },
+     {
+      "wrong": "It is depending on the outcome of the appeal.",
+      "right": "It [[depends]] on the outcome of the appeal.",
+      "note_fr": "'Depend' est un verbe d'état : présent simple, même pour une situation du moment."
+     },
+     {
+      "wrong": null,
+      "right": "We [[are thinking of]] outsourcing payroll.",
+      "note_fr": "'Think of' = envisager : activité en cours, donc -ing possible. Pour une opinion : 'I think', jamais 'I am thinking that'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "I ___ in employee relations for over fifteen years now.",
+    "options": [
+     "work",
+     "am working",
+     "have been working",
+     "worked"
+    ],
+    "answer": 2,
+    "explain_fr": "Action commencée dans le passé et toujours en cours : present perfect continu + 'for'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "After two years in London, she ___ meetings entirely in English.",
+    "options": [
+     "is used to chairing",
+     "is used to chair",
+     "used to chairing",
+     "uses to chair"
+    ],
+    "answer": 0,
+    "explain_fr": "'Elle a l'habitude de présider' : 'be used to' + -ing."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The employee ___ returned the company laptop, despite two reminders.",
+    "options": [
+     "always hasn't",
+     "still hasn't",
+     "hasn't still",
+     "yet hasn't"
+    ],
+    "answer": 1,
+    "explain_fr": "'Toujours pas' = 'still' + auxiliaire négatif."
+   },
+   {
+    "type": "mcq",
+    "prompt": "It's the first time we ___ a strike at this site.",
+    "options": [
+     "have",
+     "are having",
+     "had",
+     "have had"
+    ],
+    "answer": 3,
+    "explain_fr": "Après 'it's the first time' : present perfect."
+   },
+   {
+    "type": "mcq",
+    "prompt": "I ___ what you mean, but the collective agreement says otherwise.",
+    "options": [
+     "am understanding",
+     "understand",
+     "am understand",
+     "have been understanding"
+    ],
+    "answer": 1,
+    "explain_fr": "'Understand' est un verbe d'état : présent simple."
+   },
+   {
+    "type": "gap",
+    "prompt": "The company ___ (use / offer) a final-salary pension scheme, but it closed to new members years ago.",
+    "answer": "used to offer",
+    "accept": [],
+    "explain_fr": "État passé révolu : 'used to' + base verbale."
+   },
+   {
+    "type": "gap",
+    "prompt": "She ___ (know) the finance director since they were both trainees.",
+    "answer": "has known",
+    "accept": [],
+    "explain_fr": "Verbe d'état + 'since' : present perfect simple."
+   },
+   {
+    "type": "gap",
+    "prompt": "The works council has not given its opinion ___. [one word: 'pas encore']",
+    "answer": "yet",
+    "accept": [],
+    "explain_fr": "'Pas encore' : 'not ... yet', avec 'yet' en fin de proposition."
+   },
+   {
+    "type": "gap",
+    "prompt": "It took me a while to get used to ___ (report) to two managers.",
+    "answer": "reporting",
+    "accept": [],
+    "explain_fr": "'Get used to' + -ing : 'to' est une préposition."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the sentence: 'I am working for this group since eight years.'",
+    "answer": "I have been working for this group for eight years.",
+    "accept": [
+     "I've been working for this group for eight years.",
+     "I have worked for this group for eight years.",
+     "I've worked for this group for eight years."
+    ],
+    "explain_fr": "'Depuis huit ans' : present perfect (continu de préférence) + 'for' + durée."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using 'no longer': 'The company used to provide company cars, but it has stopped.'",
+    "answer": "The company no longer provides company cars.",
+    "accept": [],
+    "explain_fr": "'No longer' se place devant le verbe principal, qui reste au présent."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using 'used to': 'In the past, appraisals took place once a year; now they are quarterly.'",
+    "answer": "Appraisals used to take place once a year; now they are quarterly.",
+    "accept": [
+     "Appraisals used to take place once a year, but now they are quarterly.",
+     "Appraisals used to take place once a year. Now they are quarterly.",
+     "Appraisals used to be annual; now they are quarterly."
+    ],
+    "explain_fr": "'Used to' + base verbale rend à lui seul l'idée de 'in the past'."
+   }
+  ]
+ },
+ {
+  "id": "gr-expected",
+  "track": "advanced",
+  "title": "Expectation, likelihood and getting things done",
+  "title_fr": "Attente, probabilité et 'faire faire'",
+  "points": [
+   {
+    "rule": "'Be supposed to' says what should happen under a rule or an arrangement, often hinting that it does not. 'Be expected to' says what people require or anticipate.",
+    "rule_fr": "'Be supposed to' = 'être censé' : ce qui devrait se passer selon une règle ou un accord, souvent avec l'idée que ce n'est pas le cas. 'Be expected to' = ce que l'on attend de quelqu'un, ou ce que l'on prévoit. Pièges : 'il est attendu que' ne se calque pas ('it is waited that') ; et 'vous deviez envoyer' (mais vous ne l'avez pas fait) se dit 'you were supposed to send', pas 'you had to send'.",
+    "examples": [
+     {
+      "wrong": "It is waited that managers complete appraisals by 31 March.",
+      "right": "Managers [[are expected to]] complete appraisals by 31 March.",
+      "note_fr": "'Attendre de quelqu'un qu'il fasse' = 'expect someone to do' ; au passif, la personne devient sujet."
+     },
+     {
+      "wrong": "You had to send the letter by recorded delivery, but you used ordinary post.",
+      "right": "You [[were supposed to]] send the letter by recorded delivery, but you used ordinary post.",
+      "note_fr": "'Had to' laisse entendre que la chose a été faite ; pour un devoir non accompli : 'were supposed to'."
+     }
+    ]
+   },
+   {
+    "rule": "'Be likely to' and 'be unlikely to' + verb express probability, with the person or thing as subject.",
+    "rule_fr": "'Be likely to' / 'be unlikely to' + verbe expriment la probabilité, avec la personne ou la chose pour sujet ; on peut aussi dire 'it is likely that'. Pièges : 'risquer de' sans idée de danger = 'be likely to' ('risk' se construit avec -ing et suppose un danger) ; 'il y a peu de chances que' = 'be unlikely to'.",
+    "examples": [
+     {
+      "wrong": "The union risks to reject the offer.",
+      "right": "The union [[is likely to]] reject the offer.",
+      "note_fr": "'Risque de refuser' = 'is likely to reject' ; 'risk' ne se construit jamais avec 'to'."
+     },
+     {
+      "wrong": "There are few chances that she accepts a transfer to Leeds.",
+      "right": "She [[is unlikely to]] accept a transfer to Leeds.",
+      "note_fr": "'Il y a peu de chances qu'elle accepte' : la personne devient sujet de 'is unlikely to'."
+     }
+    ]
+   },
+   {
+    "rule": "'Be due to' = scheduled; 'be about to' = on the point of happening; 'be bound to' = certain to happen.",
+    "rule_fr": "'Be due to' = prévu à telle date ou à telle heure ; 'be about to' = sur le point de ; 'be bound to' = ne peut manquer de. Pièges : 'doit' au sens de 'est prévu' se traduit par 'is due to', pas par 'must' ; 'sur le point de' = 'about to' + verbe ou 'on the point of' + -ing.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "The hearing [[is due to]] start at ten o'clock.",
+      "note_fr": "'L'audience doit commencer à dix heures' : simple calendrier, donc 'is due to' ; 'must start' exprimerait une obligation."
+     },
+     {
+      "wrong": "I was on the point to call you.",
+      "right": "I [[was about to]] call you.",
+      "note_fr": "'J'allais vous appeler' : 'be about to' + base verbale (ou 'on the point of calling')."
+     },
+     {
+      "wrong": null,
+      "right": "A decision like that [[is bound to]] upset the unions.",
+      "note_fr": "Certitude du locuteur : 'cela va forcément fâcher les syndicats'."
+     }
+    ]
+   },
+   {
+    "rule": "To say that you arrange for someone else to do something, use 'have' or 'get' + object + past participle.",
+    "rule_fr": "'Faire faire' quelque chose = 'have' ou 'get' + complément + participe passé ('get' est plus familier). Le complément se place avant le participe. Piège : les calques 'make translate', 'make check'. La même structure peut exprimer quelque chose que l'on subit.",
+    "examples": [
+     {
+      "wrong": "We made translate the contract by a sworn translator.",
+      "right": "We [[had the contract translated]] by a sworn translator.",
+      "note_fr": "'Nous avons fait traduire le contrat' : 'have' + objet + participe passé."
+     },
+     {
+      "wrong": "I will make check the letter by Legal before it goes out.",
+      "right": "I will [[get the letter checked]] by Legal before it goes out.",
+      "note_fr": "'Get' + objet + participe passé : même sens que 'have', en plus courant à l'oral."
+     },
+     {
+      "wrong": null,
+      "right": "She [[had her access rights withdrawn]] after the incident.",
+      "note_fr": "Ici la personne subit l'action : 'on lui a retiré ses droits d'accès'."
+     }
+    ]
+   },
+   {
+    "rule": "To report what people say or think without endorsing it, use subject + 'is said / thought / believed / understood / alleged' + to-infinitive; use 'to have' + past participle for an earlier event.",
+    "rule_fr": "Pour rapporter une information sans la prendre à son compte : sujet + 'is said / thought / believed / understood / alleged / reported' + 'to' + verbe ; 'to have' + participe passé si le fait est antérieur ; 'to be' + -ing s'il est en cours. Piège majeur : le conditionnel journalistique français ('il aurait falsifié') ne se traduit jamais par 'would have'.",
+    "examples": [
+     {
+      "wrong": "According to the complaint, the manager would have falsified his expense claims.",
+      "right": "The manager [[is alleged to have]] falsified his expense claims.",
+      "note_fr": "'Il aurait falsifié' = 'he is alleged to have falsified'. 'Would have falsified' signifierait 'il aurait falsifié si...'."
+     },
+     {
+      "wrong": null,
+      "right": "The chief executive [[is said to be]] considering a merger.",
+      "note_fr": "'Le directeur général envisagerait une fusion' : 'is said to be' + -ing pour une action en cours."
+     },
+     {
+      "wrong": null,
+      "right": "The claimant [[is understood to have]] accepted the offer.",
+      "note_fr": "'Is understood to' : formule prudente, fréquente dans la presse et les notes juridiques."
+     }
+    ]
+   },
+   {
+    "rule": "'Make', 'let' and 'have' are followed by an object + base verb without 'to'. In the passive, 'make' takes 'to'.",
+    "rule_fr": "'Make' (obliger), 'let' (laisser, autoriser) et 'have' (demander à quelqu'un de faire) + complément + base verbale, sans 'to'. Au passif, 'make' reprend 'to' ('he was made to sign') et 'let' devient 'be allowed to'. 'Have someone do' est surtout américain ; un Britannique dit plutôt 'get someone to do' ou 'ask someone to do'.",
+    "examples": [
+     {
+      "wrong": "The manager made him to sign the form.",
+      "right": "The manager [[made him sign]] the form.",
+      "note_fr": "'Make' + objet + base verbale, sans 'to'."
+     },
+     {
+      "wrong": "They did not let the employee to bring a colleague to the meeting.",
+      "right": "They did not [[let the employee bring]] a colleague to the meeting.",
+      "note_fr": "'Let' + objet + base verbale ; avec 'allow' : 'allow the employee to bring'."
+     },
+     {
+      "wrong": null,
+      "right": "I will [[have my assistant send]] you the file.",
+      "note_fr": "Tournure courante aux États-Unis ; au Royaume-Uni, plutôt 'I'll get my assistant to send you the file'."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "The new HR system ___ go live in January, but the project is running late.",
+    "options": [
+     "is bound to",
+     "supposes to",
+     "is supposed to",
+     "is supposing to"
+    ],
+    "answer": 2,
+    "explain_fr": "'Est censé' = 'is supposed to' : ce qui est prévu, avec un doute sur la réalité."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Given the evidence, the tribunal ___ find in the employee's favour.",
+    "options": [
+     "is probable to",
+     "is likely to",
+     "risks to",
+     "has chances to"
+    ],
+    "answer": 1,
+    "explain_fr": "Probabilité : 'be likely to' + verbe. 'Probable' ne se construit pas avec 'to', ni 'risk'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "We need to ___ before the hearing.",
+    "options": [
+     "make translate the witness statements",
+     "have the witness statements translate",
+     "make the witness statements translating",
+     "have the witness statements translated"
+    ],
+    "answer": 3,
+    "explain_fr": "'Faire traduire' : 'have' + objet + participe passé."
+   },
+   {
+    "type": "mcq",
+    "prompt": "The former director ___ confidential files before he left.",
+    "options": [
+     "is believed to have taken",
+     "is believed to take",
+     "is believed having taken",
+     "believes to have taken"
+    ],
+    "answer": 0,
+    "explain_fr": "Fait antérieur rapporté avec prudence : 'is believed to have' + participe passé ('aurait emporté')."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Her manager ___ the whole report.",
+    "options": [
+     "made her to rewrite",
+     "made her rewriting",
+     "made her rewrite",
+     "made that she rewrite"
+    ],
+    "answer": 2,
+    "explain_fr": "'Make' + objet + base verbale, sans 'to'."
+   },
+   {
+    "type": "gap",
+    "prompt": "Hurry up: the meeting is ___ to start. [one word beginning with 'a': any second now]",
+    "answer": "about",
+    "accept": [],
+    "explain_fr": "'Sur le point de' : 'be about to' + base verbale."
+   },
+   {
+    "type": "gap",
+    "prompt": "The works council is ___ to give its opinion on 12 May. [one word of three letters: according to the timetable]",
+    "answer": "due",
+    "accept": [
+     "set"
+    ],
+    "explain_fr": "Événement prévu au calendrier : 'be due to' ('be set to' et 'be scheduled to' conviennent aussi)."
+   },
+   {
+    "type": "gap",
+    "prompt": "The company ___ (say) to be planning further job cuts. [present passive]",
+    "answer": "is said",
+    "accept": [],
+    "explain_fr": "Information rapportée : sujet + 'is said to' + verbe ('la société préparerait')."
+   },
+   {
+    "type": "gap",
+    "prompt": "He ___ (make / repay) the overpayment in full. [passive, past]",
+    "answer": "was made to repay",
+    "accept": [],
+    "explain_fr": "Au passif, 'make' reprend 'to' : 'he was made to repay'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite beginning 'The company': 'People say that the company is preparing a takeover bid.'",
+    "answer": "The company is said to be preparing a takeover bid.",
+    "accept": [],
+    "explain_fr": "Sujet + 'is said to be' + -ing pour une action en cours."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite beginning 'We have': 'An external firm audits our payroll every year.'",
+    "answer": "We have our payroll audited by an external firm every year.",
+    "accept": [
+     "We have our payroll audited every year by an external firm.",
+     "We have our payroll audited every year."
+    ],
+    "explain_fr": "'Faire auditer' : 'have' + objet + participe passé."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite using 'likely': 'The union will probably call a strike.'",
+    "answer": "The union is likely to call a strike.",
+    "accept": [
+     "It is likely that the union will call a strike."
+    ],
+    "explain_fr": "'Be likely to' + verbe, ou 'it is likely that' + proposition."
+   }
+  ]
+ },
+ {
+  "id": "gr-punctuation",
+  "track": "writing",
+  "title": "Punctuation and conventions in business writing",
+  "title_fr": "Ponctuation et conventions de l'écrit professionnel",
+  "points": [
+   {
+    "rule": "Do not put a comma before 'that', between a subject and its verb, or between two complete sentences. The comma before 'and' at the end of a list (the Oxford comma) is usual in American writing and optional in British writing.",
+    "rule_fr": "Pas de virgule devant 'that', ni entre le sujet et le verbe, ni entre deux phrases complètes (la 'comma splice' : il faut un point, un point-virgule ou une conjonction). La virgule avant 'and' en fin d'énumération ('Oxford comma') est recommandée par la plupart des guides américains ; au Royaume-Uni elle est facultative et on l'omet le plus souvent, sauf pour lever une ambiguïté.",
+    "examples": [
+     {
+      "wrong": "We believe, that the dismissal was fair.",
+      "right": "We [[believe that]] the dismissal was fair.",
+      "note_fr": "Jamais de virgule devant 'that' : 'believe that', 'confirm that', 'note that' s'écrivent d'un seul trait."
+     },
+     {
+      "wrong": "The employee did not attend the hearing, we therefore postponed it.",
+      "right": "The employee did not attend the [[hearing; we]] therefore postponed it.",
+      "note_fr": "Deux phrases complètes : point-virgule ou point. La virgule seule ('comma splice') est une faute en anglais."
+     },
+     {
+      "wrong": null,
+      "right": "The package includes a bonus, a company [[car, and]] private medical cover.",
+      "note_fr": "Virgule d'Oxford : usuelle aux États-Unis ; un Britannique écrirait le plus souvent 'a company car and private medical cover'."
+     }
+    ]
+   },
+   {
+    "rule": "A semicolon joins two closely related complete sentences; a colon introduces a list, an explanation or a quotation. Neither is preceded by a space.",
+    "rule_fr": "Le point-virgule relie deux phrases complètes étroitement liées ; les deux-points annoncent une liste, une explication ou une citation. Piège typographique : en anglais, aucune espace avant ';', ':', '?', '!' ni avant '%'.",
+    "examples": [
+     {
+      "wrong": "Three sites are affected : Lyon, Leeds and Austin.",
+      "right": "Three sites are [[affected:]] Lyon, Leeds and Austin.",
+      "note_fr": "Pas d'espace avant les deux-points : c'est le signe le plus sûr d'un texte rédigé par un francophone."
+     },
+     {
+      "wrong": null,
+      "right": "Two managers [[objected; the]] others accepted the new rota.",
+      "note_fr": "Point-virgule entre deux phrases complètes que l'on veut garder liées."
+     }
+    ]
+   },
+   {
+    "rule": "An apostrophe marks possession or a contraction, never a plural. A compound adjective placed before a noun takes a hyphen.",
+    "rule_fr": "L'apostrophe marque la possession ('the employee's file', 'the employees' files') ou une contraction ('it's' = 'it is'), jamais un pluriel ('CVs', 'KPIs', 'the 1990s'). 'Its' possessif s'écrit sans apostrophe. Le trait d'union relie un adjectif composé placé devant le nom ('part-time staff', 'a long-term absence') et disparaît après le verbe ('she works part time').",
+    "examples": [
+     {
+      "wrong": "The company has updated it's disciplinary policy.",
+      "right": "The company has updated [[its]] disciplinary policy.",
+      "note_fr": "'Its' = possessif ; 'it's' = 'it is' ou 'it has'."
+     },
+     {
+      "wrong": "We shortlisted ten CV's for interview.",
+      "right": "We shortlisted ten [[CVs]] for interview.",
+      "note_fr": "Pluriel d'un sigle : simple s, sans apostrophe. Aux États-Unis, on dirait 'ten resumes'."
+     },
+     {
+      "wrong": "We employ forty part time workers.",
+      "right": "We employ forty [[part-time]] workers.",
+      "note_fr": "Adjectif composé devant le nom : trait d'union. Après le verbe : 'they work part time'."
+     }
+    ]
+   },
+   {
+    "rule": "Days, months, nationalities and languages always take a capital letter. A job title takes capitals when it is attached to a name, and lower case when it is used generically.",
+    "rule_fr": "Jours, mois, nationalités et langues prennent toujours la majuscule, y compris comme adjectifs ('a French company'). Un titre de fonction prend la majuscule lorsqu'il accompagne un nom ou désigne officiellement une personne, la minuscule en emploi générique ('we are recruiting a finance director'). Les saisons restent en minuscules.",
+    "examples": [
+     {
+      "wrong": "The next meeting is on monday 3 march.",
+      "right": "The next meeting is on [[Monday 3 March]].",
+      "note_fr": "Majuscule aux jours et aux mois, contrairement au français."
+     },
+     {
+      "wrong": "Our american colleagues would like the minutes in English.",
+      "right": "Our [[American]] colleagues would like the minutes in English.",
+      "note_fr": "Adjectif de nationalité : majuscule obligatoire, comme pour les langues."
+     },
+     {
+      "wrong": null,
+      "right": "The session was opened by [[HR Director]] James Carter.",
+      "note_fr": "Titre accolé au nom : majuscules. En emploi générique : 'three HR directors attended'."
+     }
+    ]
+   },
+   {
+    "rule": "English uses a point for decimals and a comma for thousands. Write the month in letters, because all-figure dates are read differently in Britain and America.",
+    "rule_fr": "Point pour les décimales, virgule pour les milliers ('1,250.50'), symbole monétaire avant le nombre ('€500', '$2 million'), pourcentage collé au chiffre ('2.5%'). Dates : '4 March 2025' au Royaume-Uni, 'March 4, 2025' aux États-Unis ; une date tout en chiffres est ambiguë ('4/3' = 4 mars pour un Britannique, 3 avril pour un Américain), écrivez donc le mois en lettres. Heures : '2.30 pm' (Royaume-Uni) ou '2:30 p.m.' (États-Unis), jamais '14h30'.",
+    "examples": [
+     {
+      "wrong": "The settlement amounted to 12.500,50 euros.",
+      "right": "The settlement amounted to [[€12,500.50]].",
+      "note_fr": "Virgule pour les milliers, point pour les décimales, symbole devant le nombre."
+     },
+     {
+      "wrong": "Staff turnover fell by 0,5 %.",
+      "right": "Staff turnover fell by [[0.5%]].",
+      "note_fr": "Point décimal, et '%' collé au chiffre."
+     },
+     {
+      "wrong": "The hearing is on 04/03/2025 at 14h30.",
+      "right": "The hearing is on [[4 March 2025]] at 2.30 pm.",
+      "note_fr": "Version britannique ; version américaine : 'March 4, 2025, at 2:30 p.m.'. Le mois en lettres évite tout malentendu."
+     }
+    ]
+   },
+   {
+    "rule": "British letters open 'Dear Ms Carter,' with no full stop after the title; American business letters open 'Dear Ms. Carter:' with a period and, formally, a colon. British quotation marks are usually single, American ones double.",
+    "rule_fr": "Formule d'appel : 'Dear Ms Carter,' au Royaume-Uni (pas de point après 'Mr', 'Ms', 'Dr') ; 'Dear Ms. Carter:' aux États-Unis (point après le titre, deux-points dans une lettre d'affaires formelle, virgule dans un courriel). Jamais 'Dear Madam Carter', ni prénom + nom après le titre. Guillemets : simples au Royaume-Uni, ponctuation à l'extérieur sauf si elle appartient à la citation ; doubles aux États-Unis, virgule et point toujours à l'intérieur.",
+    "examples": [
+     {
+      "wrong": "Dear Madam Carter, Thank you for your letter of 4 March.",
+      "right": "[[Dear Ms Carter,]] Thank you for your letter of 4 March.",
+      "note_fr": "Titre + nom de famille ; 'Madam' ne s'emploie que seul ('Dear Madam'). 'Ms' convient quelle que soit la situation de famille."
+     },
+     {
+      "wrong": null,
+      "right": "[[Dear Ms. Carter:]] Thank you for your letter of March 4.",
+      "note_fr": "Usage américain : point après 'Ms.', deux-points après le nom dans une lettre formelle."
+     },
+     {
+      "wrong": null,
+      "right": "The manager described the remark as [['just banter'.]]",
+      "note_fr": "Usage britannique : guillemets simples, point à l'extérieur. Un Américain écrirait \"just banter.\" avec des guillemets doubles et le point à l'intérieur."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "Which sentence is correctly punctuated?",
+    "options": [
+     "We confirm, that your request has been approved.",
+     "We confirm that your request has been approved.",
+     "We confirm that, your request has been approved.",
+     "We confirm that your request, has been approved."
+    ],
+    "answer": 1,
+    "explain_fr": "Pas de virgule devant 'that', ni entre le sujet et le verbe."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence is correctly punctuated?",
+    "options": [
+     "The claimant did not reply, we closed the file.",
+     "The claimant did not reply ; we closed the file.",
+     "The claimant did not reply we closed the file.",
+     "The claimant did not reply; we closed the file."
+    ],
+    "answer": 3,
+    "explain_fr": "Deux phrases complètes : point-virgule, sans espace avant. La virgule seule est une 'comma splice'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "How should 'douze mille cinq cents euros et cinquante centimes' be written in an English-language report?",
+    "options": [
+     "€12.500,50",
+     "€12 500,50",
+     "€12,500.50",
+     "12,500.50€"
+    ],
+    "answer": 2,
+    "explain_fr": "Virgule pour les milliers, point pour les décimales, symbole devant le nombre."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence uses capital letters correctly?",
+    "options": [
+     "The French delegation arrives on Tuesday 6 May.",
+     "The french delegation arrives on Tuesday 6 May.",
+     "The French delegation arrives on tuesday 6 may.",
+     "The French Delegation arrives on Tuesday 6 May."
+    ],
+    "answer": 0,
+    "explain_fr": "Majuscule aux nationalités, aux jours et aux mois ; pas aux noms communs comme 'delegation'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which opening is standard in a formal American business letter?",
+    "options": [
+     "Dear Ms Carter,",
+     "Dear Madam Carter:",
+     "Dear Ms. Carter:",
+     "Dear Ms. Sarah Carter,"
+    ],
+    "answer": 2,
+    "explain_fr": "États-Unis : point après 'Ms.' et deux-points après le nom. La première forme est britannique."
+   },
+   {
+    "type": "gap",
+    "prompt": "The committee has published ___ annual report. [its / it's]",
+    "answer": "its",
+    "accept": [],
+    "explain_fr": "Possessif : 'its', sans apostrophe."
+   },
+   {
+    "type": "gap",
+    "prompt": "The ___ (employee, plural possessive) representatives have asked for a meeting.",
+    "answer": "employees'",
+    "accept": [],
+    "explain_fr": "Possesseur pluriel : apostrophe après le s."
+   },
+   {
+    "type": "gap",
+    "prompt": "An American colleague writes 'the hearing is on 4/3/2025'. In a British email, that date would be written 3 ___ 2025. [month in letters]",
+    "answer": "April",
+    "accept": [],
+    "explain_fr": "Aux États-Unis, le mois vient en premier : 4/3 = 3 avril. D'où l'intérêt d'écrire le mois en lettres."
+   },
+   {
+    "type": "gap",
+    "prompt": "We received more than 200 ___ (CV, plural) for the vacancy.",
+    "answer": "CVs",
+    "accept": [],
+    "explain_fr": "Pluriel d'un sigle : s minuscule, sans apostrophe."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Correct the punctuation and the capital letters: 'The meeting with our german colleagues is on friday 7 march, please confirm that you can attend.'",
+    "answer": "The meeting with our German colleagues is on Friday 7 March; please confirm that you can attend.",
+    "accept": [
+     "The meeting with our German colleagues is on Friday 7 March. Please confirm that you can attend.",
+     "The meeting with our German colleagues is on Friday, March 7. Please confirm that you can attend.",
+     "The meeting with our German colleagues is on Friday, March 7; please confirm that you can attend."
+    ],
+    "explain_fr": "Majuscules à 'German', 'Friday', 'March' ; point ou point-virgule entre les deux phrases. Ordre américain : 'Friday, March 7'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite the figures according to English conventions: 'The budget is 1.250.000 euros, an increase of 2,5 %.'",
+    "answer": "The budget is €1,250,000, an increase of 2.5%.",
+    "accept": [
+     "The budget is EUR 1,250,000, an increase of 2.5%.",
+     "The budget is 1,250,000 euros, an increase of 2.5%.",
+     "The budget is €1.25 million, an increase of 2.5%.",
+     "The budget is 1.25 million euros, an increase of 2.5%."
+    ],
+    "explain_fr": "Virgules pour les milliers, point décimal, '%' collé au chiffre."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite this British opening for an American reader: 'Dear Mr Hughes, Thank you for your letter of 12 May 2025.'",
+    "answer": "Dear Mr. Hughes: Thank you for your letter of May 12, 2025.",
+    "accept": [
+     "Dear Mr. Hughes, Thank you for your letter of May 12, 2025."
+    ],
+    "explain_fr": "Point après 'Mr.', deux-points (ou virgule, moins formel) après le nom, et mois avant le jour."
+   }
+  ]
+ },
+ {
+  "id": "gr-ukus",
+  "track": "writing",
+  "title": "British and American grammar differences",
+  "title_fr": "Différences de grammaire entre anglais britannique et américain",
+  "points": [
+   {
+    "rule": "In British English a collective noun (team, board, committee, management, staff) can take a singular or a plural verb; in American English it takes a singular verb. 'Police' is plural everywhere.",
+    "rule_fr": "En anglais britannique, un nom collectif ('team', 'board', 'committee', 'management', 'staff') prend le verbe au pluriel quand on pense aux membres, au singulier quand on pense à l'entité ; en américain, le singulier est de règle. Restez cohérent dans une même phrase ('the board has ... its' ou 'the board have ... their'). 'Police' est toujours pluriel, dans les deux variétés.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "The committee [[have]] not yet reached a decision.",
+      "note_fr": "Accord britannique au pluriel (on pense aux membres) ; un Américain écrirait 'The committee has not yet reached a decision'."
+     },
+     {
+      "wrong": null,
+      "right": "Management [[is]] reviewing its offer to the union.",
+      "note_fr": "Accord américain : singulier, repris par 'its'. Un Britannique accepterait aussi 'Management are reviewing their offer'."
+     },
+     {
+      "wrong": "The police is investigating the theft from the warehouse.",
+      "right": "The police [[are]] investigating the theft from the warehouse.",
+      "note_fr": "'Police' est un pluriel, au Royaume-Uni comme aux États-Unis."
+     }
+    ]
+   },
+   {
+    "rule": "With 'just', 'already' and 'yet', British English uses the present perfect; American English often uses the past simple in speech and informal writing. Both use the past simple with a finished time.",
+    "rule_fr": "Avec 'just', 'already' et 'yet', le britannique emploie le present perfect ('I've just sent it') ; l'américain emploie souvent le prétérit à l'oral et dans les courriels ('I just sent it', 'Did you send it yet?'), tout en gardant le present perfect à l'écrit soutenu. Avec un moment passé précis ('yesterday', 'last week'), les deux variétés exigent le prétérit.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "I [[have just sent]] you the draft agreement.",
+      "note_fr": "Usage britannique ; un Américain dirait volontiers 'I just sent you the draft agreement'."
+     },
+     {
+      "wrong": null,
+      "right": "[[Did you already speak]] to Legal?",
+      "note_fr": "Usage américain courant ; en britannique : 'Have you already spoken to Legal?'."
+     },
+     {
+      "wrong": "I have sent you the draft yesterday.",
+      "right": "I [[sent]] you the draft yesterday.",
+      "note_fr": "Moment passé précis : prétérit obligatoire dans les deux variétés."
+     }
+    ]
+   },
+   {
+    "rule": "British English often says 'have got' for 'have' in conversation; American English prefers 'have'. 'Gotten' is the American past participle of 'get' (become, obtain); British English uses 'got'.",
+    "rule_fr": "À l'oral, le britannique dit volontiers 'have got' pour la possession ('I've got a meeting') ; l'américain préfère 'have' ('I have a meeting'). 'Gotten' est le participe passé américain de 'get' au sens de 'devenir' ou 'obtenir' ; le britannique dit 'got'. Pièges : 'have got' ne se construit pas avec 'do' et n'existe qu'au présent ; 'have gotten' ne signifie jamais 'posséder'.",
+    "examples": [
+     {
+      "wrong": "Do you have got a minute to look at this clause?",
+      "right": "[[Have you got]] a minute to look at this clause?",
+      "note_fr": "Britannique courant ; en américain (et partout à l'écrit) : 'Do you have a minute?'. On ne mélange pas les deux constructions."
+     },
+     {
+      "wrong": null,
+      "right": "The process [[has gotten]] far more complicated since the merger.",
+      "note_fr": "Usage américain ; un Britannique dirait 'has got' ou, mieux, 'has become'."
+     },
+     {
+      "wrong": "We have gotten two vacancies in the legal team at the moment.",
+      "right": "We [[have]] two vacancies in the legal team at the moment.",
+      "note_fr": "Possession : 'have' (ou 'have got' en britannique familier) ; 'have gotten' voudrait dire 'nous avons obtenu'."
+     }
+    ]
+   },
+   {
+    "rule": "Several everyday prepositions differ: at the weekend (UK) / on the weekend (US); Monday to Friday (UK) / Monday through Friday (US); in a team (UK) / on a team (US); write to me (UK) / write me (US); different from (both), different to (UK), different than (US).",
+    "rule_fr": "Plusieurs prépositions courantes diffèrent : 'at the weekend' (Royaume-Uni) / 'on the weekend' (États-Unis) ; 'Monday to Friday' (Royaume-Uni) / 'Monday through Friday' (États-Unis, vendredi inclus) ; 'in a team' (Royaume-Uni) / 'on a team' (États-Unis) ; 'write to me' (Royaume-Uni) / 'write me' (États-Unis, familier) ; 'different from' partout, 'different to' au Royaume-Uni, 'different than' aux États-Unis. Pièges communs aux deux variétés : 'in the weekend' et 'different of' n'existent pas.",
+    "examples": [
+     {
+      "wrong": "I will read the report in the weekend.",
+      "right": "I will read the report [[at the weekend]].",
+      "note_fr": "Britannique ; en américain : 'on the weekend'. 'Over the weekend' convient partout."
+     },
+     {
+      "wrong": null,
+      "right": "The helpline is open Monday [[through]] Friday.",
+      "note_fr": "Américain, vendredi inclus ; en britannique : 'Monday to Friday'."
+     },
+     {
+      "wrong": "The French rules are quite different of the British ones.",
+      "right": "The French rules are quite [[different from]] the British ones.",
+      "note_fr": "'Different from' est sûr partout ; 'different to' est britannique, 'different than' américain."
+     }
+    ]
+   },
+   {
+    "rule": "British English still uses 'shall' for offers and suggestions with 'I' and 'we', and 'needn't' for absence of obligation. American English prefers 'should' and 'don't need to'.",
+    "rule_fr": "Le britannique emploie encore 'shall' avec 'I' et 'we' pour proposer ('Shall I...?', 'Shall we...?') et 'needn't' + base verbale pour l'absence d'obligation. L'américain dit 'Should I...?', 'Do you want me to...?' et 'don't need to' ou 'don't have to'. Piège : 'needn't' est un modal, donc jamais suivi de 'to'.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "[[Shall I]] send you the draft minutes?",
+      "note_fr": "Offre britannique ; en américain : 'Should I send you the draft minutes?' ou 'Do you want me to send...?'."
+     },
+     {
+      "wrong": "You needn't to attend the whole session.",
+      "right": "You [[needn't]] attend the whole session.",
+      "note_fr": "Britannique : 'needn't' + base verbale. Américain (et britannique neutre) : 'you don't need to attend'."
+     }
+    ]
+   },
+   {
+    "rule": "A few forms simply differ: learnt (UK) / learned (US); towards (UK) / toward (US); in hospital (UK) / in the hospital (US); at the moment (UK) / right now (US).",
+    "rule_fr": "Quelques formes diffèrent simplement : 'learnt', 'spelt', 'burnt' (Royaume-Uni, où la forme en '-ed' est aussi admise) / 'learned', 'spelled', 'burned' (États-Unis) ; 'towards' (Royaume-Uni) / 'toward' (États-Unis) ; 'in hospital' (Royaume-Uni) / 'in the hospital' (États-Unis) ; 'at the moment' (Royaume-Uni) / 'right now' (États-Unis). Choisissez une variété par document et tenez-vous-y. Piège commun : 'en ce moment' ne se dit pas 'in this moment', et 'actually' signifie 'en fait'.",
+    "examples": [
+     {
+      "wrong": null,
+      "right": "She has been [[in hospital]] since Monday.",
+      "note_fr": "Britannique : sans article pour une personne hospitalisée ; en américain : 'in the hospital'."
+     },
+     {
+      "wrong": null,
+      "right": "We have [[learnt]] a great deal from the pilot scheme.",
+      "note_fr": "Britannique ; l'américain n'emploie que 'learned'. 'Scheme' est lui aussi britannique : 'pilot program' aux États-Unis."
+     },
+     {
+      "wrong": "In this moment we are not recruiting.",
+      "right": "[[At the moment]] we are not recruiting.",
+      "note_fr": "Britannique ; en américain plutôt 'right now'. 'Currently' convient partout à l'écrit."
+     }
+    ]
+   }
+  ],
+  "exercises": [
+   {
+    "type": "mcq",
+    "prompt": "(American English) The management team ___ meeting the union tomorrow.",
+    "options": [
+     "are",
+     "be",
+     "is",
+     "were"
+    ],
+    "answer": 2,
+    "explain_fr": "En américain, un nom collectif prend le verbe au singulier ; un Britannique pourrait dire 'are'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "Which sentence is typically American rather than British?",
+    "options": [
+     "Have you finished the report yet?",
+     "Did you finish the report yet?",
+     "Have you yet finished the report?",
+     "Do you have finished the report yet?"
+    ],
+    "answer": 1,
+    "explain_fr": "Prétérit avec 'yet' : usage américain courant. Le britannique emploie le present perfect ; la dernière phrase est fautive partout."
+   },
+   {
+    "type": "mcq",
+    "prompt": "(British English) The helpline is open ___.",
+    "options": [
+     "Monday to Friday",
+     "Monday through Friday",
+     "from Monday at Friday",
+     "since Monday to Friday"
+    ],
+    "answer": 0,
+    "explain_fr": "Britannique : 'Monday to Friday'. 'Through' est américain ; les deux autres formes sont fautives."
+   },
+   {
+    "type": "mcq",
+    "prompt": "(British English, offering help) ___ I book a room for the hearing?",
+    "options": [
+     "Will",
+     "Do",
+     "Would",
+     "Shall"
+    ],
+    "answer": 3,
+    "explain_fr": "Offre à la première personne : 'Shall I...?' en britannique ; un Américain dirait 'Should I...?'."
+   },
+   {
+    "type": "mcq",
+    "prompt": "(American English) The situation has ___ worse since the layoffs were announced.",
+    "options": [
+     "gotten",
+     "got",
+     "get",
+     "been got"
+    ],
+    "answer": 0,
+    "explain_fr": "'Get' au sens de 'devenir' : participe passé 'gotten' en américain, 'got' en britannique."
+   },
+   {
+    "type": "gap",
+    "prompt": "(British English) Her manager has been ___ hospital for a week. [one word]",
+    "answer": "in",
+    "accept": [],
+    "explain_fr": "Britannique : 'in hospital', sans article ; américain : 'in the hospital'."
+   },
+   {
+    "type": "gap",
+    "prompt": "(American English) Our payroll team never works ___ the weekend. [one word; a British speaker would say 'at']",
+    "answer": "on",
+    "accept": [
+     "over",
+     "during"
+    ],
+    "explain_fr": "Américain : 'on the weekend' ; britannique : 'at the weekend'. 'Over the weekend' passe partout."
+   },
+   {
+    "type": "gap",
+    "prompt": "(British English) You ___ come in on Friday: the training has been cancelled. [one word: no obligation]",
+    "answer": "needn't",
+    "accept": [
+     "need not"
+    ],
+    "explain_fr": "Absence d'obligation en britannique : 'needn't' + base verbale, sans 'to'."
+   },
+   {
+    "type": "gap",
+    "prompt": "(American English, informal) I ___ (already / send) the offer letter this morning.",
+    "answer": "already sent",
+    "accept": [],
+    "explain_fr": "Américain courant : prétérit avec 'already' ; un Britannique écrirait 'I have already sent'."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite in British English: 'I already sent the contract; did you get it yet?'",
+    "answer": "I have already sent the contract; have you received it yet?",
+    "accept": [
+     "I've already sent the contract; have you received it yet?",
+     "I have already sent the contract; have you got it yet?",
+     "I've already sent the contract; have you got it yet?",
+     "I have already sent the contract; have you had it yet?"
+    ],
+    "explain_fr": "Present perfect avec 'already' et 'yet' en britannique."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite in American English: 'Shall I write to the candidates at the weekend?'",
+    "answer": "Should I write to the candidates on the weekend?",
+    "accept": [
+     "Should I write the candidates on the weekend?",
+     "Should I write to the candidates over the weekend?",
+     "Should I write to the candidates this weekend?",
+     "Do you want me to write to the candidates on the weekend?"
+    ],
+    "explain_fr": "'Shall I' devient 'Should I' ; 'at the weekend' devient 'on the weekend' (ou 'over the weekend')."
+   },
+   {
+    "type": "rewrite",
+    "prompt": "Rewrite in American English: 'The team are in the office from Monday to Thursday; you needn't come in on Fridays.'",
+    "answer": "The team is in the office Monday through Thursday; you don't need to come in on Fridays.",
+    "accept": [
+     "The team is in the office Monday through Thursday; you don't have to come in on Fridays.",
+     "The team is in the office from Monday through Thursday; you don't need to come in on Fridays.",
+     "The team is in the office Monday through Thursday; you do not need to come in on Fridays.",
+     "The team is in the office Monday through Thursday; you do not have to come in on Fridays."
+    ],
+    "explain_fr": "Accord au singulier, 'through' pour l'intervalle, et 'don't need to' à la place de 'needn't'."
+   }
+  ]
+ }
+]

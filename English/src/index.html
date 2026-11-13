@@ -28,7 +28,17 @@
 <script>
 /* Copie complète sur l'appareil : après la première ouverture, l'application fonctionne sans réseau. */
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
-  window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js').catch(() => {}); });
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').then(reg => {
+      reg.addEventListener('updatefound', () => {
+        const sw = reg.installing; if (!sw) return;
+        sw.addEventListener('statechange', () => {
+          if (sw.state === 'activated' && window.PARLANCE_HAD_SW) window.dispatchEvent(new Event('parlance-update'));
+        });
+      });
+    }).catch(() => {});
+  });
+  window.PARLANCE_HAD_SW = !!navigator.serviceWorker.controller;
 }
 </script>
 </body>

@@ -52,6 +52,16 @@ for t in themes:
     if os.path.exists(os.path.join(CONTENT, f)):
         skills[t['id']] = load(f)
 language = load('language.json')
+# leçons de grammaire complémentaires
+for extra in ('grammar-a.json', 'grammar-b.json'):
+    if os.path.exists(os.path.join(CONTENT, extra)):
+        language['grammar'].extend(load(extra))
+need(len({g['id'] for g in language['grammar']}) == len(language['grammar']), 'leçons de grammaire : identifiant en double')
+for g in language['grammar']:
+    need(g.get('track') in ('legal', 'intermediate', 'advanced', 'writing'), f"{g.get('id')}: filière inconnue")
+    for i, x in enumerate(g['exercises']):
+        if x.get('type') == 'gap':
+            need(x.get('prompt', '').count('___') == 1, f"{g['id']} ex{i + 1}: un seul ___ attendu")
 
 ids = set()
 for t, lst in entries.items():
@@ -143,9 +153,15 @@ if errors:
 
 data = {'themes': themes, 'entries': entries, 'skills': skills, 'language': language}
 blob = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/').replace('\u2028', '\\u2028').replace('\u2029', '\\u2029')
-js = '\n'.join(read(SRC, f) for f in ('core.js', 'ui.js', 'views.js', 'online.js', 'start.js'))
+js = '\n'.join(read(SRC, f) for f in ('core.js', 'ui.js', 'views.js', 'extras.js', 'online.js', 'start.js'))
 html = read(SRC, 'index.html')
-html = html.replace('/*CSS*/', read(SRC, 'app.css'), 1)
+import base64
+def font_face(style, name):
+    with open(os.path.join(SRC, 'fonts', name), 'rb') as fh:
+        b = base64.b64encode(fh.read()).decode('ascii')
+    return f"@font-face{{font-family:'Newsreader';font-style:{style};font-weight:200 800;font-display:swap;src:url(data:font/woff2;base64,{b}) format('woff2')}}"
+css = read(SRC, 'app.css').replace('/*FONTS*/', font_face('normal', 'newsreader-latin-wght-normal.woff2') + '\n' + font_face('italic', 'newsreader-latin-wght-italic.woff2'), 1)
+html = html.replace('/*CSS*/', css, 1)
 html = html.replace('/*DATA*/', blob, 1).replace('/*JS*/', js.replace('</script', '<\\/script'), 1)
 
 os.makedirs(OUT, exist_ok=True)
