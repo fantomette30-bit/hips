@@ -1,6 +1,6 @@
 'use strict';
 /* Parlance — Legal & HR English. Core: state, storage, speech, recording, spaced repetition. */
-const APP_VERSION = '0.4.1';
+const APP_VERSION = '0.4.2';
 const APP_BUILD = '/*BUILD*/';
 const DATA = window.PARLANCE_DATA;
 const STORE_KEY = 'parlance.v1';

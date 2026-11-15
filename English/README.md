@@ -7,10 +7,10 @@ geste, palette bleu poudré, modes clair et sombre.
 
 ## Où en est-on
 
-**Version 0.4.1** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
+**Version 0.4.2** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
 correction en ligne, habillage refondu.
 
-Correctifs de la version 0.4.1 :
+Correctifs des versions 0.4.1 et 0.4.2 :
 
 - **Son** : la lecture ne passe plus par une annulation préalable (source de
   silences sur iPhone), une voix muette est relancée une fois sans voix imposée,
@@ -25,6 +25,8 @@ Correctifs de la version 0.4.1 :
 - **Mise en page** : boutons côte à côte alignés (Export / Import, essais du son,
   code d'accès) ; documents de la bibliothèque justifiés sans trous ; le carnet ne
   retient plus que les corrections en ligne réellement utiles.
+- **Bandeau de mise à jour et messages** (0.4.2) : ils sortaient de l'écran par la
+  droite ; ils sont recentrés, le bandeau se place au-dessus de la barre d'onglets.
 - **Revue fonctionnelle** : `Tools/EnglishCheck/features.test.js`, 41 points
   contrôlés un à un, avec synthèse vocale et microphone simulés.
 

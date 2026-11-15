@@ -144,7 +144,7 @@ window.addEventListener('parlance-update', () => {
   if ($('#update')) return;
   const d = document.createElement('div'); d.id = 'update'; d.setAttribute('role', 'status');
   d.innerHTML = 'New version ready <button data-act="reload">Update</button>';
-  document.body.appendChild(d);
+  document.body.appendChild(d); document.body.classList.add('has-update');
 });
 ACT.reload = () => { saveNow(); location.reload(); };
 /* iOS reprend l'application là où elle était, sans la recharger : on interroge donc le serveur

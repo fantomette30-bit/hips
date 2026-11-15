@@ -244,9 +244,14 @@ const FAKE_SPEECH = () => {
   });
   await point('Test de positionnement', async () => { await go('placement'); await page.click('[data-act="placementStart"]'); await answerAll(true); must(await page.evaluate(() => S.placement && S.placement.est === 'C1'), 'résultat'); await quit(); });
   await point('Version affichée, vérification des mises à jour, bandeau de nouvelle version', async () => {
-    await go('settings'); const about = await page.locator('.card.set').last().innerText(); must(/Parlance 0\.4\.1/.test(about) && /Build 20\d\d-\d\d-\d\d \d\d:\d\d UTC/.test(about), 'version ou date de construction absente : ' + about.slice(0, 80));
+    await go('settings'); const about = await page.locator('.card.set').last().innerText(); must(/Parlance 0\.4\.2/.test(about) && /Build 20\d\d-\d\d-\d\d \d\d:\d\d UTC/.test(about), 'version ou date de construction absente : ' + about.slice(0, 80));
     await page.click('[data-act="checkUpdate"]'); await page.waitForFunction(() => /latest version|installed app|downloading/.test(document.querySelector('#toast').textContent), null, { timeout: 8000 });
     await page.evaluate(() => window.dispatchEvent(new Event('parlance-update'))); must(await page.locator('#update [data-act="reload"]').count() === 1, 'bandeau absent');
+    const centred = sel => page.evaluate(q => { const r = document.querySelector(q).getBoundingClientRect(); return r.width > 0 && r.left >= 8 && r.right <= innerWidth - 8 && Math.abs((r.left + r.right) / 2 - innerWidth / 2) < 2; }, sel);
+    await page.waitForTimeout(450); must(await centred('#update'), 'bandeau de mise à jour décentré ou coupé par le bord de l’écran');
+    await page.evaluate(() => toast('A fairly long message, to check where the toast sits.')); await page.waitForTimeout(400); must(await centred('#toast'), 'message décentré ou coupé par le bord de l’écran');
+    must(await page.evaluate(() => { const u = document.querySelector('#update').getBoundingClientRect(), t = document.querySelector('#toast').getBoundingClientRect(), n = document.querySelector('#nav').getBoundingClientRect(); return u.bottom <= n.top + 1 && t.bottom <= u.top + 1; }), 'bandeau, message et barre d’onglets se chevauchent');
+    await go('notebook'); await shot('21-bandeau');
     return about.match(/Build [^·]+/)[0].trim();
   });
   await point('Mise en page : boutons alignés et aucun débordement, sur tous les types d’écran', async () => {
