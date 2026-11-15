@@ -1,6 +1,6 @@
 'use strict';
 /* Parlance — Legal & HR English. Core: state, storage, speech, recording, spaced repetition. */
-const APP_VERSION = '0.4.3';
+const APP_VERSION = '0.4.4';
 const APP_BUILD = '/*BUILD*/';
 const DATA = window.PARLANCE_DATA;
 const STORE_KEY = 'parlance.v1';
@@ -25,7 +25,7 @@ const dayNum = d => { d = d || new Date(); return Math.floor(new Date(d.getFullY
 /* ---------- state ---------- */
 const DEFAULTS = () => ({
   v: 1,
-  settings: { variety: 'uk', theme: 'auto', scale: 1, rate: 1, frHelp: false, goal: 15, voiceUk: '', voiceUs: '' },
+  settings: { variety: 'uk', theme: 'auto', scale: 1, rate: 1, frHelp: false, goal: 15, voiceUk: '', voiceUs: '', audio: 'unlock' },
   srs: {}, seen: {}, levels: {}, done: {}, drafts: {}, notebook: [], days: {}, errors: {}, answers: { ok: 0, ko: 0 },
   placement: null, welcomed: false, lastTheme: '',
   online: { code: '', quality: 'best', converse: false, warned: '' }, queue: [], corrections: [],
@@ -94,17 +94,45 @@ const mastered = id => S.srs[id] && S.srs[id].i >= 7;
    lecture parfois avalée après un cancel(), voix fantaisie à écarter, mode silencieux. */
 const GOOD_VOICES = /^(daniel|kate|serena|oliver|arthur|martha|stephanie|samantha|ava|allison|susan|evan|nathan|joelle|noelle|zoe|tom|alex|nicky|karen|moira|tessa)\b/i;
 const ODD_VOICES = /^(albert|bad news|bahh|bells|boing|bubbles|cellos|deranged|good news|hysterical|jester|junior|organ|pipe organ|superstar|trinoids|whisper|wobble|zarvox|fred|ralph|kathy|eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley)\b/i;
+/* ---------- iPhone et iPad : sortie du son ----------
+   iOS range la voix des pages web dans une catégorie audio coupée par le mode silencieux. Jouer,
+   dans le geste même, un très court son vide par un élément <audio> fait passer la page en
+   lecture ; sur iOS 17 et suivants, navigator.audioSession permet aussi de demander la catégorie
+   « playback ». Les retours varient selon les appareils : le contrôle du son des réglages essaie
+   les trois façons de faire et garde celle que l'on entend. */
+const Sound = {
+  ios: /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1),
+  el: null, silent: '',
+  wav(sec, freq, amp) {
+    const rate = 22050, n = Math.round(rate * sec), b = new Uint8Array(44 + n * 2), d = new DataView(b.buffer);
+    const str = (o, t) => { for (let i = 0; i < t.length; i++) b[o + i] = t.charCodeAt(i); };
+    str(0, 'RIFF'); d.setUint32(4, 36 + n * 2, true); str(8, 'WAVEfmt '); d.setUint32(16, 16, true); d.setUint16(20, 1, true); d.setUint16(22, 1, true);
+    d.setUint32(24, rate, true); d.setUint32(28, rate * 2, true); d.setUint16(32, 2, true); d.setUint16(34, 16, true); str(36, 'data'); d.setUint32(40, n * 2, true);
+    for (let i = 0; i < n; i++) { const env = Math.min(1, i / 300, (n - i) / 300); d.setInt16(44 + i * 2, freq ? Math.round(Math.sin(2 * Math.PI * freq * i / rate) * amp * env * 32767) : 0, true); }
+    let t = ''; for (let i = 0; i < b.length; i++) t += String.fromCharCode(b[i]);
+    return 'data:audio/wav;base64,' + btoa(t);
+  },
+  session(type) { try { if (navigator.audioSession && navigator.audioSession.type !== type) navigator.audioSession.type = type; } catch (e) { } },
+  play(src) { try { const a = this.el || (this.el = new Audio()); a.src = src; a.volume = 1; const p = a.play(); if (p && p.catch) p.catch(() => { }); } catch (e) { } },
+  inGesture() { return !navigator.userActivation || navigator.userActivation.isActive; },
+  prime(mode) {
+    mode = mode || S.settings.audio || 'unlock';
+    if (!this.ios || !this.inGesture()) return;
+    this.session(mode === 'playback' ? 'playback' : 'auto');
+    if (mode !== 'standard') this.play(this.silent || (this.silent = this.wav(0.06, 0, 0)));
+  },
+  beep() { this.session('auto'); this.play(this.wav(0.5, 660, 0.45)); }
+};
+
 const Speech = {
   ok: 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window, voices: [], token: 0, current: null, watch: 0, heard: false, unlocked: false, warned: false,
   init() {
     if (!this.ok) return;
     const grab = () => { try { this.voices = speechSynthesis.getVoices().filter(v => /^en[-_]/i.test(v.lang)); } catch (e) { this.voices = []; } };
     grab(); if (speechSynthesis.addEventListener) speechSynthesis.addEventListener('voiceschanged', grab);
-    // iOS : une première lecture, même muette, doit partir d'un geste pour autoriser les suivantes
-    const unlock = () => {
-      if (this.unlocked) return; this.unlocked = true; grab();
-      try { const u = new SpeechSynthesisUtterance(' '); u.volume = 0; u.lang = 'en-GB'; speechSynthesis.speak(u); } catch (e) { }
-    };
+    // iOS : la liste des voix n'est souvent complète qu'après un premier geste. Aucune lecture muette
+    // ici : elle obligeait la vraie lecture à l'annuler puis à repartir hors du geste, ce qu'iOS refuse.
+    const unlock = () => { if (this.unlocked) return; this.unlocked = true; grab(); };
     ['pointerdown', 'touchend', 'keydown'].forEach(ev => document.addEventListener(ev, unlock, { capture: true, once: true }));
   },
   list(variety) { const re = variety === 'us' ? /^en[-_]US/i : /^en[-_]GB/i; return this.voices.filter(v => re.test(v.lang)); },
@@ -119,6 +147,7 @@ const Speech = {
     const done = () => { const f = opt.onend; opt.onend = null; if (f) f(); };
     if (!this.ok) { done(); return; }
     const synth = speechSynthesis, variety = opt.variety || V(), token = ++this.token;
+    Sound.prime(opt.audio);                            // dans le geste, avant toute lecture
     const start = (withVoice, attempt) => {
       const u = new SpeechSynthesisUtterance(plain(text)), v = withVoice ? this.voice(variety) : null;
       if (v) { try { u.voice = v; } catch (e) { } }
@@ -140,11 +169,14 @@ const Speech = {
       this.watch = setTimeout(() => {                  // rien n'a démarré : nouvel essai sans voix imposée, puis aide
         if (token !== this.token || started) return;
         if (attempt === 0) { try { synth.cancel(); } catch (e) { } setTimeout(() => { if (token === this.token) start(false, 1); }, 90); }
-        else { done(); if (!this.warned) { this.warned = true; toast('No sound? See Settings › Sound.'); } }
+        else { done(); if (!this.warned) { this.warned = true; toast('No sound? Run the sound check in Settings.'); } }
       }, 1800);
     };
-    if (synth.speaking || synth.pending) { try { synth.cancel(); } catch (e) { } setTimeout(() => { if (token === this.token) start(true, 0); }, 80); }
-    else start(true, 0);
+    if (synth.speaking || synth.pending) {
+      try { synth.cancel(); } catch (e) { }
+      // tant qu'aucune lecture n'a abouti, on reste dans le geste ; ensuite, une courte pause évite qu'iOS n'avale la reprise
+      if (this.heard) setTimeout(() => { if (token === this.token) start(true, 0); }, 80); else start(true, 0);
+    } else start(true, 0);
   },
   stop() {
     if (!this.ok) return;
@@ -167,6 +199,7 @@ const Rec = {
       const mr = this.mr; if (!mr || mr.state === 'inactive') return res(this.url);
       mr.onstop = () => {
         if (this.stream) this.stream.getTracks().forEach(t => t.stop());
+        Sound.session('auto');                         // après le micro, iOS peut laisser le son sur l'écouteur
         if (this.url) URL.revokeObjectURL(this.url);
         this.url = URL.createObjectURL(new Blob(this.chunks, { type: mr.mimeType || 'audio/mp4' }));
         this.mr = null; res(this.url);

@@ -7,10 +7,10 @@ geste, palette bleu poudré, modes clair et sombre.
 
 ## Où en est-on
 
-**Version 0.4.3** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
+**Version 0.4.4** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
 correction en ligne, habillage refondu.
 
-Correctifs des versions 0.4.1 à 0.4.3 :
+Correctifs des versions 0.4.1 à 0.4.4 :
 
 - **Son** : la lecture ne passe plus par une annulation préalable (source de
   silences sur iPhone), une voix muette est relancée une fois sans voix imposée,
@@ -29,7 +29,12 @@ Correctifs des versions 0.4.1 à 0.4.3 :
   droite ; ils sont recentrés, le bandeau se place au-dessus de la barre d'onglets.
 - **Accès aux réglages** (0.4.3) : bouton à engrenage bien visible en haut à droite
   des cinq écrans principaux, et entrée « Settings » en bas de l'accueil.
-- **Revue fonctionnelle** : `Tools/EnglishCheck/features.test.js`, 41 points
+- **Son sur iPhone** (0.4.4) : plus de lecture muette au premier toucher (elle
+  forçait la vraie lecture à repartir hors du geste, ce qu'iOS refuse) ; un très
+  court son vide est joué dans le geste juste avant la voix ; trois modes audio
+  (Unlock, Playback, Standard) et un contrôle du son guidé dans Réglages › Sound :
+  bip pour le haut-parleur, puis la voix dans chaque mode, le mode entendu est gardé.
+- **Revue fonctionnelle** : `Tools/EnglishCheck/features.test.js`, 43 points
   contrôlés un à un, avec synthèse vocale et microphone simulés.
 
 | Thèmes | Contenu par thème |
@@ -93,7 +98,7 @@ les corrigés modèles.
 ```bash
 python3 Tools/build-english.py              # contrôle + assemblage
 node Tools/EnglishCheck/parlance.test.js    # tous les écrans, séances, mode hors ligne
-node Tools/EnglishCheck/features.test.js    # revue fonctionnelle, 41 points
+node Tools/EnglishCheck/features.test.js    # revue fonctionnelle, 43 points
 node Tools/EnglishCheck/online.test.js      # relais et plafond, avec une API simulée
 ```
 

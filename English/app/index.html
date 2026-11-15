@@ -269,8 +269,8 @@ del{color:var(--bad);text-decoration-thickness:1px}
 <script>
 'use strict';
 /* Parlance — Legal & HR English. Core: state, storage, speech, recording, spaced repetition. */
-const APP_VERSION = '0.4.3';
-const APP_BUILD = '2026-11-15 14:36 UTC';
+const APP_VERSION = '0.4.4';
+const APP_BUILD = '2026-11-15 18:03 UTC';
 const DATA = window.PARLANCE_DATA;
 const STORE_KEY = 'parlance.v1';
 
@@ -294,7 +294,7 @@ const dayNum = d => { d = d || new Date(); return Math.floor(new Date(d.getFullY
 /* ---------- state ---------- */
 const DEFAULTS = () => ({
   v: 1,
-  settings: { variety: 'uk', theme: 'auto', scale: 1, rate: 1, frHelp: false, goal: 15, voiceUk: '', voiceUs: '' },
+  settings: { variety: 'uk', theme: 'auto', scale: 1, rate: 1, frHelp: false, goal: 15, voiceUk: '', voiceUs: '', audio: 'unlock' },
   srs: {}, seen: {}, levels: {}, done: {}, drafts: {}, notebook: [], days: {}, errors: {}, answers: { ok: 0, ko: 0 },
   placement: null, welcomed: false, lastTheme: '',
   online: { code: '', quality: 'best', converse: false, warned: '' }, queue: [], corrections: [],
@@ -363,17 +363,45 @@ const mastered = id => S.srs[id] && S.srs[id].i >= 7;
    lecture parfois avalée après un cancel(), voix fantaisie à écarter, mode silencieux. */
 const GOOD_VOICES = /^(daniel|kate|serena|oliver|arthur|martha|stephanie|samantha|ava|allison|susan|evan|nathan|joelle|noelle|zoe|tom|alex|nicky|karen|moira|tessa)\b/i;
 const ODD_VOICES = /^(albert|bad news|bahh|bells|boing|bubbles|cellos|deranged|good news|hysterical|jester|junior|organ|pipe organ|superstar|trinoids|whisper|wobble|zarvox|fred|ralph|kathy|eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley)\b/i;
+/* ---------- iPhone et iPad : sortie du son ----------
+   iOS range la voix des pages web dans une catégorie audio coupée par le mode silencieux. Jouer,
+   dans le geste même, un très court son vide par un élément <audio> fait passer la page en
+   lecture ; sur iOS 17 et suivants, navigator.audioSession permet aussi de demander la catégorie
+   « playback ». Les retours varient selon les appareils : le contrôle du son des réglages essaie
+   les trois façons de faire et garde celle que l'on entend. */
+const Sound = {
+  ios: /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1),
+  el: null, silent: '',
+  wav(sec, freq, amp) {
+    const rate = 22050, n = Math.round(rate * sec), b = new Uint8Array(44 + n * 2), d = new DataView(b.buffer);
+    const str = (o, t) => { for (let i = 0; i < t.length; i++) b[o + i] = t.charCodeAt(i); };
+    str(0, 'RIFF'); d.setUint32(4, 36 + n * 2, true); str(8, 'WAVEfmt '); d.setUint32(16, 16, true); d.setUint16(20, 1, true); d.setUint16(22, 1, true);
+    d.setUint32(24, rate, true); d.setUint32(28, rate * 2, true); d.setUint16(32, 2, true); d.setUint16(34, 16, true); str(36, 'data'); d.setUint32(40, n * 2, true);
+    for (let i = 0; i < n; i++) { const env = Math.min(1, i / 300, (n - i) / 300); d.setInt16(44 + i * 2, freq ? Math.round(Math.sin(2 * Math.PI * freq * i / rate) * amp * env * 32767) : 0, true); }
+    let t = ''; for (let i = 0; i < b.length; i++) t += String.fromCharCode(b[i]);
+    return 'data:audio/wav;base64,' + btoa(t);
+  },
+  session(type) { try { if (navigator.audioSession && navigator.audioSession.type !== type) navigator.audioSession.type = type; } catch (e) { } },
+  play(src) { try { const a = this.el || (this.el = new Audio()); a.src = src; a.volume = 1; const p = a.play(); if (p && p.catch) p.catch(() => { }); } catch (e) { } },
+  inGesture() { return !navigator.userActivation || navigator.userActivation.isActive; },
+  prime(mode) {
+    mode = mode || S.settings.audio || 'unlock';
+    if (!this.ios || !this.inGesture()) return;
+    this.session(mode === 'playback' ? 'playback' : 'auto');
+    if (mode !== 'standard') this.play(this.silent || (this.silent = this.wav(0.06, 0, 0)));
+  },
+  beep() { this.session('auto'); this.play(this.wav(0.5, 660, 0.45)); }
+};
+
 const Speech = {
   ok: 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window, voices: [], token: 0, current: null, watch: 0, heard: false, unlocked: false, warned: false,
   init() {
     if (!this.ok) return;
     const grab = () => { try { this.voices = speechSynthesis.getVoices().filter(v => /^en[-_]/i.test(v.lang)); } catch (e) { this.voices = []; } };
     grab(); if (speechSynthesis.addEventListener) speechSynthesis.addEventListener('voiceschanged', grab);
-    // iOS : une première lecture, même muette, doit partir d'un geste pour autoriser les suivantes
-    const unlock = () => {
-      if (this.unlocked) return; this.unlocked = true; grab();
-      try { const u = new SpeechSynthesisUtterance(' '); u.volume = 0; u.lang = 'en-GB'; speechSynthesis.speak(u); } catch (e) { }
-    };
+    // iOS : la liste des voix n'est souvent complète qu'après un premier geste. Aucune lecture muette
+    // ici : elle obligeait la vraie lecture à l'annuler puis à repartir hors du geste, ce qu'iOS refuse.
+    const unlock = () => { if (this.unlocked) return; this.unlocked = true; grab(); };
     ['pointerdown', 'touchend', 'keydown'].forEach(ev => document.addEventListener(ev, unlock, { capture: true, once: true }));
   },
   list(variety) { const re = variety === 'us' ? /^en[-_]US/i : /^en[-_]GB/i; return this.voices.filter(v => re.test(v.lang)); },
@@ -388,6 +416,7 @@ const Speech = {
     const done = () => { const f = opt.onend; opt.onend = null; if (f) f(); };
     if (!this.ok) { done(); return; }
     const synth = speechSynthesis, variety = opt.variety || V(), token = ++this.token;
+    Sound.prime(opt.audio);                            // dans le geste, avant toute lecture
     const start = (withVoice, attempt) => {
       const u = new SpeechSynthesisUtterance(plain(text)), v = withVoice ? this.voice(variety) : null;
       if (v) { try { u.voice = v; } catch (e) { } }
@@ -409,11 +438,14 @@ const Speech = {
       this.watch = setTimeout(() => {                  // rien n'a démarré : nouvel essai sans voix imposée, puis aide
         if (token !== this.token || started) return;
         if (attempt === 0) { try { synth.cancel(); } catch (e) { } setTimeout(() => { if (token === this.token) start(false, 1); }, 90); }
-        else { done(); if (!this.warned) { this.warned = true; toast('No sound? See Settings › Sound.'); } }
+        else { done(); if (!this.warned) { this.warned = true; toast('No sound? Run the sound check in Settings.'); } }
       }, 1800);
     };
-    if (synth.speaking || synth.pending) { try { synth.cancel(); } catch (e) { } setTimeout(() => { if (token === this.token) start(true, 0); }, 80); }
-    else start(true, 0);
+    if (synth.speaking || synth.pending) {
+      try { synth.cancel(); } catch (e) { }
+      // tant qu'aucune lecture n'a abouti, on reste dans le geste ; ensuite, une courte pause évite qu'iOS n'avale la reprise
+      if (this.heard) setTimeout(() => { if (token === this.token) start(true, 0); }, 80); else start(true, 0);
+    } else start(true, 0);
   },
   stop() {
     if (!this.ok) return;
@@ -436,6 +468,7 @@ const Rec = {
       const mr = this.mr; if (!mr || mr.state === 'inactive') return res(this.url);
       mr.onstop = () => {
         if (this.stream) this.stream.getTracks().forEach(t => t.stop());
+        Sound.session('auto');                         // après le micro, iOS peut laisser le son sur l'écouteur
         if (this.url) URL.revokeObjectURL(this.url);
         this.url = URL.createObjectURL(new Blob(this.chunks, { type: mr.mimeType || 'audio/mp4' }));
         this.mr = null; res(this.url);
@@ -1284,6 +1317,37 @@ function applySettings() {
   r.style.setProperty('--scale', S.settings.scale);
 }
 const seg = (key, opts) => '<div class="seg">' + opts.map(o => '<button data-act="set" data-k="' + key + '" data-v="' + o[0] + '" class="' + (String(S.settings[key]) === String(o[0]) ? 'on' : '') + '">' + o[1] + '</button>').join('') + '</div>';
+const AUDIO_MODES = [['unlock', 'Unlock'], ['playback', 'Playback'], ['standard', 'Standard']];
+/* contrôle du son guidé : un bip (le haut-parleur), puis la voix dans chacun des trois modes audio */
+let CHECK = null;
+const checkSheet = (step, title, body, buttons) => sheet('<span class="reglabel">Sound check · ' + step + '</span><h2>' + title + '</h2>' + body + (/^<button class="btn wide/.test(buttons) ? buttons : '<div class="two">' + buttons + '</div>'));
+function checkStep() {
+  const c = CHECK; if (!c) return;
+  if (c.stage === 'beep') return checkSheet('step 1 of 2', 'The speaker', '<p>Tap <b>Play</b>: you should hear a short beep.</p><button class="btn ghost wide" data-act="checkBeep">' + icon('play') + ' Play the beep</button><p class="sub">Did you hear it?</p>',
+    '<button class="btn ghost" data-act="checkAnswer" data-v="no">No</button><button class="btn" data-act="checkAnswer" data-v="yes">Yes</button>');
+  if (c.stage === 'nobeep') return checkSheet('step 1 of 2', 'No beep', '<p lang="fr">Le son n’arrive pas au haut-parleur. Lancez de nouveau le bip et, pendant qu’il joue, montez le volume avec les boutons latéraux. Vérifiez aussi qu’aucun casque ni appareil Bluetooth (AirPods, enceinte, voiture) n’est connecté.</p>',
+    '<button class="btn ghost" data-act="checkAgain">Try again</button><button class="btn" data-act="checkVoice">Continue</button>');
+  if (c.stage === 'voice') { const m = AUDIO_MODES[c.i]; return checkSheet('step 2 of 2 · test ' + (c.i + 1) + ' of ' + AUDIO_MODES.length, 'The voice', '<p>Tap <b>Play</b>: a voice should say “This is your sound check.”</p><p class="sub">Audio mode: ' + m[1] + '</p><button class="btn ghost wide" data-act="checkSay">' + icon('play') + ' Play the voice</button><p class="sub">Did you hear the voice?</p>',
+    '<button class="btn ghost" data-act="checkAnswer" data-v="no">No</button><button class="btn" data-act="checkAnswer" data-v="yes">Yes</button>'); }
+  if (c.stage === 'ok') return checkSheet('done', 'Sound works', '<p>Audio mode saved: <b>' + AUDIO_MODES.find(m => m[0] === S.settings.audio)[1] + '</b>. Every speaker button now uses it.</p>', '<button class="btn wide" data-act="checkDone">Done</button>');
+  return checkSheet('done', 'The voice stays silent', '<div lang="fr"><p>Le bip passe mais pas la voix. Dans l’ordre&nbsp;:</p><ol><li>Désactivez le mode silencieux (bouton latéral, ou Centre de contrôle sur iPhone 15 Pro et suivants), puis relancez le contrôle.</li><li>Réglages de l’iPhone › Accessibilité › Contenu énoncé › Voix › Anglais&nbsp;: téléchargez une voix britannique et une voix américaine.</li><li>Fermez complètement Parlance (balayage vers le haut dans le sélecteur d’apps), rouvrez-la et relancez le contrôle.</li></ol><p class="sub">' + Speech.voices.length + ' voix anglaises détectées.</p></div>',
+    '<button class="btn ghost" data-act="checkAgain">Start again</button><button class="btn" data-act="checkDone">Close</button>');
+}
+ACT.soundCheck = () => { Speech.stop(); CHECK = { stage: 'beep', i: 0 }; checkStep(); };
+ACT.checkAgain = ACT.soundCheck;
+ACT.checkBeep = () => Sound.beep();
+ACT.checkVoice = () => { CHECK = { stage: 'voice', i: 0 }; checkStep(); };
+ACT.checkSay = () => Speech.say('This is your sound check.', { variety: V(), audio: AUDIO_MODES[CHECK.i][0] });
+ACT.checkAnswer = el => {
+  const c = CHECK, yes = el.dataset.v === 'yes'; if (!c) return;
+  if (c.stage === 'beep') { c.stage = yes ? 'voice' : 'nobeep'; c.i = 0; }
+  else if (c.stage === 'voice') {
+    if (yes) { S.settings.audio = AUDIO_MODES[c.i][0]; save(); c.stage = 'ok'; }
+    else if (++c.i >= AUDIO_MODES.length) c.stage = 'fail';
+  }
+  checkStep();
+};
+ACT.checkDone = () => { CHECK = null; closeSheet(); render(); };
 const field = (label, inner) => '<div class="field"><span class="flabel">' + label + '</span>' + inner + '</div>';
 VIEWS.settings = () => {
   const voices = v => { const list = Speech.list(v), key = v === 'us' ? 'voiceUs' : 'voiceUk';
@@ -1294,8 +1358,10 @@ VIEWS.settings = () => {
     '<div class="card set">' + field('Appearance', seg('theme', [['auto', 'Auto'], ['light', 'Light'], ['dark', 'Dark']])) + field('Text size', seg('scale', [[0.92, 'A−'], [1, 'A'], [1.12, 'A+'], [1.25, 'A++']])) + '</div>' +
     '<div class="card set" id="sound"><span class="reglabel">Sound</span>' + field('Speaking rate', seg('rate', [[0.85, 'Slower'], [1, 'Normal'], [1.1, 'Faster']])) + field('British voice', voices('uk')) + field('American voice', voices('us')) +
     '<div class="field"><span class="flabel">Test the sound</span><div class="two"><button class="btn ghost" data-act="say" data-t="The contract takes effect on the first of March." data-v="uk">' + icon('play') + ' British</button><button class="btn ghost" data-act="say" data-t="The contract takes effect on March first." data-v="us">' + icon('play') + ' American</button></div></div>' +
-    '<p class="sub">' + (Speech.ok ? 'No sound? Switch off silent mode and turn the volume up. ' + Speech.voices.length + ' English voices found' + (uk ? ' · UK: ' + esc(uk.name) : '') + (us ? ' · US: ' + esc(us.name) : '') + '.' : 'Speech is not available in this browser.') + '</p>' +
-    fr('<p><b>Aucun son ?</b> 1. Désactivez le mode silencieux de l’iPhone (bouton latéral ou Centre de contrôle) : en mode silencieux, la voix des applications web est coupée. 2. Montez le volume avec les boutons latéraux pendant une lecture. 3. Vérifiez qu’une voix anglaise est installée : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p><p><b>Voix plus naturelle</b> : au même endroit, téléchargez une voix « améliorée » ou « premium », britannique et américaine, puis choisissez-la ci-dessus.</p>', 'Aucun son ? Améliorer les voix') + '</div>' +
+    field('iPhone and iPad audio', seg('audio', AUDIO_MODES)) +
+    '<button class="btn wide" data-act="soundCheck">' + icon('play') + ' Run the sound check</button>' +
+    '<p class="sub">' + (Speech.ok ? 'No sound? The check tries each audio mode and keeps the one you hear. ' + Speech.voices.length + ' English voices found' + (uk ? ' · UK: ' + esc(uk.name) : '') + (us ? ' · US: ' + esc(us.name) : '') + '.' : 'Speech is not available in this browser.') + '</p>' +
+    fr('<p><b>Le plus simple</b> : touchez « Run the sound check ». Il vérifie d’abord le haut-parleur avec un bip, puis essaie la voix dans les trois modes audio et garde celui que vous entendez.</p><p><b>Modes audio</b> : « Unlock » joue un très court son vide juste avant la voix, ce qui la fait passer même en mode silencieux sur la plupart des iPhone ; « Playback » demande en plus à iOS la catégorie lecture (iOS 17 et suivants) ; « Standard » laisse iOS décider.</p><p><b>Aucun son ?</b> 1. Désactivez le mode silencieux de l’iPhone (bouton latéral ou Centre de contrôle) : en mode silencieux, la voix des applications web est coupée. 2. Montez le volume avec les boutons latéraux pendant une lecture. 3. Vérifiez qu’une voix anglaise est installée : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p><p><b>Voix plus naturelle</b> : au même endroit, téléchargez une voix « améliorée » ou « premium », britannique et américaine, puis choisissez-la ci-dessus.</p>', 'Aucun son ? Améliorer les voix') + '</div>' +
     '<div class="card set"><span class="reglabel">Your progress</span><p class="sub">Stored on this device only. Export it to carry it to another device.</p>' +
     '<div class="two"><button class="btn ghost" data-act="exportData">Export</button><button class="btn ghost" data-act="importPick">Import</button></div><input id="importFile" type="file" accept="application/json,.json" data-chg="importData" hidden>' +
     '<button class="btn ghost wide" data-act="go" data-to="placement">Placement test</button><button class="btn danger wide" data-act="resetAsk">Erase all progress</button></div>' +

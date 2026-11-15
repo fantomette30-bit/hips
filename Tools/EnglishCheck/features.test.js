@@ -12,14 +12,16 @@ const PORT = 8937, URL = 'http://localhost:' + PORT + '/';
 const at = process.argv.indexOf('--shots'), SHOTS = at > 0 ? process.argv[at + 1] : null;
 
 const FAKE_SPEECH = () => {
-  window.__spoken = []; window.__cancels = 0; window.__mute = false;
+  window.__spoken = []; window.__cancels = 0; window.__mute = false; window.__seq = [];
+  Object.defineProperty(navigator, 'audioSession', { value: { type: 'auto' }, configurable: true });
+  HTMLMediaElement.prototype.play = function () { window.__seq.push({ play: this.src.length, session: navigator.audioSession.type }); return Promise.resolve(); };
   const fake = {
     speaking: false, pending: false,
     _voices: [{ name: 'Bells', lang: 'en-US', localService: true }, { name: 'Samantha', lang: 'en-US', localService: true }, { name: 'Eddy (English (UK))', lang: 'en-GB', localService: true },
       { name: 'Daniel', lang: 'en-GB', localService: true }, { name: 'Thomas', lang: 'fr-FR', localService: true }],
     getVoices() { return this._voices; }, addEventListener() { }, resume() { }, pause() { },
     speak(u) {
-      window.__spoken.push({ text: u.text, lang: u.lang, voice: u.voice ? u.voice.name : null, rate: u.rate, volume: u.volume });
+      window.__spoken.push({ text: u.text, lang: u.lang, voice: u.voice ? u.voice.name : null, rate: u.rate, volume: u.volume }); window.__seq.push({ speak: u.text });
       if (window.__mute) return;
       this.speaking = true;
       setTimeout(() => { if (u.onstart) u.onstart({}); setTimeout(() => { this.speaking = false; if (u.onend) u.onend({}); }, 25); }, 8);
@@ -42,7 +44,7 @@ const FAKE_SPEECH = () => {
   const point = async (label, fn) => {
     const before = jsErrors.length;
     try { const note = await fn(); if (jsErrors.length > before) throw new Error('exception JS : ' + jsErrors[jsErrors.length - 1]); results.push([true, label, note || '']); console.log('  ✓ ' + label + (note ? ' — ' + note : '')); }
-    catch (e) { results.push([false, label, e.message.split('\n')[0]]); console.log('  ✗ ' + label + ' : ' + e.message.split('\n')[0]); }
+    catch (e) { await page.evaluate(() => { if (typeof closeSheet === 'function') closeSheet(); }).catch(() => { }); results.push([false, label, e.message.split('\n')[0]]); console.log('  ✗ ' + label + ' : ' + e.message.split('\n')[0]); }
   };
   const must = (c, m) => { if (!c) throw new Error(m); };
   const go = async h => { await page.evaluate(x => { if (location.hash === '#/' + x) render(); else location.hash = '#/' + x; }, h); await page.waitForTimeout(60); };
@@ -108,6 +110,33 @@ const FAKE_SPEECH = () => {
   await point('Enchaîner deux lectures : la première est arrêtée, la seconde part', async () => {
     await resetSpoken(); const b = page.locator('.entry .ex .ib'); await b.nth(0).click(); await b.nth(2).click(); await page.waitForTimeout(250);
     const s = await spoken(); must(s.length === 2, s.length + ' lecture(s) au lieu de 2');
+  });
+  await point('iPhone : aucune lecture muette, son vide joué dans le geste juste avant la voix', async () => {
+    must(await page.evaluate(() => !window.__spoken.some(u => u.volume === 0)), 'une lecture muette est encore envoyée');
+    await page.evaluate(() => { Sound.ios = true; window.__seq = []; S.settings.audio = 'unlock'; });
+    await page.locator('.entry .ipa .ib').first().click(); await page.waitForTimeout(150);
+    const q = await page.evaluate(() => window.__seq); must(q.length === 2 && q[0].play > 0 && q[0].session === 'auto' && q[1].speak, 'ordre attendu : son vide puis voix : ' + JSON.stringify(q));
+    await page.evaluate(() => { window.__seq = []; S.settings.audio = 'playback'; }); await page.locator('.entry .ipa .ib').first().click(); await page.waitForTimeout(150);
+    let r = await page.evaluate(() => window.__seq); must(r[0].session === 'playback' && r[1].speak, 'mode Playback non appliqué : ' + JSON.stringify(r));
+    await page.evaluate(() => { window.__seq = []; S.settings.audio = 'standard'; }); await page.locator('.entry .ipa .ib').first().click(); await page.waitForTimeout(150);
+    r = await page.evaluate(() => ({ q: window.__seq, t: navigator.audioSession.type })); must(r.q.length === 1 && r.q[0].speak && r.t === 'auto', 'mode Standard : ' + JSON.stringify(r));
+    await page.evaluate(() => { S.settings.audio = 'unlock'; });
+  });
+  await point('Contrôle du son guidé : bip, puis la voix dans chaque mode, le mode entendu est gardé', async () => {
+    await go('settings'); await page.click('[data-act="soundCheck"]'); await page.evaluate(() => { window.__seq = []; });
+    await page.click('[data-act="checkBeep"]'); must(await page.evaluate(() => window.__seq.length === 1 && window.__seq[0].play > 20000), 'bip non joué');
+    await page.click('[data-act="checkAnswer"][data-v="yes"]'); must(/test 1 of 3/i.test(await page.locator('.sheet-card').innerText()), 'premier essai de voix absent');
+    await resetSpoken(); await page.click('[data-act="checkSay"]'); await page.waitForTimeout(120); must((await spoken()).length === 1, 'voix du contrôle non lue');
+    await page.click('[data-act="checkAnswer"][data-v="no"]'); must(/Playback/.test(await page.locator('.sheet-card').innerText()), 'deuxième mode non proposé');
+    await page.evaluate(() => { window.__seq = []; }); await page.click('[data-act="checkSay"]'); await page.waitForTimeout(120);
+    must(await page.evaluate(() => window.__seq[0].session === 'playback'), 'le deuxième essai n’utilise pas le mode Playback');
+    await shot('22-controle-son'); await page.click('[data-act="checkAnswer"][data-v="yes"]');
+    must(await page.evaluate(() => S.settings.audio) === 'playback' && /saved/.test(await page.locator('.sheet-card').innerText()), 'mode entendu non enregistré');
+    await page.click('[data-act="checkDone"]'); must(await page.locator('[data-act="set"][data-k="audio"][data-v="playback"].on').count() === 1, 'réglage non affiché');
+    await page.click('[data-act="soundCheck"]'); await page.click('[data-act="checkAnswer"][data-v="no"]'); must(/No beep/.test(await page.locator('.sheet-card').innerText()), 'aide « pas de bip » absente');
+    await page.click('[data-act="checkVoice"]'); for (let i = 0; i < 3; i++) await page.click('[data-act="checkAnswer"][data-v="no"]');
+    must(/stays silent/.test(await page.locator('.sheet-card').innerText()), 'conseils finaux absents'); await shot('23-controle-echec'); await page.click('[data-act="checkDone"]');
+    await page.evaluate(() => { S.settings.audio = 'unlock'; Sound.ios = false; save(); });
   });
 
   console.log('\nApprendre');
@@ -246,7 +275,7 @@ const FAKE_SPEECH = () => {
   });
   await point('Test de positionnement', async () => { await go('placement'); await page.click('[data-act="placementStart"]'); await answerAll(true); must(await page.evaluate(() => S.placement && S.placement.est === 'C1'), 'résultat'); await quit(); });
   await point('Version affichée, vérification des mises à jour, bandeau de nouvelle version', async () => {
-    await go('settings'); const about = await page.locator('.card.set').last().innerText(); must(/Parlance 0\.4\.3/.test(about) && /Build 20\d\d-\d\d-\d\d \d\d:\d\d UTC/.test(about), 'version ou date de construction absente : ' + about.slice(0, 80));
+    await go('settings'); const about = await page.locator('.card.set').last().innerText(); must(/Parlance 0\.4\.4/.test(about) && /Build 20\d\d-\d\d-\d\d \d\d:\d\d UTC/.test(about), 'version ou date de construction absente : ' + about.slice(0, 80));
     await page.click('[data-act="checkUpdate"]'); await page.waitForFunction(() => /latest version|installed app|downloading/.test(document.querySelector('#toast').textContent), null, { timeout: 8000 });
     await page.evaluate(() => window.dispatchEvent(new Event('parlance-update'))); must(await page.locator('#update [data-act="reload"]').count() === 1, 'bandeau absent');
     const centred = sel => page.evaluate(q => { const r = document.querySelector(q).getBoundingClientRect(); return r.width > 0 && r.left >= 8 && r.right <= innerWidth - 8 && Math.abs((r.left + r.right) / 2 - innerWidth / 2) < 2; }, sel);

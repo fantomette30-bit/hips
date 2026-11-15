@@ -417,6 +417,37 @@ function applySettings() {
   r.style.setProperty('--scale', S.settings.scale);
 }
 const seg = (key, opts) => '<div class="seg">' + opts.map(o => '<button data-act="set" data-k="' + key + '" data-v="' + o[0] + '" class="' + (String(S.settings[key]) === String(o[0]) ? 'on' : '') + '">' + o[1] + '</button>').join('') + '</div>';
+const AUDIO_MODES = [['unlock', 'Unlock'], ['playback', 'Playback'], ['standard', 'Standard']];
+/* contrôle du son guidé : un bip (le haut-parleur), puis la voix dans chacun des trois modes audio */
+let CHECK = null;
+const checkSheet = (step, title, body, buttons) => sheet('<span class="reglabel">Sound check · ' + step + '</span><h2>' + title + '</h2>' + body + (/^<button class="btn wide/.test(buttons) ? buttons : '<div class="two">' + buttons + '</div>'));
+function checkStep() {
+  const c = CHECK; if (!c) return;
+  if (c.stage === 'beep') return checkSheet('step 1 of 2', 'The speaker', '<p>Tap <b>Play</b>: you should hear a short beep.</p><button class="btn ghost wide" data-act="checkBeep">' + icon('play') + ' Play the beep</button><p class="sub">Did you hear it?</p>',
+    '<button class="btn ghost" data-act="checkAnswer" data-v="no">No</button><button class="btn" data-act="checkAnswer" data-v="yes">Yes</button>');
+  if (c.stage === 'nobeep') return checkSheet('step 1 of 2', 'No beep', '<p lang="fr">Le son n’arrive pas au haut-parleur. Lancez de nouveau le bip et, pendant qu’il joue, montez le volume avec les boutons latéraux. Vérifiez aussi qu’aucun casque ni appareil Bluetooth (AirPods, enceinte, voiture) n’est connecté.</p>',
+    '<button class="btn ghost" data-act="checkAgain">Try again</button><button class="btn" data-act="checkVoice">Continue</button>');
+  if (c.stage === 'voice') { const m = AUDIO_MODES[c.i]; return checkSheet('step 2 of 2 · test ' + (c.i + 1) + ' of ' + AUDIO_MODES.length, 'The voice', '<p>Tap <b>Play</b>: a voice should say “This is your sound check.”</p><p class="sub">Audio mode: ' + m[1] + '</p><button class="btn ghost wide" data-act="checkSay">' + icon('play') + ' Play the voice</button><p class="sub">Did you hear the voice?</p>',
+    '<button class="btn ghost" data-act="checkAnswer" data-v="no">No</button><button class="btn" data-act="checkAnswer" data-v="yes">Yes</button>'); }
+  if (c.stage === 'ok') return checkSheet('done', 'Sound works', '<p>Audio mode saved: <b>' + AUDIO_MODES.find(m => m[0] === S.settings.audio)[1] + '</b>. Every speaker button now uses it.</p>', '<button class="btn wide" data-act="checkDone">Done</button>');
+  return checkSheet('done', 'The voice stays silent', '<div lang="fr"><p>Le bip passe mais pas la voix. Dans l’ordre&nbsp;:</p><ol><li>Désactivez le mode silencieux (bouton latéral, ou Centre de contrôle sur iPhone 15 Pro et suivants), puis relancez le contrôle.</li><li>Réglages de l’iPhone › Accessibilité › Contenu énoncé › Voix › Anglais&nbsp;: téléchargez une voix britannique et une voix américaine.</li><li>Fermez complètement Parlance (balayage vers le haut dans le sélecteur d’apps), rouvrez-la et relancez le contrôle.</li></ol><p class="sub">' + Speech.voices.length + ' voix anglaises détectées.</p></div>',
+    '<button class="btn ghost" data-act="checkAgain">Start again</button><button class="btn" data-act="checkDone">Close</button>');
+}
+ACT.soundCheck = () => { Speech.stop(); CHECK = { stage: 'beep', i: 0 }; checkStep(); };
+ACT.checkAgain = ACT.soundCheck;
+ACT.checkBeep = () => Sound.beep();
+ACT.checkVoice = () => { CHECK = { stage: 'voice', i: 0 }; checkStep(); };
+ACT.checkSay = () => Speech.say('This is your sound check.', { variety: V(), audio: AUDIO_MODES[CHECK.i][0] });
+ACT.checkAnswer = el => {
+  const c = CHECK, yes = el.dataset.v === 'yes'; if (!c) return;
+  if (c.stage === 'beep') { c.stage = yes ? 'voice' : 'nobeep'; c.i = 0; }
+  else if (c.stage === 'voice') {
+    if (yes) { S.settings.audio = AUDIO_MODES[c.i][0]; save(); c.stage = 'ok'; }
+    else if (++c.i >= AUDIO_MODES.length) c.stage = 'fail';
+  }
+  checkStep();
+};
+ACT.checkDone = () => { CHECK = null; closeSheet(); render(); };
 const field = (label, inner) => '<div class="field"><span class="flabel">' + label + '</span>' + inner + '</div>';
 VIEWS.settings = () => {
   const voices = v => { const list = Speech.list(v), key = v === 'us' ? 'voiceUs' : 'voiceUk';
@@ -427,8 +458,10 @@ VIEWS.settings = () => {
     '<div class="card set">' + field('Appearance', seg('theme', [['auto', 'Auto'], ['light', 'Light'], ['dark', 'Dark']])) + field('Text size', seg('scale', [[0.92, 'A−'], [1, 'A'], [1.12, 'A+'], [1.25, 'A++']])) + '</div>' +
     '<div class="card set" id="sound"><span class="reglabel">Sound</span>' + field('Speaking rate', seg('rate', [[0.85, 'Slower'], [1, 'Normal'], [1.1, 'Faster']])) + field('British voice', voices('uk')) + field('American voice', voices('us')) +
     '<div class="field"><span class="flabel">Test the sound</span><div class="two"><button class="btn ghost" data-act="say" data-t="The contract takes effect on the first of March." data-v="uk">' + icon('play') + ' British</button><button class="btn ghost" data-act="say" data-t="The contract takes effect on March first." data-v="us">' + icon('play') + ' American</button></div></div>' +
-    '<p class="sub">' + (Speech.ok ? 'No sound? Switch off silent mode and turn the volume up. ' + Speech.voices.length + ' English voices found' + (uk ? ' · UK: ' + esc(uk.name) : '') + (us ? ' · US: ' + esc(us.name) : '') + '.' : 'Speech is not available in this browser.') + '</p>' +
-    fr('<p><b>Aucun son ?</b> 1. Désactivez le mode silencieux de l’iPhone (bouton latéral ou Centre de contrôle) : en mode silencieux, la voix des applications web est coupée. 2. Montez le volume avec les boutons latéraux pendant une lecture. 3. Vérifiez qu’une voix anglaise est installée : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p><p><b>Voix plus naturelle</b> : au même endroit, téléchargez une voix « améliorée » ou « premium », britannique et américaine, puis choisissez-la ci-dessus.</p>', 'Aucun son ? Améliorer les voix') + '</div>' +
+    field('iPhone and iPad audio', seg('audio', AUDIO_MODES)) +
+    '<button class="btn wide" data-act="soundCheck">' + icon('play') + ' Run the sound check</button>' +
+    '<p class="sub">' + (Speech.ok ? 'No sound? The check tries each audio mode and keeps the one you hear. ' + Speech.voices.length + ' English voices found' + (uk ? ' · UK: ' + esc(uk.name) : '') + (us ? ' · US: ' + esc(us.name) : '') + '.' : 'Speech is not available in this browser.') + '</p>' +
+    fr('<p><b>Le plus simple</b> : touchez « Run the sound check ». Il vérifie d’abord le haut-parleur avec un bip, puis essaie la voix dans les trois modes audio et garde celui que vous entendez.</p><p><b>Modes audio</b> : « Unlock » joue un très court son vide juste avant la voix, ce qui la fait passer même en mode silencieux sur la plupart des iPhone ; « Playback » demande en plus à iOS la catégorie lecture (iOS 17 et suivants) ; « Standard » laisse iOS décider.</p><p><b>Aucun son ?</b> 1. Désactivez le mode silencieux de l’iPhone (bouton latéral ou Centre de contrôle) : en mode silencieux, la voix des applications web est coupée. 2. Montez le volume avec les boutons latéraux pendant une lecture. 3. Vérifiez qu’une voix anglaise est installée : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p><p><b>Voix plus naturelle</b> : au même endroit, téléchargez une voix « améliorée » ou « premium », britannique et américaine, puis choisissez-la ci-dessus.</p>', 'Aucun son ? Améliorer les voix') + '</div>' +
     '<div class="card set"><span class="reglabel">Your progress</span><p class="sub">Stored on this device only. Export it to carry it to another device.</p>' +
     '<div class="two"><button class="btn ghost" data-act="exportData">Export</button><button class="btn ghost" data-act="importPick">Import</button></div><input id="importFile" type="file" accept="application/json,.json" data-chg="importData" hidden>' +
     '<button class="btn ghost wide" data-act="go" data-to="placement">Placement test</button><button class="btn danger wide" data-act="resetAsk">Erase all progress</button></div>' +
