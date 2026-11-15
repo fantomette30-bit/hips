@@ -121,8 +121,8 @@ section{margin-top:30px} section>h2{margin-bottom:12px} section>.sub{margin:-8px
 .btn.wide{display:flex;width:100%;margin:12px 0 0} .btn.small{min-height:36px;padding:0 13px;font-size:.82rem;border-radius:12px}
 .btn.live{background:var(--bad);border-color:var(--bad);color:#fff;animation:pulse 1.2s ease infinite}
 @keyframes pulse{50%{opacity:.72}}
-.row{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0} .row .btn{flex:1 1 auto}
-.two{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0 0}
+.row{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:10px;margin:12px 0} .row .btn{padding:0 8px;font-size:.92rem;white-space:nowrap;min-width:0}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0 0} .two .btn{white-space:nowrap;min-width:0;padding:0 10px}
 .ib{display:inline-grid;place-items:center;position:relative;width:44px;height:44px;border:0;border-radius:50%;background:transparent;color:var(--brand2);text-decoration:none;vertical-align:middle;transition:background .2s,color .2s}
 .ib:active{background:var(--surface2)} .ib.playing{color:var(--brand);background:color-mix(in srgb,var(--sand) 35%,transparent)} .ib.starred{color:var(--brand)} .ib.starred .i{fill:currentColor}
 .tagv{position:absolute;right:1px;bottom:3px;font-size:.5rem;font-weight:800;letter-spacing:.04em;background:var(--surface);border-radius:4px;padding:0 2px;color:var(--muted)}
@@ -180,9 +180,9 @@ details.fr>div{padding:0 13px 11px} details.fr p:last-child{margin:0}
 .ipa .ib,.ex .ib,.regterm .ib,.conn .ib,.explain .ib{width:38px;height:38px} .ib+.ib{margin-left:-6px} .tools .ib+.ib{margin-left:0}
 
 /* ---------- reading, dialogue, writing ---------- */
-.doc{font-family:var(--serif);font-size:1.14rem;line-height:1.62;text-align:justify;hyphens:auto;-webkit-hyphens:auto;padding:24px 22px} .doc p{margin:0 0 1em} .doc p:last-child{margin:0} .doc.veiled p{filter:blur(7px);user-select:none}
+.doc{font-family:var(--serif);font-size:1.14rem;line-height:1.62;text-align:justify;hyphens:auto;-webkit-hyphens:auto;padding:24px 22px} .doc p{margin:0 0 1em} .doc p.sl{text-align:left;hyphens:manual;-webkit-hyphens:manual} .doc p:last-child{margin:0} .doc.veiled p{filter:blur(7px);user-select:none}
 .doc .reglabel{font-family:var(--sans);text-align:left}
-.gl,.lg{font:inherit;color:inherit;background:none;border:0;padding:0;border-bottom:1.5px dotted var(--brand2);border-radius:0} .lg{border-bottom:1.5px solid var(--brand)} .legend .gl,.legend .lg{padding-bottom:1px}
+.gl,.lg{cursor:pointer;border-bottom:1.5px dotted var(--brand2);-webkit-box-decoration-break:clone;box-decoration-break:clone} .lg{border-bottom:1.5px solid var(--brand)} .legend .gl,.legend .lg{padding-bottom:1px}
 mark.cm{position:relative} mark.cm::after{content:attr(data-n);font-family:var(--sans);font-size:.6rem;vertical-align:super;color:var(--brand2);font-weight:800;margin-left:1px}
 .cmlist li{margin:.7em 0} .cmlist q{font-family:var(--serif);font-size:1.05rem;color:var(--title)}
 .line{padding:10px 12px;margin:0 -12px;border-radius:14px;transition:background .25s} .line.on{background:var(--surface2)} .line p{margin:0;font-family:var(--serif);font-size:1.1rem;line-height:1.45}
@@ -254,6 +254,9 @@ del{color:var(--bad);text-decoration-thickness:1px}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 @media print{#nav,.ib,.btn,.tools{display:none!important} body{background:#fff} .card{box-shadow:none;border:1px solid #ddd;break-inside:avoid}}
 .weekcard{display:flex;align-items:center;gap:18px} .weekcard .week{flex:1} .titlerow{display:flex;gap:8px;align-items:flex-start;justify-content:space-between}
+.field{margin-bottom:16px} .field:last-child{margin-bottom:0} .flabel{display:block;font-size:.84rem;font-weight:600;color:var(--muted);margin-bottom:6px} .field .seg{margin-top:0}
+.inline{display:flex;gap:10px} .inline input{flex:1;min-width:0;margin:0} .inline .btn{flex:none}
+.set .two{margin:0 0 4px} .set>.sub{margin:0 0 14px} .set .field+.two{margin-top:4px} .set .two+.sub{margin:12px 0 10px}
 
 </style>
 </head>
@@ -265,7 +268,8 @@ del{color:var(--bad);text-decoration-thickness:1px}
 <script>
 'use strict';
 /* Parlance — Legal & HR English. Core: state, storage, speech, recording, spaced repetition. */
-const APP_VERSION = '0.4.0';
+const APP_VERSION = '0.4.1';
+const APP_BUILD = '2026-11-15 13:24 UTC';
 const DATA = window.PARLANCE_DATA;
 const STORE_KEY = 'parlance.v1';
 
@@ -277,7 +281,7 @@ const mark = s => esc(s).replace(/\[\[(.+?)\]\]/g, '<mark>$1</mark>');
 const plain = s => String(s || '').replace(/\[\[(.+?)\]\]/g, '$1');
 const target = s => { const m = /\[\[(.+?)\]\]/.exec(s || ''); return m ? m[1] : ''; };
 const blank = s => esc(s).replace(/\[\[(.+?)\]\]/g, '<span class="blank">&nbsp;</span>');
-const para = s => esc(s).split(/\n{2,}/).map(p => '<p>' + p.replace(/\n/g, '<br>') + '</p>').join('');
+const para = s => esc(s).split(/\n{2,}/).map(p => '<p' + (p.length < 70 && !p.includes('\n') ? ' class="sl"' : '') + '>' + p.replace(/\n/g, '<br>') + '</p>').join('');
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const sample = (a, n) => shuffle(a).slice(0, n);
 const uniq = a => Array.from(new Set(a));
@@ -354,35 +358,67 @@ const dueIds = () => Object.keys(S.srs).filter(id => S.srs[id].d <= dayNum() && 
 const mastered = id => S.srs[id] && S.srs[id].i >= 7;
 
 /* ---------- speech synthesis (voix de l'appareil, hors ligne) ---------- */
+/* Voix de l'appareil. iOS a ses caprices : première lecture à déclencher par un geste,
+   lecture parfois avalée après un cancel(), voix fantaisie à écarter, mode silencieux. */
+const GOOD_VOICES = /^(daniel|kate|serena|oliver|arthur|martha|stephanie|samantha|ava|allison|susan|evan|nathan|joelle|noelle|zoe|tom|alex|nicky|karen|moira|tessa)\b/i;
+const ODD_VOICES = /^(albert|bad news|bahh|bells|boing|bubbles|cellos|deranged|good news|hysterical|jester|junior|organ|pipe organ|superstar|trinoids|whisper|wobble|zarvox|fred|ralph|kathy|eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley)\b/i;
 const Speech = {
-  ok: 'speechSynthesis' in window, voices: [],
+  ok: 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window, voices: [], token: 0, current: null, watch: 0, heard: false, unlocked: false, warned: false,
   init() {
     if (!this.ok) return;
-    const grab = () => { this.voices = speechSynthesis.getVoices().filter(v => /^en[-_]/i.test(v.lang)); };
+    const grab = () => { try { this.voices = speechSynthesis.getVoices().filter(v => /^en[-_]/i.test(v.lang)); } catch (e) { this.voices = []; } };
     grab(); if (speechSynthesis.addEventListener) speechSynthesis.addEventListener('voiceschanged', grab);
+    // iOS : une première lecture, même muette, doit partir d'un geste pour autoriser les suivantes
+    const unlock = () => {
+      if (this.unlocked) return; this.unlocked = true; grab();
+      try { const u = new SpeechSynthesisUtterance(' '); u.volume = 0; u.lang = 'en-GB'; speechSynthesis.speak(u); } catch (e) { }
+    };
+    ['pointerdown', 'touchend', 'keydown'].forEach(ev => document.addEventListener(ev, unlock, { capture: true, once: true }));
   },
   list(variety) { const re = variety === 'us' ? /^en[-_]US/i : /^en[-_]GB/i; return this.voices.filter(v => re.test(v.lang)); },
   voice(variety) {
     const wanted = S.settings[variety === 'us' ? 'voiceUs' : 'voiceUk'];
     const list = this.list(variety);
-    const score = v => (/premium|enhanced|natural/i.test(v.name) ? 4 : 0) + (v.localService ? 2 : 0) + (v.default ? 1 : 0);
-    return list.find(v => v.name === wanted) || list.slice().sort((a, b) => score(b) - score(a))[0] || this.voices[0] || null;
+    const score = v => (/premium|enhanced|natural|siri/i.test(v.name) ? 8 : 0) + (GOOD_VOICES.test(v.name) ? 4 : 0) + (ODD_VOICES.test(v.name) ? -10 : 0) + (v.localService ? 1 : 0);
+    return list.find(v => v.name === wanted) || list.slice().sort((a, b) => score(b) - score(a))[0] || null;
   },
   say(text, opt) {
     opt = opt || {};
-    if (!this.ok) { if (opt.onend) opt.onend(); return; }
-    speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(plain(text));
-    const variety = opt.variety || V(), v = this.voice(variety);
-    if (v) u.voice = v;
-    u.lang = v ? v.lang : (variety === 'us' ? 'en-US' : 'en-GB');
-    u.rate = (opt.slow ? 0.62 : 1) * S.settings.rate;
-    if (opt.pitch) u.pitch = opt.pitch;
-    let done = false; const end = () => { if (!done) { done = true; if (opt.onend) opt.onend(); } };
-    u.onend = end; u.onerror = end;
-    speechSynthesis.speak(u);
+    const done = () => { const f = opt.onend; opt.onend = null; if (f) f(); };
+    if (!this.ok) { done(); return; }
+    const synth = speechSynthesis, variety = opt.variety || V(), token = ++this.token;
+    const start = (withVoice, attempt) => {
+      const u = new SpeechSynthesisUtterance(plain(text)), v = withVoice ? this.voice(variety) : null;
+      if (v) { try { u.voice = v; } catch (e) { } }
+      u.lang = v ? v.lang : (variety === 'us' ? 'en-US' : 'en-GB');
+      u.rate = (opt.slow ? 0.62 : 1) * S.settings.rate; u.volume = 1;
+      if (opt.pitch) u.pitch = opt.pitch;
+      let started = false;
+      u.onstart = () => { started = true; this.heard = true; };
+      u.onend = () => { if (token === this.token) { clearTimeout(this.watch); done(); } };
+      u.onerror = e => {
+        if (token !== this.token) return;
+        clearTimeout(this.watch);
+        if (!started && attempt === 0 && e && e.error !== 'interrupted' && e.error !== 'canceled') start(false, 1); else done();
+      };
+      this.current = u;                                // garder une référence : iOS oublie parfois l'énoncé
+      try { synth.resume(); } catch (e) { }
+      try { synth.speak(u); } catch (e) { done(); return; }
+      clearTimeout(this.watch);
+      this.watch = setTimeout(() => {                  // rien n'a démarré : nouvel essai sans voix imposée, puis aide
+        if (token !== this.token || started) return;
+        if (attempt === 0) { try { synth.cancel(); } catch (e) { } setTimeout(() => { if (token === this.token) start(false, 1); }, 90); }
+        else { done(); if (!this.warned) { this.warned = true; toast('No sound? See Settings › Sound.'); } }
+      }, 1800);
+    };
+    if (synth.speaking || synth.pending) { try { synth.cancel(); } catch (e) { } setTimeout(() => { if (token === this.token) start(true, 0); }, 80); }
+    else start(true, 0);
   },
-  stop() { if (this.ok) speechSynthesis.cancel(); }
+  stop() {
+    if (!this.ok) return;
+    this.token++; clearTimeout(this.watch);
+    try { if (speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel(); } catch (e) { }
+  }
 };
 
 /* ---------- microphone: record, then listen to yourself ---------- */
@@ -547,6 +583,10 @@ document.addEventListener('click', e => {
 document.addEventListener('change', e => {
   const el = e.target.closest('[data-chg]'); if (!el) return;
   const fn = ACT[el.dataset.chg]; if (fn) fn(el, e);
+});
+/* les termes annotés d'un document sont des <span role="button"> : Entrée ou Espace les active */
+document.addEventListener('keydown', e => {
+  if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('span[role="button"][data-act]')) { e.preventDefault(); e.target.click(); }
 });
 /* clavier (Mac, iPad avec clavier) : 1 à 4 pour répondre, Entrée pour continuer */
 document.addEventListener('keydown', e => {
@@ -1052,15 +1092,15 @@ function annotate(text, r) {
   const marks = r.glossary.map((g, i) => ({ k: esc(g.term), cls: 'gl', i })).concat(r.legalese.map((g, i) => ({ k: esc(g.phrase), cls: 'lg', i }))).sort((a, b) => b.k.length - a.k.length);
   if (!marks.length) return esc(text);
   const re = new RegExp('(' + marks.map(m => reEsc(m.k)).join('|') + ')', 'gi');
-  return esc(text).replace(re, m => { const x = marks.find(k => k.k.toLowerCase() === m.toLowerCase()); return '<button class="' + x.cls + '" data-act="gloss" data-c="' + x.cls + '" data-i="' + x.i + '">' + m + '</button>'; });
+  return esc(text).replace(re, m => { const x = marks.find(k => k.k.toLowerCase() === m.toLowerCase()); return '<span role="button" tabindex="0" class="' + x.cls + '" data-act="gloss" data-c="' + x.cls + '" data-i="' + x.i + '">' + m + '</span>'; });
 }
 let READING = null, skimTimer = 0;
 VIEWS.read = id => {
   const r = findIn('reading', id); if (!r) { go('library'); return null; }
   READING = r; clearInterval(skimTimer);
   return head(r.title, esc(r.kind) + ' · level ' + r.level, 'library') +
-    '<div class="row"><button class="btn ghost" data-act="skim">' + icon('clock') + ' Timed skim · 60 s</button><button class="btn ghost" data-act="say" data-t="' + esc(r.paragraphs.join(' ')) + '">' + icon('play') + ' Listen</button></div>' +
-    '<article class="card doc" id="doc">' + r.paragraphs.map(p => '<p>' + annotate(p, r) + '</p>').join('') + '</article>' +
+    '<div class="row"><button class="btn ghost" data-act="skim">' + icon('clock') + ' Skim · 60 s</button><button class="btn ghost" data-act="say" data-t="' + esc(r.paragraphs.join(' ')) + '">' + icon('play') + ' Listen</button></div>' +
+    '<article class="card doc" id="doc">' + r.paragraphs.map(p => '<p' + (p.length < 70 ? ' class="sl"' : '') + '>' + annotate(p, r) + '</p>').join('') + '</article>' +
     '<p class="sub legend"><span class="gl">vocabulary</span> <span class="lg">legal jargon</span> — tap to decode.</p>' +
     '<button class="btn wide" data-act="readQ">Check my understanding · ' + r.questions.length + ' questions</button>';
 };
@@ -1074,7 +1114,7 @@ ACT.skim = el => {
   clearInterval(skimTimer);
   skimTimer = setInterval(() => { n--; el.innerHTML = icon('clock') + ' ' + n + ' s'; if (n <= 0) { clearInterval(skimTimer); doc.classList.add('veiled'); el.disabled = false; el.innerHTML = icon('clock') + ' Read again'; el.dataset.act = 'unveil'; } }, 1000);
 };
-ACT.unveil = el => { $('#doc').classList.remove('veiled'); el.dataset.act = 'skim'; el.innerHTML = icon('clock') + ' Timed skim · 60 s'; };
+ACT.unveil = el => { $('#doc').classList.remove('veiled'); el.dataset.act = 'skim'; el.innerHTML = icon('clock') + ' Skim · 60 s'; };
 ACT.readQ = () => { const r = READING; clearInterval(skimTimer); lessonRun(r.id, 'Reading', r.questions, 'read/' + r.id); };
 
 let DIALOG = null, playing = false;
@@ -1083,7 +1123,7 @@ VIEWS.dialogue = id => {
   DIALOG = d; playing = false;
   return head(d.title, (d.variety === 'us' ? 'American' : 'British') + ' English', 'library') +
     '<p class="lead">' + esc(d.context) + '</p>' + fr(esc(d.context_fr), 'Le contexte') +
-    '<div class="row"><button class="btn" data-act="playAll">' + icon('play') + ' Play the dialogue</button><button class="btn ghost" data-act="toggleText">Hide the text</button></div>' +
+    '<div class="row"><button class="btn" data-act="playAll">' + icon('play') + ' Play all</button><button class="btn ghost" data-act="toggleText">Hide the text</button></div>' +
     '<div class="card dialog" id="dlg">' + d.lines.map((l, i) => '<div class="line" data-i="' + i + '"><span class="who">' + esc(l.speaker) + '</span><p><span class="txt">' + esc(l.text) + '</span> <button class="ib" data-act="playLine" data-i="' + i + '" aria-label="Listen">' + icon('play') + '</button></p>' + fr(esc(l.note_fr), 'Tournure') + '</div>').join('') + '</div>' +
     '<div class="card"><span class="reglabel">Shadowing</span><p class="sub">Play a line, then say it straight after, copying the rhythm and the melody.</p>' + recBox() + '</div>' +
     '<button class="btn wide" data-act="dlgQ">Check my understanding · ' + d.questions.length + ' questions</button>';
@@ -1094,7 +1134,7 @@ function playLine(i, chain) {
   $$('.line').forEach(x => x.classList.toggle('on', +x.dataset.i === i));
   Speech.say(d.lines[i].text, { variety: d.variety, pitch: pitchOf(d, i), onend: () => { if (chain && playing) setTimeout(() => playLine(i + 1, true), 350); else $$('.line.on').forEach(x => x.classList.remove('on')); } });
 }
-ACT.playAll = el => { if (playing) { playing = false; Speech.stop(); el.innerHTML = icon('play') + ' Play the dialogue'; return; } playing = true; el.innerHTML = icon('stop') + ' Stop'; playLine(0, true); };
+ACT.playAll = el => { if (playing) { playing = false; Speech.stop(); el.innerHTML = icon('play') + ' Play all'; return; } playing = true; el.innerHTML = icon('stop') + ' Stop'; playLine(0, true); };
 ACT.playLine = el => { playing = false; playLine(+el.dataset.i, false); };
 ACT.toggleText = el => { const on = $('#dlg').classList.toggle('notext'); el.textContent = on ? 'Show the text' : 'Hide the text'; };
 ACT.dlgQ = () => { const d = DIALOG; playing = false; lessonRun(d.id, 'Listening', d.questions, 'dialogue/' + d.id); };
@@ -1117,7 +1157,7 @@ VIEWS.write = id => {
   if (w.stage === 1) work = '<div class="card gaps">' + w.gaps.map((g, i) => '<div class="gap"><p>' + esc(g.text).replace('___', '<input type="text" data-i="' + i + '" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-label="Missing words">') + '</p><div class="gapfb"></div></div>').join('') + '</div><button class="btn wide" data-act="checkGaps">Check my answers</button>';
   else work = '<div class="card"><span class="reglabel">Points to cover</span><ul>' + w.outline.map(o => '<li>' + esc(o) + '</li>').join('') + '</ul></div>' +
     '<div class="card"><textarea id="draft" rows="10" placeholder="Write here. Your draft is saved on this device.">' + esc(draft) + '</textarea><p class="sub" id="wc"></p>' +
-    '<div class="row"><button class="btn ghost" data-act="copyDraft">' + icon('copy') + ' Copy my text</button><button class="btn ghost" data-act="online">' + icon('cloud') + ' Get it corrected online</button></div></div>' +
+    '<div class="row"><button class="btn ghost" data-act="copyDraft">' + icon('copy') + ' Copy</button><button class="btn ghost" data-act="online">' + icon('cloud') + ' Correct online</button></div></div>' +
     '<button class="btn wide" data-act="showModel">Compare with the model</button>';
   afterRender = main => { const ta = $('#draft', main); if (!ta) return; const wc = () => { $('#wc').textContent = (ta.value.trim() ? ta.value.trim().split(/\s+/).length : 0) + ' words'; }; wc(); ta.addEventListener('input', () => { S.drafts[id] = ta.value; save(); wc(); }); };
   return top + work + '<div id="model"></div>';
@@ -1242,20 +1282,26 @@ function applySettings() {
   r.style.setProperty('--scale', S.settings.scale);
 }
 const seg = (key, opts) => '<div class="seg">' + opts.map(o => '<button data-act="set" data-k="' + key + '" data-v="' + o[0] + '" class="' + (String(S.settings[key]) === String(o[0]) ? 'on' : '') + '">' + o[1] + '</button>').join('') + '</div>';
+const field = (label, inner) => '<div class="field"><span class="flabel">' + label + '</span>' + inner + '</div>';
 VIEWS.settings = () => {
   const voices = v => { const list = Speech.list(v), key = v === 'us' ? 'voiceUs' : 'voiceUk';
-    return list.length ? '<select data-chg="voice" data-k="' + key + '"><option value="">Best available</option>' + list.map(x => '<option' + (S.settings[key] === x.name ? ' selected' : '') + '>' + esc(x.name) + '</option>').join('') + '</select>' : '<small>No ' + (v === 'us' ? 'American' : 'British') + ' voice found on this device.</small>'; };
+    return list.length ? '<select data-chg="voice" data-k="' + key + '" aria-label="' + (v === 'us' ? 'American' : 'British') + ' voice"><option value="">Best available</option>' + list.map(x => '<option' + (S.settings[key] === x.name ? ' selected' : '') + '>' + esc(x.name) + '</option>').join('') + '</select>' : '<p class="sub">No ' + (v === 'us' ? 'American' : 'British') + ' voice found on this device: the default English voice is used.</p>'; };
+  const uk = Speech.voice('uk'), us = Speech.voice('us');
   return head('Settings', '', '') +
-    '<div class="card set"><label>Main variety' + seg('variety', [['uk', 'British'], ['us', 'American']]) + '</label><label>French help always open' + seg('frHelp', [['false', 'Off'], ['true', 'On']]) + '</label><label>Daily goal' + seg('goal', [[10, '10 min'], [15, '15 min'], [20, '20 min'], [30, '30 min']]) + '</label></div>' +
-    '<div class="card set"><label>Appearance' + seg('theme', [['auto', 'Auto'], ['light', 'Light'], ['dark', 'Dark']]) + '</label><label>Text size' + seg('scale', [[0.92, 'A−'], [1, 'A'], [1.12, 'A+'], [1.25, 'A++']]) + '</label></div>' +
-    '<div class="card set"><label>Speaking rate' + seg('rate', [[0.85, 'Slower'], [1, 'Normal'], [1.1, 'Faster']]) + '</label><label>British voice' + voices('uk') + '</label><label>American voice' + voices('us') + '</label>' +
-    '<p class="row">' + sayBtn('The contract takes effect on the first of March.', 'uk') + sayBtn('The contract takes effect on March first.', 'us') + '</p>' +
-    fr('<p>Pour un rendu naturel, téléchargez une voix « améliorée » ou « premium » : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p>', 'Améliorer les voix') + '</div>' +
-    '<div class="card set"><span class="reglabel">Your progress</span><p class="sub">Stored on this device only. Export it to carry it to another device.</p><div class="row"><button class="btn ghost" data-act="exportData">Export</button><label class="btn ghost filebtn">Import<input type="file" accept="application/json,.json" data-chg="importData" hidden></label></div>' +
+    '<div class="card set">' + field('Main variety', seg('variety', [['uk', 'British'], ['us', 'American']])) + field('French help always open', seg('frHelp', [['false', 'Off'], ['true', 'On']])) + field('Daily goal', seg('goal', [[10, '10 min'], [15, '15 min'], [20, '20 min'], [30, '30 min']])) + '</div>' +
+    '<div class="card set">' + field('Appearance', seg('theme', [['auto', 'Auto'], ['light', 'Light'], ['dark', 'Dark']])) + field('Text size', seg('scale', [[0.92, 'A−'], [1, 'A'], [1.12, 'A+'], [1.25, 'A++']])) + '</div>' +
+    '<div class="card set" id="sound"><span class="reglabel">Sound</span>' + field('Speaking rate', seg('rate', [[0.85, 'Slower'], [1, 'Normal'], [1.1, 'Faster']])) + field('British voice', voices('uk')) + field('American voice', voices('us')) +
+    '<div class="field"><span class="flabel">Test the sound</span><div class="two"><button class="btn ghost" data-act="say" data-t="The contract takes effect on the first of March." data-v="uk">' + icon('play') + ' British</button><button class="btn ghost" data-act="say" data-t="The contract takes effect on March first." data-v="us">' + icon('play') + ' American</button></div></div>' +
+    '<p class="sub">' + (Speech.ok ? 'No sound? Switch off silent mode and turn the volume up. ' + Speech.voices.length + ' English voices found' + (uk ? ' · UK: ' + esc(uk.name) : '') + (us ? ' · US: ' + esc(us.name) : '') + '.' : 'Speech is not available in this browser.') + '</p>' +
+    fr('<p><b>Aucun son ?</b> 1. Désactivez le mode silencieux de l’iPhone (bouton latéral ou Centre de contrôle) : en mode silencieux, la voix des applications web est coupée. 2. Montez le volume avec les boutons latéraux pendant une lecture. 3. Vérifiez qu’une voix anglaise est installée : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p><p><b>Voix plus naturelle</b> : au même endroit, téléchargez une voix « améliorée » ou « premium », britannique et américaine, puis choisissez-la ci-dessus.</p>', 'Aucun son ? Améliorer les voix') + '</div>' +
+    '<div class="card set"><span class="reglabel">Your progress</span><p class="sub">Stored on this device only. Export it to carry it to another device.</p>' +
+    '<div class="two"><button class="btn ghost" data-act="exportData">Export</button><button class="btn ghost" data-act="importPick">Import</button></div><input id="importFile" type="file" accept="application/json,.json" data-chg="importData" hidden>' +
     '<button class="btn ghost wide" data-act="go" data-to="placement">Placement test</button><button class="btn danger wide" data-act="resetAsk">Erase all progress</button></div>' +
     onlineSettingsCard() +
-    '<p class="foot">Parlance ' + APP_VERSION + ' · ' + ALL_ENTRIES.length + ' expressions · works offline</p>';
+    '<div class="card set"><span class="reglabel">About</span><p><b>Parlance ' + APP_VERSION + '</b></p><p class="sub">Build ' + esc(APP_BUILD) + ' · ' + ALL_ENTRIES.length + ' expressions · ' + L.grammar.length + ' grammar lessons · works offline</p>' +
+    '<button class="btn ghost wide" data-act="checkUpdate">Check for updates</button></div>';
 };
+ACT.importPick = () => { const f = $('#importFile'); if (f) f.click(); };
 ACT.set = el => { let v = el.dataset.v; const k = el.dataset.k; if (v === 'true' || v === 'false') v = v === 'true'; else if (!isNaN(+v) && k !== 'variety' && k !== 'theme') v = +v; S.settings[k] = v; save(); applySettings(); render(); };
 ACT.voice = el => { S.settings[el.dataset.k] = el.value; save(); };
 ACT.exportData = async () => {
@@ -1422,6 +1468,28 @@ window.addEventListener('parlance-update', () => {
   document.body.appendChild(d);
 });
 ACT.reload = () => { saveNow(); location.reload(); };
+/* iOS reprend l'application là où elle était, sans la recharger : on interroge donc le serveur
+   à chaque retour au premier plan, et la nouvelle version s'applique seule depuis l'accueil. */
+let UPDATE_READY = false;
+window.addEventListener('parlance-update', () => { UPDATE_READY = true; });
+function checkForUpdate() {
+  if (!('serviceWorker' in navigator) || !navigator.onLine || location.protocol === 'file:') return Promise.resolve(null);
+  return navigator.serviceWorker.getRegistration().then(r => (r ? r.update().then(() => r) : null)).catch(() => null);
+}
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) return;
+  if (UPDATE_READY && !SESSION && (location.hash === '#/' || location.hash === '')) { ACT.reload(); return; }
+  checkForUpdate();
+});
+setInterval(checkForUpdate, 30 * 60 * 1000);
+ACT.checkUpdate = async el => {
+  if (!navigator.onLine) { toast('You are offline.'); return; }
+  if (UPDATE_READY) { ACT.reload(); return; }
+  el.disabled = true; el.textContent = 'Checking…';
+  const reg = await checkForUpdate();
+  el.disabled = false; el.textContent = 'Check for updates';
+  toast(!reg ? 'Updates work from the installed app.' : (reg.installing || reg.waiting) ? 'New version found: downloading…' : 'You have the latest version.');
+};
 
 /* Parlance — online correction (étape 3).
    Tout passe par le relais /api/correct, qui garde la clé API, vérifie le code
@@ -1518,7 +1586,8 @@ async function runJob(job) {
 function learnFrom(r) {
   if (!r || !Array.isArray(r.changes)) return;
   r.changes.forEach(c => { const k = TYPE_LABEL[c.type] || 'Other'; S.errors[k] = (S.errors[k] || 0) + 1; });
-  r.changes.filter(c => c.corrected && c.corrected.length < 160).slice(0, 5).forEach(c => addNote(c.corrected, (c.original ? c.original + ' → ' : '') + (c.explanation_fr || '')));
+  const worth = c => c.corrected && c.corrected.length < 160 && !/\[[A-Z][a-z]+\]/.test(c.corrected) && c.corrected.replace(/[^A-Za-z]/g, '').length >= 6 && !['punctuation', 'spelling'].includes(c.type);
+  r.changes.filter(worth).slice(0, 3).forEach(c => addNote(c.corrected, (c.original ? '✕ ' + c.original + ' — ' : '') + (c.explanation_fr || '')));
 }
 
 /* ---------- affichage d'une correction ---------- */
@@ -1535,7 +1604,7 @@ function correctionHtml(rec) {
     '<div class="card doc"><span class="reglabel">As a native would put it ' + chip(V().toUpperCase(), 'v-' + V()) + ' ' + sayBtn(r.native_version || '', V()) + '</span>' + para(r.native_version || '') + '</div>' +
     '<div class="card" lang="fr"><span class="reglabel">Registre et fluidité</span><p>' + esc(r.register_fr) + '</p><p>' + esc(r.fluency_fr) + '</p>' +
     ((r.priorities_fr || []).length ? '<span class="reglabel">Vos priorités</span><ul>' + r.priorities_fr.map(p => '<li>' + esc(p) + '</li>').join('') + '</ul>' : '') + '</div>' +
-    '<p class="sub center">' + (rec.cost != null ? 'Cost of this correction: ' + money(rec.cost) + ' · ' : '') + 'Corrected phrases were added to your notebook.</p>';
+    '<p class="sub center">' + (rec.cost != null ? 'Cost of this correction: ' + money(rec.cost) + ' · ' : '') + 'The most useful corrections were added to your notebook.</p>';
 }
 
 /* ---------- points d'entrée dans l'application ---------- */
@@ -1624,12 +1693,12 @@ function onlineSettingsCard() {
     : !st ? 'Checking…'
     : st.error === 'code' ? 'The access code is not recognised.'
     : st.configured === false ? 'Not set up yet on the server.'
-    : st.spent != null ? 'This month: ' + money(st.spent) + ' of ' + money(st.cap) + ' · ' + (st.calls || 0) + ' corrections' : 'Not available right now.';
+    : st.spent != null ? 'This month: ' + money(st.spent) + ' of ' + money(st.cap) + ' · ' + (st.calls || 0) + ' correction' + (st.calls === 1 ? '' : 's') : 'Not available right now.';
   const p = st && st.spent != null && st.cap ? Math.min(100, Math.round(100 * st.spent / st.cap)) : 0;
   return '<div class="card set"><span class="reglabel">Online correction</span><p class="sub">' + esc(line) + '</p>' + (st && st.spent != null ? bar(p, 'thin') : '') +
-    '<label>Access code<input id="oCode" type="password" autocomplete="off" value="' + esc(S.online.code) + '" placeholder="Your personal code"></label><button class="btn ghost" data-act="saveCode">Save the code</button>' +
-    '<label>Quality' + seg2('quality', [['best', 'Best · Opus'], ['economy', 'Economy · Haiku']]) + '</label>' +
-    '<label>Conversation practice' + seg2('converse', [['false', 'Off'], ['true', 'On']]) + '</label>' +
+    field('Access code', '<div class="inline"><input id="oCode" type="password" autocomplete="off" autocapitalize="off" value="' + esc(S.online.code) + '" placeholder="Your personal code" aria-label="Access code"><button class="btn ghost" data-act="saveCode">Save</button></div>') +
+    field('Quality', seg2('quality', [['best', 'Best · Opus'], ['economy', 'Economy · Haiku']])) +
+    field('Conversation practice', seg2('converse', [['false', 'Off'], ['true', 'On']])) +
     fr('<p>Le plafond de ' + money(st && st.cap || 20) + ' par mois est appliqué par le serveur : une correction n’est lancée que si son coût maximal tient dans le budget restant. Seule vous pouvez le modifier, dans Vercel (variable MONTHLY_CAP_USD).</p><p>Ordre de grandeur : quelques centimes par correction en qualité « Best », une fraction de centime en « Economy ».</p>', 'Budget') + '</div>';
 }
 const seg2 = (key, opts) => '<div class="seg">' + opts.map(o => '<button data-act="setOnline" data-k="' + key + '" data-v="' + o[0] + '" class="' + (String(S.online[key]) === o[0] ? 'on' : '') + '">' + o[1] + '</button>').join('') + '</div>';

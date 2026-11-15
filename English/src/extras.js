@@ -147,3 +147,25 @@ window.addEventListener('parlance-update', () => {
   document.body.appendChild(d);
 });
 ACT.reload = () => { saveNow(); location.reload(); };
+/* iOS reprend l'application là où elle était, sans la recharger : on interroge donc le serveur
+   à chaque retour au premier plan, et la nouvelle version s'applique seule depuis l'accueil. */
+let UPDATE_READY = false;
+window.addEventListener('parlance-update', () => { UPDATE_READY = true; });
+function checkForUpdate() {
+  if (!('serviceWorker' in navigator) || !navigator.onLine || location.protocol === 'file:') return Promise.resolve(null);
+  return navigator.serviceWorker.getRegistration().then(r => (r ? r.update().then(() => r) : null)).catch(() => null);
+}
+document.addEventListener('visibilitychange', () => {
+  if (document.hidden) return;
+  if (UPDATE_READY && !SESSION && (location.hash === '#/' || location.hash === '')) { ACT.reload(); return; }
+  checkForUpdate();
+});
+setInterval(checkForUpdate, 30 * 60 * 1000);
+ACT.checkUpdate = async el => {
+  if (!navigator.onLine) { toast('You are offline.'); return; }
+  if (UPDATE_READY) { ACT.reload(); return; }
+  el.disabled = true; el.textContent = 'Checking…';
+  const reg = await checkForUpdate();
+  el.disabled = false; el.textContent = 'Check for updates';
+  toast(!reg ? 'Updates work from the installed app.' : (reg.installing || reg.waiting) ? 'New version found: downloading…' : 'You have the latest version.');
+};

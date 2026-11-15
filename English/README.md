@@ -7,8 +7,26 @@ geste, palette bleu poudré, modes clair et sombre.
 
 ## Où en est-on
 
-**Version 0.4** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
+**Version 0.4.1** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
 correction en ligne, habillage refondu.
+
+Correctifs de la version 0.4.1 :
+
+- **Son** : la lecture ne passe plus par une annulation préalable (source de
+  silences sur iPhone), une voix muette est relancée une fois sans voix imposée,
+  les voix fantaisie d'iOS sont écartées. Réglages › Sound : essai des deux
+  accents, voix détectées, marche à suivre en cas de silence (mode silencieux de
+  l'iPhone, volume, voix anglaise installée).
+- **Mises à jour** : numéro de version et date d'assemblage affichés dans
+  Réglages › About ; l'application vérifie la présence d'une version plus récente
+  à chaque retour au premier plan et toutes les trente minutes, l'annonce par un
+  bandeau et l'applique d'elle-même depuis l'écran d'accueil ; bouton
+  « Check for updates ».
+- **Mise en page** : boutons côte à côte alignés (Export / Import, essais du son,
+  code d'accès) ; documents de la bibliothèque justifiés sans trous ; le carnet ne
+  retient plus que les corrections en ligne réellement utiles.
+- **Revue fonctionnelle** : `Tools/EnglishCheck/features.test.js`, 41 points
+  contrôlés un à un, avec synthèse vocale et microphone simulés.
 
 | Thèmes | Contenu par thème |
 |---|---|
@@ -65,11 +83,13 @@ les corrigés modèles.
 | `English/app/` | application assemblée, prête à mettre en ligne. **Générée**, ne pas modifier à la main |
 | `Tools/build-english.py` | contrôle les contenus puis assemble `English/app/` |
 | `Tools/EnglishCheck/parlance.test.js` | essais de bout en bout, y compris hors connexion |
+| `Tools/EnglishCheck/features.test.js` | revue fonctionnelle point par point (son, exercices, réglages, mise en page) |
 | `Tools/vercel-parlance/` | projet Vercel `parlance-english` : à chaque déploiement, il récupère `English/app/` depuis la branche |
 
 ```bash
 python3 Tools/build-english.py              # contrôle + assemblage
 node Tools/EnglishCheck/parlance.test.js    # tous les écrans, séances, mode hors ligne
+node Tools/EnglishCheck/features.test.js    # revue fonctionnelle, 41 points
 node Tools/EnglishCheck/online.test.js      # relais et plafond, avec une API simulée
 ```
 

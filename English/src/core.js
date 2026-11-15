@@ -1,6 +1,7 @@
 'use strict';
 /* Parlance — Legal & HR English. Core: state, storage, speech, recording, spaced repetition. */
-const APP_VERSION = '0.4.0';
+const APP_VERSION = '0.4.1';
+const APP_BUILD = '/*BUILD*/';
 const DATA = window.PARLANCE_DATA;
 const STORE_KEY = 'parlance.v1';
 
@@ -12,7 +13,7 @@ const mark = s => esc(s).replace(/\[\[(.+?)\]\]/g, '<mark>$1</mark>');
 const plain = s => String(s || '').replace(/\[\[(.+?)\]\]/g, '$1');
 const target = s => { const m = /\[\[(.+?)\]\]/.exec(s || ''); return m ? m[1] : ''; };
 const blank = s => esc(s).replace(/\[\[(.+?)\]\]/g, '<span class="blank">&nbsp;</span>');
-const para = s => esc(s).split(/\n{2,}/).map(p => '<p>' + p.replace(/\n/g, '<br>') + '</p>').join('');
+const para = s => esc(s).split(/\n{2,}/).map(p => '<p' + (p.length < 70 && !p.includes('\n') ? ' class="sl"' : '') + '>' + p.replace(/\n/g, '<br>') + '</p>').join('');
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const sample = (a, n) => shuffle(a).slice(0, n);
 const uniq = a => Array.from(new Set(a));
@@ -89,35 +90,67 @@ const dueIds = () => Object.keys(S.srs).filter(id => S.srs[id].d <= dayNum() && 
 const mastered = id => S.srs[id] && S.srs[id].i >= 7;
 
 /* ---------- speech synthesis (voix de l'appareil, hors ligne) ---------- */
+/* Voix de l'appareil. iOS a ses caprices : première lecture à déclencher par un geste,
+   lecture parfois avalée après un cancel(), voix fantaisie à écarter, mode silencieux. */
+const GOOD_VOICES = /^(daniel|kate|serena|oliver|arthur|martha|stephanie|samantha|ava|allison|susan|evan|nathan|joelle|noelle|zoe|tom|alex|nicky|karen|moira|tessa)\b/i;
+const ODD_VOICES = /^(albert|bad news|bahh|bells|boing|bubbles|cellos|deranged|good news|hysterical|jester|junior|organ|pipe organ|superstar|trinoids|whisper|wobble|zarvox|fred|ralph|kathy|eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley)\b/i;
 const Speech = {
-  ok: 'speechSynthesis' in window, voices: [],
+  ok: 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window, voices: [], token: 0, current: null, watch: 0, heard: false, unlocked: false, warned: false,
   init() {
     if (!this.ok) return;
-    const grab = () => { this.voices = speechSynthesis.getVoices().filter(v => /^en[-_]/i.test(v.lang)); };
+    const grab = () => { try { this.voices = speechSynthesis.getVoices().filter(v => /^en[-_]/i.test(v.lang)); } catch (e) { this.voices = []; } };
     grab(); if (speechSynthesis.addEventListener) speechSynthesis.addEventListener('voiceschanged', grab);
+    // iOS : une première lecture, même muette, doit partir d'un geste pour autoriser les suivantes
+    const unlock = () => {
+      if (this.unlocked) return; this.unlocked = true; grab();
+      try { const u = new SpeechSynthesisUtterance(' '); u.volume = 0; u.lang = 'en-GB'; speechSynthesis.speak(u); } catch (e) { }
+    };
+    ['pointerdown', 'touchend', 'keydown'].forEach(ev => document.addEventListener(ev, unlock, { capture: true, once: true }));
   },
   list(variety) { const re = variety === 'us' ? /^en[-_]US/i : /^en[-_]GB/i; return this.voices.filter(v => re.test(v.lang)); },
   voice(variety) {
     const wanted = S.settings[variety === 'us' ? 'voiceUs' : 'voiceUk'];
     const list = this.list(variety);
-    const score = v => (/premium|enhanced|natural/i.test(v.name) ? 4 : 0) + (v.localService ? 2 : 0) + (v.default ? 1 : 0);
-    return list.find(v => v.name === wanted) || list.slice().sort((a, b) => score(b) - score(a))[0] || this.voices[0] || null;
+    const score = v => (/premium|enhanced|natural|siri/i.test(v.name) ? 8 : 0) + (GOOD_VOICES.test(v.name) ? 4 : 0) + (ODD_VOICES.test(v.name) ? -10 : 0) + (v.localService ? 1 : 0);
+    return list.find(v => v.name === wanted) || list.slice().sort((a, b) => score(b) - score(a))[0] || null;
   },
   say(text, opt) {
     opt = opt || {};
-    if (!this.ok) { if (opt.onend) opt.onend(); return; }
-    speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(plain(text));
-    const variety = opt.variety || V(), v = this.voice(variety);
-    if (v) u.voice = v;
-    u.lang = v ? v.lang : (variety === 'us' ? 'en-US' : 'en-GB');
-    u.rate = (opt.slow ? 0.62 : 1) * S.settings.rate;
-    if (opt.pitch) u.pitch = opt.pitch;
-    let done = false; const end = () => { if (!done) { done = true; if (opt.onend) opt.onend(); } };
-    u.onend = end; u.onerror = end;
-    speechSynthesis.speak(u);
+    const done = () => { const f = opt.onend; opt.onend = null; if (f) f(); };
+    if (!this.ok) { done(); return; }
+    const synth = speechSynthesis, variety = opt.variety || V(), token = ++this.token;
+    const start = (withVoice, attempt) => {
+      const u = new SpeechSynthesisUtterance(plain(text)), v = withVoice ? this.voice(variety) : null;
+      if (v) { try { u.voice = v; } catch (e) { } }
+      u.lang = v ? v.lang : (variety === 'us' ? 'en-US' : 'en-GB');
+      u.rate = (opt.slow ? 0.62 : 1) * S.settings.rate; u.volume = 1;
+      if (opt.pitch) u.pitch = opt.pitch;
+      let started = false;
+      u.onstart = () => { started = true; this.heard = true; };
+      u.onend = () => { if (token === this.token) { clearTimeout(this.watch); done(); } };
+      u.onerror = e => {
+        if (token !== this.token) return;
+        clearTimeout(this.watch);
+        if (!started && attempt === 0 && e && e.error !== 'interrupted' && e.error !== 'canceled') start(false, 1); else done();
+      };
+      this.current = u;                                // garder une référence : iOS oublie parfois l'énoncé
+      try { synth.resume(); } catch (e) { }
+      try { synth.speak(u); } catch (e) { done(); return; }
+      clearTimeout(this.watch);
+      this.watch = setTimeout(() => {                  // rien n'a démarré : nouvel essai sans voix imposée, puis aide
+        if (token !== this.token || started) return;
+        if (attempt === 0) { try { synth.cancel(); } catch (e) { } setTimeout(() => { if (token === this.token) start(false, 1); }, 90); }
+        else { done(); if (!this.warned) { this.warned = true; toast('No sound? See Settings › Sound.'); } }
+      }, 1800);
+    };
+    if (synth.speaking || synth.pending) { try { synth.cancel(); } catch (e) { } setTimeout(() => { if (token === this.token) start(true, 0); }, 80); }
+    else start(true, 0);
   },
-  stop() { if (this.ok) speechSynthesis.cancel(); }
+  stop() {
+    if (!this.ok) return;
+    this.token++; clearTimeout(this.watch);
+    try { if (speechSynthesis.speaking || speechSynthesis.pending) speechSynthesis.cancel(); } catch (e) { }
+  }
 };
 
 /* ---------- microphone: record, then listen to yourself ---------- */

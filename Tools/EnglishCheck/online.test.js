@@ -14,7 +14,7 @@ const fails = []; const check = (c, m) => { if (!c) { fails.push(m); console.log
 /* ---- doublures : API Claude et Vercel Blob ---- */
 const calls = [];
 let nextUsage = { input_tokens: 2000, output_tokens: 1500 }, nextStop = 'end_turn';
-const RESULT = { corrected: 'I sent the contract yesterday.', changes: [{ original: 'I have sent', corrected: 'I sent', type: 'grammar', explanation_fr: 'Repère passé : prétérit.' }], native_version: 'I sent the contract over yesterday.', register_fr: 'Registre adapté.', fluency_fr: 'Fluide.', priorities_fr: ['Prétérit avec un repère passé'] };
+const RESULT = { corrected: 'I sent the contract yesterday.', changes: [{ original: 'I have sent the contract', corrected: 'I sent the contract', type: 'grammar', explanation_fr: 'Repère passé : prétérit.' }], native_version: 'I sent the contract over yesterday.', register_fr: 'Registre adapté.', fluency_fr: 'Fluide.', priorities_fr: ['Prétérit avec un repère passé'] };
 class APIError extends Error {}
 class FakeAnthropic {
   constructor(o) { this.o = o; const create = async p => { calls.push(p); if (this.o.apiKey === 'bad') throw new FakeAnthropic.AuthenticationError('auth');
@@ -118,7 +118,7 @@ const api = (method, body, code) => fetch('http://localhost:' + PORT + '/api/cor
     await page.waitForSelector('#model .doc ins', { timeout: 8000 });
     check(!/Smith|Carter/.test(calls[calls.length - 1].messages[0].content), 'un nom est parti vers l’API');
     check(await page.locator('#model .cmlist li').count() === 1, 'les corrections expliquées ne s’affichent pas');
-    check(await page.evaluate(() => S.corrections.length === 1 && S.notebook.some(n => n.text === 'I sent') && S.errors.Grammar >= 1), 'la correction n’alimente pas l’historique, le carnet ou le tableau de bord');
+    check(await page.evaluate(() => S.corrections.length === 1 && S.notebook.some(n => n.text === 'I sent the contract') && S.errors.Grammar >= 1), 'la correction n’alimente pas l’historique, le carnet ou le tableau de bord');
     console.log('  écrit : confirmation, anonymisation, affichage, carnet conformes');
 
     // hors connexion : mise en file d'attente, puis envoi sur confirmation

@@ -108,6 +108,10 @@ document.addEventListener('change', e => {
   const el = e.target.closest('[data-chg]'); if (!el) return;
   const fn = ACT[el.dataset.chg]; if (fn) fn(el, e);
 });
+/* les termes annotés d'un document sont des <span role="button"> : Entrée ou Espace les active */
+document.addEventListener('keydown', e => {
+  if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('span[role="button"][data-act]')) { e.preventDefault(); e.target.click(); }
+});
 /* clavier (Mac, iPad avec clavier) : 1 à 4 pour répondre, Entrée pour continuer */
 document.addEventListener('keydown', e => {
   if (!SESSION || location.hash !== '#/session' || e.metaKey || e.ctrlKey || e.altKey) return;

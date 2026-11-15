@@ -226,15 +226,15 @@ function annotate(text, r) {
   const marks = r.glossary.map((g, i) => ({ k: esc(g.term), cls: 'gl', i })).concat(r.legalese.map((g, i) => ({ k: esc(g.phrase), cls: 'lg', i }))).sort((a, b) => b.k.length - a.k.length);
   if (!marks.length) return esc(text);
   const re = new RegExp('(' + marks.map(m => reEsc(m.k)).join('|') + ')', 'gi');
-  return esc(text).replace(re, m => { const x = marks.find(k => k.k.toLowerCase() === m.toLowerCase()); return '<button class="' + x.cls + '" data-act="gloss" data-c="' + x.cls + '" data-i="' + x.i + '">' + m + '</button>'; });
+  return esc(text).replace(re, m => { const x = marks.find(k => k.k.toLowerCase() === m.toLowerCase()); return '<span role="button" tabindex="0" class="' + x.cls + '" data-act="gloss" data-c="' + x.cls + '" data-i="' + x.i + '">' + m + '</span>'; });
 }
 let READING = null, skimTimer = 0;
 VIEWS.read = id => {
   const r = findIn('reading', id); if (!r) { go('library'); return null; }
   READING = r; clearInterval(skimTimer);
   return head(r.title, esc(r.kind) + ' · level ' + r.level, 'library') +
-    '<div class="row"><button class="btn ghost" data-act="skim">' + icon('clock') + ' Timed skim · 60 s</button><button class="btn ghost" data-act="say" data-t="' + esc(r.paragraphs.join(' ')) + '">' + icon('play') + ' Listen</button></div>' +
-    '<article class="card doc" id="doc">' + r.paragraphs.map(p => '<p>' + annotate(p, r) + '</p>').join('') + '</article>' +
+    '<div class="row"><button class="btn ghost" data-act="skim">' + icon('clock') + ' Skim · 60 s</button><button class="btn ghost" data-act="say" data-t="' + esc(r.paragraphs.join(' ')) + '">' + icon('play') + ' Listen</button></div>' +
+    '<article class="card doc" id="doc">' + r.paragraphs.map(p => '<p' + (p.length < 70 ? ' class="sl"' : '') + '>' + annotate(p, r) + '</p>').join('') + '</article>' +
     '<p class="sub legend"><span class="gl">vocabulary</span> <span class="lg">legal jargon</span> — tap to decode.</p>' +
     '<button class="btn wide" data-act="readQ">Check my understanding · ' + r.questions.length + ' questions</button>';
 };
@@ -248,7 +248,7 @@ ACT.skim = el => {
   clearInterval(skimTimer);
   skimTimer = setInterval(() => { n--; el.innerHTML = icon('clock') + ' ' + n + ' s'; if (n <= 0) { clearInterval(skimTimer); doc.classList.add('veiled'); el.disabled = false; el.innerHTML = icon('clock') + ' Read again'; el.dataset.act = 'unveil'; } }, 1000);
 };
-ACT.unveil = el => { $('#doc').classList.remove('veiled'); el.dataset.act = 'skim'; el.innerHTML = icon('clock') + ' Timed skim · 60 s'; };
+ACT.unveil = el => { $('#doc').classList.remove('veiled'); el.dataset.act = 'skim'; el.innerHTML = icon('clock') + ' Skim · 60 s'; };
 ACT.readQ = () => { const r = READING; clearInterval(skimTimer); lessonRun(r.id, 'Reading', r.questions, 'read/' + r.id); };
 
 let DIALOG = null, playing = false;
@@ -257,7 +257,7 @@ VIEWS.dialogue = id => {
   DIALOG = d; playing = false;
   return head(d.title, (d.variety === 'us' ? 'American' : 'British') + ' English', 'library') +
     '<p class="lead">' + esc(d.context) + '</p>' + fr(esc(d.context_fr), 'Le contexte') +
-    '<div class="row"><button class="btn" data-act="playAll">' + icon('play') + ' Play the dialogue</button><button class="btn ghost" data-act="toggleText">Hide the text</button></div>' +
+    '<div class="row"><button class="btn" data-act="playAll">' + icon('play') + ' Play all</button><button class="btn ghost" data-act="toggleText">Hide the text</button></div>' +
     '<div class="card dialog" id="dlg">' + d.lines.map((l, i) => '<div class="line" data-i="' + i + '"><span class="who">' + esc(l.speaker) + '</span><p><span class="txt">' + esc(l.text) + '</span> <button class="ib" data-act="playLine" data-i="' + i + '" aria-label="Listen">' + icon('play') + '</button></p>' + fr(esc(l.note_fr), 'Tournure') + '</div>').join('') + '</div>' +
     '<div class="card"><span class="reglabel">Shadowing</span><p class="sub">Play a line, then say it straight after, copying the rhythm and the melody.</p>' + recBox() + '</div>' +
     '<button class="btn wide" data-act="dlgQ">Check my understanding · ' + d.questions.length + ' questions</button>';
@@ -268,7 +268,7 @@ function playLine(i, chain) {
   $$('.line').forEach(x => x.classList.toggle('on', +x.dataset.i === i));
   Speech.say(d.lines[i].text, { variety: d.variety, pitch: pitchOf(d, i), onend: () => { if (chain && playing) setTimeout(() => playLine(i + 1, true), 350); else $$('.line.on').forEach(x => x.classList.remove('on')); } });
 }
-ACT.playAll = el => { if (playing) { playing = false; Speech.stop(); el.innerHTML = icon('play') + ' Play the dialogue'; return; } playing = true; el.innerHTML = icon('stop') + ' Stop'; playLine(0, true); };
+ACT.playAll = el => { if (playing) { playing = false; Speech.stop(); el.innerHTML = icon('play') + ' Play all'; return; } playing = true; el.innerHTML = icon('stop') + ' Stop'; playLine(0, true); };
 ACT.playLine = el => { playing = false; playLine(+el.dataset.i, false); };
 ACT.toggleText = el => { const on = $('#dlg').classList.toggle('notext'); el.textContent = on ? 'Show the text' : 'Hide the text'; };
 ACT.dlgQ = () => { const d = DIALOG; playing = false; lessonRun(d.id, 'Listening', d.questions, 'dialogue/' + d.id); };
@@ -291,7 +291,7 @@ VIEWS.write = id => {
   if (w.stage === 1) work = '<div class="card gaps">' + w.gaps.map((g, i) => '<div class="gap"><p>' + esc(g.text).replace('___', '<input type="text" data-i="' + i + '" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-label="Missing words">') + '</p><div class="gapfb"></div></div>').join('') + '</div><button class="btn wide" data-act="checkGaps">Check my answers</button>';
   else work = '<div class="card"><span class="reglabel">Points to cover</span><ul>' + w.outline.map(o => '<li>' + esc(o) + '</li>').join('') + '</ul></div>' +
     '<div class="card"><textarea id="draft" rows="10" placeholder="Write here. Your draft is saved on this device.">' + esc(draft) + '</textarea><p class="sub" id="wc"></p>' +
-    '<div class="row"><button class="btn ghost" data-act="copyDraft">' + icon('copy') + ' Copy my text</button><button class="btn ghost" data-act="online">' + icon('cloud') + ' Get it corrected online</button></div></div>' +
+    '<div class="row"><button class="btn ghost" data-act="copyDraft">' + icon('copy') + ' Copy</button><button class="btn ghost" data-act="online">' + icon('cloud') + ' Correct online</button></div></div>' +
     '<button class="btn wide" data-act="showModel">Compare with the model</button>';
   afterRender = main => { const ta = $('#draft', main); if (!ta) return; const wc = () => { $('#wc').textContent = (ta.value.trim() ? ta.value.trim().split(/\s+/).length : 0) + ' words'; }; wc(); ta.addEventListener('input', () => { S.drafts[id] = ta.value; save(); wc(); }); };
   return top + work + '<div id="model"></div>';
@@ -416,20 +416,26 @@ function applySettings() {
   r.style.setProperty('--scale', S.settings.scale);
 }
 const seg = (key, opts) => '<div class="seg">' + opts.map(o => '<button data-act="set" data-k="' + key + '" data-v="' + o[0] + '" class="' + (String(S.settings[key]) === String(o[0]) ? 'on' : '') + '">' + o[1] + '</button>').join('') + '</div>';
+const field = (label, inner) => '<div class="field"><span class="flabel">' + label + '</span>' + inner + '</div>';
 VIEWS.settings = () => {
   const voices = v => { const list = Speech.list(v), key = v === 'us' ? 'voiceUs' : 'voiceUk';
-    return list.length ? '<select data-chg="voice" data-k="' + key + '"><option value="">Best available</option>' + list.map(x => '<option' + (S.settings[key] === x.name ? ' selected' : '') + '>' + esc(x.name) + '</option>').join('') + '</select>' : '<small>No ' + (v === 'us' ? 'American' : 'British') + ' voice found on this device.</small>'; };
+    return list.length ? '<select data-chg="voice" data-k="' + key + '" aria-label="' + (v === 'us' ? 'American' : 'British') + ' voice"><option value="">Best available</option>' + list.map(x => '<option' + (S.settings[key] === x.name ? ' selected' : '') + '>' + esc(x.name) + '</option>').join('') + '</select>' : '<p class="sub">No ' + (v === 'us' ? 'American' : 'British') + ' voice found on this device: the default English voice is used.</p>'; };
+  const uk = Speech.voice('uk'), us = Speech.voice('us');
   return head('Settings', '', '') +
-    '<div class="card set"><label>Main variety' + seg('variety', [['uk', 'British'], ['us', 'American']]) + '</label><label>French help always open' + seg('frHelp', [['false', 'Off'], ['true', 'On']]) + '</label><label>Daily goal' + seg('goal', [[10, '10 min'], [15, '15 min'], [20, '20 min'], [30, '30 min']]) + '</label></div>' +
-    '<div class="card set"><label>Appearance' + seg('theme', [['auto', 'Auto'], ['light', 'Light'], ['dark', 'Dark']]) + '</label><label>Text size' + seg('scale', [[0.92, 'A−'], [1, 'A'], [1.12, 'A+'], [1.25, 'A++']]) + '</label></div>' +
-    '<div class="card set"><label>Speaking rate' + seg('rate', [[0.85, 'Slower'], [1, 'Normal'], [1.1, 'Faster']]) + '</label><label>British voice' + voices('uk') + '</label><label>American voice' + voices('us') + '</label>' +
-    '<p class="row">' + sayBtn('The contract takes effect on the first of March.', 'uk') + sayBtn('The contract takes effect on March first.', 'us') + '</p>' +
-    fr('<p>Pour un rendu naturel, téléchargez une voix « améliorée » ou « premium » : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p>', 'Améliorer les voix') + '</div>' +
-    '<div class="card set"><span class="reglabel">Your progress</span><p class="sub">Stored on this device only. Export it to carry it to another device.</p><div class="row"><button class="btn ghost" data-act="exportData">Export</button><label class="btn ghost filebtn">Import<input type="file" accept="application/json,.json" data-chg="importData" hidden></label></div>' +
+    '<div class="card set">' + field('Main variety', seg('variety', [['uk', 'British'], ['us', 'American']])) + field('French help always open', seg('frHelp', [['false', 'Off'], ['true', 'On']])) + field('Daily goal', seg('goal', [[10, '10 min'], [15, '15 min'], [20, '20 min'], [30, '30 min']])) + '</div>' +
+    '<div class="card set">' + field('Appearance', seg('theme', [['auto', 'Auto'], ['light', 'Light'], ['dark', 'Dark']])) + field('Text size', seg('scale', [[0.92, 'A−'], [1, 'A'], [1.12, 'A+'], [1.25, 'A++']])) + '</div>' +
+    '<div class="card set" id="sound"><span class="reglabel">Sound</span>' + field('Speaking rate', seg('rate', [[0.85, 'Slower'], [1, 'Normal'], [1.1, 'Faster']])) + field('British voice', voices('uk')) + field('American voice', voices('us')) +
+    '<div class="field"><span class="flabel">Test the sound</span><div class="two"><button class="btn ghost" data-act="say" data-t="The contract takes effect on the first of March." data-v="uk">' + icon('play') + ' British</button><button class="btn ghost" data-act="say" data-t="The contract takes effect on March first." data-v="us">' + icon('play') + ' American</button></div></div>' +
+    '<p class="sub">' + (Speech.ok ? 'No sound? Switch off silent mode and turn the volume up. ' + Speech.voices.length + ' English voices found' + (uk ? ' · UK: ' + esc(uk.name) : '') + (us ? ' · US: ' + esc(us.name) : '') + '.' : 'Speech is not available in this browser.') + '</p>' +
+    fr('<p><b>Aucun son ?</b> 1. Désactivez le mode silencieux de l’iPhone (bouton latéral ou Centre de contrôle) : en mode silencieux, la voix des applications web est coupée. 2. Montez le volume avec les boutons latéraux pendant une lecture. 3. Vérifiez qu’une voix anglaise est installée : Réglages &gt; Accessibilité &gt; Contenu énoncé &gt; Voix &gt; Anglais.</p><p><b>Voix plus naturelle</b> : au même endroit, téléchargez une voix « améliorée » ou « premium », britannique et américaine, puis choisissez-la ci-dessus.</p>', 'Aucun son ? Améliorer les voix') + '</div>' +
+    '<div class="card set"><span class="reglabel">Your progress</span><p class="sub">Stored on this device only. Export it to carry it to another device.</p>' +
+    '<div class="two"><button class="btn ghost" data-act="exportData">Export</button><button class="btn ghost" data-act="importPick">Import</button></div><input id="importFile" type="file" accept="application/json,.json" data-chg="importData" hidden>' +
     '<button class="btn ghost wide" data-act="go" data-to="placement">Placement test</button><button class="btn danger wide" data-act="resetAsk">Erase all progress</button></div>' +
     onlineSettingsCard() +
-    '<p class="foot">Parlance ' + APP_VERSION + ' · ' + ALL_ENTRIES.length + ' expressions · works offline</p>';
+    '<div class="card set"><span class="reglabel">About</span><p><b>Parlance ' + APP_VERSION + '</b></p><p class="sub">Build ' + esc(APP_BUILD) + ' · ' + ALL_ENTRIES.length + ' expressions · ' + L.grammar.length + ' grammar lessons · works offline</p>' +
+    '<button class="btn ghost wide" data-act="checkUpdate">Check for updates</button></div>';
 };
+ACT.importPick = () => { const f = $('#importFile'); if (f) f.click(); };
 ACT.set = el => { let v = el.dataset.v; const k = el.dataset.k; if (v === 'true' || v === 'false') v = v === 'true'; else if (!isNaN(+v) && k !== 'variety' && k !== 'theme') v = +v; S.settings[k] = v; save(); applySettings(); render(); };
 ACT.voice = el => { S.settings[el.dataset.k] = el.value; save(); };
 ACT.exportData = async () => {

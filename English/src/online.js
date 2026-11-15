@@ -93,7 +93,8 @@ async function runJob(job) {
 function learnFrom(r) {
   if (!r || !Array.isArray(r.changes)) return;
   r.changes.forEach(c => { const k = TYPE_LABEL[c.type] || 'Other'; S.errors[k] = (S.errors[k] || 0) + 1; });
-  r.changes.filter(c => c.corrected && c.corrected.length < 160).slice(0, 5).forEach(c => addNote(c.corrected, (c.original ? c.original + ' → ' : '') + (c.explanation_fr || '')));
+  const worth = c => c.corrected && c.corrected.length < 160 && !/\[[A-Z][a-z]+\]/.test(c.corrected) && c.corrected.replace(/[^A-Za-z]/g, '').length >= 6 && !['punctuation', 'spelling'].includes(c.type);
+  r.changes.filter(worth).slice(0, 3).forEach(c => addNote(c.corrected, (c.original ? '✕ ' + c.original + ' — ' : '') + (c.explanation_fr || '')));
 }
 
 /* ---------- affichage d'une correction ---------- */
@@ -110,7 +111,7 @@ function correctionHtml(rec) {
     '<div class="card doc"><span class="reglabel">As a native would put it ' + chip(V().toUpperCase(), 'v-' + V()) + ' ' + sayBtn(r.native_version || '', V()) + '</span>' + para(r.native_version || '') + '</div>' +
     '<div class="card" lang="fr"><span class="reglabel">Registre et fluidité</span><p>' + esc(r.register_fr) + '</p><p>' + esc(r.fluency_fr) + '</p>' +
     ((r.priorities_fr || []).length ? '<span class="reglabel">Vos priorités</span><ul>' + r.priorities_fr.map(p => '<li>' + esc(p) + '</li>').join('') + '</ul>' : '') + '</div>' +
-    '<p class="sub center">' + (rec.cost != null ? 'Cost of this correction: ' + money(rec.cost) + ' · ' : '') + 'Corrected phrases were added to your notebook.</p>';
+    '<p class="sub center">' + (rec.cost != null ? 'Cost of this correction: ' + money(rec.cost) + ' · ' : '') + 'The most useful corrections were added to your notebook.</p>';
 }
 
 /* ---------- points d'entrée dans l'application ---------- */
@@ -199,12 +200,12 @@ function onlineSettingsCard() {
     : !st ? 'Checking…'
     : st.error === 'code' ? 'The access code is not recognised.'
     : st.configured === false ? 'Not set up yet on the server.'
-    : st.spent != null ? 'This month: ' + money(st.spent) + ' of ' + money(st.cap) + ' · ' + (st.calls || 0) + ' corrections' : 'Not available right now.';
+    : st.spent != null ? 'This month: ' + money(st.spent) + ' of ' + money(st.cap) + ' · ' + (st.calls || 0) + ' correction' + (st.calls === 1 ? '' : 's') : 'Not available right now.';
   const p = st && st.spent != null && st.cap ? Math.min(100, Math.round(100 * st.spent / st.cap)) : 0;
   return '<div class="card set"><span class="reglabel">Online correction</span><p class="sub">' + esc(line) + '</p>' + (st && st.spent != null ? bar(p, 'thin') : '') +
-    '<label>Access code<input id="oCode" type="password" autocomplete="off" value="' + esc(S.online.code) + '" placeholder="Your personal code"></label><button class="btn ghost" data-act="saveCode">Save the code</button>' +
-    '<label>Quality' + seg2('quality', [['best', 'Best · Opus'], ['economy', 'Economy · Haiku']]) + '</label>' +
-    '<label>Conversation practice' + seg2('converse', [['false', 'Off'], ['true', 'On']]) + '</label>' +
+    field('Access code', '<div class="inline"><input id="oCode" type="password" autocomplete="off" autocapitalize="off" value="' + esc(S.online.code) + '" placeholder="Your personal code" aria-label="Access code"><button class="btn ghost" data-act="saveCode">Save</button></div>') +
+    field('Quality', seg2('quality', [['best', 'Best · Opus'], ['economy', 'Economy · Haiku']])) +
+    field('Conversation practice', seg2('converse', [['false', 'Off'], ['true', 'On']])) +
     fr('<p>Le plafond de ' + money(st && st.cap || 20) + ' par mois est appliqué par le serveur : une correction n’est lancée que si son coût maximal tient dans le budget restant. Seule vous pouvez le modifier, dans Vercel (variable MONTHLY_CAP_USD).</p><p>Ordre de grandeur : quelques centimes par correction en qualité « Best », une fraction de centime en « Economy ».</p>', 'Budget') + '</div>';
 }
 const seg2 = (key, opts) => '<div class="seg">' + opts.map(o => '<button data-act="setOnline" data-k="' + key + '" data-v="' + o[0] + '" class="' + (String(S.online[key]) === o[0] ? 'on' : '') + '">' + o[1] + '</button>').join('') + '</div>';

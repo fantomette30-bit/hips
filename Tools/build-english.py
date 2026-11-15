@@ -154,6 +154,8 @@ if errors:
 data = {'themes': themes, 'entries': entries, 'skills': skills, 'language': language}
 blob = json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/').replace('\u2028', '\\u2028').replace('\u2029', '\\u2029')
 js = '\n'.join(read(SRC, f) for f in ('core.js', 'ui.js', 'views.js', 'extras.js', 'online.js', 'start.js'))
+import datetime
+js = js.replace('/*BUILD*/', datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC'), 1)
 html = read(SRC, 'index.html')
 import base64
 def font_face(style, name):
