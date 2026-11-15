@@ -73,7 +73,9 @@ const FAKE_SPEECH = () => {
     await page.click('[data-act="setVar"][data-v="uk"]'); await page.click('[data-act="welcomeDone"][data-to=""]'); await page.waitForSelector('.hero');
   });
   await point('Cinq onglets, recherche et réglages accessibles depuis chaque écran principal', async () => {
-    for (const [h, sel] of [['learn', '.tgrid'], ['library', 'details.fold'], ['practise', 'details.fold'], ['notebook', '#nbText'], ['', '.hero']]) { await page.click('#nav a[href="#/' + h + '"]'); await page.waitForSelector(sel); must(await page.locator('.tools a').count() === 2, 'outils absents sur ' + (h || 'accueil')); }
+    for (const [h, sel] of [['learn', '.tgrid'], ['library', 'details.fold'], ['practise', 'details.fold'], ['notebook', '#nbText'], ['', '.hero']]) { await page.click('#nav a[href="#/' + h + '"]'); await page.waitForSelector(sel); must(await page.locator('.tools a').count() === 2, 'outils absents sur ' + (h || 'accueil'));
+      must(await page.evaluate(() => { const a = document.querySelector('.tools a[href="#/settings"]'), r = a.getBoundingClientRect(), top = document.elementFromPoint(r.left + r.width / 2, r.top + r.height / 2); return r.width >= 40 && r.right <= innerWidth && r.top >= 0 && a.contains(top); }), 'bouton des réglages masqué ou hors écran sur ' + (h || 'accueil')); }
+    await page.click('a.tosettings'); await page.waitForSelector('#sound'); await page.click('.head a.ib'); await page.waitForSelector('.hero'); await shot('00-accueil');
     await page.click('.tools a[href="#/settings"]'); await page.waitForSelector('#sound'); await page.click('.head a.ib'); await page.waitForSelector('.hero');
   });
 
@@ -244,7 +246,7 @@ const FAKE_SPEECH = () => {
   });
   await point('Test de positionnement', async () => { await go('placement'); await page.click('[data-act="placementStart"]'); await answerAll(true); must(await page.evaluate(() => S.placement && S.placement.est === 'C1'), 'résultat'); await quit(); });
   await point('Version affichée, vérification des mises à jour, bandeau de nouvelle version', async () => {
-    await go('settings'); const about = await page.locator('.card.set').last().innerText(); must(/Parlance 0\.4\.2/.test(about) && /Build 20\d\d-\d\d-\d\d \d\d:\d\d UTC/.test(about), 'version ou date de construction absente : ' + about.slice(0, 80));
+    await go('settings'); const about = await page.locator('.card.set').last().innerText(); must(/Parlance 0\.4\.3/.test(about) && /Build 20\d\d-\d\d-\d\d \d\d:\d\d UTC/.test(about), 'version ou date de construction absente : ' + about.slice(0, 80));
     await page.click('[data-act="checkUpdate"]'); await page.waitForFunction(() => /latest version|installed app|downloading/.test(document.querySelector('#toast').textContent), null, { timeout: 8000 });
     await page.evaluate(() => window.dispatchEvent(new Event('parlance-update'))); must(await page.locator('#update [data-act="reload"]').count() === 1, 'bandeau absent');
     const centred = sel => page.evaluate(q => { const r = document.querySelector(q).getBoundingClientRect(); return r.width > 0 && r.left >= 8 && r.right <= innerWidth - 8 && Math.abs((r.left + r.right) / 2 - innerWidth / 2) < 2; }, sel);

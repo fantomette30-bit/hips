@@ -70,6 +70,7 @@ VIEWS.home = () => {
     section('Your skills', '<div class="card skills">' + Object.keys(SKILL_LABEL).map(k => '<a href="#/' + SKILL_LINK[k] + '"><span>' + SKILL_LABEL[k] + '</span>' + bar(sp[k]) + '<em>' + sp[k] + '%</em></a>').join('') + '</div>') +
     (p ? section('Placement', '<div class="card"><p><b>Estimated level: ' + esc(p.est) + '</b> · ' + new Date(p.t).toLocaleDateString('en-GB') + '</p><p class="sub">Priorities: ' + p.weak.map(k => '<a href="#/' + SKILL_LINK[k] + '">' + SKILL_LABEL[k] + '</a>').join(', ') + '</p></div>') : '') +
     (errs.length ? section('Where you slip most', '<div class="card errs">' + errs.map(e => '<div><span>' + esc(e[0]) + '</span>' + bar(pct(e[1], errs[0][1]), 'thin') + '<em>' + e[1] + '</em></div>').join('') + '</div>') : '') +
+    card('settings', '<span class="eyebrow">Settings</span><b>Sound, voices, appearance</b><small>Updates, your progress, online correction.</small>', 'tosettings') +
     '<p class="foot">' + icon('cloud') + ' <span id="net"></span></p>';
 };
 function netLabel() { const el = $('#net'); if (el) el.textContent = navigator.onLine ? 'Online — everything is also stored on this device.' : 'Offline — everything works from this device.'; }

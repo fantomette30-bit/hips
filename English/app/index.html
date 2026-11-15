@@ -61,7 +61,7 @@ button,input,textarea,select{font:inherit;color:inherit} button{cursor:pointer}
 #nav a.on{color:var(--brand);background:color-mix(in srgb,var(--sand) 30%,transparent)} #nav a.on .i{stroke-width:2}
 #nav .brand,#nav a.side{display:none}
 body.immersive #nav{display:none} body.immersive #main{padding-bottom:calc(env(safe-area-inset-bottom) + 28px)}
-.tools{display:flex;gap:2px;margin-left:auto;flex:none} .tools .ib{color:var(--muted)}
+.tools{display:flex;gap:8px;margin-left:auto;flex:none} .tools .ib{width:42px;height:42px;color:var(--title);background:var(--surface);box-shadow:var(--shadow)} .tools .ib svg{width:20px;height:20px}
 @media (min-width:900px){
   #app{display:grid;grid-template-columns:248px 1fr}
   #nav{position:sticky;top:0;left:auto;right:auto;bottom:auto;max-width:none;margin:0;height:100dvh;flex-direction:column;gap:3px;padding:30px 16px 22px;border-radius:0;box-shadow:none;border-right:1px solid var(--line);background:color-mix(in srgb,var(--surface) 55%,transparent)}
@@ -269,8 +269,8 @@ del{color:var(--bad);text-decoration-thickness:1px}
 <script>
 'use strict';
 /* Parlance — Legal & HR English. Core: state, storage, speech, recording, spaced repetition. */
-const APP_VERSION = '0.4.2';
-const APP_BUILD = '2026-11-15 14:25 UTC';
+const APP_VERSION = '0.4.3';
+const APP_BUILD = '2026-11-15 14:36 UTC';
 const DATA = window.PARLANCE_DATA;
 const STORE_KEY = 'parlance.v1';
 
@@ -482,7 +482,7 @@ const IC = {
   library: '<path d="M5 4h4v16H5zM10.5 4h4v16h-4z"/><path d="m16 6 3.5-1 3 13.5-3.5 1z" transform="translate(-1.5 0)"/>',
   practise: '<path d="M4 20l1-4L16.5 4.5l3 3L8 19z"/><path d="M14 7l3 3"/>',
   notebook: '<path d="M7 3.5h11v17H7z"/><path d="M4.5 7.5h4M4.5 12h4M4.5 16.5h4M11 8.5h4M11 12h4"/>',
-  gear: '<circle cx="12" cy="12" r="3"/><path d="M12 3v2.5M12 18.5V21M3 12h2.5M18.5 12H21M5.6 5.6l1.8 1.8M16.6 16.6l1.8 1.8M5.6 18.4l1.8-1.8M16.6 7.4l1.8-1.8"/>',
+  gear: '<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>',
   play: '<path d="M4 9.5v5h3.5l4.5 4v-13l-4.5 4z"/><path d="M15.5 9a4.5 4.5 0 0 1 0 6M18 6.5a8 8 0 0 1 0 11"/>',
   slow: '<path d="M4 9.5v5h3.5l4.5 4v-13l-4.5 4z"/><path d="M15.5 12h5"/>',
   mic: '<rect x="9" y="3.5" width="6" height="10.5" rx="3"/><path d="M5.5 11.5a6.5 6.5 0 0 0 13 0M12 18v3"/>',
@@ -937,6 +937,7 @@ VIEWS.home = () => {
     section('Your skills', '<div class="card skills">' + Object.keys(SKILL_LABEL).map(k => '<a href="#/' + SKILL_LINK[k] + '"><span>' + SKILL_LABEL[k] + '</span>' + bar(sp[k]) + '<em>' + sp[k] + '%</em></a>').join('') + '</div>') +
     (p ? section('Placement', '<div class="card"><p><b>Estimated level: ' + esc(p.est) + '</b> · ' + new Date(p.t).toLocaleDateString('en-GB') + '</p><p class="sub">Priorities: ' + p.weak.map(k => '<a href="#/' + SKILL_LINK[k] + '">' + SKILL_LABEL[k] + '</a>').join(', ') + '</p></div>') : '') +
     (errs.length ? section('Where you slip most', '<div class="card errs">' + errs.map(e => '<div><span>' + esc(e[0]) + '</span>' + bar(pct(e[1], errs[0][1]), 'thin') + '<em>' + e[1] + '</em></div>').join('') + '</div>') : '') +
+    card('settings', '<span class="eyebrow">Settings</span><b>Sound, voices, appearance</b><small>Updates, your progress, online correction.</small>', 'tosettings') +
     '<p class="foot">' + icon('cloud') + ' <span id="net"></span></p>';
 };
 function netLabel() { const el = $('#net'); if (el) el.textContent = navigator.onLine ? 'Online — everything is also stored on this device.' : 'Offline — everything works from this device.'; }
