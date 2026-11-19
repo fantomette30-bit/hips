@@ -7,8 +7,20 @@ geste, palette bleu poudré, modes clair et sombre.
 
 ## Où en est-on
 
-**Version 0.4.4** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
-correction en ligne, habillage refondu.
+**Version 0.4.5** : dix-huit thèmes, 1 800 expressions, 24 leçons de grammaire,
+correction en ligne, habillage refondu, mise en page iPad.
+
+Apports de la version 0.4.5 :
+
+- **iPad** : le volet latéral apparaît dès 820 px de large, donc aussi en
+  portrait (l'iPad Pro 11 pouces fait 834 points) ; entre 820 et 1023 px il est
+  resserré à 200 px pour rendre la largeur au texte, qui passe de 498 à 574 px.
+  Les feuilles se centrent à partir de la même largeur. Une fenêtre étroite
+  (Split View, Stage Manager) retrouve la barre du bas.
+- **Contrôle du son** : la marche à suivre ne renvoie plus au seul bouton
+  Silence de l'iPhone, que l'iPad n'a pas.
+- Contrôles : `Tools/EnglishCheck/tablette.test.js` vérifie le volet latéral,
+  le demi-écran et le clavier matériel aux dimensions de l'iPad Pro 11 pouces.
 
 Correctifs des versions 0.4.1 à 0.4.4 :
 

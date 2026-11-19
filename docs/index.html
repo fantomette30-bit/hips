@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -29,6 +29,7 @@
   --cell-sel:#AFC9EC; --cell-peer:#E7EEF8; --cell-same:#CDDDF3;
   --shadow:0 10px 30px rgba(15,22,32,.09);
   --radius:18px;
+  --board-cap:460px;
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
@@ -219,7 +220,7 @@ color:var(--ink-2); padding:0 2px;
 
 .board-wrap{display:flex; justify-content:center; align-items:flex-start; flex:0 0 auto; min-height:0}
 .board{
-  width:min(100%, calc(100dvh - 336px), 460px);
+  width:min(100%, calc(100dvh - 336px), var(--board-cap));
   aspect-ratio:1; display:grid; grid-template-columns:repeat(9,1fr);
   /* hauteurs imposées : sans cela une ligne sans chiffre ni note se
      tassait, et la grille paraissait déformée jusqu'à la saisie suivante */
@@ -353,6 +354,54 @@ to{transform:translate(-50%,-50%) scale(1); opacity:.6}
 .pad.notes-on .key.locked{background:var(--accent); border-color:var(--accent)}
 .pad.notes-on .key.locked b, .pad.notes-on .key.locked span{color:var(--accent-ink)}
 .cell.noted:not(.sel){box-shadow:inset 0 0 0 2px color-mix(in srgb, var(--accent) 40%, transparent)}
+
+/* ---------- Tablette : iPad (et fenêtre large sur Mac) ---------- */
+/* L'iPad Pro 11 pouces offre 834 points de large en portrait et 1210 en
+   paysage. Le plateau plafonné à 460 px y était perdu au milieu de l'écran,
+   et la disposition côte à côte n'existait que pour l'iPhone couché (moins
+   de 520 px de haut) : l'iPad couché retombait donc sur la pile verticale.
+   On agrandit plateau, pavé et outils dès 700 px de large, et on passe à
+   deux colonnes dès que l'écran couché est assez grand. */
+/* la hauteur minimale écarte l'iPhone couché (844 x 390), qui garde sa
+   propre disposition compacte définie plus haut */
+@media (min-width:700px) and (min-height:560px){
+  :root{--board-cap:600px}
+  #app{max-width:760px}
+  .key{min-height:84px; border-radius:14px}
+  .key b{font-size:26px}
+  .key span{font-size:14.5px; line-height:15px}
+  .tool{padding:12px 6px 10px; font-size:12px; border-radius:16px}
+  .tool svg{width:22px; height:22px}
+}
+@media (orientation:landscape) and (min-width:820px) and (min-height:560px){
+  #app{max-width:1180px}
+  .playfield{
+    display:grid; align-content:center; justify-content:center;
+    column-gap:30px; row-gap:16px;
+    grid-template-columns:auto minmax(300px,420px);
+    grid-template-areas:"plateau outils" "plateau clavier";
+  }
+  .board-wrap{grid-area:plateau}
+  .tools{grid-area:outils}
+  /* pavé en trois colonnes : neuf touches alignées devenaient trop fines
+     dans la colonne de droite */
+  .pad{grid-area:clavier; grid-template-columns:repeat(3,1fr); gap:10px;
+       grid-auto-rows:minmax(92px,112px); align-content:center}
+  .key{min-height:92px}
+  /* pas de « 100% » ici : dans une colonne de grille « auto », la largeur
+     du conteneur dépend de celle du plateau — le calcul se mordait la queue
+     et la grille tombait à quelques pixels */
+  .board{width:min(calc(100dvh - 150px), 640px)}
+}
+/* Souris, trackpad ou Apple Pencil : le survol devient visible. Le tactile
+   seul n'en avait pas besoin ; avec un Magic Keyboard, son absence donnait
+   une interface inerte. */
+@media (hover:hover) and (pointer:fine){
+  .key:hover, .tool:not([disabled]):hover, .btn:hover{
+    border-color:color-mix(in srgb, var(--accent) 45%, var(--line));
+  }
+  .cell:not(.sel):hover{box-shadow:inset 0 0 0 2px color-mix(in srgb, var(--accent) 22%, transparent)}
+}
 
 /* ---------- Feuilles et surcouches ---------- */
 .sheet{
@@ -1377,7 +1426,7 @@ if (typeof module !== 'undefined') {
   need('meta[name="viewport"]', () => {
     const m = document.createElement('meta');
     m.name = 'viewport';
-    m.content = 'width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1';
+    m.content = 'width=device-width, initial-scale=1, viewport-fit=cover';
     return m;
   });
   need('meta[name="apple-mobile-web-app-capable"]', () => {
@@ -1408,7 +1457,7 @@ const LS = {
 /* Numéro de version : à incrémenter à chaque mise à jour publiée. Il
    s'affiche dans Réglages -> Version, pour vérifier qu'une mise à jour est
    bien arrivée sur l'appareil. */
-const APP_VERSION = '1.10.0';
+const APP_VERSION = '1.11.0';
 
 const systemDark = window.matchMedia('(prefers-color-scheme: dark)');
 const DEFAULTS = { theme: 'auto', peers: true, same: true, mistakes: true, counts: true, autoNotes: true, timer: true,
@@ -2430,10 +2479,30 @@ document.querySelectorAll('#segTheme button').forEach(b => b.addEventListener('c
   applyTheme();
   renderSettings();
 }));
+/* Clavier matériel (iPad avec Magic Keyboard ou Smart Keyboard, Mac) :
+   les flèches déplacent la case choisie, Échap la relâche. Sans cela, le
+   clavier ne servait qu'à écrire dans une case déjà choisie au doigt. */
+const ARROW_STEP = { arrowup:[-1,0], arrowdown:[1,0], arrowleft:[0,-1], arrowright:[0,1] };
+function moveSel(dr, dc) {
+  if (!G || G.paused || G.complete) return;
+  let r = 4, c = 4;                       // première flèche : on part du centre
+  if (G.sel !== null) {
+    r = Math.min(8, Math.max(0, INROW[G.sel] + dr));
+    c = Math.min(8, Math.max(0, INCOL[G.sel] + dc));
+  }
+  G.sel = r * 9 + c;
+  clearHint();
+  renderGame();
+}
 document.addEventListener('keydown', e => {
   if (!G || !$('#game').classList.contains('on')) return;
+  if (e.metaKey || e.ctrlKey || e.altKey) return;
+  // une feuille ouverte par-dessus la partie garde le clavier pour elle
+  if (document.querySelector('.sheet.on')) return;
   const k = e.key.toLowerCase();
-  if (e.key >= '1' && e.key <= '9') inputDigit(+e.key);
+  if (ARROW_STEP[k]) { e.preventDefault(); moveSel(ARROW_STEP[k][0], ARROW_STEP[k][1]); }
+  else if (e.key === 'Escape') { if (G.sel !== null) { G.sel = null; renderGame(); } }
+  else if (e.key >= '1' && e.key <= '9') inputDigit(+e.key);
   else if (e.key === 'Backspace' || e.key === 'Delete') erase();
   else if (k === 'n') { G.noteMode = !G.noteMode; noteLock = 0; renderGame(); }
   else if (k === 'h') useHint();

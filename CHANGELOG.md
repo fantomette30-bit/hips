@@ -5,6 +5,30 @@ Les mises à jour se téléchargent toutes seules : ouvrez le jeu avec du résea
 l'accueil annonce la nouvelle version quelques secondes plus tard et l'installe
 d'un appui (sinon, elle s'applique au lancement suivant).
 
+## 1.11.0 — 19 novembre 2026
+- **Le jeu prend toute la place de l'iPad.** Jusqu'ici la grille restait
+  plafonnée à 460 px et l'écran était bridé à 560 px de large, hérités de
+  l'iPhone : sur un iPad Pro 11 pouces, le plateau flottait au milieu du vide.
+  Au-delà de 700 px de large et 560 px de haut, la grille monte à 600 px, le
+  pavé et les outils grandissent en proportion.
+- **Disposition côte à côte en paysage.** La mise en page en deux colonnes
+  n'existait que pour l'iPhone couché (moins de 520 px de haut) ; l'iPad
+  couché retombait donc sur la pile verticale, avec une grille réduite. Il a
+  désormais sa propre disposition : plateau de 640 px à gauche, outils et pavé
+  en trois colonnes à droite.
+- **Clavier matériel.** Avec un Magic Keyboard ou un Smart Keyboard, les
+  flèches déplacent la case choisie (la première part du centre) et Échap la
+  relâche. Les raccourcis existants (1 à 9, retour arrière, N, H, Z) ne se
+  déclenchent plus lorsqu'une feuille est ouverte par-dessus la partie, ni
+  quand une touche de commande est maintenue.
+- **Souris, trackpad et Apple Pencil** : le survol se voit enfin — contour
+  accentué sur les touches et les outils, cerclage léger sur la case visée.
+- **Zoom à deux doigts rétabli** : `maximum-scale=1` interdisait d'agrandir la
+  page, ce qui gênait surtout les vues de près.
+- Contrôles : une suite de plus (`webtablette.test.js`) vérifie le portrait, le
+  paysage, le demi-écran (Split View, Stage Manager), le clavier et le
+  trackpad aux dimensions exactes de l'iPad Pro 11 pouces.
+
 ## 1.10.0 — 24 septembre 2026
 - **L'écran reste allumé pendant la partie** : l'iPhone ne se met plus en
   veille au milieu d'une longue réflexion (app installée, iOS 18.4 ou plus

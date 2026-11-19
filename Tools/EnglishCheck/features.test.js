@@ -275,7 +275,7 @@ const FAKE_SPEECH = () => {
   });
   await point('Test de positionnement', async () => { await go('placement'); await page.click('[data-act="placementStart"]'); await answerAll(true); must(await page.evaluate(() => S.placement && S.placement.est === 'C1'), 'résultat'); await quit(); });
   await point('Version affichée, vérification des mises à jour, bandeau de nouvelle version', async () => {
-    await go('settings'); const about = await page.locator('.card.set').last().innerText(); must(/Parlance 0\.4\.4/.test(about) && /Build 20\d\d-\d\d-\d\d \d\d:\d\d UTC/.test(about), 'version ou date de construction absente : ' + about.slice(0, 80));
+    await go('settings'); const about = await page.locator('.card.set').last().innerText(); must(/Parlance 0\.4\.5/.test(about) && /Build 20\d\d-\d\d-\d\d \d\d:\d\d UTC/.test(about), 'version ou date de construction absente : ' + about.slice(0, 80));
     await page.click('[data-act="checkUpdate"]'); await page.waitForFunction(() => /latest version|installed app|downloading/.test(document.querySelector('#toast').textContent), null, { timeout: 8000 });
     await page.evaluate(() => window.dispatchEvent(new Event('parlance-update'))); must(await page.locator('#update [data-act="reload"]').count() === 1, 'bandeau absent');
     const centred = sel => page.evaluate(q => { const r = document.querySelector(q).getBoundingClientRect(); return r.width > 0 && r.left >= 8 && r.right <= innerWidth - 8 && Math.abs((r.left + r.right) / 2 - innerWidth / 2) < 2; }, sel);
