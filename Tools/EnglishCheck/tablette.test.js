@@ -1,5 +1,6 @@
-/* Parlance sur iPad : volet latéral en portrait comme en paysage, demi-écran,
-   clavier matériel.
+/* Parlance sur iPhone et sur iPad : le téléphone garde sa barre d'onglets et
+   sa colonne unique ; l'iPad reçoit le volet latéral en portrait comme en
+   paysage, le demi-écran revient au téléphone, le clavier matériel répond.
        node Tools/EnglishCheck/tablette.test.js
    Géométrie de l'iPad Pro 11 pouces (M4 / M5) : 834 x 1210 points, 2x.      */
 const { chromium } = require('playwright');
@@ -94,10 +95,27 @@ const check = (c, m) => { if (!c) { fails++; console.log('  ECHEC :', m); } };
     check(m.colonnes === 1, 'volet latéral maintenu dans une fenêtre étroite');
     check(m.débordeX === 0, 'défilement horizontal en demi-écran');
     await page.context().close();
+
+    /* ---------- iPhone : rien ne change ---------- */
+    for (const [nom, vp] of [
+      ['iPhone SE   ', { width: 375, height: 667 }],
+      ['iPhone 13   ', { width: 390, height: 844 }],
+      ['grand iPhone', { width: 440, height: 956 }],
+    ]) {
+      page = await ouvrir(vp);
+      m = await mesures(page);
+      console.log('  ' + nom + ':', JSON.stringify(m));
+      check(m.nav === 'fixed', nom.trim() + ' : la barre d’onglets n’est plus flottante');
+      check(m.colonnes === 1, nom.trim() + ' : le volet latéral s’est appliqué au téléphone');
+      check(!m.enseigne && !m.côté, nom.trim() + ' : éléments du volet latéral visibles sur téléphone');
+      check(m.page >= 300 && m.page <= vp.width, nom.trim() + ' : contenu de ' + m.page + ' px');
+      check(m.débordeX === 0, nom.trim() + ' : défilement horizontal');
+      await page.context().close();
+    }
   } finally {
     await browser.close();
     server.kill();
   }
-  console.log(fails ? '\n' + fails + ' PROBLEME(S)' : '\nIPAD : volet latéral, demi-écran et clavier corrects');
+  console.log(fails ? '\n' + fails + ' PROBLEME(S)' : '\nIPHONE ET IPAD : colonne unique, volet latéral, demi-écran et clavier corrects');
   process.exit(fails ? 1 : 0);
 })().catch(e => { console.error(e); process.exit(1); });

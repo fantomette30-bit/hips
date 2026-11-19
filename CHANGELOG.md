@@ -25,9 +25,12 @@ d'un appui (sinon, elle s'applique au lancement suivant).
   accentué sur les touches et les outils, cerclage léger sur la case visée.
 - **Zoom à deux doigts rétabli** : `maximum-scale=1` interdisait d'agrandir la
   page, ce qui gênait surtout les vues de près.
-- Contrôles : une suite de plus (`webtablette.test.js`) vérifie le portrait, le
-  paysage, le demi-écran (Split View, Stage Manager), le clavier et le
-  trackpad aux dimensions exactes de l'iPad Pro 11 pouces.
+- Contrôles : une suite de plus (`webtablette.test.js`) vérifie les deux
+  appareils. Sur iPhone (SE, 13, grand modèle, et couché) elle contrôle que
+  rien n'a bougé : grille sous 460 px, pavé sur neuf colonnes, disposition
+  compacte en paysage, aucun débordement. Sur iPad Pro 11 pouces, le portrait,
+  le paysage, le demi-écran (Split View, Stage Manager), le clavier et le
+  trackpad.
 
 ## 1.10.0 — 24 septembre 2026
 - **L'écran reste allumé pendant la partie** : l'iPhone ne se met plus en

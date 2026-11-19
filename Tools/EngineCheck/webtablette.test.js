@@ -1,4 +1,7 @@
-/* iPad : portrait, paysage, fenêtre réduite (Split View / Stage Manager),
+/* Une seule application pour les deux appareils.
+   iPhone : la grille, le pavé et la disposition compacte ne doivent pas
+   bouger — les règles tablette ne s'appliquent pas en dessous de 700 x 560.
+   iPad : portrait, paysage, fenêtre réduite (Split View / Stage Manager),
    clavier matériel et trackpad.
        node Tools/EngineCheck/webtablette.test.js
    Géométrie de l'iPad Pro 11 pouces (M4 / M5) : 834 x 1210 points, 2x.      */
@@ -118,7 +121,37 @@ const partie = async page => {
   console.log('  trackpad         : survol ' + m.survol + ', clic pris en compte ' + (avant !== après));
   await page.context().close();
 
+  /* ---------- iPhone : la mise en page du téléphone est intacte ---------- */
+  const TELEPHONES = [
+    ['iPhone SE          ', { width: 375, height: 667 }],
+    ['iPhone 13          ', { width: 390, height: 844 }],
+    ['grand iPhone       ', { width: 440, height: 956 }],
+  ];
+  for (const [nom, vp] of TELEPHONES) {
+    page = await ouvrir(browser, vp);
+    await partie(page);
+    m = await mesures(page);
+    console.log('  ' + nom + ':', JSON.stringify(m));
+    check(m.plateau > 300 && m.plateau <= vp.width, nom.trim() + ' : plateau hors cadre (' + m.plateau + ' px)');
+    check(m.plateau <= 460, nom.trim() + ' : la grille a grandi sur téléphone (' + m.plateau + ' px) — les règles tablette ne doivent pas s’y appliquer');
+    check(m.pavéColonnes === 9, nom.trim() + ' : pavé en ' + m.pavéColonnes + ' colonnes au lieu de neuf');
+    check(m.touche >= 44, nom.trim() + ' : touches de ' + m.touche + ' px, sous le minimum tactile');
+    check(m.débordeX === 0 && m.débordeY === 0, nom.trim() + ' : la partie déborde de l’écran');
+    await page.context().close();
+  }
+
+  /* ---------- iPhone couché : la disposition compacte d'origine ---------- */
+  page = await ouvrir(browser, { width: 844, height: 390 });
+  await partie(page);
+  m = await mesures(page);
+  console.log('  iPhone 13 couché    :', JSON.stringify(m));
+  check(m.pavéColonnes === 9, 'iPhone couché : le pavé tablette s’est appliqué (' + m.pavéColonnes + ' colonnes)');
+  check(m.plateau <= 460 && m.plateau > 180, 'iPhone couché : plateau de ' + m.plateau + ' px');
+  check(m.pavéGauche >= m.plateauDroite, 'iPhone couché : la disposition côte à côte a disparu');
+  check(m.débordeX === 0 && m.débordeY === 0, 'iPhone couché : la partie déborde de l’écran');
+  await page.context().close();
+
   await browser.close();
-  console.log(fails ? '\n' + fails + ' PROBLEME(S)' : '\nIPAD : portrait, paysage, demi-écran, clavier et trackpad corrects');
+  console.log(fails ? '\n' + fails + ' PROBLEME(S)' : '\nIPHONE ET IPAD : portrait, paysage, demi-écran, clavier et trackpad corrects');
   process.exit(fails ? 1 : 0);
 })().catch(e => { console.error(e); process.exit(1); });

@@ -19,8 +19,9 @@ Apports de la version 0.4.5 :
   (Split View, Stage Manager) retrouve la barre du bas.
 - **Contrôle du son** : la marche à suivre ne renvoie plus au seul bouton
   Silence de l'iPhone, que l'iPad n'a pas.
-- Contrôles : `Tools/EnglishCheck/tablette.test.js` vérifie le volet latéral,
-  le demi-écran et le clavier matériel aux dimensions de l'iPad Pro 11 pouces.
+- Contrôles : `Tools/EnglishCheck/tablette.test.js` vérifie les deux appareils
+  — barre d'onglets et colonne unique sur iPhone (SE, 13, grand modèle), volet
+  latéral, demi-écran et clavier matériel sur iPad Pro 11 pouces.
 
 Correctifs des versions 0.4.1 à 0.4.4 :
 
